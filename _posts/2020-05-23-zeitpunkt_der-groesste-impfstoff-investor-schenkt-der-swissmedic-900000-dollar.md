@@ -6,6 +6,5 @@ subtitle:      "Der grösste Impfstoff-Investor schenkt der Swissmedic 900’000
 timeline:      true
 country:       CH
 categories:    Medien
-tags:          [zeitpunkt, pfluger, gates, impfung]
+tags:          [zeitpunkt, gates, impfung]
 ---
-![Screenshot](https://api.microlink.io?url={{ page.redirect }}&screenshot=true&meta=false&embed=screenshot.url)

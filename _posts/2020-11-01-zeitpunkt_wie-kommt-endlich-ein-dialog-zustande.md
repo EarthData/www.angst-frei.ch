@@ -4,5 +4,5 @@ redirect:      https://www.zeitpunkt.ch/wie-kommt-endlich-ein-dialog-zustande
 title:         ZE!TPUNKT
 subtitle:      "Wie kommt endlich ein Dialog zustande?"
 categories:    Medien
-tags:          [zeitpunkt, pfluger, dialog]
+tags:          [zeitpunkt, dialog]
 ---

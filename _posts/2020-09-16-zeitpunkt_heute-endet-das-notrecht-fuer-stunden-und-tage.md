@@ -4,5 +4,5 @@ redirect:      https://www.zeitpunkt.ch/index.php/heute-endet-das-notrecht-fuer-
 title:         ZE!TPUNKT
 subtitle:      "Heute endet das Notrecht – für Stunden und Tage"
 categories:    Medien
-tags:          [zeitpunkt, pfluger, notrecht]
+tags:          [zeitpunkt, notrecht]
 ---
