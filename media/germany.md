@@ -175,6 +175,17 @@ Markus Gärtner
 
 | {{ site.icons.youtube }}  | [PI Politik Spezial - Stimme der Vernunft](https://www.youtube.com/channel/UCi5RJM_p1NajcGdBQfjyU4A) |
 
+## ![Protest Media-Logo](/assets/img/logos/protestmedia.png){:class="logo"} Protest Media
+
+Protest Media
+
+| {{ site.icons.globe }}    | [www.protest.media](https://www.protest.media/) |
+| {{ site.icons.youtube }}  | [Protest Media](https://www.youtube.com/c/ProtestMedia) |
+| {{ site.icons.dlive }}    | [ProtestMedia](https://dlive.tv/protestmedia) |
+| {{ site.icons.movie }}    | [bitchute: Protest Media](https://www.bitchute.com/protestmedia/) |
+| {{ site.icons.felegram }} | [Protest Media](https://t.me/protestmedia) |
+| {{ site.icons.facebook }} | [Protest Media](https://www.facebook.com/ProtestMediaLive/) |
+
 ## ![RT Deutsch-Logo](/assets/img/logos/rt_deutsch.png){:class="logo"} RT Deutsch
 
 RT International gehört zu den renommiertesten Medien-Gruppen mit globaler Ausrichtung und sendet in englischer, spanischer, arabischer, deutscher, französischer und russischer Sprache.
