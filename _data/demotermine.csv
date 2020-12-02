@@ -1,22 +1,4 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream
-DE,2020-12-02,00:00:18,69168,Wiesloch,Adenauerplatz,Spaziergang,
-DE,2020-12-02,10:00:00,10117,Berlin,ZDF Hauptstadtstudio,Kundgebung,https://demo.stream/live
-DE,2020-12-02,11:00:00,10117,Berlin,Funke Zentralredaktion,Kundgebung,https://demo.stream/live
-DE,2020-12-02,12:00:00,10117,Berlin,Berliner Verlag,Kundgebung,https://demo.stream/live
-DE,2020-12-02,13:00:00,10117,Berlin,Axel-Springer Haus,Kundgebung,https://demo.stream/live
-DE,2020-12-02,14:00:00,10117,Berlin,TAZ Redaktion,Kundgebung,https://demo.stream/live
-DE,2020-12-02,15:00:00,10117,Berlin,Tagesspiegel,Kundgebung,https://demo.stream/live
-DE,2020-12-02,16:00:00,10117,Berlin,Focus Magazin Verlag,Kundgebung,https://demo.stream/live
-DE,2020-12-02,17:00:00,75172,Pforzheim,Kiehnlestr. 25,Demonstration,
-DE,2020-12-02,17:00:00,26122,Oldenburg,Bahnhofsplatz,Demonstration,
-DE,2020-12-02,17:00:00,29223,Celle,Stadtkirche,Spaziergang,
-DE,2020-12-02,17:00:00,10117,Berlin,ARD Hauptstadtstudio,Kundgebung,https://demo.stream/live
-DE,2020-12-02,17:15:00,70173,Stuttgart,Karlsplatz,Kundgebung,
-DE,2020-12-02,18:00:00,69168,Wiesloch,Adenauerplatz,Spaziergang,
-DE,2020-12-02,18:00:00,10117,Berlin,Spiegel Verlag,Kundgebung,https://demo.stream/live
-DE,2020-12-02,18:00:00,10117,Berlin,Bundeskanzleramt,Kundgebung,https://demo.stream/mariagoetz
-DE,2020-12-02,19:00:00,88239,Wangen,Marktplatz,Spaziergang,
-DE,2020-12-02,19:00:00,88239,Wangen,Marktplatz,Spaziergang,
 DE,2020-12-03,15:30:00,76131,Karlsruhe,Schlossvorplatz / Oestl. Brunnen,Meditation,
 DE,2020-12-03,16:30:00,76133,Karlsruhe,Bundesverfassungsgericht,Kundgebung,
 DE,2020-12-03,16:30:00,76131,Karlsruhe,Friedrichsplatz / Grundrechte,Demonstration,
@@ -44,7 +26,9 @@ AT,2020-12-05,14:00:00,1130,Wien,Schöngrunn Gloriette,Demonstration,
 DE,2020-12-05,14:00:00,19053,Schwerin,Berta-Klingberg-Platz,Demonstration,
 DE,2020-12-05,14:00:00,64385,Reichelsheim,B 38 Ortseingang Aldi,Kundgebung,
 DE,2020-12-05,14:00:00,23730,Neustadt Ostholstein,Fischereimuseum / Jungfernstieg,Spaziergang,
+DE,2020-12-05,14:00:00,56068,Koblenz,Jesuitenplatz,Mahnwache,
 DE,2020-12-05,14:00:00,35390,Gießen,Katharinengasse / Löwengasse,Demonstration,
+DE,2020-12-05,14:00:00,36037,Fulda,Universitätsplatz,Kundgebung,
 DE,2020-12-05,14:00:00,53111,Bonn,Kaiserplatz,Zusammenkunft,
 DE,2020-12-05,14:30:00,94469,Deggendorf,Oberer Stadtplatz,Demonstration,
 DE,2020-12-05,14:30:00,55545,Bad Kreuznach,Kornmarkt,Kundgebung,
