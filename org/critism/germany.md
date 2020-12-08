@@ -117,11 +117,11 @@ Webseite der Initiative Querdenken 711 - Wir für die Grundrechte.
 | {{ site.icons.facebook }} | [querdenken711](https://www.facebook.com/querdenken711/) |
 | {{ site.icons.globe }}    | [Querdenken-711-RM](https://qdrm.querdenken-711.de/) |
 
-## Unternehmer stehen auf
+## Wie soll es weitergehen?
 
-Wir lassen uns von verantwortungslosen Politikern nicht unsere Unternehmen, unsere Zukunft und die Zukunft unserer Kinder kaputt machen!
+Ein ehemaliger Mitarbeiter des Deutschen Bundestages mit der Funktion eines parlamentarischen Beraters berichtet über Erkenntnisse, die den Menschen in der Coronakrise gezielt vorenthalten werden.
 
-| {{ site.icons.globe }}    | [unternehmer-stehen-auf.de](https://unternehmer-stehen-auf.de) |
+| {{ site.icons.globe }}    | [wie-soll-es-weitergehen.de](https://wie-soll-es-weitergehen.de/) |
 
 ## Zeig mir Dein Lächeln!
 

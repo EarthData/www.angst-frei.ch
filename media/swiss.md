@@ -22,6 +22,7 @@ Corona Transition macht auf öffentlich zugängliche, aber von Entscheidungsträ
 
 | {{ site.icons.globe }}    | [corona-transition.org](https://corona-transition.org) |
 | {{ site.icons.telegram }} | [CoronaTransition](https://t.me/CoronaTransition) |
+| {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/tags.html#corona transition) |
 
 ## ExpressZeitung
 

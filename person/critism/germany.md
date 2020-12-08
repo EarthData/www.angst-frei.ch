@@ -33,6 +33,12 @@ Andreas Beutel
 | {{ site.icons.telegram }} | [AndreasBeutelPythagorasInstitut](https://t.me/AndreasBeutelPythagorasInstitut) |
 | {{ site.icons.facebook }} | [Pythagoras.Institut](https://www.facebook.com/Pythagoras.Institut) |
 
+## Blauman.TV
+
+Blauman.TV
+
+| {{ site.icons.youtube }}  | [BLAUMANN.TV](https://www.youtube.com/channel/UCqXyHhSk2oo1QLJ5wCzbQBw) |
+
 ## Dave Brych
 
 Dave Brych
@@ -46,11 +52,11 @@ Joe Conrad
 | {{ site.icons.globe }}    | [joconrad.de](http://joconrad.de/) |
 | {{ site.icons.movie }}    | [Beträge auf bewusst.tv](http://bewusst.tv/tag/corona/) |
 
-## Blauman.TV
+## Sebastian Friebel
 
-Blauman.TV
+Sebastian Friebel
 
-| {{ site.icons.youtube }}  | [BLAUMANN.TV](https://www.youtube.com/channel/UCqXyHhSk2oo1QLJ5wCzbQBw) |
+| {{ site.icons.forward }}  | [Wie soll es weitergehen?]({{ site.baseurl }}/org/critism/germany.html#wie-soll-es-weitergehen) |
 
 ## Norbert Häring
 
@@ -104,7 +110,7 @@ Boris Reitschuster
 
 | {{ site.icons.globe }}    | [www.reitschuster.de](https://www.reitschuster.de/) |
 | {{ site.icons.youtube }}  | [Boris Reitschuster](https://www.youtube.com/channel/UCkSEq4JuI5VxqWIrRY2-pew) |
-| {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/Tags.html#reitschuster) |
+| {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/tags.html#reitschuster) |
 
 ## Paul Schreyer
 

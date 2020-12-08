@@ -15,7 +15,7 @@ subtitle: Deutschland
 2020News ist ein evidenzbasierter Nachrichtenkanal, der eng mit www.corona-ausschuss.de und dessen internationalem Netzwerk in Wissenschaft, Medizin und Rechtswesen kooperiert.
 
 | {{ site.icons.globe }}    | [2020news.de](https://2020news.de/) |
-| {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/Tags.html#2020news) |
+| {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/tags.html#2020news) |
 
 ## ![5 Ideen-Logo](/assets/img/logos/5-ideen.jpg){:class="logo"} 5 Ideen
 
@@ -50,6 +50,7 @@ Das Portal des Anderwelt Verlags für kritischen Journalismus und Meinungsbildun
 unabhängig - überparteilich
 
 | {{ site.icons.globe }}    | [clubderklarenworte.de](https://clubderklarenworte.de/) |
+| {{ site.icons.book }}     | [clubderklarenworte.de - Dokumente](https://clubderklarenworte.de/dokumente/) |
 
 ## ![The Deframing Channel-Logo](/assets/img/logos/deframing-channel.jpg){:class="logo"} The Deframing Channel
 
@@ -133,7 +134,7 @@ Freier Journalismus für den Durchblick in einer Zeit, die geprägt ist von poli
 Multipolar - das Magazin für eine friedliche, freie und plurale Welt, herausgegeben von Stefan Korinth, Paul Schreyer und Ulrich Teusch
 
 | {{ site.icons.globe }}    | [multipolar-magazin.de](https://multipolar-magazin.de/) |
-| {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/Tags.html#multipolar) |
+| {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/tags.html#multipolar) |
 
 ## ![MDTV-Logo](/assets/img/logos/mdtv.jpg){:class="logo"} Münchner Demokratie TV 
 
@@ -148,7 +149,7 @@ Analysen zum Zeitgeschehen, Blick hinter die Kulissen, Ideen für eine bessere u
 | {{ site.icons.globe }}    | [www.nachdenkseiten.de](https://www.nachdenkseiten.de/) |
 | {{ site.icons.youtube }}  | [wwwNACHDENKSEITENde](https://www.youtube.com/user/wwwNACHDENKSEITENde) |
 | {{ site.icons.facebook }} | [NachDenkSeiten](https://www.facebook.com/NachDenkSeiten) |
-| {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/Tags.html#nachdenkseiten) |
+| {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/tags.html#nachdenkseiten) |
 
 ## ![Neverforgetniki-Logo](/assets/img/logos/neverforgetniki.jpg){:class="logo"} Neverforgetniki
 
@@ -212,7 +213,7 @@ Telepolis
 
 | {{ site.icons.globe }}    | [www.heise.de/tp](https://www.heise.de/tp/) |
 | {{ site.icons.globe }}    | [Thema: Coronavirus](https://www.heise.de/tp/thema/Coronavirus) |
-| {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/Tags.html#telepolis) |
+| {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/tags.html#telepolis) |
 
 ## ![angst-frei.ch-Logo](/assets/img/logos/sun.png){:class="logo"} Themen der Zeit
 

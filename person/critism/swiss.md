@@ -32,7 +32,7 @@ Christoph Pfluger
 
 | {{ site.icons.forward }}  | [Corona-Transition]({{ site.baseurl }}/media/swiss.html#corona-transition) |
 | {{ site.icons.forward }}  | [ZE!TPUNKT]({{ site.baseurl }}/media/swiss.html#zetpunkt) |
-| {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/Tags.html#pfluger) |
+| {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/tags.html#pfluger) |
 
 ## Milosz Matuschek 
 
