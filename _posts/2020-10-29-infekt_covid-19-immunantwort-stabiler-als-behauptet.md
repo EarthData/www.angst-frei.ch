@@ -4,5 +4,5 @@ redirect:      https://infekt.ch/2020/10/covid-19-immunantwort-stabiler-als-beha
 title:         infekt.ch
 subtitle:      "Immunantwort stabiler als bisher vermutet"
 categories:    Wissenschaft
-tags:          [vernazza, infekt, immunsystem]
+tags:          [vernazza, infekt, immunität]
 ---
