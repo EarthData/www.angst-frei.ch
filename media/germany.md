@@ -10,6 +10,13 @@ subtitle: Deutschland
 * TOC
 {:toc}
 
+## ![2020 News-Logo](/assets/img/logos/2020news.png){:class="logo"} 2020 News
+
+2020News ist ein evidenzbasierter Nachrichtenkanal, der eng mit www.corona-ausschuss.de und dessen internationalem Netzwerk in Wissenschaft, Medizin und Rechtswesen kooperiert.
+
+| {{ site.icons.globe }}    | [2020news.de](https://2020news.de/) |
+| {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/Tags.html#2020news) |
+
 ## ![5 Ideen-Logo](/assets/img/logos/5-ideen.jpg){:class="logo"} 5 Ideen
 
 Damit dir ein Licht aufgeht!
