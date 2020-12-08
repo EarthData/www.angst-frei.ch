@@ -31,6 +31,8 @@ permalink: /timeline-data/
             "url": "https://www.youtu.be/{{ post.youtubeId }}",
             {% elsif post.bitchuteId %}
             "url": "<iframe src='https://www.bitchute.com/embed/{{ post.bitchuteId }}'/>",
+            {% elsif post.vimeoId %}
+            "url": "<iframe src='https://player.vimeo.com/video/{{ post.vimeoId }}?title=0&byline=0&portrait=0'/>",
             {% elsif post.arteId %}
             "url": "<iframe src='https://www.arte.tv/player/v5/index.php?json_url=https://api.arte.tv/api/player/v2/config/de/{{ post.arteId }}&lang=de&autoplay=true&mute=0'/>",
             {% elsif post.link %}

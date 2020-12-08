@@ -15,6 +15,7 @@ Bittel TV
 | {{ site.icons.telegram }} | [Bittel TV - Einfach anders](https://t.me/bitteltv) |
 | {{ site.icons.telegram }} | [Bittel TV - Linksammlung](https://t.me/bitteltv_links) |
 | {{ site.icons.telegram }} | [Bittel TV - Austausch](https://t.me/bitteltv_austausch) |
+| {{ site.icons.movie }}    | [Media Rebell: bitteltv](https://www.mediarebell.com/@bitteltv) |
 
 ## Corona-Transition
 
