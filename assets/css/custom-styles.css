@@ -15,14 +15,22 @@ table td:first-of-type {
   font-family: 'Lora', 'Times New Roman', serif;
 }
 
-.dlive {
-  background: url('/assets/img/logos/dlive.jpg');
-  background-size: contain;
+.icon {
   height: 18px;
   width: 18px;
   display: flex;
   font-style: normal;
   margin: auto;
+}
+
+.dlive {
+  background: url('/assets/img/logos/dlive.jpg');
+  background-size: contain;
+}
+
+.bitchute {
+  background: url('/assets/img/logos/bitchute.png');
+  background-size: contain;
 }
 
 .image-table td:first-of-type {

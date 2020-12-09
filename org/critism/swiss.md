@@ -46,6 +46,12 @@ Wir gestalten ein GEMEINSAMES Vorgehen von kreativen und vor allem FRIEDvollen A
 
 | {{ site.icons.facebook }} | [FRIEDvolles Einstehen für unsere Grundrechte und Demokratie](https://www.facebook.com/groups/2589298507992281/about) |
 
+## Gemeinsam Schweiz
+
+Dachkoordination Schweiz
+
+| {{ site.icons.globe }}    | [www.gemeinsam-schweiz.ch](https://www.gemeinsam-schweiz.ch/) |
+
 ## Global-Anti-Corruption-Alliance (GlAnCoA)
 
 Global-Anti-Corruption-Alliance

@@ -25,7 +25,7 @@ Kai Brenner ist Gesundheitsberater, Krankenpfleger und Krankenhaus-Spezialist.
 Anja Heitlinger Lebensberatung
 
 | {{ site.icons.globe }}    | [anja-heitlinger.de](https://anja-heitlinger.de/) |
-| {{ site.icons.movie }}    | [bitchute: Anja-H.](https://www.bitchute.com/channel/xPW2txH5mo5A/) |
+| {{ site.icons.bitchute }} | [Anja-H.](https://www.bitchute.com/channel/xPW2txH5mo5A/) |
 
 ## Maurice Janich
 
@@ -51,7 +51,7 @@ Olav Müller-Liebenau, Arzt - Hamburg
 Dr. Bodo Schiffmann
 
 | {{ site.icons.globe }}    | [www.schwindelambulanz-sinsheim.de](https://www.schwindelambulanz-sinsheim.de/) |
-| {{ site.icons.movie }}    | [bitchute: Alles_Ausser_Mainstream](https://www.bitchute.com/channel/BFqZplJLluQB/) |
+| {{ site.icons.bitchute }} | [Alles_Ausser_Mainstream](https://www.bitchute.com/channel/BFqZplJLluQB/) |
 | {{ site.icons.dlive }}    | [Boschimo](https://dlive.tv/Boschimo) |
 | {{ site.icons.youtube }}  | [Alles Ausser Mainstream Dr. Bodo Schiffmann](https://www.youtube.com/channel/UC94WBmb8xvVUcV_b9Px0P3A) |
 | {{ site.icons.telegram }} | [alles_ausser_mainstream](https://t.me/alles_ausser_mainstream) |

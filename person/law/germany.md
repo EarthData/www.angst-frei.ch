@@ -35,7 +35,7 @@ Rechtsanwalt Dr. Reiner Fuellmich
 
 Rechtsanwalt Markus Haintz
 
-| {{ site.icons.movie }}    | [bitchute: Markus_Haintz](https://www.bitchute.com/profile/ywYWP0ZAGBQm/) |
+| {{ site.icons.bitchute }} | [Markus_Haintz](https://www.bitchute.com/profile/ywYWP0ZAGBQm/) |
 | {{ site.icons.forward }}  | [Querdenken 711]({{ site.baseurl }}/org/critism/germany.html#querdenken-711) |
 | {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/tags.html#haintz) |
 

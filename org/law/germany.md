@@ -16,7 +16,7 @@ Wir sind eine Gruppe von unabhängigen Anwälten die sich vernetzt hat, um auf d
 
 | {{ site.icons.globe }}    | [www.afa.zone](https://www.afa.zone/) |
 | {{ site.icons.youtube }}  | [Anwälte für Aufklärung](https://www.youtube.com/channel/UCBFOCCmCrkKNE8KMNXboSog) |
-| {{ site.icons.movie }}    | [bitchute: Anwälte für Aufklärung](https://www.bitchute.com/channel/LxjmUW8XGlgU/) |
+| {{ site.icons.bitchute }} | [Anwälte für Aufklärung](https://www.bitchute.com/channel/LxjmUW8XGlgU/) |
 | {{ site.icons.telegram }} | [Anwälte für Aufklärung](https://t.me/AnwaelteFuerAufklaerung) |
 
 ## Corona-Ausschuss

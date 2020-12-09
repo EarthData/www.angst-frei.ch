@@ -38,6 +38,7 @@ Freie und faire Berichterstattung aus dem Großraum Aachen, Deutschland und der 
 
 | {{ site.icons.globe }}    | [www.achgut.com](https://www.achgut.com/) |
 | {{ site.icons.facebook }} | [achgutcom](https://www.facebook.com/achgutcom/) |
+| {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/tags.html#achgut) |
 
 ## ![angst-frei.ch-Logo](/assets/img/logos/sun.png){:class="logo"} Anderwelt Verlag
 
@@ -64,7 +65,8 @@ Die BEWEGUNG ist der schnellste Weg etwas zu ändern. Es gibt nichts zu glauben,
 Elijah Tee - ET Video & Content
 
 | {{ site.icons.telegram }} | [etvideocontent](https://t.me/etvideocontent) |
-| {{ site.icons.youtube }}  | [ET Video & Content](https://www.youtube.com/channel/UCgY1gZzOWKSSdUPWCvIlZgg) |
+| {{ site.icons.dlive }}    | [etvideocontent](https://dlive.tv/etvideocontent) |
+| {{ site.icons.youtube }}  | [ET Video & Content](https://www.youtube.com/channel/UCgY1gZzOWKSSdUPWCvIlZgg) (gelöscht) |
 | {{ site.icons.youtube }}  | [Elijah Tee - ET Video & Content](https://www.youtube.com/channel/UCt9JJYHNQVsPt2srjJ9KZ6Q) |
 
 ## ![exomagazin.tv-Logo](/assets/img/logos/exomagazintv.jpg){:class="logo"} exomagazin.tv
@@ -101,7 +103,7 @@ www.journalistenwatch.com
 KenFM ist ein freies Presseportal, eine Nachrichtenplattform, die bewusst das Internet als einziges Verbreitungsmedium nutzt und damit im gesamten deutschsprachigen Raum „empfangen“ werden kann.
 
 | {{ site.icons.globe }}    | [kenfm.de](https://kenfm.de/) |
-| {{ site.icons.youtube }}  | [KenFM](https://www.youtube.com/user/wwwKenFMde) |
+| {{ site.icons.youtube }}  | [KenFM](https://www.youtube.com/user/wwwKenFMde) (gelöscht) |
 | {{ site.icons.telegram }} | [KenFM](https://t.me/KenFM) |
 
 ## ![angst-frei.ch-Logo](/assets/img/logos/sun.png){:class="logo"} KOLLATERAL
@@ -174,7 +176,7 @@ Wir schaffen Story-Welten: Erlebnis. Emotion. Erkenntnis.
 | {{ site.icons.globe }}    | [oval.media](https://oval.media/de/) |
 | {{ site.icons.globe }}    | [live.oval.media](https://live.oval.media/) |
 | {{ site.icons.youtube }}  | [OVALmedia](https://www.youtube.com/channel/UCHFutW4T9dpZqGk6e0OZL9Q) |
-| {{ site.icons.movie }}    | [bitchute: OVALmedia](https://bitchute.com/ovalmedia/) |
+| {{ site.icons.bitchute }} | [OVALmedia](https://bitchute.com/ovalmedia/) |
 | {{ site.icons.telegram }} | [OVALmedia](https://t.me/ovalMedia) |
 
 ## ![PI Politik Spezial-Logo](/assets/img/logos/pi.jpg){:class="logo"} PI Politik Spezial
@@ -190,8 +192,8 @@ Protest Media
 | {{ site.icons.globe }}    | [www.protest.media](https://www.protest.media/) |
 | {{ site.icons.youtube }}  | [Protest Media](https://www.youtube.com/c/ProtestMedia) |
 | {{ site.icons.dlive }}    | [ProtestMedia](https://dlive.tv/protestmedia) |
-| {{ site.icons.movie }}    | [bitchute: Protest Media](https://www.bitchute.com/protestmedia/) |
-| {{ site.icons.felegram }} | [Protest Media](https://t.me/protestmedia) |
+| {{ site.icons.bitchute }} | [Protest Media](https://www.bitchute.com/protestmedia/) |
+| {{ site.icons.telegram }} | [Protest Media](https://t.me/protestmedia) |
 | {{ site.icons.facebook }} | [Protest Media](https://www.facebook.com/ProtestMediaLive/) |
 
 ## ![RT Deutsch-Logo](/assets/img/logos/rt_deutsch.png){:class="logo"} RT Deutsch
@@ -206,6 +208,7 @@ RT International gehört zu den renommiertesten Medien-Gruppen mit globaler Ausr
 Rubikon ist das Magazin für die kritische Masse. Sie berichten über das, was in den Massenmedien nicht zu finden ist.
 
 | {{ site.icons.globe }}    | [www.rubikon.news](https://www.rubikon.news/) |
+| {{ site.icons.bitchute }} | [Rubikon](https://www.bitchute.com/channel/xIZBezhe75) |
 
 ## ![Telepolis-Logo](/assets/img/logos/telepolis.png){:class="logo"} Telepolis
 

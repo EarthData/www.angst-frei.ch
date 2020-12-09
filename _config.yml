@@ -103,7 +103,8 @@ icons:
   github:   '<i class="fab fa-github" title="Github" style="color: black;"></i>' 
   twitter:  '<i class="fab fa-twitter" title="Twitter" style="color: #55ACEE;"></i>' 
   pdf:      '<i class="fas fa-file-pdf" title="PDF" style="color: black;"></i>' 
-  dlive:    '<span class="dlive" title="dlive"></span>'
+  dlive:    '<span class="dlive icon" title="dlive"></span>'
+  bitchute: '<span class="bitchute icon" title="bitchute"></span>'
 
 paginate: 10 
 paginate_path: "/blog/page:num/"
