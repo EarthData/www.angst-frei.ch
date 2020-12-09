@@ -59,7 +59,9 @@ round-avatar: true
 algolia:
   search_only_api_key: 'a92c1cd242eca6e401d2cc8ab75be236'
   files_to_exclude:
-    - /event-data/event-data.son
+    - event-data.html
+    - network-data.html
+    - timeline-data.html
   application_id: '6K253N69ME'
   index_name: 'prod_angst-frei.ch'
 
