@@ -10,6 +10,14 @@ Die offiziellen Daten vom BAG.
 
 | {{ site.icons.globe }} | [Situation Schweiz](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html) |
 
+## Bundesamt für Statistik
+
+Mortalitätsmonitoring (MOMO)
+
+<div class="bfsviz-widget" data-vizid="gd-14.03.04.04-wr-3" data-lang="de"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/widget/widget-v1.2.0.js"></script>
+
+<div class="bfsviz-widget" data-vizid="gd-14.03.04.05-wr-3" data-lang="de"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/widget/widget-v1.2.0.js"></script>
+
 ## Swiss National COVID-19 Science Task Force
 
 Lagebericht

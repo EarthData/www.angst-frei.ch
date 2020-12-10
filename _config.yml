@@ -107,6 +107,7 @@ icons:
   pdf:      '<i class="fas fa-file-pdf" title="PDF" style="color: black;"></i>' 
   dlive:    '<span class="dlive icon" title="dlive"></span>'
   bitchute: '<span class="bitchute icon" title="bitchute"></span>'
+  lbry:     '<span class="lbry icon" title="lbry"></span>'
 
 paginate: 10 
 paginate_path: "/blog/page:num/"

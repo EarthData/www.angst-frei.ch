@@ -28,6 +28,11 @@ table td:first-of-type {
   background-size: contain;
 }
 
+.lbry {
+  background: url('/assets/img/logos/lbry.png');
+  background-size: contain;
+}
+
 .bitchute {
   background: url('/assets/img/logos/bitchute.png');
   background-size: contain;

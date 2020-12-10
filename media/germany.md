@@ -175,7 +175,9 @@ Wir schaffen Story-Welten: Erlebnis. Emotion. Erkenntnis.
 
 | {{ site.icons.globe }}    | [oval.media](https://oval.media/de/) |
 | {{ site.icons.globe }}    | [live.oval.media](https://live.oval.media/) |
-| {{ site.icons.youtube }}  | [OVALmedia](https://www.youtube.com/channel/UCHFutW4T9dpZqGk6e0OZL9Q) |
+| {{ site.icons.lbry }}     | [OVALmedia](https://lbry.tv/@ovalmedia:d) |
+| {{ site.icons.dlive }}    | [ovalmedia](https://dlive.tv/ovalmedia) |
+| {{ site.icons.youtube }}  | [OVALmedia](https://www.youtube.com/channel/UCHFutW4T9dpZqGk6e0OZL9Q) (gelöscht) |
 | {{ site.icons.bitchute }} | [OVALmedia](https://bitchute.com/ovalmedia/) |
 | {{ site.icons.telegram }} | [OVALmedia](https://t.me/ovalMedia) |
 

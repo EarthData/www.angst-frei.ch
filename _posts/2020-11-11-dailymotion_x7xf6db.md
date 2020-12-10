@@ -5,7 +5,7 @@ subtitle:      "Im Gespräch: Reiner Fuellmich (Corona-Untersuchungsausschuss)"
 date:          2020-11-11
 timeline:      false
 categories:    Video
-tags:          [dailymotion, kenFM, pcr-test, drosten, fuellmich]
+tags:          [dailymotion, kenfm, pcr-test, drosten, fuellmich]
 dailymotionId: "x7xf6db"
 ---
 {% include dailymotionPlayer.html id=page.dailymotionId %}

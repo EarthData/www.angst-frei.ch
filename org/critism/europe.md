@@ -10,6 +10,12 @@ Befreien wir das freie Denken aus dem Würgegriff.
 
 | {{ site.icons.globe }}    | [idw-europe.org](https://idw-europe.org/) |
 
+## CoviLeaks
+
+Time for the truth
+
+| {{ site.icons.globe }}    | [covileaks.co.uk](https://covileaks.co.uk/) |
+
 ## Deutschland Schweiz Österreich Unterstützung
 
 Infos austauschen und Hilfe anbieten! Juristisch - gegen Masken - Kinder - Schulen - Arbeiten - Atteste - Hilfe bei Reisen - Ärzte - Demos
