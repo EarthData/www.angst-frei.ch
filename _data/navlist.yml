@@ -5,6 +5,8 @@ toc:
         url: infos/swiss-vergehen-maske-kind.html
   - title: Medien
     subfolderitems:
+      - page: Bücher
+        url: media/books.html
       - page: Filme
         url: media/movie.html
       - page: Deutschland

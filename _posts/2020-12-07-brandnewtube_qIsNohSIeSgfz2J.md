@@ -1,16 +1,15 @@
 ---
 layout:     post
-title:      BrandNewTube
-subtitle:   "Ask The Experts (Covid-19 Vaccine)"
+title:      Brighteon
+subtitle:   "Doctors & Medical Professionals From All Over The World Speak Out"
 date:       2020-12-07
 categories: Video
 timeline:   true
-tags:       [brandnewtube, impfung]
-movieId:    "qIsNohSIeSgfz2J"
+tags:       [brighteon, impfung]
 ---
 
 <div class="video-container">
-  <iframe src="https://brandnewtube.com/embed/{{ page.movieId }}"
+  <iframe src="https://www.brighteon.com/embed/35721a21-0352-4334-82e7-42cb2933d8a1"
     frameborder="0"
     allowfullscreen>
   </iframe>
