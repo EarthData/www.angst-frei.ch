@@ -19,8 +19,9 @@ Corona differenziert betrachten
 
 ## Corona Rebellen Schweiz
 
-Corona Rebellen Schweiz ist die offizielle Untergruppe aus über 100'000 Corona Rebellen europaweit.
+Die Corona Rebellen setzen sich mit den Informationen zu COVID-19 und den damit begründeten Einschränkungen unserer Freiheiten und Rechte kritisch auseinander und möchten sich dabei mit Menschen vernetzen, denen es ähnlich geht.
 
+| {{ site.icons.globe }}    | [www.corona-rebellen.ch](https://www.corona-rebellen.ch/) |
 | {{ site.icons.telegram }} | [coronarebellenCH](https://t.me/coronarebellenCH) |
 | {{ site.icons.telegram }} | [Best of MSM](https://t.me/CR_MSM_dislike) |
 | {{ site.icons.telegram }} | [Rechtliches/Muster](https://t.me/CR_Juristisches) |
