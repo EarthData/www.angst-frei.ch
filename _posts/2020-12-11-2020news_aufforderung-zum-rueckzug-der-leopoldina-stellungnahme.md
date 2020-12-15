@@ -4,5 +4,5 @@ redirect:      https://2020news.de/aufforderung-zum-rueckzug-der-leopoldina-stel
 title:         2020 News
 subtitle:      "Aufforderung zum Rückzug der Leopoldina-Stellungnahme"
 categories:    Medien
-tags:          [2020news, lockdown2]
+tags:          [2020news, lockdown2, leopoldina]
 ---
