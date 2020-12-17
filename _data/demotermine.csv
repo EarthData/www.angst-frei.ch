@@ -1,4 +1,5 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream
+DE,2020-12-17,15:30:00,76131,Karlsruhe,Schloßplatz,Meditation,
 DE,2020-12-17,16:30:00,76131,Karlsruhe,Bundesverfassungsgericht,Versammlung,
 DE,2020-12-17,17:00:00,63065,Offenbach / Main,Marktplatz,Kundgebung,
 DE,2020-12-17,17:30:00,90402,Nürnberg,Lorenzer Platz,Kundgebung,
@@ -59,6 +60,7 @@ DE,2020-12-23,17:00:00,29223,Celle,Stadtkirche,Spaziergang,
 DE,2020-12-24,12:00:00,76131,Karlsruhe,Schloßplatz / Religionsfreiheit,Versammlung,
 DE,2020-12-24,12:00:00,10178,Berlin,Alexanderplatz / Weltzeituhr,Charity,https://demo.stream/anonymous
 DE,2020-12-24,16:00:00,00000,Online,Weihnachts- Ringsendung,Livestream,https://demo.stream/live
+DE,2020-12-24,16:00:00,75015,Bretten,Marktplatz - Religionsfreiheit,Versammlung,
 DE,2020-12-24,17:00:00,74080,Heilbronn,Kiliansplatz,Musik,
 DE,2020-12-25,18:00:00,90403,Nürnberg,Hauptmarkt,Mahnwache,
 DE,2020-12-26,15:00:00,10178,Berlin,Alexanderplatz,Kundgebung,
