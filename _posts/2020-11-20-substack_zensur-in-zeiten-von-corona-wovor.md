@@ -4,5 +4,5 @@ redirect:      https://miloszmatuschek.substack.com/p/zensur-in-zeiten-von-coron
 title:         substack.com
 subtitle:      "Zensur in Zeiten von Corona: wovor hat man eigentlich solche Angst?"
 categories:    Medien
-tags:          [matuschek, substack, angst]
+tags:          [matuschek, substack, angst, zensur]
 ---
