@@ -1,4 +1,5 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream
+DE,2020-12-19,11:00:00,64289,Darmstadt,Karolinenplatz,Kundgebung,
 DE,2020-12-19,12:00:00,79576,Weil am Rhein,Basler Str. 45 / Dreiländerg,Kundgebung,
 DE,2020-12-19,12:00:00,76131,Karlsruhe,Bundesverfassungsgericht,Kundgebung,
 DE,2020-12-19,13:00:00,24105,Kiel,Reventlou Wiese,Schweigemarsch,
@@ -77,6 +78,7 @@ DE,2020-12-24,12:00:00,10178,Berlin,Alexanderplatz / Weltzeituhr,Charity,https:/
 DE,2020-12-24,16:00:00,00000,Online,Weihnachts- Ringsendung,Livestream,https://demo.stream/live
 DE,2020-12-24,16:00:00,75015,Bretten,Marktplatz - Religionsfreiheit,Versammlung,
 DE,2020-12-24,17:00:00,74080,Heilbronn,Kiliansplatz,Musik,
+DE,2020-12-25,17:00:00,90419,Nürnberg,Hauptmarkt,Mahnwache,
 DE,2020-12-25,18:00:00,90403,Nürnberg,Hauptmarkt,Mahnwache,
 DE,2020-12-26,14:00:00,64385,Reichelsheim,B 38 Ortseingang Aldi,Kundgebung,
 DE,2020-12-26,15:00:00,10178,Berlin,Alexanderplatz,Kundgebung,
