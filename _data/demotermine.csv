@@ -1,6 +1,7 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream
 DE,2020-12-24,12:00:00,76131,Karlsruhe,Schloßplatz / Religionsfreiheit,Versammlung,
 DE,2020-12-24,12:00:00,10178,Berlin,Alexanderplatz / Weltzeituhr,Charity,https://demo.stream/berlinberlin
+DE,2020-12-24,14:00:00,74613,Öhringen,Herrenwiese,Versammlung,
 DE,2020-12-24,16:00:00,00000,Online,Weihnachts- Ringsendung,Livestream,https://demo.stream/live
 DE,2020-12-24,16:00:00,75015,Bretten,Marktplatz - Religionsfreiheit,Versammlung,
 DE,2020-12-24,16:30:00,02763,Zittau,Markt,Kundgebung,
@@ -24,7 +25,6 @@ DE,2020-12-28,18:00:00,49074,Osnabrück,Rathaus,Spaziergang,
 DE,2020-12-28,18:00:00,49074,Osnabrück,Rathaus,Mahnwache,
 DE,2020-12-28,18:00:00,16515,Oranienburg,Schloßplatz,Demonstration,
 DE,2020-12-28,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,
-DE,2020-12-28,18:30:00,71332,Waiblingen,Alter Postplatz,Demonstration,
 DE,2020-12-28,19:00:00,47906,Kempen,Kuhtor,Spaziergang,
 DE,2020-12-29,18:00:00,47533,Kleve,Markt / Versöhnungskirche,Spaziergang,
 DE,2020-12-31,13:00:00,20095,Hamburg,Jungfernstieg,Demonstration,
