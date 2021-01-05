@@ -34,3 +34,11 @@ Weckruf an alle Menschen auf der ganzen Welt mit pädagogischer Verantwortung.
 
 | {{ site.icons.telegram }} | [Pädagogen für Aufklärung](https://t.me/PaedagogenFuerAufklaerung) |
 
+## Wir machen auf
+
+Gewerbetreiber, Gastro, Dienstleistungen aller Art, Kosmetik, Coiffeur,.... Ab dem 11. Januar öffnen wir unsere Türen in ALLEN Kantonen.
+
+| {{ site.icons.telegram }} | [Wir machen auf - Kein Lockdown mehr - Info Kanal](https://t.me/wirmachenauf_de) |
+| {{ site.icons.telegram }} | [Wir machen auf - Ableger Ö](https://t.me/wirMachenAuf_OE) |
+| {{ site.icons.telegram }} | [Wir machen auf - Schweiz](https://t.me/wirmachenauf_ch) |
+

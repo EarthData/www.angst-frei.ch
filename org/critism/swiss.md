@@ -89,6 +89,12 @@ Gruppe, um im Kanton ZH Aktionen gegen die Maskenpflicht zu organisieren. Z.B. g
 
 | {{ site.icons.telegram }} | [maskenfrei_Zuerich](https://t.me/maskenfrei_Zuerich) |
 
+## REAKTION.ORG
+
+Unsere Landesregierung verfolgt offensichtlich eine Agenda, welche nichts mit Corona oder der Volksgesundheit zu tun hat. Viel mehr scheint sie Pläne für einen globalen wirtschaftlichen und gesellschaftlichen Umbruch hin zu einem zentralisierten und autoritären Superstaat aktiv zu unterstützen.
+
+| {{ site.icons.globe }}    | [www.reaktion.org](https://www.reaktion.org/) |
+
 ## Aktionsbündnis Urkantone
 
 Für eine vernünftige Corona-Politik
