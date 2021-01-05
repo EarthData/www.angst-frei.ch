@@ -44,18 +44,27 @@ $.get('/assets/data/lokal_schweiz.csv', function(csvString) {
 
     var row = data[i]
 
-    var description = row.name + "<br/>" + row.strasse + "<br/>" + row.postleitzahl + " " + row.ort + "<br/>" + row.tel + "<br/><br/>"
+    var description = "<strong>" + row.name + "</strong><br/>" + row.strasse + "<br/>" + row.postleitzahl + " " + row.ort + "<br/>" + row.tel + "<br/><br/>"
 
     if (row.url) {
       description += "<a href=\"" + row.url + "\">" + row.url + "</a><br/><br/>"
     }
 
+    description += "&Ouml;ffnungszeiten:<br/>"
+  
+    description += "<table>"
+    description += "<tr><td>Montag</td><td>" + row.mo + "</td></tr>"
+    description += "<tr><td>Dienstag</td><td>" + row.di + "</td></tr>"
+    description += "<tr><td>Mittwoch</td><td>" + row.mi + "</td></tr>"
+    description += "<tr><td>Donnerstag</td><td>" + row.do + "</td></tr>"
+    description += "<tr><td>Freitag</td><td>" + row.fr + "</td></tr>"
+    description += "<tr><td>Samstag</td><td>" + row.sa + "</td></tr>"
+    description += "<tr><td>Sonntag</td><td>" + row.so + "</td></tr>"
+    description += "</table><br/><br/>"
+    
     if (row.besonderes) {
-      description +=  "Besonderes: " + row.besonderes + "<br/><br/>"
+      description +=  "Besonderes: " + row.besonderes 
     }
-    
-    description += "Oeffnungszeiten:<br/>" + row.oeffnungszeiten
-    
     
     if (row['latitude'] != null) {
       var marker = L.marker([row['latitude'], row['longitude']], {icon: maskIcon}, {
