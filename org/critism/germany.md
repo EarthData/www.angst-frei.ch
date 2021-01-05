@@ -19,6 +19,14 @@ Für die Wiederherstellung der Grundrechte und einen friedlichen, ethischen Wand
 | {{ site.icons.youtube }}     | [BewegungLeipzig Querdenken-341](https://www.youtube.com/channel/UCaWsTB362ikTBD5cXyxA7Eg/) |
 | {{ site.icons.facebook }}    | [Bewegung Leipzig / Querdenken-341](https://www.facebook.com/BewegungLeipzig/) |
 
+## corona-blog.net
+
+Wir sind eine Handvoll besorgter Bürger, die sich mit aktuellen Themen auseinandersetzen und diese Informationen gerne der breiten Öffentlichkeit zur Verfügung stellen wollen.
+
+| {{ site.icons.globe }}       | [corona-blog.net](https://corona-blog.net/) |
+| {{ site.icons.telegram }}    | [Corona ist nicht das Problem](https://t.me/Corona_ist_nicht_das_Problem) |
+| {{ site.icons.facebook }}    | [Corona ist nicht das Problem](https://www.facebook.com/groups/CoronaistnichtdasProblem/) |
+
 ## Corona Doks
 
 Wenig beachtete Informationen

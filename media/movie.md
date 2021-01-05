@@ -30,6 +30,16 @@ From the creators of the most viewed and banned documentary of all time.
 
 | {{ site.icons.movie }}    | [plandemicseries.com](https://plandemicseries.com/) |
 
+### Teil 2
+
+{% include bitchutePlayer.html id="tn7RuljfZpii" %}
+
+## Planet Lockdown
+
+Having the courage to face out fears
+
+| {{ site.icons.movie }}    | [www.planetlockdownfilm.com](https://www.planetlockdownfilm.com/) |
+
 ## arte - Profiteure der Angst (2009)
 
 23.11.2009

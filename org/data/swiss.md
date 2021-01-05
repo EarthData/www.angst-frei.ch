@@ -30,6 +30,7 @@ Die Daten stammen von den Spitälern, je nach Spital sind die Datenstände unter
 
 | {{ site.icons.globe }} | [Schweizer Armee](https://www.vtg.admin.ch/de/aktuell/coronavirus/spitalkapazitaeten.html) |
 | {{ site.icons.globe }} | [icumonitoring.ch](https://icumonitoring.ch/) |
+| {{ site.icons.globe }} | [Bundesamt für Gesundheit](https://www.covid19.admin.ch/de/hosp-capacity/total?time=total) |
 
 National Trends (icumonitoring.ch)
 <a href="https://covid19-hegep-bucket.s3.eu-central-1.amazonaws.com/images/projections/national_trends.png">![National Trends](https://covid19-hegep-bucket.s3.eu-central-1.amazonaws.com/images/projections/national_trends.png)</a>
