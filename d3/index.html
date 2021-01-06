@@ -11,6 +11,9 @@ body {
 }
 </style>
 
+<script src="https://d3js.org/d3.v5.min.js"></script>
+<script src="death.js"></script>
+
 <h1>Wöchtenliche Todesfälle Schweiz</h1>
 
 <p>Quellen:<br/>
@@ -19,5 +22,7 @@ body {
 <a href="https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_CH_total_v2.csv">COVID19_Fallzahlen_CH_total_v2.csv</a>
 </p>
 
-<script src="https://d3js.org/d3.v5.min.js"></script>
-<script src="death.js"></script>
+<!-- Add 2 buttons -->
+<button onclick="graph(2019)">2019</button>
+<button onclick="graph(2020)">2020</button>
+

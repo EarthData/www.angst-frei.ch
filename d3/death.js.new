@@ -2,39 +2,58 @@
 
 const geolong = {CH: "CH", CH011: "VD", CH012: "VS", CH013: "GE", CH021: "BE", CH022: "FR", CH023: "SO", CH024: "NE", CH025: "JU", CH031: "BS", CH032: "BL", CH033: "AG", CH040: "ZH", CH051: "GL", CH052: "SH", CH053: "AR", CH054: "AI", CH055: "SG", CH056: "GR", CH057: "TG", CH061: "LU", CH062: "UR", CH063: "SZ", CH064: "OW", CH065: "NW", CH066: "ZG", CH070: "TI"};
 const geoshort = {CH: "Switzerland", VD: "Vaud", VS: "Valais", GE: "Genève", BE: "Bern", FR: "Freiburg", SO: "Solothurn", NE: "Neuchâtel", JU: "Jura", BS: "Basel-Stadt", BL: "Basel-Landschaft", AG: "Aargau", ZH: "Zürich", GL: "Glarus", SH: "Schaffhausen", AR: "Appenzell Ausserrhoden", AI: "Appenzell Innerrhoden", SG: "St. Gallen", GR: "Graubünden", TG: "Thurgau", LU: "Luzern", UR: "Uri", SZ: "Schwyz", OW: "Obwalden", NW: "Nidwalden", ZG: "Zug", TI: "Ticino"};
-const regions = ['CH', 'AG', 'BE', 'FR', 'GE', 'VD', 'VS', 'ZH']
+const regions = ['CH', 'AG', 'ZH']
 
-const ages = ['Y0T4', 'Y5T9', 'Y10T14', 'Y15T19', 'Y20T24', 'Y25T29', 'Y30T34', 'Y35T39', 'Y40T44', 'Y45T49', 'Y50T54', 'Y55T59', 'Y60T64', 'Y65T69', 'Y70T74', 'Y75T79', 'Y80T84', 'Y85T89', 'Y_GE90'].reverse();
-
-// set dimensions
-const divWidth = 1200;
-const divHeight = 800;
-const margin = {top: 20, right: 20, bottom: 30, left: 40}
-const width = divWidth - margin.left - margin.right
-const height = divHeight - margin.top - margin.bottom
-
-// set the colors
-//var colors = d3.schemeSpectral[11].reverse();
-//var colors = d3.scaleSequential().domain([1, 19]).range([0, 1])
-const colors = d3.schemeSpectral[11];
-
-// set x scale
-var x = d3.scaleBand()
-  .rangeRound([0, width - 80])
-  .paddingInner(0.05)
-  .align(0.1)
-// set y scale
-var y = d3.scaleLinear()
-  .rangeRound([height, 0]);
-// set z scale
-var z = d3.scaleOrdinal()
-  .range(colors);
+var ages = ['Y0T4', 'Y5T9', 'Y10T14', 'Y15T19', 'Y20T24', 'Y25T29', 'Y30T34', 'Y35T39', 'Y40T44', 'Y45T49', 'Y50T54', 'Y55T59', 'Y60T64', 'Y65T69', 'Y70T74', 'Y75T79', 'Y80T84', 'Y85T89', 'Y_GE90'].reverse();
 
 const parseDay           = d3.timeParse("%Y-%m-%d");
 const parseWeek          = d3.timeParse("%Y-%W");
 const year_week_formater = d3.timeFormat('%Y-%W');
 const week_formater      = d3.timeFormat('%W');
 const year_formater      = d3.timeFormat('%Y');
+
+var divWidth = 1200;
+var divHeight = 800;
+var margin = {top: 20, right: 20, bottom: 30, left: 40}
+  width = divWidth - margin.left - margin.right,
+  height = divHeight - margin.top - margin.bottom;
+
+// set the colors
+//var colors = d3.schemeSpectral[11].reverse();
+//var colors = d3.scaleSequential().domain([1, 19]).range([0, 1])
+var colors = d3.schemeSpectral[11];
+
+const init = async () => {
+
+  for (var region of regions) {
+
+    var svg = d3.select("body")
+      .append("div")
+      .attr("width", divWidth)
+      .attr("height", divHeight)
+      .attr("id", region)
+      .attr("style", "margin: 50px")
+      .append("svg")
+      .attr("width", width)
+      .attr("height", height)
+      .attr("viewBox", "0 0 " + divWidth  + " " + divHeight);
+
+    var g = svg.append("g")
+      .attr("class", region)
+      .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+    g.append("text")
+      .attr("x", 30)
+      .attr("y", 00)
+      .attr("dy", "0.71em")
+      .attr("fill", "#000")
+      .text(geoshort[region])
+      .attr("font-family", "sans-serif")
+      .style("fill", "#000000");
+
+  }
+
+};
 
 const graph = async (year) => {
 
@@ -85,29 +104,18 @@ const graph = async (year) => {
       line_data[geo] = [];
       for (var week of weeks) {
         if (!sum_corona_data[week]) {
-           sum_corona_data[week] = {};
-           sum_corona_data[week]['deceased'] = 0;
-           sum_corona_data[week]['tested'] = 0;
-           sum_corona_data[week]['positive'] = 0;
+           sum_corona_data[week] = 0;
         }
         var values = {}
         values['timePeriod'] = week;
         if (corona_data[geo][week-1]) {
-          values['deceased'] = parseInt(corona_data[geo][week]['deceased']) - parseInt(corona_data[geo][week-1]['deceased'])
-          values['tested'] = parseInt(corona_data[geo][week]['tested']) - parseInt(corona_data[geo][week-1]['tested'])
-          values['positive'] = parseInt(corona_data[geo][week]['positive']) - parseInt(corona_data[geo][week-1]['positive'])
+          values['corona'] = parseInt(corona_data[geo][week]) - parseInt(corona_data[geo][week-1])
         } else if (corona_data[geo][week]) {
-          values['deceased'] = parseInt(corona_data[geo][week]['deceased'])
-          values['tested'] = parseInt(corona_data[geo][week]['tested'])
-          values['positive'] = parseInt(corona_data[geo][week]['positive'])
+          values['corona'] = parseInt(corona_data[geo][week])
         } else {
-          values['deceased'] = 0
-          values['tested'] = 0
-          values['positive'] = 0
+          values['corona'] = 0
         }
-        sum_corona_data[week]['deceased'] += parseInt(corona_data[geo][week]['deceased'])
-        sum_corona_data[week]['tested'] += parseInt(corona_data[geo][week]['tested'])
-        sum_corona_data[week]['positive'] += parseInt(corona_data[geo][week]['positive'])
+        sum_corona_data[week] += parseInt(corona_data[geo][week])
         line_data[geo].push(values)
       }
     }
@@ -117,61 +125,45 @@ const graph = async (year) => {
       var values = {}
       values['timePeriod'] = week;
       if (sum_corona_data[week-1]) {
-        values['deceased'] = sum_corona_data[week]['deceased'] - sum_corona_data[week-1]['deceased']
-        values['tested'] = sum_corona_data[week]['tested'] - sum_corona_data[week-1]['tested']
-        values['positive'] = sum_corona_data[week]['positive'] - sum_corona_data[week-1]['positive']
+        values['corona'] = sum_corona_data[week] - sum_corona_data[week-1]
       } else if (sum_corona_data[week]) {
-        values['deceased'] = sum_corona_data[week]['deceased']
-        values['tested'] = sum_corona_data[week]['tested']
-        values['positive'] = sum_corona_data[week]['positive']
+        values['corona'] = sum_corona_data[week]
       } else {
-        values['deceased'] = 0
-        values['tested'] = 0
-        values['positive'] = 0
+        values['corona'] = 0
       }
       line_data['CH'].push(values)
     }
   }
 
+  init();
+
+  // set x scale
+  var x = d3.scaleBand()
+    .rangeRound([0, width - 80])
+    .paddingInner(0.05)
+    .align(0.1)
+
+  // set y scale
+  var y = d3.scaleLinear()
+    .rangeRound([height, 0]);
+
+  var z = d3.scaleOrdinal()
+    .range(colors);
+
   for (var region of regions) {
 
     x.domain(d3.range(1, 53));
     y.domain([0, d3.max(sum_data[region]) + d3.max(sum_data[region])*0.2 ]).nice();
-    //y.domain([0, 8000]);
     z.domain(ages);
 
-    var svg = d3.select("body")
-      .append("div")
-      .attr("width", divWidth)
-      .attr("height", divHeight)
-      .attr("id", region)
-      .attr("style", "margin: 50px")
-      .append("svg")
-      .attr("width", width)
-      .attr("height", height)
-      .attr("viewBox", "0 0 " + divWidth  + " " + divHeight)
-      .append("g")
-      .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
-      .attr("class", region);
-
-    var g = d3.select("g." + region)
-
-    g.append("text")
-      .attr("x", 30)
-      .attr("y", 00)
-      .attr("dy", "0.71em")
-      .attr("fill", "#000")
-      .text(geoshort[region] + " " + year)
-      .attr("font-family", "sans-serif")
-      .style("fill", "#000000");
-
-    var rect = g.selectAll("g")
+    var g = d3.selectAll('g.' + region)
       .data(d3.stack().keys(ages)(chart_data[region]))
       .join("g")
       .attr("fill", function(d) { return z(d.key); })
       .selectAll("rect")
       .data(function(d) { return d; })
-      .join("rect")
+      .enter().append("rect")
+      .attr("fill", function(d) { return z(d.key); })
       .attr("x", function(d) { return x(d.data['timePeriod']); })
       .attr("y", function(d) { return y(d[1]); })
       .attr("height", function(d) { return y(d[0]) - y(d[1]); })
@@ -185,30 +177,18 @@ const graph = async (year) => {
         tooltip.select("text").text(d[1]-d[0]);
       });
 
-    if (cum_data['corona_data'][year]) {
-      g.append('path')
-        .datum(line_data[region])
-        .attr("fill", "none")
-        .attr("stroke", "red")
-        .attr("stroke-width", 3.0)
-        .attr("d", d3.line()
-          .curve(d3.curveCatmullRom.alpha(0.5))
-          //.curve(d3.curveCardinal.tension(0))
-          .x(function(d) { return x(d['timePeriod']) + x.bandwidth()/2 })
-          .y(function(d) { return y(d['deceased']) })
-          )
+//    if (cum_data['corona_data'][year]) {
 //      g.append('path')
 //        .datum(line_data[region])
 //        .attr("fill", "none")
-//        .attr("stroke", "blue")
+//        .attr("stroke", "red")
 //        .attr("stroke-width", 3.0)
 //        .attr("d", d3.line()
-//          .curve(d3.curveCatmullRom.alpha(0.5))
-//          //.curve(d3.curveCardinal.tension(0))
+//          //.curve(d3.curveCatmullRomOpen)
 //          .x(function(d) { return x(d['timePeriod']) + x.bandwidth()/2 })
-//          .y(function(d) { return y(d['positive']) })
+//          .y(function(d) { return y(d['corona']) })
 //          )
-    }
+//    }
 
     g.append("g")
       .attr("class", "axis")
@@ -302,10 +282,7 @@ const load_corona = async () => {
     corona_data['geo'].map((value1, index1) => {
       corona_data[value0][value1] = {}
       corona_data['timePeriod'].map((value2, index2) => {
-        corona_data[value0][value1][value2] = {};
-        corona_data[value0][value1][value2]['deceased'] = 0;
-        corona_data[value0][value1][value2]['tested'] = 0;
-        corona_data[value0][value1][value2]['positive'] = 0;
+        corona_data[value0][value1][value2] = 0;
       });
     });
   });
@@ -314,14 +291,8 @@ const load_corona = async () => {
     if (data[i]['abbreviation_canton_and_fl'] == "FL") {
       continue;
     }
-    if (data[i]['ncumul_deceased'] != "" && data[i]['ncumul_deceased'] > corona_data[data[i]['YEAR']][data[i]['abbreviation_canton_and_fl']][data[i]['WEEK']]['deceased']) {
-      corona_data[data[i]['YEAR']][data[i]['abbreviation_canton_and_fl']][data[i]['WEEK']]['deceased'] = parseInt(data[i]['ncumul_deceased'])
-    }
-    if (data[i]['ncumul_tested'] != "" && data[i]['ncumul_tested'] > corona_data[data[i]['YEAR']][data[i]['abbreviation_canton_and_fl']][data[i]['WEEK']]['tested']) {
-      corona_data[data[i]['YEAR']][data[i]['abbreviation_canton_and_fl']][data[i]['WEEK']]['tested'] = parseInt(data[i]['ncumul_tested'])
-    }
-    if (data[i]['ncumul_conf'] != "" && data[i]['ncumul_conf'] > corona_data[data[i]['YEAR']][data[i]['abbreviation_canton_and_fl']][data[i]['WEEK']]['positive']) {
-      corona_data[data[i]['YEAR']][data[i]['abbreviation_canton_and_fl']][data[i]['WEEK']]['positive'] = parseInt(data[i]['ncumul_conf'])
+    if (data[i]['ncumul_deceased'] != "" && data[i]['ncumul_deceased'] > corona_data[data[i]['YEAR']][data[i]['abbreviation_canton_and_fl']][data[i]['WEEK']]) {
+      corona_data[data[i]['YEAR']][data[i]['abbreviation_canton_and_fl']][data[i]['WEEK']] = parseInt(data[i]['ncumul_deceased'])
     }
   };
 
@@ -385,5 +356,6 @@ async function load_data(file) {
   return data;
 }
 
+//init();
 graph(2020);
 
