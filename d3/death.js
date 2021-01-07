@@ -2,9 +2,16 @@
 
 const geolong = {CH: "CH", CH011: "VD", CH012: "VS", CH013: "GE", CH021: "BE", CH022: "FR", CH023: "SO", CH024: "NE", CH025: "JU", CH031: "BS", CH032: "BL", CH033: "AG", CH040: "ZH", CH051: "GL", CH052: "SH", CH053: "AR", CH054: "AI", CH055: "SG", CH056: "GR", CH057: "TG", CH061: "LU", CH062: "UR", CH063: "SZ", CH064: "OW", CH065: "NW", CH066: "ZG", CH070: "TI"};
 const geoshort = {CH: "Switzerland", VD: "Vaud", VS: "Valais", GE: "Genève", BE: "Bern", FR: "Freiburg", SO: "Solothurn", NE: "Neuchâtel", JU: "Jura", BS: "Basel-Stadt", BL: "Basel-Landschaft", AG: "Aargau", ZH: "Zürich", GL: "Glarus", SH: "Schaffhausen", AR: "Appenzell Ausserrhoden", AI: "Appenzell Innerrhoden", SG: "St. Gallen", GR: "Graubünden", TG: "Thurgau", LU: "Luzern", UR: "Uri", SZ: "Schwyz", OW: "Obwalden", NW: "Nidwalden", ZG: "Zug", TI: "Ticino"};
-const regions = ['CH', 'AG', 'BE', 'FR', 'GE', 'VD', 'VS', 'ZH']
 
+const regions = ['CH', 'AG', 'AI', 'AR', 'BE', 'BL', 'BS', 'FR', 'GE', 'GL', 'GR', 'JU', 'LU', 'NE', 'NW', 'OW', 'SG', 'SH', 'SO', 'SZ', 'TG', 'TI', 'UR', 'VD', 'VS', 'ZG', 'ZH']
 const ages = ['Y0T4', 'Y5T9', 'Y10T14', 'Y15T19', 'Y20T24', 'Y25T29', 'Y30T34', 'Y35T39', 'Y40T44', 'Y45T49', 'Y50T54', 'Y55T59', 'Y60T64', 'Y65T69', 'Y70T74', 'Y75T79', 'Y80T84', 'Y85T89', 'Y_GE90'].reverse();
+
+const parseDay           = d3.timeParse("%Y-%m-%d");
+const parseWeek          = d3.timeParse("%Y-%W");
+const year_week_formater = d3.timeFormat('%Y-%W');
+const week_formater      = d3.timeFormat('%W');
+const year_formater      = d3.timeFormat('%Y');
+const average = list => list.reduce((prev, curr) => prev + curr) / list.length;
 
 // set dimensions
 const divWidth = 1200;
@@ -30,12 +37,6 @@ var y = d3.scaleLinear()
 var z = d3.scaleOrdinal()
   .range(colors);
 
-const parseDay           = d3.timeParse("%Y-%m-%d");
-const parseWeek          = d3.timeParse("%Y-%W");
-const year_week_formater = d3.timeFormat('%Y-%W');
-const week_formater      = d3.timeFormat('%W');
-const year_formater      = d3.timeFormat('%Y');
-
 const graph = async (year) => {
 
   var cum_data = {};
@@ -59,18 +60,18 @@ const graph = async (year) => {
     for (var week of weeks) {
       var values = {}
       var lastweek = week-1;
-      values['timePeriod'] = week;
+      values['week'] = week;
       var total = 0
-      if (typeof death_data[geo][week] == "undefined") {
-        for (var age of ages) {
-          values[age] = 0;
-        };
-        total = 0;
-      } else {
+      if (death_data[geo][week]) {
         for (var age of ages) {
           values[age] = death_data[geo][week][age]['T']
           total += death_data[geo][week][age]['T']
         };
+      } else {
+        for (var age of ages) {
+          values[age] = 0;
+        };
+        total = 0;
       };
       sum_data[geo].push(total);
       chart_data[geo].push(values)
@@ -89,25 +90,37 @@ const graph = async (year) => {
            sum_corona_data[week]['deceased'] = 0;
            sum_corona_data[week]['tested'] = 0;
            sum_corona_data[week]['positive'] = 0;
+           sum_corona_data[week]['vent'] = 0;
         }
         var values = {}
-        values['timePeriod'] = week;
-        if (corona_data[geo][week-1]) {
-          values['deceased'] = parseInt(corona_data[geo][week]['deceased']) - parseInt(corona_data[geo][week-1]['deceased'])
-          values['tested'] = parseInt(corona_data[geo][week]['tested']) - parseInt(corona_data[geo][week-1]['tested'])
-          values['positive'] = parseInt(corona_data[geo][week]['positive']) - parseInt(corona_data[geo][week-1]['positive'])
+        values['week'] = week;
+        if (corona_data[geo][week-1] && corona_data[geo][week]) {
+          if (corona_data[geo][week]['deceased'] >= corona_data[geo][week-1]['deceased']) {
+            values['deceased'] = corona_data[geo][week]['deceased'] - corona_data[geo][week-1]['deceased']
+          } else {
+            values['deceased'] = corona_data[geo][week-1]['deceased']
+            corona_data[geo][week]['deceased'] = corona_data[geo][week-1]['deceased']
+            console.log(geo)
+            console.log(week)
+          }
+          values['tested']   = corona_data[geo][week]['tested']   - corona_data[geo][week-1]['tested']
+          values['positive'] = corona_data[geo][week]['positive'] - corona_data[geo][week-1]['positive']
+          values['vent']     = corona_data[geo][week]['vent'].length > 0 ? average(corona_data[geo][week]['vent']) : 0
         } else if (corona_data[geo][week]) {
-          values['deceased'] = parseInt(corona_data[geo][week]['deceased'])
-          values['tested'] = parseInt(corona_data[geo][week]['tested'])
-          values['positive'] = parseInt(corona_data[geo][week]['positive'])
+          values['deceased'] = corona_data[geo][week]['deceased']
+          values['tested']   = corona_data[geo][week]['tested']
+          values['positive'] = corona_data[geo][week]['positive']
+          values['vent']     = corona_data[geo][week]['vent'].length > 0 ? average(corona_data[geo][week]['vent']) : 0
         } else {
           values['deceased'] = 0
-          values['tested'] = 0
+          values['tested']   = 0
           values['positive'] = 0
+          values['vent']     = 0
         }
-        sum_corona_data[week]['deceased'] += parseInt(corona_data[geo][week]['deceased'])
-        sum_corona_data[week]['tested'] += parseInt(corona_data[geo][week]['tested'])
-        sum_corona_data[week]['positive'] += parseInt(corona_data[geo][week]['positive'])
+        sum_corona_data[week]['deceased'] += values['deceased']
+        sum_corona_data[week]['tested']   += values['tested']
+        sum_corona_data[week]['positive'] += values['positive']
+        sum_corona_data[week]['vent']     += values['vent']
         line_data[geo].push(values)
       }
     }
@@ -115,19 +128,17 @@ const graph = async (year) => {
     line_data['CH'] = [];
     for (var week of weeks) {
       var values = {}
-      values['timePeriod'] = week;
-      if (sum_corona_data[week-1]) {
-        values['deceased'] = sum_corona_data[week]['deceased'] - sum_corona_data[week-1]['deceased']
-        values['tested'] = sum_corona_data[week]['tested'] - sum_corona_data[week-1]['tested']
-        values['positive'] = sum_corona_data[week]['positive'] - sum_corona_data[week-1]['positive']
-      } else if (sum_corona_data[week]) {
+      values['week'] = week;
+      if (sum_corona_data[week]) {
         values['deceased'] = sum_corona_data[week]['deceased']
-        values['tested'] = sum_corona_data[week]['tested']
+        values['tested']   = sum_corona_data[week]['tested']
         values['positive'] = sum_corona_data[week]['positive']
+        values['vent']     = sum_corona_data[week]['vent']
       } else {
         values['deceased'] = 0
-        values['tested'] = 0
+        values['tested']   = 0
         values['positive'] = 0
+        values['vent']     = 0
       }
       line_data['CH'].push(values)
     }
@@ -140,21 +151,25 @@ const graph = async (year) => {
     //y.domain([0, 8000]);
     z.domain(ages);
 
-    var svg = d3.select("body")
+    var div = d3.select("body.d3-graph")
       .append("div")
       .attr("width", divWidth)
       .attr("height", divHeight)
-      .attr("id", region)
+      .attr("class", "div-" + region)
       .attr("style", "margin: 50px")
-      .append("svg")
+
+    //var svg = d3.select("div.div-" + region)
+    var svg = div.append("svg")
       .attr("width", width)
       .attr("height", height)
+      .attr("class", "svg-" + region)
       .attr("viewBox", "0 0 " + divWidth  + " " + divHeight)
-      .append("g")
-      .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
-      .attr("class", region);
 
-    var g = d3.select("g." + region)
+    var g = svg.append("g")
+      .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
+      .attr("class", "g-" + region);
+
+    //var g = d3.select("g.g-" + region)
 
     g.append("text")
       .attr("x", 30)
@@ -165,14 +180,14 @@ const graph = async (year) => {
       .attr("font-family", "sans-serif")
       .style("fill", "#000000");
 
-    var rect = g.selectAll("g")
+    g.selectAll("g")
       .data(d3.stack().keys(ages)(chart_data[region]))
       .join("g")
       .attr("fill", function(d) { return z(d.key); })
       .selectAll("rect")
       .data(function(d) { return d; })
       .join("rect")
-      .attr("x", function(d) { return x(d.data['timePeriod']); })
+      .attr("x", function(d) { return x(d.data['week']); })
       .attr("y", function(d) { return y(d[1]); })
       .attr("height", function(d) { return y(d[0]) - y(d[1]); })
       .attr("width", x.bandwidth())
@@ -194,20 +209,20 @@ const graph = async (year) => {
         .attr("d", d3.line()
           .curve(d3.curveCatmullRom.alpha(0.5))
           //.curve(d3.curveCardinal.tension(0))
-          .x(function(d) { return x(d['timePeriod']) + x.bandwidth()/2 })
+          .x(function(d) { return x(d['week']) + x.bandwidth()/2 })
           .y(function(d) { return y(d['deceased']) })
           )
-//      g.append('path')
-//        .datum(line_data[region])
-//        .attr("fill", "none")
-//        .attr("stroke", "blue")
-//        .attr("stroke-width", 3.0)
-//        .attr("d", d3.line()
-//          .curve(d3.curveCatmullRom.alpha(0.5))
-//          //.curve(d3.curveCardinal.tension(0))
-//          .x(function(d) { return x(d['timePeriod']) + x.bandwidth()/2 })
-//          .y(function(d) { return y(d['positive']) })
-//          )
+      g.append('path')
+        .datum(line_data[region])
+        .attr("fill", "none")
+        .attr("stroke", "blue")
+        .attr("stroke-width", 3.0)
+        .attr("d", d3.line()
+          .curve(d3.curveCatmullRom.alpha(0.5))
+          //.curve(d3.curveCardinal.tension(0))
+          .x(function(d) { return x(d['week']) + x.bandwidth()/2 })
+          .y(function(d) { return y(d['vent']) })
+          )
     }
 
     g.append("g")
@@ -231,7 +246,7 @@ const graph = async (year) => {
       .attr("font-weight", "bold")
       .attr("text-anchor", "start");
 
-    var legend = svg.append("g")
+    var legend = g.append("g")
       .attr("font-family", "sans-serif")
       .attr("font-size", 10)
       .attr("text-anchor", "end")
@@ -293,7 +308,6 @@ const load_corona = async () => {
   corona_data['week']        = d3.map(data, function(d){return(d['WEEK'])}).keys()
   corona_data['geo']         = d3.map(data, function(d){return(d['abbreviation_canton_and_fl'])}).keys()
   corona_data['timePeriod']  = d3.map(data, function(d){return d['TIME_PERIOD']}).keys()
-  corona_data['timePeriod']  = d3.map(data, function(d){return d['WEEK']}).keys()
 
   corona_data['geo'] = corona_data['geo'].filter((value)=>value!='FL');
   
@@ -301,11 +315,13 @@ const load_corona = async () => {
     corona_data[value0] = {}
     corona_data['geo'].map((value1, index1) => {
       corona_data[value0][value1] = {}
-      corona_data['timePeriod'].map((value2, index2) => {
+      corona_data['week'].map((value2, index2) => {
         corona_data[value0][value1][value2] = {};
         corona_data[value0][value1][value2]['deceased'] = 0;
         corona_data[value0][value1][value2]['tested'] = 0;
         corona_data[value0][value1][value2]['positive'] = 0;
+        corona_data[value0][value1][value2]['icu'] = 0;
+        corona_data[value0][value1][value2]['vent'] = [];
       });
     });
   });
@@ -322,6 +338,12 @@ const load_corona = async () => {
     }
     if (data[i]['ncumul_conf'] != "" && data[i]['ncumul_conf'] > corona_data[data[i]['YEAR']][data[i]['abbreviation_canton_and_fl']][data[i]['WEEK']]['positive']) {
       corona_data[data[i]['YEAR']][data[i]['abbreviation_canton_and_fl']][data[i]['WEEK']]['positive'] = parseInt(data[i]['ncumul_conf'])
+    }
+    if (data[i]['current_icu'] != "" && data[i]['current_icu'] > corona_data[data[i]['YEAR']][data[i]['abbreviation_canton_and_fl']][data[i]['WEEK']]['icu']) {
+      corona_data[data[i]['YEAR']][data[i]['abbreviation_canton_and_fl']][data[i]['WEEK']]['icu'] = parseInt(data[i]['current_icu'])
+    }
+    if (data[i]['current_vent'] != "" && data[i]['current_vent'] > corona_data[data[i]['YEAR']][data[i]['abbreviation_canton_and_fl']][data[i]['WEEK']]['vent']) {
+      corona_data[data[i]['YEAR']][data[i]['abbreviation_canton_and_fl']][data[i]['WEEK']]['vent'].push(parseInt(data[i]['current_vent']))
     }
   };
 
@@ -351,7 +373,6 @@ const load_death = async (year) => {
   death_data['week']        = d3.map(data, function(d){return d['WEEK']}).keys()
   death_data['geo']         = d3.map(data, function(d){return d['GEO']}).keys()
   death_data['timePeriod']  = d3.map(data, function(d){return d['TIME_PERIOD']}).keys()
-  death_data['timePeriod']  = d3.map(data, function(d){return d['WEEK']}).keys()
   death_data['age']         = d3.map(data, function(d){return d['AGE']}).keys()
   death_data['sex']         = d3.map(data, function(d){return d['SEX']}).keys()
 
@@ -359,7 +380,7 @@ const load_death = async (year) => {
 
   death_data['geo'].map((value1, index1) => {
     death_data[value1] = {}
-    death_data['timePeriod'].map((value2, index2) => {
+    death_data['week'].map((value2, index2) => {
       death_data[value1][value2] = {}
       death_data['age'].map((value3, index3) => {
         death_data[value1][value2][value3] = {}
@@ -385,5 +406,48 @@ async function load_data(file) {
   return data;
 }
 
-graph(2020);
+const init = async (year) => {
+
+  for (var region of regions) {
+
+    var div = d3.select("body.d3-graph")
+      .append("div")
+      .attr("width", divWidth)
+      .attr("height", divHeight)
+      .attr("class", "div-" + region)
+      .attr("style", "margin: 50px")
+
+    //var svg = d3.select("div.div-" + region)
+    var svg = div.append("svg")
+      .attr("width", width)
+      .attr("height", height)
+      .attr("class", "svg-" + region)
+      .attr("viewBox", "0 0 " + divWidth  + " " + divHeight)
+
+    var g = svg.append("g")
+      .attr("transform", "translate(" + margin.left + "," + margin.top + ")")
+      .attr("class", "g-" + region);
+
+    //var g = d3.select("g.g-" + region)
+
+    g.append("text")
+      .attr("x", 30)
+      .attr("y", 00)
+    var div = d3.select("body.d3-graph")
+      .append("div")
+      .attr("width", divWidth)
+      .attr("height", divHeight)
+      .attr("class", "div-" + region)
+      .attr("style", "margin: 50px")
+
+  }
+
+}
+
+const build = async (year) => {
+  //await init(year)
+  await graph(year);
+}
+
+build(2020);
 
