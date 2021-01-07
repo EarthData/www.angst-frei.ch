@@ -4,5 +4,5 @@ redirect:   https://www.rnd.de/gesundheit/corona-und-gesundheitssystem-fresenius
 title:      RND
 subtitle:   "Fresenius-Chef Sturm: Einseitiger Blick auf Intensivbetten ist falsch – stehen nicht vor Kollaps"
 categories: MSM
-tags:       [rnd, zahlen]
+tags:       [rnd, zahlen, spital]
 ---

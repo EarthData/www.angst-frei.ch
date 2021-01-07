@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 timeline:      false
 subtitle:      "Rätselhafte Zahlen bei Belegung von Intensivstationen in Europa"
 categories:    Medien
-tags:          [tkp, zahlen]
+tags:          [tkp, zahlen, spital]
 ---

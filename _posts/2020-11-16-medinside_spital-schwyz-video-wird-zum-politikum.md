@@ -4,5 +4,5 @@ redirect:      https://www.medinside.ch/de/post/spital-schwyz-video-wird-zum-pol
 title:         medinside.ch
 subtitle:      "Spital-Schwyz-Video wird zum Politikum"
 categories:    Medien
-tags:          [angst, medinside]
+tags:          [spital, medinside]
 ---

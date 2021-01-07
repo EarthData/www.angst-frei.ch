@@ -4,5 +4,5 @@ redirect:      https://www.medinside.ch/de/post/statistiken-zu-intensivbetten-so
 title:         medinside.ch
 subtitle:      "Statistiken zu Intensivbetten sorgen für Verwirrung"
 categories:    Wissenschaft
-tags:          [zahlen, medinside]
+tags:          [zahlen, medinside, spital]
 ---

@@ -4,5 +4,5 @@ redirect:      https://www.infosperber.ch/Artikel/Gesundheit/271020-Auslastung-a
 title:         INFOsperber
 subtitle:      "27.10.20: Auslastung auf Intensivstationen noch wie im Juni"
 categories:    Medien
-tags:          [infosperber, massnahmen]
+tags:          [infosperber, spital]
 ---

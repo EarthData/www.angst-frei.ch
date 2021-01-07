@@ -4,5 +4,5 @@ redirect:      https://www.infosperber.ch/gesundheit/public-health/corona-etwas-
 title:         INFOsperber
 subtitle:      "Corona: Etwas Licht ins Dunkel der Spitalbetten"
 categories:    Medien
-tags:          [infosperber, zahlen]
+tags:          [infosperber, zahlen, spital]
 ---

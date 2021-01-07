@@ -4,5 +4,5 @@ redirect:      https://www.medinside.ch/de/post/40-prozent-weniger-intensivbette
 title:         medinside.ch
 subtitle:      "40 Prozent weniger Intensivbetten als noch im Frühling"
 categories:    Medien
-tags:          [medinside, zahlen]
+tags:          [medinside, zahlen, spital]
 ---
