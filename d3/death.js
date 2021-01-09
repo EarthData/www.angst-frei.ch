@@ -99,7 +99,7 @@ const graph = async (year) => {
             values['deceased'] = corona_data[geo][week]['deceased'] - corona_data[geo][week-1]['deceased']
           } else {
             values['deceased'] = corona_data[geo][week-1]['deceased']
-            corona_data[geo][week]['deceased'] = corona_data[geo][week-1]['deceased']
+            corona_data[geo][week]['deceased'] = values['deceased']
             console.log(geo)
             console.log(week)
           }
@@ -124,6 +124,8 @@ const graph = async (year) => {
         line_data[geo].push(values)
       }
     }
+    
+    console.log(line_data);
 
     line_data['CH'] = [];
     for (var week of weeks) {
@@ -155,6 +157,7 @@ const graph = async (year) => {
       .append("div")
       .attr("width", divWidth)
       .attr("height", divHeight)
+      .attr("id", region)
       .attr("class", "div-" + region)
       .attr("style", "margin: 50px")
 
