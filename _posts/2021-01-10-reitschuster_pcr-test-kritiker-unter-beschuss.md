@@ -1,0 +1,8 @@
+---
+date:          2021-01-10
+redirect:      https://reitschuster.de/post/pcr-test-kritiker-unter-beschuss/
+title:         reitschuster
+subtitle:      "PCR-Test: Kritiker unter Beschuss"
+categories:    Medien
+tags:          [reitschuster, pcr-test]
+---

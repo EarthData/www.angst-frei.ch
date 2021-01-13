@@ -5,5 +5,5 @@ title:      Wochenblick
 subtitle:   "In Schweden: Weiterer toter Senior nach Corona-Impfung"
 country:    AT
 categories: MSM
-tags:       [wochenblick, impfung]
+tags:       [wochenblick, schweden, impfung]
 ---
