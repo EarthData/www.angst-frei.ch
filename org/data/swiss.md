@@ -10,6 +10,32 @@ Die offiziellen Daten vom BAG.
 
 | {{ site.icons.globe }} | [Situation Schweiz](https://www.bag.admin.ch/bag/de/home/krankheiten/ausbrueche-epidemien-pandemien/aktuelle-ausbrueche-epidemien/novel-cov/situation-schweiz-und-international.html) |
 
+### Laborbestätigte Hospitalisationen, Schweiz und Liechtenstein
+
+ * [Geographische Verteilung](https://www.covid19.admin.ch/de/epidemiologic/hosp/d/geography?detTime=total&detRel=abs)
+ * [Zeitliche Entwicklung](https://www.covid19.admin.ch/de/epidemiologic/hosp/d/development?detTime=total&detRel=abs)
+ * [Demografie](https://www.covid19.admin.ch/de/epidemiologic/hosp/d/demography?detTime=total&detRel=abs)
+
+### Laborbestätigte Todesfälle, Schweiz und Liechtenstein
+
+ * [Geographische Verteilung](https://www.covid19.admin.ch/de/epidemiologic/death/d/geography?detTime=total&detRel=abs)
+ * [Zeitliche Entwicklung](https://www.covid19.admin.ch/de/epidemiologic/death/d/development?detTime=total&detRel=abs)
+ * [Demografie](https://www.covid19.admin.ch/de/epidemiologic/death/d/demography?detTime=total&detRel=abs)
+
+### Gesamte Spitalkapazität
+
+ * [Auslastung in Prozent (alle Patienten)](https://www.covid19.admin.ch/de/hosp-capacity/total/d/geography?time=total)
+ * [Auslastung in Prozent (Covid 19 Patienten)](https://www.covid19.admin.ch/de/hosp-capacity/total/d/geography?time=total&occ=covid19)
+ * [Zeitliche Entwicklung der Auslastung (Absolut)](https://www.covid19.admin.ch/de/hosp-capacity/total/d/development?time=total)
+ * [Zeitliche Entwicklung der Auslastung (Anteil)](https://www.covid19.admin.ch/de/hosp-capacity/total/d/development?time=total&occ=covid19&rel=rel)
+
+### Intensivstationen (IS)
+
+ * [Auslastung in Prozent (alle Patienten)](https://www.covid19.admin.ch/de/hosp-capacity/icu/d/geography?time=total)
+ * [Auslastung in Prozent (Covid 19 Patienten)](https://www.covid19.admin.ch/de/hosp-capacity/icu/d/geography?time=total&occ=covid19)
+ * [Zeitliche Entwicklung der Auslastung (Absolut)](https://www.covid19.admin.ch/de/hosp-capacity/icu/d/development?time=total)
+ * [Zeitliche Entwicklung der Auslastung (Anteil)](https://www.covid19.admin.ch/de/hosp-capacity/icu/d/development?time=total&occ=covid19&rel=rel)
+
 ## Bundesamt für Statistik
 
 Mortalitätsmonitoring (MOMO)

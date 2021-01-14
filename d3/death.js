@@ -54,18 +54,21 @@ const graph = async (year) => {
   var sum_data = {};
   var weeks = d3.range(1, 53)
 
-  for (var geo of death_data['geo']) {
+  for (var geo of regions) {
     chart_data[geo] = [];
     sum_data[geo] = [];
     for (var week of weeks) {
       var values = {}
-      var lastweek = week-1;
       values['week'] = week;
       var total = 0
-      if (death_data[geo][week]) {
+      if (death_data[geo] && death_data[geo][week]) {
         for (var age of ages) {
-          values[age] = death_data[geo][week][age]['T']
-          total += death_data[geo][week][age]['T']
+          if (death_data[geo][week][age]) {
+            values[age] = death_data[geo][week][age]['T']
+            total += death_data[geo][week][age]['T']
+          } else {
+            values[age] = 0;
+          }
         };
       } else {
         for (var age of ages) {
@@ -82,7 +85,7 @@ const graph = async (year) => {
     var line_data = {};
     var sum_corona_data = {};
 
-    for (var geo of corona_data['geo']) {
+    for (var geo of regions.filter((value)=>value!='CH')) {
       line_data[geo] = [];
       for (var week of weeks) {
         if (!sum_corona_data[week]) {
@@ -98,10 +101,8 @@ const graph = async (year) => {
           if (corona_data[geo][week]['deceased'] >= corona_data[geo][week-1]['deceased']) {
             values['deceased'] = corona_data[geo][week]['deceased'] - corona_data[geo][week-1]['deceased']
           } else {
-            values['deceased'] = corona_data[geo][week-1]['deceased']
-            corona_data[geo][week]['deceased'] = values['deceased']
-            console.log(geo)
-            console.log(week)
+            values['deceased'] = 0;
+            corona_data[geo][week]['deceased'] = corona_data[geo][week-1]['deceased'];
           }
           values['tested']   = corona_data[geo][week]['tested']   - corona_data[geo][week-1]['tested']
           values['positive'] = corona_data[geo][week]['positive'] - corona_data[geo][week-1]['positive']
@@ -125,8 +126,6 @@ const graph = async (year) => {
       }
     }
     
-    console.log(line_data);
-
     line_data['CH'] = [];
     for (var week of weeks) {
       var values = {}
@@ -366,7 +365,7 @@ const load_death = async (year) => {
   data.forEach(function(d) {
     var year_week     = d['TIME_PERIOD'].slice(0,4) + "-" + parseInt(d['TIME_PERIOD'].slice(6));
     var absolute_date = parseWeek(year_week);
-    d['TIME_PERIOD']  = parseWeek(year_week);
+    d['TIME_PERIOD']  = absolute_date;
     d['YEAR']         = year_formater(new Date(absolute_date));
     d['WEEK']         = parseInt(week_formater(new Date(absolute_date)));
     d['GEO']          = geolong[d['GEO']];

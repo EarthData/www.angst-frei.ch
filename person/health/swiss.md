@@ -4,6 +4,13 @@ title:    Gesundheit
 subtitle: Schweiz
 ---
 
+## Thomas Binder
+
+Kardiologe
+
+| {{ site.icons.globe }}    | [www.thomasbinder.ch](https://www.thomasbinder.ch)
+| {{ site.icons.facebook }} | [Thomas Binder](https://www.facebook.com/thomas.s.binder) |
+
 ## Marco Caimi 
 
 Dr. med. Marco Caimi
