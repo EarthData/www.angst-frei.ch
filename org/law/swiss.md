@@ -45,6 +45,12 @@ Forderung der Einsetzung einer ausserparlamentarischen unabhängigen Untersuchun
 
 | {{ site.icons.globe }} | [fruehling2020.com](https://fruehling2020.com/) |
 
+## «Stoppt den Lockdown»
+
+«Ende des Lockdowns für Restaurants & Läden, stattdessen zielgerichteten Schutz der Risikopatienten!»
+
+| {{ site.icons.globe }} | [lockdown-stop.ch](https://lockdown-stop.ch/) |
+
 ## Wer verordnet, der haftet (Petition)
 
 Schäden durch Masken in der Schule und deren Haftung.
