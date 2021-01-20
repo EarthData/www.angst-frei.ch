@@ -12,6 +12,9 @@ DE,2021-01-20,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,,
 DE,2021-01-20,18:00:00,10117,Berlin,Bundeskanzleramt,Kundgebung,https://demo.stream/mariagoetz,AfD,
 DE,2021-01-20,18:30:00,71149,Bondorf,Kulturzentrum Zehntscheuer,Spaziergang,,,
 DE,2021-01-20,19:00:00,83022,Rosenheim,Ichikawa-Platz,Mahnwache,,,
+DE,2021-01-20,23:59:00,10117,Test 2,Test,Test,https://test.live,Test,
+DE,2021-01-20,23:59:00,10117,Test 2,Test,Test,https://test.live,Test,https://test.web
+DE,2021-01-20,23:59:00,10117,Test 1,Test,Test,,Test,https://test.web
 DE,2021-01-21,10:30:00,91054,Erlangen,Schlossplatz,Mahnwache,,,
 DE,2021-01-21,16:30:00,76131,Karlsruhe,Bundesverfassungsgericht,Kundgebung,,,
 DE,2021-01-21,18:00:00,88239,Wangen,Marktplatz,Spaziergang,,,
