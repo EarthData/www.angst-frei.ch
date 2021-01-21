@@ -20,15 +20,18 @@ document.addEventListener('DOMContentLoaded', function() {
     },
     titleFormat: { year: 'numeric', month: 'numeric', day: 'numeric' },
     events: '/event-data/event-data.json',
-    eventClick: function(info) {
-      info.jsEvent.preventDefault(); // don't let the browser navigate
+    //eventClick: function(info) {
+      //info.jsEvent.preventDefault(); // don't let the browser navigate
       //console.log(info.event);
-      if (info.event.url) {
-        window.open(info.event.url);
-      } else if (info.event.extendedProps.stream) {
-        window.open(info.event.extendedProps.stream);
-      }
-    },
+      //if (info.event.url) {
+      //  window.open(info.event.url);
+      //} else if (info.event.extendedProps.stream) {
+      //if (info.event.extendedProps.stream) {
+      //  window.open(info.event.extendedProps.stream);
+      //} else if (info.event.url) {
+      //  window.open(info.event.url);
+     // }
+    //},
     navLinks: true,
     locale: 'de',
     height: 'auto',

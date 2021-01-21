@@ -20,7 +20,7 @@ permalink: /event-data/event-data.json
     {% else %}
       {% assign url = "" %}
     {% endif %}
-      
+ 
     {% capture title %}{{event.stadt}}, {{event.treffpunkt}}, {{event.protestform}}{% endcapture %}
 
     { "color":"{{color}}", "title":"{{title}}", "start": "{{event.datum}}T{{event.uhrzeit}}", "allDay":false, "country":"{{event.land}}", "stream":"{{event.livestream}}", "url":"{{url}}" }
