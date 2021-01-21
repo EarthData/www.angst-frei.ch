@@ -13,9 +13,17 @@ permalink: /event-data/event-data.json
       {% assign color = "red" %}
     {% endif %}
 
+    {% if event.webseite %}
+      {% assign url = event.webseite %}
+    {% elsif event.livestream %}
+      {% assign url = event.livestream %}
+    {% else %}
+      {% assign url = "" %}
+    {% endif %}
+      
     {% capture title %}{{event.stadt}}, {{event.treffpunkt}}, {{event.protestform}}{% endcapture %}
 
-    { "color":"{{color}}", "title":"{{title}}", "start": "{{event.datum}}T{{event.uhrzeit}}", "allDay":false, "country":"{{event.land}}", "url":"{{event.livestream}}", "website":"{{webseite}}" }
+    { "color":"{{color}}", "title":"{{title}}", "start": "{{event.datum}}T{{event.uhrzeit}}", "allDay":false, "country":"{{event.land}}", "stream":"{{event.livestream}}", "url":"{{url}}" }
     {%unless forloop.last %},{%endunless%}
   {% endfor %}
 ]
