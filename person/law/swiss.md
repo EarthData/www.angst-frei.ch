@@ -4,6 +4,12 @@ title:    Recht
 subtitle: Schweiz
 ---
 
+## Philipp Kruse
+
+Philipp Kruse
+
+| {{ site.icons.telegram }} | [Philipp Kruse](https://t.me/philippkruse) |
+
 ## Heinz Raschein
 
 Dr. iur. Heinz Raschein  

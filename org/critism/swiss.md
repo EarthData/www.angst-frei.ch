@@ -37,6 +37,7 @@ Helfen Sie mit, ans Licht zu bringen, was gezielt verborgen wurde, um die damit 
 
 In dieser Gruppe wollen Eltern und Lehrpersonen konstruktive Ideen austauschen, sich gegen die Maskenpflicht der Kinder zu wehren und mögliche Homeschooling-Synergien zu entwickeln.
 
+| {{ site.icons.globe }}    | [elternundschulestehenauf.ch](https://elternundschulestehenauf.ch/) |
 | {{ site.icons.telegram }} | [elternundschulestehenaufschweiz](https://t.me/elternundschulestehenaufschweiz) |
 | {{ site.icons.telegram }} | [Überblick aller Gruppen](https://t.me/infokanaleus/69) |
 | {{ site.icons.telegram }} | [Infokanal](https://t.me/infokanaleus) |
