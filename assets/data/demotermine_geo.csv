@@ -1,75 +1,75 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite,latitude,longitude,created
-DE,2021-01-26,11:00:00,89312,Günzburg,Kapuzinermauer 1 / Landratsamt,Kundgebung,,Andrea Zellermayer,,48.4539028,10.2785509,2021-01-26 15:14:39
-DE,2021-01-26,17:30:00,97070,Würzburg,Wagnerplatz,Spaziergang,,Eltern stehen auf,,49.8021945,9.9445742,2021-01-26 15:14:39
-DE,2021-01-26,18:00:00,57462,Olpe,Hugo-Ruegenberg-Str. 1,Demonstration,,,,51.028703449999995,7.8393938348605765,2021-01-26 15:14:39
-DE,2021-01-27,17:00:00,70173,Stuttgart,Cannstatter Wasen / Parkplatz P9,Autokorso,,,,48.7969789,9.21725646568217,2021-01-26 15:14:39
-DE,2021-01-27,17:00:00,70173,Stuttgart,Karlsplatz / w. Overals,Demonstration,,,,48.7784485,9.1800132,2021-01-26 15:14:39
-DE,2021-01-27,17:00:00,70173,Stuttgart,Kronprinzplatz,Kundgebung,,,,48.7760129,9.1750088,2021-01-26 15:14:39
-DE,2021-01-27,17:00:00,70173,Stuttgart,Denkerdenkmal,Kundgebung,,,,48.7784485,9.1800132,2021-01-26 15:14:39
-DE,2021-01-27,17:00:00,70173,Stuttgart,Marienplatz,Kundgebung,,,,48.7644676,9.1683951,2021-01-26 15:14:39
-DE,2021-01-27,17:00:00,70372,Stuttgart,Cannstatter Wasen Parkplatz P9,Autokorso,,,,48.7969789,9.21725646568217,2021-01-26 15:14:39
-DE,2021-01-27,17:30:00,97070,Würzburg,Unterer Markt,Spaziergang,,Eltern stehen auf,,49.7943933,9.9299827,2021-01-26 15:14:39
-DE,2021-01-27,18:00:00,18146,Rostock,Parkpl. Haltest. Dierk. Allee,Demonstration,,,,54.0924445,12.1286127,2021-01-26 15:14:39
-DE,2021-01-27,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,,,49.4509469,11.0777299,2021-01-26 15:14:39
-DE,2021-01-27,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,,,50.1329988,8.9180211,2021-01-26 15:14:39
-DE,2021-01-27,19:00:00,83022,Rosenheim,Ichikawa-Platz,Mahnwache,,,,47.85876395,12.133756881553518,2021-01-26 15:14:39
-DE,2021-01-27,19:00:00,86343,Königsbrunn,Marktplatz / Rathaus,Kundgebung,,,,48.2688961,10.891047650928467,2021-01-26 15:14:39
-DE,2021-01-28,10:30:00,91054,Erlangen,Schlossplatz,Mahnwache,,,,49.5982338,11.0045282,2021-01-26 15:14:39
-DE,2021-01-28,17:30:00,97070,Würzburg,Unterer Markt,Spaziergang,,Eltern stehen auf,,49.7943933,9.9299827,2021-01-26 15:14:39
-DE,2021-01-28,17:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,,,49.4509469,11.0777299,2021-01-26 15:14:39
-DE,2021-01-28,18:00:00,85586,Poing,Marktplatz / S-Bahn,Kundgebung,,,,48.1667467,11.803713,2021-01-26 15:14:39
-DE,2021-01-28,18:00:00,89331,Burgau,Gerichtsweg 8 / Rathaus,Kundgebung,,Andrea Zellermayer,,48.4312893,10.4065009,2021-01-26 15:14:39
-DE,2021-01-28,18:30:00,39120,Magdeburg,Petriförder Ost / Parkplatz,Autokorso,,,,52.13349135,11.6478663902211,2021-01-26 15:14:39
-DE,2021-01-28,18:30:00,24103,Kiel,Exerzierplatz,Versammlung,,,,54.3215806,10.1292734,2021-01-26 15:14:39
-DE,2021-01-28,18:30:00,24103,Kiel,Exerzierplatz,Versammlung,,,,54.3215806,10.1292734,2021-01-26 15:14:39
-DE,2021-01-28,20:00:00,76287,Rheinstetten,Rappenwörthstr. 49 / Rathaus,Kundgebung,,Für die Grundrechte,https://www.grundrechte.jetzt/,48.968549,8.3097117,2021-01-26 15:14:39
-DE,2021-01-29,14:30:00,96052,Bamberg,Luitpoldstr. / Bahnhofspost,Demonstration,,,,49.8916044,10.8868478,2021-01-26 15:14:39
-DE,2021-01-29,15:30:00,23843,Bargteheide,Am Markt / Schulzentrum,Mahnwache,,,,53.7271291,10.2631379,2021-01-26 15:14:39
-DE,2021-01-30,13:00:00,50389,Wesseling,Flach Fengler Str. / DM Markt,Kundgebung,,,,50.8247166,6.9810852,2021-01-26 15:14:39
-DE,2021-01-30,13:00:00,80335,München,Karlsplatz / Stachus,Charity,,Anonymous #OpSafeWinter,https://anonymous.support/opsafewinter/muenchen,48.140054,11.5646535,2021-01-26 15:14:39
-DE,2021-01-30,14:00:00,54290,Trier,Hauptmarkt / Innenstadt,Demonstration,,Privat,,49.7596208,6.6441878,2021-01-26 15:14:39
-DE,2021-01-30,14:00:00,30169,Hannover,Schützenplatz / Gilde Tor,Autokorso,,,,52.3744779,9.7385532,2021-01-26 15:14:39
-DE,2021-01-30,14:00:00,91729,Gunzenhausen,Parkplatz KiK /  AGIP-Tanke,Autokorso,,,,49.1147095,10.7545933,2021-01-26 15:14:39
-DE,2021-01-30,14:00:00,10178,Berlin,Alexanderplatz,Kundgebung,,Querdenken 30,,52.522417399999995,13.411526303385774,2021-01-26 15:14:39
-DE,2021-01-30,14:00:00,95448,Bayreuth,Volksfestplatz / Parkplatz,Kundgebung,,20Plus1,https://20plus1.org,49.94157765,11.59257654885314,2021-01-26 15:14:39
-DE,2021-01-30,14:30:00,26382,Wilhelmshaven,Pacific Cafe,Spaziergang,,,,53.5194381,8.1190093,2021-01-26 15:14:39
-DE,2021-01-30,14:30:00,40213,Düsseldorf,Corneliusplatz,Spaziergang,,Querdenken 231,,51.2258298,6.779199226884687,2021-01-26 15:14:39
-DE,2021-01-30,15:00:00,33098,Paderborn,Herz-Jesu Kirche / Westerntor / B,Schweigemarsch,,,,51.71895955,8.764869778177559,2021-01-26 15:14:39
-DE,2021-01-30,15:00:00,91054,Erlangen,Schlossplatz,Kundgebung,,,,49.5982338,11.0045282,2021-01-26 15:14:39
-DE,2021-01-30,15:30:00,33098,Paderborn,Domplatz,Kundgebung,,,,51.7186801,8.7568245,2021-01-26 15:14:39
-DE,2021-01-30,20:00:00,76287,Rheinstetten,Rappenwörthstr. 49 / Rathaus,Kundgebung,,Für die Grundrechte,https://www.grundrechte.jetzt/,48.968549,8.3097117,2021-01-26 15:14:39
-DE,2021-01-31,14:00:00,17373,Ueckermünde,Marktplatz,Spaziergang,,Privat,,53.73714475,14.04595006006365,2021-01-26 15:14:39
-DE,2021-01-31,14:00:00,58095,Hagen,Friedrich Ebert Platz,Spaziergang,,Querdenken 211,,51.35822575,7.4735280503668715,2021-01-26 15:14:39
-AT,2021-01-31,14:00:00,6850,Dornbirn,Marktplatz,Kundgebung,,nature-culture.academy,http://www.corona-demo.at,47.4132168,9.7438249,2021-01-26 15:14:39
-DE,2021-02-01,13:15:00,31785,Hameln,Marktkirche St. Nicolai,Kundgebung,,,,52.1049295,9.35700519181465,2021-01-26 15:14:39
-DE,2021-02-01,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-01-26 15:14:39
-DE,2021-02-01,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-01-26 15:14:39
-DE,2021-02-01,18:00:00,1067,Dresden,Kreuzkirche,Spaziergang,,,,51.0487252,13.73922068452577,2021-01-26 15:14:39
-DE,2021-02-03,19:00:00,86343,Königsbrunn,Marktplatz / Rathaus,Kundgebung,,,,48.2688961,10.891047650928467,2021-01-26 15:14:39
-DE,2021-02-04,18:00:00,85586,Poing,Marktplatz / S-Bahn,Kundgebung,,,,48.1667467,11.803713,2021-01-26 15:14:39
-DE,2021-02-06,14:30:00,71364,Winnenden,Marktbrunnen,Mahnwache,,,,48.8761383,9.3993559,2021-01-26 15:14:39
-DE,2021-02-06,14:30:00,26382,Wilhelmshaven,Pacific Cafe,Spaziergang,,,,53.5194381,8.1190093,2021-01-26 15:14:39
-AT,2021-02-07,14:00:00,6800,Feldkirch,Marktplatz,Kundgebung,,nature-culture.academy,http://www.corona-demo.at,47.2375221,9.5958509,2021-01-26 15:14:39
-DE,2021-02-08,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-01-26 15:14:39
-DE,2021-02-08,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-01-26 15:14:39
-DE,2021-02-11,18:00:00,85586,Poing,Marktplatz / S-Bahn,Kundgebung,,,,48.1667467,11.803713,2021-01-26 15:14:39
-DE,2021-02-13,11:00:00,11011,Berlin,Platz der Republik 1 Reichstag,Kundgebung,,,,52.5170365,13.3888599,2021-01-26 15:14:39
-DE,2021-02-13,14:30:00,26382,Wilhelmshaven,Pacific Cafe,Spaziergang,,,,53.5194381,8.1190093,2021-01-26 15:14:39
-AT,2021-02-14,14:00:00,6700,Bludenz,Josef-Wolf-Platz,Kundgebung,,nature-culture.academy,http://www.corona-demo.at,47.1563676,9.8192587,2021-01-26 15:14:39
-DE,2021-02-15,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-01-26 15:14:39
-DE,2021-02-18,18:00:00,85586,Poing,Marktplatz / S-Bahn,Kundgebung,,,,48.1667467,11.803713,2021-01-26 15:14:39
-DE,2021-02-20,14:30:00,71364,Winnenden,Marktbrunnen,Mahnwache,,,,48.8761383,9.3993559,2021-01-26 15:14:39
-DE,2021-02-20,14:30:00,26382,Wilhelmshaven,Pacific Cafe,Spaziergang,,,,53.5194381,8.1190093,2021-01-26 15:14:39
-DE,2021-02-22,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-01-26 15:14:39
-DE,2021-02-25,18:00:00,85586,Poing,Marktplatz / S-Bahn,Kundgebung,,,,48.1667467,11.803713,2021-01-26 15:14:39
-DE,2021-02-27,14:30:00,86150,Augsburg,Ulrichsplatz,Demonstration,,,,48.3631112,10.9001256,2021-01-26 15:14:39
-DE,2021-03-01,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-01-26 15:14:39
-DE,2021-03-08,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-01-26 15:14:39
-DE,2021-03-15,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-01-26 15:14:39
-DE,2021-03-20,14:00:00,11011,Berlin,Reichstag,Kundgebung,,,,52.4676201,13.5280284,2021-01-26 15:14:39
-DE,2021-03-22,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-01-26 15:14:39
-DE,2021-03-29,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-01-26 15:14:39
-DE,2021-06-20,16:30:00,94315,Straubing,Ludwigsplatz,Mahnwache,,,,48.8820981,12.5738356,2021-01-26 15:14:39
-DE,2021-10-26,19:00:00,73728,Esslingen,Heugasse 10 / Delicantina,Treffpunkt,,,,48.7427584,9.3071685,2021-01-26 15:14:39
-DE,2021-11-05,18:00:00,10117,Berlin,Brandenburger Tor,Kundgebung,https://anonymous.support/live,Anonymous #MillionMaskMarch,https://anonymous.support,52.51628045,13.377701882994323,2021-01-26 15:14:39
-DE,2021-12-24,12:00:00,10178,Berlin,Alexanderplatz / Weltzeituhr,Charity,https://anonymous.support/live,Anonymous #OpSafeWinter,https://anonymous.support/opsafewinter/berlin,52.5170365,13.3888599,2021-01-26 15:14:39
+DE,2021-01-26,11:00:00,89312,Günzburg,Kapuzinermauer 1 / Landratsamt,Kundgebung,,Andrea Zellermayer,,48.4539028,10.2785509,2021-01-26 17:14:39
+DE,2021-01-26,17:30:00,97070,Würzburg,Wagnerplatz,Spaziergang,,Eltern stehen auf,,49.8021945,9.9445742,2021-01-26 17:14:39
+DE,2021-01-26,18:00:00,57462,Olpe,Hugo-Ruegenberg-Str. 1,Demonstration,,,,51.028703449999995,7.8393938348605765,2021-01-26 17:14:39
+DE,2021-01-27,17:00:00,70173,Stuttgart,Cannstatter Wasen / Parkplatz P9,Autokorso,,,,48.7969789,9.21725646568217,2021-01-26 17:14:39
+DE,2021-01-27,17:00:00,70173,Stuttgart,Karlsplatz / w. Overals,Demonstration,,,,48.7784485,9.1800132,2021-01-26 17:14:39
+DE,2021-01-27,17:00:00,70173,Stuttgart,Kronprinzplatz,Kundgebung,,,,48.7760129,9.1750088,2021-01-26 17:14:39
+DE,2021-01-27,17:00:00,70173,Stuttgart,Denkerdenkmal,Kundgebung,,,,48.7784485,9.1800132,2021-01-26 17:14:39
+DE,2021-01-27,17:00:00,70173,Stuttgart,Marienplatz,Kundgebung,,,,48.7644676,9.1683951,2021-01-26 17:14:39
+DE,2021-01-27,17:00:00,70372,Stuttgart,Cannstatter Wasen Parkplatz P9,Autokorso,,,,48.7969789,9.21725646568217,2021-01-26 17:14:39
+DE,2021-01-27,17:30:00,97070,Würzburg,Unterer Markt,Spaziergang,,Eltern stehen auf,,49.7943933,9.9299827,2021-01-26 17:14:39
+DE,2021-01-27,18:00:00,18146,Rostock,Parkpl. Haltest. Dierk. Allee,Demonstration,,,,54.0924445,12.1286127,2021-01-26 17:14:39
+DE,2021-01-27,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,,,49.4509469,11.0777299,2021-01-26 17:14:39
+DE,2021-01-27,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,,,50.1329988,8.9180211,2021-01-26 17:14:39
+DE,2021-01-27,19:00:00,83022,Rosenheim,Ichikawa-Platz,Mahnwache,,,,47.85876395,12.133756881553518,2021-01-26 17:14:39
+DE,2021-01-27,19:00:00,86343,Königsbrunn,Marktplatz / Rathaus,Kundgebung,,,,48.2688961,10.891047650928467,2021-01-26 17:14:39
+DE,2021-01-28,10:30:00,91054,Erlangen,Schlossplatz,Mahnwache,,,,49.5982338,11.0045282,2021-01-26 17:14:39
+DE,2021-01-28,17:30:00,97070,Würzburg,Unterer Markt,Spaziergang,,Eltern stehen auf,,49.7943933,9.9299827,2021-01-26 17:14:39
+DE,2021-01-28,17:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,,,49.4509469,11.0777299,2021-01-26 17:14:39
+DE,2021-01-28,18:00:00,85586,Poing,Marktplatz / S-Bahn,Kundgebung,,,,48.1667467,11.803713,2021-01-26 17:14:39
+DE,2021-01-28,18:00:00,89331,Burgau,Gerichtsweg 8 / Rathaus,Kundgebung,,Andrea Zellermayer,,48.4312893,10.4065009,2021-01-26 17:14:39
+DE,2021-01-28,18:30:00,39120,Magdeburg,Petriförder Ost / Parkplatz,Autokorso,,,,52.13349135,11.6478663902211,2021-01-26 17:14:39
+DE,2021-01-28,18:30:00,24103,Kiel,Exerzierplatz,Versammlung,,,,54.3215806,10.1292734,2021-01-26 17:14:39
+DE,2021-01-28,18:30:00,24103,Kiel,Exerzierplatz,Versammlung,,,,54.3215806,10.1292734,2021-01-26 17:14:39
+DE,2021-01-28,20:00:00,76287,Rheinstetten,Rappenwörthstr. 49 / Rathaus,Kundgebung,,Für die Grundrechte,https://www.grundrechte.jetzt/,48.968549,8.3097117,2021-01-26 17:14:39
+DE,2021-01-29,14:30:00,96052,Bamberg,Luitpoldstr. / Bahnhofspost,Demonstration,,,,49.8916044,10.8868478,2021-01-26 17:14:39
+DE,2021-01-29,15:30:00,23843,Bargteheide,Am Markt / Schulzentrum,Mahnwache,,,,53.7271291,10.2631379,2021-01-26 17:14:39
+DE,2021-01-30,13:00:00,50389,Wesseling,Flach Fengler Str. / DM Markt,Kundgebung,,,,50.8247166,6.9810852,2021-01-26 17:14:39
+DE,2021-01-30,13:00:00,80335,München,Karlsplatz / Stachus,Charity,,Anonymous #OpSafeWinter,https://anonymous.support/opsafewinter/muenchen,48.140054,11.5646535,2021-01-26 17:14:39
+DE,2021-01-30,14:00:00,54290,Trier,Hauptmarkt / Innenstadt,Demonstration,,Privat,,49.7596208,6.6441878,2021-01-26 17:14:39
+DE,2021-01-30,14:00:00,30169,Hannover,Schützenplatz / Gilde Tor,Autokorso,,,,52.3744779,9.7385532,2021-01-26 17:14:39
+DE,2021-01-30,14:00:00,91729,Gunzenhausen,Parkplatz KiK /  AGIP-Tanke,Autokorso,,,,49.1147095,10.7545933,2021-01-26 17:14:39
+DE,2021-01-30,14:00:00,10178,Berlin,Alexanderplatz,Kundgebung,,Querdenken 30,,52.522417399999995,13.411526303385774,2021-01-26 17:14:39
+DE,2021-01-30,14:00:00,95448,Bayreuth,Volksfestplatz / Parkplatz,Kundgebung,,20Plus1,https://20plus1.org,49.94157765,11.59257654885314,2021-01-26 17:14:39
+DE,2021-01-30,14:30:00,26382,Wilhelmshaven,Pacific Cafe,Spaziergang,,,,53.5194381,8.1190093,2021-01-26 17:14:39
+DE,2021-01-30,14:30:00,40213,Düsseldorf,Corneliusplatz,Spaziergang,,Querdenken 231,,51.2258298,6.779199226884687,2021-01-26 17:14:39
+DE,2021-01-30,15:00:00,33098,Paderborn,Herz-Jesu Kirche / Westerntor / B,Schweigemarsch,,,,51.71895955,8.764869778177559,2021-01-26 17:14:39
+DE,2021-01-30,15:00:00,91054,Erlangen,Schlossplatz,Kundgebung,,,,49.5982338,11.0045282,2021-01-26 17:14:39
+DE,2021-01-30,15:30:00,33098,Paderborn,Domplatz,Kundgebung,,,,51.7186801,8.7568245,2021-01-26 17:14:39
+DE,2021-01-30,20:00:00,76287,Rheinstetten,Rappenwörthstr. 49 / Rathaus,Kundgebung,,Für die Grundrechte,https://www.grundrechte.jetzt/,48.968549,8.3097117,2021-01-26 17:14:39
+DE,2021-01-31,14:00:00,17373,Ueckermünde,Marktplatz,Spaziergang,,Privat,,53.73714475,14.04595006006365,2021-01-26 17:14:39
+DE,2021-01-31,14:00:00,58095,Hagen,Friedrich Ebert Platz,Spaziergang,,Querdenken 211,,51.35822575,7.4735280503668715,2021-01-26 17:14:39
+AT,2021-01-31,14:00:00,6850,Dornbirn,Marktplatz,Kundgebung,,nature-culture.academy,http://www.corona-demo.at,47.4132168,9.7438249,2021-01-26 17:14:39
+DE,2021-02-01,13:15:00,31785,Hameln,Marktkirche St. Nicolai,Kundgebung,,,,52.1049295,9.35700519181465,2021-01-26 17:14:39
+DE,2021-02-01,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-01-26 17:14:39
+DE,2021-02-01,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-01-26 17:14:39
+DE,2021-02-01,18:00:00,1067,Dresden,Kreuzkirche,Spaziergang,,,,51.0487252,13.73922068452577,2021-01-26 17:14:39
+DE,2021-02-03,19:00:00,86343,Königsbrunn,Marktplatz / Rathaus,Kundgebung,,,,48.2688961,10.891047650928467,2021-01-26 17:14:39
+DE,2021-02-04,18:00:00,85586,Poing,Marktplatz / S-Bahn,Kundgebung,,,,48.1667467,11.803713,2021-01-26 17:14:39
+DE,2021-02-06,14:30:00,71364,Winnenden,Marktbrunnen,Mahnwache,,,,48.8761383,9.3993559,2021-01-26 17:14:39
+DE,2021-02-06,14:30:00,26382,Wilhelmshaven,Pacific Cafe,Spaziergang,,,,53.5194381,8.1190093,2021-01-26 17:14:39
+AT,2021-02-07,14:00:00,6800,Feldkirch,Marktplatz,Kundgebung,,nature-culture.academy,http://www.corona-demo.at,47.2375221,9.5958509,2021-01-26 17:14:39
+DE,2021-02-08,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-01-26 17:14:39
+DE,2021-02-08,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-01-26 17:14:39
+DE,2021-02-11,18:00:00,85586,Poing,Marktplatz / S-Bahn,Kundgebung,,,,48.1667467,11.803713,2021-01-26 17:14:39
+DE,2021-02-13,11:00:00,11011,Berlin,Platz der Republik 1 Reichstag,Kundgebung,,,,52.5170365,13.3888599,2021-01-26 17:14:39
+DE,2021-02-13,14:30:00,26382,Wilhelmshaven,Pacific Cafe,Spaziergang,,,,53.5194381,8.1190093,2021-01-26 17:14:39
+AT,2021-02-14,14:00:00,6700,Bludenz,Josef-Wolf-Platz,Kundgebung,,nature-culture.academy,http://www.corona-demo.at,47.1563676,9.8192587,2021-01-26 17:14:39
+DE,2021-02-15,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-01-26 17:14:39
+DE,2021-02-18,18:00:00,85586,Poing,Marktplatz / S-Bahn,Kundgebung,,,,48.1667467,11.803713,2021-01-26 17:14:39
+DE,2021-02-20,14:30:00,71364,Winnenden,Marktbrunnen,Mahnwache,,,,48.8761383,9.3993559,2021-01-26 17:14:39
+DE,2021-02-20,14:30:00,26382,Wilhelmshaven,Pacific Cafe,Spaziergang,,,,53.5194381,8.1190093,2021-01-26 17:14:39
+DE,2021-02-22,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-01-26 17:14:39
+DE,2021-02-25,18:00:00,85586,Poing,Marktplatz / S-Bahn,Kundgebung,,,,48.1667467,11.803713,2021-01-26 17:14:39
+DE,2021-02-27,14:30:00,86150,Augsburg,Ulrichsplatz,Demonstration,,,,48.3631112,10.9001256,2021-01-26 17:14:39
+DE,2021-03-01,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-01-26 17:14:39
+DE,2021-03-08,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-01-26 17:14:39
+DE,2021-03-15,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-01-26 17:14:39
+DE,2021-03-20,14:00:00,11011,Berlin,Reichstag,Kundgebung,,,,52.4676201,13.5280284,2021-01-26 17:14:39
+DE,2021-03-22,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-01-26 17:14:39
+DE,2021-03-29,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-01-26 17:14:39
+DE,2021-06-20,16:30:00,94315,Straubing,Ludwigsplatz,Mahnwache,,,,48.8820981,12.5738356,2021-01-26 17:14:39
+DE,2021-10-26,19:00:00,73728,Esslingen,Heugasse 10 / Delicantina,Treffpunkt,,,,48.7427584,9.3071685,2021-01-26 17:14:39
+DE,2021-11-05,18:00:00,10117,Berlin,Brandenburger Tor,Kundgebung,https://anonymous.support/live,Anonymous #MillionMaskMarch,https://anonymous.support,52.51628045,13.377701882994323,2021-01-26 17:14:39
+DE,2021-12-24,12:00:00,10178,Berlin,Alexanderplatz / Weltzeituhr,Charity,https://anonymous.support/live,Anonymous #OpSafeWinter,https://anonymous.support/opsafewinter/berlin,52.5170365,13.3888599,2021-01-26 17:14:39
