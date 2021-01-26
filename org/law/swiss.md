@@ -4,6 +4,12 @@ title:    Recht
 subtitle: Schweiz
 ---
 
+## Aktionsbündnis Aargau-Zürich für eine vernünftige Corona-Politik
+
+Mensch sein!  Gesicht zeigen!
+
+| {{ site.icons.globe }} | [www.aargau-zuerich.ch](https://www.aargau-zuerich.ch/) |
+
 ## COVID-19 Referendum Schweiz
 
 Sammelbeginn: 6. Oktober 2020
