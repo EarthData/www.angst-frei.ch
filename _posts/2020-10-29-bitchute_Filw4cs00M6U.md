@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      Youtube
+title:      bitchute
 subtitle:   Expertenteam präsentiert erdrückende mögliche Gesundheitsgefahren durch Masken
 date:       2020-10-29
 categories: Video
 tags:       [bittel, maske]
-youtubeId:  "FPL65fTvbNk"
+bitchuteId:  "Filw4cs00M6U"
 ---
-{% include youtubePlayer.html id=page.youtubeId %}
+{% include youtubePlayer.html id=page.bitchuteId %}

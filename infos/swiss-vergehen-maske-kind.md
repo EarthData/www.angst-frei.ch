@@ -135,6 +135,10 @@ Fehlt auch nur eines dieser Merkmale sind staatliche Anordnungen, und dazu gehö
 
 {% include bitchutePlayer.html id="hd796VYYyIUr" %}
 
+### Kinderarzt lässt die „Bombe“ platzen und kündigt eine Klage beim Gerichtshof in Den Haag an
+
+{% include bitchutePlayer.html id="32HL2Hq22q6h" %}
+
 ## Homeschooling
 
 ### Links zum Thema Homschooling
