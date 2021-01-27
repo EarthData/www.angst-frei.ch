@@ -37,7 +37,7 @@ Freie und faire Berichterstattung aus dem Großraum Aachen, Deutschland und der 
 "Der einflussreichste deutsche Autorenblog." (Berliner Zeitung)
 
 | {{ site.icons.globe }}    | [www.achgut.com](https://www.achgut.com/) |
-| {{ site.icons.facebook }} | [achgutcom](https://www.facebook.com/achgutcom/) |
+| {{ site.icons.facebook }} | [achgutcom](https://www.facebook.com/achgut/) |
 | {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/tags.html#achgut) |
 
 ## ![angst-frei.ch-Logo](/assets/img/logos/sun.png){:class="logo"} Anderwelt Verlag
@@ -81,7 +81,8 @@ Verlässliche Fakten über Themen wie Grenzwissenschaften und Zukunftsforschung
 
 GD-TV Schwäbisch Gmünd
 
-| {{ site.icons.youtube }}  | [GD-TV Schwäbisch Gmünd](https://www.youtube.com/c/GDTVSchw%C3%A4bischGm%C3%BCnd) |
+| {{ site.icons.telegram }} | [GD-TV](https://t.me/GD_TV) |
+| {{ site.icons.movie }}    | [Dailymotion: GD-TV](https://www.dailymotion.com/gd_tv) |
 
 ## ![Geschichten aus Wikihausen-Logo](/assets/img/logos/wikihausen.jpg){:class="logo"} Geschichten aus Wikihausen
 
@@ -103,7 +104,6 @@ www.journalistenwatch.com
 KenFM ist ein freies Presseportal, eine Nachrichtenplattform, die bewusst das Internet als einziges Verbreitungsmedium nutzt und damit im gesamten deutschsprachigen Raum „empfangen“ werden kann.
 
 | {{ site.icons.globe }}    | [kenfm.de](https://kenfm.de/) |
-| {{ site.icons.youtube }}  | [KenFM](https://www.youtube.com/user/wwwKenFMde) (gelöscht) |
 | {{ site.icons.telegram }} | [KenFM](https://t.me/KenFM) |
 
 ## ![angst-frei.ch-Logo](/assets/img/logos/sun.png){:class="logo"} KOLLATERAL
@@ -210,7 +210,7 @@ RT International gehört zu den renommiertesten Medien-Gruppen mit globaler Ausr
 Rubikon ist das Magazin für die kritische Masse. Sie berichten über das, was in den Massenmedien nicht zu finden ist.
 
 | {{ site.icons.globe }}    | [www.rubikon.news](https://www.rubikon.news/) |
-| {{ site.icons.bitchute }} | [Rubikon](https://www.bitchute.com/channel/xIZBezhe75) |
+| {{ site.icons.bitchute }} | [Rubikon](https://www.bitchute.com/channel/xIZBezhe75U0/) |
 
 ## ![Telepolis-Logo](/assets/img/logos/telepolis.png){:class="logo"} Telepolis
 
