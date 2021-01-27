@@ -125,7 +125,7 @@ Fehlt auch nur eines dieser Merkmale sind staatliche Anordnungen, und dazu gehö
 
 ### Anästhesistin und Notfallärztin Heike Sensendorf klärt auf!
 
-{% include youtubePlayer.html id="fxcoc02rhGc" %}
+{% include bitchutePlayer.html id="kB16z5nq5kHm" %}
 
 ### Wichtige Botschaft von Neurologin Dr. Margareta Griesz-Brisson
 

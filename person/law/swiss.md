@@ -23,6 +23,4 @@ heinz.raschein@spin.ch
 IBAN: Raiffeisen: CH77 8106 3000 0019 9706 9  
 
 | {{ site.icons.telegram }} | [Heinz Raschein](https://t.me/heinzraschein) |
-| {{ site.icons.forward }}  | [Dateien]({{ site.baseurl }}/files/law/swiss.html#heinz-raschein) |
-| {{ site.icons.forward }}  | [Vorgehen Kind]({{ site.baseurl }}/infos/law/swiss.html) |
 

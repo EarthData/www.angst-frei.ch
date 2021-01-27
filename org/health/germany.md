@@ -9,6 +9,8 @@ subtitle: Deutschland
 Die Stiftung Ärzte für Aufklärung hilft den Menschen, die unter den unsachlichen Corona-Maßnahmen leiden. 
 
 | {{ site.icons.globe }}    | [www.ärzte-für-aufklärung.de](https://www.ärzte-für-aufklärung.de/) |
+| {{ site.icons.globe }}    | [Die Evidenzlage zu Mund-Nasen-Bedeckungen](https://www.xn--rzte-fr-aufklrung-pqbn68b.de/masken/) |
+| {{ site.icons.odysee }}   | [Ärzte für Aufklärung](https://odysee.com/@aerztefueraufklaerung:8) |
 
 ## Mediziner und Wissenschaftler für Gesundheit, Freiheit und Demokratie, e.V.
 
