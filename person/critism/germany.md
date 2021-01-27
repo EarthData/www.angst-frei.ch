@@ -76,7 +76,6 @@ Miriam Hope
 Oliver Janich
 
 | {{ site.icons.globe }}    | [www.oliverjanich.de](https://www.oliverjanich.de) |
-| {{ site.icons.youtube }}  | [OliverJanich](https://www.youtube.com/user/OliverJanich) |
 | {{ site.icons.telegram }} | [oliverjanich](https://t.me/oliverjanich) |
 
 ## Gunnar Kaiser
