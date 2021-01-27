@@ -41,9 +41,6 @@ Grundrechte sind nicht verhandelbar.
 Notrecht Referendum
 
 | {{ site.icons.globe }} | [notrecht-referendum.ch](https://notrecht-referendum.ch/Home) |
-| {{ site.icons.pdf }}   | [Unterschriftenbögen DE](https://notrecht-referendum.ch/IMG/pdf/unterschriftenbogen_d.pdf) |
-| {{ site.icons.pdf }}   | [Unterschriftenbögen FR](https://notrecht-referendum.ch/IMG/pdf/unterschriftenbogen_f.pdf) |
-| {{ site.icons.pdf }}   | [Unterschriftenbögen IT](https://notrecht-referendum.ch/IMG/pdf/unterschriftenbogen_it.pdf) |
 
 ## Petition Frühling2020
 

@@ -38,6 +38,11 @@ table td:first-of-type {
   background-size: contain;
 }
 
+.odysee {
+  background: url('/assets/img/logos/odysee.jpg');
+  background-size: contain;
+}
+
 .image-table td:first-of-type {
   width: auto;
 }

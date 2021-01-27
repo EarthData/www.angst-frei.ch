@@ -5,7 +5,7 @@ subtitle:   "Paul Schreyer: Pandemie-Planspiele – Vorbereitung einer neuen Är
 date:       2020-12-24
 categories: Video
 timeline:   true
-tags:       [youtube, gates, wef]
+tags:       [gates, wef]
 youtubeId:  "SSnJhHOU_28"
 ---
 

@@ -4,7 +4,7 @@ title:      Youtube
 subtitle:   "Kindheitsforscher Michael Hüter: 'Eine ganze Generation wurde kollektiv traumatisiert'"
 date:       2020-10-02
 categories: Video
-tags:       [youtube, rt, kind]
+tags:       [rt, kind]
 youtubeId:  "k7blF3wmoeE"
 ---
 

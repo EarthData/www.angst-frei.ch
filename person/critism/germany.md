@@ -88,6 +88,13 @@ Gunnar Kaiser ist Schriftsteller und Philosoph.
 | {{ site.icons.telegram }} | [KaiserTV](https://t.me/gunnarkaisertv) |
 | {{ site.icons.facebook }} | [Gunnar Kaiser](https://www.facebook.com/gunnarkaiserliteratur) |
 
+## Vera Lengsfeld
+
+Autorin der Achse des Guten, achgut.de, Kolumnistin der PAZ
+
+| {{ site.icons.globe }}    | [vera-lengsfeld.de](https://vera-lengsfeld.de/) |
+| {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/tags.html#lengsfeld) |
+
 ## Kilez More
 
 Kilez More

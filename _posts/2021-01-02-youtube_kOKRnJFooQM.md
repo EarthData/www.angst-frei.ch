@@ -5,7 +5,7 @@ subtitle:   "BioNtech Impfstoff BNT162, eine molekulare Plattform zur Genmanipul
 date:       2021-01-02
 categories: Video
 timeline:   true
-tags:       [youtube, pcr-test]
+tags:       [pcr-test]
 youtubeId:  "kOKRnJFooQM"
 ---
 

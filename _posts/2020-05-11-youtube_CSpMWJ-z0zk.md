@@ -5,7 +5,7 @@ subtitle:   "Invasive Beatmung bei Covid-19: Mehr Schaden als Nutzen?"
 date:       2020-05-11
 timeline:   yes
 categories: Video
-tags:       [youtube, monitor, beatmung]
+tags:       [monitor, beatmung]
 youtubeId:  "CSpMWJ-z0zk"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}

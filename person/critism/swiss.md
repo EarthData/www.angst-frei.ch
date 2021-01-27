@@ -22,7 +22,7 @@ Samuel Eckert
 
 | {{ site.icons.globe }}    | [samueleckert.net](https://samueleckert.net/) |
 | {{ site.icons.dlive }}    | [samueleckert](https://dlive.tv/samueleckert) |
-| {{ site.icons.youtube }}  | [Samuel Eckert](https://www.youtube.com/c/SamuelEckert) |
+| {{ site.icons.odysee }}   | [Samuel Eckert](https://odysee.com/@samueleckert:4) |
 | {{ site.icons.telegram }} | [Samuel Eckert](https://t.me/samueleckert) |
 | {{ site.icons.forward }}  | [Coronainfo-Tour]({{ site.baseurl }}/org/critism/germany.html#coronainfo-tour) |
 

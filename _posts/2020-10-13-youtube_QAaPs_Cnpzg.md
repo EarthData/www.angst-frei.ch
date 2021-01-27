@@ -5,7 +5,7 @@ subtitle:   "Dagmar Belakowitsch und Susanne Fürst: So sehr leiden Kinder unter
 date:       2020-10-13
 timeline:   true
 categories: Video
-tags:       [youtube, kind, maske]
+tags:       [kind, maske]
 youtubeId:  "QAaPs_Cnpzg"
 ---
 

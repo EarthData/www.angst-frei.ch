@@ -59,3 +59,9 @@ Schlussjetzt ist ein Netzwerk kritischer Juristen. Sie haben auf dieser Seite ju
 
 | {{ site.icons.globe }}    | [schlussjetzt.org](http://schlussjetzt.org/) |
 
+## Zeig Dein Gesicht
+
+Zeig Dein Gesicht für die Grundrechte
+
+| {{ site.icons.globe }}    | [www.zeig-dein-gesicht.de](https://www.zeig-dein-gesicht.de) |
+

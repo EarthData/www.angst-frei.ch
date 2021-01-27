@@ -4,7 +4,7 @@ title:      Youtube
 subtitle:   "Tabula Rasa: Der große Reset - Robert Stein"
 date:       2020-10-25
 categories: Video
-tags:       [youtube, stein]
+tags:       [stein]
 youtubeId:  "2gtAsk5GAy0"
 ---
 

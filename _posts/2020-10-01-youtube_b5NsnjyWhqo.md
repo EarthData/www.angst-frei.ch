@@ -4,7 +4,7 @@ title:      Youtube
 subtitle:   "Money Talks V - Verbrechen gegen die Menschlichkeit"
 date:       2020-10-01
 categories: Video
-tags:       [youtube, fuellmich, geld]
+tags:       [fuellmich, geld]
 youtubeId:  "b5NsnjyWhqo"
 ---
 

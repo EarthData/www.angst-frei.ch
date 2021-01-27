@@ -4,7 +4,7 @@ title:      Youtube
 subtitle:   Bill Gates & die totale Bevölkerungskontrolle
 date:       2020-09-21
 categories: Video
-tags:       [youtube, gates]
+tags:       [gates]
 youtubeId:  "h8HU6N-HtNs"
 ---
 

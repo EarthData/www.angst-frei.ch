@@ -4,7 +4,7 @@ title:      Youtube
 subtitle:   Expertenteam präsentiert erdrückende mögliche Gesundheitsgefahren durch Masken
 date:       2020-10-29
 categories: Video
-tags:       [youtube, bittel, maske]
+tags:       [bittel, maske]
 youtubeId:  "FPL65fTvbNk"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}

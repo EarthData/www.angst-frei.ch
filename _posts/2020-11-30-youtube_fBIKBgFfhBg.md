@@ -4,7 +4,7 @@ title:      Youtube
 subtitle:   "Was machen die Corona-Maßnahmen mit unseren Kindern? Ein Statement von Hirnforscher Gerald Hüther"
 date:       2020-11-30
 categories: Video
-tags:       [youtube, kind]
+tags:       [kind]
 youtubeId:  "fBIKBgFfhBg"
 ---
 

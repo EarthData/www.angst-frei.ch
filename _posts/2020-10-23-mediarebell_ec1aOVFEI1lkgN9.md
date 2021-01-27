@@ -4,7 +4,7 @@ title:         mediarebell
 subtitle:      "Ärztin für Arbeitsmedizin: Potentielle Schädlichkeit von Masken - Würde es sonst Schutzvorschriften"
 date:          2020-10-23
 categories:    Video
-tags:          [mediarebell, maske]
+tags:          [maske]
 mediarebellId: "ec1aOVFEI1lkgN9"
 ---
 

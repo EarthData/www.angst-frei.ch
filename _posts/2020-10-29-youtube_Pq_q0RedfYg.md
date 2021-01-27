@@ -5,7 +5,7 @@ subtitle:   "AT: Verfassungsgerichtshof: Lockdown-'Nachfolge-Verordnungen' verfa
 date:       2020-10-29
 timeline:   true
 categories: Video
-tags:       [youtube, lockdown]
+tags:       [lockdown]
 youtubeId:  "Pq_q0RedfYg"
 ---
 
