@@ -1,159 +1,134 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite,latitude,longitude,created
-DE,2021-01-31,10:00:00,2763,Zittau,B 96,Mahnwache,,,,50.8930143,14.8095541,2021-01-31 23:28:54
-DE,2021-01-31,10:45:00,75015,Bretten,Marktplatz,Meditation,,,,49.0372069,8.7069939,2021-01-31 23:28:54
-DE,2021-01-31,11:00:00,88131,Lindau,Bodensee,Kundgebung,,,,47.5583751,9.696391771831173,2021-01-31 23:28:54
-DE,2021-01-31,12:30:00,40474,Düsseldorf,Messeparkplatz P1 Feld 5 Nord,Autokorso,,Corona-Rebellen Düsseldorf,https://coronarebellenduesseldorf.com/,51.2254018,6.7763137,2021-01-31 23:28:54
-DE,2021-01-31,13:00:00,59872,Meschede,Kreishaus/Hennepark,Autokorso,,Freiheitsfahrer / NW,,51.3436532,8.2859257,2021-01-31 23:28:54
-DE,2021-01-31,13:00:00,10117,Berlin,Liebknechtstr. / Unter den Linden,Schweigemarsch,,,,52.5170365,13.3888599,2021-01-31 23:28:54
-DE,2021-01-31,14:00:00,17373,Ueckermünde,Marktplatz,Spaziergang,,Privat,,53.73714475,14.04595006006365,2021-01-31 23:28:54
-DE,2021-01-31,14:00:00,83308,Trostberg / Alz,Chemiepark P8,Versammlung,https://www.youtube.com/channel/UC6lTPQhCVf3yeHM8yNrcRTg/live,BSZusammen / FB / QD,https://bayern-steht-zusammen.de/START/,48.0280797,12.564460774739754,2021-01-31 23:28:54
-DE,2021-01-31,14:00:00,83308,Trostberg,Chemiepark Parkplatz P8,Kundgebung,,Bayern steht zusammen e.V.,https://www.bayern-steht-zusammen.de/TERMINE/,48.0279493,12.558228,2021-01-31 23:28:54
-DE,2021-01-31,14:00:00,75172,Pforzheim,Habermehlstr. / Messplatz,Autokorso,,,,48.8908846,8.7029532,2021-01-31 23:28:54
-DE,2021-01-31,14:00:00,75172,Pforzheim,Messplatz / Habermehlstr.,Autokorso,,,,48.8908846,8.7029532,2021-01-31 23:28:54
-DE,2021-01-31,14:00:00,84347,Pfarrkirchen,P + R / Parkplatz,Kundgebung,,BfFuW / SD21,,48.4320329,12.9386266,2021-01-31 23:28:54
-DE,2021-01-31,14:00:00,84347,Pfarrkirchen,Stadtplatz,Demonstration,https://www.youtube.com/channel/UC2LAeN7JqtOuUvz_8EaAXgA,SelbstDenken21 & BFFUW,http://shop.selbstdenken21.de,48.4321318,12.9388605,2021-01-31 23:28:54
-DE,2021-01-31,14:00:00,63452,Hanau / Lamboy,Am Tümpelgarten 21 / Bürgerhaus,Aufzug,,,,50.143450349999995,8.902894630243406,2021-01-31 23:28:54
-DE,2021-01-31,14:00:00,58095,Hagen,Friedrich Ebert Platz,Spaziergang,,Querdenken 211,,51.35822575,7.4735280503668715,2021-01-31 23:28:54
-AT,2021-01-31,14:00:00,6850,Dornbirn,Marktplatz,Kundgebung,,nature-culture.academy,http://www.corona-demo.at,47.4132168,9.7438249,2021-01-31 23:28:54
-DE,2021-01-31,14:30:00,50667,Köln,Alter Markt,Mahnwache,,selberDenken,,50.9392151,6.959534,2021-01-31 23:28:54
-DE,2021-01-31,15:00:00,10117,Berlin,Wilhelmstraße 54,Bauerndemo,https://demo.stream/berlinberlin,Land schafft Verbindung,,52.51398435,13.383095737580824,2021-01-31 23:28:54
-DE,2021-01-31,15:30:00,82140,Olching / FFB,Toni-März-Str. / Volksfestplatz,Kundgebung,,Amperfeen,http://www.amperfee.de,48.208217700000006,11.350507609978315,2021-01-31 23:28:54
-DE,2021-01-31,16:00:00,19370,Parchim,Bergstr. / Festplatz,Spaziergang,,,,53.4258455,11.8475244,2021-01-31 23:28:54
-DE,2021-01-31,17:00:00,33758,Schloß-Holte Stukenbrock,Gymnasium,Autokorso,,,,51.901066,8.6336749,2021-01-31 23:28:54
-DE,2021-01-31,17:30:00,14057,Berlin,Messe Nord P3,Autokorso,,,,52.5077057,13.2834702,2021-01-31 23:28:54
-DE,2021-01-31,18:00:00,88239,Wangen,Marktplatz,Spaziergang,,,,47.68618715,9.833833942392392,2021-01-31 23:28:54
-DE,2021-01-31,18:00:00,10117,Berlin,Brandenburger Tor,Kundgebung,https://demo.stream/live,#MerkelMussWeg,,52.51628045,13.377701882994323,2021-01-31 23:28:54
-DE,2021-01-31,18:29:00,73525,Schwäbisch Gmünd,Marktplatz,Kundgebung,,,,48.7993555,9.7985533,2021-01-31 23:28:54
-DE,2021-02-01,13:15:00,31785,Hameln,Marktkirche St. Nicolai,Kundgebung,,,,52.1049295,9.35700519181465,2021-01-31 23:28:54
-DE,2021-02-01,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-01-31 23:28:54
-DE,2021-02-01,16:00:00,70839,Gerlingen,Kliniken / Schillerhöhe,Mahnwache,,,,48.7983947,9.0624386,2021-01-31 23:28:54
-DE,2021-02-01,17:00:00,70173,Stuttgart,Karlsplatz,Kundgebung,,,,48.77655285,9.180667785868211,2021-01-31 23:28:54
-DE,2021-02-01,17:00:00,33098,Paderborn,Rathausplatz,Schweigemarsch,,,,51.7169744,8.7538304,2021-01-31 23:28:54
-DE,2021-02-01,17:00:00,24103,Kiel,Exerzierplatz,Versammlung,,,,54.3215806,10.1292734,2021-01-31 23:28:54
-DE,2021-02-01,17:00:00,23843,Bad Oldesloe,Bahnhofsvorplatz,Kundgebung,,Initiative für Aufklärung und Transparenz,,53.8052678,10.3822381,2021-01-31 23:28:54
-DE,2021-02-01,17:30:00,17438,Wolgast,Springbrunnen / Hufelands,Kundgebung,,,,54.0536473,13.7757809,2021-01-31 23:28:54
-DE,2021-02-01,17:30:00,97070,Würzburg,Unterer Markt,Spaziergang,,Eltern stehen auf,,49.7943933,9.9299827,2021-01-31 23:28:54
-DE,2021-02-01,17:30:00,79682,Todtmoos,Rathaus,Mahnwache,,,,47.7410953,8.0047438,2021-01-31 23:28:54
-DE,2021-02-01,17:30:00,33602,Bielefeld,Rathaus,Mahnwache,,,,52.0205741,8.5346015,2021-01-31 23:28:54
-DE,2021-02-01,18:00:00,2763,Zittau,Markt,Kundgebung,,Freunde von PEGIDA,,50.8958774,14.8067754,2021-01-31 23:28:54
-DE,2021-02-01,18:00:00,88239,Wangen,Marktplatz,Spaziergang,,,,47.68618715,9.833833942392392,2021-01-31 23:28:54
-DE,2021-02-01,18:00:00,31655,Stadthagen,Marktplatz,Kundgebung,,,,52.3207761,9.205073,2021-01-31 23:28:54
-DE,2021-02-01,18:00:00,18055,Rostock,Universitätsplatz / Brunnen,Demonstration,,,,54.0924445,12.1286127,2021-01-31 23:28:54
-DE,2021-02-01,18:00:00,14467,Potsdam,Breite Str. 1A / Filmmuseum,Kundgebung,,,,52.4009309,13.0591397,2021-01-31 23:28:54
-DE,2021-02-01,18:00:00,49071,Osnabrück,Rathaus,Spaziergang,,,,52.55541615,7.946846279039729,2021-01-31 23:28:54
-DE,2021-02-01,18:00:00,19288,Ludwigslust,Schloss,Spaziergang,,,,53.378322999999995,10.935281149999991,2021-01-31 23:28:54
-DE,2021-02-01,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-01-31 23:28:54
-DE,2021-02-01,18:00:00,89150,Laichingen,Marktplatz,Kundgebung,,,,48.4896556,9.6858759,2021-01-31 23:28:54
-DE,2021-02-01,18:00:00,78462,Konstanz,Münster,Spaziergang,,Freidenken Konstanz,,47.6989993,9.0618076,2021-01-31 23:28:54
-DE,2021-02-01,18:00:00,87435,Kempten,Hildegardplatz / Brunnen,Spaziergang,,,,47.7267063,10.3168835,2021-01-31 23:28:54
-DE,2021-02-01,18:00:00,4668,Grimma,Markt,Spaziergang,,,,51.2364649,12.7285243,2021-01-31 23:28:54
-DE,2021-02-01,18:00:00,73728,Esslingen,Marktplatz,Spaziergang,,,,48.7425725,9.3069098,2021-01-31 23:28:54
-DE,2021-02-01,18:00:00,1067,Dresden,Kreuzkirche,Spaziergang,,,,51.0487252,13.73922068452577,2021-01-31 23:28:54
-DE,2021-02-01,18:30:00,18055,Rostock,Hauptbahnhof Süd Parkplatz,Aufzug,https://youtu.be/V9wjfIqk1GM,,,54.07723615,12.129642352915175,2021-01-31 23:28:54
-DE,2021-02-01,18:30:00,18055,Rostock,Kröpeliner Tor,Aufzug,,,,54.08845875,12.12920472849315,2021-01-31 23:28:54
-DE,2021-02-01,18:30:00,18057,Rostock,Doberaner Platz,Demonstration,https://www.youtube.com/channel/UC7-BzkIiQ4dpfFyuBxlJN3Q/live,,,54.0872659,12.1208911,2021-01-31 23:28:54
-DE,2021-02-01,18:30:00,18055,Rostock,Alter Markt,Demonstration,https://www.youtube.com/channel/UC7-BzkIiQ4dpfFyuBxlJN3Q/live,,,54.09008985,12.14735433172254,2021-01-31 23:28:54
-DE,2021-02-01,18:30:00,75172,Pforzheim,Kiehnlestr. 25,Aufzug,,,,48.8932665,8.6983947,2021-01-31 23:28:54
-DE,2021-02-01,18:30:00,17033,Neubrandenburg,Marktplatz,Aufzug,,,,53.55740205,13.260322640114307,2021-01-31 23:28:54
-DE,2021-02-01,18:30:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,,,51.0227878,11.5129742,2021-01-31 23:28:54
-DE,2021-02-01,19:00:00,38440,Wolfsburg,Rathaus,Spaziergang,,Überparteilich,,52.4212204,10.7871629,2021-01-31 23:28:54
-DE,2021-02-01,19:00:00,17192,Waren / Müritz,Neuer Markt,Kundgebung,,,,53.5140743,12.6888953,2021-01-31 23:28:54
-DE,2021-02-01,19:00:00,3831,Stralsund,Marktplatz / Alter Markt,Kundgebung,,,,54.31600745,13.090277142995562,2021-01-31 23:28:54
-DE,2021-02-01,19:00:00,99974,Mühlhausen / Thüringen,Postplatz,Spaziergang,,,,51.2094255,10.4589044,2021-01-31 23:28:54
-DE,2021-02-01,19:00:00,42897,Lennep,Rader Str. 4 / An der Kirmes,Schweigemarsch,,Carsten Jahn,,51.1774492,7.2707841699703515,2021-01-31 23:28:54
-DE,2021-02-01,19:00:00,47800,Krefeld,Hauptbahnhof,Kundgebung,,KAM  Krefeld am Montag,http://www.querdenken-215.de,51.3271114,6.572288807854067,2021-01-31 23:28:54
-DE,2021-02-01,19:00:00,87600,Kaufbeuren,Altes Rathaus,Spaziergang,,,,47.8803788,10.622246,2021-01-31 23:28:54
-DE,2021-02-01,19:00:00,10457,Berlin,Messe Nord P3 Masurenallee,Autokorso,,Freiheitsfahrer Berlin West,https://t.me/AutokorsoBerlin,,,2021-01-31 23:28:54
-DE,2021-02-01,19:00:00,17429,Benz / Usedom,Ehrenmal Fritz Behn,Spaziergang,,,,53.95646934663664,14.10512124761911,2021-01-31 23:28:54
-DE,2021-02-01,19:00:00,83075,Bad Feilnbach,Rathaus,Kundgebung,,,,47.7736331,12.00978735004864,2021-01-31 23:28:54
-DE,2021-02-01,20:00:00,76287,Rheinstetten,Rappenwörthstr. 49 / Rathaus,Kundgebung,,Für die Grundrechte,https://www.grundrechte.jetzt,48.968549,8.3097117,2021-01-31 23:28:54
-DE,2021-02-02,12:00:00,24105,Kiel,Landtag,Demonstration,,Friseure,https://facebook.com/events/318443079516298/,54.3346976,10.1509223,2021-01-31 23:28:54
-DE,2021-02-02,15:30:00,18146,Güstrow,Am Borwinbrunnen,Kundgebung,,,/ 15:30 Uhr /,53.7946562,12.1747505,2021-01-31 23:28:54
-DE,2021-02-02,16:00:00,70839,Gerlingen,Kliniken / Schillerhöhe,Mahnwache,,,,48.7983947,9.0624386,2021-01-31 23:28:54
-DE,2021-02-02,17:30:00,97070,Würzburg,Hofstr. ggue. Residenz,Spaziergang,,Eltern stehen auf,,49.79245,9.932966,2021-01-31 23:28:54
-DE,2021-02-02,19:00:00,83714,Miesbach,Unterer Markt,Kundgebung,,,,47.7130099,11.7530398,2021-01-31 23:28:54
-DE,2021-02-03,16:00:00,70839,Gerlingen,Kliniken / Schillerhöhe,Mahnwache,,,,48.7983947,9.0624386,2021-01-31 23:28:54
-DE,2021-02-03,17:00:00,70173,Stuttgart,Karlsplatz,Aufzug,,,,48.77655285,9.180667785868211,2021-01-31 23:28:54
-DE,2021-02-03,17:00:00,70372,Stuttgart,Cannstatter Wasen  P10,Autokorso,,,,48.7969789,9.21725646568217,2021-01-31 23:28:54
-DE,2021-02-03,17:00:00,70173,Stuttgart,Karlsplatz,Demonstration,,,,48.77655285,9.180667785868211,2021-01-31 23:28:54
-DE,2021-02-03,17:00:00,70173,Stuttgart,Denkerdenkmal,Kundgebung,,,,48.7784485,9.1800132,2021-01-31 23:28:54
-DE,2021-02-03,17:30:00,97070,Würzburg,Unterer Markt,Spaziergang,,Eltern stehen auf,,49.7943933,9.9299827,2021-01-31 23:28:54
-DE,2021-02-03,17:30:00,75172,Pforzheim,Kiehnlestr. 25,Aufzug,,,,48.8932665,8.6983947,2021-01-31 23:28:54
-DE,2021-02-03,18:00:00,18109,Rostock Groß Klein,Klenow Tor,Aufzug,,,,54.15186145,12.072512867482464,2021-01-31 23:28:54
-DE,2021-02-03,19:00:00,83022,Rosenheim,Ichikawa-Platz,Kundgebung,,,,47.85876395,12.133756881553518,2021-01-31 23:28:54
-DE,2021-02-03,19:00:00,86343,Königsbrunn,Marktplatz / Rathaus,Kundgebung,,,,48.2688961,10.891047650928467,2021-01-31 23:28:54
-DE,2021-02-04,16:00:00,70839,Gerlingen,Kliniken / Schillerhöhe,Mahnwache,,,,48.7983947,9.0624386,2021-01-31 23:28:54
-DE,2021-02-04,17:00:00,70173,Stuttgart,Kronprinzplatz / Brunnen,Kundgebung,,,,48.7784485,9.1800132,2021-01-31 23:28:54
-DE,2021-02-04,18:00:00,85586,Poing,Marktplatz / S-Bahn,Kundgebung,,,,48.1667467,11.803713,2021-01-31 23:28:54
-DE,2021-02-04,18:15:00,47051,Duisburg,Bahnhofsvorplatz  HBF,Aufzug,,Duisburg steht auf,,51.431804799999995,6.776522807077882,2021-01-31 23:28:54
-DE,2021-02-04,20:00:00,76287,Rheinstetten,Rappenwörthstr. 49 / Rathaus,Kundgebung,,Für die Grundrechte,https://www.grundrechte.jetzt,48.968549,8.3097117,2021-01-31 23:28:54
-DE,2021-02-05,15:30:00,23843,Bargteheide,Am Markt / Schulzentrum,Mahnwache,,,,53.7271291,10.2631379,2021-01-31 23:28:54
-DE,2021-02-05,16:00:00,70839,Gerlingen,Kliniken / Schillerhöhe,Mahnwache,,,,48.7983947,9.0624386,2021-01-31 23:28:54
-DE,2021-02-05,17:00:00,70173,Stuttgart,Königstr. 2 / Commerzbank,Kundgebung,,,,48.7784485,9.1800132,2021-01-31 23:28:54
-DE,2021-02-05,17:30:00,76316,Karlsruhe,Friedrichsplatz,Kundgebung,,,,49.0083476,8.4011054,2021-01-31 23:28:54
-DE,2021-02-05,18:00:00,4668,Grimma,Markt,Spaziergang,,,,51.2364649,12.7285243,2021-01-31 23:28:54
-DE,2021-02-06,12:15:00,20359,Hamburg,Glacischaussee,Autokorso,,,,53.5538206,9.9726533,2021-01-31 23:28:54
-DE,2021-02-06,12:15:00,20359,Hamburg,Glacieschaussee,Autokorso,,Freiheitsfahrer,https://t.me/FreiheitsfahrerHamburg,53.5538206,9.9726533,2021-01-31 23:28:54
-DE,2021-02-06,13:00:00,6300,Zug,Bahnhofplatz,Kundgebung,,,,54.8343324,9.5502894,2021-01-31 23:28:54
-DE,2021-02-06,13:00:00,24558,Henstedt-Ulzburg,Hamburger Str. 8 / Parkplatz CCU,Spaziergang,,,,53.7926888,9.9808134,2021-01-31 23:28:54
-DE,2021-02-06,13:00:00,85540,Haar,Kirchplatz,Kundgebung,,Bürger im Dialog,https://t.me/fuerfriedenundfreiheit,48.109524,11.726431801872659,2021-01-31 23:28:54
-DE,2021-02-06,14:00:00,94315,Straubing,Theresienplatz,Demonstration,https://www.youtube.com/channel/UC2LAeN7JqtOuUvz_8EaAXgA,SelbstDenken21 & BFFUW,http://shop.selbstdenken21.de,48.8815695,12.567301068368142,2021-01-31 23:28:54
-DE,2021-02-06,14:00:00,19055,SCHWERIN,Marktplatz,Kundgebung,,,,53.6289415,11.4148295,2021-01-31 23:28:54
-DE,2021-02-06,14:00:00,30169,Hannover,Schützenplatz / Gilde Tor,Autokorso,,,,52.3744779,9.7385532,2021-01-31 23:28:54
-DE,2021-02-06,14:00:00,9111,Chemnitz,Karl-Marx-Kopf,Kundgebung,,Chemnitz steht auf,,,,2021-01-31 23:28:54
-DE,2021-02-06,14:30:00,71364,Winnenden,Marktbrunnen,Mahnwache,,,,48.8761383,9.3993559,2021-01-31 23:28:54
-DE,2021-02-06,14:30:00,26382,Wilhelmshaven,Pacific Cafe,Spaziergang,,,,53.5194381,8.1190093,2021-01-31 23:28:54
-DE,2021-02-06,15:30:00,75175,Pforzheim,Marktplatz,Kundgebung,,,,48.8914943,8.7055085,2021-01-31 23:28:54
-DE,2021-02-06,16:15:00,83395,Freilassing,Grenzbrücke / DE-AT,Kundgebung,,,https://t.me/silberjungethorstenschulte,47.8378039,12.9781408,2021-01-31 23:28:54
-DE,2021-02-06,20:00:00,76287,Rheinstetten,Rappenwörthstr. 49 / Rathaus,Kundgebung,,Für die Grundrechte,https://www.grundrechte.jetzt,48.968549,8.3097117,2021-01-31 23:28:54
-DE,2021-02-07,13:00:00,85354,Freising,Luitpoldanlage,Kundgebung,https://www.youtube.com/channel/UCapsH7wkZU7no17Glj0J8pA/live,BSZusammen / Fboten / QD,https://tgstat.com/channel/@bayern_steht_zusammen/89,48.4008273,11.7439565,2021-01-31 23:28:54
-DE,2021-02-07,13:00:00,85356,Freising,Luitpoldanlage,Kundgebung,,Bayern steht zusammen e.V.,https://www.bayern-steht-zusammen.de/TERMINE/,48.4008273,11.7439565,2021-01-31 23:28:54
-DE,2021-02-07,14:00:00,69231,Rauenberg,Rathausplatz,Kundgebung,,,,49.2581739,8.7155494,2021-01-31 23:28:54
-AT,2021-02-07,14:00:00,6800,Feldkirch,Marktplatz,Kundgebung,,nature-culture.academy,http://www.corona-demo.at,47.2375221,9.5958509,2021-01-31 23:28:54
-DE,2021-02-07,14:00:00,86150,Augsburg,Plärrer,Autokorso,,Grundrechte-Wahren,http://www.grundrechte-wahren.de,48.37543545,10.882113381662087,2021-01-31 23:28:54
-DE,2021-02-08,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-01-31 23:28:54
-DE,2021-02-08,17:30:00,33602,Bielefeld,Rathaus,Mahnwache,,,,52.0205741,8.5346015,2021-01-31 23:28:54
-DE,2021-02-08,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-01-31 23:28:54
-DE,2021-02-08,18:00:00,87435,Kempten,Hildegardplatz / Brunnen,Spaziergang,,,,47.7267063,10.3168835,2021-01-31 23:28:54
-DE,2021-02-08,18:00:00,4668,Grimma,Markt,Spaziergang,,,,51.2364649,12.7285243,2021-01-31 23:28:54
-DE,2021-02-08,19:00:00,14055,Berlin,Messe Nord P3 Masurenallee,Autokorso,,Freiheitsfahrer Berlin West,https://t.me/AutokorsoBerlin,52.50342740313163,13.24926555290119,2021-01-31 23:28:54
-DE,2021-02-08,20:00:00,76287,Rheinstetten,Rappenwörthstr. 49 / Rathaus,Kundgebung,,Für die Grundrechte,https://www.grundrechte.jetzt,48.968549,8.3097117,2021-01-31 23:28:54
-DE,2021-02-11,18:00:00,85586,Poing,Marktplatz / S-Bahn,Kundgebung,,,,48.1667467,11.803713,2021-01-31 23:28:54
-DE,2021-02-12,15:30:00,23843,Bargteheide,Am Markt / Schulzentrum,Mahnwache,,,,53.7271291,10.2631379,2021-01-31 23:28:54
-DE,2021-02-12,18:00:00,4668,Grimma,Markt,Spaziergang,,,,51.2364649,12.7285243,2021-01-31 23:28:54
-DE,2021-02-13,11:00:00,11011,Berlin,Platz der Republik 1 Reichstag,Kundgebung,,,,52.5170365,13.3888599,2021-01-31 23:28:54
-CH,2021-02-13,13:00:00,8000,Zürich,Fraumünster-Kirche,Spaziergang,,,,,,2021-01-31 23:28:54
-DE,2021-02-13,14:30:00,26382,Wilhelmshaven,Pacific Cafe,Spaziergang,,,,53.5194381,8.1190093,2021-01-31 23:28:54
-DE,2021-02-14,14:00:00,69231,Rauenberg,Rathausplatz,Kundgebung,,,,49.2581739,8.7155494,2021-01-31 23:28:54
-AT,2021-02-14,14:00:00,6700,Bludenz,Josef-Wolf-Platz,Kundgebung,,nature-culture.academy,http://www.corona-demo.at,47.1563676,9.8192587,2021-01-31 23:28:54
-DE,2021-02-14,14:30:00,89257,Illertissen,Marktplatz,Kundgebung,,Klardenken Schwaben,http://Klardenken-schwaben.de,48.2224503,10.1055099,2021-01-31 23:28:54
-DE,2021-02-15,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-01-31 23:28:54
-DE,2021-02-15,17:30:00,33602,Bielefeld,Rathaus,Mahnwache,,,,52.0205741,8.5346015,2021-01-31 23:28:54
-DE,2021-02-15,18:00:00,87435,Kempten,Hildegardplatz / Brunnen,Spaziergang,,,,47.7267063,10.3168835,2021-01-31 23:28:54
-DE,2021-02-15,19:00:00,14055,Berlin,Messe Nord P3 Masurenallee,Autokorso,,Freiheitsfahrer Berlin West,https://t.me/AutokorsoBerlin,52.50342740313163,13.24926555290119,2021-01-31 23:28:54
-DE,2021-02-18,18:00:00,85586,Poing,Marktplatz / S-Bahn,Kundgebung,,,,48.1667467,11.803713,2021-01-31 23:28:54
-DE,2021-02-20,14:30:00,71364,Winnenden,Marktbrunnen,Mahnwache,,,,48.8761383,9.3993559,2021-01-31 23:28:54
-DE,2021-02-20,14:30:00,26382,Wilhelmshaven,Pacific Cafe,Spaziergang,,,,53.5194381,8.1190093,2021-01-31 23:28:54
-DE,2021-02-21,13:00:00,83512,Wasserburg am Inn,Festplatz am Badria,Kundgebung,,Bayern steht zamm,https://www.bayern-steht-zusammen.de/,48.0615171,12.220026,2021-01-31 23:28:54
-DE,2021-02-21,13:00:00,83512,Wasserburg / Inn,Festplatz am Badria,Kundgebung,https://www.youtube.com/channel/UCapsH7wkZU7no17Glj0J8pA/live,BSZusammen / Fboten / QD,https://tgstat.com/channel/@bayern_steht_zusammen/89,48.0615171,12.220026,2021-01-31 23:28:54
-DE,2021-02-21,14:00:00,69231,Rauenberg,Rathausplatz,Kundgebung,,,,49.2581739,8.7155494,2021-01-31 23:28:54
-DE,2021-02-22,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-01-31 23:28:54
-DE,2021-02-22,17:30:00,33602,Bielefeld,Rathaus,Mahnwache,,,,52.0205741,8.5346015,2021-01-31 23:28:54
-DE,2021-02-22,18:00:00,87435,Kempten,Hildegardplatz / Brunnen,Spaziergang,,,,47.7267063,10.3168835,2021-01-31 23:28:54
-DE,2021-02-22,19:00:00,14055,Berlin,Messe Nord P3 Masurenallee,Kundgebung,,Freiheitsfahrer Berlin West,https://t.me/AutokorsoBerlin,52.50342740313163,13.24926555290119,2021-01-31 23:28:54
-DE,2021-02-22,19:00:00,14055,Berlin,Messe Nord P3 Masurenallee,Autokorso,,Freiheitsfahrer Berlin West,https://t.me/AutokorsoBerlin,52.50342740313163,13.24926555290119,2021-01-31 23:28:54
-DE,2021-02-25,18:00:00,85586,Poing,Marktplatz / S-Bahn,Kundgebung,,,,48.1667467,11.803713,2021-01-31 23:28:54
-DE,2021-02-27,14:30:00,86150,Augsburg,Ulrichsplatz,Demonstration,,,,48.3631112,10.9001256,2021-01-31 23:28:54
-DE,2021-02-28,14:00:00,69231,Rauenberg,Rathausplatz,Kundgebung,,,,49.2581739,8.7155494,2021-01-31 23:28:54
-DE,2021-02-28,14:30:00,89257,Illertissen,Marktplatz,Kundgebung,,Klardenken Schwaben,http://Klardenken-schwaben.de,48.2224503,10.1055099,2021-01-31 23:28:54
-DE,2021-03-01,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-01-31 23:28:54
-DE,2021-03-01,19:00:00,9376,Oelsnitz / Erzg.,Marktplatz,Kundgebung,,,,,,2021-01-31 23:28:54
-DE,2021-03-08,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-01-31 23:28:54
-DE,2021-03-15,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-01-31 23:28:54
-DE,2021-03-20,14:00:00,11011,Berlin,Reichstag,Kundgebung,,,,52.4676201,13.5280284,2021-01-31 23:28:54
-DE,2021-03-22,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-01-31 23:28:54
-DE,2021-03-29,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-01-31 23:28:54
-DE,2021-06-20,16:30:00,94315,Straubing,Ludwigsplatz,Mahnwache,,,,48.8820981,12.5738356,2021-01-31 23:28:54
-DE,2021-10-26,19:00:00,73728,Esslingen,Heugasse 10 / Delicantina,Treffpunkt,,,,48.7427584,9.3071685,2021-01-31 23:28:54
-DE,2021-11-05,18:00:00,10117,Berlin,Brandenburger Tor,Kundgebung,https://anonymous.support/live,Anonymous #MillionMaskMarch,https://anonymous.support,52.51628045,13.377701882994323,2021-01-31 23:28:54
-DE,2021-12-24,12:00:00,10178,Berlin,Alexanderplatz / Weltzeituhr,Charity,https://anonymous.support/live,Anonymous #OpSafeWinter,https://anonymous.support/opsafewinter/berlin,52.5170365,13.3888599,2021-01-31 23:28:54
+DE,2021-02-01,13:15:00,31785,Hameln,Marktkirche St. Nicolai,Kundgebung,,,,52.1049295,9.35700519181465,2021-02-01 00:24:44
+DE,2021-02-01,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-02-01 00:24:44
+DE,2021-02-01,16:00:00,70839,Gerlingen,Kliniken / Schillerhöhe,Mahnwache,,,,48.7983947,9.0624386,2021-02-01 00:24:44
+DE,2021-02-01,17:00:00,70173,Stuttgart,Karlsplatz,Kundgebung,,,,48.77655285,9.180667785868211,2021-02-01 00:24:44
+DE,2021-02-01,17:00:00,33098,Paderborn,Rathausplatz,Schweigemarsch,,,,51.7169744,8.7538304,2021-02-01 00:24:44
+DE,2021-02-01,17:00:00,24103,Kiel,Exerzierplatz,Versammlung,,,,54.3215806,10.1292734,2021-02-01 00:24:44
+DE,2021-02-01,17:00:00,23843,Bad Oldesloe,Bahnhofsvorplatz,Kundgebung,,Initiative für Aufklärung und Transparenz,,53.8052678,10.3822381,2021-02-01 00:24:44
+DE,2021-02-01,17:30:00,17438,Wolgast,Springbrunnen / Hufelands,Kundgebung,,,,54.0536473,13.7757809,2021-02-01 00:24:44
+DE,2021-02-01,17:30:00,97070,Würzburg,Unterer Markt,Spaziergang,,Eltern stehen auf,,49.7943933,9.9299827,2021-02-01 00:24:44
+DE,2021-02-01,17:30:00,79682,Todtmoos,Rathaus,Mahnwache,,,,47.7410953,8.0047438,2021-02-01 00:24:44
+DE,2021-02-01,17:30:00,33602,Bielefeld,Rathaus,Mahnwache,,,,52.0205741,8.5346015,2021-02-01 00:24:44
+DE,2021-02-01,18:00:00,2763,Zittau,Markt,Kundgebung,,Freunde von PEGIDA,,50.8958774,14.8067754,2021-02-01 00:24:44
+DE,2021-02-01,18:00:00,88239,Wangen,Marktplatz,Spaziergang,,,,47.68618715,9.833833942392392,2021-02-01 00:24:44
+DE,2021-02-01,18:00:00,31655,Stadthagen,Marktplatz,Kundgebung,,,,52.3207761,9.205073,2021-02-01 00:24:44
+DE,2021-02-01,18:00:00,18055,Rostock,Universitätsplatz / Brunnen,Demonstration,,,,54.0924445,12.1286127,2021-02-01 00:24:44
+DE,2021-02-01,18:00:00,14467,Potsdam,Breite Str. 1A / Filmmuseum,Kundgebung,,,,52.4009309,13.0591397,2021-02-01 00:24:44
+DE,2021-02-01,18:00:00,49071,Osnabrück,Rathaus,Spaziergang,,,,52.55541615,7.946846279039729,2021-02-01 00:24:44
+DE,2021-02-01,18:00:00,19288,Ludwigslust,Schloss,Spaziergang,,,,53.378322999999995,10.935281149999991,2021-02-01 00:24:44
+DE,2021-02-01,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-02-01 00:24:44
+DE,2021-02-01,18:00:00,89150,Laichingen,Marktplatz,Kundgebung,,,,48.4896556,9.6858759,2021-02-01 00:24:44
+DE,2021-02-01,18:00:00,78462,Konstanz,Münster,Spaziergang,,Freidenken Konstanz,,47.6989993,9.0618076,2021-02-01 00:24:44
+DE,2021-02-01,18:00:00,87435,Kempten,Hildegardplatz / Brunnen,Spaziergang,,,,47.7267063,10.3168835,2021-02-01 00:24:44
+DE,2021-02-01,18:00:00,4668,Grimma,Markt,Spaziergang,,,,51.2364649,12.7285243,2021-02-01 00:24:44
+DE,2021-02-01,18:00:00,73728,Esslingen,Marktplatz,Spaziergang,,,,48.7425725,9.3069098,2021-02-01 00:24:44
+DE,2021-02-01,18:00:00,1067,Dresden,Kreuzkirche,Spaziergang,,,,51.0487252,13.73922068452577,2021-02-01 00:24:44
+DE,2021-02-01,18:30:00,18055,Rostock,Hauptbahnhof Süd Parkplatz,Aufzug,https://youtu.be/V9wjfIqk1GM,,,54.07723615,12.129642352915175,2021-02-01 00:24:44
+DE,2021-02-01,18:30:00,18055,Rostock,Kröpeliner Tor,Aufzug,,,,54.08845875,12.12920472849315,2021-02-01 00:24:44
+DE,2021-02-01,18:30:00,18057,Rostock,Doberaner Platz,Demonstration,https://www.youtube.com/channel/UC7-BzkIiQ4dpfFyuBxlJN3Q/live,,,54.0872659,12.1208911,2021-02-01 00:24:44
+DE,2021-02-01,18:30:00,18055,Rostock,Alter Markt,Demonstration,https://www.youtube.com/channel/UC7-BzkIiQ4dpfFyuBxlJN3Q/live,,,54.09008985,12.14735433172254,2021-02-01 00:24:44
+DE,2021-02-01,18:30:00,75172,Pforzheim,Kiehnlestr. 25,Aufzug,,,,48.8932665,8.6983947,2021-02-01 00:24:44
+DE,2021-02-01,18:30:00,17033,Neubrandenburg,Marktplatz,Aufzug,,,,53.55740205,13.260322640114307,2021-02-01 00:24:44
+DE,2021-02-01,18:30:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,,,51.0227878,11.5129742,2021-02-01 00:24:44
+DE,2021-02-01,19:00:00,38440,Wolfsburg,Rathaus,Spaziergang,,Überparteilich,,52.4212204,10.7871629,2021-02-01 00:24:44
+DE,2021-02-01,19:00:00,17192,Waren / Müritz,Neuer Markt,Kundgebung,,,,53.5140743,12.6888953,2021-02-01 00:24:44
+DE,2021-02-01,19:00:00,3831,Stralsund,Marktplatz / Alter Markt,Kundgebung,,,,54.31600745,13.090277142995562,2021-02-01 00:24:44
+DE,2021-02-01,19:00:00,99974,Mühlhausen / Thüringen,Postplatz,Spaziergang,,,,51.2094255,10.4589044,2021-02-01 00:24:44
+DE,2021-02-01,19:00:00,42897,Lennep,Rader Str. 4 / An der Kirmes,Schweigemarsch,,Carsten Jahn,,51.1774492,7.2707841699703515,2021-02-01 00:24:44
+DE,2021-02-01,19:00:00,47800,Krefeld,Hauptbahnhof,Kundgebung,,KAM  Krefeld am Montag,http://www.querdenken-215.de,51.3271114,6.572288807854067,2021-02-01 00:24:44
+DE,2021-02-01,19:00:00,87600,Kaufbeuren,Altes Rathaus,Spaziergang,,,,47.8803788,10.622246,2021-02-01 00:24:44
+DE,2021-02-01,19:00:00,10457,Berlin,Messe Nord P3 Masurenallee,Autokorso,,Freiheitsfahrer Berlin West,https://t.me/AutokorsoBerlin,,,2021-02-01 00:24:44
+DE,2021-02-01,19:00:00,17429,Benz / Usedom,Ehrenmal Fritz Behn,Spaziergang,,,,53.95646934663664,14.10512124761911,2021-02-01 00:24:44
+DE,2021-02-01,19:00:00,83075,Bad Feilnbach,Rathaus,Kundgebung,,,,47.7736331,12.00978735004864,2021-02-01 00:24:44
+DE,2021-02-01,20:00:00,76287,Rheinstetten,Rappenwörthstr. 49 / Rathaus,Kundgebung,,Für die Grundrechte,https://www.grundrechte.jetzt,48.968549,8.3097117,2021-02-01 00:24:44
+DE,2021-02-02,12:00:00,24105,Kiel,Landtag,Demonstration,,Friseure,https://facebook.com/events/318443079516298/,54.3346976,10.1509223,2021-02-01 00:24:44
+DE,2021-02-02,15:30:00,18146,Güstrow,Am Borwinbrunnen,Kundgebung,,,/ 15:30 Uhr /,53.7946562,12.1747505,2021-02-01 00:24:44
+DE,2021-02-02,16:00:00,70839,Gerlingen,Kliniken / Schillerhöhe,Mahnwache,,,,48.7983947,9.0624386,2021-02-01 00:24:44
+DE,2021-02-02,17:30:00,97070,Würzburg,Hofstr. ggue. Residenz,Spaziergang,,Eltern stehen auf,,49.79245,9.932966,2021-02-01 00:24:44
+DE,2021-02-02,19:00:00,83714,Miesbach,Unterer Markt,Kundgebung,,,,47.7130099,11.7530398,2021-02-01 00:24:44
+DE,2021-02-03,16:00:00,70839,Gerlingen,Kliniken / Schillerhöhe,Mahnwache,,,,48.7983947,9.0624386,2021-02-01 00:24:44
+DE,2021-02-03,17:00:00,70173,Stuttgart,Karlsplatz,Aufzug,,,,48.77655285,9.180667785868211,2021-02-01 00:24:44
+DE,2021-02-03,17:00:00,70372,Stuttgart,Cannstatter Wasen  P10,Autokorso,,,,48.7969789,9.21725646568217,2021-02-01 00:24:44
+DE,2021-02-03,17:00:00,70173,Stuttgart,Karlsplatz,Demonstration,,,,48.77655285,9.180667785868211,2021-02-01 00:24:44
+DE,2021-02-03,17:00:00,70173,Stuttgart,Denkerdenkmal,Kundgebung,,,,48.7784485,9.1800132,2021-02-01 00:24:44
+DE,2021-02-03,17:30:00,97070,Würzburg,Unterer Markt,Spaziergang,,Eltern stehen auf,,49.7943933,9.9299827,2021-02-01 00:24:44
+DE,2021-02-03,17:30:00,75172,Pforzheim,Kiehnlestr. 25,Aufzug,,,,48.8932665,8.6983947,2021-02-01 00:24:44
+DE,2021-02-03,18:00:00,18109,Rostock Groß Klein,Klenow Tor,Aufzug,,,,54.15186145,12.072512867482464,2021-02-01 00:24:44
+DE,2021-02-03,19:00:00,83022,Rosenheim,Ichikawa-Platz,Kundgebung,,,,47.85876395,12.133756881553518,2021-02-01 00:24:44
+DE,2021-02-03,19:00:00,86343,Königsbrunn,Marktplatz / Rathaus,Kundgebung,,,,48.2688961,10.891047650928467,2021-02-01 00:24:44
+DE,2021-02-04,16:00:00,70839,Gerlingen,Kliniken / Schillerhöhe,Mahnwache,,,,48.7983947,9.0624386,2021-02-01 00:24:44
+DE,2021-02-04,17:00:00,70173,Stuttgart,Kronprinzplatz / Brunnen,Kundgebung,,,,48.7784485,9.1800132,2021-02-01 00:24:44
+DE,2021-02-04,18:00:00,85586,Poing,Marktplatz / S-Bahn,Kundgebung,,,,48.1667467,11.803713,2021-02-01 00:24:44
+DE,2021-02-04,18:15:00,47051,Duisburg,Bahnhofsvorplatz  HBF,Aufzug,,Duisburg steht auf,,51.431804799999995,6.776522807077882,2021-02-01 00:24:44
+DE,2021-02-04,20:00:00,76287,Rheinstetten,Rappenwörthstr. 49 / Rathaus,Kundgebung,,Für die Grundrechte,https://www.grundrechte.jetzt,48.968549,8.3097117,2021-02-01 00:24:44
+DE,2021-02-05,15:30:00,23843,Bargteheide,Am Markt / Schulzentrum,Mahnwache,,,,53.7271291,10.2631379,2021-02-01 00:24:44
+DE,2021-02-05,16:00:00,70839,Gerlingen,Kliniken / Schillerhöhe,Mahnwache,,,,48.7983947,9.0624386,2021-02-01 00:24:44
+DE,2021-02-05,17:00:00,70173,Stuttgart,Königstr. 2 / Commerzbank,Kundgebung,,,,48.7784485,9.1800132,2021-02-01 00:24:44
+DE,2021-02-05,17:30:00,76316,Karlsruhe,Friedrichsplatz,Kundgebung,,,,49.0083476,8.4011054,2021-02-01 00:24:44
+DE,2021-02-05,18:00:00,4668,Grimma,Markt,Spaziergang,,,,51.2364649,12.7285243,2021-02-01 00:24:44
+DE,2021-02-06,12:15:00,20359,Hamburg,Glacischaussee,Autokorso,,,,53.5538206,9.9726533,2021-02-01 00:24:44
+DE,2021-02-06,12:15:00,20359,Hamburg,Glacieschaussee,Autokorso,,Freiheitsfahrer,https://t.me/FreiheitsfahrerHamburg,53.5538206,9.9726533,2021-02-01 00:24:44
+DE,2021-02-06,13:00:00,6300,Zug,Bahnhofplatz,Kundgebung,,,,54.8340047,9.548416,2021-02-01 00:24:44
+DE,2021-02-06,13:00:00,24558,Henstedt-Ulzburg,Hamburger Str. 8 / Parkplatz CCU,Spaziergang,,,,53.7926888,9.9808134,2021-02-01 00:24:44
+DE,2021-02-06,13:00:00,85540,Haar,Kirchplatz,Kundgebung,,Bürger im Dialog,https://t.me/fuerfriedenundfreiheit,48.109524,11.726431801872659,2021-02-01 00:24:44
+DE,2021-02-06,14:00:00,94315,Straubing,Theresienplatz,Demonstration,https://www.youtube.com/channel/UC2LAeN7JqtOuUvz_8EaAXgA,SelbstDenken21 & BFFUW,http://shop.selbstdenken21.de,48.8815695,12.567301068368142,2021-02-01 00:24:44
+DE,2021-02-06,14:00:00,19055,SCHWERIN,Marktplatz,Kundgebung,,,,53.6289415,11.4148295,2021-02-01 00:24:44
+DE,2021-02-06,14:00:00,30169,Hannover,Schützenplatz / Gilde Tor,Autokorso,,,,52.3744779,9.7385532,2021-02-01 00:24:44
+DE,2021-02-06,14:00:00,9111,Chemnitz,Karl-Marx-Kopf,Kundgebung,,Chemnitz steht auf,,,,2021-02-01 00:24:44
+DE,2021-02-06,14:30:00,71364,Winnenden,Marktbrunnen,Mahnwache,,,,48.8761383,9.3993559,2021-02-01 00:24:44
+DE,2021-02-06,14:30:00,26382,Wilhelmshaven,Pacific Cafe,Spaziergang,,,,53.5194381,8.1190093,2021-02-01 00:24:44
+DE,2021-02-06,15:30:00,75175,Pforzheim,Marktplatz,Kundgebung,,,,48.8914943,8.7055085,2021-02-01 00:24:44
+DE,2021-02-06,16:15:00,83395,Freilassing,Grenzbrücke / DE-AT,Kundgebung,,,https://t.me/silberjungethorstenschulte,47.8378039,12.9781408,2021-02-01 00:24:44
+DE,2021-02-06,20:00:00,76287,Rheinstetten,Rappenwörthstr. 49 / Rathaus,Kundgebung,,Für die Grundrechte,https://www.grundrechte.jetzt,48.968549,8.3097117,2021-02-01 00:24:44
+DE,2021-02-07,13:00:00,85354,Freising,Luitpoldanlage,Kundgebung,https://www.youtube.com/channel/UCapsH7wkZU7no17Glj0J8pA/live,BSZusammen / Fboten / QD,https://tgstat.com/channel/@bayern_steht_zusammen/89,48.4008273,11.7439565,2021-02-01 00:24:44
+DE,2021-02-07,13:00:00,85356,Freising,Luitpoldanlage,Kundgebung,,Bayern steht zusammen e.V.,https://www.bayern-steht-zusammen.de/TERMINE/,48.4008273,11.7439565,2021-02-01 00:24:44
+DE,2021-02-07,14:00:00,69231,Rauenberg,Rathausplatz,Kundgebung,,,,49.2581739,8.7155494,2021-02-01 00:24:44
+AT,2021-02-07,14:00:00,6800,Feldkirch,Marktplatz,Kundgebung,,nature-culture.academy,http://www.corona-demo.at,47.2375221,9.5958509,2021-02-01 00:24:44
+DE,2021-02-07,14:00:00,86150,Augsburg,Plärrer,Autokorso,,Grundrechte-Wahren,http://www.grundrechte-wahren.de,48.37543545,10.882113381662087,2021-02-01 00:24:44
+DE,2021-02-08,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-02-01 00:24:44
+DE,2021-02-08,17:30:00,33602,Bielefeld,Rathaus,Mahnwache,,,,52.0205741,8.5346015,2021-02-01 00:24:44
+DE,2021-02-08,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-02-01 00:24:44
+DE,2021-02-08,18:00:00,87435,Kempten,Hildegardplatz / Brunnen,Spaziergang,,,,47.7267063,10.3168835,2021-02-01 00:24:44
+DE,2021-02-08,18:00:00,4668,Grimma,Markt,Spaziergang,,,,51.2364649,12.7285243,2021-02-01 00:24:44
+DE,2021-02-08,19:00:00,14055,Berlin,Messe Nord P3 Masurenallee,Autokorso,,Freiheitsfahrer Berlin West,https://t.me/AutokorsoBerlin,52.50342740313163,13.24926555290119,2021-02-01 00:24:44
+DE,2021-02-08,20:00:00,76287,Rheinstetten,Rappenwörthstr. 49 / Rathaus,Kundgebung,,Für die Grundrechte,https://www.grundrechte.jetzt,48.968549,8.3097117,2021-02-01 00:24:44
+DE,2021-02-11,18:00:00,85586,Poing,Marktplatz / S-Bahn,Kundgebung,,,,48.1667467,11.803713,2021-02-01 00:24:44
+DE,2021-02-12,15:30:00,23843,Bargteheide,Am Markt / Schulzentrum,Mahnwache,,,,53.7271291,10.2631379,2021-02-01 00:24:44
+DE,2021-02-12,18:00:00,4668,Grimma,Markt,Spaziergang,,,,51.2364649,12.7285243,2021-02-01 00:24:44
+DE,2021-02-13,11:00:00,11011,Berlin,Platz der Republik 1 Reichstag,Kundgebung,,,,52.5170365,13.3888599,2021-02-01 00:24:44
+CH,2021-02-13,13:00:00,8000,Zürich,Fraumünster-Kirche,Spaziergang,,,,,,2021-02-01 00:24:44
+DE,2021-02-13,14:30:00,26382,Wilhelmshaven,Pacific Cafe,Spaziergang,,,,53.5194381,8.1190093,2021-02-01 00:24:44
+DE,2021-02-14,14:00:00,69231,Rauenberg,Rathausplatz,Kundgebung,,,,49.2581739,8.7155494,2021-02-01 00:24:44
+AT,2021-02-14,14:00:00,6700,Bludenz,Josef-Wolf-Platz,Kundgebung,,nature-culture.academy,http://www.corona-demo.at,47.1563676,9.8192587,2021-02-01 00:24:44
+DE,2021-02-14,14:30:00,89257,Illertissen,Marktplatz,Kundgebung,,Klardenken Schwaben,http://Klardenken-schwaben.de,48.2224503,10.1055099,2021-02-01 00:24:44
+DE,2021-02-15,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-02-01 00:24:44
+DE,2021-02-15,17:30:00,33602,Bielefeld,Rathaus,Mahnwache,,,,52.0205741,8.5346015,2021-02-01 00:24:44
+DE,2021-02-15,18:00:00,87435,Kempten,Hildegardplatz / Brunnen,Spaziergang,,,,47.7267063,10.3168835,2021-02-01 00:24:44
+DE,2021-02-15,19:00:00,14055,Berlin,Messe Nord P3 Masurenallee,Autokorso,,Freiheitsfahrer Berlin West,https://t.me/AutokorsoBerlin,52.50342740313163,13.24926555290119,2021-02-01 00:24:44
+DE,2021-02-18,18:00:00,85586,Poing,Marktplatz / S-Bahn,Kundgebung,,,,48.1667467,11.803713,2021-02-01 00:24:44
+DE,2021-02-20,14:30:00,71364,Winnenden,Marktbrunnen,Mahnwache,,,,48.8761383,9.3993559,2021-02-01 00:24:44
+DE,2021-02-20,14:30:00,26382,Wilhelmshaven,Pacific Cafe,Spaziergang,,,,53.5194381,8.1190093,2021-02-01 00:24:44
+DE,2021-02-21,13:00:00,83512,Wasserburg am Inn,Festplatz am Badria,Kundgebung,,Bayern steht zamm,https://www.bayern-steht-zusammen.de/,48.0615171,12.220026,2021-02-01 00:24:44
+DE,2021-02-21,13:00:00,83512,Wasserburg / Inn,Festplatz am Badria,Kundgebung,https://www.youtube.com/channel/UCapsH7wkZU7no17Glj0J8pA/live,BSZusammen / Fboten / QD,https://tgstat.com/channel/@bayern_steht_zusammen/89,48.0615171,12.220026,2021-02-01 00:24:44
+DE,2021-02-21,14:00:00,69231,Rauenberg,Rathausplatz,Kundgebung,,,,49.2581739,8.7155494,2021-02-01 00:24:44
+DE,2021-02-22,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-02-01 00:24:44
+DE,2021-02-22,17:30:00,33602,Bielefeld,Rathaus,Mahnwache,,,,52.0205741,8.5346015,2021-02-01 00:24:44
+DE,2021-02-22,18:00:00,87435,Kempten,Hildegardplatz / Brunnen,Spaziergang,,,,47.7267063,10.3168835,2021-02-01 00:24:44
+DE,2021-02-22,19:00:00,14055,Berlin,Messe Nord P3 Masurenallee,Kundgebung,,Freiheitsfahrer Berlin West,https://t.me/AutokorsoBerlin,52.50342740313163,13.24926555290119,2021-02-01 00:24:44
+DE,2021-02-22,19:00:00,14055,Berlin,Messe Nord P3 Masurenallee,Autokorso,,Freiheitsfahrer Berlin West,https://t.me/AutokorsoBerlin,52.50342740313163,13.24926555290119,2021-02-01 00:24:44
+DE,2021-02-25,18:00:00,85586,Poing,Marktplatz / S-Bahn,Kundgebung,,,,48.1667467,11.803713,2021-02-01 00:24:44
+DE,2021-02-27,14:30:00,86150,Augsburg,Ulrichsplatz,Demonstration,,,,48.3631112,10.9001256,2021-02-01 00:24:44
+DE,2021-02-28,14:00:00,69231,Rauenberg,Rathausplatz,Kundgebung,,,,49.2581739,8.7155494,2021-02-01 00:24:44
+DE,2021-02-28,14:30:00,89257,Illertissen,Marktplatz,Kundgebung,,Klardenken Schwaben,http://Klardenken-schwaben.de,48.2224503,10.1055099,2021-02-01 00:24:44
+DE,2021-03-01,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-02-01 00:24:44
+DE,2021-03-01,19:00:00,9376,Oelsnitz / Erzg.,Marktplatz,Kundgebung,,,,,,2021-02-01 00:24:44
+DE,2021-03-08,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-02-01 00:24:44
+DE,2021-03-15,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-02-01 00:24:44
+DE,2021-03-20,14:00:00,11011,Berlin,Reichstag,Kundgebung,,,,52.4676201,13.5280284,2021-02-01 00:24:44
+DE,2021-03-22,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-02-01 00:24:44
+DE,2021-03-29,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-02-01 00:24:44
+DE,2021-06-20,16:30:00,94315,Straubing,Ludwigsplatz,Mahnwache,,,,48.8820981,12.5738356,2021-02-01 00:24:44
+DE,2021-10-26,19:00:00,73728,Esslingen,Heugasse 10 / Delicantina,Treffpunkt,,,,48.7427584,9.3071685,2021-02-01 00:24:44
+DE,2021-11-05,18:00:00,10117,Berlin,Brandenburger Tor,Kundgebung,https://anonymous.support/live,Anonymous #MillionMaskMarch,https://anonymous.support,52.51628045,13.377701882994323,2021-02-01 00:24:44
+DE,2021-12-24,12:00:00,10178,Berlin,Alexanderplatz / Weltzeituhr,Charity,https://anonymous.support/live,Anonymous #OpSafeWinter,https://anonymous.support/opsafewinter/berlin,52.5170365,13.3888599,2021-02-01 00:24:44
