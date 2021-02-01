@@ -13,7 +13,7 @@ title: 'Kategorien'
 {%- assign category_list = site_categories | split:',' | sort -%}
 
 {%- for category in category_list -%}
-    <a href="#{{- category -}}" class="btn btn-primary btn-sm tag-btn"><i class="fas fa-list" aria-hidden="true"></i>&nbsp;{{- category -}}&nbsp;({{site.categories[category].size}})</a>
+  <a href="#{{- category -}}" class="btn btn-primary btn-sm tag-btn"><i class="fas fa-list" aria-hidden="true"></i>&nbsp;{{- category -}}&nbsp;({{site.categories[category].size}})</a>
 {%- endfor -%}
 
 <div id="full-tags-list">

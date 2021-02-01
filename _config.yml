@@ -37,6 +37,7 @@ navbar-links:
     - Ticker: /blog/index.html
     - Timeline: /timeline/index.html
     - Kategorien: /categories.html
+    - Menschen: /persons.html
     - Tags: /tags.html
     - Archiv: /news-archive.html
   Events: /events.html
@@ -97,9 +98,9 @@ site-css:
   - "/assets/css/custom-styles.css"
 
 collections:
-  events:
-    output: false
   persons:
+    output: false
+  events:
     output: false
 
 icons:

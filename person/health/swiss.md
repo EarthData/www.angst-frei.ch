@@ -23,10 +23,10 @@ Dr. med. Marco Caimi
 Prof. Dr. med. Pietro Vernazza
 
 | {{ site.icons.globe }}    | [infekt.ch](https://infekt.ch) |
-| {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/tags.html#vernazza) |
+| {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/persons.html#Vernazza Pietro) |
 
 ## Beda M. Stadler
 
 Beda M. Stadler
 
-| {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/tags.html#stadler) |
+| {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/persons.html#Stadler Beda) |

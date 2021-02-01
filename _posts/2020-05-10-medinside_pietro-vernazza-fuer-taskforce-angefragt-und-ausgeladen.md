@@ -4,6 +4,7 @@ redirect:      https://www.medinside.ch/de/post/pietro-vernazza-fuer-taskforce-a
 title:         medinside.ch
 timeline:      true
 subtitle:      "Covid-Taskforce: Pietro Vernazza wurde wieder ausgeladen"
+persons:       Vernazza Pietro
 categories:    Wissenschaft
-tags:          [vernazza, medinside]
+tags:          [medinside]
 ---

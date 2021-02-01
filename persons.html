@@ -1,0 +1,62 @@
+---
+layout: page
+title: 'Personen'
+---
+
+{% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+{% assign post_groups = site.posts | group_by: "persons" %}
+
+<p>post_groups</p>
+
+{%- for person in site.data.people -%}
+  <a href="#{{ person.name }}" class="btn btn-primary btn-sm tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;{{ person.name }}</a>
+{%- endfor -%}
+
+<div id="full-tags-list">
+{%- for person in site.data.people -%}
+  <h2 id="{{- person.name -}}" class="linked-section">
+    {{- person.name -}}
+  </h2>
+  <div class="post-list">
+  {%- for posts in post_groups -%}
+    {%- if posts.name contains person.name -%}
+      {%- assign ordered_posts = posts.items | date_sort -%}
+      {%- for post in ordered_posts -%}
+      <div class="element-item {{ post.date }}">
+        <article class="post-preview">
+
+        {%- if post.redirect -%}
+          <a href="{{ post.redirect | absolute_url }}">
+        {% else %}
+          <a href="{{ post.url | absolute_url }}">
+        {% endif %}
+
+        <h2 class="post-title">{{ post.title }}</h2>
+
+        {% if post.subtitle %}
+          <h3 class="post-subtitle">{{ post.subtitle }}</h3>
+        {% endif %}
+        </a>
+
+        <p class="post-meta">
+          {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
+          Posted on {{ post.date | date: date_format }}
+        </p>
+
+        {% if site.feed_show_tags != false and post.tags.size > 0 %}
+          <div class="blog-tags">
+            <span>Tags:</span>
+            {% for tag in post.tags %}
+              <a href="{{ '/tags' | absolute_url }}#{{- tag -}}">{{- tag -}}</a>
+            {% endfor %}
+          </div>
+        {% endif %}
+      </article>
+    </div>
+      {%- endfor -%}
+    {%- endif -%}
+  {%- endfor -%}
+  </div>
+{%- endfor -%}
+</div>
+
