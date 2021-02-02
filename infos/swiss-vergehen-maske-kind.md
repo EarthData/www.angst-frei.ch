@@ -112,9 +112,9 @@ Fehlt auch nur eines dieser Merkmale sind staatliche Anordnungen, und dazu gehö
 
 #### Diverse
  * [Medizinische und juristische Informationen zu Maskenpflicht und Befreiungsmöglichkeiten](https://www.mwgfd.de/zur-maskenpflicht/)
- * [Informationsbrief für SchulleiterInnen, Lehrkräfte und Eltern schulpflichtiger Kinder bzgl. des neuen Hygieneplan](/assets/files/health/201018 Info-Schulbrief-BUNDESLANDUNABHAeNGIG.pdf)
+ * [Schutz oder Gefahr? Über 50 Studien welche gegen das Tragen von Mund-Nasen Bedeckungen sprechen](https://corona-blog.net/schutz_oder_gefahr_ueber_50_studien-welche-gegen-das-tragen-von-mund-nasen-bedeckungen-sprechen/)
+ * [Die Evidenzlage zu Mund-Nasen-Bedeckungen](https://www.aerztefueraufklaerung.de/masken/index.php)
  * [Anästhesistin und Notfallärztin Heike Sensendorf klärt auf!](https://mauricejanich.de/heike-sensendorf/) 
- * [Flyer rund ums Thema Corona - eine Einladung zum selber denken](/assets/files/health/flyer_corona_a4.pdf)
 
 
 ## Videos

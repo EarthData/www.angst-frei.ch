@@ -4,8 +4,9 @@ title:      Youtube
 subtitle:   "Paul Schreyer: Pandemie-Planspiele – Vorbereitung einer neuen Ära?"
 date:       2020-12-24
 categories: Video
+persons:    Gates Bill
 timeline:   true
-tags:       [gates, wef]
+tags:       [wef]
 youtubeId:  "SSnJhHOU_28"
 ---
 

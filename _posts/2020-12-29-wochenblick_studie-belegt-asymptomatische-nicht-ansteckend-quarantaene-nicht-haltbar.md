@@ -5,5 +5,5 @@ title:      Wochenblick
 subtitle:   "Studie belegt: Asymptomatische nicht ansteckend! Quarantäne nicht haltbar!"
 country:    AT
 categories: MSM
-tags:       [wochenblick, quarantäne]
+tags:       [wochenblick, quarantäne, asymptomatisch]
 ---

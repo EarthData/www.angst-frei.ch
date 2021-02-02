@@ -3,8 +3,9 @@ layout:     post
 title:      Youtube
 subtitle:   Bill Gates & die totale Bevölkerungskontrolle
 date:       2020-09-21
+persons:    Gates Bill
 categories: Video
-tags:       [gates]
+tags:       [impfung]
 youtubeId:  "h8HU6N-HtNs"
 ---
 

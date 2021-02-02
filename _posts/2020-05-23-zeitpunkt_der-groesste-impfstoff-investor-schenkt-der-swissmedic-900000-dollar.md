@@ -5,6 +5,7 @@ title:         ZE!TPUNKT
 subtitle:      "Der grösste Impfstoff-Investor schenkt der Swissmedic 900’000 Dollar"
 timeline:      true
 country:       CH
+persons:       Gates Bill
 categories:    Medien
-tags:          [zeitpunkt, gates, impfung]
+tags:          [zeitpunkt, impfung]
 ---

@@ -4,6 +4,7 @@ redirect:   https://www.wochenblick.at/so-ein-zufall-bill-gates-investierte-im-v
 title:      Wochenblick
 subtitle:   "So ein Zufall: Bill Gates investierte im Vorjahr in Impfstoff-Firma Biontech"
 country:    AT
+persons:    Gates Bill
 categories: MSM
-tags:       [wochenblick, gates, impfung]
+tags:       [wochenblick, impfung]
 ---

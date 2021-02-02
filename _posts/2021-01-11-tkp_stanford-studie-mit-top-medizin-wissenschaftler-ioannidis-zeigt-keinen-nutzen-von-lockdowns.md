@@ -4,6 +4,7 @@ redirect:      https://tkp.at/2021/01/11/stanford-studie-mit-top-medizin-wissens
 title:         tp - Science & Technology
 timeline:      false
 subtitle:      "Stanford Studie mit Top Medizin-Wissenschaftler Ioannidis zeigt keinen Nutzen von Lockdowns"
+persons:       Ioannidis John P.
 categories:    Medien
-tags:          [tkp, lockdown, ioannidis]
+tags:          [tkp, lockdown]
 ---
