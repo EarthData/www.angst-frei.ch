@@ -52,15 +52,15 @@ Wöchentliche Todesfälle, 2020 - 2021
 
 Lagebericht
 
-| {{ site.icons.globe }} | [Effektive Reproduktionszahl](https://ncs-tf.ch/de/lagebericht) |
+| {{ site.icons.globe }}   | [Effektive Reproduktionszahl](https://ncs-tf.ch/de/lagebericht) |
 
 ## Spitalkapazitäten
 
 Die Daten stammen von den Spitälern, je nach Spital sind die Datenstände unterschiedlich. Negative Werte können eine mögliche Überbelegung dokumentieren.
 
-| {{ site.icons.globe }} | [Schweizer Armee](https://www.vtg.admin.ch/de/aktuell/coronavirus/spitalkapazitaeten.html) |
-| {{ site.icons.globe }} | [icumonitoring.ch](https://icumonitoring.ch/) |
-| {{ site.icons.globe }} | [Bundesamt für Gesundheit](https://www.covid19.admin.ch/de/hosp-capacity/total?time=total) |
+| {{ site.icons.globe }}   | [Schweizer Armee](https://www.vtg.admin.ch/de/aktuell/coronavirus/spitalkapazitaeten.html) |
+| {{ site.icons.globe }}   | [icumonitoring.ch](https://icumonitoring.ch/) |
+| {{ site.icons.globe }}   | [Bundesamt für Gesundheit](https://www.covid19.admin.ch/de/hosp-capacity/total?time=total) |
 
 National Trends (icumonitoring.ch)
 <a href="https://covid19-hegep-bucket.s3.eu-central-1.amazonaws.com/images/projections/national_trends.png">![National Trends](https://covid19-hegep-bucket.s3.eu-central-1.amazonaws.com/images/projections/national_trends.png)</a>
@@ -69,17 +69,18 @@ National Trends (icumonitoring.ch)
 
 Latest updates of COVID-19 development in Switzerland.
 
-| {{ site.icons.globe }} | [www.corona-data.ch](https://www.corona-data.ch/) |
+| {{ site.icons.globe }}   | [www.corona-data.ch](https://www.corona-data.ch/) |
 
 ## openZH
 
 Kanton Zürich -  Statistisches Amt
 
-| {{ site.icons.github }} | [covid_19](https://github.com/openZH/covid_19) |
+| {{ site.icons.github }}  | [covid_19](https://github.com/openZH/covid_19) |
 
 ## Swiss Policy Research
 
 Swiss Policy Research (SPR) ist ein Forschungs- und Informationsprojekt zu geopolitischer Propaganda in Schweizer und internationalen Medien.
 
-| {{ site.icons.globe }} | [swprs.org](https://swprs.org/) |
-| {{ site.icons.globe }} | [Fakten zu Covid-19](https://swprs.org/fakten-zu-covid-19/) |
+| {{ site.icons.globe }}   | [swprs.org](https://swprs.org/) |
+| {{ site.icons.globe }}   | [Fakten zu Covid-19](https://swprs.org/fakten-zu-covid-19/) |
+| {{ site.icons.forward }} | [Beiträge]({{ site.baseurl }}/tags.html#swprs) |

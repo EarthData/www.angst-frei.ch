@@ -60,6 +60,12 @@ Schäden durch Masken in der Schule und deren Haftung.
 
 | {{ site.icons.globe }} | [wer-verordnet-der-haftet.ch](https://wer-verordnet-der-haftet.ch/) |
 
+## Wir bestimmen
+
+Für eine Schweiz wie wir sie uns wünschen.
+
+| {{ site.icons.globe }} | [wirbestimmen.ch](https://wirbestimmen.ch)
+
 ## WirKlagenAn
 
 WirKlagenAn - ist ein Schulterschluss von freien Bürgern, die in einer Zeit des auseinanderbrechenden Rechtsstaates und der zunehmenden ausserordentlichen Einschränkung von Menschenrechten mittels verschiedener Klagen, dem Gesetz sowie der Wahrheit grenzüberschreitend zum Rechte verhelfen um die Freiheit des Einzelnen sowie die Ordnung der Gesellschaft wieder herzustellen.

@@ -47,6 +47,12 @@ Rechtsanwalt Dr. Justus P. Hoffmann
 | {{ site.icons.forward }}  | [Corona-Ausschuss]({{ site.baseurl }}/org/law/germany.html#corona-ausschuss) |
 | {{ site.icons.forward }}  | [Corona Schadensersatzklage]({{ site.baseurl }}/org/law/germany.html#corona-schadensersatzklage) |
 
+## Ralf Ludwig
+
+Ralf Ludwig
+
+| {{ site.icons.forward }}  | [kollateral]({{ site.baseurl }}/media/germany.html#zwanzig4media) |
+
 ## Marcel Templin
 
 Rechtsanwalt Marcel Templin

@@ -10,6 +10,12 @@ subtitle: Deutschland
 * TOC
 {:toc}
 
+## ![zwanzig4media-Logo](/assets/img/logos/zwanzig4media.jpg){:class="logo"} zwanzig4media
+
+Nachrichten rund um Corona-Recht und -Politik mit Ralf Ludwig. 
+
+| {{ site.icons.youtube }}  | [zwanzig4media](https://www.youtube.com/channel/UCkePYP8zwePoQouGhXMweVA) |
+
 ## ![2020 News-Logo](/assets/img/logos/2020news.png){:class="logo"} 2020 News
 
 2020News ist ein evidenzbasierter Nachrichtenkanal, der eng mit www.corona-ausschuss.de und dessen internationalem Netzwerk in Wissenschaft, Medizin und Rechtswesen kooperiert.
@@ -197,6 +203,14 @@ Protest Media
 | {{ site.icons.bitchute }} | [Protest Media](https://www.bitchute.com/protestmedia/) |
 | {{ site.icons.telegram }} | [Protest Media](https://t.me/protestmedia) |
 | {{ site.icons.facebook }} | [Protest Media](https://www.facebook.com/ProtestMediaLive/) |
+
+## ![Punkt.PRERADOVIC-Logo](/assets/img/logos/punkt.preradovic.jpg){:class="logo"} Punkt.PRERADOVIC
+
+Keine Angst vor klugen Frauen mit starker Meinung? Dann bist Du hier richtig! 
+
+| {{ site.icons.globe }}    | [punkt-preradovic.com](https://punkt-preradovic.com/) |
+| {{ site.icons.youtube }}  | [Punkt.PRERADOVIC](https://www.youtube.com/channel/UC-q8URCNmX5Wg4R9kXtW4tg) |
+| {{ site.icons.facebook }} | [PUNKT.PRERADOVIC](https://www.facebook.com/punktpreradovic/) |
 
 ## ![RT Deutsch-Logo](/assets/img/logos/rt_deutsch.png){:class="logo"} RT Deutsch
 

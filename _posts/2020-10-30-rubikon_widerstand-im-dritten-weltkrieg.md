@@ -4,5 +4,5 @@ redirect:   https://www.rubikon.news/artikel/widerstand-im-dritten-weltkrieg
 title:      Rubikon
 subtitle:   "Widerstand im Dritten Weltkrieg"
 categories: Medien
-tags:       [rubikon, massnahmen]
+tags:       [rubikon, widerstand]
 ---

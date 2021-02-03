@@ -83,6 +83,7 @@ Oliver Janich
 Gunnar Kaiser ist Schriftsteller und Philosoph. 
 
 | {{ site.icons.globe }}    | [www.gunnarkaiser.de](https://www.gunnarkaiser.de/) |
+| {{ site.icons.globe }}    | [kaisertv.de](https://kaisertv.de/) |
 | {{ site.icons.youtube }}  | [Kaiser TV](https://www.youtube.com/user/KaiserFEGBonn) |
 | {{ site.icons.telegram }} | [KaiserTV](https://t.me/gunnarkaisertv) |
 | {{ site.icons.facebook }} | [Gunnar Kaiser](https://www.facebook.com/gunnarkaiserliteratur) |
@@ -109,6 +110,12 @@ Aktivist Mann
 
 | {{ site.icons.dlive }}    | [AktivistMann](https://dlive.tv/AktivistMann) |
 | {{ site.icons.youtube }}  | [AktivistMann](https://www.youtube.com/c/AktivistMann) |
+
+## Milena Preradovic
+
+Milena Preradovic ist Moderatorin, Autorin und Kolumnistin.
+
+| {{ site.icons.forward }}  | [Punkt.PRERADOVIC]({{ site.baseurl }}/media/germany.html#-punktpreradovic) |
 
 ## Boris Reitschuster
 
