@@ -104,6 +104,10 @@ Fehlt auch nur eines dieser Merkmale sind staatliche Anordnungen, und dazu gehö
 
  * [Zürich: Verfügung Bildungsdirektion: Volksschulen. Vorgaben Schutzkonzepte vom 28.10.2020](/assets/files/law/verfuegung_bi_vorgaben_schutzkonzepte.pdf)
 
+### Petition
+
+ * [Schluss mit dem Maskentragen für Schülerinnen und Schüler unter 12 Jahren!](https://www.kinder-maskenpetition.ch/)
+
 ### Weiterführende Links 
 
 #### [Neues Sach- und Rechtsattest gegen Maskenzwang in der Schweiz](https://corona-transition.org/neues-sach-und-rechtsattest-gegen-maskenzwang-in-der-schweiz)  
@@ -146,6 +150,7 @@ Fehlt auch nur eines dieser Merkmale sind staatliche Anordnungen, und dazu gehö
  * [Homeschooling in der Schweiz](https://swisshomeschoolfamily.org/)
  * [Homeschooling in der Schweiz - Gesetzliche Anforderungen](https://swisshomeschoolfamily.org/gesetzliche-anforderungen/)
  * [Mit diesen sechs Profi-Tricks klappt das Homeschooling](https://www.hellozurich.ch/de/aktuell/homeschooling-tipps.html)
+ * [WIR - Homeschooling - Schweiz](https://t.me/wirhomeschoolingschweiz)
  * [Telegram-Gruppe: Homeschooling Unschooling Freilernen](https://t.me/homeschooling_chat_deutsch)
 
 ## Referenz

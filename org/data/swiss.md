@@ -36,6 +36,11 @@ Die offiziellen Daten vom BAG.
  * [Zeitliche Entwicklung der Auslastung (Absolut)](https://www.covid19.admin.ch/de/hosp-capacity/icu/d/development?time=total)
  * [Zeitliche Entwicklung der Auslastung (Anteil)](https://www.covid19.admin.ch/de/hosp-capacity/icu/d/development?time=total&occ=covid19&rel=rel)
 
+### Reproduktionszahl (R<sub>E</sub>)
+
+ * [Geographische Verteilung](https://www.covid19.admin.ch/de/repro/val/d/geography?time=total)
+ * [Zeitliche Entwicklung](https://www.covid19.admin.ch/de/repro/val/d/development?time=total)
+
 ## Bundesamt für Statistik
 
 Mortalitätsmonitoring (MOMO)
@@ -58,9 +63,7 @@ Lagebericht
 
 Die Daten stammen von den Spitälern, je nach Spital sind die Datenstände unterschiedlich. Negative Werte können eine mögliche Überbelegung dokumentieren.
 
-| {{ site.icons.globe }}   | [Schweizer Armee](https://www.vtg.admin.ch/de/aktuell/coronavirus/spitalkapazitaeten.html) |
 | {{ site.icons.globe }}   | [icumonitoring.ch](https://icumonitoring.ch/) |
-| {{ site.icons.globe }}   | [Bundesamt für Gesundheit](https://www.covid19.admin.ch/de/hosp-capacity/total?time=total) |
 
 National Trends (icumonitoring.ch)
 <a href="https://covid19-hegep-bucket.s3.eu-central-1.amazonaws.com/images/projections/national_trends.png">![National Trends](https://covid19-hegep-bucket.s3.eu-central-1.amazonaws.com/images/projections/national_trends.png)</a>

@@ -101,8 +101,8 @@ Mutigmacher möchte Menschen ermutigen, bisher unbekannte, aber für die Gesells
 Wir sind Eltern, Großeltern, Erzieher und Lehrer. Wir setzen uns für die freie Entfaltung unserer Kinder ein, frei von Zwangsmaßnahmen, die mit der derzeitigen Corona-Situation begründet werden. Wir wünschen uns mehr Entscheidungsfreiheit für alles, was unsere Kinder betrifft. 
 Wir haben uns zum Ziel gesetzt unsere Kinder vor staatlicher Willkür zu schützen.
 
-| {{ site.icons.telegram }}    | [EfAuF_Newsletter](https://t.me/EfAuF_Newsletter) |
-| {{ site.icons.telegram }}    | [Landesgruppen und Ortsgruppen](https://t.me/EfAuF_Newsletter/25) |
+| {{ site.icons.telegram }} | [EfAuF_Newsletter](https://t.me/EfAuF_Newsletter) |
+| {{ site.icons.telegram }} | [Landesgruppen und Ortsgruppen](https://t.me/EfAuF_Newsletter/25) |
 
 ## Nicht ohne uns!
 
@@ -130,6 +130,7 @@ Webseite der Initiative Querdenken 711 - Wir für die Grundrechte.
 Ein ehemaliger Mitarbeiter des Deutschen Bundestages mit der Funktion eines parlamentarischen Beraters berichtet über Erkenntnisse, die den Menschen in der Coronakrise gezielt vorenthalten werden.
 
 | {{ site.icons.globe }}    | [wie-soll-es-weitergehen.de](https://wie-soll-es-weitergehen.de/) |
+| {{ site.icons.telegram }} | [Wie soll es weitergehen? / Sebastian Friebel](https://t.me/Wiesollesweitergehen) |
 
 ## Zeig mir Dein Lächeln!
 

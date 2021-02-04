@@ -4,5 +4,5 @@ redirect:      https://multipolar-magazin.de/artikel/schwarze-wahrheiten
 title:         multipolar
 subtitle:      "Schwarze Wahrheiten"
 categories:    Medien
-tags:          [multipolar, schwarze wahrheiten]
+tags:          [multipolar, widerstand]
 ---

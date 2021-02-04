@@ -4,5 +4,5 @@ redirect:      https://www.berliner-zeitung.de/news/keine-uebersterblichkeit-tro
 title:         Berliner Zeitung
 subtitle:      "Keine Übersterblichkeit durch Covid-19: Chef von Gesundheitsamt vergleicht Corona mit Grippe und Hitzewellen"
 categories:    MSM
-tags:          [berliner zeitung, gottschalk]
+tags:          [berliner zeitung, gottschalk, sterblichkeit]
 ---

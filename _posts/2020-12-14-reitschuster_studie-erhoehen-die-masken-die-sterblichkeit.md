@@ -4,5 +4,5 @@ redirect:      https://reitschuster.de/post/studie-erhoehen-die-masken-die-sterb
 title:         reitschuster
 subtitle:      "Studie: Erhöhen Masken die Sterblichkeit?"
 categories:    Medien
-tags:          [reitschuster, maske]
+tags:          [reitschuster, maske, sterblichkeit]
 ---

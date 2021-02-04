@@ -4,5 +4,5 @@ redirect:      https://reitschuster.de/post/der-medien-trick-mit-der-uebersterbl
 title:         reitschuster
 subtitle:      "Der Medien-Trick mit der Übersterblichkeit"
 categories:    Medien
-tags:          [reitschuster, zahlen]
+tags:          [reitschuster, sterblichkeit]
 ---

@@ -4,5 +4,5 @@ redirect:      https://insideparadeplatz.ch/2020/10/21/studie-sieht-sterblichkei
 title:         In$ide Paradeplatz
 subtitle:      "Studie sieht Sterblichkeit tief, BAG giga-hoch"
 categories:    Medien
-tags:          [inside-paradeplatz, bag, who]
+tags:          [inside-paradeplatz, bag, who, sterblichkeit]
 ---

@@ -4,5 +4,5 @@ redirect:      https://www.srf.ch/news/schweiz/diskussion-ueber-sterblichkeit-et
 title:         SRF
 subtitle:      "Ethikerin zur Krise: «Debatte zwischen Jung und Alt zwingend»"
 categories:    MSM
-tags:          [srf, angst]
+tags:          [srf, angst, sterblichkeit]
 ---

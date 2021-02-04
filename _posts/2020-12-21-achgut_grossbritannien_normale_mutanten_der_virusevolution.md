@@ -5,5 +5,5 @@ title:      Achgut.com
 subtitle:   "Großbritannien: Normale Mutanten der Virusevolution"
 timeline:   false
 categories: Medien
-tags:       [achgut, covid20]
+tags:       [achgut, mutation]
 ---

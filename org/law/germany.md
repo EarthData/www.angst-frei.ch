@@ -25,6 +25,7 @@ Der Corona-Ausschuss untersucht, warum die Bundes- und Landesregierungen beispie
 
 | {{ site.icons.globe }}    | [corona-ausschuss.de](https://corona-ausschuss.de/) |
 | {{ site.icons.youtube }}  | [Stiftung Corona-Ausschuss](https://www.youtube.com/channel/UCYcno3d4fvSvUWGOvoJelUg) |
+| {{ site.icons.youtube }}  | [Stiftung Corona Ausschuss - Live Streams](https://www.youtube.com/channel/UCBvQ39EJqSBk0B7xlZXJh_Q) |
 | {{ site.icons.telegram }} | [corona-ausschuss.de](https://t.me/Corona_Ausschuss) |
 | {{ site.icons.twitter }}  | [CoronaAusschuss](https://twitter.com/CoronaAusschuss) |
 | {{ site.icons.facebook }} | [CoronaAusschuss](https://www.facebook.com/CoronaAusschuss/) |

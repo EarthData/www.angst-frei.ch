@@ -4,5 +4,5 @@ redirect:      https://www.zeitpunkt.ch/2020-der-wahre-grund-der-hohen-sterblich
 title:         ZE!TPUNKT
 subtitle:      "2020: der wahre Grund der hohen Sterblichkeit"
 categories:    Medien
-tags:          [zeitpunkt, zahlen]
+tags:          [zeitpunkt, sterblichkeit]
 ---

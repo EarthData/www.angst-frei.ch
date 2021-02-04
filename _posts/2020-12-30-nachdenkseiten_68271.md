@@ -4,5 +4,5 @@ redirect:   https://www.nachdenkseiten.de/?p=68271
 title:      NachDenkSeiten
 subtitle:   "Corona-Maßnahmen, Kinder und die Linke: „Denkfaulheit, Opportunismus und ein Totalausfall“ (2/2)"
 categories: Medien
-tags:       [nachdenkseiten, kinder]
+tags:       [nachdenkseiten, kind]
 ---

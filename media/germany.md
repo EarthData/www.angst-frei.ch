@@ -14,7 +14,11 @@ subtitle: Deutschland
 
 Nachrichten rund um Corona-Recht und -Politik mit Ralf Ludwig. 
 
+| {{ site.icons.dlive }}    | [zwanzig4.media](https://dlive.tv/zwanzig4.media) |
+| {{ site.icons.bitchute }} | [zwanzig4.media](https://www.bitchute.com/channel/SSGMcah1nl8N/) |
+| {{ site.icons.telegram }} | [zwanzig4.media](https://t.me/zwanzig4) |
 | {{ site.icons.youtube }}  | [zwanzig4media](https://www.youtube.com/channel/UCkePYP8zwePoQouGhXMweVA) |
+| {{ site.icons.facebook }} | [Zwanzig4.media](https://www.facebook.com/Zwanzig4.media/) |
 
 ## ![2020 News-Logo](/assets/img/logos/2020news.png){:class="logo"} 2020 News
 
