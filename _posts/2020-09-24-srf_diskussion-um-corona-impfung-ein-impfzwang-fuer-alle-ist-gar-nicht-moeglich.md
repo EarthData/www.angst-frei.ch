@@ -4,5 +4,5 @@ redirect:      https://www.srf.ch/news/schweiz/diskussion-um-corona-impfung-ein-
 title:         SRF
 subtitle:      "Ein Impfzwang für alle ist gar nicht möglich"
 categories:    MSM
-tags:          [srf, impfung]
+tags:          [srf, impfzwang]
 ---
