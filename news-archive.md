@@ -76,6 +76,24 @@ ext-js:        ["//d3js.org/d3.v3.min.js", "//cdn.jsdelivr.net/cal-heatmap/3.3.1
     </div>
     {% endif %}
 
+    {% if site.feed_show_persons != false and post.persons.size > 0 %}
+    <div class="blog-tags">
+      <span>Personen:</span>
+      {% for person in post.persons %}
+      <a href="{{ '/persons' | absolute_url }}#{{- person -}}">{{- person -}}</a>
+      {% endfor %}
+    </div>
+    {% endif %}
+
+    {% if site.feed_show_categories != false and post.categories.size > 0 %}
+    <div class="blog-tags">
+      <span>Kategorien:</span>
+      {% for category in post.categories %}
+      <a href="{{ '/categories' | absolute_url }}#{{- category -}}">{{- category -}}</a>
+      {% endfor %}
+    </div>
+    {% endif %}
+
     {% if site.feed_show_tags != false and post.tags.size > 0 %}
     <div class="blog-tags">
       <span>Tags:</span>
