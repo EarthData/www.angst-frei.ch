@@ -1,4 +1,5 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
+DE,2021-02-06,10:00:00,15890,Eisenhüttenstadt,Inselhalle / Parkplatz,Autokorso,,,
 DE,2021-02-06,10:30:00,18059,Rostock,Hauptbahnhof Süd Parkplatz,Autokorso,,,
 DE,2021-02-06,10:30:00,18055,Rostock,Hbf-Süd / Busbahnhof,Autokorso,,,
 DE,2021-02-06,10:30:00,23843,Bad Oldesloe,Finanzamt / Parkplatz,Autokorso,,,
@@ -53,6 +54,7 @@ DE,2021-02-06,16:15:00,83395,Freilassing,Grenzbrücke / DE-AT,Kundgebung,,,https
 DE,2021-02-06,16:30:00,96047,Bamberg,Maxplatz,Kundgebung,,,
 DE,2021-02-06,16:40:00,77652,Offenburg,Platz der Verfassungsfreunde,Autokorso,,,
 DE,2021-02-06,18:30:00,7171,Schwäbisch Gmünd,Marktplatz,Kundgebung,,,
+DE,2021-02-06,19:00:00,79115,Freiburg,Marktplatz / Weingarten,Event,,Disco Demo,
 DE,2021-02-06,20:00:00,76287,Rheinstetten,Rappenwörthstr. 49 / Rathaus,Kundgebung,,Für die Grundrechte,https://www.grundrechte.jetzt
 DE,2021-02-07,10:00:00,02763,Zittau,B 96,Mahnwache,,,
 DE,2021-02-07,10:45:00,75015,Bretten,Marktplatz,Meditation,,,
@@ -64,16 +66,19 @@ DE,2021-02-07,14:00:00,69231,Rauenberg,Rathausplatz,Kundgebung,,,
 AT,2021-02-07,14:00:00,6800,Feldkirch,Marktplatz,Kundgebung,,nature-culture.academy,http://www.corona-demo.at
 AT,2021-02-07,14:00:00,6800,Feldkirch,Montfortplatz,Kundgebung,,nature-culture.academy,http://www.corona-demo.at
 DE,2021-02-07,14:00:00,86150,Augsburg,Plärrer,Autokorso,,Grundrechte-Wahren,http://www.grundrechte-wahren.de
+AT,2021-02-07,15:00:00,1010,Wien,Maria-Thersien-Platz,Versammlung,,Unser Österreich,http://www.unseroesterreich.at
 DE,2021-02-07,15:00:00,64720,Michelstadt,Bienenmarkt-Platz,Kundgebung,,,
 DE,2021-02-07,15:00:00,41061,Mönchengladbach,Sonnenhausplatz / MG vor Minto,Demonstration,,MG DEMO,https://www.facebook.com/MG.DEMO.Info
 DE,2021-02-07,15:00:00,03051,Cottbus,Stadthalle,Kundgebung,,BFB,http://www.bfb-cottbus.de
 DE,2021-02-07,15:30:00,82140,Olching (FFB),Toni-März-Str. / Volksfestplatz,Kundgebung,,Amperfeen,https://amperfee.de
 DE,2021-02-07,16:30:00,33098,Paderborn,Maspernplatz,Autokorso,,,
+DE,2021-02-07,18:30:00,7171,Schwäbisch Gmünd,Marktplatz,Kundgebung,,,
 DE,2021-02-07,19:30:00,77833,Ottersweier,Parkplatz Kirche Maria Linden,Spaziergang,,Schneedemo,https://t.me/schneedemo
 DE,2021-02-08,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,
 DE,2021-02-08,16:00:00,33758,Schloss Holte,Mittweg / B68,Autokorso,,Handel,https://t.me/DassindwirOstwestfalenLippe
 DE,2021-02-08,17:00:00,33098,Paderborn,Rathausplatz,Schweigemarsch,,,
 DE,2021-02-08,17:00:00,24103,Kiel,Exerzierplatz,Versammlung,,,
+DE,2021-02-08,17:30:00,17438,Wolgast,Hufelandstr. / ggue. Polizei,Mahnwache,,,
 DE,2021-02-08,17:30:00,97070,Würzburg,Unterer Markt,Spaziergang,,Eltern stehen auf,
 DE,2021-02-08,17:30:00,33602,Bielefeld,Rathaus,Mahnwache,,,
 DE,2021-02-08,18:00:00,02763,Zittau,Markt,Kundgebung,,Freunde von PEGIDA,
@@ -93,6 +98,7 @@ DE,2021-02-08,19:00:00,47906,Kempen,Kuhtor,Spaziergang,,Privat,
 DE,2021-02-08,19:00:00,87600,Kaufbeuren,Altes Rathaus,Spaziergang,,,
 DE,2021-02-08,19:00:00,14055,Berlin,Messe Nord P3 Masurenallee,Autokorso,,Freiheitsfahrer Berlin West,https://t.me/AutokorsoBerlin
 DE,2021-02-08,20:00:00,76287,Rheinstetten,Rappenwörthstr. 49 / Rathaus,Kundgebung,,Für die Grundrechte,https://www.grundrechte.jetzt
+DE,2021-02-09,18:00:00,79117,Freiburg,Möslepark / Aufstellung 17:30,Autokorso,,,
 DE,2021-02-10,18:00:00,18057,Rostock,Parkplatz Ostseestadion Nord,Demonstration,,,
 DE,2021-02-11,18:00:00,85586,Poing,Marktplatz / S-Bahn,Kundgebung,,,
 DE,2021-02-12,15:30:00,23843,Bargteheide,Am Markt / Schulzentrum,Mahnwache,,,
