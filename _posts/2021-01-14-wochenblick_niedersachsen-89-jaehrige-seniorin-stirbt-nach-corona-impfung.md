@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/niedersachsen-89-jaehrige-seniorin-stirbt
 title:      Wochenblick
 subtitle:   "Niedersachsen: 89-jährige Seniorin stirbt nach Corona-Impfung"
 country:    AT
-categories: MSM
+categories: [mit oder an Impfung gestorben]
 tags:       [wochenblick, impfung]
 ---

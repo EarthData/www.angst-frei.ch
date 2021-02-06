@@ -4,5 +4,5 @@ redirect:      https://insideparadeplatz.ch/2020/12/29/pfusch-mit-r-wert-macht-s
 title:         In$ide Paradeplatz
 subtitle:      "Pfusch mit R-Wert macht Schweiz zu Geisterland"
 categories:    Medien
-tags:          [inside-paradeplatz, zahlen, massnahmen]
+tags:          [inside-paradeplatz, r-wert, massnahmen]
 ---

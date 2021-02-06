@@ -4,5 +4,5 @@ redirect:      https://www.infosperber.ch/gesundheit/public-health/corona-das-vo
 title:         INFOsperber
 subtitle:      "Corona: Das vorschnelle Starren auf die Reproduktionszahl R"
 categories:    Medien
-tags:          [infosperber, zahlen]
+tags:          [infosperber, r-wert]
 ---

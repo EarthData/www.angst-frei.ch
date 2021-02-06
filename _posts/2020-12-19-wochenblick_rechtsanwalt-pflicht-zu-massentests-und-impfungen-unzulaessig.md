@@ -5,5 +5,5 @@ title:      Wochenblick
 subtitle:   "Rechtsanwalt: Pflicht zu Massentests und Massenimpfungen unzulässig!"
 country:    AT
 categories: MSM
-tags:       [wochenblick, pct-test, antigentest, impfung]
+tags:       [wochenblick, massentest, impfung]
 ---

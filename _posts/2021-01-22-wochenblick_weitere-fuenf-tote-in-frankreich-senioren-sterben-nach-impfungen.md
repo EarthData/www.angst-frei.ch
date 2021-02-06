@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/weitere-fuenf-tote-in-frankreich-senioren
 title:      Wochenblick
 subtitle:   "Weitere fünf Tote in Frankreich: Senioren sterben nach Impfungen"
 country:    AT
-categories: MSM
+categories: [mit oder an Impfung gestorben]
 tags:       [wochenblick, impfung]
 ---

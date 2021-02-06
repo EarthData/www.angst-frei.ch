@@ -3,6 +3,7 @@ date:          2021-01-11
 redirect:      https://vera-lengsfeld.de/2021/01/11/covid-19-die-infantilisierung-der-gesellschaft/
 title:         Vera Lengsfeld
 subtitle:      "Covid 19: die Infantilisierung der Gesellschaft"
+persons:       Lengsfeld Vera
 categories:    Medien
-tags:          [lengsfeld, angst, massnahmen]
+tags:          [angst, massnahmen]
 ---

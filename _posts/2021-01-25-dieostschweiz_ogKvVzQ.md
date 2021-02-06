@@ -4,5 +4,5 @@ redirect:      https://www.dieostschweiz.ch/artikel/der-bundesrat-sitzt-auf-den-
 title:         Die Ostschweiz
 subtitle:      "Der Bundesrat sitzt auf den Suizidzahlen: Jetzt muss die Begründung her"
 categories:    Medien
-tags:          [die ostschweiz, zahlen]
+tags:          [die ostschweiz, sterblichkeit]
 ---

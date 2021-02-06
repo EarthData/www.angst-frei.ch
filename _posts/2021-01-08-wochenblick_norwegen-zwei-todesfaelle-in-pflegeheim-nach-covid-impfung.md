@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/norwegen-zwei-todesfaelle-in-pflegeheim-n
 title:      Wochenblick
 subtitle:   "Norwegen: Zwei Todesfälle in Pflegeheim nach Covid-Impfung"
 country:    AT
-categories: MSM
+categories: [mit oder an Impfung gestorben]
 tags:       [wochenblick, impfung]
 ---

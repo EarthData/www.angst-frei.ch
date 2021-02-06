@@ -4,5 +4,5 @@ redirect:      https://www.weltwoche-daily.ch/beitrag/ziellose-massentests-sind-
 title:         Weltwoche daily
 subtitle:      "Massentests sind nutzlos im Kampf gegen das Coronavirus. Wir sollten den Fokus auf die Sterblichkeit richten"
 categories:    Medien
-tags:          [weltwoche, pcr-test, sterblichkeit]
+tags:          [weltwoche, massentest, sterblichkeit]
 ---

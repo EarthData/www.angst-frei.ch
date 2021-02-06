@@ -4,5 +4,5 @@ redirect:      https://www.tagesschau.de/wirtschaft/krankenhaeuser-finanzierung-
 title:         tagesschau.de
 subtitle:      "Kliniken können bald Gehälter nicht mehr zahlen"
 categories:    MSM
-tags:          [tagesschau.de, zahlen]
+tags:          [tagesschau.de, geld]
 ---

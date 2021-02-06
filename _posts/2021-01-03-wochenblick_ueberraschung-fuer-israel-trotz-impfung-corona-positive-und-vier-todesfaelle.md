@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/ueberraschung-fuer-israel-trotz-impfung-c
 title:      Wochenblick
 subtitle:   "Überraschung für Israel: Trotz Impfung Corona-Positive und vier Todesfälle"
 country:    AT
-categories: MSM
+categories: [mit oder an Impfung gestorben]
 tags:       [wochenblick, impfung]
 ---
