@@ -115,6 +115,7 @@ Fehlt auch nur eines dieser Merkmale sind staatliche Anordnungen, und dazu gehö
 {:class="date-meta"}
 
 #### Diverse
+ * [Aktionsbündnis Aargau-Zürich - Was können wir tun?](https://www.aargau-zuerich.ch/unsere-anl%C3%A4sse)
  * [Medizinische und juristische Informationen zu Maskenpflicht und Befreiungsmöglichkeiten](https://www.mwgfd.de/zur-maskenpflicht/)
  * [Schutz oder Gefahr? Über 50 Studien welche gegen das Tragen von Mund-Nasen Bedeckungen sprechen](https://corona-blog.net/schutz_oder_gefahr_ueber_50_studien-welche-gegen-das-tragen-von-mund-nasen-bedeckungen-sprechen/)
  * [Die Evidenzlage zu Mund-Nasen-Bedeckungen](https://www.aerztefueraufklaerung.de/masken/index.php)

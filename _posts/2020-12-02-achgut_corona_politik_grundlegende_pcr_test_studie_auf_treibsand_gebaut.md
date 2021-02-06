@@ -4,6 +4,6 @@ redirect:   https://www.achgut.com/artikel/corona_politik_grundlegende_pcr_test_
 title:      Achgut.com
 subtitle:   "Corona-Politik: Grundlegende PCR-Test-Studie auf Treibsand gebaut?"
 timeline:   false
-categories: Medien
+categories: Studie
 tags:       [achgut, pcr-test]
 ---

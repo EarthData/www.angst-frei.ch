@@ -4,6 +4,6 @@ redirect:      https://tkp.at/2020/11/28/personen-ohne-symptome-nicht-infektioes
 title:         tp - Science & Technology
 timeline:      false
 subtitle:      "Personen ohne Symptome nicht infektiös: große Studie aus Wuhan"
-categories:    Medien
+categories:    Studie
 tags:          [tkp, asymptomatisch]
 ---

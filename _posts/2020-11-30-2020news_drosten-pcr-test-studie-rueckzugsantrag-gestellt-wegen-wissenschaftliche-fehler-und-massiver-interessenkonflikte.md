@@ -4,6 +4,6 @@ redirect:      https://2020news.de/drosten-pcr-test-studie-rueckzugsantrag-geste
 title:         2020 News
 subtitle:      "Drosten-PCR-Test-Studie: Rückzugsantrag gestellt wegen wissenschaftlicher Fehler und massiver Interessenkonflikte"
 persons:       Drosten Christian
-categories:    Medien
+categories:    Studie
 tags:          [2020news, pcr-test]
 ---

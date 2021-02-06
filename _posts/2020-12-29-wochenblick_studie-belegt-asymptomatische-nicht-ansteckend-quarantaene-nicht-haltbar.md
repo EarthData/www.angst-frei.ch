@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/studie-belegt-asymptomatische-nicht-anste
 title:      Wochenblick
 subtitle:   "Studie belegt: Asymptomatische nicht ansteckend! Quarantäne nicht haltbar!"
 country:    AT
-categories: MSM
+categories: Studie
 tags:       [wochenblick, quarantäne, asymptomatisch]
 ---

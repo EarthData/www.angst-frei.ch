@@ -5,6 +5,6 @@ title:         tp - Science & Technology
 timeline:      false
 subtitle:      "Stanford Studie mit Top Medizin-Wissenschaftler Ioannidis zeigt keinen Nutzen von Lockdowns"
 persons:       Ioannidis John P.
-categories:    Medien
+categories:    Studie
 tags:          [tkp, lockdown]
 ---

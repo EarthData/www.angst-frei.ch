@@ -4,6 +4,6 @@ redirect:      https://reitschuster.de/post/stanford-studie-kein-nutzen-durch-lo
 title:         reitschuster
 subtitle:      "Stanford-Studie: Kein Nutzen durch Lockdowns, aber Risiken"
 persons:       Ioannidis John P.
-categories:    Medien
+categories:    Studie
 tags:          [reitschuster, lockdown]
 ---
