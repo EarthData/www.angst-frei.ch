@@ -4,6 +4,6 @@ redirect:   https://www.achgut.com/artikel/weimarer_corona-Urteil_stufe_2_der_ra
 title:      Achgut.com
 subtitle:   "Weimarer Corona-Urteil – Stufe 2 der Rakete gezündet"
 timeline:   false
-categories: Medien
-tags:       [achgut, lockdown, recht]
+categories: Recht
+tags:       [achgut, weimar]
 ---
