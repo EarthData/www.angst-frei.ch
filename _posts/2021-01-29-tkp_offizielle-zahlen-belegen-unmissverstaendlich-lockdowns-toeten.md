@@ -4,6 +4,6 @@ redirect:      https://tkp.at/2021/01/29/offizielle-zahlen-belegen-unmissverstae
 title:         tp - Science & Technology
 timeline:      false
 subtitle:      "Offizielle Zahlen belegen unmissverständlich: Lockdowns töten"
-categories:    Medien
-tags:          [tkp, lockdown, zahlen]
+categories:    Zahlen
+tags:          [tkp, lockdown]
 ---

@@ -72,6 +72,12 @@ InsideCorona ist eine unabhängige Plattform und eine Bewegung von Unternehmerin
 
 | {{ site.icons.globe }}    | [www.insidecorona.ch](https://www.insidecorona.ch/) |
 
+## Kinder amten auf!
+
+Der Verein “Kinder amten auf!” setzt sich dafür ein, dass Kinder in der Schweiz in einem Umfeld von Freiheit und Respekt, unter der Eigenverantwortung der Eltern/Erziehungsberechtigten, aufwachsen und sich entwickeln dürfen.
+
+| {{ site.icons.globe }}    | [kinderatmenauf.ch](https://kinderatmenauf.ch/) |
+
 ## Licht ins Corona-Dunkel
 
 LICHT INS CORONA-DUNKEL ist unser aller Kind.

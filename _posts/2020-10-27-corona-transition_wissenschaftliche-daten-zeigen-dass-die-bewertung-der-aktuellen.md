@@ -4,5 +4,5 @@ redirect:      https://corona-transition.org/wissenschaftliche-daten-zeigen-dass
 title:         Corona Transition
 subtitle:      "Wissenschaftliche Daten zeigen, dass die Bewertung der aktuellen Neuinfektionszahlen falsch ist"
 categories:    BAG
-tags:          [corona transition, rki, pcr-test]
+tags:          [corona transition, rki, pcr-test, infektion]
 ---

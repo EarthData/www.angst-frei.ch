@@ -111,8 +111,12 @@ Fehlt auch nur eines dieser Merkmale sind staatliche Anordnungen, und dazu gehö
 ### Weiterführende Links 
 
 #### [Neues Sach- und Rechtsattest gegen Maskenzwang in der Schweiz](https://corona-transition.org/neues-sach-und-rechtsattest-gegen-maskenzwang-in-der-schweiz)  
-25.11.2020 [Heinz Raschein]({{site.baseurl}}/person/law/swiss.html#heinz-raschein)
+ * 25.11.2020 [Heinz Raschein]({{site.baseurl}}/person/law/swiss.html#heinz-raschein)
 {:class="date-meta"}
+
+#### Kinder amten auf!
+
+ * [kinderatmenauf.ch](https://kinderatmenauf.ch/)
 
 #### Diverse
  * [Aktionsbündnis Aargau-Zürich - Was können wir tun?](https://www.aargau-zuerich.ch/unsere-anl%C3%A4sse)

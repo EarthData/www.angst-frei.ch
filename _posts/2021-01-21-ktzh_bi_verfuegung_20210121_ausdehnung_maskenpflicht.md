@@ -4,7 +4,7 @@ title:      Kanton Zürich - Bildungsdirektiona - Verfügung
 subtitle:   "Volksschulen. Vorgaben Schutzkonzepte; Ausdehnung Maskentragpflicht"
 date:       2021-01-21
 timeline:   true
-categories: Datei
+categories: [Datei, Schulen]
 tags:       [massnahmen, kind, pdf]
 link:       "/assets/files/health/bi_verfuegung_20210121_ausdehnung_maskenpflicht.pdf"
 ---
