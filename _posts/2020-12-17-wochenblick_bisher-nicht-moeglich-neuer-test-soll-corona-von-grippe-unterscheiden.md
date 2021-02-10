@@ -5,5 +5,5 @@ title:      Wochenblick
 subtitle:   "Bisher nicht möglich? Neuer Test soll Corona von Grippe unterscheiden"
 country:    AT
 categories: MSM
-tags:       [wochenblick, pct-test, antigentest]
+tags:       [wochenblick, pcr-test, antigentest]
 ---

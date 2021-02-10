@@ -12,6 +12,12 @@ Die Stiftung Ärzte für Aufklärung hilft den Menschen, die unter den unsachlic
 | {{ site.icons.globe }}    | [Die Evidenzlage zu Mund-Nasen-Bedeckungen](https://www.xn--rzte-fr-aufklrung-pqbn68b.de/masken/) |
 | {{ site.icons.odysee }}   | [Ärzte für Aufklärung](https://odysee.com/@aerztefueraufklaerung:8) |
 
+## Corona Strategie Deutschland
+
+Gibt es eine Pandemiestrategie? Unsere Position: unabhängiges Expertengremium - wissenschaftlicher Diskurs
+
+| {{ site.icons.globe }}    | [covid-strategie.de](https://covid-strategie.de/) |
+
 ## Mediziner und Wissenschaftler für Gesundheit, Freiheit und Demokratie, e.V.
 
 Die Initiative „Mediziner und Wissenschaftler für Gesundheit, Freiheit und Demokratie, e.V.“ (MWGFD) ist ein Zusammenschluss von in Medizinberufen tätigen Personen und Wissenschaftlern, die sich in Forschung und Lehre mit den Themen Gesundheit, Freiheit und Demokratie beschäftigen. Wir haben uns während der Coronakrise in unserer Kritik an den überzogenen Beschränkungen zusammengefunden.
