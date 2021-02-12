@@ -46,14 +46,8 @@ title: 'Personen'
           Posted on {{ post.date | date: date_format }}
         </p>
 
-        {% if site.feed_show_tags != false and post.tags.size > 0 %}
-        <div class="blog-tags">
-          <span>Tags:</span>
-          {% for tag in post.tags %}
-            <a href="{{ '/tags' | absolute_url }}#{{- tag -}}">{{- tag -}}</a>
-          {% endfor %}
-        </div>
-        {% endif %}
+        {% include meta.html %}
+
       </article>
     </div>
   {%- endfor -%}
