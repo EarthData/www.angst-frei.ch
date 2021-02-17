@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/us-datenbank-listet-6741-faelle-mit-covid
 title:      Wochenblick
 subtitle:   "US-Datenbank listet 6741 Fälle mit Covid-Impf-Nebenwirkungen: 55 Tote"
 country:    AT
-categories: [mit oder an Impfung gestorben]
-tags:       [wochenblick, zahlen, impfung]
+categories: [mit oder an Impfung gestorben, Nebenwirkungen, Zahlen]
+tags:       [wochenblick, impfung]
 ---

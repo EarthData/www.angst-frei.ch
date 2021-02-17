@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/usa-6-tote-waehrend-pfizer-imfpfstofftest
 title:      Wochenblick
 subtitle:   "USA: 6 Tote während Pfizer-Imfpfstofftestungen, Warnung für Allergiker"
 country:    AT
-categories: MSM
+categories: [mit oder an Impfung gestorben, Nebenwirkungen]
 tags:       [wochenblick, impfung]
 ---

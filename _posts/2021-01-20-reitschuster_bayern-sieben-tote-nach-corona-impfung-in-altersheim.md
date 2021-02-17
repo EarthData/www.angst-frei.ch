@@ -4,5 +4,5 @@ redirect:      https://reitschuster.de/post/bayern-sieben-tote-nach-corona-impfu
 title:         reitschuster
 subtitle:      "Bayern: Sieben Tote nach Corona-Impfung in Altersheim"
 categories:    [mit oder an Impfung gestorben]
-tags:          [reitschuster, impfung]
+tags:          [reitschuster, biontech, impfung]
 ---

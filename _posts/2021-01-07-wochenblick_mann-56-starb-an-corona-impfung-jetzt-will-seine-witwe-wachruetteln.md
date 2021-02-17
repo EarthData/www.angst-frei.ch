@@ -5,5 +5,5 @@ title:      Wochenblick
 subtitle:   "Mann (56) starb nach Corona-Impfung: Jetzt will seine Witwe wachrütteln"
 country:    AT
 categories: [mit oder an Impfung gestorben]
-tags:       [wochenblick, impfung]
+tags:       [wochenblick, impfung, biontech]
 ---

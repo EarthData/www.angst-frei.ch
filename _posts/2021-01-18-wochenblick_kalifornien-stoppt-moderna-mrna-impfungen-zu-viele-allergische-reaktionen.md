@@ -5,5 +5,5 @@ title:      Wochenblick
 subtitle:   "Allergische Reaktionen: Kalifornien stoppt Moderna-mRNA-Impfung"
 country:    AT
 categories: MSM
-tags:       [wochenblick, impfung]
+tags:       [wochenblick, impfung, moderna]
 ---

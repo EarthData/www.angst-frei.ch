@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/auswertung-corona-tote-in-oberoesterreich
 title:      Wochenblick
 subtitle:   "Eine Woche Corona-Statistik OÖ: 81,8 Jahre Altersschnitt, alle vorerkrankt"
 country:    AT
-categories: MSM
-tags:       [wochenblick, zahlen]
+categories: Zahlen
+tags:       [wochenblick, sterblichkeit]
 ---

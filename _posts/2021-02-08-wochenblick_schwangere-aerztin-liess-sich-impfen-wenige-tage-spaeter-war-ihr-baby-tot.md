@@ -5,5 +5,5 @@ title:      Wochenblick
 subtitle:   "Schwangere Ärztin ließ sich impfen: Wenige Tage später war ihr Baby tot!"
 country:    AT
 categories: [mit oder an Impfung gestorben]
-tags:       [wochenblick, impfung, kind]
+tags:       [wochenblick, impfung, biontech, kind]
 ---

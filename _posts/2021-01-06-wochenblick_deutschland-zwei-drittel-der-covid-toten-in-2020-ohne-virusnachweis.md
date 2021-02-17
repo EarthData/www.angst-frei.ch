@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/deutschland-zwei-drittel-der-covid-toten-
 title:      Wochenblick
 subtitle:   "Deutschland: zwei Drittel der Covid-Toten in 2020 ohne Virusnachweis"
 country:    AT
-categories: MSM
-tags:       [wochenblick, sterblichkeit, zahlen]
+categories: Zahlen
+tags:       [wochenblick, sterblichkeit, who]
 ---

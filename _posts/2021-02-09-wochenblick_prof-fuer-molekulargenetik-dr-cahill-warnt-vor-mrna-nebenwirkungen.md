@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/prof-fuer-molekulargenetik-dr-cahill-warn
 title:      Wochenblick
 subtitle:   "Prof. für Molekulargenetik Dr. Cahill warnt vor mRNA-Nebenwirkungen"
 country:    AT
-categories: Wissenschaft
+categories: [Wissenschaft, Nebenwirkungen]
 tags:       [wochenblick, impfung]
 ---

@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/regierungs-experte-imfpung-hat-nebenwirku
 title:      Wochenblick
 subtitle:   "Regierungs-Experte: Impfung hat Nebenwirkungen, schützt andere nicht"
 country:    AT
-categories: MSM
+categories: Nebenwirkungen
 tags:       [wochenblick, impfung]
 ---

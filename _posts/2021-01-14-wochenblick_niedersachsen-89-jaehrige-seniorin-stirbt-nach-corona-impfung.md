@@ -5,5 +5,5 @@ title:      Wochenblick
 subtitle:   "Niedersachsen: 89-jährige Seniorin stirbt nach Corona-Impfung"
 country:    AT
 categories: [mit oder an Impfung gestorben]
-tags:       [wochenblick, impfung]
+tags:       [wochenblick, impfung, biontech]
 ---

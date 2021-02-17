@@ -5,5 +5,5 @@ title:      Wochenblick
 subtitle:   "Schockierender Whistleblower-Bericht: Tote nach Impfung in Berliner Heim"
 country:    AT
 categories: [mit oder an Impfung gestorben]
-tags:       [wochenblick, impfung]
+tags:       [wochenblick, biontech, impfung]
 ---

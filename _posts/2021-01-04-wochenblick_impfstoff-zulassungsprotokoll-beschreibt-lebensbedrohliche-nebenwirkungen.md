@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/impfstoff-zulassungsprotokoll-beschreibt-
 title:      Wochenblick
 subtitle:   "Impfstoff-Zulassungsprotokoll beschreibt lebensbedrohliche Nebenwirkungen"
 country:    AT
-categories: MSM
-tags:       [wochenblick, impfung]
+categories: Nebenwirkungen
+tags:       [wochenblick, impfung, biontech]
 ---

@@ -4,5 +4,5 @@ redirect:      https://2020news.de/portugiesische-krankenschwester-stirbt-nach-i
 title:         2020 News
 subtitle:      "Portugiesische Krankenschwester stirbt nach Impfung"
 categories:    [mit oder an Impfung gestorben]
-tags:          [2020news, impfung]
+tags:          [2020news, impfung, biontech]
 ---

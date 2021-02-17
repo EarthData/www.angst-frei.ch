@@ -5,5 +5,5 @@ title:      Wochenblick
 subtitle:   "Weitere fünf Tote in Frankreich: Senioren sterben nach Impfungen"
 country:    AT
 categories: [mit oder an Impfung gestorben]
-tags:       [wochenblick, impfung]
+tags:       [wochenblick, impfung, biontech]
 ---

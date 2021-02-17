@@ -4,5 +4,5 @@ redirect:      https://www.infosperber.ch/gesundheit/public-health/die-pfizer-im
 title:         INFOsperber
 subtitle:      "«Pfizer-Impfung ist viel weniger wirksam» – keine Transparenz"
 categories:    [Studie, Wissenschaft]
-tags:          [infosperber, impfung]
+tags:          [infosperber, biontech, impfung]
 ---

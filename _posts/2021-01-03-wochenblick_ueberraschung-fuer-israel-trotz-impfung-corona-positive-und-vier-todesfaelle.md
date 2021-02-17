@@ -5,5 +5,5 @@ title:      Wochenblick
 subtitle:   "Überraschung für Israel: Trotz Impfung Corona-Positive und vier Todesfälle"
 country:    AT
 categories: [mit oder an Impfung gestorben]
-tags:       [wochenblick, impfung]
+tags:       [wochenblick, impfung, biontech]
 ---

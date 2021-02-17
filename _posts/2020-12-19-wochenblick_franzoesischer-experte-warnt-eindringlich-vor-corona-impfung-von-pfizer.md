@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/franzoesischer-experte-warnt-eindringlich
 title:      Wochenblick
 subtitle:   "Französischer Experte warnt eindringlich vor Corona-Impfung von Pfizer!"
 country:    AT
-categories: MSM
+categories: Nebenwirkungen
 tags:       [wochenblick, impfung]
 ---

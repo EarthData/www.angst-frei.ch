@@ -4,5 +4,5 @@ redirect:      https://www.zeitpunkt.ch/heiligabend-geimpft-fuenf-tage-spaeter-t
 title:         ZE!TPUNKT
 subtitle:      "An Heiligabend geimpft, fünf Tage später tot"
 categories:    [mit oder an Impfung gestorben]
-tags:          [zeitpunkt, impfung]
+tags:          [zeitpunkt, impfung, biontech]
 ---

@@ -5,5 +5,5 @@ title:      Wochenblick
 subtitle:   "Nach Impfungen: 11 Tote in Pflegeheim, weitere Massenausbrüche"
 country:    AT
 categories: [mit oder an Impfung gestorben]
-tags:       [wochenblick, impfung]
+tags:       [wochenblick, impfung, biontech]
 ---

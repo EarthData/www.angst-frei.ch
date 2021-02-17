@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/weltweit-impfpannen-und-tote-aerzte-und-p
 title:      Wochenblick
 subtitle:   "Weltweit Impfpannen und Tote: Ärzte und Pflegepersonal verunsichert"
 country:    AT
-categories: MSM
+categories: [mit oder an Impfung gestorben]
 tags:       [wochenblick, impfung]
 ---

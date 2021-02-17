@@ -5,5 +5,5 @@ title:      Wochenblick
 subtitle:   "Geimpft, erkrankt, gestorben: Corona-Ausbruch nach Impfung in Spanien"
 country:    AT
 categories: [mit oder an Impfung gestorben]
-tags:       [wochenblick, impfung]
+tags:       [wochenblick, biontech, impfung]
 ---

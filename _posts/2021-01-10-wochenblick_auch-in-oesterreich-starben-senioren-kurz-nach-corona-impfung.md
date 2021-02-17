@@ -5,5 +5,5 @@ title:      Wochenblick
 subtitle:   "Auch in Österreich starben Senioren kurz nach Corona-Impfung"
 country:    AT
 categories: [mit oder an Impfung gestorben]
-tags:       [wochenblick, impfung]
+tags:       [wochenblick, impfung, biontech]
 ---

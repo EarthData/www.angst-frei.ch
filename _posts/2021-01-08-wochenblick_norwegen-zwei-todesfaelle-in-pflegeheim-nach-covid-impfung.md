@@ -5,5 +5,5 @@ title:      Wochenblick
 subtitle:   "Norwegen: Zwei Todesfälle in Pflegeheim nach Covid-Impfung"
 country:    AT
 categories: [mit oder an Impfung gestorben]
-tags:       [wochenblick, impfung]
+tags:       [wochenblick, impfung, biontech]
 ---
