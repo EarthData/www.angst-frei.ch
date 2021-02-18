@@ -5,6 +5,8 @@ cover-img:  /assets/img/hope.jpg
 head-extra: favicons.html
 ---
 
+<iframe src="https://duckduckgo.com/search.html?duck=yes&site=www.angst-frei.ch&prefill=Search www.angst-frei.ch&kl=ch-de&kz=-1&k1=-1&kae=%23FFE5CC&k7=w&kx=%23994C00&kf=-1&ka=Lora&kt=Lora" style="overflow:hidden;margin:0;padding:0;width:483px;height:60px;" frameborder="0"></iframe>
+
 Diese Seite dient der Übersicht und Aggregation von kritischen Stimmen zum aktuellen Covid19-Geschehen. Das Ziel ist die Möglichkeit einer differenzierten Betrachtung und Diskussion des Themas. Aus diesem Grund wird ein sehr grosses Spektrum an Meinungen abgedeckt, die sich nicht zwangsl&auml;ufig mit der Meinung der Seitenbetreiber decken muss. Es werden im wesentlichen folgende Ziele verfolgt:
 
 
