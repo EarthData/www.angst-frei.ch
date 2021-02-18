@@ -5,5 +5,5 @@ title:      SVP
 subtitle:   "Bundesrat verliert Bezug zur Realität und den Rückhalt im Volk"
 country:    CH
 categories: Politik
-tags:       [svp, massnahmen]
+tags:       [svp, bundesrat, massnahmen]
 ---
