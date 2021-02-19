@@ -82,6 +82,7 @@ feed:
     - Medien
     - Wissenschaft
     - Video
+    - Politk
   posts_limit: 20
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words

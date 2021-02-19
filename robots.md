@@ -1,9 +1,10 @@
 ---
-layout: null
+layout:
+title:
 permalink: robots.txt
 ---
 Sitemap: {{ site.url }}/sitemap.xml
-
+#
 User-agent: *
 Disallow: /network-data/
 Disallow: /timeline-data/
