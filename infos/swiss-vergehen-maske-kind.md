@@ -106,6 +106,10 @@ Fehlt auch nur eines dieser Merkmale sind staatliche Anordnungen, und dazu gehö
 
 ### Petition
 
+ * [Schluss mit dem Maskentragen für Schülerinnen und Schüler unter 12 Jahren!](https://schuetzt-die-kinder.ch/)
+
+#### Archiv
+
  * [Schluss mit dem Maskentragen für Schülerinnen und Schüler unter 12 Jahren!](https://www.kinder-maskenpetition.ch/)
 
 ### Weiterführende Links 
