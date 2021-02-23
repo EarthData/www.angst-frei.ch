@@ -1,9 +1,4 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-DE,2021-02-23,17:30:00,70372,Stuttgart,Cannstatter Wasen  P10,Autokorso,,,
-DE,2021-02-23,18:00:00,97070,Würzburg,Grombühl Wagnerplatz,Spaziergang,,Eltern stehen auf,
-DE,2021-02-23,18:00:00,79108,Freiburg,Neues SC-Stadion/Flugplatz,Autokorso,,Treff ab 17:15,
-DE,2021-02-23,18:30:00,73525,Schwäbisch Gmünd,Marktplatz,Kundgebung,,,
-DE,2021-02-23,19:00:00,44139,Dortmund,Parkplatz D1 Westfalenpark,Autokorso,,Querdenken,
 DE,2021-02-24,15:00:00,26180,Rastede,Marktplatz / Kleibroker Str.,Kundgebung,,,
 DE,2021-02-24,17:00:00,70173,Stuttgart,Karlsplatz,Aufzug,,,
 DE,2021-02-24,17:00:00,70173,Stuttgart,Karlsplatz,Demonstration,,,
@@ -12,6 +7,7 @@ DE,2021-02-24,18:00:00,18107,Rostock Lütten Klein,Vorm Gesundheitszentrum,Kundg
 DE,2021-02-24,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,,
 DE,2021-02-24,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,,
 DE,2021-02-24,18:00:00,59071,Hamm,Maximilianstr. / P Ammerweg,Autokorso,,Querdenken,
+DE,2021-02-24,18:00:00,10117,Berlin,Bundeskanzleramt,Kundgebung,https://demo.stream/mariagoetz,Franz Wiese,
 DE,2021-02-24,18:30:00,73525,Schwäbisch Gmünd,Marktplatz,Kundgebung,,,
 DE,2021-02-24,19:00:00,83022,Rosenheim,Ichikawa-Platz,Kundgebung,,,
 DE,2021-02-25,10:30:00,91054,Erlangen,Schlossplatz,Mahnwache,,,
