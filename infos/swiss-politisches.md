@@ -20,7 +20,9 @@ subtitle: Schweiz - Politisches
 
 ### Petitionen
 
- * [Petition zur Lockdown-Politik des Bundesrates](https://wirbestimmen.ch/index.php/de/petition-lockdown-de)
+ * [Immunität bei Coronaverbrechen sei aufzuheben ...](https://www.neue-volkspartei.ch/petition) (Neue Volkspartei)
+ * [Petition zur Lockdown-Politik des Bundesrates](https://wirbestimmen.ch/index.php/de/petition-lockdown-de) (Wir bestimmen…)
+ * [Unabhängige Untersuchung der Corona-Krise](https://fruehling2020.com/) (Frühling2020)
 
 ## Kind
 

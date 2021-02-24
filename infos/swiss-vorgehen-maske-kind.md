@@ -103,14 +103,11 @@ Fehlt auch nur eines dieser Merkmale sind staatliche Anordnungen, und dazu gehö
 ### Kantonale Verfügungen
 
  * [Zürich: Verfügung Bildungsdirektion: Volksschulen. Vorgaben Schutzkonzepte vom 28.10.2020](/assets/files/law/verfuegung_bi_vorgaben_schutzkonzepte.pdf)
+ * [Zürich: Verfügung Bildungsdirektion: Volksschulen. Vorgaben Schutzkonzepte; Ausdehnung Maskentragpflicht](/assets/files/law/bi_verfuegung_20210121_ausdehnung_maskenpflicht.pdf)
 
-### Petition
+### Politisches
 
- * [Schluss mit dem Maskentragen für Schülerinnen und Schüler unter 12 Jahren!](https://schuetzt-die-kinder.ch/)
-
-#### Archiv
-
- * [Schluss mit dem Maskentragen für Schülerinnen und Schüler unter 12 Jahren!](https://www.kinder-maskenpetition.ch/)
+siehe [Politisches > Kind]({{site.baseurl}}/infos/swiss-politisches.html#kind)
 
 ### Weiterführende Links 
 
