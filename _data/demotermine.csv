@@ -1,4 +1,5 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
+DE,2021-02-26,15:00:00,91522,Ansbach,Hofwiese / Onoldiasaal,Autokorso,,,
 DE,2021-02-26,16:00:00,64283,Darmstadt,Rheinstr. vor der Kunsthalle,Schilderwald,,,
 DE,2021-02-26,16:45:00,70372,Stuttgart,Cannstatter Wasen  P10,Autokorso,,,
 DE,2021-02-26,17:00:00,09599,Freiberg,Obermarkt,Versammlung,,,
@@ -17,6 +18,7 @@ DE,2021-02-26,18:30:00,73525,Schwäbisch Gmünd,Marktplatz,Kundgebung,,,
 DE,2021-02-26,19:00:00,06268,Querfurt,Burgring 4,Autokorso,,,
 DE,2021-02-26,19:00:00,26506,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,,,
 DE,2021-02-27,10:00:00,63897,Miltenberg,Miltenberg / Bürgstadt,Schilderwald,,Freiheitsboten Miltenberg,https://t.me/s/infomiltenberg
+DE,2021-02-27,11:00:00,29223,Celle,Schützenplatz,Spaziergang,,,
 DE,2021-02-27,13:00:00,78628,Rottweil,Parkplatz Freibad,Autokorso,,,
 DE,2021-02-27,13:00:00,77635,Baden-Baden,Lange Str. 2 / Blumen-Brunnen,Kundgebung,,Initiative aufRECHT-FREIdenken,http://www.solidarnosch.de
 AT,2021-02-27,14:00:00,1010,Wien,Maria-Theresien-Platz,Kundgebung,,Unser Österreich,http://www.unseroesterreich.at
@@ -24,6 +26,7 @@ DE,2021-02-27,14:00:00,64385,Reichelsheim,B 38 Ortseingang Aldi,Versammlung,,,
 DE,2021-02-27,14:00:00,80339,München,Theresienwiese / Aufstl. 13 h,Autokorso,,Autokorso München,https://t.me/AutoKorsoMuc
 DE,2021-02-27,14:00:00,56068,Koblenz,Jesuitenplatz,Mahnwache,,,
 DE,2021-02-27,14:00:00,30159,Hannover,Schützenplatz / Gilde Tor,Autokorso,,,
+DE,2021-02-27,14:00:00,36037,Fulda,Friedrichstr. / U.heil.Kreuz,Kundgebung,,,
 DE,2021-02-27,14:00:00,95448,Bayreuth,P beim Volksfestplatz,Kundgebung,,20Plus1,https://20plus1.org
 DE,2021-02-27,14:30:00,83278,Traunstein,Stadtplatz,Kundgebung,,Chiemgau-Rupertiwinkel steht auf!,
 DE,2021-02-27,14:30:00,67434,Neustadt / Weinstraße,Hetzelplatz / ggü. HBF,Kundgebung,,,
@@ -54,6 +57,7 @@ DE,2021-02-28,14:00:00,69231,Rauenberg,Rathausplatz,Kundgebung,,,
 DE,2021-02-28,14:00:00,63477,Maintal / Dörnigheim,Sportzentrum / Dicke Buche,Spaziergang,,Bürgerinitiative Hanau steht auf,https://hanau-steht-auf.de/
 AT,2021-02-28,14:00:00,6850,Dornbirn,Marktplatz,Kundgebung,,,
 DE,2021-02-28,14:30:00,89257,Illertissen,Marktplatz,Kundgebung,,Klardenken Schwaben,http://Klardenken-schwaben.de
+DE,2021-02-28,14:30:00,88400,Biberach / Riß,Gigelberg,Kundgebung,,,
 DE,2021-02-28,15:30:00,82140,Olching (FFB),Toni-März-Str. / Volksfestplatz,Kundgebung,,Amperfeen,http://www.amperfee.de
 DE,2021-02-28,16:00:00,63897,Miltenberg,Busparkplatz / Jahnstr.,Demonstration,,Freiheitsboten Miltenberg,https://t.me/s/infomiltenberg
 DE,2021-03-01,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,
@@ -66,6 +70,7 @@ DE,2021-03-01,18:00:00,49074,Osnabrück,Rathaus,Demonstration,,,
 DE,2021-03-01,18:00:00,87700,Memmingen,Marktplatz,Kundgebung,,,
 DE,2021-03-01,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,
 DE,2021-03-01,18:00:00,89150,Laichingen,Marktplatz,Kundgebung,,,
+DE,2021-03-01,18:00:00,89150,Laichingen,Marktplatz,Kundgebung,,Wolfgang Greulich / Kauth,
 DE,2021-03-01,18:00:00,74906,Bad Rappenau,Rathausplatz,Kundgebung,,,
 DE,2021-03-01,18:30:00,02763,Zittau,Markt,Kundgebung,,Freunde von PEGIDA,
 DE,2021-03-01,18:30:00,17033,Neubrandenburg,Marktplatz,Kundgebung,,,
@@ -79,6 +84,7 @@ DE,2021-03-03,19:00:00,44791,Bochum,Gersteinring 52,Autokorso,,Querdenken,
 DE,2021-03-04,17:30:00,73230,Kirchheim Teck,Ziegelwasen,Kundgebung,,Querdenken 702,http://www.querdenken-702.de
 DE,2021-03-04,19:00:00,58097,Hagen,Am Sportpark 34,Autokorso,,Querdenken,
 DE,2021-03-05,17:30:00,76131,Karlsruhe,Friedrichsplatz,Kundgebung,,,
+DE,2021-03-06,12:00:00,47447,Moers,Filder Str. 140,Autokorso,,Querdenken 284 - Moers,http://querdenken-284.de
 DE,2021-03-06,12:15:00,20457,Hamburg,Brooktorkai,Autokorso,,Freiheitsfahrer,
 CH,2021-03-06,13:00:00,7000,Chur,Quaderwiese,Demonstration,,Stillerprotest,http://stillerprotest.ch
 DE,2021-03-06,14:00:00,77652,Offenburg,Platz der Verfassungsfreunde,Aufzug,,,
