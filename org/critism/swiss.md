@@ -96,6 +96,12 @@ Gruppe, um im Kanton ZH Aktionen gegen die Maskenpflicht zu organisieren. Z.B. g
 
 | {{ site.icons.telegram }} | [maskenfrei_Zuerich](https://t.me/maskenfrei_Zuerich) |
 
+## MASS-VOLL!
+
+Das Mass ist voll. Holen wir unsere Freiheit zurück!
+
+| {{ site.icons.globe }}    | [www.mass-voll.ch](https://www.mass-voll.ch/) |
+
 ## REAKTION.ORG
 
 Unsere Landesregierung verfolgt offensichtlich eine Agenda, welche nichts mit Corona oder der Volksgesundheit zu tun hat. Viel mehr scheint sie Pläne für einen globalen wirtschaftlichen und gesellschaftlichen Umbruch hin zu einem zentralisierten und autoritären Superstaat aktiv zu unterstützen.
