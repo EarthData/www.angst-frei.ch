@@ -1,21 +1,4 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-DE,2021-02-28,10:00:00,02763,Zittau,B 96,Menschenkette,,,
-DE,2021-02-28,10:45:00,75015,Bretten,Marktplatz,Meditation,,,
-DE,2021-02-28,12:30:00,40474,Düsseldorf,Messeparkplatz P1 Feld 5 Nord,Autokorso,,Corona Rebellen Düsseldorf,https://coronarebellenduesseldorf.com/
-DE,2021-02-28,13:00:00,77833,Ottersweier,Hägenichstraße,Autokorso,,Initiative aufRECHT-FREIdenken,http://www.solidarnosch.de
-DE,2021-02-28,13:30:00,61440,Oberursel,Altkönigstraße,Autokorso,,AutokorsoFrankfurt,
-DE,2021-02-28,14:00:00,83022,Rosenheim,Max-Josefs-Platz,Kundgebung,,Mahnwache Rosenheim,
-DE,2021-02-28,14:00:00,69231,Rauenberg,Rathausplatz,Kundgebung,,,
-DE,2021-02-28,14:00:00,63477,Maintal / Dörnigheim,Sportzentrum / Dicke Buche,Spaziergang,,Bürgerinitiative Hanau steht auf,https://hanau-steht-auf.de/
-AT,2021-02-28,14:00:00,6850,Dornbirn,Marktplatz,Kundgebung,,,
-DE,2021-02-28,14:00:00,84503,Altötting,Dultplatz,Kundgebung,,,
-DE,2021-02-28,14:30:00,89257,Illertissen,Marktplatz,Kundgebung,,Klardenken Schwaben,http://Klardenken-schwaben.de
-DE,2021-02-28,14:30:00,88400,Biberach / Riß,Gigelberg,Kundgebung,,,
-DE,2021-02-28,15:30:00,82140,Olching (FFB),Toni-März-Str. / Volksfestplatz,Kundgebung,,Amperfeen,http://www.amperfee.de
-DE,2021-02-28,16:00:00,61440,Oberursel,Bahnhof / Parkplatz,Kundgebung,,,
-DE,2021-02-28,16:00:00,63897,Miltenberg,Busparkplatz / Jahnstr.,Demonstration,,Freiheitsboten Miltenberg,https://t.me/s/infomiltenberg
-DE,2021-02-28,18:30:00,73525,Schwäbisch Gmünd,Marktplatz,Kundgebung,,,
-DE,2021-02-28,19:00:00,74357,Bönnigheim,Hauptstr. / am Schloss,Demonstration,,,
 DE,2021-03-01,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,
 DE,2021-03-01,15:00:00,99947,Bad Langensalza,Rathausbrunnen,Spaziergang,,,
 DE,2021-03-01,17:00:00,24103,Kiel,Exerzierplatz,Versammlung,,,
@@ -54,6 +37,7 @@ DE,2021-03-01,19:00:00,87600,Kaufbeuren,Altes Rathaus,Spaziergang,,,
 DE,2021-03-01,19:00:00,99084,Erfurt,Anger / Brunnen,Spaziergang,,,
 DE,2021-03-01,19:00:00,14776,Brandenburg / Havel,Neustädtischer Markt,Kundgebung,,,http://www.brandenburgstehtauf.de
 DE,2021-03-02,18:00:00,97070,Würzburg,Hofstr. / ggü. Residenz,Spaziergang,,Eltern stehen auf,
+DE,2021-03-02,19:00:00,83714,Miesbach,Volksfestwiese,Kundgebung,,,
 DE,2021-03-02,19:00:00,44139,Dortmund,Parkplatz D1 Westfalenpark,Autokorso,,Querdenken,
 DE,2021-03-03,18:00:00,97070,Würzburg / Lengfeld,Pilziggrund / Stauferstr.,Spaziergang,,Eltern stehen auf,
 DE,2021-03-03,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,,
@@ -111,6 +95,7 @@ DE,2021-03-24,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,http://
 DE,2021-03-25,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,http://www.hanau-steht-auf.de
 DE,2021-03-26,17:30:00,76131,Karlsruhe,Friedrichsplatz,Kundgebung,,,
 DE,2021-03-27,14:00:00,95448,Bayreuth,P beim Volksfestplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.org
+AT,2021-03-28,14:00:00,6850,Dornbirn,Marktplatz,Kundgebung,,,https://corona-demo.at/
 DE,2021-03-29,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,
 DE,2021-03-29,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,
 DE,2021-03-31,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,http://www.hanau-steht-auf.de
