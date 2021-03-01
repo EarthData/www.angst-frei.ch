@@ -108,6 +108,12 @@ Unsere Landesregierung verfolgt offensichtlich eine Agenda, welche nichts mit Co
 
 | {{ site.icons.globe }}    | [www.reaktion.org](https://www.reaktion.org/) |
 
+## SOS-KMU Verband
+
+Gemeinsam mit Vernunft zurück zur Normalität
+
+| {{ site.icons.globe }}    | [sos-kmu.org](https://sos-kmu.org/#top) |
+
 ## Aktionsbündnis Urkantone
 
 Für eine vernünftige Corona-Politik
