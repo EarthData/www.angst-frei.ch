@@ -43,7 +43,9 @@ DE,2021-03-02,18:00:00,97070,Würzburg,Hofstr. / ggü. Residenz,Spaziergang,,Elt
 DE,2021-03-02,18:30:00,73525,Schwäbisch Gmünd,Marktplatz,Kundgebung,,,
 DE,2021-03-02,19:00:00,83714,Miesbach,Volksfestwiese,Kundgebung,,,
 DE,2021-03-02,19:00:00,44139,Dortmund,Parkplatz D1 Westfalenpark,Autokorso,,Querdenken,
+DE,2021-03-03,17:00:00,70173,Stuttgart,Karlsplatz,Aufzug,,,
 DE,2021-03-03,18:00:00,97070,Würzburg / Lengfeld,Pilziggrund / Stauferstr.,Spaziergang,,Eltern stehen auf,
+DE,2021-03-03,18:00:00,70173,Stuttgart,Cannstatter Wasen  P10,Autokorso,,,
 DE,2021-03-03,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,,
 DE,2021-03-03,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,http://www.hanau-steht-auf.de
 DE,2021-03-03,19:00:00,44791,Bochum,Gersteinring 52,Autokorso,,Querdenken,
@@ -55,38 +57,56 @@ DE,2021-03-04,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,
 DE,2021-03-04,19:00:00,83278,Traunstein,Stadtplatz,Versammlung,https://dlive.tv/861Querdenken-TS?ref=papageienumschau,Querdenken - 861,https://querdenken-ts.de/
 DE,2021-03-04,19:00:00,58097,Hagen,Am Sportpark 34,Autokorso,,Querdenken,
 DE,2021-03-05,16:00:00,76131,Karlsruhe,Friedrichsplatz,Kundgebung,,,
+DE,2021-03-05,17:00:00,70173,Stuttgart,Königstr. 78 / Jack Wolfskin,Kundgebung,,,
 DE,2021-03-05,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,,
 DE,2021-03-05,18:00:00,33602,Bielefeld,Rathaus,Spaziergang,,,
 DE,2021-03-05,18:30:00,91126,Schwabach,Martin Luther Platz,Kundgebung,,WIR für die Freiheit,
 DE,2021-03-06,12:00:00,47447,Moers,Filder Str. 140,Autokorso,,Querdenken 284 - Moers,http://querdenken-284.de
 DE,2021-03-06,12:15:00,20457,Hamburg,Brooktorkai,Autokorso,,Freiheitsfahrer,
 CH,2021-03-06,13:00:00,7000,Chur,Quaderwiese,Demonstration,,Stillerprotest,http://stillerprotest.ch
+AT,2021-03-06,14:00:00,1010,Wien,Maria-Theresien-Platz,Versammlung,,Unser Österreich,http://unseroesterreich.at
 DE,2021-03-06,14:00:00,77652,Offenburg,Platz der Verfassungsfreunde,Aufzug,,,
 DE,2021-03-06,14:00:00,30159,Hannover,Schützenplatz / Gilde Tor,Autokorso,,,
 DE,2021-03-06,14:00:00,95448,Bayreuth,P beim Volksfestplatz,Kundgebung,,20Plus1,https://20plus1.org
 DE,2021-03-06,14:30:00,76829,Landau / Pfalz,Rathausplatz,Kundgebung,,,
+DE,2021-03-06,15:00:00,70173,Stuttgart,Birkenkopf / Monte Scherbelino,Kundgebung,,,
+AT,2021-03-06,15:15:00,1010,Wien,Maria-Theresien-Platz,Versammlung,,Unser Österreich,http://unseroesterreich.at
+DE,2021-03-06,15:30:00,29510,Uelzen,Herzogenplatz,Kundgebung,,,
 DE,2021-03-06,15:30:00,04357,Leipzig,Neue Messe,Kundgebung,,,
+DE,2021-03-07,10:45:00,75015,Bretten,Marktplatz,Meditation,,,
 DE,2021-03-07,12:30:00,40474,Düsseldorf,Messeparkplatz P1 Feld 5 Nord,Autokorso,,Corona Rebellen Düsseldorf,https://coronarebellenduesseldorf.com/
 DE,2021-03-07,13:45:00,65549,Limburg,Neumarkt,Kundgebung,,Limburg steht auf,https://www.limburgstehtauf.de
 DE,2021-03-07,14:00:00,84478,Waldkraiburg,Volksfestplatz,Kundgebung,,,
 AT,2021-03-07,14:00:00,6900,Feldkirch,Beim Montforthaus,Kundgebung,,,https://corona-demo.at/
+AT,2021-03-07,14:00:00,6900,Bregenz,Kornmarktplatz,Kundgebung,,,http://corona-demo.at/blog/category/flyer/
 DE,2021-03-07,15:00:00,87700,Memmingen,Stadtpark Neue Welt,Kundgebung,,Memmingen - Stadt der Freiheitsrechte,
+DE,2021-03-07,15:30:00,82140,Olching (FFB),Toni-März-Str. / Volksfestplatz,Kundgebung,,Amperfeen,https://www.amperfee.de
 DE,2021-03-08,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,
 DE,2021-03-08,17:00:00,33602,Bielefeld,Rathaus,Spaziergang,,,
 DE,2021-03-08,17:30:00,33602,Bielefeld,Rathaus,Mahnwache,,,
+DE,2021-03-08,17:30:00,06406,Bernburg,Karlsplatz Weltzeituhr,Spaziergang,,,
 DE,2021-03-08,17:55:00,31655,Wunstorf,Stadtkirche / Markt,Kundgebung,,,
 DE,2021-03-08,18:00:00,08523,Plauen,Wendedenkmal,Kundgebung,,Sachsen Südwest,
+DE,2021-03-08,18:00:00,33098,Paderborn,Rathausplatz,Spaziergang,,,
 DE,2021-03-08,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,
 DE,2021-03-08,18:00:00,47533,Klebe,Versöhnumgskirche am Markt,Spaziergang,,,
+DE,2021-03-08,19:00:00,99974,Mühlhausen / Thüringen,Postplatz,Spaziergang,,,
+DE,2021-03-08,19:00:00,47906,Kempen,Kuhtor,Demonstration,,Privat,
+DE,2021-03-08,19:00:00,99084,Erfurt,Angerbrunnen,Spaziergang,,,
+DE,2021-03-08,19:00:00,99947,Bad Langensalza,Rathausbrunnen,Spaziergang,,,
+DE,2021-03-10,16:00:00,70184,Stuttgart,Dobelstr. / Hohenheimer Str.,Schilderwald,,,
 DE,2021-03-10,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,http://www.hanau-steht-auf.de
 DE,2021-03-11,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,http://www.hanau-steht-auf.de
 DE,2021-03-12,17:30:00,76131,Karlsruhe,Friedrichsplatz,Kundgebung,,,
 DE,2021-03-13,12:00:00,52525,Heinsberg,Parkplatz Ostpromenade,Demonstration,,,
+DE,2021-03-13,13:00:00,70174,Stuttgart,Oberer Schloßgarten,Demonstration,,,
 DE,2021-03-13,13:00:00,14467,Potsdam / Falkensee,Henning-von-Tresckow-Str. 2-13 / BmfG,Kundgebung,,Es reicht uns!,https://es-reicht-uns.de/berlin/
 DE,2021-03-13,13:00:00,01097,Dresden,Königsufer,Kundgebung,,Er reicht,https://querdenken-351.de
 DE,2021-03-13,13:03:00,40221,Düsseldorf,Platz des Landtags 1,Kundgebung,,Menschen,http://www.es-reicht-uns.de
 DE,2021-03-13,14:00:00,30159,Hannover,Schützenplatz / Gilde Tor,Autokorso,,,
 DE,2021-03-13,14:00:00,95448,Bayreuth,P beim Volksfestplatz,Kundgebung,,20Plus1,https://20plus1.org
+DE,2021-03-13,15:00:00,0711,Stuttgart Botnang,Marktplatz,Kundgebung,,,
+DE,2021-03-13,15:30:00,29510,Uelzen,Herzogenplatz,Kundgebung,,,
 DE,2021-03-13,16:00:00,65183,Wiesbaden,Landtag Schlossplatz,Kundgebung,,,
 AT,2021-03-14,14:00:00,6700,Bludenz,Riedmillerplatz,Kundgebung,,,https://corona-demo.at/
 DE,2021-03-15,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,
@@ -99,15 +119,18 @@ DE,2021-03-19,17:30:00,76131,Karlsruhe,Friedrichsplatz,Kundgebung,,,
 DE,2021-03-20,12:00:00,34117,Kassel,Königsplatz,Demonstration,,,
 DE,2021-03-20,14:00:00,11011,Berlin,Reichstag,Kundgebung,,,
 DE,2021-03-20,14:00:00,95448,Bayreuth,P beim Volksfestplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.org
+DE,2021-03-20,15:30:00,29510,Uelzen,Herzogenplatz,Kundgebung,,,
 AT,2021-03-21,14:00:00,6900,Bregenz,Kornmarktplatz,Kundgebung,,,https://corona-demo.at/
 DE,2021-03-22,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,
 DE,2021-03-22,17:30:00,33602,Bielefeld,Rathaus,Mahnwache,,,
 DE,2021-03-22,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,
 DE,2021-03-22,18:00:00,47533,Kleve,Versöhnungskirche am Markt,Spaziergang,,,
+DE,2021-03-22,19:00:00,47906,Kempen,Kuhtor,Demonstration,,Privat,
 DE,2021-03-24,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,http://www.hanau-steht-auf.de
 DE,2021-03-25,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,http://www.hanau-steht-auf.de
 DE,2021-03-26,17:30:00,76131,Karlsruhe,Friedrichsplatz,Kundgebung,,,
 DE,2021-03-27,14:00:00,95448,Bayreuth,P beim Volksfestplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.org
+DE,2021-03-27,15:30:00,29510,Uelzen,Herzogenplatz,Kundgebung,,,
 AT,2021-03-28,14:00:00,6850,Dornbirn,Marktplatz,Kundgebung,,,https://corona-demo.at/
 DE,2021-03-29,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,
 DE,2021-03-29,17:30:00,33602,Bielefeld,Rathaus,Mahnwache,,,
