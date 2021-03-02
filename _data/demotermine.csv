@@ -1,6 +1,7 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
 DE,2021-03-02,18:00:00,97070,Würzburg,Hofstr. / ggü. Residenz,Spaziergang,,Eltern stehen auf,
 DE,2021-03-02,18:30:00,73525,Schwäbisch Gmünd,Marktplatz,Kundgebung,,,
+DE,2021-03-02,18:30:00,79108,Freiburg,Suwonallee / Stadion / Flugplatz,Autokorso,,Ab 17:30 Aufstellung,
 DE,2021-03-02,19:00:00,83714,Miesbach,Volksfestwiese,Kundgebung,,,
 DE,2021-03-02,19:00:00,44139,Dortmund,Parkplatz D1 Westfalenpark,Autokorso,,Querdenken,
 DE,2021-03-03,17:00:00,70173,Stuttgart,Karlsplatz,Aufzug,,,
@@ -8,8 +9,10 @@ DE,2021-03-03,18:00:00,97070,Würzburg / Lengfeld,Pilziggrund / Stauferstr.,Spaz
 DE,2021-03-03,18:00:00,70173,Stuttgart,Cannstatter Wasen  P10,Autokorso,,,
 DE,2021-03-03,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,,
 DE,2021-03-03,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,http://www.hanau-steht-auf.de
+DE,2021-03-03,18:30:00,73525,Schwäbisch Gmünd,Marktplatz,Kundgebung,,,
 DE,2021-03-03,19:00:00,44791,Bochum,Gersteinring 52,Autokorso,,Querdenken,
 DE,2021-03-04,17:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,,
+DE,2021-03-04,17:30:00,39114,Magdeburg,Parkplatz Messe / Tessenowstr.,Autokorso,,,
 DE,2021-03-04,17:30:00,73230,Kirchheim Teck,Ziegelwasen,Kundgebung,,Querdenken 702,http://www.querdenken-702.de
 DE,2021-03-04,17:30:00,73230,Kirchheim / Teck,Ziegelwasen,Kundgebung,,Querdenken 702,https://querdenken-702.de
 DE,2021-03-04,18:00:00,97070,Würzburg / Versbach,Erwin-Wolf-Platz,Spaziergang,,Eltern stehen auf,
@@ -30,6 +33,7 @@ DE,2021-03-06,14:00:00,30159,Hannover,Schützenplatz / Gilde Tor,Autokorso,,,
 DE,2021-03-06,14:00:00,95448,Bayreuth,P beim Volksfestplatz,Kundgebung,,20Plus1,https://20plus1.org
 DE,2021-03-06,14:30:00,76829,Landau / Pfalz,Rathausplatz,Kundgebung,,,
 DE,2021-03-06,15:00:00,70173,Stuttgart,Birkenkopf / Monte Scherbelino,Kundgebung,,,
+DE,2021-03-06,15:00:00,44787,Bochum,Dr.-Ruer-Platz,Demonstration,,Querdenken 234 - Bochum,https://querdenken-234.de
 AT,2021-03-06,15:15:00,1010,Wien,Maria-Theresien-Platz,Versammlung,,Unser Österreich,http://unseroesterreich.at
 DE,2021-03-06,15:30:00,29510,Uelzen,Herzogenplatz,Kundgebung,,,
 DE,2021-03-06,15:30:00,04357,Leipzig,Neue Messe,Kundgebung,,,
@@ -39,9 +43,11 @@ DE,2021-03-07,13:45:00,65549,Limburg,Neumarkt,Kundgebung,,Limburg steht auf,http
 DE,2021-03-07,14:00:00,84478,Waldkraiburg,Volksfestplatz,Kundgebung,,,
 AT,2021-03-07,14:00:00,6900,Feldkirch,Beim Montforthaus,Kundgebung,,,https://corona-demo.at/
 AT,2021-03-07,14:00:00,6900,Bregenz,Kornmarktplatz,Kundgebung,,,http://corona-demo.at/blog/category/flyer/
+DE,2021-03-07,14:30:00,10178,Berlin,Alexanderplatz,Spaziergang,,Freedom Parade,
 DE,2021-03-07,15:00:00,87700,Memmingen,Stadtpark Neue Welt,Kundgebung,,Memmingen - Stadt der Freiheitsrechte,
 DE,2021-03-07,15:30:00,82140,Olching (FFB),Toni-März-Str. / Volksfestplatz,Kundgebung,,Amperfeen,https://www.amperfee.de
 DE,2021-03-08,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,
+DE,2021-03-08,17:00:00,06333,Hettstedt,Markt / Denkmal,Kundgebung,,,
 DE,2021-03-08,17:00:00,33602,Bielefeld,Rathaus,Spaziergang,,,
 DE,2021-03-08,17:30:00,33602,Bielefeld,Rathaus,Mahnwache,,,
 DE,2021-03-08,17:30:00,06406,Bernburg,Karlsplatz Weltzeituhr,Spaziergang,,,
@@ -59,6 +65,7 @@ DE,2021-03-10,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,http://
 DE,2021-03-11,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,http://www.hanau-steht-auf.de
 DE,2021-03-12,17:30:00,76131,Karlsruhe,Friedrichsplatz,Kundgebung,,,
 DE,2021-03-13,12:00:00,52525,Heinsberg,Parkplatz Ostpromenade,Demonstration,,,
+DE,2021-03-13,12:00:00,52525,Heinsberg,Ostpromenade / Parkplatz,Kundgebung,,,
 DE,2021-03-13,13:00:00,70174,Stuttgart,Oberer Schloßgarten,Demonstration,,,
 DE,2021-03-13,13:00:00,14467,Potsdam / Falkensee,Henning-von-Tresckow-Str. 2-13 / BmfG,Kundgebung,,Es reicht uns!,https://es-reicht-uns.de/berlin/
 DE,2021-03-13,13:00:00,01097,Dresden,Königsufer,Kundgebung,,Er reicht,https://querdenken-351.de
