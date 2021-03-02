@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/aerzte-und-apotheker-protestieren-keine-i
 title:      Wochenblick
 subtitle:   "Ärzte und Apotheker protestieren: Keine Info über Risiken für Corona-Impflinge"
 country:    AT
-categories: [Medizin, Widerstand]
-tags:       [wochenblick, impfung]
+categories: [Medizin, Widerstand, Impfung]
+tags:       [wochenblick]
 ---

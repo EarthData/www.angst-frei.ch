@@ -3,6 +3,6 @@ date:          2021-02-16
 redirect:      https://reitschuster.de/post/wie-gefaehrlich-ist-astrazeneca/
 title:         reitschuster
 subtitle:      "Ein Viertel der Geimpften arbeitsunfähig: Wie gefährlich ist AstraZeneca?"
-categories:    Nebenwirkungen
-tags:          [reitschuster, impfung, astrazeneca]
+categories:    [Impfung]
+tags:          [reitschuster, impf-nebenwirkungen, astrazeneca]
 ---

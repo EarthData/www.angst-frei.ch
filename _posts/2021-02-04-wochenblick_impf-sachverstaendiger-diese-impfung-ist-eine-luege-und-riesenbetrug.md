@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/impf-sachverstaendiger-diese-impfung-ist-
 title:      Wochenblick
 subtitle:   "Impf-Sachverständiger: „Diese Impfung ist eine Lüge und Riesenbetrug“"
 country:    AT
-categories: Medizin
-tags:       [wochenblick, impfung]
+categories: [Medizin, Impfung]
+tags:       [wochenblick]
 ---

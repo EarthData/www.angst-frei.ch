@@ -4,6 +4,6 @@ redirect:      https://www.medinside.ch/de/post/infektionskrankheiten-gehoeren-s
 title:         medinside.ch
 subtitle:      "«Infektionskrankheiten gehören so zum Leben wie der Tod»"
 persons:       Vernazza Pietro
-categories:    Wissenschaft
+categories:    [Medizin]
 tags:          [infektion, medinside]
 ---

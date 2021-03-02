@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/europarat-resolution-corona-impfzwang-ist
 title:      Wochenblick
 subtitle:   "Europarat-Resolution: Corona-Impfzwang ist rechtswidrig"
 country:    AT
-categories: Impfzwang
-tags:       [wochenblick, impfung]
+categories: [Impfung, Recht]
+tags:       [wochenblick, impfzwang]
 ---

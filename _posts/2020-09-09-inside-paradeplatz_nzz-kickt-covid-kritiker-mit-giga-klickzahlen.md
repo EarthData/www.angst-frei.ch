@@ -4,6 +4,6 @@ redirect:      https://insideparadeplatz.ch/2020/09/09/nzz-kickt-covid-kritiker-
 title:         In$ide Paradeplatz
 subtitle:      "NZZ kickt Covid-Kritiker mit den Giga-Klicks"
 persons:       Matuschek Milosz
-categories:    [Manpulation]
+categories:    [Manipulation]
 tags:          [inside-paradeplatz, nzz]
 ---

@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/tote-gelaehmte-behinderungen-impf-nebenwi
 title:      Wochenblick
 subtitle:   "Tote, Gelähmte, Behinderungen: Impf-Nebenwirkungen weiterhin geleugnet"
 country:    AT
-categories: [mit oder an Impfung gestorben, Nebenwirkungen]
-tags:       [wochenblick, impfung]
+categories: [Impfung]
+tags:       [wochenblick, mit oder an impfung gestorben, impf-nebenwirkungen]
 ---

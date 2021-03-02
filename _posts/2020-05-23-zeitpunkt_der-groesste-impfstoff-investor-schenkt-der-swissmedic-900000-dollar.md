@@ -6,6 +6,6 @@ subtitle:      "Der grösste Impfstoff-Investor schenkt der Swissmedic 900’000
 timeline:      true
 country:       CH
 persons:       Gates Bill
-categories:    Medien
-tags:          [zeitpunkt, impfung]
+categories:    [Medien, Impfung]
+tags:          [zeitpunkt, geld]
 ---

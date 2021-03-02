@@ -5,6 +5,6 @@ title:         persoenlich.com
 subtitle:      "«Man fragte, ob ich einen Film für Fox-News drehe»"
 timeline:      false
 country:       CH
-categories:    MSM
-tags:          [persoenlich, brennwald]
+categories:    [Widerstand]
+tags:          [persoenlich, brennwald, covidiot]
 ---

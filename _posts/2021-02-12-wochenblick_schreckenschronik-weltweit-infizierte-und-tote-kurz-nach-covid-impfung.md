@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/schreckenschronik-weltweit-infizierte-und
 title:      Wochenblick
 subtitle:   "Schreckenschronik: Weltweit Infizierte und Tote kurz nach Covid-Impfung"
 country:    AT
-categories: [mit oder an Impfung gestorben]
-tags:       [wochenblick, impfung]
+categories: [Impfung]
+tags:       [wochenblick, mit oder an impfung gestorben]
 ---

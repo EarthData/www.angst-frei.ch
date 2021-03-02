@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/schock-in-italien-bestuerzende-serie-von-
 title:      Wochenblick
 subtitle:   "Schock in Italien: Bestürzende Serie von Todesfällen nach Corona-Impfung"
 country:    AT
-categories: [mit oder an Impfung gestorben]
-tags:       [wochenblick, impfung]
+categories: [Impfung]
+tags:       [wochenblick, mit oder an impfung gestorben]
 ---

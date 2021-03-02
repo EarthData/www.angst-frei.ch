@@ -5,6 +5,6 @@ title:         CDU/CSU
 subtitle:      "Globale Gesundheit stärken UN-Nachhaltigkeitsziel umsetzen"
 timeline:      true
 persons:       Drosten Christian, Gates Bill
-categories:    Politik
+categories:    [Politik]
 tags:          [who]
 ---

@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/schwangere-aerztin-liess-sich-impfen-weni
 title:      Wochenblick
 subtitle:   "Schwangere Ärztin ließ sich impfen: Wenige Tage später war ihr Baby tot!"
 country:    AT
-categories: [mit oder an Impfung gestorben]
-tags:       [wochenblick, impfung, biontech, kind]
+categories: [Impfung]
+tags:       [wochenblick, mit oder an impfung gestorben, biontech, kind]
 ---

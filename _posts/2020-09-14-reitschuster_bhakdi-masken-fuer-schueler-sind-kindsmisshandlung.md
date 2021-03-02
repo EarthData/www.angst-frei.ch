@@ -4,6 +4,6 @@ redirect:      https://www.reitschuster.de/post/bhakdi-masken-fuer-schueler-sind
 title:         reitschuster
 subtitle:      "Bhakdi: Masken für Schüler sind Kindsmisshandlung"
 persons:       Bhakdi Sucharit
-categories:    Medien
+categories:    [Medizin]
 tags:          [reitschuster, kind, maske]
 ---

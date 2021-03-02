@@ -26,6 +26,7 @@ Wir sind eine Handvoll besorgter Bürger, die sich mit aktuellen Themen auseinan
 | {{ site.icons.globe }}       | [corona-blog.net](https://corona-blog.net/) |
 | {{ site.icons.telegram }}    | [Corona ist nicht das Problem](https://t.me/Corona_ist_nicht_das_Problem) |
 | {{ site.icons.facebook }}    | [Corona ist nicht das Problem](https://www.facebook.com/groups/CoronaistnichtdasProblem/) |
+| {{ site.icons.foreward }}    | [Beiträge]({{ site.baseurl }}/tags.html#corona-blog) |
 
 ## Corona Doks
 

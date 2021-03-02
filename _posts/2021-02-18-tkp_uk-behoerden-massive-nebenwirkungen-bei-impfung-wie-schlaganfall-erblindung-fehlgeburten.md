@@ -4,6 +4,6 @@ redirect:      https://tkp.at/2021/02/18/uk-behoerden-massive-nebenwirkungen-bei
 title:         tp - Science & Technology
 timeline:      false
 subtitle:      "UK Behörden: massive Nebenwirkungen bei Impfung wie Schlaganfall, Erblindung, Fehlgeburten"
-categories:    [mit oder an Impfung gestorben, Nebenwirkungen]
-tags:          [tkp, impfung]
+categories:    [Impfung]
+tags:          [tkp, mit oder an impfung gestorben, impf-nebenwirkungen]
 ---

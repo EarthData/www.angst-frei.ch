@@ -4,6 +4,6 @@ redirect:      https://www.deutsche-apotheker-zeitung.de/news/artikel/2015/02/06
 title:         Deutsche Apotheker Zeitung
 timeline:      false
 subtitle:      "„Pharmaindustrie schlimmer als die Mafia“"
-categories:    Wissenschaft
-tags:          [daz, impfung]
+categories:    [Wissenschaft, Impfung]
+tags:          [daz, geld]
 ---

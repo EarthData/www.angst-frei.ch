@@ -4,6 +4,6 @@ redirect:      https://www.rubikon.news/artikel/der-goldjunge
 title:         Rubikon
 subtitle:      "Der Goldjunge"
 persons:       Drosten Christian
-categories:    Medien
-tags:          [rubikon]
+categories:    [Wissenschaft, Manipulation]
+tags:          [rubikon, geld]
 ---

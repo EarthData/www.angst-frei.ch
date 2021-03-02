@@ -4,5 +4,5 @@ redirect:      https://www.dieostschweiz.ch/artikel/eine-neue-dimension-hausarzt
 title:         Die Ostschweiz
 subtitle:      "Eine neue Dimension: Hausarzt wird Berufserlaubnis per sofort entzogen"
 categories:    [Recht, Medizin, Widerstand]
-tags:          [die ostschweiz, poizei]
+tags:          [die ostschweiz, willkür]
 ---

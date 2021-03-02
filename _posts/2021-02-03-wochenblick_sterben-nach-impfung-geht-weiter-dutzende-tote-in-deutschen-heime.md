@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/sterben-nach-impfung-geht-weiter-dutzende
 title:      Wochenblick
 subtitle:   "Sterben nach Impfung geht weiter: Dutzende Tote in deutschen Heimen"
 country:    AT
-categories: [mit oder an Impfung gestorben]
-tags:       [wochenblick, impfung]
+categories: [Impfung]
+tags:       [wochenblick, mit oder an impfung gestorben]
 ---

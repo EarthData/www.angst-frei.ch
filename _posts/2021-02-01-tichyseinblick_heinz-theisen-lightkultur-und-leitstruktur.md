@@ -4,6 +4,6 @@ redirect:   https://www.tichyseinblick.de/feuilleton/heinz-theisen-lightkultur-u
 title:      Tichys Einblick
 subtitle:   "Die Europäer müssen retten, was noch zu retten ist"
 country:    DE
-categories: Medien
+categories: [Medien]
 tags:       [tichyseinblick, demokratie]
 ---
