@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/ein-massaker-53-tote-in-gibraltar-seit-be
 title:      Wochenblick
 subtitle:   "„Ein Massaker“: 53 Tote in Gibraltar seit Beginn der Impfungen"
 country:    AT
-categories: [mit oder an Impfung gestorben]
-tags:       [wochenblick, impfung, biontech]
+categories: [Impfung]
+tags:       [wochenblick, mit oder an impfung gestorben, biontech]
 ---

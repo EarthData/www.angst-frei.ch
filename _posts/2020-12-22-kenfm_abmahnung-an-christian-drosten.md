@@ -4,6 +4,6 @@ redirect:      https://kenfm.de/abmahnung-an-christian-drosten/
 title:         KenFM
 subtitle:      "Abmahnung an Christian Drosten"
 persons:       Drosten Christian, Füllmich Reiner
-categories:    Medien
-tags:          [kenfm, recht]
+categories:    [Recht]
+tags:          [kenfm]
 ---

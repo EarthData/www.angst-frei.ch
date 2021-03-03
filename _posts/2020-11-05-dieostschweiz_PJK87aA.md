@@ -3,6 +3,6 @@ date:          2020-11-05
 redirect:      https://www.dieostschweiz.ch/artikel/testing-testing-testing-PJK87aA
 title:         Die Ostschweiz
 subtitle:      "Testing, Testing, Testing"
-categories:    Medien
+categories:    [Wissenschaft, Wirtschaft]
 tags:          [die ostschweiz, pcr-test]
 ---

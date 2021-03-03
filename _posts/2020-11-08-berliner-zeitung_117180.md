@@ -4,6 +4,6 @@ redirect:      https://www.berliner-zeitung.de/news/kritischer-gesundheitsamt-ch
 title:         Berliner Zeitung
 subtitle:      "Kritischer Gesundheitsamt-Chef versetzt: Über 130 Ärzte protestieren scharf"
 Persons:       Pürner Friedrich
-categories:    Widerstand
-tags:          [berliner zeitung]
+categories:    [MSM, Widerstand, Medizin]
+tags:          [berliner zeitung, willkür]
 ---

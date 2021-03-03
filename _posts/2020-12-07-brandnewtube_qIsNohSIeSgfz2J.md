@@ -3,9 +3,9 @@ layout:     post
 title:      Brighteon
 subtitle:   "Doctors & Medical Professionals From All Over The World Speak Out"
 date:       2020-12-07
-categories: Video
-timeline:   true
-tags:       [brighteon, impfung]
+timeline:   Impfung
+categories: [Video, Impfung, Widerstand]
+tags:       [brighteon, impf-nebenwirkungen]
 ---
 
 <div class="video-container">

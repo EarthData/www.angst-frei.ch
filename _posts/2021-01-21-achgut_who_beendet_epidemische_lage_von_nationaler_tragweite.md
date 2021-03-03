@@ -4,6 +4,6 @@ redirect:   https://www.achgut.com/artikel/who_beendet_epidemische_lage_von_nati
 title:      Achgut.com
 subtitle:   "WHO beendet Epidemische Lage von Nationaler Tragweite"
 timeline:   false
-categories: Medien
-tags:       [achgut, who, recht]
+categories: [Recht]
+tags:       [achgut, who]
 ---

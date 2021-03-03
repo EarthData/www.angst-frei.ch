@@ -4,6 +4,6 @@ redirect:      https://tkp.at/2021/01/24/verfassungsgericht-von-ecuador-ausnahme
 title:         tp - Science & Technology
 timeline:      false
 subtitle:      "Verfassungsgericht von Ecuador: Ausnahmezustand verfassungswidrig"
-categories:    Medien
+categories:    [Recht]
 tags:          [tkp, lockdown]
 ---

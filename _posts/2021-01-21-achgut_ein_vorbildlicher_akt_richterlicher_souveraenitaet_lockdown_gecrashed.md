@@ -4,6 +4,6 @@ redirect:   https://www.achgut.com/artikel/ein_vorbildlicher_akt_richterlicher_s
 title:      Achgut.com
 subtitle:   "Vorbildlicher Akt richterlicher Souveränität: Lockdown gecrashed"
 timeline:   false
-categories: Medien
-tags:       [achgut, lockdown, recht]
+categories: [Recht]
+tags:       [achgut, lockdown]
 ---

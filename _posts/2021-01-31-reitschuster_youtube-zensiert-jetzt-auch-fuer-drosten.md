@@ -4,6 +4,6 @@ redirect:      https://reitschuster.de/post/youtube-zensiert-jetzt-auch-fuer-dro
 title:         reitschuster
 subtitle:      "Virologenlästerung? YouTube zensiert jetzt auch für Drosten"
 persons:       Drosten Christian
-categories:    Medien
-tags:          [reitschuster, zensur]
+categories:    [Manipulation]
+tags:          [reitschuster, youtube, zensur]
 ---

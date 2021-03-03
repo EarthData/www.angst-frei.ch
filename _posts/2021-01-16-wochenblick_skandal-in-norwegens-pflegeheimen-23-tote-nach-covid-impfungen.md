@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/skandal-in-norwegens-pflegeheimen-23-tote
 title:      Wochenblick
 subtitle:   "Skandal in Norwegens Pflegeheimen: 23 Tote nach Covid-Impfungen"
 country:    AT
-categories: [mit oder an Impfung gestorben]
-tags:       [wochenblick, impfung]
+categories: [Impfung]
+tags:       [wochenblick, mit oder an impfung gestorben]
 ---

@@ -4,6 +4,6 @@ redirect:      https://www.dieostschweiz.ch/artikel/ihr-stgaller-corona-versager
 title:         Die Ostschweiz
 subtitle:      "Ihr St.Galler Corona-Versager!"
 persons:       Vernazza Pietro
-categories:    Medien
+categories:    [MSM, Manipulation]
 tags:          [die ostschweiz, massnahmen]
 ---

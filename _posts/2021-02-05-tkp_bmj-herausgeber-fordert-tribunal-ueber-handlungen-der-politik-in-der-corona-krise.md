@@ -4,6 +4,6 @@ redirect:      https://tkp.at/2021/02/05/bmj-herausgeber-fordert-tribunal-ueber-
 title:         tp - Science & Technology
 timeline:      false
 subtitle:      "BMJ Herausgeber fordert Tribunal über Handlungen der Politik in der Corona Krise"
-categories:    Politik
-tags:          [tkp, recht]
+categories:    [Politik, Recht, Widerstand]
+tags:          [tkp, massnahmen]
 ---

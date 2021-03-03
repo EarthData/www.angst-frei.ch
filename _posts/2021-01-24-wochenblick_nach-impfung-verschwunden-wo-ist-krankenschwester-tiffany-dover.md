@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/nach-impfung-verschwunden-wo-ist-krankens
 title:      Wochenblick
 subtitle:   "Nach Impfung verschwunden: Wo ist Krankenschwester Tiffany Dover?"
 country:    AT
-categories: MSM
-tags:       [wochenblick, impfung, zensur]
+categories: [Impfung, Manipulation]
+tags:       [wochenblick, zensur]
 ---

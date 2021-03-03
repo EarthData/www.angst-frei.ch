@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/nach-impfungen-11-tote-in-pflegeheim-weit
 title:      Wochenblick
 subtitle:   "Nach Impfungen: 11 Tote in Pflegeheim, weitere Massenausbrüche"
 country:    AT
-categories: [mit oder an Impfung gestorben]
-tags:       [wochenblick, impfung, biontech]
+categories: [Impfung]
+tags:       [wochenblick, mit oder an impfung gestorben, biontech]
 ---

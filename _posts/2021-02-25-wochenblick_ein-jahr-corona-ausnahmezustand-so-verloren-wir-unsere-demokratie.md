@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/ein-jahr-corona-ausnahmezustand-so-verlor
 title:      Wochenblick
 subtitle:   "Ein Jahr Corona-Ausnahmezustand: So verloren wir unsere Demokratie"
 country:    AT
-categories: [Politk]
+categories: [Politik]
 tags:       [wochenblick, demokratie]
 ---

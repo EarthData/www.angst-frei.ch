@@ -4,6 +4,6 @@ redirect:   https://www.achgut.com/artikel/ansichten_eines_leopoldina_dissidente
 title:      Achgut.com
 subtitle:   "Ansichten eines Leopoldina-Dissidenten"
 timeline:   false
-categories: Medien
+categories: [Wissenschaft]
 tags:       [achgut, leopoldina, demokratie]
 ---

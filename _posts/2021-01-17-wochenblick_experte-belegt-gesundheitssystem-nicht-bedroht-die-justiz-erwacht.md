@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/experte-belegt-gesundheitssystem-nicht-be
 title:      Wochenblick
 subtitle:   "Experte belegt: Gesundheitssystem nicht bedroht. Die Justiz erwacht!"
 country:    AT
-categories: MSM
-tags:       [wochenblick, zahlen, recht]
+categories: [Politik, Recht, Zahlen]
+tags:       [wochenblick, willkür]
 ---

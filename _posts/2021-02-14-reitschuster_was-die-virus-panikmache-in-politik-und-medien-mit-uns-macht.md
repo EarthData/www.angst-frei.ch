@@ -4,5 +4,5 @@ redirect:      https://reitschuster.de/post/was-die-virus-panikmache-in-politik-
 title:         reitschuster
 subtitle:      "Was die Virus-Panikmache in Politik und Medien mit uns macht"
 categories:    [Mensch, MSM, Politik]
-tags:          [reitschuster, angst, masnahmen]
+tags:          [reitschuster, angst, massnahmen]
 ---
