@@ -1,0 +1,51 @@
+---
+layout:
+title:
+permalink: /json/timeline-impfung-data.json
+---
+{
+  "title": {
+    "media": {
+      "url": "//www.angst-frei.ch/assets/img/hope.jpg",
+      "caption": "Wenn Unrecht zu Recht wird, wird Widerstand zur Pflicht",
+      "credit": ""
+    },
+    "text": {
+      "headline": "Timeline",
+      "text": "Ein Zeitstrahl mit allen wichtigen Ereignissen zu Covid"
+    }
+  },
+  "events": [
+    {%- assign all_posts = site.posts | where: "tags", "mit oder an impfung gestorben" -%}
+    {%- for post in all_posts -%}
+      {%- capture year -%}{{ post.date | date: "%Y" }}{%- endcapture -%}
+      {%- capture month -%}{{ post.date | date: "%-m" }}{%- endcapture -%}
+      {%- capture day -%}{{ post.date | date: "%-d" }}{%- endcapture -%}
+      {
+        "background": {
+          "url": "/assets/img/timeline/Impfung.jpg"
+        },
+        "media": {
+          "url": "https://api.microlink.io?url={{ post.redirect }}&screenshot=true&meta=false&embed=screenshot.url",
+          "link": "{{ post.redirect }}",
+          "caption": "{{ post.tags | join: ", " }}",
+          "credit": ""
+        },
+        {%- if post.categories contains "MSM" -%}
+          "group": "MSM",
+        {%- else -%}
+          "group": "Medien",
+        {%- endif -%}
+        "start_date": {
+          "month": {{ month }},
+          "day": {{ day }},
+          "year": {{ year }}
+        },
+        "text": {
+          "headline": "{{ post.subtitle | replace: '"', "'" }}",
+          "text": "{{ post.title | replace: '"', "'" }}"
+        }
+      }{%- unless forloop.last -%},{%- endunless -%}
+    {%- endfor -%}
+  ]
+}

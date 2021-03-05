@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/mann-56-starb-an-corona-impfung-jetzt-wil
 title:      Wochenblick
 subtitle:   "Mann (56) starb nach Corona-Impfung: Jetzt will seine Witwe wachrütteln"
 country:    AT
-categories: [mit oder an Impfung gestorben]
-tags:       [wochenblick, impfung, biontech]
+categories: [Impfung]
+tags:       [wochenblick, mit oder an impfung gestorben, biontech]
 ---

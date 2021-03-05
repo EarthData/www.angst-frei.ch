@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function() {
       }
     },
     titleFormat: { year: 'numeric', month: 'numeric', day: 'numeric' },
-    events: '/event-data/event-data.json',
+    events: '/json/event-data.json',
     //eventClick: function(info) {
       //info.jsEvent.preventDefault(); // don't let the browser navigate
       //console.log(info.event);

@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/indien-42-jaehrige-testperson-stirbt-nach
 title:      Wochenblick
 subtitle:   "Indien: 42-jährige Testperson stirbt nach Corona-Impfung mit Covaxin"
 country:    AT
-categories: [mit oder an Impfung gestorben]
-tags:       [wochenblick, impfung]
+categories: [Impfung]
+tags:       [wochenblick, mit oder an impfung gestorben]
 ---

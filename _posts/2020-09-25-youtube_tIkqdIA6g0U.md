@@ -1,11 +1,11 @@
 ---
 layout:        post
-title:         Youtube
+title:         Langemann Medien
 subtitle:      "Exklusiv-Interview Teil 2: Klage gegen Christian Drosten. Antworten auf Kritik & neue Entwicklungen"
 date:          2020-09-25
-persons:       Drosten Christian, Füllmich Reiner
-categories:    Video
-tags:          [recht]
+persons:       [Drosten Christian, Füllmich Reiner]
+categories:    [Video, Recht]
+tags:          [langemann medien, geld, youtube]
 youtubeId:     "tIkqdIA6g0U"
 ---
 

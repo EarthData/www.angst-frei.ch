@@ -1,8 +1,7 @@
     {% if site.feed_show_persons != false and post.persons.size > 0 %}
-    {% assign persons = post.persons | split: ", " %} 
     <div class="blog-tags">
       <span>Personen:</span>
-      {% for person in persons %}
+      {% for person in post.persons %}
       <a href="{{ '/persons' | absolute_url }}#{{- person -}}">{{- person -}}</a>
       {% endfor %}
     </div>

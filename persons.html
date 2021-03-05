@@ -5,7 +5,6 @@ share-description: 'Personen Übersicht'
 ---
 
 {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
-{% assign post_groups = site.posts | group_by: "persons" %}
 
 {%- for person in site.data.people -%}
   <a href="#{{ person.name }}" class="btn btn-primary btn-sm tag-btn"><i class="fas fa-tag" aria-hidden="true"></i>&nbsp;{{ person.name }}</a>
@@ -13,12 +12,8 @@ share-description: 'Personen Übersicht'
 
 <div id="full-tags-list">
 {%- for person in site.data.people -%}
-  {%- assign all_posts = '' | split: '' -%}
-  {%- for posts in post_groups -%}
-    {%- if posts.name contains person.name -%}
-      {%- assign all_posts = all_posts | concat: posts.items -%}
-    {%- endif -%}
-  {%- endfor -%}
+  
+  {%- assign all_posts = site.posts | where: "persons", person.name -%}
 
   <h2 id="{{- person.name -}}" class="linked-section">
     {{- person.name -}}&nbsp;({{- all_posts.size -}})

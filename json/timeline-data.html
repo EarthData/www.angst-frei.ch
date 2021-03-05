@@ -1,7 +1,7 @@
 ---
 layout:
 title:
-permalink: /timeline-data/
+permalink: /json/timeline-data.json
 ---
 
 {
@@ -17,30 +17,30 @@ permalink: /timeline-data/
     }
   },
   "events": [
-    {% for post in site.posts %}
-      {% if post.timeline %}
-        {% capture year %}{{ post.date | date: "%Y" }}{% endcapture %}
-        {% capture month %}{{ post.date | date: "%-m" }}{% endcapture %}
-        {% capture day %}{{ post.date | date: "%-d" }}{% endcapture %}
+    {%- for post in site.posts -%}
+      {%- if post.timeline -%}
+        {%- capture year -%}{{ post.date | date: "%Y" }}{%- endcapture -%}
+        {%- capture month -%}{{ post.date | date: "%-m" }}{%- endcapture -%}
+        {%- capture day -%}{{ post.date | date: "%-d" }}{%- endcapture -%}
         {
           "background": {
             "url": "/assets/img/timeline/{{ post.categories }}.jpg"
           },
           "media": {
-            {% if post.youtubeId %}
+            {%- if post.youtubeId -%}
             "url": "https://www.youtu.be/{{ post.youtubeId }}",
-            {% elsif post.bitchuteId %}
+            {%- elsif post.bitchuteId -%}
             "url": "<iframe src='https://www.bitchute.com/embed/{{ post.bitchuteId }}'/>",
-            {% elsif post.vimeoId %}
+            {%- elsif post.vimeoId -%}
             "url": "<iframe src='https://player.vimeo.com/video/{{ post.vimeoId }}?title=0&byline=0&portrait=0'/>",
-            {% elsif post.arteId %}
+            {%- elsif post.arteId -%}
             "url": "<iframe src='https://www.arte.tv/player/v5/index.php?json_url=https://api.arte.tv/api/player/v2/config/de/{{ post.arteId }}&lang=de&autoplay=true&mute=0'/>",
-            {% elsif post.link %}
+            {%- elsif post.link -%}
             "url": "{{ post.link }}",
-            {% else %}
+            {%- else -%}
             "url": "https://api.microlink.io?url={{ post.redirect }}&screenshot=true&meta=false&embed=screenshot.url",
             "link": "{{ post.redirect }}",
-            {% endif %}
+            {%- endif -%}
             "caption": "{{ post.tags | join: ", " }}",
             "credit": ""
           },
@@ -51,16 +51,16 @@ permalink: /timeline-data/
             "year": {{ year }}
           },
           "text": {
-            "headline": "{{ post.subtitle }}",
-            "text": "{{ post.title }}"
+            "headline": "{{ post.subtitle | replace: '"', "'" }}",
+            "text": "{{ post.title | replace: '"', "'" }}"
           }
         },
-      {% endif %}
-    {% endfor %}
-    {% for event in site.events %}
-      {% capture year %}{{ event.date | date: "%Y" }}{% endcapture %}
-      {% capture month %}{{ event.date | date: "%-m" }}{% endcapture %}
-      {% capture day %}{{ event.date | date: "%-d" }}{% endcapture %}
+      {%- endif -%}
+    {%- endfor -%}
+    {%- for event in site.events -%}
+      {%- capture year -%}{{ event.date | date: "%Y" }}{%- endcapture -%}
+      {%- capture month -%}{{ event.date | date: "%-m" }}{%- endcapture -%}
+      {%- capture day -%}{{ event.date | date: "%-d" }}{%- endcapture -%}
       {
         "background": {
           "url": "/assets/img/timeline/{{ event.categories }}.jpg"
@@ -77,11 +77,10 @@ permalink: /timeline-data/
           "year": {{ year }}
         },
         "text": {
-          "headline": "{{ event.subtitle }}",
-          "text": "{{ event.title }}"
+          "headline": "{{ event.subtitle | replace: '"', "'" }}",
+          "text": "{{ event.title | replace: '"', "'" }}"
         }
-      }
-      {%unless forloop.last %},{%endunless%}
-    {% endfor %}
+      }{%- unless forloop.last -%},{%- endunless -%}
+    {%- endfor -%}
   ]
 }

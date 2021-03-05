@@ -48,11 +48,10 @@ layout: base
       </article>
 
       {% if page.persons.size > 0 %}
-      {% assign persons = page.persons | split: ", " %}
         <div class="blog-tags">
           <span>Personen:</span>
-          {% for person in persons %}
-            <a href="{{ '/persons' | relative_url }}#{{- persons -}}">{{- persons -}}</a>
+          {% for person in page.persons %}
+            <a href="{{ '/persons' | relative_url }}#{{- person -}}">{{- person -}}</a>
           {% endfor %}
         </div>
       {% endif %}

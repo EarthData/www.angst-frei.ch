@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/schon-zwei-tote-nach-verabreichung-der-co
 title:      Wochenblick
 subtitle:   "Schon zwei Tote nach Verabreichung der Corona-Impfung"
 country:    AT
-categories: [mit oder an Impfung gestorben]
-tags:       [wochenblick, impfung, biontech]
+categories: [Impfung]
+tags:       [wochenblick, mit oder an impfung gestorben, biontech]
 ---

@@ -4,7 +4,7 @@ redirect:      https://www.cducsu.de/veranstaltungen/globale-gesundheit-staerken
 title:         CDU/CSU
 subtitle:      "Globale Gesundheit stärken UN-Nachhaltigkeitsziel umsetzen"
 timeline:      true
-persons:       Drosten Christian, Gates Bill
+persons:       [Drosten Christian, Gates Bill]
 categories:    [Politik]
 tags:          [who]
 ---

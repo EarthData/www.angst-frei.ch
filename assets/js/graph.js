@@ -1,4 +1,4 @@
-$.getJSON('/network-data/', function(data) {
+$.getJSON('/json/network-data.json', function(data) {
 
   var options = {
     nodes:{
