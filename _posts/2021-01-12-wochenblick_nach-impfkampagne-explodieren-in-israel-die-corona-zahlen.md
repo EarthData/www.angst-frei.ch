@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/nach-impfkampagne-explodieren-in-israel-d
 title:      Wochenblick
 subtitle:   "Nach Impfkampagne explodieren in Israel die Corona-Zahlen"
 country:    AT
-categories: Zahlen
-tags:       [wochenblick, impfung]
+categories: [Zahlen, Impfung]
+tags:       [wochenblick, israel]
 ---
