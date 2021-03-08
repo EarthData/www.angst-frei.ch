@@ -75,6 +75,8 @@ toc:
         subsubfolderitems:
           - page: Deutschland
             url: person/law/germany.html
+          - page: Österreich
+            url: person/law/austria.html
           - page: Schweiz
             url: person/law/swiss.html
   - title: Dateien
