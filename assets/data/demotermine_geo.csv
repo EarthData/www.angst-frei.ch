@@ -1,216 +1,221 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite,latitude,longitude,created
-DE,2021-03-08,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-03-08 15:33:54
-DE,2021-03-08,16:00:00,18055,Rostock,Neuer Markt,Kundgebung,,Frauentag,,54.0889851,12.140552,2021-03-08 15:33:54
-DE,2021-03-08,17:00:00,70173,Stuttgart,Karlsplatz,Kundgebung,,,,48.77655285,9.180667785868211,2021-03-08 15:33:54
-DE,2021-03-08,17:00:00,63825,Schöllkrippen,Marktplatz,Demonstration,,,http://www.demo-kahlgrund.de,50.0850616,9.2460507,2021-03-08 15:33:54
-DE,2021-03-08,17:00:00,70771,Leinfelden Echterdingen,K1255 Brücke über die B27,Schilderwald,,,,48.6901796,9.1525725,2021-03-08 15:33:54
-DE,2021-03-08,17:00:00,06333,Hettstedt,Markt / Denkmal,Kundgebung,,,,51.5823697,11.4934294,2021-03-08 15:33:54
-DE,2021-03-08,17:00:00,33602,Bielefeld,Rathaus,Spaziergang,,,,52.0205741,8.5346015,2021-03-08 15:33:54
-DE,2021-03-08,17:00:00,23843,Bad Oldesloe,Bahnhofsvorplatz,Kundgebung,,,,53.8052678,10.3822381,2021-03-08 15:33:54
-DE,2021-03-08,17:15:00,24103,Kiel,Rathausplatz,Versammlung,,,,54.32270065,10.133437577107628,2021-03-08 15:33:54
-DE,2021-03-08,17:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2021-03-08 15:33:54
-DE,2021-03-08,17:30:00,33602,Bielefeld,Rathaus,Mahnwache,,,,52.0205741,8.5346015,2021-03-08 15:33:54
-DE,2021-03-08,17:30:00,06406,Bernburg,Karlsplatz Weltzeituhr,Spaziergang,,,,51.7930788,11.7391606,2021-03-08 15:33:54
-DE,2021-03-08,17:30:00,96052,Bamberg,Bahnhof / ggü.,Spaziergang,,,,49.8916044,10.8868478,2021-03-08 15:33:54
-DE,2021-03-08,17:55:00,31655,Wunstorf,Stadtkirche / Markt,Kundgebung,,,,52.42623935,9.429217846512131,2021-03-08 15:33:54
-DE,2021-03-08,18:00:00,97070,Würzburg-Heidingsfeld,Delphinstr.,Spaziergang,,Eltern stehen auf,,49.794363809219064,9.932067513435783,2021-03-08 15:33:54
-DE,2021-03-08,18:00:00,38259,Salzgitter,Rosengarten,Kundgebung,,,,52.1503721,10.3593147,2021-03-08 15:33:54
-DE,2021-03-08,18:00:00,18055,Rostock,Neuer Markt,Demonstration,,Montags-Demo,,54.0889851,12.140552,2021-03-08 15:33:54
-DE,2021-03-08,18:00:00,01896,Pulsnitz,Schützenhaus Platz,Autokorso,,AFD,,51.18566275,14.017473607361744,2021-03-08 15:33:54
-DE,2021-03-08,18:00:00,14467,Potsdam,Breite Str. 1A,Kundgebung,,Fraktion Frieden / NW2021 / Demokratischer Widerstand,,52.3952375,13.0577717,2021-03-08 15:33:54
-DE,2021-03-08,18:00:00,08523,Plauen,Wendedenkmal,Kundgebung,,Sachsen Südwest,,50.4950632,12.1346523,2021-03-08 15:33:54
-DE,2021-03-08,18:00:00,33098,Paderborn,Rathausplatz,Spaziergang,,,,51.7169744,8.7538304,2021-03-08 15:33:54
-DE,2021-03-08,18:00:00,33098,Paderborn,Rathausplatz,Spaziergang,,,,51.7169744,8.7538304,2021-03-08 15:33:54
-DE,2021-03-08,18:00:00,49074,Osnabrück,Rathaus,Demonstration,,,,52.27739939999999,8.041210268889596,2021-03-08 15:33:54
-DE,2021-03-08,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 15:33:54
-DE,2021-03-08,18:00:00,89150,Laichingen,Marktplatz,Kundgebung,,,,48.4896556,9.6858759,2021-03-08 15:33:54
-DE,2021-03-08,18:00:00,47533,Klebe,Versöhnumgskirche am Markt,Spaziergang,,,,51.786263141899134,6.128173825764498,2021-03-08 15:33:54
-DE,2021-03-08,18:00:00,87435,Kempten / Allgäu,Hildegardplatz,Spaziergang,,,,47.7277627,10.3118793,2021-03-08 15:33:54
-DE,2021-03-08,18:00:00,06108,Halle / Saale,Marktplatz,Kundgebung,https://demo.stream/halleleaks,Montagsdemo Halle,https://politaufkleber.de/produkt-kategorie/demo-stream/?wpam_id=87,51.48309495,11.96960646380657,2021-03-08 15:33:54
-DE,2021-03-08,18:00:00,07973,Greiz,Marktbrunnen,Spaziergang,,,,50.6572954,12.2003501,2021-03-08 15:33:54
-DE,2021-03-08,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,187 TN,https://t.me/LichterspaziergangGT,51.9063703,8.378309599962563,2021-03-08 15:33:54
-DE,2021-03-08,18:00:00,79098,Freiburg,Platz der alten Synagoge,Mahnwache,,,,47.995169,7.8466209,2021-03-08 15:33:54
-DE,2021-03-08,18:00:00,29223,Celle,Stadtkirche,Meditation,,Celle steht auf,,52.6243768,10.08091950212766,2021-03-08 15:33:54
-DE,2021-03-08,18:00:00,27432,Bremervörde,Rathaus,Spaziergang,,,,53.4859122,9.1463384,2021-03-08 15:33:54
-DE,2021-03-08,18:00:00,02625,Bautzen,Kornmarkt,Mahnwache,,,,51.1804409,14.428698518867606,2021-03-08 15:33:54
-DE,2021-03-08,18:00:00,52531,Übach- Palenberg,Rathausplatz,Kundgebung,,,,50.9197732,6.1190229,2021-03-08 15:33:54
-DE,2021-03-08,18:30:00,75175,Pforzheim,Kiehnlestr. 25 / Gymnasium,Aufzug,,,,48.8928756,8.7003322,2021-03-08 15:33:54
-DE,2021-03-08,18:30:00,99734,Nordhausen,Theatervorplatz,Spaziergang,,,,51.5051574,10.7925317,2021-03-08 15:33:54
-DE,2021-03-08,19:00:00,18439,Stralsund,Alter Markt,Kundgebung,,,,54.3157546,13.0905458,2021-03-08 15:33:54
-DE,2021-03-08,19:00:00,07381,Pössneck,Markt,Spaziergang,,,,50.6941987,11.5947131,2021-03-08 15:33:54
-DE,2021-03-08,19:00:00,99994,Nottertal-Heilingerhöhen,Rathaus Schlotheim,Spaziergang,,,,51.2311703,10.664551215016154,2021-03-08 15:33:54
-DE,2021-03-08,19:00:00,99974,Mühlhausen / Thüringen,Postplatz,Spaziergang,,,,51.2094255,10.4589044,2021-03-08 15:33:54
-DE,2021-03-08,19:00:00,78462,Konstanz,Münster,Spaziergang,,Freidenker Konstanz,,47.6989993,9.0618076,2021-03-08 15:33:54
-DE,2021-03-08,19:00:00,47906,Kempen,Kuhtor,Demonstration,,Privat,,51.3662505,6.4177893168652975,2021-03-08 15:33:54
-DE,2021-03-08,19:00:00,87600,Kaufbeuren,Altes Rathaus,Spaziergang,,,,47.8803788,10.622246,2021-03-08 15:33:54
-DE,2021-03-08,19:00:00,99867,Gotha,Schloßberg / Brunnen,Spaziergang,,,,50.9494849,10.7014435,2021-03-08 15:33:54
-DE,2021-03-08,19:00:00,99084,Erfurt,Angerbrunnen,Spaziergang,,,,50.9743748,11.0305261,2021-03-08 15:33:54
-DE,2021-03-08,19:00:00,51465,Bergisch Gladbach,Konrad-Adenauer-Platz,Versammlung,,,,50.99170015,7.130326471487166,2021-03-08 15:33:54
-DE,2021-03-08,19:00:00,99947,Bad Langensalza,Rathausbrunnen,Spaziergang,,,,51.1082267,10.6464452,2021-03-08 15:33:54
-DE,2021-03-08,19:00:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,,,51.0227878,11.5129742,2021-03-08 15:33:54
-DE,2021-03-09,18:00:00,33758,Holte-Stukenbrock,Kirchplatz / Holter,Lichterkette,,Privat,,51.9022696,8.6159014,2021-03-08 15:33:54
-DE,2021-03-09,18:30:00,73525,Schwäbisch Gmünd,Marktplatz,Kundgebung,,,,48.7993555,9.7985533,2021-03-08 15:33:54
-DE,2021-03-10,16:00:00,70184,Stuttgart,Dobelstr. / Hohenheimer Str.,Schilderwald,,,,48.7784485,9.1800132,2021-03-08 15:33:54
-DE,2021-03-10,16:00:00,70184,Stuttgart,Dobelstr. / Hohenheimer Str.,Schilderwald,,Privat,,48.7784485,9.1800132,2021-03-08 15:33:54
-DE,2021-03-10,17:00:00,70173,Stuttgart,Karlsplatz,Kundgebung,,,,48.77655285,9.180667785868211,2021-03-08 15:33:54
-DE,2021-03-10,17:00:00,70173,Stuttgart,Schillerplatz,Kundgebung,,,,48.7774906,9.1782574,2021-03-08 15:33:54
-DE,2021-03-10,17:00:00,70173,Stuttgart,Schillerplatz / Marktplatz,Demonstration,,,,48.7774906,9.1782574,2021-03-08 15:33:54
-DE,2021-03-10,17:00:00,75172,Pforzheim,Kienlestr. 25 / Hilda Gymn.,Demonstration,,,,48.8908846,8.7029532,2021-03-08 15:33:54
-DE,2021-03-10,17:00:00,75172,Pforzheim,Kiehnlestr. 25 / Gymnasium,Aufzug,,,,48.8929993,8.6946964,2021-03-08 15:33:54
-DE,2021-03-10,17:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2021-03-08 15:33:54
-DE,2021-03-10,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,http://www.hanau-steht-auf.de,50.1329988,8.9180211,2021-03-08 15:33:54
-DE,2021-03-10,18:00:00,29221,Celle,Hafen,Kundgebung,,,,52.626335,10.078976,2021-03-08 15:33:54
-DE,2021-03-11,17:00:00,70173,Stuttgart,Kronprinzplatz,Kundgebung,,,,48.7760129,9.1750088,2021-03-08 15:33:54
-DE,2021-03-11,17:30:00,72622,Nürtingen,Ochsenbrunnen,Kundgebung,,Querdenken 702,,48.6262998,9.339529299425072,2021-03-08 15:33:54
-DE,2021-03-11,17:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2021-03-08 15:33:54
-DE,2021-03-11,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,,,48.1667467,11.803713,2021-03-08 15:33:54
-DE,2021-03-11,18:00:00,70771,Leinfelden Echterdingen,Kirchplatz Echterdingen,Versammlung,,,,48.6901796,9.1525725,2021-03-08 15:33:54
-DE,2021-03-11,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,http://www.hanau-steht-auf.de,50.1035627,8.9450186,2021-03-08 15:33:54
-DE,2021-03-11,19:30:00,78467,Konstanz,Berchenplatz,Sport,,Freidenker Konstanz,,47.6837431,9.149828937471131,2021-03-08 15:33:54
-DE,2021-03-12,17:00:00,70173,Stuttgart,Königstr. 78 / Jack Wolfskin,Kundgebung,,,,48.7784485,9.1800132,2021-03-08 15:33:54
-DE,2021-03-12,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,,,49.0095065,8.4055133,2021-03-08 15:33:54
-DE,2021-03-12,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2021-03-08 15:33:54
-DE,2021-03-12,18:00:00,34454,Bad Arolsen,Kirchplatz,Mahnwache,,,,51.3800356,9.0154911,2021-03-08 15:33:54
-DE,2021-03-12,19:00:00,26506,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,,,,53.5942039,7.2067435,2021-03-08 15:33:54
-DE,2021-03-13,10:00:00,25451,Quickborn,Torfstr./ Rathaus / Parkhaus,Kundgebung,,,,53.732895,9.902929,2021-03-08 15:33:54
-DE,2021-03-13,10:45:00,59494,Soest,Georg-Plange-Platz,Autokorso,,Privat,,51.5708489,8.118257172125244,2021-03-08 15:33:54
-DE,2021-03-13,11:00:00,29223,Celle,Schützenplatz,Spaziergang,,Celle steht auf,,52.62702925,10.073610334545315,2021-03-08 15:33:54
-DE,2021-03-13,11:45:00,29223,Celle,Großer Plan,Kundgebung,,Celle steht auf,,52.6226562,10.0805745,2021-03-08 15:33:54
-DE,2021-03-13,12:00:00,52525,Heinsberg,Parkplatz Ostpromenade,Demonstration,,,,51.0603549,6.0962282,2021-03-08 15:33:54
-DE,2021-03-13,12:00:00,52525,Heinsberg,Ostpromenade / Parkplatz,Kundgebung,,,,51.0603549,6.0962282,2021-03-08 15:33:54
-DE,2021-03-13,13:00:00,70174,Stuttgart,Oberer Schloßgarten,Demonstration,,,,48.7790767,9.1811468,2021-03-08 15:33:54
-DE,2021-03-13,13:00:00,14467,Potsdam / Falkensee,Henning-von-Tresckow-Str. 2-13 / BmfG,Kundgebung,,Es reicht uns!,https://es-reicht-uns.de/berlin/,52.40182939356744,13.060627160281607,2021-03-08 15:33:54
-DE,2021-03-13,13:00:00,94032,Passau,Klostergarten,Kundgebung,,Bürger im Dialog,https://t.me/fuerfriedenundfreiheit,48.52118205,13.32044741196492,2021-03-08 15:33:54
-DE,2021-03-13,13:00:00,80538,München,Maximilianstr. / Steinsdorfstr.,Kundgebung,,Bayern steht zusammen e.V.,https://www.bayern-steht-zusammen.de/TERMINE/,48.1371079,11.5753822,2021-03-08 15:33:54
-DE,2021-03-13,13:00:00,24105,Kiel,Reventlouwiese,Versammlung,,,,54.3227085,10.135555,2021-03-08 15:33:54
-DE,2021-03-13,13:00:00,30167,Hannover,Trammplatz,Kundgebung,,Es reicht uns!,https://es-reicht-uns.de/niedersachsen/,52.3683141,9.736744,2021-03-08 15:33:54
-DE,2021-03-13,13:00:00,20095,Hamburg,Rathausplatz,Demonstration,,,http://Es-reicht-uns.de,53.5503431,9.992560905027485,2021-03-08 15:33:54
-DE,2021-03-13,13:00:00,01097,Dresden,Königsufer,Kundgebung,,Er reicht,https://querdenken-351.de,51.0565055,13.7457602,2021-03-08 15:33:54
-DE,2021-03-13,13:00:00,40221,Düsseldorf,Platz des Landtags,Demonstration,,Es reicht!,http://www.es-reicht-uns.de,51.2183196,6.76357296250475,2021-03-08 15:33:54
-DE,2021-03-13,13:00:00,28195,Bremen,Marktplatz am Roland,Kundgebung,,,,53.0759058,8.807326236763888,2021-03-08 15:33:54
-DE,2021-03-13,13:00:00,28195,Bremen,Bahnhofsvorplatz,Kundgebung,,,,53.0811945,8.796382,2021-03-08 15:33:54
-DE,2021-03-13,13:00:00,10117,Berlin,Friedrichstr. 108 / BmfG,Demonstration,,Es reicht!,,52.5170365,13.3888599,2021-03-08 15:33:54
-DE,2021-03-13,13:03:00,40221,Düsseldorf,Platz des Landtags 1,Kundgebung,,Menschen,http://www.es-reicht-uns.de,51.21870815,6.763385990056817,2021-03-08 15:33:54
-DE,2021-03-13,14:00:00,30159,Hannover,Schützenplatz / Gilde Tor,Autokorso,,,,52.3744779,9.7385532,2021-03-08 15:33:54
-DE,2021-03-13,14:00:00,95448,Bayreuth,P beim Volksfestplatz,Kundgebung,,20Plus1,https://20plus1.org,49.9427202,11.5763079,2021-03-08 15:33:54
-DE,2021-03-13,14:30:00,79100,Freiburg,Augustinerplatz,Kundgebung,,Querdenken Freiburg / 761,http://www.nichtohneuns-freiburg.de,47.9934916,7.851865,2021-03-08 15:33:54
-DE,2021-03-13,15:00:00,0711,Stuttgart Botnang,Marktplatz,Kundgebung,,,,52.5164617,13.2613337,2021-03-08 15:33:54
-DE,2021-03-13,15:00:00,97723,Oberthulba,Marktplatz,Kundgebung,,Bärbel Crampen,,50.1982992,9.9617797,2021-03-08 15:33:54
-DE,2021-03-13,15:00:00,97723,Oberthulba,Marktplatz,Demonstration,,Privat,,50.1982992,9.9617797,2021-03-08 15:33:54
-DE,2021-03-13,15:30:00,29510,Uelzen,Herzogenplatz,Kundgebung,,,,52.9630205,10.559275888894947,2021-03-08 15:33:54
-DE,2021-03-13,15:30:00,75175,Pforzheim,Marktplatz,Kundgebung,,,,48.8914943,8.7055085,2021-03-08 15:33:54
-DE,2021-03-13,15:30:00,21073,Hamburg-Harburg,Museumsplatz 1 / Brunnen,Meditation,,,,53.457804841124755,9.972934574975401,2021-03-08 15:33:54
-DE,2021-03-13,15:30:00,Erfurt,Erfurt,Domplatz,Kundgebung,,Freier Widerstand,,50.9777199,11.0247,2021-03-08 15:33:54
-DE,2021-03-13,16:00:00,65183,Wiesbaden,Landtag Schlossplatz,Kundgebung,,,,50.0820384,8.2416556,2021-03-08 15:33:54
-DE,2021-03-13,16:30:00,55116,Mainz,Domplatz / Markt,Kundgebung,,,https://es-reicht-uns.de/,49.9995261,8.274240422244489,2021-03-08 15:33:54
-DE,2021-03-14,10:45:00,75015,Bretten,Marktplatz,Meditation,,,,49.0372069,8.7069939,2021-03-08 15:33:54
-DE,2021-03-14,12:30:00,40474,Düsseldorf,Messeparkplatz P1 Feld 5 Nord,Autokorso,,Corona Rebellen Düsseldorf,https://coronarebellenduesseldorf.com/,51.2254018,6.7763137,2021-03-08 15:33:54
-DE,2021-03-14,13:00:00,94513,Schönberg,Marktplatz,Kundgebung,,Bürger im Dialog,https://t.me/fuerfriedenundfreiheit,48.8401846,13.3379817,2021-03-08 15:33:54
-DE,2021-03-14,14:00:00,83080,Oberaudorf,Grenzbrücke am Inn,Kundgebung,,Bayern steht zusammen e.V.,https://www.bayern-steht-zusammen.de/TERMINE/,47.6485636,12.1719882,2021-03-08 15:33:54
-AT,2021-03-14,14:00:00,6342,Niederndorf bei Kufstein,Grenzbrücke am Inn,Kundgebung,,Bayern steht zusammen e.V.,https://www.bayern-steht-zusammen.de/TERMINE/,47.65169915,12.213369162794885,2021-03-08 15:33:54
-DE,2021-03-14,14:00:00,97318,Kitzingen,Bleichwasen,Spaziergang,,Eltern stehen auf,,49.7456976,10.1620996,2021-03-08 15:33:54
-AT,2021-03-14,14:00:00,6700,Bludenz,Riedmillerplatz,Kundgebung,,,https://corona-demo.at/,47.1546785,9.822359,2021-03-08 15:33:54
-DE,2021-03-15,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-03-08 15:33:54
-DE,2021-03-15,17:00:00,63825,Schöllkrippen,Marktplatz,Demonstration,,,http://www.demo-kahlgrund.de,50.0850616,9.2460507,2021-03-08 15:33:54
-DE,2021-03-15,17:30:00,33602,Bielefeld,Rathaus,Mahnwache,,,,52.0205741,8.5346015,2021-03-08 15:33:54
-DE,2021-03-15,17:30:00,06406,Bernburg,Karlsplatz / Weltzeituhr,Spaziergang,,,,51.7930788,11.7391606,2021-03-08 15:33:54
-DE,2021-03-15,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 15:33:54
-DE,2021-03-15,18:00:00,47533,Kleve,Versöhnungskirche am Markt,Spaziergang,,,,51.782720999999995,6.131921809143858,2021-03-08 15:33:54
-DE,2021-03-15,18:00:00,87435,Kempten / Allgäu,Hildegardplatz,Spaziergang,,,,47.7277627,10.3118793,2021-03-08 15:33:54
-DE,2021-03-15,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,Privat,https://t.me/LichterspaziergangGT,51.9063703,8.378309599962563,2021-03-08 15:33:54
-DE,2021-03-15,18:00:00,02625,Bautzen,Kornmarkt,Mahnwache,,,,51.1804409,14.428698518867606,2021-03-08 15:33:54
-DE,2021-03-15,18:30:00,97688,Bad Kissingen,Parkfriedhof / Parkplatz,Spaziergang,,Privat,,50.1983954,10.0750993,2021-03-08 15:33:54
-DE,2021-03-15,19:00:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,,,51.0227878,11.5129742,2021-03-08 15:33:54
-DE,2021-03-17,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,http://www.hanau-steht-auf.de,50.1329988,8.9180211,2021-03-08 15:33:54
-DE,2021-03-18,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,,,48.1667467,11.803713,2021-03-08 15:33:54
-DE,2021-03-18,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,http://www.hanau-steht-auf.de,50.1035627,8.9450186,2021-03-08 15:33:54
-DE,2021-03-19,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,,,49.0095065,8.4055133,2021-03-08 15:33:54
-DE,2021-03-20,11:00:00,10117,Berlin,Unter den Linden / RU Botschaft,Kundgebung,,Freier Widerstand,,52.5170365,13.3888599,2021-03-08 15:33:54
-DE,2021-03-20,12:00:00,34117,Kassel,Königsplatz,Kundgebung,,,,51.3153643,9.497464,2021-03-08 15:33:54
-DE,2021-03-20,12:00:00,34117,Kassel,Königsplatz,Demonstration,,,,51.3153643,9.497464,2021-03-08 15:33:54
-DE,2021-03-20,14:00:00,11011,Berlin,Reichstag,Kundgebung,,,,52.4676201,13.5280284,2021-03-08 15:33:54
-DE,2021-03-20,14:00:00,95448,Bayreuth,P beim Volksfestplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.org,49.9427202,11.5763079,2021-03-08 15:33:54
-DE,2021-03-20,14:30:00,39104,Magdeburg,Domplatz,Kundgebung,,Mitteldeutschland steht auf und bewegt sich,,52.1250109,11.6353743,2021-03-08 15:33:54
-DE,2021-03-20,15:30:00,29510,Uelzen,Herzogenplatz,Kundgebung,,,,52.9630205,10.559275888894947,2021-03-08 15:33:54
-DE,2021-03-21,13:30:00,64711,Erbach,Marktplatz,Kundgebung,,,,49.6567154,8.9930988,2021-03-08 15:33:54
-AT,2021-03-21,14:00:00,6900,Bregenz,Kornmarktplatz,Kundgebung,,,https://corona-demo.at/,47.50411105,9.746876996633826,2021-03-08 15:33:54
-DE,2021-03-22,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-03-08 15:33:54
-DE,2021-03-22,17:00:00,63825,Schöllkrippen,Marktplatz,Demonstration,,,http://www.demo-kahlgrund.de,50.0850616,9.2460507,2021-03-08 15:33:54
-DE,2021-03-22,17:30:00,33602,Bielefeld,Rathaus,Mahnwache,,,,52.0205741,8.5346015,2021-03-08 15:33:54
-DE,2021-03-22,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 15:33:54
-DE,2021-03-22,18:00:00,47533,Kleve,Versöhnungskirche am Markt,Spaziergang,,,,51.782720999999995,6.131921809143858,2021-03-08 15:33:54
-DE,2021-03-22,18:00:00,87435,Kempten / Allgäu,Hildegardplatz,Spaziergang,,,,47.7277627,10.3118793,2021-03-08 15:33:54
-DE,2021-03-22,18:00:00,02625,Bautzen,Kornmarkt,Mahnwache,,,,51.1804409,14.428698518867606,2021-03-08 15:33:54
-DE,2021-03-22,19:00:00,47906,Kempen,Kuhtor,Demonstration,,Privat,,51.3662505,6.4177893168652975,2021-03-08 15:33:54
-DE,2021-03-22,19:00:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,,,51.0227878,11.5129742,2021-03-08 15:33:54
-DE,2021-03-24,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,http://www.hanau-steht-auf.de,50.1329988,8.9180211,2021-03-08 15:33:54
-DE,2021-03-25,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,,,48.1667467,11.803713,2021-03-08 15:33:54
-DE,2021-03-25,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,http://www.hanau-steht-auf.de,50.1035627,8.9450186,2021-03-08 15:33:54
-DE,2021-03-26,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,,,49.0095065,8.4055133,2021-03-08 15:33:54
-DE,2021-03-27,14:00:00,95448,Bayreuth,P beim Volksfestplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.org,49.9427202,11.5763079,2021-03-08 15:33:54
-DE,2021-03-27,14:30:00,39104,Magdeburg,Domplatz,Kundgebung,,Mitteldeutschland steht auf und bewegt sich,,52.1250109,11.6353743,2021-03-08 15:33:54
-DE,2021-03-27,15:30:00,29510,Uelzen,Herzogenplatz,Kundgebung,,,,52.9630205,10.559275888894947,2021-03-08 15:33:54
-AT,2021-03-28,14:00:00,6850,Dornbirn,Marktplatz,Kundgebung,,,https://corona-demo.at/,47.4132168,9.7438249,2021-03-08 15:33:54
-DE,2021-03-29,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-03-08 15:33:54
-DE,2021-03-29,17:00:00,63825,Schöllkrippen,Marktplatz,Demonstration,,,http://www.demo-kahlgrund.de,50.0850616,9.2460507,2021-03-08 15:33:54
-DE,2021-03-29,17:30:00,33602,Bielefeld,Rathaus,Mahnwache,,,,52.0205741,8.5346015,2021-03-08 15:33:54
-DE,2021-03-29,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 15:33:54
-DE,2021-03-29,18:00:00,47533,Kleve,Versöhnungskirche am Markt,Spaziergang,,,,51.782720999999995,6.131921809143858,2021-03-08 15:33:54
-DE,2021-03-29,18:00:00,87435,Kempten / Allgäu,Hildegardplatz,Spaziergang,,,,47.7277627,10.3118793,2021-03-08 15:33:54
-DE,2021-03-29,18:00:00,02625,Bautzen,Kornmarkt,Mahnwache,,,,51.1804409,14.428698518867606,2021-03-08 15:33:54
-DE,2021-03-29,19:00:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,,,51.0227878,11.5129742,2021-03-08 15:33:54
-DE,2021-03-31,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,http://www.hanau-steht-auf.de,50.1329988,8.9180211,2021-03-08 15:33:54
-DE,2021-04-01,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,,,48.1667467,11.803713,2021-03-08 15:33:54
-DE,2021-04-03,14:00:00,70372,Stuttgart,Cannstatter Wasen / Mercedesstr.,Kundgebung,,,,48.7784485,9.1800132,2021-03-08 15:33:54
-DE,2021-04-03,14:30:00,39104,Magdeburg,Domplatz,Kundgebung,,Mitteldeutschland steht auf und bewegt sich,,52.1250109,11.6353743,2021-03-08 15:33:54
-DE,2021-04-03,17:30:00,70372,Stuttgart,Cannstatter Wasen / Mercedesstr.,Aufzug,,,,48.7784485,9.1800132,2021-03-08 15:33:54
-AT,2021-04-04,14:00:00,6800,Feldkirch,Montfortplatz 1,Kundgebung,,,https://corona-demo.at/,47.2423129,9.5820208,2021-03-08 15:33:54
-DE,2021-04-05,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 15:33:54
-DE,2021-04-08,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,,,48.1667467,11.803713,2021-03-08 15:33:54
-DE,2021-04-10,14:30:00,39104,Magdeburg,Domplatz,Kundgebung,,Mitteldeutschland steht auf und bewegt sich,,52.1250109,11.6353743,2021-03-08 15:33:54
-DE,2021-04-12,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 15:33:54
-DE,2021-04-15,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,,,48.1667467,11.803713,2021-03-08 15:33:54
-DE,2021-04-17,14:30:00,39104,Magdeburg,Domplatz,Kundgebung,,Mitteldeutschland steht auf und bewegt sich,,52.1250109,11.6353743,2021-03-08 15:33:54
-DE,2021-04-19,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 15:33:54
-DE,2021-04-22,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,,,48.1667467,11.803713,2021-03-08 15:33:54
-DE,2021-04-24,14:00:00,52064,Aachen,Monheimsallee 48 / Eurogress,Kundgebung,,QUERDENKEN241,http://www.querdenken241-aachen.de,50.776351,6.083862,2021-03-08 15:33:54
-DE,2021-04-24,14:30:00,39104,Magdeburg,Domplatz,Kundgebung,,Mitteldeutschland steht auf und bewegt sich,,52.1250109,11.6353743,2021-03-08 15:33:54
-DE,2021-04-26,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 15:33:54
-DE,2021-04-29,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,,,48.1667467,11.803713,2021-03-08 15:33:54
-DE,2021-05-01,14:30:00,39104,Magdeburg,Domplatz,Kundgebung,,Mitteldeutschland steht auf und bewegt sich,,52.1250109,11.6353743,2021-03-08 15:33:54
-DE,2021-05-03,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 15:33:54
-DE,2021-05-06,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,,,48.1667467,11.803713,2021-03-08 15:33:54
-DE,2021-05-08,14:30:00,39104,Magdeburg,Domplatz,Kundgebung,,Mitteldeutschland steht auf und bewegt sich,,52.1250109,11.6353743,2021-03-08 15:33:54
-DE,2021-05-10,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 15:33:54
-DE,2021-05-13,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,,,48.1667467,11.803713,2021-03-08 15:33:54
-DE,2021-05-17,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 15:33:54
-DE,2021-05-20,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,,,48.1667467,11.803713,2021-03-08 15:33:54
-DE,2021-05-24,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 15:33:54
-DE,2021-05-27,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,,,48.1667467,11.803713,2021-03-08 15:33:54
-DE,2021-05-31,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 15:33:54
-DE,2021-06-03,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,,,48.1667467,11.803713,2021-03-08 15:33:54
-DE,2021-06-07,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 15:33:54
-DE,2021-06-10,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,,,48.1667467,11.803713,2021-03-08 15:33:54
-DE,2021-06-14,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 15:33:54
-DE,2021-06-17,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,,,48.1667467,11.803713,2021-03-08 15:33:54
-DE,2021-06-20,16:30:00,94315,Straubing,Ludwigsplatz,Mahnwache,,,,48.8820981,12.5738356,2021-03-08 15:33:54
-DE,2021-06-21,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 15:33:54
-DE,2021-06-24,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,,,48.1667467,11.803713,2021-03-08 15:33:54
-DE,2021-06-28,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 15:33:54
-DE,2021-07-01,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,,,48.1667467,11.803713,2021-03-08 15:33:54
-DE,2021-07-05,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 15:33:54
-DE,2021-07-12,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 15:33:54
-DE,2021-07-19,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 15:33:54
-DE,2021-07-26,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 15:33:54
-DE,2021-08-02,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 15:33:54
-DE,2021-08-09,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 15:33:54
-DE,2021-08-16,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 15:33:54
-DE,2021-08-23,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 15:33:54
-DE,2021-08-30,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 15:33:54
-DE,2021-09-06,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 15:33:54
-DE,2021-09-13,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 15:33:54
-DE,2021-09-20,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 15:33:54
-DE,2021-09-27,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Versammlung,,,,49.9891871,8.6648133,2021-03-08 15:33:54
-DE,2021-10-26,19:00:00,73728,Esslingen,Heugasse 10 / Delicantina,Treffpunkt,,,,48.7427584,9.3071685,2021-03-08 15:33:54
-DE,2021-11-05,18:00:00,10117,Berlin,Brandenburger Tor,Kundgebung,https://anonymous.support/live,Anonymous #MillionMaskMarch,https://anonymous.support,52.51628045,13.377701882994323,2021-03-08 15:33:54
-DE,2021-12-24,12:00:00,10178,Berlin,Alexanderplatz / Weltzeituhr,Charity,https://anonymous.support/live,Anonymous #OpSafeWinter,https://anonymous.support/opsafewinter/berlin,52.5170365,13.3888599,2021-03-08 15:33:54
+DE,2021-03-08,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-03-08 16:34:40
+DE,2021-03-08,16:00:00,18055,Rostock,Neuer Markt,Kundgebung,,Frauentag,,54.0889851,12.140552,2021-03-08 16:34:40
+DE,2021-03-08,17:00:00,70173,Stuttgart,Karlsplatz,Kundgebung,,,,48.77655285,9.180667785868211,2021-03-08 16:34:40
+DE,2021-03-08,17:00:00,63825,Schöllkrippen,Marktplatz,Demonstration,,,http://www.demo-kahlgrund.de,50.0850616,9.2460507,2021-03-08 16:34:40
+DE,2021-03-08,17:00:00,70771,Leinfelden Echterdingen,K1255 Brücke über die B27,Schilderwald,,,,48.6901796,9.1525725,2021-03-08 16:34:40
+DE,2021-03-08,17:00:00,06333,Hettstedt,Markt / Denkmal,Kundgebung,,,,51.5823697,11.4934294,2021-03-08 16:34:40
+DE,2021-03-08,17:00:00,33602,Bielefeld,Rathaus,Spaziergang,,,,52.0205741,8.5346015,2021-03-08 16:34:40
+DE,2021-03-08,17:00:00,23843,Bad Oldesloe,Bahnhofsvorplatz,Kundgebung,,,,53.8052678,10.3822381,2021-03-08 16:34:40
+DE,2021-03-08,17:15:00,24103,Kiel,Rathausplatz,Versammlung,,,,54.32270065,10.133437577107628,2021-03-08 16:34:40
+DE,2021-03-08,17:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2021-03-08 16:34:40
+DE,2021-03-08,17:30:00,33602,Bielefeld,Rathaus,Mahnwache,,,,52.0205741,8.5346015,2021-03-08 16:34:40
+DE,2021-03-08,17:30:00,06406,Bernburg,Karlsplatz Weltzeituhr,Spaziergang,,,,51.7930788,11.7391606,2021-03-08 16:34:40
+DE,2021-03-08,17:30:00,96052,Bamberg,Bahnhof / ggü.,Spaziergang,,,,49.8916044,10.8868478,2021-03-08 16:34:40
+DE,2021-03-08,17:55:00,31655,Wunstorf,Stadtkirche / Markt,Kundgebung,,,,52.42623935,9.429217846512131,2021-03-08 16:34:40
+DE,2021-03-08,18:00:00,97070,Würzburg-Heidingsfeld,Delphinstr.,Spaziergang,,Eltern stehen auf,,49.794363809219064,9.932067513435783,2021-03-08 16:34:40
+DE,2021-03-08,18:00:00,92421,Schwandorf,Oberer Marktplatz,Mahnwache,,,,49.3296022,12.1072358,2021-03-08 16:34:40
+DE,2021-03-08,18:00:00,38259,Salzgitter,Rosengarten,Kundgebung,,,,52.1503721,10.3593147,2021-03-08 16:34:40
+DE,2021-03-08,18:00:00,18055,Rostock,Neuer Markt,Demonstration,,Montags-Demo,,54.0889851,12.140552,2021-03-08 16:34:40
+DE,2021-03-08,18:00:00,01896,Pulsnitz,Schützenhaus Platz,Autokorso,,AFD,,51.18566275,14.017473607361744,2021-03-08 16:34:40
+DE,2021-03-08,18:00:00,14467,Potsdam,Breite Str. 1A,Kundgebung,,Fraktion Frieden / NW2021 / Demokratischer Widerstand,,52.3952375,13.0577717,2021-03-08 16:34:40
+DE,2021-03-08,18:00:00,08523,Plauen,Wendedenkmal,Kundgebung,,Sachsen Südwest,,50.4950632,12.1346523,2021-03-08 16:34:40
+DE,2021-03-08,18:00:00,33098,Paderborn,Rathausplatz,Spaziergang,,,,51.7169744,8.7538304,2021-03-08 16:34:40
+DE,2021-03-08,18:00:00,33098,Paderborn,Rathausplatz,Spaziergang,,,,51.7169744,8.7538304,2021-03-08 16:34:40
+DE,2021-03-08,18:00:00,49074,Osnabrück,Rathaus,Demonstration,,,,52.27739939999999,8.041210268889596,2021-03-08 16:34:40
+DE,2021-03-08,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 16:34:40
+DE,2021-03-08,18:00:00,89150,Laichingen,Marktplatz,Kundgebung,,,,48.4896556,9.6858759,2021-03-08 16:34:40
+DE,2021-03-08,18:00:00,47533,Klebe,Versöhnumgskirche am Markt,Spaziergang,,,,51.786263141899134,6.128173825764498,2021-03-08 16:34:40
+DE,2021-03-08,18:00:00,87435,Kempten / Allgäu,Hildegardplatz,Spaziergang,,,,47.7277627,10.3118793,2021-03-08 16:34:40
+DE,2021-03-08,18:00:00,06108,Halle / Saale,Marktplatz,Kundgebung,https://demo.stream/halleleaks,Montagsdemo Halle,https://politaufkleber.de/produkt-kategorie/demo-stream/?wpam_id=87,51.48309495,11.96960646380657,2021-03-08 16:34:40
+DE,2021-03-08,18:00:00,07973,Greiz,Marktbrunnen,Spaziergang,,,,50.6572954,12.2003501,2021-03-08 16:34:40
+DE,2021-03-08,18:00:00,07973,Greiz,Marktplatz,Spaziergang,,,,50.6572729,12.2001653,2021-03-08 16:34:40
+DE,2021-03-08,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,187 TN,https://t.me/LichterspaziergangGT,51.9063703,8.378309599962563,2021-03-08 16:34:40
+DE,2021-03-08,18:00:00,79098,Freiburg,Platz der alten Synagoge,Mahnwache,,,,47.995169,7.8466209,2021-03-08 16:34:40
+DE,2021-03-08,18:00:00,29223,Celle,Stadtkirche,Meditation,,Celle steht auf,,52.6243768,10.08091950212766,2021-03-08 16:34:40
+DE,2021-03-08,18:00:00,27432,Bremervörde,Rathaus,Spaziergang,,,,53.4859122,9.1463384,2021-03-08 16:34:40
+DE,2021-03-08,18:00:00,02625,Bautzen,Kornmarkt,Mahnwache,,,,51.1804409,14.428698518867606,2021-03-08 16:34:40
+DE,2021-03-08,18:00:00,52531,Übach- Palenberg,Rathausplatz,Kundgebung,,,,50.9197732,6.1190229,2021-03-08 16:34:40
+DE,2021-03-08,18:30:00,75175,Pforzheim,Kiehnlestr. 25 / Gymnasium,Aufzug,,,,48.8928756,8.7003322,2021-03-08 16:34:40
+DE,2021-03-08,18:30:00,99734,Nordhausen,Theatervorplatz,Spaziergang,,,,51.5051574,10.7925317,2021-03-08 16:34:40
+DE,2021-03-08,19:00:00,18439,Stralsund,Alter Markt,Kundgebung,,,,54.3157546,13.0905458,2021-03-08 16:34:40
+DE,2021-03-08,19:00:00,07381,Pössneck,Markt,Spaziergang,,,,50.6941987,11.5947131,2021-03-08 16:34:40
+DE,2021-03-08,19:00:00,99994,Nottertal-Heilingerhöhen,Rathaus Schlotheim,Spaziergang,,,,51.2311703,10.664551215016154,2021-03-08 16:34:40
+DE,2021-03-08,19:00:00,99974,Mühlhausen / Thüringen,Postplatz,Spaziergang,,,,51.2094255,10.4589044,2021-03-08 16:34:40
+DE,2021-03-08,19:00:00,78462,Konstanz,Münster,Spaziergang,,Freidenker Konstanz,,47.6989993,9.0618076,2021-03-08 16:34:40
+DE,2021-03-08,19:00:00,47906,Kempen,Kuhtor,Demonstration,,Privat,,51.3662505,6.4177893168652975,2021-03-08 16:34:40
+DE,2021-03-08,19:00:00,87600,Kaufbeuren,Altes Rathaus,Spaziergang,,,,47.8803788,10.622246,2021-03-08 16:34:40
+DE,2021-03-08,19:00:00,99867,Gotha,Schloßberg / Brunnen,Spaziergang,,,,50.9494849,10.7014435,2021-03-08 16:34:40
+DE,2021-03-08,19:00:00,99084,Erfurt,Angerbrunnen,Spaziergang,,,,50.9743748,11.0305261,2021-03-08 16:34:40
+DE,2021-03-08,19:00:00,51465,Bergisch Gladbach,Konrad-Adenauer-Platz,Versammlung,,,,50.99170015,7.130326471487166,2021-03-08 16:34:40
+DE,2021-03-08,19:00:00,99947,Bad Langensalza,Rathausbrunnen,Spaziergang,,,,51.1082267,10.6464452,2021-03-08 16:34:40
+DE,2021-03-08,19:00:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,,,51.0227878,11.5129742,2021-03-08 16:34:40
+DE,2021-03-09,18:00:00,33758,Holte-Stukenbrock,Kirchplatz / Holter,Lichterkette,,Privat,,51.9022696,8.6159014,2021-03-08 16:34:40
+DE,2021-03-09,18:30:00,73525,Schwäbisch Gmünd,Marktplatz,Kundgebung,,,,48.7993555,9.7985533,2021-03-08 16:34:40
+DE,2021-03-10,16:00:00,70184,Stuttgart,Dobelstr. / Hohenheimer Str.,Schilderwald,,,,48.7784485,9.1800132,2021-03-08 16:34:40
+DE,2021-03-10,16:00:00,70184,Stuttgart,Dobelstr. / Hohenheimer Str.,Schilderwald,,Privat,,48.7784485,9.1800132,2021-03-08 16:34:40
+DE,2021-03-10,17:00:00,70173,Stuttgart,Karlsplatz,Kundgebung,,,,48.77655285,9.180667785868211,2021-03-08 16:34:40
+DE,2021-03-10,17:00:00,70173,Stuttgart,Schillerplatz,Kundgebung,,,,48.7774906,9.1782574,2021-03-08 16:34:40
+DE,2021-03-10,17:00:00,70173,Stuttgart,Schillerplatz / Marktplatz,Demonstration,,,,48.7774906,9.1782574,2021-03-08 16:34:40
+DE,2021-03-10,17:00:00,75172,Pforzheim,Kienlestr. 25 / Hilda Gymn.,Demonstration,,,,48.8908846,8.7029532,2021-03-08 16:34:40
+DE,2021-03-10,17:00:00,75172,Pforzheim,Kiehnlestr. 25 / Gymnasium,Aufzug,,,,48.8929993,8.6946964,2021-03-08 16:34:40
+DE,2021-03-10,17:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2021-03-08 16:34:40
+DE,2021-03-10,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,http://www.hanau-steht-auf.de,50.1329988,8.9180211,2021-03-08 16:34:40
+DE,2021-03-10,18:00:00,29221,Celle,Hafen,Kundgebung,,,,52.626335,10.078976,2021-03-08 16:34:40
+DE,2021-03-11,17:00:00,70173,Stuttgart,Kronprinzplatz,Kundgebung,,,,48.7760129,9.1750088,2021-03-08 16:34:40
+DE,2021-03-11,17:30:00,72622,Nürtingen,Ochsenbrunnen,Kundgebung,,Querdenken 702,,48.6262998,9.339529299425072,2021-03-08 16:34:40
+DE,2021-03-11,17:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2021-03-08 16:34:40
+DE,2021-03-11,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,,,48.1667467,11.803713,2021-03-08 16:34:40
+DE,2021-03-11,18:00:00,70771,Leinfelden Echterdingen,Kirchplatz Echterdingen,Versammlung,,,,48.6901796,9.1525725,2021-03-08 16:34:40
+DE,2021-03-11,18:00:00,93413,Cham,Am Floßhafen / Frey-Eingang,Demonstration,,,,49.2178194,12.6663832,2021-03-08 16:34:40
+DE,2021-03-11,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,http://www.hanau-steht-auf.de,50.1035627,8.9450186,2021-03-08 16:34:40
+DE,2021-03-11,19:30:00,78467,Konstanz,Berchenplatz,Sport,,Freidenker Konstanz,,47.6837431,9.149828937471131,2021-03-08 16:34:40
+DE,2021-03-12,17:00:00,70173,Stuttgart,Königstr. 78 / Jack Wolfskin,Kundgebung,,,,48.7784485,9.1800132,2021-03-08 16:34:40
+DE,2021-03-12,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,,,49.0095065,8.4055133,2021-03-08 16:34:40
+DE,2021-03-12,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2021-03-08 16:34:40
+DE,2021-03-12,18:00:00,34454,Bad Arolsen,Kirchplatz,Mahnwache,,,,51.3800356,9.0154911,2021-03-08 16:34:40
+DE,2021-03-12,19:00:00,26506,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,,,,53.5942039,7.2067435,2021-03-08 16:34:40
+DE,2021-03-13,10:00:00,25451,Quickborn,Torfstr./ Rathaus / Parkhaus,Kundgebung,,,,53.732895,9.902929,2021-03-08 16:34:40
+DE,2021-03-13,10:45:00,59494,Soest,Georg-Plange-Platz,Autokorso,,Privat,,51.5708489,8.118257172125244,2021-03-08 16:34:40
+DE,2021-03-13,11:00:00,29223,Celle,Schützenplatz,Spaziergang,,Celle steht auf,,52.62702925,10.073610334545315,2021-03-08 16:34:40
+DE,2021-03-13,11:45:00,29223,Celle,Großer Plan,Kundgebung,,Celle steht auf,,52.6226562,10.0805745,2021-03-08 16:34:40
+DE,2021-03-13,12:00:00,52525,Heinsberg,Parkplatz Ostpromenade,Demonstration,,,,51.0603549,6.0962282,2021-03-08 16:34:40
+DE,2021-03-13,12:00:00,52525,Heinsberg,Ostpromenade / Parkplatz,Kundgebung,,,,51.0603549,6.0962282,2021-03-08 16:34:40
+DE,2021-03-13,13:00:00,70174,Stuttgart,Oberer Schloßgarten,Demonstration,,,,48.7790767,9.1811468,2021-03-08 16:34:40
+DE,2021-03-13,13:00:00,14467,Potsdam / Falkensee,Henning-von-Tresckow-Str. 2-13 / BmfG,Kundgebung,,Es reicht uns!,https://es-reicht-uns.de/berlin/,52.40182939356744,13.060627160281607,2021-03-08 16:34:40
+DE,2021-03-13,13:00:00,94032,Passau,Klostergarten,Kundgebung,,Bürger im Dialog,https://t.me/fuerfriedenundfreiheit,48.52118205,13.32044741196492,2021-03-08 16:34:40
+DE,2021-03-13,13:00:00,80538,München,Maximilianstr. / Steinsdorfstr.,Kundgebung,,Bayern steht zusammen e.V.,https://www.bayern-steht-zusammen.de/TERMINE/,48.1371079,11.5753822,2021-03-08 16:34:40
+DE,2021-03-13,13:00:00,24105,Kiel,Reventlouwiese,Versammlung,,,,54.3227085,10.135555,2021-03-08 16:34:40
+DE,2021-03-13,13:00:00,30167,Hannover,Trammplatz,Kundgebung,,Es reicht uns!,https://es-reicht-uns.de/niedersachsen/,52.3683141,9.736744,2021-03-08 16:34:40
+DE,2021-03-13,13:00:00,20095,Hamburg,Rathausplatz,Demonstration,,,http://Es-reicht-uns.de,53.5503431,9.992560905027485,2021-03-08 16:34:40
+DE,2021-03-13,13:00:00,01097,Dresden,Königsufer,Kundgebung,,Er reicht,https://querdenken-351.de,51.0565055,13.7457602,2021-03-08 16:34:40
+DE,2021-03-13,13:00:00,40221,Düsseldorf,Platz des Landtags,Demonstration,,Es reicht!,http://www.es-reicht-uns.de,51.2183196,6.76357296250475,2021-03-08 16:34:40
+DE,2021-03-13,13:00:00,28195,Bremen,Marktplatz am Roland,Kundgebung,,,,53.0759058,8.807326236763888,2021-03-08 16:34:40
+DE,2021-03-13,13:00:00,28195,Bremen,Bahnhofsvorplatz,Kundgebung,,,,53.0811945,8.796382,2021-03-08 16:34:40
+DE,2021-03-13,13:00:00,10117,Berlin,Friedrichstr. 108 / BmfG,Demonstration,,Es reicht!,,52.5170365,13.3888599,2021-03-08 16:34:40
+DE,2021-03-13,13:03:00,40221,Düsseldorf,Platz des Landtags 1,Kundgebung,,Menschen,http://www.es-reicht-uns.de,51.21870815,6.763385990056817,2021-03-08 16:34:40
+DE,2021-03-13,14:00:00,30159,Hannover,Schützenplatz / Gilde Tor,Autokorso,,,,52.3744779,9.7385532,2021-03-08 16:34:40
+DE,2021-03-13,14:00:00,95448,Bayreuth,P beim Volksfestplatz,Kundgebung,,20Plus1,https://20plus1.org,49.9427202,11.5763079,2021-03-08 16:34:40
+DE,2021-03-13,14:30:00,79100,Freiburg,Augustinerplatz,Kundgebung,,Querdenken Freiburg / 761,http://www.nichtohneuns-freiburg.de,47.9934916,7.851865,2021-03-08 16:34:40
+DE,2021-03-13,15:00:00,0711,Stuttgart Botnang,Marktplatz,Kundgebung,,,,52.5164617,13.2613337,2021-03-08 16:34:40
+DE,2021-03-13,15:00:00,97723,Oberthulba,Marktplatz,Kundgebung,,Bärbel Crampen,,50.1982992,9.9617797,2021-03-08 16:34:40
+DE,2021-03-13,15:00:00,97723,Oberthulba,Marktplatz,Demonstration,,Privat,,50.1982992,9.9617797,2021-03-08 16:34:40
+DE,2021-03-13,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Spaziergang,,,http://www.querdenken211.de,51.219092200000006,6.767028235140621,2021-03-08 16:34:40
+DE,2021-03-13,15:30:00,29510,Uelzen,Herzogenplatz,Kundgebung,,,,52.9630205,10.559275888894947,2021-03-08 16:34:40
+DE,2021-03-13,15:30:00,75175,Pforzheim,Marktplatz,Kundgebung,,,,48.8914943,8.7055085,2021-03-08 16:34:40
+DE,2021-03-13,15:30:00,21073,Hamburg-Harburg,Museumsplatz 1 / Brunnen,Meditation,,,,53.457804841124755,9.972934574975401,2021-03-08 16:34:40
+DE,2021-03-13,15:30:00,Erfurt,Erfurt,Domplatz,Kundgebung,,Freier Widerstand,,50.9777199,11.0247,2021-03-08 16:34:40
+DE,2021-03-13,16:00:00,65183,Wiesbaden,Landtag Schlossplatz,Kundgebung,,,,50.0820384,8.2416556,2021-03-08 16:34:40
+DE,2021-03-13,16:30:00,55116,Mainz,Domplatz / Markt,Kundgebung,,,https://es-reicht-uns.de/,49.9995261,8.274240422244489,2021-03-08 16:34:40
+DE,2021-03-14,10:45:00,75015,Bretten,Marktplatz,Meditation,,,,49.0372069,8.7069939,2021-03-08 16:34:40
+DE,2021-03-14,12:30:00,40474,Düsseldorf,Messeparkplatz P1 Feld 5 Nord,Autokorso,,Corona Rebellen Düsseldorf,https://coronarebellenduesseldorf.com/,51.2254018,6.7763137,2021-03-08 16:34:40
+DE,2021-03-14,13:00:00,94513,Schönberg,Marktplatz,Kundgebung,,Bürger im Dialog,https://t.me/fuerfriedenundfreiheit,48.8401846,13.3379817,2021-03-08 16:34:40
+DE,2021-03-14,14:00:00,83080,Oberaudorf,Grenzbrücke am Inn,Kundgebung,,Bayern steht zusammen e.V.,https://www.bayern-steht-zusammen.de/TERMINE/,47.6485636,12.1719882,2021-03-08 16:34:40
+AT,2021-03-14,14:00:00,6342,Niederndorf bei Kufstein,Grenzbrücke am Inn,Kundgebung,,Bayern steht zusammen e.V.,https://www.bayern-steht-zusammen.de/TERMINE/,47.65169915,12.213369162794885,2021-03-08 16:34:40
+DE,2021-03-14,14:00:00,97318,Kitzingen,Bleichwasen,Spaziergang,,Eltern stehen auf,,49.7456976,10.1620996,2021-03-08 16:34:40
+AT,2021-03-14,14:00:00,6700,Bludenz,Riedmillerplatz,Kundgebung,,,https://corona-demo.at/,47.1546785,9.822359,2021-03-08 16:34:40
+DE,2021-03-15,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-03-08 16:34:40
+DE,2021-03-15,17:00:00,63825,Schöllkrippen,Marktplatz,Demonstration,,,http://www.demo-kahlgrund.de,50.0850616,9.2460507,2021-03-08 16:34:40
+DE,2021-03-15,17:30:00,33602,Bielefeld,Rathaus,Mahnwache,,,,52.0205741,8.5346015,2021-03-08 16:34:40
+DE,2021-03-15,17:30:00,06406,Bernburg,Karlsplatz / Weltzeituhr,Spaziergang,,,,51.7930788,11.7391606,2021-03-08 16:34:40
+DE,2021-03-15,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 16:34:40
+DE,2021-03-15,18:00:00,47533,Kleve,Versöhnungskirche am Markt,Spaziergang,,,,51.782720999999995,6.131921809143858,2021-03-08 16:34:40
+DE,2021-03-15,18:00:00,87435,Kempten / Allgäu,Hildegardplatz,Spaziergang,,,,47.7277627,10.3118793,2021-03-08 16:34:40
+DE,2021-03-15,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,Privat,https://t.me/LichterspaziergangGT,51.9063703,8.378309599962563,2021-03-08 16:34:40
+DE,2021-03-15,18:00:00,02625,Bautzen,Kornmarkt,Mahnwache,,,,51.1804409,14.428698518867606,2021-03-08 16:34:40
+DE,2021-03-15,18:30:00,97688,Bad Kissingen,Parkfriedhof / Parkplatz,Spaziergang,,Privat,,50.1983954,10.0750993,2021-03-08 16:34:40
+DE,2021-03-15,19:00:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,,,51.0227878,11.5129742,2021-03-08 16:34:40
+DE,2021-03-17,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,http://www.hanau-steht-auf.de,50.1329988,8.9180211,2021-03-08 16:34:40
+DE,2021-03-18,12:00:00,95326,Kulmbach,Konrad-Adenauer-Str. 5 / Landratsamt,Spaziergang,,Für unsere Verfassung und die Menschenwürde,https://www.facebook.com/groups/130040928997937,50.1008448,11.4479149,2021-03-08 16:34:40
+DE,2021-03-18,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,,,48.1667467,11.803713,2021-03-08 16:34:40
+DE,2021-03-18,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,http://www.hanau-steht-auf.de,50.1035627,8.9450186,2021-03-08 16:34:40
+DE,2021-03-19,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,,,49.0095065,8.4055133,2021-03-08 16:34:40
+DE,2021-03-20,11:00:00,10117,Berlin,Unter den Linden / RU Botschaft,Kundgebung,,Freier Widerstand,,52.5170365,13.3888599,2021-03-08 16:34:40
+DE,2021-03-20,12:00:00,34117,Kassel,Königsplatz,Kundgebung,,,,51.3153643,9.497464,2021-03-08 16:34:40
+DE,2021-03-20,12:00:00,34117,Kassel,Königsplatz,Demonstration,,,,51.3153643,9.497464,2021-03-08 16:34:40
+DE,2021-03-20,14:00:00,11011,Berlin,Reichstag,Kundgebung,,,,52.4676201,13.5280284,2021-03-08 16:34:40
+DE,2021-03-20,14:00:00,95448,Bayreuth,P beim Volksfestplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.org,49.9427202,11.5763079,2021-03-08 16:34:40
+DE,2021-03-20,14:30:00,39104,Magdeburg,Domplatz,Kundgebung,,Mitteldeutschland steht auf und bewegt sich,,52.1250109,11.6353743,2021-03-08 16:34:40
+DE,2021-03-20,15:30:00,29510,Uelzen,Herzogenplatz,Kundgebung,,,,52.9630205,10.559275888894947,2021-03-08 16:34:40
+DE,2021-03-21,13:30:00,64711,Erbach,Marktplatz,Kundgebung,,,,49.6567154,8.9930988,2021-03-08 16:34:40
+AT,2021-03-21,14:00:00,6900,Bregenz,Kornmarktplatz,Kundgebung,,,https://corona-demo.at/,47.50411105,9.746876996633826,2021-03-08 16:34:40
+DE,2021-03-22,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-03-08 16:34:40
+DE,2021-03-22,17:00:00,63825,Schöllkrippen,Marktplatz,Demonstration,,,http://www.demo-kahlgrund.de,50.0850616,9.2460507,2021-03-08 16:34:40
+DE,2021-03-22,17:30:00,33602,Bielefeld,Rathaus,Mahnwache,,,,52.0205741,8.5346015,2021-03-08 16:34:40
+DE,2021-03-22,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 16:34:40
+DE,2021-03-22,18:00:00,47533,Kleve,Versöhnungskirche am Markt,Spaziergang,,,,51.782720999999995,6.131921809143858,2021-03-08 16:34:40
+DE,2021-03-22,18:00:00,87435,Kempten / Allgäu,Hildegardplatz,Spaziergang,,,,47.7277627,10.3118793,2021-03-08 16:34:40
+DE,2021-03-22,18:00:00,02625,Bautzen,Kornmarkt,Mahnwache,,,,51.1804409,14.428698518867606,2021-03-08 16:34:40
+DE,2021-03-22,19:00:00,47906,Kempen,Kuhtor,Demonstration,,Privat,,51.3662505,6.4177893168652975,2021-03-08 16:34:40
+DE,2021-03-22,19:00:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,,,51.0227878,11.5129742,2021-03-08 16:34:40
+DE,2021-03-24,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,http://www.hanau-steht-auf.de,50.1329988,8.9180211,2021-03-08 16:34:40
+DE,2021-03-25,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,,,48.1667467,11.803713,2021-03-08 16:34:40
+DE,2021-03-25,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,http://www.hanau-steht-auf.de,50.1035627,8.9450186,2021-03-08 16:34:40
+DE,2021-03-26,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,,,49.0095065,8.4055133,2021-03-08 16:34:40
+DE,2021-03-27,14:00:00,95448,Bayreuth,P beim Volksfestplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.org,49.9427202,11.5763079,2021-03-08 16:34:40
+DE,2021-03-27,14:30:00,39104,Magdeburg,Domplatz,Kundgebung,,Mitteldeutschland steht auf und bewegt sich,,52.1250109,11.6353743,2021-03-08 16:34:40
+DE,2021-03-27,15:30:00,29510,Uelzen,Herzogenplatz,Kundgebung,,,,52.9630205,10.559275888894947,2021-03-08 16:34:40
+AT,2021-03-28,14:00:00,6850,Dornbirn,Marktplatz,Kundgebung,,,https://corona-demo.at/,47.4132168,9.7438249,2021-03-08 16:34:40
+DE,2021-03-29,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,,47.8393582,11.1424671,2021-03-08 16:34:40
+DE,2021-03-29,17:00:00,63825,Schöllkrippen,Marktplatz,Demonstration,,,http://www.demo-kahlgrund.de,50.0850616,9.2460507,2021-03-08 16:34:40
+DE,2021-03-29,17:30:00,33602,Bielefeld,Rathaus,Mahnwache,,,,52.0205741,8.5346015,2021-03-08 16:34:40
+DE,2021-03-29,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 16:34:40
+DE,2021-03-29,18:00:00,47533,Kleve,Versöhnungskirche am Markt,Spaziergang,,,,51.782720999999995,6.131921809143858,2021-03-08 16:34:40
+DE,2021-03-29,18:00:00,87435,Kempten / Allgäu,Hildegardplatz,Spaziergang,,,,47.7277627,10.3118793,2021-03-08 16:34:40
+DE,2021-03-29,18:00:00,02625,Bautzen,Kornmarkt,Mahnwache,,,,51.1804409,14.428698518867606,2021-03-08 16:34:40
+DE,2021-03-29,19:00:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,,,51.0227878,11.5129742,2021-03-08 16:34:40
+DE,2021-03-31,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,http://www.hanau-steht-auf.de,50.1329988,8.9180211,2021-03-08 16:34:40
+DE,2021-04-01,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,,,48.1667467,11.803713,2021-03-08 16:34:40
+DE,2021-04-03,14:00:00,70372,Stuttgart,Cannstatter Wasen / Mercedesstr.,Kundgebung,,,,48.7784485,9.1800132,2021-03-08 16:34:40
+DE,2021-04-03,14:30:00,39104,Magdeburg,Domplatz,Kundgebung,,Mitteldeutschland steht auf und bewegt sich,,52.1250109,11.6353743,2021-03-08 16:34:40
+DE,2021-04-03,17:30:00,70372,Stuttgart,Cannstatter Wasen / Mercedesstr.,Aufzug,,,,48.7784485,9.1800132,2021-03-08 16:34:40
+AT,2021-04-04,14:00:00,6800,Feldkirch,Montfortplatz 1,Kundgebung,,,https://corona-demo.at/,47.2423129,9.5820208,2021-03-08 16:34:40
+DE,2021-04-05,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 16:34:40
+DE,2021-04-08,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,,,48.1667467,11.803713,2021-03-08 16:34:40
+DE,2021-04-10,14:30:00,39104,Magdeburg,Domplatz,Kundgebung,,Mitteldeutschland steht auf und bewegt sich,,52.1250109,11.6353743,2021-03-08 16:34:40
+DE,2021-04-12,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 16:34:40
+DE,2021-04-15,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,,,48.1667467,11.803713,2021-03-08 16:34:40
+DE,2021-04-17,14:30:00,39104,Magdeburg,Domplatz,Kundgebung,,Mitteldeutschland steht auf und bewegt sich,,52.1250109,11.6353743,2021-03-08 16:34:40
+DE,2021-04-19,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 16:34:40
+DE,2021-04-22,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,,,48.1667467,11.803713,2021-03-08 16:34:40
+DE,2021-04-24,14:00:00,52064,Aachen,Monheimsallee 48 / Eurogress,Kundgebung,,QUERDENKEN241,http://www.querdenken241-aachen.de,50.776351,6.083862,2021-03-08 16:34:40
+DE,2021-04-24,14:30:00,39104,Magdeburg,Domplatz,Kundgebung,,Mitteldeutschland steht auf und bewegt sich,,52.1250109,11.6353743,2021-03-08 16:34:40
+DE,2021-04-26,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 16:34:40
+DE,2021-04-29,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,,,48.1667467,11.803713,2021-03-08 16:34:40
+DE,2021-05-01,14:30:00,39104,Magdeburg,Domplatz,Kundgebung,,Mitteldeutschland steht auf und bewegt sich,,52.1250109,11.6353743,2021-03-08 16:34:40
+DE,2021-05-03,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 16:34:40
+DE,2021-05-06,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,,,48.1667467,11.803713,2021-03-08 16:34:40
+DE,2021-05-08,14:30:00,39104,Magdeburg,Domplatz,Kundgebung,,Mitteldeutschland steht auf und bewegt sich,,52.1250109,11.6353743,2021-03-08 16:34:40
+DE,2021-05-10,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 16:34:40
+DE,2021-05-13,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,,,48.1667467,11.803713,2021-03-08 16:34:40
+DE,2021-05-17,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 16:34:40
+DE,2021-05-20,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,,,48.1667467,11.803713,2021-03-08 16:34:40
+DE,2021-05-24,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 16:34:40
+DE,2021-05-27,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,,,48.1667467,11.803713,2021-03-08 16:34:40
+DE,2021-05-31,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 16:34:40
+DE,2021-06-03,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,,,48.1667467,11.803713,2021-03-08 16:34:40
+DE,2021-06-07,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 16:34:40
+DE,2021-06-10,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,,,48.1667467,11.803713,2021-03-08 16:34:40
+DE,2021-06-14,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 16:34:40
+DE,2021-06-17,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,,,48.1667467,11.803713,2021-03-08 16:34:40
+DE,2021-06-20,16:30:00,94315,Straubing,Ludwigsplatz,Mahnwache,,,,48.8820981,12.5738356,2021-03-08 16:34:40
+DE,2021-06-21,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 16:34:40
+DE,2021-06-24,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,,,48.1667467,11.803713,2021-03-08 16:34:40
+DE,2021-06-28,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 16:34:40
+DE,2021-07-01,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,,,48.1667467,11.803713,2021-03-08 16:34:40
+DE,2021-07-05,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 16:34:40
+DE,2021-07-12,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 16:34:40
+DE,2021-07-19,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 16:34:40
+DE,2021-07-26,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 16:34:40
+DE,2021-08-02,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 16:34:40
+DE,2021-08-09,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 16:34:40
+DE,2021-08-16,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 16:34:40
+DE,2021-08-23,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 16:34:40
+DE,2021-08-30,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 16:34:40
+DE,2021-09-06,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 16:34:40
+DE,2021-09-13,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 16:34:40
+DE,2021-09-20,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,,49.9891871,8.6648133,2021-03-08 16:34:40
+DE,2021-09-27,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Versammlung,,,,49.9891871,8.6648133,2021-03-08 16:34:40
+DE,2021-10-26,19:00:00,73728,Esslingen,Heugasse 10 / Delicantina,Treffpunkt,,,,48.7427584,9.3071685,2021-03-08 16:34:40
+DE,2021-11-05,18:00:00,10117,Berlin,Brandenburger Tor,Kundgebung,https://anonymous.support/live,Anonymous #MillionMaskMarch,https://anonymous.support,52.51628045,13.377701882994323,2021-03-08 16:34:40
+DE,2021-12-24,12:00:00,10178,Berlin,Alexanderplatz / Weltzeituhr,Charity,https://anonymous.support/live,Anonymous #OpSafeWinter,https://anonymous.support/opsafewinter/berlin,52.5170365,13.3888599,2021-03-08 16:34:40
