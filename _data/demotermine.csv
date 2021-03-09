@@ -2,6 +2,7 @@ land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,web
 DE,2021-03-09,18:00:00,97070,Würzburg,Unterer Markt,Spaziergang,,Eltern stehen auf,
 DE,2021-03-09,18:00:00,33758,Holte-Stukenbrock,Kirchplatz / Holter,Lichterkette,,Privat,
 DE,2021-03-09,18:30:00,73525,Schwäbisch Gmünd,Marktplatz,Kundgebung,,,
+DE,2021-03-09,18:30:00,79108,Freiburg,Suwonallee 1,Autokorso,,Treff ab 17:30,https://zukunft-fr.de
 DE,2021-03-10,16:00:00,70184,Stuttgart,Dobelstr. / Hohenheimer Str.,Schilderwald,,,
 DE,2021-03-10,16:00:00,70184,Stuttgart,Dobelstr. / Hohenheimer Str.,Schilderwald,,Privat,
 DE,2021-03-10,17:00:00,70173,Stuttgart,Karlsplatz,Kundgebung,,,
@@ -13,6 +14,7 @@ DE,2021-03-10,17:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine ste
 DE,2021-03-10,18:00:00,97070,Würzburg / Lengfeld,Stauferstr. / Pilzgr.,Spaziergang,,Eltern stehen auf,
 DE,2021-03-10,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,http://www.hanau-steht-auf.de
 DE,2021-03-10,18:00:00,29221,Celle,Hafen,Kundgebung,,,
+DE,2021-03-10,18:30:00,73525,Schwäbisch Gmünd,Marktplatz,Kundgebung,,,
 DE,2021-03-11,17:00:00,70173,Stuttgart,Kronprinzplatz,Kundgebung,,,
 DE,2021-03-11,17:30:00,72622,Nürtingen,Ochsenbrunnen,Kundgebung,,Querdenken 702,
 DE,2021-03-11,17:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
@@ -20,6 +22,7 @@ DE,2021-03-11,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,,
 DE,2021-03-11,18:00:00,80539,München,Odeonsplatz,Demonstration,https://www.youtube.com/channel/UCoVt9gB_PTXPv8X1kpLl7xA,Ulrike Pfeffer / UlliOma u.a.,https://t.me/UlliOma_Muc
 DE,2021-03-11,18:00:00,70771,Leinfelden Echterdingen,Kirchplatz Echterdingen,Versammlung,,,
 DE,2021-03-11,18:00:00,93413,Cham,Am Floßhafen / Frey-Eingang,Demonstration,,,
+DE,2021-03-11,18:30:00,24103,Kiel,Exerzierplatz,Versammlung,,,
 DE,2021-03-11,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,http://www.hanau-steht-auf.de
 DE,2021-03-11,19:30:00,78467,Konstanz,Berchenplatz,Sport,,Freidenker Konstanz,
 DE,2021-03-12,17:00:00,70173,Stuttgart,Königstr. 78 / Jack Wolfskin,Kundgebung,,,
@@ -41,7 +44,9 @@ DE,2021-03-13,13:00:00,24105,Kiel,Reventlouwiese,Versammlung,,,
 DE,2021-03-13,13:00:00,30167,Hannover,Trammplatz,Kundgebung,,Es reicht uns!,https://es-reicht-uns.de/niedersachsen/
 DE,2021-03-13,13:00:00,20095,Hamburg,Rathausplatz,Demonstration,,,http://Es-reicht-uns.de
 DE,2021-03-13,13:00:00,01097,Dresden,Königsufer,Kundgebung,,Er reicht,https://querdenken-351.de
+DE,2021-03-13,13:00:00,01097,Dresden,Königsufer,Kundgebung,,Es reicht,
 DE,2021-03-13,13:00:00,40221,Düsseldorf,Platz des Landtags,Demonstration,,Es reicht!,http://www.es-reicht-uns.de
+DE,2021-03-13,13:00:00,28195,Bremen,Bürgerweide,Kundgebung,,,
 DE,2021-03-13,13:00:00,28195,Bremen,Marktplatz am Roland,Kundgebung,,,
 DE,2021-03-13,13:00:00,28195,Bremen,Bahnhofsvorplatz,Kundgebung,,,
 DE,2021-03-13,13:00:00,10117,Berlin,Friedrichstr. 108 / BmfG,Demonstration,,Es reicht!,
@@ -57,11 +62,13 @@ DE,2021-03-13,15:30:00,29510,Uelzen,Herzogenplatz,Kundgebung,,,
 DE,2021-03-13,15:30:00,75175,Pforzheim,Marktplatz,Kundgebung,,,
 DE,2021-03-13,15:30:00,21073,Hamburg-Harburg,Museumsplatz 1 / Brunnen,Meditation,,,
 DE,2021-03-13,15:30:00,Erfurt,Erfurt,Domplatz,Kundgebung,,Freier Widerstand,
+DE,2021-03-13,16:00:00,65185,Wiesbaden,Reisinger Anlagen ggü. HBF,Demonstration,,,https://t.me/ProtestHessen/24
 DE,2021-03-13,16:00:00,65183,Wiesbaden,Landtag Schlossplatz,Kundgebung,,,
 DE,2021-03-13,16:30:00,55116,Mainz,Domplatz / Markt,Kundgebung,,,https://es-reicht-uns.de/
 DE,2021-03-14,10:45:00,75015,Bretten,Marktplatz,Meditation,,,
 DE,2021-03-14,12:30:00,40474,Düsseldorf,Messeparkplatz P1 Feld 5 Nord,Autokorso,,Corona Rebellen Düsseldorf,https://coronarebellenduesseldorf.com/
 DE,2021-03-14,13:00:00,94513,Schönberg,Marktplatz,Kundgebung,,Bürger im Dialog,https://t.me/fuerfriedenundfreiheit
+DE,2021-03-14,14:00:00,84347,Pfarrkirchen,P+R Parkplatz,Kundgebung,,,
 DE,2021-03-14,14:00:00,83080,Oberaudorf,Grenzbrücke am Inn,Kundgebung,,Bayern steht zusammen e.V.,https://www.bayern-steht-zusammen.de/TERMINE/
 AT,2021-03-14,14:00:00,6342,Niederndorf bei Kufstein,Grenzbrücke am Inn,Kundgebung,,Bayern steht zusammen e.V.,https://www.bayern-steht-zusammen.de/TERMINE/
 DE,2021-03-14,14:00:00,97318,Kitzingen,Bleichwasen,Spaziergang,,Eltern stehen auf,
@@ -70,11 +77,13 @@ DE,2021-03-15,14:30:00,82362,Weilheim,Marienplatz,Mahnwache,,,
 DE,2021-03-15,17:00:00,63825,Schöllkrippen,Marktplatz,Demonstration,,,http://www.demo-kahlgrund.de
 DE,2021-03-15,17:30:00,33602,Bielefeld,Rathaus,Mahnwache,,,
 DE,2021-03-15,17:30:00,06406,Bernburg,Karlsplatz / Weltzeituhr,Spaziergang,,,
+DE,2021-03-15,18:00:00,92421,Schwandorf,Oberer Marktplatz,Mahnwache,,,
 DE,2021-03-15,18:00:00,63225,Langen,Bahnstr. / Goethestr.,Mahnwache,,,
 DE,2021-03-15,18:00:00,47533,Kleve,Versöhnungskirche am Markt,Spaziergang,,,
 DE,2021-03-15,18:00:00,87435,Kempten / Allgäu,Hildegardplatz,Spaziergang,,,
 DE,2021-03-15,18:00:00,07973,Greiz,Markt / Rathaus,Spaziergang,,,
 DE,2021-03-15,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,Privat,https://t.me/LichterspaziergangGT
+DE,2021-03-15,18:00:00,01067,Dresden,Altmarkt,Kundgebung,,,
 DE,2021-03-15,18:00:00,02625,Bautzen,Kornmarkt,Mahnwache,,,
 DE,2021-03-15,18:30:00,97688,Bad Kissingen,Parkfriedhof / Parkplatz,Spaziergang,,Privat,
 DE,2021-03-15,19:00:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,,
