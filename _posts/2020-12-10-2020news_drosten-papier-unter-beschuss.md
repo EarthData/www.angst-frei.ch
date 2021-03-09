@@ -4,6 +4,6 @@ redirect:      https://2020news.de/drosten-papier-unter-beschuss/
 title:         2020 News
 subtitle:      "Drosten-Papier unter Beschuss"
 persons:       Drosten Christian
-categories:    Medien
+categories:    [Wissenschaft]
 tags:          [2020news, pcr-test]
 ---

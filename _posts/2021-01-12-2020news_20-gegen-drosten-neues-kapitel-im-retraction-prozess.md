@@ -4,6 +4,6 @@ redirect:      https://2020news.de/20-gegen-drosten-neues-kapitel-im-retraction-
 title:         2020 News
 subtitle:      "2:0 gegen Drosten – neues Kapitel im Retraction Prozess"
 persons:       Drosten Christian
-categories:    Medien
+categories:    [Wissenschaft]
 tags:          [2020news, pcr-test]
 ---

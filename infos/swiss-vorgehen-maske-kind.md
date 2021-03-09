@@ -159,6 +159,10 @@ siehe [Politisches > Kind]({{site.baseurl}}/infos/swiss-politisches.html#kind)
 
 ## Homeschooling
 
+### Campus Vivere
+
+ * [www.campus-vivere.ch](www.campus-vivere.ch)
+
 ### Links zum Thema Homschooling
 
  * [Homeschooling in der Schweiz](https://swisshomeschoolfamily.org/)
