@@ -103,7 +103,9 @@ Fehlt auch nur eines dieser Merkmale sind staatliche Anordnungen, und dazu gehö
 ### Kantonale Verfügungen
 
  * [Zürich: Verfügung Bildungsdirektion: Volksschulen. Vorgaben Schutzkonzepte vom 28.10.2020](/assets/files/law/verfuegung_bi_vorgaben_schutzkonzepte.pdf)
- * [Zürich: Verfügung Bildungsdirektion: Volksschulen. Vorgaben Schutzkonzepte; Ausdehnung Maskentragpflicht](/assets/files/law/bi_verfuegung_20210121_ausdehnung_maskenpflicht.pdf)
+ * [Zürich: Verfügung Bildungsdirektion: Volksschulen. Vorgaben Schutzkonzepte; Ausdehnung Maskentragpflicht (21.01.2021)](/assets/files/law/bi_verfuegung_20210121_ausdehnung_maskenpflicht.pdf)
+ * [Zürich: Verfügung Bildungsdirektion: Volksschulen. Vorgaben Schutzkonzepte; Verlängerung der Massnahmen (25.02.2021)](/assets/files/law/verfuegung_bi_verlaengerung_massnahmen_20210225.pdf)
+ * [Zürich: Verfügung Bildungsdirektion: Volksschulen. Vorgaben Schutzkonzepte; Lockerung sowie Verlängerung der Massnahmen (09.03.2021)](/assets/files/law/verfuegung_volksschulen_lockerung_massnahmen_20210309.pdf)
 
 ### Politisches
 

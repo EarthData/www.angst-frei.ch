@@ -119,6 +119,7 @@ Gemeinsam mit Vernunft zurück zur Normalität
 Für eine vernünftige Corona-Politik
 
 | {{ site.icons.globe }}    | [www.ur-kantone.ch](https://www.ur-kantone.ch/) |
+| {{ site.icons.globe }}    | [www.covid-19-gesetz-referendum.ch](https://www.covid-19-gesetz-referendum.ch/) |
 
 ## Verein Itus
 

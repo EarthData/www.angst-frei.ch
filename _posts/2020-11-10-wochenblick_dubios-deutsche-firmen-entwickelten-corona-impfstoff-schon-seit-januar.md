@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/dubios-deutsche-firmen-entwickelten-coron
 title:      Wochenblick
 subtitle:   "Dubios: Deutsche Firmen entwickelten Corona-Impfstoff schon seit Januar"
 country:    AT
-categories: MSM
-tags:       [wochenblick, impfung]
+categories: [Impfung]
+tags:       [wochenblick, biontech]
 ---

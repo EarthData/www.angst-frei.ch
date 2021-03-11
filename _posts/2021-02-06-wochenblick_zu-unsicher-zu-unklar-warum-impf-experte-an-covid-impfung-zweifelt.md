@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/zu-unsicher-zu-unklar-warum-impf-experte-
 title:      Wochenblick
 subtitle:   "Zu unsicher, zu unklar: Warum Impf-Experte an Covid-Impfung zweifelt"
 country:    AT
-categories: [Medizin, Nebenwirkungen]
-tags:       [wochenblick, impfung]
+categories: [Medizin, Impfung, Studie]
+tags:       [wochenblick, impf-nebenwirkungen, immuntät]
 ---

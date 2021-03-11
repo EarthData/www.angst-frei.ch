@@ -5,6 +5,6 @@ title:      Wochenblick
 subtitle:   "So ein Zufall: Bill Gates investierte im Vorjahr in Impfstoff-Firma Biontech"
 country:    AT
 persons:    Gates Bill
-categories: MSM
-tags:       [wochenblick, impfung]
+categories: [Impfung]
+tags:       [wochenblick, biontech, geld]
 ---

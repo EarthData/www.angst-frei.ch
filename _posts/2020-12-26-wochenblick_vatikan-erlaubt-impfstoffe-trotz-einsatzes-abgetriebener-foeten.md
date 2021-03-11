@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/vatikan-erlaubt-impfstoffe-trotz-einsatze
 title:      Wochenblick
 subtitle:   "Vatikan erlaubt Impfstoffe trotz Einsatzes abgetriebener Föten"
 country:    AT
-categories: MSM
-tags:       [wochenblick, impfung]
+categories: [Impfung, Mensch]
+tags:       [wochenblick]
 ---

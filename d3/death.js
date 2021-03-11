@@ -451,5 +451,5 @@ const build = async (year) => {
   await graph(year);
 }
 
-build(2020);
+build(2021);
 

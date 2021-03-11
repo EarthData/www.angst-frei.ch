@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/hintergruende-der-corona-impfung-gesundhe
 title:      Wochenblick
 subtitle:   "Hintergründe der Corona-Impfung: Gesundheit oder Korruption?"
 country:    AT
-categories: MSM
-tags:       [wochenblick, impfung]
+categories: [Impfung, Recht]
+tags:       [wochenblick, impf-nebenwirkungen]
 ---

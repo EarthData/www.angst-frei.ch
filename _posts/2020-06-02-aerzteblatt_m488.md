@@ -3,8 +3,8 @@ layout:     post
 title:      Ärzteblatt
 subtitle:   "Effekte von COVID-19-Pandemie und Lockdown auf die Versorgung von Krankenhauspatienten"
 date:       2020-06-02
-timeline:   true
-categories: Wissenschaft
+timeline:   Medizin
+categories: [Medizin]
 tags:       [ärzteblatt, lockdown, pdf]
 link:       "/assets/files/health/m488.pdf"
 ---

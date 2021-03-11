@@ -5,6 +5,6 @@ title:      Wochenblick
 subtitle:   "Horror-Risiken: Nach Corona-Impfung bekämpft Körper eigene Zellen"
 country:    AT
 persons:    Bhakdi Sucharit
-categories: Wissenschaft
-tags:       [wochenblick, impfung]
+categories: [Medizin, Impfung]
+tags:       [wochenblick, impf-nebenwirkungen]
 ---
