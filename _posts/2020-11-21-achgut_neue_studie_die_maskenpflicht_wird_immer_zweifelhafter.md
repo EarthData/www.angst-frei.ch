@@ -4,6 +4,6 @@ redirect:   https://www.achgut.com/artikel/neue_studie_die_maskenpflicht_wird_im
 title:      Achgut.com
 subtitle:   "Die Maskenpflicht wird immer zweifelhafter"
 timeline:   false
-categories: Medien
+categories: [Studie]
 tags:       [achgut, maske]
 ---

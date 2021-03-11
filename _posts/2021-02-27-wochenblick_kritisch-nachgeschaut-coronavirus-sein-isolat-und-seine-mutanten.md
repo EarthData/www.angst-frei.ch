@@ -5,5 +5,5 @@ title:      Wochenblick
 subtitle:   "Kritisch nachgeschaut: Coronavirus, sein Isolat und seine Mutanten"
 country:    AT
 categories: [Wissenschaft]
-tags:       [wochenblick, mutation]
+tags:       [wochenblick, virus-mutation, virus-isolation]
 ---

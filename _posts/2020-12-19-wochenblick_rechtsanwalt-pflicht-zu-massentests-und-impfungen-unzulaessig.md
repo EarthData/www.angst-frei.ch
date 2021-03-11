@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/rechtsanwalt-pflicht-zu-massentests-und-i
 title:      Wochenblick
 subtitle:   "Rechtsanwalt: Pflicht zu Massentests und Massenimpfungen unzulässig!"
 country:    AT
-categories: MSM
-tags:       [wochenblick, massentest, impfung]
+categories: [Recht, Impfung]
+tags:       [wochenblick, massentest]
 ---

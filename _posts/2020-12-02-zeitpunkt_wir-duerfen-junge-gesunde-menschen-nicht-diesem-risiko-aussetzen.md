@@ -4,6 +4,6 @@ redirect:      https://www.zeitpunkt.ch/wir-duerfen-junge-gesunde-menschen-nicht
 title:         ZE!TPUNKT
 subtitle:      "«Wir dürfen junge, gesunde Menschen nicht diesem Risiko aussetzen!»"
 persons:       Wodarg Wolfgang
-categories:    Medien
-tags:          [zeitpunkt, impfung]
+categories:    [Impfung]
+tags:          [zeitpunkt, impf-nebenwirkungen]
 ---

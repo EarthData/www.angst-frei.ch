@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/da-koennte-man-auch-wuerfeln-krankenschwe
 title:      Wochenblick
 subtitle:   "„Da könnte man auch würfeln“: Krankenschwester rechnet mit Test & Impfung ab"
 country:    AT
-categories: [Medizin, Widerstand]
-tags:       [wochenblick, pcr-test, impfung, mutation]
+categories: [Medizin, Widerstand, Impfung]
+tags:       [wochenblick, pcr-test, virus-mutation]
 ---

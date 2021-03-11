@@ -4,6 +4,6 @@ redirect:      https://multipolar-magazin.de/artikel/paul-ehrlich-institut-neben
 title:         multipolar
 subtitle:      "Wurde vom Paul-Ehrlich-Institut eine gefährliche Nebenwirkung der Impfung ausgeblendet?"
 persons:       Wodarg Wolfgang
-categories:    [Nebenwirkungen]
-tags:          [multipolar, impfung, pei]
+categories:    [Impfung]
+tags:          [multipolar, impf-nebenwirkungen, pei]
 ---

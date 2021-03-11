@@ -4,6 +4,6 @@ redirect:   https://www.achgut.com/artikel/impfen_gegen_mutanten
 title:      Achgut.com
 subtitle:   "Impfen gegen Mutanten?"
 timeline:   false
-categories: [Wissenschaft]
-tags:       [achgut, impfung, mutation]
+categories: [Wissenschaft, Impfung]
+tags:       [achgut, virus-mutation]
 ---

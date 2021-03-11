@@ -4,6 +4,6 @@ redirect:   https://www.tichyseinblick.de/meinungen/corona-update-die-mutante-br
 title:      Tichys Einblick
 subtitle:   "Die Mutante überall ohne Einfluss – die ewige Drohung hat ausgedient"
 country:    DE
-categories: Medien
-tags:       [tichyseinblick, mutation]
+categories: [Zahlen, Politik]
+tags:       [tichyseinblick, virus-mutation]
 ---

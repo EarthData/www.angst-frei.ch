@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/kalifornien-stoppt-moderna-mrna-impfungen
 title:      Wochenblick
 subtitle:   "Allergische Reaktionen: Kalifornien stoppt Moderna-mRNA-Impfung"
 country:    AT
-categories: MSM
-tags:       [wochenblick, impfung, moderna]
+categories: [Impfung]
+tags:       [wochenblick, impf-nebenwirkungen, moderna]
 ---

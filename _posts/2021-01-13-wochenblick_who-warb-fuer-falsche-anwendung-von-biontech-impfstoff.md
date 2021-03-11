@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/who-warb-fuer-falsche-anwendung-von-biont
 title:      Wochenblick
 subtitle:   "WHO warb für falsche Anwendung von Biontech-Impfstoff"
 country:    AT
-categories: Wissenschaft
-tags:       [wochenblick, impfung, who, biontech]
+categories: [Impfung]
+tags:       [wochenblick, who, biontech]
 ---

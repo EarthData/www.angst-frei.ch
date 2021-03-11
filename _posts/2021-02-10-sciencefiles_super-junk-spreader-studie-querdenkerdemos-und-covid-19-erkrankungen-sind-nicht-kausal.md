@@ -4,5 +4,5 @@ redirect:      https://sciencefiles.org/2021/02/10/super-junk-spreader-studie-qu
 title:         ScienceFiles
 subtitle:      "Super-Junk-Spreader-Studie: Querdenkerdemos und COVID-19 Erkrankungen sind nicht kausal"
 categories:    [Studie]
-tags:          [sciencefiles, ansteckung]
+tags:          [sciencefiles, infektion]
 ---

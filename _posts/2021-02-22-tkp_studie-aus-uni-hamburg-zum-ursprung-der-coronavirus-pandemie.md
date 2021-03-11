@@ -4,6 +4,6 @@ redirect:      https://tkp.at/2021/02/22/studie-aus-uni-hamburg-zum-ursprung-der
 title:         tp - Science & Technology
 timeline:      false
 subtitle:      "Studie aus Uni Hamburg zum Ursprung der Coronavirus-Pandemie"
-categories:    [Studie, Virus Herkunft]
-tags:          [tkp]
+categories:    [Studie, Wissenschaft]
+tags:          [tkp, virus-ursprung]
 ---

@@ -12,3 +12,4 @@ Disallow: /blog/
 Disallow: /categories.html
 Disallow: /tags.html
 Disallow: /persons.html
+Disallow: /help.html

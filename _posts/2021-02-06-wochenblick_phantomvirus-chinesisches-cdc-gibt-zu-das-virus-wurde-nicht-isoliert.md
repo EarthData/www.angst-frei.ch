@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/phantomvirus-chinesisches-cdc-gibt-zu-das
 title:      Wochenblick
 subtitle:   "Wissenschaftler warnen: Corona-Studien beruhen auf Modellen, nicht Fakten"
 country:    AT
-categories: Wissenschaft
-tags:       [wochenblick, virusisolation]
+categories: [Wissenschaft]
+tags:       [wochenblick, virus-isolation]
 ---
