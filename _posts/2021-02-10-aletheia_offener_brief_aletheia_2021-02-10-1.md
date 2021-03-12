@@ -3,7 +3,7 @@ layout:     post
 title:      Aletheia
 subtitle:   "Offener Brief von Ärzten, Wissenschaft, Unternehmern und Angehörigen der Gesundheitsberufe der Schweiz."
 date:       2021-02-10
-timeline:   PDF
+timeline:   Widerstand
 categories: [Wissenschaft, Widerstand]
 tags:       [aletheia, pdf, bundesrat]
 link:       "/assets/files/health/offener_brief_aletheia_2021-02-10-1.pdf"
