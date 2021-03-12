@@ -5,6 +5,6 @@ title:         ARD
 subtitle:      "ARD extra: Die Corona-Lage"
 timeline:      true
 country:       DE
-categories:    Video
+categories:    [MSM, Video]
 tags:          [ard, welle2]
 ---
