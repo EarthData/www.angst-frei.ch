@@ -1,0 +1,37 @@
+article:
+  n-tv: last
+  rt: first
+  rnd: last
+  linth24: first
+  dieostschweiz: last
+  epochtimes: last
+  welt: previous
+  aerzteblatt: previous
+  berliner-zeitung: lastdot
+sitename:
+  achgut: Achgut.com
+  srf: SRF
+  tkp: tp - Science & Technology
+  dieostschweiz: Die Ostschweiz
+  welt: Die Welt
+  n-tv: ntv
+  epochtimes: Epoch Times
+  uncutnews: Uncut-News
+  insideparadeplatz: In$ide Paradeplatz
+  reitschuster: reitschuster
+tag:
+  tkp: tkp
+  rt: rt
+  corona-blog: corona-blog
+  welt: welt
+  aerzteblatt: ärzteblatt
+  2020news: 2020news
+  insideparadeplatz: inside-paradeplatz
+  tichyseinblick: tichyseinblick
+subtitle:
+  corona-blog: last
+  welt: last
+  corona-transition: last
+  uncutnews: last
+  insideparadeplatz: last
+  reitschuster: last

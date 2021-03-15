@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Ärzteblatt
+title:      Deutsches Ärzteblatt
 subtitle:   "Effekte von COVID-19-Pandemie und Lockdown auf die Versorgung von Krankenhauspatienten"
 date:       2020-06-02
 timeline:   Medizin

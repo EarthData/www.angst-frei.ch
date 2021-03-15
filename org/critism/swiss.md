@@ -101,6 +101,7 @@ Gruppe, um im Kanton ZH Aktionen gegen die Maskenpflicht zu organisieren. Z.B. g
 Das Mass ist voll. Holen wir unsere Freiheit zurück!
 
 | {{ site.icons.globe }}    | [www.mass-voll.ch](https://www.mass-voll.ch/) |
+| {{ site.icons.telegram }} | [MASS-VOLL!](https://t.me/massvoll) |
 
 ## REAKTION.ORG
 

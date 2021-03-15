@@ -48,6 +48,12 @@ Die KlagePATEN sind ein Verein mit jahrelanger Erfahrung in rechtlichen Auseinan
 | {{ site.icons.twitter }}  | [KlagePaten](https://twitter.com/KlagePaten) |
 | {{ site.icons.facebook }} | [KlagePATEN](https://www.facebook.com/KlagePATEN) |
 
+## Netzwerk Kritische Richter und Staatsanwälte (KRiStA)
+
+Das Netzwerk setzt sich kritisch mit den seit fast einem Jahr bestehenden Maßnahmen und Einschränkungen zur Bekämpfung der Corona-Pandemie auseinander.
+
+| {{ site.icons.globe }}    | [netzwerkkrista.de](https://netzwerkkrista.de/) |
+
 ## Petition für eine ARD-Sondersendung "Wie gefährlich ist Corona?"
 
 Petition für eine ARD-Sondersendung "Wie gefährlich ist Corona?" 
