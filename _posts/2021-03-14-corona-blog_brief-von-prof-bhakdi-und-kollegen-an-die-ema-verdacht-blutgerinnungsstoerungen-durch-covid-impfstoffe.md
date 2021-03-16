@@ -4,6 +4,7 @@ redirect:      https://corona-blog.net/2021/03/14/brief-von-prof-bhakdi-und-koll
 title:         corona-blog.net
 subtitle:      'Brief von Prof. Bhakdi und Kollegen an die EMA'
 country:       NET
-categories:    [Medizin, Widerstand, Impfung]
-tags:          [corona-blog, impf-nebenwirkungen]
+persons:       [Bhakdi Sucharit]
+categories:    [Medizin, Wissenschaft, Impfung, Widerstand]
+tags:          [corona-blog, ema, impf-nebenwirkungen, blutgerinnungsstörungen]
 ---

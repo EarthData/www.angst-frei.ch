@@ -4,5 +4,5 @@ redirect:      https://www.ndr.de/nachrichten/niedersachsen/Braunschweiger-Klini
 title:         NDR
 subtitle:      "Braunschweiger Klinik stoppt Impfung mit AstraZeneca-Mittel"
 categories:    [Impfung, MSM]
-tags:          [ndr, impf-nebenwirkungen, astrazeneca]
+tags:          [ndr, impf-nebenwirkungen, astrazeneca, impf-stopp]
 ---

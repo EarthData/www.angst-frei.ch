@@ -4,6 +4,6 @@ redirect:      https://www.wochenblick.at/statistisch-bewiesen-impfungen-lassen-
 title:         Wochenblick
 subtitle:      'Statistisch bewiesen: Impfungen lassen Sterblichkeit explodieren'
 country:       AT
-categories:    [Zahlen, Imfung]
+categories:    [Zahlen, Impfung]
 tags:          [wochenblick, sterblichkeit]
 ---

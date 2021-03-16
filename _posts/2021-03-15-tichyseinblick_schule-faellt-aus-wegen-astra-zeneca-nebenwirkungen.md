@@ -4,6 +4,6 @@ redirect:      https://www.tichyseinblick.de/daili-es-sentials/schule-faellt-aus
 title:         Tichys Einblick
 subtitle:      'Schule fällt aus wegen Astra-Zeneca-Nebenwirkungen'
 country:       DE
-categories:    [Impfung, Schule]
+categories:    [Impfung, Schulen]
 tags:          [tichyseinblick, impf-nebenwirkungen, astrazeneca]
 ---

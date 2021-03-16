@@ -5,5 +5,5 @@ title:      Wochenblick
 subtitle:   "Stopp bei Impfstoff-Verwendung: Nebenwirkungen und Unwirksamkeit"
 country:    AT
 categories: [Impfung]
-tags:       [wochenblick, mit oder an impfung gestorben, impf-nebenwirkungen]
+tags:       [wochenblick, mit oder an impfung gestorben, impf-nebenwirkungen, impf-stopp]
 ---

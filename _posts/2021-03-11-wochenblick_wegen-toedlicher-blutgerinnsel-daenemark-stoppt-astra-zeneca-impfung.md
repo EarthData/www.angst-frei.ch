@@ -5,5 +5,5 @@ title:      Wochenblick
 subtitle:   "Wegen tödlicher Blutgerinnsel: Dänemark stoppt Astra Zeneca-Impfung"
 country:    AT
 categories: [Impfung]
-tags:       [wochenblick, mit oder an impfung gestorben, astrazeneca, blutgerinnungsstörungen]
+tags:       [wochenblick, mit oder an impfung gestorben, astrazeneca, blutgerinnungsstörungen, impf-stopp]
 ---

@@ -29,6 +29,8 @@ class Scraper
       document = document.split('-').first
     elsif config['article'][domain] == "previous"
       document = url.split('/')[url.split('/').length - 2]
+    elsif config['article'][domain] == "page"
+      document = url.split('/').last.split("=")[1]
     end
 
     puts "filename: #{document}"
@@ -61,7 +63,9 @@ class Scraper
     end
 
     # date
-    if doc.at("meta[name='publish-date']")
+    if date
+      published_time = date
+    elsif doc.at("meta[name='publish-date']")
       published_time = doc.at("meta[name='publish-date']")['content'].to_s.strip
       puts "Date: #{published_time} (meta publish-date)"
     elsif doc.at("meta[name='date']")
@@ -70,8 +74,6 @@ class Scraper
     elsif doc.at("meta[property='article:published_time']")
       published_time = doc.at("meta[property='article:published_time']")['content'].to_s.strip
       puts "Date: #{published_time} (meta article:published_time)"
-    elsif date
-      published_time = date
     else 
       puts "no date found"
       exit 1
@@ -121,7 +123,7 @@ categories:    []
 tags:          [#{tag}]
 ---
 }
-    puts "Writing:\n#{content}"
+    puts "Writing: #{filename}.md\n#{content}"
     File.write("#{filename}.md", content)
 
     #  pdf

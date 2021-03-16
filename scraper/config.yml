@@ -1,0 +1,45 @@
+article:
+  aerzteblatt: previous
+  berliner-zeitung: lastdot
+  dieostschweiz: last
+  epochtimes: last
+  linth24: first
+  nachdenkseiten: page
+  n-tv: last
+  rnd: last
+  rt: first
+  welt: previous
+sitename:
+  achgut: Achgut.com
+  dieostschweiz: Die Ostschweiz
+  epochtimes: Epoch Times
+  infosperber: INFOsperber
+  insideparadeplatz: In$ide Paradeplatz
+  multipolar-magazin: multipolar
+  nachdenkseiten: NachDenkSeiten
+  n-tv: ntv
+  reitschuster: reitschuster
+  srf: SRF
+  swr: SWR
+  tkp: tp - Science & Technology
+  uncutnews: Uncut-News
+  welt: Die Welt
+  zueriost: züriost
+tag:
+  achgut: achgut
+  2020news: 2020news
+  aerzteblatt: ärzteblatt
+  corona-blog: corona-blog
+  insideparadeplatz: inside-paradeplatz
+  rt: rt
+  tichyseinblick: tichyseinblick
+  tkp: tkp
+  welt: welt
+subtitle:
+  corona-blog: last
+  corona-transition: last
+  insideparadeplatz: last
+  infosperber: last
+  reitschuster: last
+  uncutnews: last
+  welt: last
