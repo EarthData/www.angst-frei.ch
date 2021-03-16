@@ -1,4 +1,5 @@
 land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
+DE,2021-03-16,17:30:00,79098,Freiburg im Breisgau,Suwonallee 1 / Neues SC Stadion,Autokorso,,,
 DE,2021-03-16,18:00:00,90429,Nürnberg,Fürther Str. 77,Kundgebung,,,
 DE,2021-03-16,18:00:00,74906,Bad Rappenau,Rathausplatz,Kundgebung,,,
 DE,2021-03-16,18:30:00,73525,Schwäbisch Gmünd,Marktplatz,Kundgebung,,,
@@ -12,6 +13,7 @@ DE,2021-03-17,17:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine ste
 DE,2021-03-17,18:00:00,97070,Würzburg,Unterer Markt,Spaziergang,,Eltern stehen auf,
 DE,2021-03-17,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 DE,2021-03-17,18:00:00,09669,Frankenberg,Markt,Kundgebung,,,
+DE,2021-03-17,18:00:00,10557,Berlin,Bundeskanzleramt,Kundgebung,https://youtube.com/channel/UCQpCnHgX_g5_DmY3g7pKyYA,AfD,https://www.facebook.com/merkelmusswegmittwochmitfranzwiese/
 DE,2021-03-17,18:30:00,73525,Schwäbisch Gmünd,Marktplatz,Kundgebung,,,
 DE,2021-03-17,18:30:00,36433,Bad Salzungen,Nappenplatz,Spaziergang,,privat,
 DE,2021-03-17,19:00:00,09669,Frankenberg,Markt,Kundgebung,,,
@@ -29,14 +31,18 @@ DE,2021-03-19,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,Privat,https://gru
 DE,2021-03-19,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 DE,2021-03-19,19:00:00,34121,Kassel,Damaschkestr. / Parkpl. Süd,Autokorso,,,
 DE,2021-03-20,12:00:00,34117,Kassel,Auegelände,Demonstration,,Freie Bürger Kassel,
+AT,2021-03-20,14:00:00,1010,Wien,Maria-Theresien-Platz,Versammlung,,Unser Österreich,http://www.unseroesterreich.at
 DE,2021-03-20,14:00:00,94469,Deggendorf,Oberer Stadtplatz,Kundgebung,,Bewegung für Freiheit und Wandel + Selbst Denken 21,
 DE,2021-03-20,14:00:00,10117,Berlin,Brandenburger Tor,Kundgebung,,,
 DE,2021-03-20,14:30:00,91054,Erlangen,Schlossplatz,Kundgebung,,,
 DE,2021-03-20,15:00:00,38518,Gifhorn,Marktplatz Rathaus,Kundgebung,,Menschen aus Gifhorn und Umfeld,
+AT,2021-03-20,15:15:00,1010,Wien,Maria-Theresien-Platz,Versammlung,,Unser Österreich,http://www.unseroesterreich.at
 DE,2021-03-20,16:55:00,67663,Kaiserslautern,Stiftsplatz,Kundgebung,,Bürgerinitiative Hand in Hand,
 DE,2021-03-21,14:00:00,84489,Burghausen,Messeplatz,Kundgebung,,,
+DE,2021-03-21,14:00:00,63486,Bruchköbel/Roßdorf,Parkplatz Mehrzweckhalle,Spaziergang,,Bruchköbel steht auf,http://www.bruchkoebel-steht-auf.de
 DE,2021-03-21,15:30:00,82140,Olching (FFB),Toni-März-Str. / Volksfestplatz,Kundgebung,,Amperfeen,https://www.amperfee.de
 DE,2021-03-22,17:30:00,06406,Bernburg,Karlsplatz / Weltzeituhr,Spaziergang,,,
+DE,2021-03-22,18:00:00,92421,Schwandorf,Oberer Marktplatz,Mahnwache,,,
 DE,2021-03-22,18:00:00,06749,Bitterfeld,Marktplatz,Spaziergang,,,
 DE,2021-03-22,19:00:00,99510,Apolda,Stadtzentrum/ Bahnhofstraße,Spaziergang,,,
 DE,2021-03-24,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
@@ -47,6 +53,7 @@ DE,2021-03-27,11:00:00,59555,Lippstadt,Rathausplatz,Spaziergang,,Freiheitsboten_
 DE,2021-03-27,11:00:00,29221,Celle,Großer Plan,Kundgebung,,Privat,
 DE,2021-03-27,12:30:00,40764,Langenfeld,Langforter Str. / Freizeitpark P,Autokorso,,Bürgerinitiative L‘feld denkt anders,https://www.langenfeld-denkt-anders.de
 DE,2021-03-27,14:00:00,26122,Oldenburg,Schloßplatz,Schweigemarsch,,,https://www.der-schweigemarsch.de/
+DE,2021-03-27,14:30:00,76829,Landau in der Pfalz,Rathausplatz,Kundgebung,https://dlive.tv/Live-Reports-DUEW,Querdenken,querdenken-6341.de
 DE,2021-03-28,12:00:00,58095,Hagen,Springemarktplatz,Kundgebung,,Querdenken,
 DE,2021-03-29,17:30:00,06406,Bernburg,Karlsplatz / Weltzeituhr,Spaziergang,,,
 DE,2021-03-29,19:00:00,99510,Apolda,Stadtzentrum/ Bahnhofstraße,Spaziergang,,,
