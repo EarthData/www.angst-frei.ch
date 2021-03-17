@@ -3,6 +3,7 @@ article:
   berliner-zeitung: lastdot
   dieostschweiz: last
   epochtimes: last
+  nordkurier: last
   linth24: first
   nachdenkseiten: page
   n-tv: last
@@ -13,12 +14,16 @@ sitename:
   achgut: Achgut.com
   dieostschweiz: Die Ostschweiz
   epochtimes: Epoch Times
+  heise: Telepolis
   infosperber: INFOsperber
   insideparadeplatz: In$ide Paradeplatz
+  medinside: medinside.ch
   multipolar-magazin: multipolar
   nachdenkseiten: NachDenkSeiten
+  nordkurier: Nordkurier
   n-tv: ntv
   reitschuster: reitschuster
+  rubikon: Rubikon
   srf: SRF
   swr: SWR
   tkp: tp - Science & Technology
@@ -31,6 +36,7 @@ tag:
   aerzteblatt: ärzteblatt
   corona-blog: corona-blog
   insideparadeplatz: inside-paradeplatz
+  medinside: medinside
   rt: rt
   tichyseinblick: tichyseinblick
   tkp: tkp
@@ -40,6 +46,7 @@ subtitle:
   corona-transition: last
   insideparadeplatz: last
   infosperber: last
+  nordkurier: last
   reitschuster: last
   uncutnews: last
   welt: last

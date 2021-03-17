@@ -8,8 +8,35 @@ js:       ["/assets/js/faces.js"]
 
 <p><input type="text" class="quicksearch" placeholder="Suche" /></p>
 
+<!--
+  <div class="grid-item" data-filter="">
+    <a href="/assets/img/quotes/"><img src="/assets/img/quotes/" /></a>
+  </div>
+-->
+
 <div class="grid">
   <div class="grid-sizer"></div>
+  <div class="grid-item" data-filter="Mut">
+    <a href="/assets/img/quotes/2021-03-17 10.05.37.jpg"><img src="/assets/img/quotes/2021-03-17 10.05.37.jpg" /></a>
+  </div>
+  <div class="grid-item" data-filter="Verschwörungstheoretiker">
+    <a href="/assets/img/quotes/2021-03-17 10.00.37.jpg"><img src="/assets/img/quotes/2021-03-17 10.00.37.jpg" /></a>
+  </div>
+  <div class="grid-item" data-filter="Virus Mutation">
+    <a href="/assets/img/quotes/2021-03-17 09.57.47.jpg"><img src="/assets/img/quotes/2021-03-17 09.57.47.jpg" /></a>
+  </div>
+  <div class="grid-item" data-filter="Bildung">
+    <a href="/assets/img/quotes/2021-03-17 09.55.23.jpg"><img src="/assets/img/quotes/2021-03-17 09.55.23.jpg" /></a>
+  </div>
+  <div class="grid-item" data-filter="Massnahmen">
+    <a href="/assets/img/quotes/2021-03-17 09.52.12.jpg"><img src="/assets/img/quotes/2021-03-17 09.52.12.jpg" /></a>
+  </div>
+  <div class="grid-item" data-filter="Recht Freiheit">
+    <a href="/assets/img/quotes/2021-03-17 09.49.26.jpg"><img src="/assets/img/quotes/2021-03-17 09.49.26.jpg" /></a>
+  </div>
+  <div class="grid-item" data-filter="Hunder Solidarität">
+    <a href="/assets/img/quotes/2021-03-17 09.42.29.jpg"><img src="/assets/img/quotes/2021-03-17 09.42.29.jpg" /></a>
+  </div>
   <div class="grid-item" data-filter="PCR-Test Virus">
     <a href="/assets/img/quotes/pcr-test-mullis.jpg"><img src="/assets/img/quotes/pcr-test-mullis.jpg" /></a>
   </div>

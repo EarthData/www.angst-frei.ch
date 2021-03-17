@@ -1,0 +1,9 @@
+---
+date:          2021-03-15
+redirect:      https://www.heise.de/tp/features/Warum-massenhafte-Corona-Tests-von-Kindern-zweifelhaft-sind-5987880.html
+title:         Telepolis
+subtitle:      'Warum massenhafte Corona-Tests von Kindern zweifelhaft sind'
+country:       DE
+categories:    [Wissenschaft, Politik, Medizin]
+tags:          [telepolis, maske, kind]
+---

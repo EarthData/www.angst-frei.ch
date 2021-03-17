@@ -163,8 +163,12 @@ siehe [Politisches > Kind]({{site.baseurl}}/infos/swiss-politisches.html#kind)
 
 ### Campus Vivere
 
- * [www.campus-vivere.ch](www.campus-vivere.ch)
+ * [www.campus-vivere.ch](http://www.campus-vivere.ch)
 
+### Der LernOrt
+
+ * [www.derlernort.ch](https://www.derlernort.ch/)
+ 
 ### Links zum Thema Homschooling
 
  * [Homeschooling in der Schweiz](https://swisshomeschoolfamily.org/)
