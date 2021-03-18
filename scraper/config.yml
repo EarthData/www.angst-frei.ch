@@ -25,9 +25,11 @@ sitename:
   reitschuster: reitschuster
   rubikon: Rubikon
   srf: SRF
+  substack: substack.com
   swr: SWR
   tkp: tp - Science & Technology
   uncutnews: Uncut-News
+  unser-mitteleuropa: Unser Mitteleuropa
   welt: Die Welt
   zueriost: züriost
 tag:
@@ -38,6 +40,7 @@ tag:
   insideparadeplatz: inside-paradeplatz
   medinside: medinside
   rt: rt
+  substack: substack
   tichyseinblick: tichyseinblick
   tkp: tkp
   welt: welt
@@ -49,4 +52,6 @@ subtitle:
   nordkurier: last
   reitschuster: last
   uncutnews: last
+  unser-mitteleuropa: ignore-og
   welt: last
+  weltwoche-daily: last

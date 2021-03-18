@@ -8,7 +8,6 @@ require 'yaml'
 
 class Scraper
 
-  #url = "https://schweizerzeit.ch/absurde-corona-strafen/"
   def scrape_url(url, date) 
 
     config = YAML.load_file("config.yml")
@@ -88,8 +87,18 @@ class Scraper
     published_date = DateTime.parse(published_time)
     date  = published_date.strftime("%Y-%m-%d")
 
+    filename = date + "-" + domain + "_" + document
+
+    if(File.exist?("../_posts/#{filename}.md"))
+      puts "File #{filename}.md already exists in ../_posts"
+      exit 0
+    end
+
     # subtitle
-    if doc.at("meta[property='og:title']")
+    if doc.at("meta[property='og:title']") and config['subtitle'][domain] and config['subtitle'][domain] != "ignore-og"
+      subtitle = doc.at("meta[property='og:title']")['content'].to_s.strip
+      puts "Title: :#{subtitle}: (meta og:title)"
+    elsif doc.at("meta[property='og:title']")
       subtitle = doc.at("meta[property='og:title']")['content'].to_s.strip
       puts "Title: :#{subtitle}: (meta og:title)"
     elsif doc.xpath("/html/body//h1")
@@ -111,38 +120,42 @@ class Scraper
     #puts "Title: :" + title.strip_control_characters + ":"
     #puts "Title: :" + title.strip_control_and_extended_characters + ":"
 
-    filename = date + "-" + domain + "_" + document
-
-    content = %{---
-date:          #{date}
-redirect:      #{url}
-title:         #{site_name}
-subtitle:      '#{subtitle}'
-country:       #{tld}
-categories:    []
-tags:          [#{tag}]
----
-}
-    puts "Writing: #{filename}.md\n#{content}"
-    File.write("#{filename}.md", content)
-
-    #  pdf
-    #kit = PDFKit.new(url)
-    #kit.to_file("#{filename}.pdf")
-
-    # screeenshot
-    #screenshot = Gastly.screenshot(url)
-    #screenshot.browser_width = 1280 # Default: 1440px
-    #screenshot.browser_height = 780 # Default: 900px
-    #screenshot.timeout = 1000 # Default: 0 seconds
-    #screenshot.phantomjs_options = '--ignore-ssl-errors=true'
-    #image = screenshot.capture
-    #image.crop(width: 1280, height: 780, x: 0, y: 0) # Crop with an offset
-    ##image.resize(width: 1280, height: 780) # Creates a preview of the web page
-    #image.format('png')
-    #image.save("#{filename}.png")
+    site_data = Hash.new
+    site_data['date'] = date
+    site_data['redirect'] = url
+    site_data['title'] = site_name
+    site_data['subtitle'] = subtitle
+    site_data['country'] = tld
+    site_data['tag'] = tag
+    site_data['filename'] = filename
+ 
+    return site_data
 
   end
+end
+
+class Archive
+
+  def pdf(url, path, filename) 
+    #  pdf
+    kit = PDFKit.new(url)
+    kit.to_file("#{filename}.pdf")
+  end
+
+  def screenshot(url, path, filename)
+    # screeenshot
+    screenshot = Gastly.screenshot(url)
+    screenshot.browser_width = 1280 # Default: 1440px
+    screenshot.browser_height = 780 # Default: 900px
+    screenshot.timeout = 1000 # Default: 0 seconds
+    screenshot.phantomjs_options = '--ignore-ssl-errors=true'
+    image = screenshot.capture
+    image.crop(width: 1280, height: 780, x: 0, y: 0) # Crop with an offset
+    #image.resize(width: 1280, height: 780) # Creates a preview of the web page
+    image.format('png')
+    image.save("#{filename}.png")
+  end
+
 end
 
 class String
@@ -159,9 +172,35 @@ class String
   end
 end
 
+class Tools
+  def write_file(site_data)
+    content = %{---
+date:          #{site_data['date']}
+redirect:      #{site_data['redirect']}
+title:         #{site_data['title']}
+subtitle:      '#{site_data['subtitle']}'
+country:       #{site_data['country']}
+categories:    []
+tags:          [#{site_data['tag']}]
+---
+}
+
+    puts "Writing: #{site_data['filename']}.md\n#{content}"
+    File.write("#{site_data['filename']}.md", content)
+  end
+end
+
+if !ARGV[0]
+  puts "no url specified"
+  exit 0
+end
+
 url = ARGV[0]
 date = ARGV[1]
 
 puts "Scraping #{url} ..."
 scrape = Scraper.new
-scrape.scrape_url(url, date)
+tools = Tools.new
+site_data = scrape.scrape_url(url, date)
+tools.write_file(site_data)
+
