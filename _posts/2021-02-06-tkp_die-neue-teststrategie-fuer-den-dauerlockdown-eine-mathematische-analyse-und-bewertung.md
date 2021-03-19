@@ -4,6 +4,6 @@ redirect:      https://tkp.at/2021/02/06/die-neue-teststrategie-fuer-den-dauerlo
 title:         tp - Science & Technology
 timeline:      false
 subtitle:      "Die neue Teststrategie für den Dauerlockdown – eine mathematische Analyse und Bewertung"
-categories:    Zahlen
-tags:          [tkp, pcr-test, antigentest]
+categories:    [Zahlen]
+tags:          [tkp, pcr-test, massentest]
 ---

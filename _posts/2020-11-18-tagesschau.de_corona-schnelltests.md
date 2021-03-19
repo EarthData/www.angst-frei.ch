@@ -4,5 +4,5 @@ redirect:      https://www.tagesschau.de/investigativ/br-recherche/corona-schnel
 title:         tagesschau.de
 subtitle:      "Lückenhafte Qualitätskontrolle"
 categories:    MSM
-tags:          [tagesschau.de, antigentest]
+tags:          [tagesschau.de, massentest]
 ---

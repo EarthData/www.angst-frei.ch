@@ -80,10 +80,10 @@ rss-description: angst-frei News-Feed
 feed:
   categories:
     - MSM
-    - Medien
     - Wissenschaft
-    - Video
     - Politk
+    - Medizin
+    - Widerstand
   posts_limit: 20
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
@@ -124,7 +124,7 @@ icons:
   lbry:     '<span class="lbry icon" title="lbry"></span>'
   odysee:   '<span class="odysee icon" title="lbry"></span>'
 
-paginate: 10 
+paginate: 15 
 paginate_path: "/blog/page:num/"
 
 # Build settings

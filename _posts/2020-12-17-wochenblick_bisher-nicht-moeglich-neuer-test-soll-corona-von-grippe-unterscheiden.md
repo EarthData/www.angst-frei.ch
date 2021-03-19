@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/bisher-nicht-moeglich-neuer-test-soll-cor
 title:      Wochenblick
 subtitle:   "Bisher nicht möglich? Neuer Test soll Corona von Grippe unterscheiden"
 country:    AT
-categories: MSM
-tags:       [wochenblick, pcr-test, antigentest]
+categories: [Wissenschaft, Manipulation]
+tags:       [wochenblick, pcr-test, massentest]
 ---

@@ -2,7 +2,11 @@
 layout: page
 ---
 
-{% assign posts = paginator.posts | default: site.posts %}
+{%- assign pinned_posts = site.posts | where: "tags", "pinned" -%}
+{%- assign posts = paginator.posts | default: site.posts -%}
+{%- if paginator.page == 1 -%}
+  {%- assign posts = pinned_posts | concat: posts -%}
+{% endif %}
 
 <div class="posts-list">
   {% for post in posts %}

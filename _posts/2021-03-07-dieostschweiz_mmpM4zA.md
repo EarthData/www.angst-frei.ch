@@ -4,5 +4,5 @@ redirect:      https://www.dieostschweiz.ch/artikel/testen-als-alltagspflicht-in
 title:         Die Ostschweiz
 subtitle:      "Testen als Alltagspflicht: Inzwischen geht wirklich fast alles"
 categories:    [Mensch, Wirtschaft]
-tags:          [die ostschweiz, bundesrat, antigentest]
+tags:          [die ostschweiz, bundesrat, massentest]
 ---

@@ -4,6 +4,7 @@ redirect:      https://sciencefiles.org/2021/03/17/globale-gesundheitskatastroph
 title:         ScienceFiles
 subtitle:      'Globale Gesundheitskatastrophe durch Impfung? Wissenschaftler warnt eindringlich'
 country:       ORG
+persons:       [Vanden Bossche Geert]
 categories:    [Impfung, Wissenschaft]
 tags:          [sciencefiles, virus-mutation, immunität]
 ---

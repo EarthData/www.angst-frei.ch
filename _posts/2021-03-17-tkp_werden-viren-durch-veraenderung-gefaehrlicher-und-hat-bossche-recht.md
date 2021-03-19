@@ -4,6 +4,7 @@ redirect:      https://tkp.at/2021/03/17/werden-viren-durch-veraenderung-gefaehr
 title:         tp - Science & Technology
 subtitle:      'Werden Viren durch Veränderung gefährlicher und hat Bossche recht?'
 country:       AT
+persons:       [Vanden Bossche Geert]
 categories:    [Impfung, Wissenschaft]
 tags:          [tkp, virus-mutation, immunität]
 ---
