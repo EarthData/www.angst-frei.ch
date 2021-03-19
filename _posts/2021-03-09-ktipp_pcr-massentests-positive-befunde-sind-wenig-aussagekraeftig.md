@@ -5,5 +5,5 @@ title:         Ktipp
 subtitle:      'PCR-Massentests: Positive Befunde sind wenig aussagekräftig'
 country:       CH
 categories:    [Manipulation, Medizin]
-tags:          [ktipp, pcr-test, massentest, pinned]
+tags:          [ktipp, pcr-test, massentest, pinned, paywall]
 ---
