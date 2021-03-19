@@ -3,6 +3,7 @@ title:      angst-frei
 layout:     page
 cover-img:  /assets/img/hope.jpg
 head-extra: favicons.html
+share-description: 'Übersicht und Aggregation von kritischen Stimmen zum aktuellen Covid19-Geschehen'
 ---
 
 <form name="search" action="//duckduckgo.com/">
