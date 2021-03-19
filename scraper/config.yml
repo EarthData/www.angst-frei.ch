@@ -31,6 +31,7 @@ sitename:
   uncutnews: Uncut-News
   unser-mitteleuropa: Unser Mitteleuropa
   welt: Die Welt
+  weltwoche: Weltwoche
   zueriost: züriost
 tag:
   achgut: achgut
@@ -45,6 +46,7 @@ tag:
   tkp: tkp
   welt: welt
 subtitle:
+  2020news: last
   corona-blog: last
   corona-transition: last
   insideparadeplatz: last
