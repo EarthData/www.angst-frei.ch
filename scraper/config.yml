@@ -7,6 +7,7 @@ article:
   nordkurier: last
   linth24: first
   nachdenkseiten: page
+  ndr: lastcomma
   n-tv: last
   rnd: last
   rt: first
@@ -24,6 +25,7 @@ sitename:
   nachdenkseiten: NachDenkSeiten
   nordkurier: Nordkurier
   n-tv: ntv
+  ndr: NDR
   reitschuster: reitschuster
   rubikon: Rubikon
   srf: SRF
@@ -53,6 +55,7 @@ subtitle:
   corona-transition: last
   insideparadeplatz: last
   infosperber: last
+  medinside: ignore-og
   nordkurier: last
   reitschuster: last
   uncutnews: last

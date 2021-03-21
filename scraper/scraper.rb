@@ -26,6 +26,8 @@ class Scraper
       document = document.split('_').last
     elsif config['article'][domain] == "lastdot"
       document = url.split('.').last
+    elsif config['article'][domain] == "lastcomma"
+      document = url.split(',').last
     elsif config['article'][domain] == "first"
       document = document.split('-').first
     elsif config['article'][domain] == "previous"
