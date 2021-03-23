@@ -17,7 +17,9 @@ class Scraper
     tld = URI(url).hostname.split('.').last.upcase
     puts "TLD: #{tld}"
 
-    file = url.split('/').last
+    clean_url = url.split('?')[url.split('?').length - 2]
+
+    file = clean_url.split('/').last
     document = File.basename(file,File.extname(file))
 
     if config['article'][domain] == "last"
@@ -25,15 +27,15 @@ class Scraper
     elsif config['article'][domain] == "last_"
       document = document.split('_').last
     elsif config['article'][domain] == "lastdot"
-      document = url.split('.').last
+      document = clean_url.split('.').last
     elsif config['article'][domain] == "lastcomma"
-      document = url.split(',').last
+      document = document.split(',').last
     elsif config['article'][domain] == "first"
       document = document.split('-').first
     elsif config['article'][domain] == "previous"
-      document = url.split('/')[url.split('/').length - 2]
+      document = clean_url.split('/')[clean_url.split('/').length - 2]
     elsif config['article'][domain] == "page"
-      document = url.split('/').last.split("=")[1]
+      document = clean_url.split('/').last.split("=")[1]
     end
 
     puts "filename: #{document}"

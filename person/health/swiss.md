@@ -16,6 +16,7 @@ Kardiologe
 Dr. med. Marco Caimi
 
 | {{ site.icons.globe }}    | [caimi-health.ch](https://caimi-health.ch/) |
+| {{ site.icons.globe }}    | [marcocaimi.ch](https://marcocaimi.ch/) |
 | {{ site.icons.youtube }}  | [Caimi Report](https://www.youtube.com/channel/UCkdzEoq1f5bFbV-pkRwhYRw/) |
 
 ## Pietro Vernazza 

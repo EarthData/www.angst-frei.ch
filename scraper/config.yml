@@ -1,5 +1,6 @@
 article:
   aerzteblatt: previous
+  aerztezeitung: last
   berliner-zeitung: lastdot
   dieostschweiz: last
   epochtimes: last
@@ -9,11 +10,13 @@ article:
   nachdenkseiten: page
   ndr: lastcomma
   n-tv: last
+  nzz: lastdot
   rnd: last
   rt: first
   welt: previous
 sitename:
   achgut: Achgut.com
+  aerztezeitung: AerzteZeitung
   dieostschweiz: Die Ostschweiz
   epochtimes: Epoch Times
   heise: Telepolis
@@ -26,6 +29,7 @@ sitename:
   nordkurier: Nordkurier
   n-tv: ntv
   ndr: NDR
+  nzz: NZZ
   reitschuster: reitschuster
   rubikon: Rubikon
   srf: SRF

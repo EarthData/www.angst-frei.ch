@@ -133,6 +133,12 @@ Ein ehemaliger Mitarbeiter des Deutschen Bundestages mit der Funktion eines parl
 | {{ site.icons.globe }}    | [wie-soll-es-weitergehen.de](https://wie-soll-es-weitergehen.de/) |
 | {{ site.icons.telegram }} | [Wie soll es weitergehen? / Sebastian Friebel](https://t.me/Wiesollesweitergehen) |
 
+## Wir stehen zusammen
+
+Wir sind ein Zusammenschluss freier mittelständischer Unternehmer.
+
+| {{ site.icons.globe }}    | [wir-stehen-zusammen.com](https://wir-stehen-zusammen.com/) |
+
 ## Zeig mir Dein Lächeln!
 
 Wir möchten wieder Menschlichkeit und das Lächeln unserer Mitbürger sehen.

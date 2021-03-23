@@ -30,8 +30,20 @@ subtitle: Schweiz - Politisches
 
  * [Hände weg von unseren Kindern!](https://schuetzt-die-kinder.ch/)
 
-#### Archiv
+#### Aargau
+
+ * [Sofortige Aufhebung der Maskenpflicht an Aargauer Primarschulen!](https://www.openpetition.eu/ch/petition/online/sofortige-aufhebung-der-maskenpflicht-an-aargauer-primarschulen)
+
+#### Zürich
 
  * [Schluss mit dem Maskentragen für Schülerinnen und Schüler unter 12 Jahren!](https://www.kinder-maskenpetition.ch/)
+
+## Impfung
+
+### Petitionen
+
+#### Europa
+
+ * [Verhindert dem Corona Impfpass in der EU!](https://www.openpetition.eu/petition/online/verhindert-den-corona-impfpass-in-der-eu)
 
 {% include social-share.html %}
