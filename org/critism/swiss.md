@@ -42,6 +42,12 @@ In dieser Gruppe wollen Eltern und Lehrpersonen konstruktive Ideen austauschen, 
 | {{ site.icons.telegram }} | [Überblick aller Gruppen](https://t.me/infokanaleus/69) |
 | {{ site.icons.telegram }} | [Infokanal](https://t.me/infokanaleus) |
 
+## Eltern für Kinder
+
+Dem Wohl der Kinder verpflichtet.
+
+| {{ site.icons.globe }}    | [www.elternfuerkinder.ch](https://www.elternfuerkinder.ch/)
+
 ## FRIEDvolles Einstehen für unsere Grundrechte und Demokratie
 
 Wir gestalten ein GEMEINSAMES Vorgehen von kreativen und vor allem FRIEDvollen Aktionen und anderem, um unsere Antwort als Volk dem Bundesrat zu geben.

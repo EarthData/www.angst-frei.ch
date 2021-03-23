@@ -126,6 +126,11 @@ siehe [Politisches > Kind]({{site.baseurl}}/infos/swiss-politisches.html#kind)
  * [elternstehenauf.ch](https://www.elternstehenauf.ch/)
  * [elternstehenauf.de](https://elternstehenauf.de/)
 
+#### Eltern für Kinder
+
+ * [www.elternfuerkinder.ch](https://www.elternfuerkinder.ch/)
+ * [www.elternfuerkinder.ch - Maskenpflicht](https://www.elternfuerkinder.ch/aktuelles/maskenpflicht)
+
 #### Diverse
  * [Aktionsbündnis Aargau-Zürich - Was können wir tun?](https://www.aargau-zuerich.ch/unsere-anl%C3%A4sse)
  * [Medizinische und juristische Informationen zu Maskenpflicht und Befreiungsmöglichkeiten](https://www.mwgfd.de/zur-maskenpflicht/)
@@ -138,6 +143,10 @@ siehe [Politisches > Kind]({{site.baseurl}}/infos/swiss-politisches.html#kind)
 * [Umfrage und Erhebungen zur Maskenpflicht und Covid-19 Maßnahmen an Schulen sowie Zusammenstellung themen-spezifischer Studien, Publikationen und Medienberichte](https://elternstehenauf.de/wp-content/uploads/2021/02/20210219_Studien_und_Umfrage_Maskenpflicht_ElternStehenAuf_FINAL.pdf)
 
 ## Videos
+
+### Lockdown Kinderrechte
+
+{% include youtubePlayer.html id="CDDl1gTceoo" %}
 
 ### Experten klären auf - Generation 2020: Deutschlands Kinder in Not
 

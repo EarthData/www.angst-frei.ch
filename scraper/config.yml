@@ -13,6 +13,7 @@ article:
   nzz: lastdot
   rnd: last
   rt: first
+  tagesanzeiger: last
   welt: previous
 sitename:
   achgut: Achgut.com
@@ -22,6 +23,7 @@ sitename:
   heise: Telepolis
   infosperber: INFOsperber
   insideparadeplatz: In$ide Paradeplatz
+  kenfm: kenFM
   ktipp: Ktipp
   medinside: medinside.ch
   multipolar-magazin: multipolar
@@ -35,6 +37,7 @@ sitename:
   srf: SRF
   substack: substack.com
   swr: SWR
+  tagesanzeiger: Tagesanzeiger
   tkp: tp - Science & Technology
   uncutnews: Uncut-News
   unser-mitteleuropa: Unser Mitteleuropa
@@ -42,6 +45,7 @@ sitename:
   weltwoche: Weltwoche
   zueriost: züriost
 tag:
+  aargau-zuerich: aargau-zuerich
   achgut: achgut
   2020news: 2020news
   aerzteblatt: ärzteblatt
@@ -59,10 +63,14 @@ subtitle:
   corona-transition: last
   insideparadeplatz: last
   infosperber: last
+  kenfm: last
   medinside: ignore-og
   nordkurier: last
   reitschuster: last
   uncutnews: last
   unser-mitteleuropa: ignore-og
   welt: last
+  verfassungsfreunde: last
   weltwoche-daily: last
+cleanurl:
+  nachdenkseiten: false

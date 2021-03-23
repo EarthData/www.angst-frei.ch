@@ -14,11 +14,13 @@ subtitle: Schweiz - Politisches
 
 ### Referenden
 
-#### Archiv
+#### Schweiz
 
  * [COVID-19 Referendum](https://covid19-referendum.ch/)
 
 ### Petitionen
+
+#### Schweiz
 
  * [Immunität bei Coronaverbrechen sei aufzuheben ...](https://www.neue-volkspartei.ch/petition) (Neue Volkspartei)
  * [Petition zur Lockdown-Politik des Bundesrates](https://wirbestimmen.ch/index.php/de/petition-lockdown-de) (Wir bestimmen…)
@@ -41,6 +43,10 @@ subtitle: Schweiz - Politisches
 ## Impfung
 
 ### Petitionen
+
+#### Schweiz
+
+ * [Sofortige Offenlegung der Verträge mit dem Pharmakonzernen bezüglich Covid-19-Impfstoff-Kauf](https://act.campax.org/petitions/sofortige-offenlegung-der-vertrage-mit-den-pharmakonzernen-bezuglich-covid-19-impfstoff-kauf-1)
 
 #### Europa
 
