@@ -4,6 +4,6 @@ redirect:      https://www.wochenblick.at/chile-vom-impf-weltmeister-zum-corona-
 title:         Wochenblick
 subtitle:      'Chile: Vom "Impf-Weltmeister" zum Corona-Infektionsherd'
 country:       AT
-categories:    []
-tags:          [wochenblick]
+categories:    [Impfung, Zahlen]
+tags:          [wochenblick, immunität]
 ---

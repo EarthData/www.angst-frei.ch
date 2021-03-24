@@ -40,6 +40,10 @@ subtitle: Schweiz - Politisches
 
  * [Schluss mit dem Maskentragen für Schülerinnen und Schüler unter 12 Jahren!](https://www.kinder-maskenpetition.ch/)
 
+#### Europa
+
+ * [Abschaffung der Maskenpflicht am Platz in der Grundschule](https://www.petitionen.com/abschaffung_der_maskenpflicht_am_platz_in_der_grundschule)
+
 ## Impfung
 
 ### Petitionen
