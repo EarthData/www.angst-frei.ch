@@ -19,6 +19,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 1681,DE,2021-03-27,11:00:00,59555,Lippstadt,Rathausplatz,Spaziergang,,Freiheitsboten_Lippstatt,
 1940,DE,2021-03-27,11:00:00,29223,Celle,Schützenplatz,Spaziergang,,Celle steht auf,
 1709,DE,2021-03-27,11:00:00,29221,Celle,Großer Plan,Kundgebung,,Privat,
+2035,DE,2021-03-27,11:00:00,11011,Berlin,Reichstag,Livestream,https://youtube.com/channel/UCQpCnHgX_g5_DmY3g7pKyYA,Staatendoof und V-Mann Rüdiger Hoffmann,https://www.staatenlos.info
 1876,DE,2021-03-27,11:15:00,21079,Hamburg,Am Radeland,Autokorso,,Freiheitsfahrer Hamburg,
 1934,DE,2021-03-27,12:00:00,70173,Stuttgart,Schloßpark / Landtagsgebäude,Demonstration,,,
 2024,DE,2021-03-27,12:00:00,79115,Freiburg,Lörracher Str. / Basler Str.,Demonstration,,Wir beehren die Badische Zeitung,
@@ -80,7 +81,11 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 1843,DE,2021-03-29,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,,https://t.me/LichterspaziergangGT
 1883,DE,2021-03-29,18:00:00,06844,Dessau-Roßlau,Zerbster Str. 4 / Friedensglocke beim Rathaus,Spaziergang,,Privat,https://t.me/MontagsMahnwache
 2021,DE,2021-03-29,19:00:00,06526,Sangerhausen,Markt,Spaziergang,,,
+2043,DE,2021-03-29,19:00:00,99974,Mühlhausen,Postplatz,Spaziergang,,mit Kerzen,
 1714,DE,2021-03-29,19:00:00,99510,Apolda,Stadtzentrum/ Bahnhofstraße,Spaziergang,,,
+2034,DE,2021-03-30,08:00:00,83435,Bad Reichenhall,Landratsamt,Demonstration,,BGL steht auf,https://www.bglstehtauf.de/
+2042,DE,2021-03-30,18:00:00,74906,Bad Rappenau,Rathausplatz,Kundgebung,,unbekannt,
+2044,DE,2021-03-31,16:00:00,70184,Stuttgart,Dobelstr. / Hohenheimer Str,Kundgebung,,Privat,
 1720,DE,2021-03-31,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 1927,DE,2021-04-01,14:00:00,06571,Roßleben,Rathausplatz,Sonstiges,,,
 1816,DE,2021-04-01,18:00:00,85586,Poing,Bahnhof Nordseite,Kundgebung,,Corona Poing,https://t.me/CoronaPoing
