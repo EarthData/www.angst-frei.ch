@@ -76,6 +76,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2023,DE,2021-03-28,17:00:00,90402,Nürnberg,Jakobsplatz,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 2054,DE,2021-03-28,17:00:00,63820,Elsenfeld,Erlenbacher Str.8 / dm-Drogerie,Demonstration,,Wir stehen auf,https://t.me/wirstehenauf_MIL
 2052,DE,2021-03-29,17:00:00,24103,Kiel,Exerzierplatz,Versammlung,,Kieler Aktionsnetzwerk für Frieden  Freiheit und Demokratie,
+2058,DE,2021-03-29,17:00:00,24107,Kiel,Exerzier-Platz,Spaziergang,,Kieler Aktionsnetzwerks für Frieden Freiheit und Demokratie,http://t.me/frieden_freiheit_demokratie_kiel
 1939,DE,2021-03-29,17:00:00,06333,Hettstedt,Markt / Denkmal,Kundgebung,,,
 1690,DE,2021-03-29,17:30:00,06406,Bernburg,Karlsplatz / Weltzeituhr,Spaziergang,,,
 1929,DE,2021-03-29,18:00:00,92421,Schwandorf,Oberer Marktplatz,Kundgebung,,,
@@ -86,10 +87,15 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 1843,DE,2021-03-29,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,,https://t.me/LichterspaziergangGT
 1883,DE,2021-03-29,18:00:00,06844,Dessau-Roßlau,Zerbster Str. 4 / Friedensglocke beim Rathaus,Spaziergang,,Privat,https://t.me/MontagsMahnwache
 2046,DE,2021-03-29,18:00:00,14057,Berlin,Lietzenseepark,Spaziergang,,Freie Bürger Charlottenburg,https://t.me/abendlaeuten
+2060,DE,2021-03-29,18:30:00,97688,Bad Kissingen / Arnshausen,Fuhrmannstr. 2 / Lollbachhalle,Spaziergang,,unbekannt,
 2021,DE,2021-03-29,19:00:00,06526,Sangerhausen,Markt,Spaziergang,,,
 2043,DE,2021-03-29,19:00:00,99974,Mühlhausen,Postplatz,Spaziergang,,mit Kerzen,
 2050,DE,2021-03-29,19:00:00,87600,Kaufbeuren,Altes Rathaus,Spaziergang,,,
+2056,DE,2021-03-29,19:00:00,99867,Gotha,Schloßberg / Brunnen,Spaziergang,,unbekannt,
+2055,DE,2021-03-29,19:00:00,99084,Erfurt,Fischmarkt,Spaziergang,,Jeder für sich selbst!,
+2057,DE,2021-03-29,19:00:00,99947,Bad Langensalza,Rathausbrunnen,Spaziergang,,unbekannt,
 1714,DE,2021-03-29,19:00:00,99510,Apolda,Stadtzentrum/ Bahnhofstraße,Spaziergang,,,
+2059,DE,2021-03-29,19:15:00,37327,Leinefelde,Bahnhof / davor,Spaziergang,,unbekannt,
 2034,DE,2021-03-30,08:00:00,83435,Bad Reichenhall,Landratsamt,Demonstration,,BGL steht auf,https://www.bglstehtauf.de/
 2045,DE,2021-03-30,18:00:00,90429,Nürnberg,Fürther Str. 77,Kundgebung,,unbekannt,
 2042,DE,2021-03-30,18:00:00,74906,Bad Rappenau,Rathausplatz,Kundgebung,,unbekannt,
