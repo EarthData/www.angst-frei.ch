@@ -1,109 +1,109 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite,latitude,longitude,created
-1958,DE,2021-03-26,16:00:00,64287,Darmstadt,Landgraf-Georg-Str. 128,Schilderwald,,,,49.87432115,8.669104595399023,2021-03-26 11:20:25
-1851,DE,2021-03-26,16:00:00,64625,Bensheim,Platanenallee / Parkhaus,Schilderwald,,Privat,,49.68104475,8.624044685817308,2021-03-26 11:20:25
-1887,DE,2021-03-26,17:00:00,97070,Würzburg,Unterer Markt,Spaziergang,,Eltern stehen auf,,49.7943933,9.9299827,2021-03-26 11:20:25
-2018,DE,2021-03-26,17:00:00,80331,München,Marienplatz / Ausweich Stachus,Kundgebung,,Open Mic München,,48.1371079,11.5753822,2021-03-26 11:20:25
-1838,DE,2021-03-26,17:30:00,2943,Weisswasser,Marktplatz,Aufzug,,AfD,,51.5047226,14.6460953,2021-03-26 11:20:25
-2016,DE,2021-03-26,17:30:00,78713,Schramberg,Parkplatz am Schloss im Tal,Menschenkette,,Friede und Freiheit,https://t.me/friede_und_freiheit/4594,48.225478,8.3852168,2021-03-26 11:20:25
-2017,DE,2021-03-26,17:30:00,9648,Mittweida,Markt,Kundgebung,,,,50.9851911,12.9809137,2021-03-26 11:20:25
-1758,DE,2021-03-26,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,Privat,https://grundrechte.jetzt,49.0095065,8.4055133,2021-03-26 11:20:25
-1917,DE,2021-03-26,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2021-03-26 11:20:25
-2015,DE,2021-03-26,18:00:00,34454,Bad Arolsen,Kirchplatz,Aufzug,,,,51.3800356,9.0154911,2021-03-26 11:20:25
-1645,DE,2021-03-26,18:30:00,91126,Schwabach,Martin Luther Platz,Kundgebung,,WIR für die Freiheit Schwabach/Roth/Georgensgmünd,,49.32892985,11.022033074658076,2021-03-26 11:20:25
-1955,DE,2021-03-26,18:30:00,33602,Bielefeld,Rathaus,Spaziergang,,Mahnwache BI steht auf,,52.0205741,8.5346015,2021-03-26 11:20:25
-1874,DE,2021-03-26,19:00:00,26506,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,,,,53.5942039,7.2067435,2021-03-26 11:20:25
-1951,DE,2021-03-27,10:00:00,1968,Senftenberg,Grubenstr. in Brieske,Autokorso,,,,,,2021-03-26 11:20:25
-1875,DE,2021-03-27,10:30:00,79271,St. Peter,Zähringer Eck / Rossweiher,Versammlung,,Schwarzwald Netzwerk,https://schwarzwald-netzwerk.de/,48.01786,8.0358335,2021-03-26 11:20:25
-1984,DE,2021-03-27,10:45:00,59494,Soest,Georg Pläne Platz Soest,Autokorso,,,,51.5725501,8.1061259,2021-03-26 11:20:25
-1910,DE,2021-03-27,11:00:00,45655,Recklinghausen,Rathausplatz,Schweigemarsch,,Nachbarn stehen auf - Gelsenkirchen / Recklinghausen denkt anders,,51.611683400000004,7.199596011634441,2021-03-26 11:20:25
-1681,DE,2021-03-27,11:00:00,59555,Lippstadt,Rathausplatz,Spaziergang,,Freiheitsboten_Lippstatt,,51.6758927,8.346504730601659,2021-03-26 11:20:25
-1940,DE,2021-03-27,11:00:00,29223,Celle,Schützenplatz,Spaziergang,,Celle steht auf,,52.62702925,10.073610334545315,2021-03-26 11:20:25
-1709,DE,2021-03-27,11:00:00,29221,Celle,Großer Plan,Kundgebung,,Privat,,52.62254355,10.080800033509767,2021-03-26 11:20:25
-1876,DE,2021-03-27,11:15:00,21079,Hamburg,Am Radeland,Autokorso,,Freiheitsfahrer Hamburg,,53.4705047,9.9620567,2021-03-26 11:20:25
-1934,DE,2021-03-27,12:00:00,70173,Stuttgart,Schloßpark / Landtagsgebäude,Demonstration,,,,48.7784485,9.1800132,2021-03-26 11:20:25
-2024,DE,2021-03-27,12:00:00,79115,Freiburg,Lörracher Str. / Basler Str.,Demonstration,,Wir beehren die Badische Zeitung,,47.9960901,7.8494005,2021-03-26 11:20:25
-1743,DE,2021-03-27,12:30:00,40764,Langenfeld,Langforter Str. / Freizeitpark P,Autokorso,,Bürgerinitiative L‘feld denkt anders,https://www.langenfeld-denkt-anders.de,51.1008952,6.9459377,2021-03-26 11:20:25
-1943,DE,2021-03-27,13:00:00,50667,Köln,Kölner Dom,Kundgebung,,,,50.941303500000004,6.958137997831819,2021-03-26 11:20:25
-1905,DE,2021-03-27,13:00:00,79215,Elzach,Nikolausplatz,Mahnwache,,Initiative Elzach,https://initiative-elzach.de,48.1740027,8.070864,2021-03-26 11:20:25
-1931,AT,2021-03-27,14:00:00,1010,Wien,Maria-Theresien-Platz,Versammlung,,Unser Österreich,http://www.unseroesterreich.at,48.2045084,16.361976404844206,2021-03-26 11:20:25
-1954,DE,2021-03-27,14:00:00,64385,Reichelsheim,B 38 Ortseingang Aldi,Versammlung,,,,49.7132438,8.8408466,2021-03-26 11:20:25
-1753,DE,2021-03-27,14:00:00,26122,Oldenburg,Schloßplatz,Schweigemarsch,,,https://www.der-schweigemarsch.de/,53.1378392,8.2148688,2021-03-26 11:20:25
-1957,DE,2021-03-27,14:00:00,80336,München,Theresienwiese / Osteinfahrt,Autokorso,,Aufstellen ab 13 Uhr,https://t.me/AutoKorsoMuc,48.1371079,11.5753822,2021-03-26 11:20:25
-1952,DE,2021-03-27,14:00:00,36037,Fulda,Universitätsplatz,Kundgebung,,,,50.5520499,9.678984191923437,2021-03-26 11:20:25
-1822,DE,2021-03-27,14:15:00,93047,Regensburg,Haidplatz,Demonstration,,Aufruf zum Denken - Gegen die Maskenpflicht,,49.019714,12.092841621101861,2021-03-26 11:20:25
-1774,DE,2021-03-27,14:30:00,76829,Landau in der Pfalz,Rathausplatz,Kundgebung,https://dlive.tv/Live-Reports-DUEW,Querdenken,https://querdenken-6341.de,49.19837455,8.112366169334578,2021-03-26 11:20:25
-1889,DE,2021-03-27,15:00:00,69469,Weinheim,Schlosspark,Musik,,Lebensfreunde / Künstler,,49.5452061,8.669590693112754,2021-03-26 11:20:25
-1906,DE,2021-03-27,15:00:00,50679,Köln,Rudolfplatz,Demonstration,,Köln ist Aktiv,https://koelnistaktiv.de,50.9362419,6.9406316,2021-03-26 11:20:25
-1933,DE,2021-03-27,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Kundgebung,,,,51.219092200000006,6.767028235140621,2021-03-26 11:20:25
-1942,DE,2021-03-27,15:00:00,44787,Bochum,Dr.-Ruer-Platz,Demonstration,,Querdenken 234 - Bochum,https://querdenken-234.de,51.4806562,7.2187339,2021-03-26 11:20:25
-1914,DE,2021-03-27,15:00:00,96052,Bamberg,Maxplatz,Kundgebung,,StayAwake Bamberg,https://www.stayawakebamberg.de,49.8945086,10.8901062,2021-03-26 11:20:25
-1965,DE,2021-03-27,15:00:00,52070,Aachen,Tivoli,Demonstration,,Euregio steht auf,,50.793098549999996,6.098239093394145,2021-03-26 11:20:25
-1920,DE,2021-03-27,15:30:00,29525,Uelzen,Herzogenplatz,Kundgebung,,,,52.9630205,10.559275888894947,2021-03-26 11:20:25
-1980,DE,2021-03-27,15:30:00,21073,Hamburg-Harburg,Museumsplatz 1 / am Brunnen,Meditation,,,,53.45780547968867,9.972960438543872,2021-03-26 11:20:25
-1897,DE,2021-03-27,15:30:00,45127,Essen,Willy-Brandt-Platz,Kundgebung,,Für den Erhalt der Freiheit,https://t.me/joinchat/Gr4v4tPxmF174Ikj,51.4528385,7.0126846,2021-03-26 11:20:25
-1907,DE,2021-03-27,16:00:00,50679,Köln,Rudolfplatz,Spaziergang,,Köln ist aktiv,https://koelnistaktiv.de,50.9362419,6.9406316,2021-03-26 11:20:25
-1805,DE,2021-03-27,17:00:00,84036,Landshut,Grieserwiese / [Aufstellung 16h],Autokorso,,Autokorso Landshut,https://www.freiheitsfahrer.de/,48.536217,12.1516551,2021-03-26 11:20:25
-1884,DE,2021-03-27,17:00:00,6846,Dessau-Roßlau,Alte Landebahn,Autokorso,,Privat,https://t.me/autokorso_dessau,,,2021-03-26 11:20:25
-1948,DE,2021-03-27,18:00:00,72764,Reutlingen,Marktplatz,Kundgebung,,Freiheitsboten Reutlingen,,48.4918381,9.211474932546949,2021-03-26 11:20:25
-1949,DE,2021-03-27,18:30:00,72764,Reutlingen,Marktplatz,Aufzug,,Freiheitsboten Reutlingen,,48.4918381,9.211474932546949,2021-03-26 11:20:25
-1935,DE,2021-03-27,19:00:00,70173,Stuttgart,Schloßplatz / vor der Comm.Bank,Kundgebung,,,,48.7784485,9.1800132,2021-03-26 11:20:25
-1918,DE,2021-03-28,08:00:00,2826,Görlitz,Gewerbering 8a / Car-Pro,Autokorso,,,,,,2021-03-26 11:20:25
-1919,DE,2021-03-28,09:00:00,2625,Bautzen,Schützenplatz / BZ,Autokorso,,,,51.1847391,14.42591276225738,2021-03-26 11:20:25
-1880,DE,2021-03-28,10:45:00,75015,Bretten,Marktplatz,Meditation,,,,49.0372069,8.7069939,2021-03-26 11:20:25
-1964,DE,2021-03-28,11:00:00,73525,Schwäbisch Gmünd,Marktplatz,Musik,,Horn For Hope,,48.7993555,9.7985533,2021-03-26 11:20:25
-1760,DE,2021-03-28,12:00:00,58095,Hagen,Springemarktplatz,Kundgebung,,Querdenken,,51.3547355,7.4790464,2021-03-26 11:20:25
-1867,DE,2021-03-28,12:00:00,13347,Berlin,Nettelbeckplatz,Aufzug,,AfA / Freedomparade / QD30 / Freie Linke / Straßenauklärung Treptow / Demokratischer Widerstand,,52.5444146,13.3689742,2021-03-26 11:20:25
-1941,DE,2021-03-28,13:00:00,86159,Augsburg,Messe / Parkplatz,Autokorso,,ab 12:30 Uhr Aufstellung und Schmücken,https://t.me/AUTOKORSO_AUGSBURG,48.3423494,10.8940545,2021-03-26 11:20:25
-1924,DE,2021-03-28,13:30:00,64289,Darmstadt,Karolinenplatz,Kundgebung,,,,49.875140650000006,8.654506220010354,2021-03-26 11:20:25
-2033,DE,2021-03-28,13:30:00,64285,Darmstadt,Böllenfalltor,Kundgebung,,,,49.852540399999995,8.669752328382822,2021-03-26 11:20:25
-1950,DE,2021-03-28,14:00:00,54290,Trier,Viehmarkt,Spaziergang,,,,49.7522937,6.6361472,2021-03-26 11:20:25
-1804,DE,2021-03-28,14:00:00,94032,Passau,Klostergarten,Kundgebung,,Bayern steht zusammen e.V.,https://www.bayern-steht-zusammen.de/TERMINE/,48.5710015,13.4559417,2021-03-26 11:20:25
-1983,DE,2021-03-28,14:00:00,94034,Passau,Klostergarten,Kundgebung,,,,48.52118205,13.32044741196492,2021-03-26 11:20:25
-1923,DE,2021-03-28,14:00:00,84453,Mühldorf,Stadtplatz,Kundgebung,,,,48.2430195,12.5223662,2021-03-26 11:20:25
-1834,DE,2021-03-28,14:00:00,63454,Hanau / Kesselstadt,Kurt-Schumacher-Platz,Spaziergang,,Hanau steht auf,https://www.hanau-steht-auf.de,50.1311592,8.88556563606112,2021-03-26 11:20:25
-1985,DE,2021-03-28,14:00:00,58097,Hagen,Am Sportpark 34,Autokorso,,Freiheitsfahrer,,51.3692972,7.475939156140349,2021-03-26 11:20:25
-1845,AT,2021-03-28,14:00:00,6800,Feldkirch,Leonhardsplatz / Montforthaus,Kundgebung,,,https://corona-demo.at/,47.2375671,9.5981724,2021-03-26 11:20:25
-1930,AT,2021-03-28,14:00:00,6800,Feldkirch,Montfortplatz / Montforthaus,Kundgebung,,,http://corona-demo.at/,47.2375671,9.5981724,2021-03-26 11:20:25
-1946,DE,2021-03-28,14:00:00,84307,Eggenfelden,Rathausplatz,Kundgebung,,SelbstDenken21,https://dlive.tv/SelbstDenken21,48.4017572,12.7615271,2021-03-26 11:20:25
-1865,DE,2021-03-28,14:00:00,95050,Bamberg,Fuchsparkstadion,Autokorso,,,,49.9004513,10.928798994841777,2021-03-26 11:20:25
-1959,DE,2021-03-28,15:00:00,48341,Münster,Schloßplatz / Parkplatz,Autokorso,,,,51.9879459,7.5858155,2021-03-26 11:20:25
-2012,DE,2021-03-28,15:00:00,48143,Münster,Schlossplatz,Autokorso,,,,51.9632608,7.617905,2021-03-26 11:20:25
-2013,DE,2021-03-28,15:30:00,82140,Olching (FFB),Toni-März-Str. / Volksfestplatz,Kundgebung,,Amperfeen,https://www.amperfee.de,48.208217700000006,11.350507609978315,2021-03-26 11:20:25
-1938,DE,2021-03-28,16:00:00,63897,Miltenberg,Jahnstr. / Busparkplatz,Aufzug,,Freiheitsboten Miltenberg,https://t.me/s/infomiltenberg,49.7017584,9.2559718,2021-03-26 11:20:25
-2023,DE,2021-03-28,17:00:00,90402,Nürnberg,Jakobsplatz,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4495647,11.0704212,2021-03-26 11:20:25
-1939,DE,2021-03-29,17:00:00,6333,Hettstedt,Markt / Denkmal,Kundgebung,,,,,,2021-03-26 11:20:25
-1690,DE,2021-03-29,17:30:00,6406,Bernburg,Karlsplatz / Weltzeituhr,Spaziergang,,,,,,2021-03-26 11:20:25
-1929,DE,2021-03-29,18:00:00,92421,Schwandorf,Oberer Marktplatz,Kundgebung,,,,49.3296022,12.1072358,2021-03-26 11:20:25
-2025,DE,2021-03-29,18:00:00,49074,Osnabrück,Rathaus,Demonstration,,,,52.27739939999999,8.041210268889596,2021-03-26 11:20:25
-1900,DE,2021-03-29,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,,49.9891871,8.6648133,2021-03-26 11:20:25
-1979,DE,2021-03-29,18:00:00,89150,Laichingen,Marktplatz,Kundgebung,,,,48.4896556,9.6858759,2021-03-26 11:20:25
-1843,DE,2021-03-29,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,,https://t.me/LichterspaziergangGT,51.9063703,8.378309599962563,2021-03-26 11:20:25
-1883,DE,2021-03-29,18:00:00,6844,Dessau-Roßlau,Zerbster Str. 4 / Friedensglocke beim Rathaus,Spaziergang,,Privat,https://t.me/MontagsMahnwache,,,2021-03-26 11:20:25
-2021,DE,2021-03-29,19:00:00,6526,Sangerhausen,Markt,Spaziergang,,,,51.4726364,11.2972312,2021-03-26 11:20:25
-1714,DE,2021-03-29,19:00:00,99510,Apolda,Stadtzentrum/ Bahnhofstraße,Spaziergang,,,,51.0227878,11.5129742,2021-03-26 11:20:25
-1720,DE,2021-03-31,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de,50.1329988,8.9180211,2021-03-26 11:20:25
-1927,DE,2021-04-01,14:00:00,6571,Roßleben,Rathausplatz,Sonstiges,,,,51.2647053,11.414213622481741,2021-03-26 11:20:25
-1816,DE,2021-04-01,18:00:00,85586,Poing,Bahnhof Nordseite,Kundgebung,,Corona Poing,https://t.me/CoronaPoing,48.1667467,11.803713,2021-03-26 11:20:25
-1827,DE,2021-04-03,13:00:00,17109,Demmin,Am Bollwerk / Hanseufer,Autokorso,,,,53.9070019,13.0327836,2021-03-26 11:20:25
-1953,DE,2021-04-03,14:00:00,94315,Straubing,Am Hagen,Kundgebung,,,,48.8847235,12.5694895,2021-03-26 11:20:25
-1956,DE,2021-04-03,14:00:00,94315,Straubing,Hagen,Kundgebung,,,,48.8847235,12.5694895,2021-03-26 11:20:25
-1981,DE,2021-04-04,12:00:00,24211,Rastorf,Rastorfer Kreuz / Biker Treff,Bikerdemo,,Biker stehen auf,,54.2716534,10.2896173,2021-03-26 11:20:25
-1870,DE,2021-04-04,14:00:00,69231,Rauenberg,Rathausplatz,Kundgebung,,Grundgesetz Guerilla,https://www.facebook.com/GrundgesetzGuerilla,49.2581739,8.7155494,2021-03-26 11:20:25
-1945,DE,2021-04-04,15:00:00,74936,Siegelsbach,Petersäcker 5,Versammlung,,,,49.27237825,9.0914757,2021-03-26 11:20:25
-2028,DE,2021-04-04,15:00:00,74936,Siegelsbach,Petersäcker 5,Versammlung,,,,49.27237825,9.0914757,2021-03-26 11:20:25
-2014,DE,2021-04-04,15:30:00,82140,Olching (FFB),Toni-März-Str. / Volksfestplatz,Kundgebung,,Amperfeen,https://www.amperfee.de,48.208217700000006,11.350507609978315,2021-03-26 11:20:25
-1901,DE,2021-04-05,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,,49.9891871,8.6648133,2021-03-26 11:20:25
-1928,DE,2021-04-05,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,Privat (zuletzt  z.B. am 22.3.21 /  180 Teilnehmer),https://t.me/LichterspaziergangGT,51.9063703,8.378309599962563,2021-03-26 11:20:25
-1806,DE,2021-04-10,17:00:00,84036,Landshut,Grieserwiese / [Aufstellung 16h],Autokorso,,Autokorso Landshut,https://www.freiheitsfahrer.de/,48.536217,12.1516551,2021-03-26 11:20:25
-1871,DE,2021-04-11,14:00:00,69231,Rauenberg,Rathausplatz,Kundgebung,,Grundgesetz Guerilla,https://www.facebook.com/GrundgesetzGuerilla,49.2581739,8.7155494,2021-03-26 11:20:25
-2022,DE,2021-04-12,17:00:00,80331,München,Marienplatz,Musik,,Magic Monday MediTANZion - Meditation  Musik und Tanz für unsere Freiheit,http://www.mbsr-muenchen.net,48.13736145,11.574172059316222,2021-03-26 11:20:25
-1902,DE,2021-04-12,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,,49.9891871,8.6648133,2021-03-26 11:20:25
-1903,DE,2021-04-19,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,,49.9891871,8.6648133,2021-03-26 11:20:25
-1968,DE,2021-04-24,14:00:00,52064,Aachen,Eurogress Monheimsallee 48,Kundgebung,,Querdenken 241,,50.776351,6.083862,2021-03-26 11:20:25
-1807,DE,2021-04-24,17:00:00,84036,Landshut,Grieserwiese / [Aufstellung 16h],Autokorso,,Autokorso Landshut,https://www.freiheitsfahrer.de/,48.536217,12.1516551,2021-03-26 11:20:25
-1904,DE,2021-04-26,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,,49.9891871,8.6648133,2021-03-26 11:20:25
-2026,DE,2021-05-01,14:00:00,80336,München,Theresienwiese,Aufzug,,Markus Haintz,https://t.me/Haintz,48.135672,11.5522316,2021-03-26 11:20:25
-2027,DE,2021-05-01,17:00:00,80336,München,Theresienwiese,Kundgebung,,Markus Haintz,https://t.me/Haintz,48.135672,11.5522316,2021-03-26 11:20:25
-1960,DE,2021-11-05,18:00:00,10117,Berlin,Pariser Platz / Brandenburger Tor,MillionMaskMarch,https://anonymous.support/live,Anonymous,https://anonymous.support,52.5170365,13.3888599,2021-03-26 11:20:25
-1963,DE,2021-12-24,12:00:00,10178,Berlin,Weltzeituhr / Alexanderplatz,OpSafeWinter,https://anonymous.support/live,Anonymous,https://anonymous.support,52.5170365,13.3888599,2021-03-26 11:20:25
-1617,DE,2021-12-31,23:59:00,10117,Berlin,Brandenburger Tor,Event,,,,52.51628045,13.377701882994323,2021-03-26 11:20:25
+1958,DE,2021-03-26,16:00:00,64287,Darmstadt,Landgraf-Georg-Str. 128,Schilderwald,,,,49.87432115,8.669104595399023,2021-03-26 12:20:24
+1851,DE,2021-03-26,16:00:00,64625,Bensheim,Platanenallee / Parkhaus,Schilderwald,,Privat,,49.68104475,8.624044685817308,2021-03-26 12:20:24
+1887,DE,2021-03-26,17:00:00,97070,Würzburg,Unterer Markt,Spaziergang,,Eltern stehen auf,,49.7943933,9.9299827,2021-03-26 12:20:24
+2018,DE,2021-03-26,17:00:00,80331,München,Marienplatz / Ausweich Stachus,Kundgebung,,Open Mic München,,48.1371079,11.5753822,2021-03-26 12:20:24
+1838,DE,2021-03-26,17:30:00,2943,Weisswasser,Marktplatz,Aufzug,,AfD,,51.5047226,14.6460953,2021-03-26 12:20:24
+2016,DE,2021-03-26,17:30:00,78713,Schramberg,Parkplatz am Schloss im Tal,Menschenkette,,Friede und Freiheit,https://t.me/friede_und_freiheit/4594,48.225478,8.3852168,2021-03-26 12:20:24
+2017,DE,2021-03-26,17:30:00,9648,Mittweida,Markt,Kundgebung,,,,50.9851911,12.9809137,2021-03-26 12:20:24
+1758,DE,2021-03-26,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,Privat,https://grundrechte.jetzt,49.0095065,8.4055133,2021-03-26 12:20:24
+1917,DE,2021-03-26,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2021-03-26 12:20:24
+2015,DE,2021-03-26,18:00:00,34454,Bad Arolsen,Kirchplatz,Aufzug,,,,51.3800356,9.0154911,2021-03-26 12:20:24
+1645,DE,2021-03-26,18:30:00,91126,Schwabach,Martin Luther Platz,Kundgebung,,WIR für die Freiheit Schwabach/Roth/Georgensgmünd,,49.32892985,11.022033074658076,2021-03-26 12:20:24
+1955,DE,2021-03-26,18:30:00,33602,Bielefeld,Rathaus,Spaziergang,,Mahnwache BI steht auf,,52.0205741,8.5346015,2021-03-26 12:20:24
+1874,DE,2021-03-26,19:00:00,26506,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,,,,53.5942039,7.2067435,2021-03-26 12:20:24
+1951,DE,2021-03-27,10:00:00,1968,Senftenberg,Grubenstr. in Brieske,Autokorso,,,,,,2021-03-26 12:20:24
+1875,DE,2021-03-27,10:30:00,79271,St. Peter,Zähringer Eck / Rossweiher,Versammlung,,Schwarzwald Netzwerk,https://schwarzwald-netzwerk.de/,48.01786,8.0358335,2021-03-26 12:20:24
+1984,DE,2021-03-27,10:45:00,59494,Soest,Georg Pläne Platz Soest,Autokorso,,,,51.5725501,8.1061259,2021-03-26 12:20:24
+1910,DE,2021-03-27,11:00:00,45655,Recklinghausen,Rathausplatz,Schweigemarsch,,Nachbarn stehen auf - Gelsenkirchen / Recklinghausen denkt anders,,51.611683400000004,7.199596011634441,2021-03-26 12:20:24
+1681,DE,2021-03-27,11:00:00,59555,Lippstadt,Rathausplatz,Spaziergang,,Freiheitsboten_Lippstatt,,51.6758927,8.346504730601659,2021-03-26 12:20:24
+1940,DE,2021-03-27,11:00:00,29223,Celle,Schützenplatz,Spaziergang,,Celle steht auf,,52.62702925,10.073610334545315,2021-03-26 12:20:24
+1709,DE,2021-03-27,11:00:00,29221,Celle,Großer Plan,Kundgebung,,Privat,,52.62254355,10.080800033509767,2021-03-26 12:20:24
+1876,DE,2021-03-27,11:15:00,21079,Hamburg,Am Radeland,Autokorso,,Freiheitsfahrer Hamburg,,53.4705047,9.9620567,2021-03-26 12:20:24
+1934,DE,2021-03-27,12:00:00,70173,Stuttgart,Schloßpark / Landtagsgebäude,Demonstration,,,,48.7784485,9.1800132,2021-03-26 12:20:24
+2024,DE,2021-03-27,12:00:00,79115,Freiburg,Lörracher Str. / Basler Str.,Demonstration,,Wir beehren die Badische Zeitung,,47.9960901,7.8494005,2021-03-26 12:20:24
+1743,DE,2021-03-27,12:30:00,40764,Langenfeld,Langforter Str. / Freizeitpark P,Autokorso,,Bürgerinitiative L‘feld denkt anders,https://www.langenfeld-denkt-anders.de,51.1008952,6.9459377,2021-03-26 12:20:24
+1943,DE,2021-03-27,13:00:00,50667,Köln,Kölner Dom,Kundgebung,,,,50.941303500000004,6.958137997831819,2021-03-26 12:20:24
+1905,DE,2021-03-27,13:00:00,79215,Elzach,Nikolausplatz,Mahnwache,,Initiative Elzach,https://initiative-elzach.de,48.1740027,8.070864,2021-03-26 12:20:24
+1931,AT,2021-03-27,14:00:00,1010,Wien,Maria-Theresien-Platz,Versammlung,,Unser Österreich,http://www.unseroesterreich.at,48.2045084,16.361976404844206,2021-03-26 12:20:24
+1954,DE,2021-03-27,14:00:00,64385,Reichelsheim,B 38 Ortseingang Aldi,Versammlung,,,,49.7132438,8.8408466,2021-03-26 12:20:24
+1753,DE,2021-03-27,14:00:00,26122,Oldenburg,Schloßplatz,Schweigemarsch,,,https://www.der-schweigemarsch.de/,53.1378392,8.2148688,2021-03-26 12:20:24
+1957,DE,2021-03-27,14:00:00,80336,München,Theresienwiese / Osteinfahrt,Autokorso,,Aufstellen ab 13 Uhr,https://t.me/AutoKorsoMuc,48.1371079,11.5753822,2021-03-26 12:20:24
+1952,DE,2021-03-27,14:00:00,36037,Fulda,Universitätsplatz,Kundgebung,,,,50.5520499,9.678984191923437,2021-03-26 12:20:24
+1822,DE,2021-03-27,14:15:00,93047,Regensburg,Haidplatz,Demonstration,,Aufruf zum Denken - Gegen die Maskenpflicht,,49.019714,12.092841621101861,2021-03-26 12:20:24
+1774,DE,2021-03-27,14:30:00,76829,Landau in der Pfalz,Rathausplatz,Kundgebung,https://dlive.tv/Live-Reports-DUEW,Querdenken,https://querdenken-6341.de,49.19837455,8.112366169334578,2021-03-26 12:20:24
+1889,DE,2021-03-27,15:00:00,69469,Weinheim,Schlosspark,Musik,,Lebensfreunde / Künstler,,49.5452061,8.669590693112754,2021-03-26 12:20:24
+1906,DE,2021-03-27,15:00:00,50679,Köln,Rudolfplatz,Demonstration,,Köln ist Aktiv,https://koelnistaktiv.de,50.9362419,6.9406316,2021-03-26 12:20:24
+1933,DE,2021-03-27,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Kundgebung,,,,51.219092200000006,6.767028235140621,2021-03-26 12:20:24
+1942,DE,2021-03-27,15:00:00,44787,Bochum,Dr.-Ruer-Platz,Demonstration,,Querdenken 234 - Bochum,https://querdenken-234.de,51.4806562,7.2187339,2021-03-26 12:20:24
+1914,DE,2021-03-27,15:00:00,96052,Bamberg,Maxplatz,Kundgebung,,StayAwake Bamberg,https://www.stayawakebamberg.de,49.8945086,10.8901062,2021-03-26 12:20:24
+1965,DE,2021-03-27,15:00:00,52070,Aachen,Tivoli,Demonstration,,Euregio steht auf,,50.793098549999996,6.098239093394145,2021-03-26 12:20:24
+1920,DE,2021-03-27,15:30:00,29525,Uelzen,Herzogenplatz,Kundgebung,,,,52.9630205,10.559275888894947,2021-03-26 12:20:24
+1980,DE,2021-03-27,15:30:00,21073,Hamburg-Harburg,Museumsplatz 1 / am Brunnen,Meditation,,,,53.45780547968867,9.972960438543872,2021-03-26 12:20:24
+1897,DE,2021-03-27,15:30:00,45127,Essen,Willy-Brandt-Platz,Kundgebung,,Für den Erhalt der Freiheit,https://t.me/joinchat/Gr4v4tPxmF174Ikj,51.4528385,7.0126846,2021-03-26 12:20:24
+1907,DE,2021-03-27,16:00:00,50679,Köln,Rudolfplatz,Spaziergang,,Köln ist aktiv,https://koelnistaktiv.de,50.9362419,6.9406316,2021-03-26 12:20:24
+1805,DE,2021-03-27,17:00:00,84036,Landshut,Grieserwiese / [Aufstellung 16h],Autokorso,,Autokorso Landshut,https://www.freiheitsfahrer.de/,48.536217,12.1516551,2021-03-26 12:20:24
+1884,DE,2021-03-27,17:00:00,6846,Dessau-Roßlau,Alte Landebahn,Autokorso,,Privat,https://t.me/autokorso_dessau,,,2021-03-26 12:20:24
+1948,DE,2021-03-27,18:00:00,72764,Reutlingen,Marktplatz,Kundgebung,,Freiheitsboten Reutlingen,,48.4918381,9.211474932546949,2021-03-26 12:20:24
+1949,DE,2021-03-27,18:30:00,72764,Reutlingen,Marktplatz,Aufzug,,Freiheitsboten Reutlingen,,48.4918381,9.211474932546949,2021-03-26 12:20:24
+1935,DE,2021-03-27,19:00:00,70173,Stuttgart,Schloßplatz / vor der Comm.Bank,Kundgebung,,,,48.7784485,9.1800132,2021-03-26 12:20:24
+1918,DE,2021-03-28,08:00:00,2826,Görlitz,Gewerbering 8a / Car-Pro,Autokorso,,,,,,2021-03-26 12:20:24
+1919,DE,2021-03-28,09:00:00,2625,Bautzen,Schützenplatz / BZ,Autokorso,,,,51.1847391,14.42591276225738,2021-03-26 12:20:24
+1880,DE,2021-03-28,10:45:00,75015,Bretten,Marktplatz,Meditation,,,,49.0372069,8.7069939,2021-03-26 12:20:24
+1964,DE,2021-03-28,11:00:00,73525,Schwäbisch Gmünd,Marktplatz,Musik,,Horn For Hope,,48.7993555,9.7985533,2021-03-26 12:20:24
+1760,DE,2021-03-28,12:00:00,58095,Hagen,Springemarktplatz,Kundgebung,,Querdenken,,51.3547355,7.4790464,2021-03-26 12:20:24
+1867,DE,2021-03-28,12:00:00,13347,Berlin,Nettelbeckplatz,Aufzug,,AfA / Freedomparade / QD30 / Freie Linke / Straßenauklärung Treptow / Demokratischer Widerstand,,52.5444146,13.3689742,2021-03-26 12:20:24
+1941,DE,2021-03-28,13:00:00,86159,Augsburg,Messe / Parkplatz,Autokorso,,ab 12:30 Uhr Aufstellung und Schmücken,https://t.me/AUTOKORSO_AUGSBURG,48.3423494,10.8940545,2021-03-26 12:20:24
+1924,DE,2021-03-28,13:30:00,64289,Darmstadt,Karolinenplatz,Kundgebung,,,,49.875140650000006,8.654506220010354,2021-03-26 12:20:24
+2033,DE,2021-03-28,13:30:00,64285,Darmstadt,Böllenfalltor,Kundgebung,,,,49.852540399999995,8.669752328382822,2021-03-26 12:20:24
+1950,DE,2021-03-28,14:00:00,54290,Trier,Viehmarkt,Spaziergang,,,,49.7522937,6.6361472,2021-03-26 12:20:24
+1804,DE,2021-03-28,14:00:00,94032,Passau,Klostergarten,Kundgebung,,Bayern steht zusammen e.V.,https://www.bayern-steht-zusammen.de/TERMINE/,48.5710015,13.4559417,2021-03-26 12:20:24
+1983,DE,2021-03-28,14:00:00,94034,Passau,Klostergarten,Kundgebung,,,,48.52118205,13.32044741196492,2021-03-26 12:20:24
+1923,DE,2021-03-28,14:00:00,84453,Mühldorf,Stadtplatz,Kundgebung,,,,48.2430195,12.5223662,2021-03-26 12:20:24
+1834,DE,2021-03-28,14:00:00,63454,Hanau / Kesselstadt,Kurt-Schumacher-Platz,Spaziergang,,Hanau steht auf,https://www.hanau-steht-auf.de,50.1311592,8.88556563606112,2021-03-26 12:20:24
+1985,DE,2021-03-28,14:00:00,58097,Hagen,Am Sportpark 34,Autokorso,,Freiheitsfahrer,,51.3692972,7.475939156140349,2021-03-26 12:20:24
+1845,AT,2021-03-28,14:00:00,6800,Feldkirch,Leonhardsplatz / Montforthaus,Kundgebung,,,https://corona-demo.at/,47.2375671,9.5981724,2021-03-26 12:20:24
+1930,AT,2021-03-28,14:00:00,6800,Feldkirch,Montfortplatz / Montforthaus,Kundgebung,,,http://corona-demo.at/,47.2375671,9.5981724,2021-03-26 12:20:24
+1946,DE,2021-03-28,14:00:00,84307,Eggenfelden,Rathausplatz,Kundgebung,,SelbstDenken21,https://dlive.tv/SelbstDenken21,48.4017572,12.7615271,2021-03-26 12:20:24
+1865,DE,2021-03-28,14:00:00,95050,Bamberg,Fuchsparkstadion,Autokorso,,,,49.9004513,10.928798994841777,2021-03-26 12:20:24
+1959,DE,2021-03-28,15:00:00,48341,Münster,Schloßplatz / Parkplatz,Autokorso,,,,51.9879459,7.5858155,2021-03-26 12:20:24
+2012,DE,2021-03-28,15:00:00,48143,Münster,Schlossplatz,Autokorso,,,,51.9632608,7.617905,2021-03-26 12:20:24
+2013,DE,2021-03-28,15:30:00,82140,Olching (FFB),Toni-März-Str. / Volksfestplatz,Kundgebung,,Amperfeen,https://www.amperfee.de,48.208217700000006,11.350507609978315,2021-03-26 12:20:24
+1938,DE,2021-03-28,16:00:00,63897,Miltenberg,Jahnstr. / Busparkplatz,Aufzug,,Freiheitsboten Miltenberg,https://t.me/s/infomiltenberg,49.7017584,9.2559718,2021-03-26 12:20:24
+2023,DE,2021-03-28,17:00:00,90402,Nürnberg,Jakobsplatz,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4495647,11.0704212,2021-03-26 12:20:24
+1939,DE,2021-03-29,17:00:00,6333,Hettstedt,Markt / Denkmal,Kundgebung,,,,,,2021-03-26 12:20:24
+1690,DE,2021-03-29,17:30:00,6406,Bernburg,Karlsplatz / Weltzeituhr,Spaziergang,,,,,,2021-03-26 12:20:24
+1929,DE,2021-03-29,18:00:00,92421,Schwandorf,Oberer Marktplatz,Kundgebung,,,,49.3296022,12.1072358,2021-03-26 12:20:24
+2025,DE,2021-03-29,18:00:00,49074,Osnabrück,Rathaus,Demonstration,,,,52.27739939999999,8.041210268889596,2021-03-26 12:20:24
+1900,DE,2021-03-29,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,,49.9891871,8.6648133,2021-03-26 12:20:24
+1979,DE,2021-03-29,18:00:00,89150,Laichingen,Marktplatz,Kundgebung,,,,48.4896556,9.6858759,2021-03-26 12:20:24
+1843,DE,2021-03-29,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,,https://t.me/LichterspaziergangGT,51.9063703,8.378309599962563,2021-03-26 12:20:24
+1883,DE,2021-03-29,18:00:00,6844,Dessau-Roßlau,Zerbster Str. 4 / Friedensglocke beim Rathaus,Spaziergang,,Privat,https://t.me/MontagsMahnwache,,,2021-03-26 12:20:24
+2021,DE,2021-03-29,19:00:00,6526,Sangerhausen,Markt,Spaziergang,,,,51.4726364,11.2972312,2021-03-26 12:20:24
+1714,DE,2021-03-29,19:00:00,99510,Apolda,Stadtzentrum/ Bahnhofstraße,Spaziergang,,,,51.0227878,11.5129742,2021-03-26 12:20:24
+1720,DE,2021-03-31,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de,50.1329988,8.9180211,2021-03-26 12:20:24
+1927,DE,2021-04-01,14:00:00,6571,Roßleben,Rathausplatz,Sonstiges,,,,51.2647053,11.414213622481741,2021-03-26 12:20:24
+1816,DE,2021-04-01,18:00:00,85586,Poing,Bahnhof Nordseite,Kundgebung,,Corona Poing,https://t.me/CoronaPoing,48.1667467,11.803713,2021-03-26 12:20:24
+1827,DE,2021-04-03,13:00:00,17109,Demmin,Am Bollwerk / Hanseufer,Autokorso,,,,53.9070019,13.0327836,2021-03-26 12:20:24
+1953,DE,2021-04-03,14:00:00,94315,Straubing,Am Hagen,Kundgebung,,,,48.8847235,12.5694895,2021-03-26 12:20:24
+1956,DE,2021-04-03,14:00:00,94315,Straubing,Hagen,Kundgebung,,,,48.8847235,12.5694895,2021-03-26 12:20:24
+1981,DE,2021-04-04,12:00:00,24211,Rastorf,Rastorfer Kreuz / Biker Treff,Bikerdemo,,Biker stehen auf,,54.2716534,10.2896173,2021-03-26 12:20:24
+1870,DE,2021-04-04,14:00:00,69231,Rauenberg,Rathausplatz,Kundgebung,,Grundgesetz Guerilla,https://www.facebook.com/GrundgesetzGuerilla,49.2581739,8.7155494,2021-03-26 12:20:24
+1945,DE,2021-04-04,15:00:00,74936,Siegelsbach,Petersäcker 5,Versammlung,,,,49.27237825,9.0914757,2021-03-26 12:20:24
+2028,DE,2021-04-04,15:00:00,74936,Siegelsbach,Petersäcker 5,Versammlung,,,,49.27237825,9.0914757,2021-03-26 12:20:24
+2014,DE,2021-04-04,15:30:00,82140,Olching (FFB),Toni-März-Str. / Volksfestplatz,Kundgebung,,Amperfeen,https://www.amperfee.de,48.208217700000006,11.350507609978315,2021-03-26 12:20:24
+1901,DE,2021-04-05,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,,49.9891871,8.6648133,2021-03-26 12:20:24
+1928,DE,2021-04-05,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,Privat (zuletzt  z.B. am 22.3.21 /  180 Teilnehmer),https://t.me/LichterspaziergangGT,51.9063703,8.378309599962563,2021-03-26 12:20:24
+1806,DE,2021-04-10,17:00:00,84036,Landshut,Grieserwiese / [Aufstellung 16h],Autokorso,,Autokorso Landshut,https://www.freiheitsfahrer.de/,48.536217,12.1516551,2021-03-26 12:20:24
+1871,DE,2021-04-11,14:00:00,69231,Rauenberg,Rathausplatz,Kundgebung,,Grundgesetz Guerilla,https://www.facebook.com/GrundgesetzGuerilla,49.2581739,8.7155494,2021-03-26 12:20:24
+2022,DE,2021-04-12,17:00:00,80331,München,Marienplatz,Musik,,Magic Monday MediTANZion - Meditation  Musik und Tanz für unsere Freiheit,http://www.mbsr-muenchen.net,48.13736145,11.574172059316222,2021-03-26 12:20:24
+1902,DE,2021-04-12,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,,49.9891871,8.6648133,2021-03-26 12:20:24
+1903,DE,2021-04-19,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,,49.9891871,8.6648133,2021-03-26 12:20:24
+1968,DE,2021-04-24,14:00:00,52064,Aachen,Eurogress Monheimsallee 48,Kundgebung,,Querdenken 241,,50.776351,6.083862,2021-03-26 12:20:24
+1807,DE,2021-04-24,17:00:00,84036,Landshut,Grieserwiese / [Aufstellung 16h],Autokorso,,Autokorso Landshut,https://www.freiheitsfahrer.de/,48.536217,12.1516551,2021-03-26 12:20:24
+1904,DE,2021-04-26,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,,49.9891871,8.6648133,2021-03-26 12:20:24
+2026,DE,2021-05-01,14:00:00,80336,München,Theresienwiese,Aufzug,,Markus Haintz,https://t.me/Haintz,48.135672,11.5522316,2021-03-26 12:20:24
+2027,DE,2021-05-01,17:00:00,80336,München,Theresienwiese,Kundgebung,,Markus Haintz,https://t.me/Haintz,48.135672,11.5522316,2021-03-26 12:20:24
+1960,DE,2021-11-05,18:00:00,10117,Berlin,Pariser Platz / Brandenburger Tor,MillionMaskMarch,https://anonymous.support/live,Anonymous,https://anonymous.support,52.5170365,13.3888599,2021-03-26 12:20:24
+1963,DE,2021-12-24,12:00:00,10178,Berlin,Weltzeituhr / Alexanderplatz,OpSafeWinter,https://anonymous.support/live,Anonymous,https://anonymous.support,52.5170365,13.3888599,2021-03-26 12:20:24
+1617,DE,2021-12-31,23:59:00,10117,Berlin,Brandenburger Tor,Event,,,,52.51628045,13.377701882994323,2021-03-26 12:20:24
