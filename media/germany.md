@@ -256,4 +256,5 @@ Unabhängig. Überparteilich. Unvoreingenommen.
 
 | {{ site.icons.globe }}    | [www.tvdeutschland.net](https://www.tvdeutschland.net/) |
 | {{ site.icons.youtube }}  | [TV Deutschland](https://www.youtube.com/channel/UCWdqKzn_0Ohphs_8i-BYYqg) |
+| {{ site.icons.telegram }} | [TV Deutschland](https://t.me/TVD_Kanal) |
 

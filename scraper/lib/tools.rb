@@ -17,7 +17,7 @@ class Tools
   def write_file(site_data)
 
     if(File.exist?("../_posts/#{site_data['filename']}.md"))
-      puts "File #{filename}.md already exists in ../_posts"
+      puts "File #{site_data['filename']}.md already exists in ../_posts"
       exit 0
     end
 

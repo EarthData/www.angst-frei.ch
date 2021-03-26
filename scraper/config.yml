@@ -2,6 +2,7 @@ article:
   aerzteblatt: previous
   aerztezeitung: last
   berliner-zeitung: lastdot
+  deutschlandfunk: page
   dieostschweiz: last
   epochtimes: last
   focus: last_
@@ -16,14 +17,18 @@ article:
   tagesanzeiger: last
   welt: previous
 sitename:
+  2020news: 2020 News
   achgut: Achgut.com
   aerztezeitung: AerzteZeitung
+  deutsche-apotheker-zeitung: Deutsche Apotheker Zeitung
   dieostschweiz: Die Ostschweiz
   epochtimes: Epoch Times
+  focus: Focus Online
   heise: Telepolis
   infosperber: INFOsperber
   insideparadeplatz: In$ide Paradeplatz
   kenfm: kenFM
+  kinder-maskenpetition: Kinder-Maskenpetition
   ktipp: Ktipp
   medinside: medinside.ch
   multipolar-magazin: multipolar
@@ -32,11 +37,13 @@ sitename:
   n-tv: ntv
   ndr: NDR
   nzz: NZZ
+  pharmazeutische-zeitung: Pharmazeutische Zeitung
   reitschuster: reitschuster
   rnd: RND
   rubikon: Rubikon
   srf: SRF
   substack: substack.com
+  swissmedic: Swissmedic
   swr: SWR
   tagesanzeiger: Tagesanzeiger
   tkp: tp - Science & Technology
@@ -44,6 +51,8 @@ sitename:
   unser-mitteleuropa: Unser Mitteleuropa
   welt: Die Welt
   weltwoche: Weltwoche
+  zdf: ZDF
+  zeitpunkt: ZE!TPUNKT
   zueriost: züriost
 tag:
   aargau-zuerich: aargau-zuerich
@@ -51,6 +60,7 @@ tag:
   2020news: 2020news
   aerzteblatt: ärzteblatt
   corona-blog: corona-blog
+  deutsche-apotheker-zeitung: daz
   insideparadeplatz: inside-paradeplatz
   medinside: medinside
   rt: rt
@@ -63,6 +73,7 @@ subtitle:
   corona-blog: last
   corona-transition: last
   insideparadeplatz: last
+  infekt: last
   infosperber: last
   kenfm: last
   medinside: ignore-og
@@ -75,3 +86,4 @@ subtitle:
   weltwoche-daily: last
 cleanurl:
   nachdenkseiten: false
+  deutschlandfunk: false
