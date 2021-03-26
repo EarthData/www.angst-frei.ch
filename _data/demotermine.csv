@@ -35,6 +35,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 1774,DE,2021-03-27,14:30:00,76829,Landau in der Pfalz,Rathausplatz,Kundgebung,https://dlive.tv/Live-Reports-DUEW,Querdenken,https://querdenken-6341.de
 1889,DE,2021-03-27,15:00:00,69469,Weinheim,Schlosspark,Musik,,Lebensfreunde / Künstler,
 1906,DE,2021-03-27,15:00:00,50679,Köln,Rudolfplatz,Demonstration,,Köln ist Aktiv,https://koelnistaktiv.de
+2047,DE,2021-03-27,15:00:00,01067,Dresden,Frauenkirche,Spaziergang,,Sachsen steht auf,
 1933,DE,2021-03-27,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Kundgebung,,,
 1942,DE,2021-03-27,15:00:00,44787,Bochum,Dr.-Ruer-Platz,Demonstration,,Querdenken 234 - Bochum,https://querdenken-234.de
 1914,DE,2021-03-27,15:00:00,96052,Bamberg,Maxplatz,Kundgebung,,StayAwake Bamberg,https://www.stayawakebamberg.de
@@ -74,11 +75,13 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 1939,DE,2021-03-29,17:00:00,06333,Hettstedt,Markt / Denkmal,Kundgebung,,,
 1690,DE,2021-03-29,17:30:00,06406,Bernburg,Karlsplatz / Weltzeituhr,Spaziergang,,,
 1929,DE,2021-03-29,18:00:00,92421,Schwandorf,Oberer Marktplatz,Kundgebung,,,
+2048,DE,2021-03-29,18:00:00,01896,Pulsnitz,Schützenhausplatz,Autokorso,https://www.facebook.com/photo?fbid=4255591877807433&set=gm.2933809746863621,MdL Timo Schreyer,
 2025,DE,2021-03-29,18:00:00,49074,Osnabrück,Rathaus,Demonstration,,,
 1900,DE,2021-03-29,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
 1979,DE,2021-03-29,18:00:00,89150,Laichingen,Marktplatz,Kundgebung,,,
 1843,DE,2021-03-29,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,,https://t.me/LichterspaziergangGT
 1883,DE,2021-03-29,18:00:00,06844,Dessau-Roßlau,Zerbster Str. 4 / Friedensglocke beim Rathaus,Spaziergang,,Privat,https://t.me/MontagsMahnwache
+2046,DE,2021-03-29,18:00:00,14057,Berlin,Lietzenseepark,Spaziergang,,Freie Bürger Charlottenburg,https://t.me/abendlaeuten
 2021,DE,2021-03-29,19:00:00,06526,Sangerhausen,Markt,Spaziergang,,,
 2043,DE,2021-03-29,19:00:00,99974,Mühlhausen,Postplatz,Spaziergang,,mit Kerzen,
 1714,DE,2021-03-29,19:00:00,99510,Apolda,Stadtzentrum/ Bahnhofstraße,Spaziergang,,,
