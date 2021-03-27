@@ -1,42 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-1951,DE,2021-03-27,10:00:00,01968,Senftenberg,Grubenstr. in Brieske,Autokorso,,,
-1875,DE,2021-03-27,10:30:00,79271,St. Peter,Zähringer Eck / Rossweiher,Versammlung,,Schwarzwald Netzwerk,https://schwarzwald-netzwerk.de/
-1984,DE,2021-03-27,10:45:00,59494,Soest,Georg Pläne Platz Soest,Autokorso,,,
-1910,DE,2021-03-27,11:00:00,45655,Recklinghausen,Rathausplatz,Schweigemarsch,,Nachbarn stehen auf - Gelsenkirchen / Recklinghausen denkt anders,
-1681,DE,2021-03-27,11:00:00,59555,Lippstadt,Rathausplatz,Spaziergang,,Freiheitsboten_Lippstatt,
-1940,DE,2021-03-27,11:00:00,29223,Celle,Schützenplatz,Spaziergang,,Celle steht auf,
-1709,DE,2021-03-27,11:00:00,29221,Celle,Großer Plan,Kundgebung,,Privat,
-2035,DE,2021-03-27,11:00:00,11011,Berlin,Reichstag,Livestream,https://youtube.com/channel/UCQpCnHgX_g5_DmY3g7pKyYA,Staatendoof und V-Mann Rüdiger Hoffmann,https://www.staatenlos.info
-1876,DE,2021-03-27,11:15:00,21079,Hamburg,Am Radeland,Autokorso,,Freiheitsfahrer Hamburg,
-1934,DE,2021-03-27,12:00:00,70173,Stuttgart,Schloßpark / Landtagsgebäude,Demonstration,,,
-2024,DE,2021-03-27,12:00:00,79115,Freiburg,Lörracher Str. / Basler Str.,Demonstration,,Wir beehren die Badische Zeitung,
-1743,DE,2021-03-27,12:30:00,40764,Langenfeld,Langforter Str. / Freizeitpark P,Autokorso,,Bürgerinitiative L‘feld denkt anders,https://www.langenfeld-denkt-anders.de
-1943,DE,2021-03-27,13:00:00,50667,Köln,Kölner Dom,Kundgebung,,,
-1905,DE,2021-03-27,13:00:00,79215,Elzach,Nikolausplatz,Mahnwache,,Initiative Elzach,https://initiative-elzach.de
-1931,AT,2021-03-27,14:00:00,1010,Wien,Maria-Theresien-Platz,Versammlung,,Unser Österreich,http://www.unseroesterreich.at
-1954,DE,2021-03-27,14:00:00,64385,Reichelsheim,B 38 Ortseingang Aldi,Versammlung,,,
-1753,DE,2021-03-27,14:00:00,26122,Oldenburg,Schloßplatz,Schweigemarsch,,,https://www.der-schweigemarsch.de/
-1957,DE,2021-03-27,14:00:00,80336,München,Theresienwiese / Osteinfahrt,Autokorso,,Aufstellen ab 13 Uhr,https://t.me/AutoKorsoMuc
-1952,DE,2021-03-27,14:00:00,36037,Fulda,Universitätsplatz,Kundgebung,,,
-1822,DE,2021-03-27,14:15:00,93047,Regensburg,Haidplatz,Demonstration,,Aufruf zum Denken - Gegen die Maskenpflicht,
-1774,DE,2021-03-27,14:30:00,76829,Landau in der Pfalz,Rathausplatz,Kundgebung,https://dlive.tv/Live-Reports-DUEW,Querdenken,https://querdenken-6341.de
-1889,DE,2021-03-27,15:00:00,69469,Weinheim,Schlosspark,Musik,,Lebensfreunde / Künstler,
-1906,DE,2021-03-27,15:00:00,50679,Köln,Rudolfplatz,Demonstration,,Köln ist Aktiv,https://koelnistaktiv.de
-2047,DE,2021-03-27,15:00:00,01067,Dresden,Frauenkirche,Spaziergang,,Sachsen steht auf,
-1933,DE,2021-03-27,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Kundgebung,,,
-1942,DE,2021-03-27,15:00:00,44787,Bochum,Dr.-Ruer-Platz,Demonstration,,Querdenken 234 - Bochum,https://querdenken-234.de
-1914,DE,2021-03-27,15:00:00,96052,Bamberg,Maxplatz,Kundgebung,,StayAwake Bamberg,https://www.stayawakebamberg.de
-1965,DE,2021-03-27,15:00:00,52070,Aachen,Tivoli,Demonstration,,Euregio steht auf,
-1920,DE,2021-03-27,15:30:00,29525,Uelzen,Herzogenplatz,Kundgebung,,,
-2049,DE,2021-03-27,15:30:00,87600,Kaufbeuren,Obstmarkt / Fußgängerzone,Meditation,,,
-1980,DE,2021-03-27,15:30:00,21073,Hamburg-Harburg,Museumsplatz 1 / am Brunnen,Meditation,,,
-1897,DE,2021-03-27,15:30:00,45127,Essen,Willy-Brandt-Platz,Kundgebung,,Für den Erhalt der Freiheit,https://t.me/joinchat/Gr4v4tPxmF174Ikj
-1907,DE,2021-03-27,16:00:00,50679,Köln,Rudolfplatz,Spaziergang,,Köln ist aktiv,https://koelnistaktiv.de
-1805,DE,2021-03-27,17:00:00,84036,Landshut,Grieserwiese / [Aufstellung 16h],Autokorso,,Autokorso Landshut,https://www.freiheitsfahrer.de/
-1884,DE,2021-03-27,17:00:00,06846,Dessau-Roßlau,Alte Landebahn,Autokorso,,Privat,https://t.me/autokorso_dessau
-1948,DE,2021-03-27,18:00:00,72764,Reutlingen,Marktplatz,Kundgebung,,Freiheitsboten Reutlingen,
-1949,DE,2021-03-27,18:30:00,72764,Reutlingen,Marktplatz,Aufzug,,Freiheitsboten Reutlingen,
-1935,DE,2021-03-27,19:00:00,70173,Stuttgart,Schloßplatz / vor der Comm.Bank,Kundgebung,,,
 1918,DE,2021-03-28,08:00:00,02826,Görlitz,Gewerbering 8a / Car-Pro,Autokorso,,,
 1919,DE,2021-03-28,09:00:00,02625,Bautzen,Schützenplatz / BZ,Autokorso,,,
 2075,DE,2021-03-28,10:00:00,02764,Zittau,B 96,Menschenkette,,unbekannt,
