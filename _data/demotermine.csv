@@ -43,6 +43,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 1964,DE,2021-03-28,11:00:00,73525,Schwäbisch Gmünd,Marktplatz,Musik,,Horn For Hope,
 1760,DE,2021-03-28,12:00:00,58095,Hagen,Springemarktplatz,Kundgebung,,Querdenken,
 1867,DE,2021-03-28,12:00:00,13347,Berlin,Nettelbeckplatz,Aufzug,,AfA / Freedomparade / QD30 / Freie Linke / Straßenauklärung Treptow / Demokratischer Widerstand,
+2064,DE,2021-03-28,13:00:00,74889,Sinsheim,Schwimmbadweg / Parkplatz,Kundgebung,,Querdenken 7261,
 1941,DE,2021-03-28,13:00:00,86159,Augsburg,Messe / Parkplatz,Autokorso,,ab 12:30 Uhr Aufstellung und Schmücken,https://t.me/AUTOKORSO_AUGSBURG
 1924,DE,2021-03-28,13:30:00,64289,Darmstadt,Karolinenplatz,Kundgebung,,,
 2033,DE,2021-03-28,13:30:00,64285,Darmstadt,Böllenfalltor,Kundgebung,,,
@@ -70,6 +71,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2025,DE,2021-03-29,18:00:00,49074,Osnabrück,Rathaus,Demonstration,,,
 1900,DE,2021-03-29,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
 1979,DE,2021-03-29,18:00:00,89150,Laichingen,Marktplatz,Kundgebung,,,
+2062,DE,2021-03-29,18:00:00,87435,Kempten / Allgäu,Hildegardplatz / am Brunnen,Kundgebung,,Privat,
 1843,DE,2021-03-29,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,,https://t.me/LichterspaziergangGT
 1883,DE,2021-03-29,18:00:00,06844,Dessau-Roßlau,Zerbster Str. 4 / Friedensglocke beim Rathaus,Spaziergang,,Privat,https://t.me/MontagsMahnwache
 2046,DE,2021-03-29,18:00:00,14057,Berlin,Lietzenseepark,Spaziergang,,Freie Bürger Charlottenburg,https://t.me/abendlaeuten
@@ -99,6 +101,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2014,DE,2021-04-04,15:30:00,82140,Olching (FFB),Toni-März-Str. / Volksfestplatz,Kundgebung,,Amperfeen,https://www.amperfee.de
 1901,DE,2021-04-05,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
 1928,DE,2021-04-05,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,Privat (zuletzt  z.B. am 22.3.21 /  180 Teilnehmer),https://t.me/LichterspaziergangGT
+2063,DE,2021-04-10,13:00:00,84405,Dorfen,Unterer Markt,Kundgebung,,Bürger im Dialog Haag i.Obb.,https://t.me/fuerfriedenundfreiheit
 1806,DE,2021-04-10,17:00:00,84036,Landshut,Grieserwiese / [Aufstellung 16h],Autokorso,,Autokorso Landshut,https://www.freiheitsfahrer.de/
 1871,DE,2021-04-11,14:00:00,69231,Rauenberg,Rathausplatz,Kundgebung,,Grundgesetz Guerilla,https://www.facebook.com/GrundgesetzGuerilla
 2022,DE,2021-04-12,17:00:00,80331,München,Marienplatz,Musik,,Magic Monday MediTANZion - Meditation  Musik und Tanz für unsere Freiheit,http://www.mbsr-muenchen.net
