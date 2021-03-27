@@ -42,7 +42,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 1880,DE,2021-03-28,10:45:00,75015,Bretten,Marktplatz,Meditation,,,
 1964,DE,2021-03-28,11:00:00,73525,Schwäbisch Gmünd,Marktplatz,Musik,,Horn For Hope,
 1760,DE,2021-03-28,12:00:00,58095,Hagen,Springemarktplatz,Kundgebung,,Querdenken,
-1867,DE,2021-03-28,12:00:00,13347,Berlin,Nettelbeckplatz,Aufzug,,AfA / Freedomparade / QD30 / Freie Linke / Straßenauklärung Treptow / Demokratischer Widerstand,
+1867,DE,2021-03-28,12:00:00,13347,Berlin,Max-Josef-Metzger-Platz,Aufzug,,AfA / Freedomparade / QD30 / Freie Linke / Straßenauklärung Treptow / Demokratischer Widerstand,
 2064,DE,2021-03-28,13:00:00,74889,Sinsheim,Schwimmbadweg / Parkplatz,Kundgebung,,Querdenken 7261,
 1941,DE,2021-03-28,13:00:00,86159,Augsburg,Messe / Parkplatz,Autokorso,,ab 12:30 Uhr Aufstellung und Schmücken,https://t.me/AUTOKORSO_AUGSBURG
 1924,DE,2021-03-28,13:30:00,64289,Darmstadt,Karolinenplatz,Kundgebung,,,
@@ -65,9 +65,11 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2052,DE,2021-03-29,17:00:00,24103,Kiel,Exerzierplatz,Versammlung,,Kieler Aktionsnetzwerk für Frieden  Freiheit und Demokratie,
 2058,DE,2021-03-29,17:00:00,24107,Kiel,Exerzier-Platz,Spaziergang,,Kieler Aktionsnetzwerks für Frieden Freiheit und Demokratie,http://t.me/frieden_freiheit_demokratie_kiel
 1939,DE,2021-03-29,17:00:00,06333,Hettstedt,Markt / Denkmal,Kundgebung,,,
+2073,DE,2021-03-29,17:00:00,23843,Bad Oldesloe,Bahnhofsvorplatz,Kundgebung,,unbekannt,
 1690,DE,2021-03-29,17:30:00,06406,Bernburg,Karlsplatz / Weltzeituhr,Spaziergang,,,
 1929,DE,2021-03-29,18:00:00,92421,Schwandorf,Oberer Marktplatz,Kundgebung,,,
 2048,DE,2021-03-29,18:00:00,01896,Pulsnitz,Schützenhausplatz,Autokorso,https://www.facebook.com/photo?fbid=4255591877807433&set=gm.2933809746863621,MdL Timo Schreyer,
+2068,DE,2021-03-29,18:00:00,33098,Paderborn,Riemekestr. 1A /  Kirche / Westerntor,Spaziergang,,unbekannt,
 2025,DE,2021-03-29,18:00:00,49074,Osnabrück,Rathaus,Demonstration,,,
 1900,DE,2021-03-29,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
 1979,DE,2021-03-29,18:00:00,89150,Laichingen,Marktplatz,Kundgebung,,,
@@ -91,6 +93,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 1720,DE,2021-03-31,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 1927,DE,2021-04-01,14:00:00,06571,Roßleben,Rathausplatz,Sonstiges,,,
 2067,DE,2021-04-01,17:30:00,73230,Kirchheim Teck,Ziegelwasen,Kundgebung,,Querdenken 702,https://querdenken-702.de
+2072,DE,2021-04-01,18:00:00,84427,Sankt Wolfgang (Obb.),Hofmarkstr. 2 / am Brunnen,Kundgebung,,Bürger im Dialog Haag i.Obb.,https://t.me/fuerfriedenundfreiheit
 1816,DE,2021-04-01,18:00:00,85586,Poing,Bahnhof Nordseite,Kundgebung,,Corona Poing,https://t.me/CoronaPoing
 2065,DE,2021-04-03,12:00:00,70173,Stuttgart,Innenstadt,Aufzug,,Querdenken 711,https://querdenken-711.de/
 1827,DE,2021-04-03,13:00:00,17109,Demmin,Am Bollwerk / Hanseufer,Autokorso,,,
@@ -104,11 +107,14 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2014,DE,2021-04-04,15:30:00,82140,Olching (FFB),Toni-März-Str. / Volksfestplatz,Kundgebung,,Amperfeen,https://www.amperfee.de
 1901,DE,2021-04-05,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
 1928,DE,2021-04-05,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,Privat (zuletzt  z.B. am 22.3.21 /  180 Teilnehmer),https://t.me/LichterspaziergangGT
+2069,DE,2021-04-09,13:00:00,83543,Rott am Inn,Kaisergarten,Kundgebung,,Bürger im Dialog Haag i.Obb.,https://t.me/fuerfriedenundfreiheit
 2063,DE,2021-04-10,13:00:00,84405,Dorfen,Unterer Markt,Kundgebung,,Bürger im Dialog Haag i.Obb.,https://t.me/fuerfriedenundfreiheit
 1806,DE,2021-04-10,17:00:00,84036,Landshut,Grieserwiese / [Aufstellung 16h],Autokorso,,Autokorso Landshut,https://www.freiheitsfahrer.de/
+2070,DE,2021-04-11,13:00:00,83559,Gars am Inn,Schulstr.,Kundgebung,,Bürger im Dialog Haag i.Obb.,https://t.me/fuerfriedenundfreiheit
 1871,DE,2021-04-11,14:00:00,69231,Rauenberg,Rathausplatz,Kundgebung,,Grundgesetz Guerilla,https://www.facebook.com/GrundgesetzGuerilla
 2022,DE,2021-04-12,17:00:00,80331,München,Marienplatz,Musik,,Magic Monday MediTANZion - Meditation  Musik und Tanz für unsere Freiheit,http://www.mbsr-muenchen.net
 1902,DE,2021-04-12,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
+2071,DE,2021-04-18,13:00:00,83527,Haag in Oberbayern,Marktplatz,Kundgebung,,Bürger im Dialog Haag i.Obb.,https://t.me/fuerfriedenundfreiheit
 1903,DE,2021-04-19,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
 1968,DE,2021-04-24,14:00:00,52064,Aachen,Eurogress Monheimsallee 48,Kundgebung,,Querdenken 241,
 1807,DE,2021-04-24,17:00:00,84036,Landshut,Grieserwiese / [Aufstellung 16h],Autokorso,,Autokorso Landshut,https://www.freiheitsfahrer.de/
