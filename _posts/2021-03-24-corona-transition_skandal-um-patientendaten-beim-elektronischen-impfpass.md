@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Skandal um Patientendaten beim elektronischen Impfpass'
 country:       ORG
 categories:    [Impfung]
-tags:          [corona transitioni, grüner impfpass]
+tags:          [corona transitioni, impfpass]
 ---
