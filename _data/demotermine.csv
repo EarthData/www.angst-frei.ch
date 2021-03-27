@@ -39,6 +39,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 1935,DE,2021-03-27,19:00:00,70173,Stuttgart,Schloßplatz / vor der Comm.Bank,Kundgebung,,,
 1918,DE,2021-03-28,08:00:00,02826,Görlitz,Gewerbering 8a / Car-Pro,Autokorso,,,
 1919,DE,2021-03-28,09:00:00,02625,Bautzen,Schützenplatz / BZ,Autokorso,,,
+2075,DE,2021-03-28,10:00:00,02764,Zittau,B 96,Menschenkette,,unbekannt,
 1880,DE,2021-03-28,10:45:00,75015,Bretten,Marktplatz,Meditation,,,
 1964,DE,2021-03-28,11:00:00,73525,Schwäbisch Gmünd,Marktplatz,Musik,,Horn For Hope,
 1760,DE,2021-03-28,12:00:00,58095,Hagen,Springemarktplatz,Kundgebung,,Querdenken,
@@ -78,6 +79,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 1843,DE,2021-03-29,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,,https://t.me/LichterspaziergangGT
 1883,DE,2021-03-29,18:00:00,06844,Dessau-Roßlau,Zerbster Str. 4 / Friedensglocke beim Rathaus,Spaziergang,,Privat,https://t.me/MontagsMahnwache
 2046,DE,2021-03-29,18:00:00,14057,Berlin,Lietzenseepark,Spaziergang,,Freie Bürger Charlottenburg,https://t.me/abendlaeuten
+2076,DE,2021-03-29,18:30:00,02763,Zittau,Markt,Kundgebung,,Pegida,
 2060,DE,2021-03-29,18:30:00,97688,Bad Kissingen / Arnshausen,Fuhrmannstr. 2 / Lollbachhalle,Spaziergang,,unbekannt,
 2021,DE,2021-03-29,19:00:00,06526,Sangerhausen,Markt,Spaziergang,,,
 2043,DE,2021-03-29,19:00:00,99974,Mühlhausen,Postplatz,Spaziergang,,mit Kerzen,
