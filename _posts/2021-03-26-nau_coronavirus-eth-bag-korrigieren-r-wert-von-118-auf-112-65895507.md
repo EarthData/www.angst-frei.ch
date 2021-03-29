@@ -1,0 +1,9 @@
+---
+date:          2021-03-26
+redirect:      https://www.nau.ch/politik/bundeshaus/coronavirus-eth-bag-korrigieren-r-wert-von-118-auf-112-65895507
+title:         Nau
+subtitle:      'Coronavirus: ETH & BAG korrigieren R-Wert von 1,18 auf 1,12'
+country:       CH
+categories:    [BAG, Zahlen, Politik]
+tags:          [nau, r-wert, bundesrat]
+---
