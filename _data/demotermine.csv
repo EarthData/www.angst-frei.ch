@@ -25,6 +25,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2060,DE,2021-03-29,18:30:00,97688,Bad Kissingen / Arnshausen,Fuhrmannstr. 2 / Lollbachhalle,Spaziergang,,unbekannt,
 2083,DE,2021-03-29,19:00:00,18439,Stralsund,Alter Markt,Mahnwache,,unbekannt,
 2021,DE,2021-03-29,19:00:00,06526,Sangerhausen,Markt,Spaziergang,,,
+2102,DE,2021-03-29,19:00:00,42897,Remscheid,Kirmesplatz / am Röntgen Stadion,Aufzug,https://www.youtube.com/channel/UCK_cX3oHOKuRuqK2Ff6TCug/live,Team Heimat,https://www.teamheimat.com
 2043,DE,2021-03-29,19:00:00,99974,Mühlhausen,Postplatz,Spaziergang,,mit Kerzen,
 2084,DE,2021-03-29,19:00:00,78462,Konstanz,Münster,Spaziergang,,Freidenker Konstanz,
 2050,DE,2021-03-29,19:00:00,87600,Kaufbeuren,Altes Rathaus,Spaziergang,,,
@@ -63,6 +64,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 1945,DE,2021-04-04,15:00:00,74936,Siegelsbach,Petersäcker 5,Versammlung,,,
 2028,DE,2021-04-04,15:00:00,74936,Siegelsbach,Petersäcker 5,Versammlung,,,
 2014,DE,2021-04-04,15:30:00,82140,Olching (FFB),Toni-März-Str. / Volksfestplatz,Kundgebung,,Amperfeen,https://www.amperfee.de
+2101,DE,2021-04-05,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Spaziergang,,Querdenken 211,https://www.querdenken211.de
 1901,DE,2021-04-05,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
 1928,DE,2021-04-05,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,Privat (zuletzt  z.B. am 22.3.21 /  180 Teilnehmer),https://t.me/LichterspaziergangGT
 2069,DE,2021-04-09,13:00:00,83543,Rott am Inn,Kaisergarten,Kundgebung,,Bürger im Dialog Haag i.Obb.,https://t.me/fuerfriedenundfreiheit
