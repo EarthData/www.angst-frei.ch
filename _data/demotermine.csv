@@ -10,7 +10,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2044,DE,2021-03-31,16:00:00,70184,Stuttgart,Dobelstr. / Hohenheimer Str,Kundgebung,,Privat,
 2107,DE,2021-03-31,17:00:00,25335,Elmshorn,Holstenplatz,Event,,Ministerium für Menschenrechte,https://www.mfmr.de
 2091,DE,2021-03-31,17:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
+2116,DE,2021-03-31,17:45:00,78549,Spaichingen,Marktplatz,Kundgebung,,Friede und Freiheit,https://t.me/friede_und_freiheit/4835
 1720,DE,2021-03-31,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
+2118,DE,2021-03-31,18:00:00,10557,Berlin,Bundeskanzleramt,Kundgebung,https://www.youtube.com/channel/UCQpCnHgX_g5_DmY3g7pKyYA/live,AfD,https://www.facebook.com/MERKELMUSSWEGMITTWOCHAKTUELL/
 2100,DE,2021-04-01,11:00:00,23843,Bad Oldesloe,Am Markt,Event,,Ministerium für Menschenrechte,https://www.mfmr.de
 1927,DE,2021-04-01,14:00:00,06571,Roßleben,Rathausplatz,Sonstiges,,,
 2092,DE,2021-04-01,17:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
@@ -38,6 +40,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2028,DE,2021-04-04,15:00:00,74936,Siegelsbach,Petersäcker 5,Versammlung,,,
 2014,DE,2021-04-04,15:30:00,82140,Olching (FFB),Toni-März-Str. / Volksfestplatz,Kundgebung,,Amperfeen,https://www.amperfee.de
 2111,DE,2021-04-05,11:00:00,23701,Eutin,Am Markt / Marktplatz,Event,,Ministerium für Menschenrechte,https://www.mfmr.de
+2119,AT,2021-04-05,14:00:00,6850,Dornbirn,Marktplatz Dornbirn,Kundgebung,,unbekannt,https://corona-demo.at/
 2101,DE,2021-04-05,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Spaziergang,,Querdenken 211,https://www.querdenken211.de
 2114,DE,2021-04-05,17:00:00,06333,Hettstedt,Markt / Denkmal,Kundgebung,,unbekannt,
 2112,DE,2021-04-05,17:00:00,23774,Heiligenhafen,Am Markt / Marktplatz,Event,,Ministerium für Menschenrechte,https://www.mfmr.de
@@ -50,9 +53,11 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 1806,DE,2021-04-10,17:00:00,84036,Landshut,Grieserwiese / [Aufstellung 16h],Autokorso,,Autokorso Landshut,https://www.freiheitsfahrer.de/
 2070,DE,2021-04-11,13:00:00,83559,Gars am Inn,Schulstr.,Kundgebung,,Bürger im Dialog Haag i.Obb.,https://t.me/fuerfriedenundfreiheit
 1871,DE,2021-04-11,14:00:00,69231,Rauenberg,Rathausplatz,Kundgebung,,Grundgesetz Guerilla,https://www.facebook.com/GrundgesetzGuerilla
+2120,AT,2021-04-11,14:00:00,6900,Bludenz,Riedmillerplatz,Kundgebung,,unbekannt,https://corona-demo.at/
 2022,DE,2021-04-12,17:00:00,80331,München,Marienplatz,Musik,,Magic Monday MediTANZion - Meditation  Musik und Tanz für unsere Freiheit,http://www.mbsr-muenchen.net
 1902,DE,2021-04-12,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
 2096,DE,2021-04-16,15:30:00,22941,Bargteheide,Am Markt / Schulzentrum,Mahnwache,,Freitag für Freiheit Freude und Frieden,
+2117,DE,2021-04-17,14:00:00,78713,Schramberg,St. Maria Kirche,Demonstration,,Friede und Freiheit,https://t.me/friede_und_freiheit/4837
 1903,DE,2021-04-19,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
 1968,DE,2021-04-24,14:00:00,52064,Aachen,Eurogress Monheimsallee 48,Kundgebung,,Querdenken 241,
 1807,DE,2021-04-24,17:00:00,84036,Landshut,Grieserwiese / [Aufstellung 16h],Autokorso,,Autokorso Landshut,https://www.freiheitsfahrer.de/
