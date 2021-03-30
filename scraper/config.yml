@@ -6,6 +6,7 @@ article:
   dieostschweiz: last
   epochtimes: last
   focus: last_
+  fm1today: last
   nordkurier: last
   linth24: first
   nachdenkseiten: page
@@ -23,6 +24,7 @@ sitename:
   deutsche-apotheker-zeitung: Deutsche Apotheker Zeitung
   dieostschweiz: Die Ostschweiz
   epochtimes: Epoch Times
+  fm1today: FM1 Today
   focus: Focus Online
   heise: Telepolis
   infosperber: INFOsperber
@@ -61,6 +63,7 @@ tag:
   aerzteblatt: ärzteblatt
   corona-blog: corona-blog
   deutsche-apotheker-zeitung: daz
+  fm1today: fm1today
   insideparadeplatz: inside-paradeplatz
   medinside: medinside
   rt: rt

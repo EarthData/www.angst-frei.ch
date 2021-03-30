@@ -95,10 +95,11 @@ class Scraper
       exit 1
     end
 
+    tags = Array.new
     if config['tag'][domain]
-      tag = config['tag'][domain]
+      tags.push(config['tag'][domain])
     else
-      tag = site_name.downcase
+      tags.push(site_name.downcase)
     end
  
     published_date = DateTime.parse(published_time.strip)
@@ -113,6 +114,9 @@ class Scraper
     elsif doc.at("meta[property='og:title']")
       subtitle = doc.at("meta[property='og:title']")['content'].to_s.strip
       puts "Title: :#{subtitle}: (meta og:title)" if debug
+    elsif doc.at("/html/head//title")
+      subtitle = doc.xpath("/html/head/title").first.text.strip.chomp
+      puts "Title: :#{subtitle}: (head title)" if debug
     elsif doc.xpath("/html/body//h1")
       subtitle = doc.xpath("/html/body//h1").first.text.strip.chomp
       puts "Title: :#{subtitle}: (first h1)" if debug
@@ -139,7 +143,7 @@ class Scraper
     site_data['title'] = site_name
     site_data['subtitle'] = subtitle
     site_data['country'] = tld
-    site_data['tag'] = tag
+    site_data['tags'] = tags
     site_data['filename'] = filename
  
     return site_data

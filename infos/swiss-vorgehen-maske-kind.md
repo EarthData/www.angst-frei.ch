@@ -137,6 +137,7 @@ siehe [Politisches > Kind]({{site.baseurl}}/infos/swiss-politisches.html#kind)
  * [Schutz oder Gefahr? Über 50 Studien welche gegen das Tragen von Mund-Nasen Bedeckungen sprechen](https://corona-blog.net/schutz_oder_gefahr_ueber_50_studien-welche-gegen-das-tragen-von-mund-nasen-bedeckungen-sprechen/)
  * [Die Evidenzlage zu Mund-Nasen-Bedeckungen](https://www.aerztefueraufklaerung.de/masken/index.php)
  * [Anästhesistin und Notfallärztin Heike Sensendorf klärt auf!](https://mauricejanich.de/heike-sensendorf/) 
+ * [Rechtslupe: Schnelltests und Masken bei Kindern](https://corona-blog.net/2021/03/26/rechtslupe-schnelltests-und-masken-bei-kindern/)
 
 ## Dokumente
 

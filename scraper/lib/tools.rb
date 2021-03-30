@@ -20,6 +20,7 @@ class Tools
       puts "File #{site_data['filename']}.md already exists in ../_posts"
       exit 0
     end
+    tags = site_data['tags'].join(', ')
 
     content = %{---
 date:          #{site_data['date']}
@@ -28,7 +29,7 @@ title:         #{site_data['title']}
 subtitle:      '#{site_data['subtitle']}'
 country:       #{site_data['country']}
 categories:    []
-tags:          [#{site_data['tag']}]
+tags:          [#{tags}]
 ---
 }
 

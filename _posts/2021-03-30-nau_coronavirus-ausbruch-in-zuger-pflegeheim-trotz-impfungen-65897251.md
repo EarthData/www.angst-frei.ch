@@ -1,0 +1,9 @@
+---
+date:          2021-03-30
+redirect:      https://www.nau.ch/news/schweiz/coronavirus-ausbruch-in-zuger-pflegeheim-trotz-impfungen-65897251
+title:         Nau
+subtitle:      'Coronavirus: Ausbruch in Zuger Pflegeheim trotz Impfungen'
+country:       CH
+categories:    [Impfung]
+tags:          [nau, immunität]
+---

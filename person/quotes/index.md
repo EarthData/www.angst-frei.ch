@@ -16,6 +16,9 @@ js:       ["/assets/js/faces.js"]
 
 <div class="grid">
   <div class="grid-sizer"></div>
+  <div class="grid-item" data-filter="angst">
+    <a href="/assets/img/quotes/2021-03-30 10.03.12.jpg"><img src="/assets/img/quotes/2021-03-30 10.03.12.jpg" /></a>
+  </div>
   <div class="grid-item" data-filter="Kinder">
     <a href="/assets/img/quotes/2021-03-18 13.21.45.jpg"><img src="/assets/img/quotes/2021-03-18 13.21.45.jpg" /></a>
   </div>
