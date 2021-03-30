@@ -32,6 +32,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 1953,DE,2021-04-03,14:00:00,94315,Straubing,Am Hagen,Kundgebung,,,
 1956,DE,2021-04-03,14:00:00,94315,Straubing,Hagen,Kundgebung,,,
 2088,DE,2021-04-03,15:00:00,33098,Paderborn,Herz-Jesu Kirche Westerntor/B,Schweigemarsch,,unbekannt,
+2126,DE,2021-04-03,15:30:00,45127,Essen,Willy-Brandt-Platz,Kundgebung,,Für den Erhalt der Freiheit,https://t.me/schuetztunserefreiheit
 2066,DE,2021-04-03,16:00:00,70372,Stuttgart,Cannstatter Wasen,Kundgebung,,Querdenken 711,https://querdenken-711.de/
 2089,DE,2021-04-03,16:00:00,33098,Paderborn,Domplatz,Kundgebung,,unbekannt,
 2110,DE,2021-04-03,17:00:00,24768,Rendsburg,Am Markt / Marktplatz,Event,,Ministerium für Menschenrechte,https://www.mfmr.de
@@ -43,6 +44,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2028,DE,2021-04-04,15:00:00,74936,Siegelsbach,Petersäcker 5,Versammlung,,,
 2014,DE,2021-04-04,15:30:00,82140,Olching (FFB),Toni-März-Str. / Volksfestplatz,Kundgebung,,Amperfeen,https://www.amperfee.de
 2111,DE,2021-04-05,11:00:00,23701,Eutin,Am Markt / Marktplatz,Event,,Ministerium für Menschenrechte,https://www.mfmr.de
+2125,DE,2021-04-05,12:00:00,28215,Bremen,Bürgerweide,Demonstration,https://DLive.tv/QD421,Querdenken 421,https://Querdenken-421.de
 2119,AT,2021-04-05,14:00:00,6850,Dornbirn,Marktplatz Dornbirn,Kundgebung,,unbekannt,https://corona-demo.at/
 2101,DE,2021-04-05,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Spaziergang,,Querdenken 211,https://www.querdenken211.de
 2114,DE,2021-04-05,17:00:00,06333,Hettstedt,Markt / Denkmal,Kundgebung,,unbekannt,
