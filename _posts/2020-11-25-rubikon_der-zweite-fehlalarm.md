@@ -3,6 +3,7 @@ date:       2020-11-25
 redirect:   https://www.rubikon.news/artikel/der-zweite-fehlalarm
 title:      Rubikon
 subtitle:   "Der zweite Fehlalarm"
-categories: Medien
-tags:       [rubikon, rki, zahlen, welle2]
+country:    DE   
+categories: [Zahlen, Manipulation]
+tags:       [rubikon, rki, welle2]
 ---

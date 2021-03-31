@@ -10,7 +10,11 @@ class Scraper
 
     domain = URI(url).hostname.split('.').last(2).first
     puts "Domain: #{domain}" if debug
-    tld = URI(url).hostname.split('.').last.upcase
+    if config['country'][domain] 
+      tld = config['country'][domain]
+    else
+      tld = URI(url).hostname.split('.').last.upcase
+    end
     puts "TLD: #{tld}" if debug
 
     if !config['cleanurl'][domain] 
@@ -143,6 +147,7 @@ class Scraper
     site_data['title'] = site_name
     site_data['subtitle'] = subtitle
     site_data['country'] = tld
+    site_data['categories'] = []
     site_data['tags'] = tags
     site_data['filename'] = filename
  

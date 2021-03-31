@@ -57,13 +57,14 @@ sitename:
   zeitpunkt: ZE!TPUNKT
   zueriost: züriost
 tag:
+  2020news: 2020news
   aargau-zuerich: aargau-zuerich
   achgut: achgut
-  2020news: 2020news
   aerzteblatt: ärzteblatt
   corona-blog: corona-blog
   deutsche-apotheker-zeitung: daz
   fm1today: fm1today
+  focus: focus
   insideparadeplatz: inside-paradeplatz
   medinside: medinside
   rt: rt
@@ -90,3 +91,5 @@ subtitle:
 cleanurl:
   nachdenkseiten: false
   deutschlandfunk: false
+country:
+  rt: DE

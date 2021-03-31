@@ -4,5 +4,5 @@ redirect:      https://www.berliner-zeitung.de/gesundheit-oekologie/forscher-cor
 title:         Berliner Zeitung
 subtitle:      "Forscher: Corona-Todesrate ist wahrscheinlich geringer als 0,2 Prozent"
 categories:    [MSM, Zahlen]
-tags:          [berliner zeitung, who, zahlen, sterblichkeit]
+tags:          [berliner zeitung, who, sterblichkeit]
 ---

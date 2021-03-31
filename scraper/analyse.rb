@@ -10,28 +10,36 @@ scrape = Scraper.new
 #site_data = scrape.scrape_url(url, date)
 #tools.write_file(site_data)
 
-files = Dir.glob("../_posts/*-rt_*.md")
+files = Dir.glob("../_posts/2021-03-*-rt_*.md")
 
-parameters = ['date', 'redirect', 'title', 'timeline', 'subtitle', 'categories', 'tags']
+parameters = ['date', 'redirect', 'title', 'subtitle', 'timeline', 'country', 'persons', 'categories', 'tags', 'filename']
 
-files.each do |file|
+files.each do |filename|
 
-  puts "File: #{file}"
+  puts "File: #{filename}"
 
-  meta_data = YAML.load_file(file)
-  file = File.open(file)
+  meta_data = YAML.load_file(filename)
+  file = File.open(filename)
   file_data = file.read
   file_data = file_data.gsub!(/\A---(.|\n)*?---/, '')
   file_data = file_data.gsub(/\n+|\r+/, "\n").squeeze("\n").strip
+
+  
+  file_date = filename.match /([0-9]{4}\-[0-9]{2}\-[0-9]{2})/
+
+  file_name = filename.split('/').last
+  meta_data['filename'] = File.basename(file_name,File.extname(file_name))
+
+  if file_date.to_s != meta_data['date'].to_s
+    puts "filedate :#{file_date}: and metadate :#{meta_data['date']}: differ"
+    exit
+  end
 
   if file_data != ""
     puts "File has data: #{file_data}"
     next
   end
   
-  #puts meta_data
-  #puts ":#{file_data}:"
-
   if !meta_data['redirect']
     puts "no redirect found"
     next
@@ -39,40 +47,52 @@ files.each do |file|
 
   site_data = scrape.scrape_url(meta_data['redirect'], meta_data['date'].to_s, false)
   
-  if meta_data.keys != site_data.keys
-    puts "Keys differ: #{meta_data.keys} #{site_data.keys}"
-  end
+#  if meta_data.keys != site_data.keys
+#    puts "Keys differ: #{meta_data.keys} #{site_data.keys}"
+#  end
+
+  new_file = Hash.new
 
   parameters.each do |parameter|
-    if meta_data[parameter].to_s != site_data[parameter].to_s
-      puts "#{parameter} not equal"
-      puts "File: :#{meta_data[parameter]}:"
-      puts "URL: :#{site_data[parameter]}:"
+    if parameter == 'tags'
+      if !meta_data[parameter].include?(site_data[parameter][0])
+        puts "sitename not found in tags"
+        exit
+      end
+      new_file[parameter] = meta_data[parameter]
+    elsif parameter == 'categories'
+      if !meta_data[parameter].kind_of?(Array)
+        puts "Changing catgories to array"
+        new_file[parameter] = [meta_data[parameter]]
+      else
+        new_file[parameter] = meta_data[parameter]
+      end
+    elsif parameter == 'timeline' and meta_data[parameter] == false
+      puts "deleting timeline"
+    elsif parameter == 'timeline' and !meta_data[parameter]
+      #puts "no timeline"
+    elsif parameter == 'persons' and !meta_data[parameter]
+      #puts "no persons"
+    elsif parameter == 'persons' and meta_data[parameter]
+      if !meta_data[parameter].kind_of?(Array)
+        puts "Changing persons to array"
+        new_file[parameter] = [meta_data[parameter]]
+      else
+        new_file[parameter] = meta_data[parameter]
+      end
+    elsif meta_data[parameter].to_s != site_data[parameter].to_s
+      puts "#{parameter}: changing from :#{meta_data[parameter]}: to :#{site_data[parameter]}:"
+      new_file[parameter] = site_data[parameter]
+    else
+      new_file[parameter] = site_data[parameter]
     end
   end
 
-  #if meta_data['redirect'] != site_data['redirect']
-  #  puts "redirect not equal"
-  #  puts "File: #{meta_data['redirect']}"
-  #  puts "URL: #{site_data['redirect']}"
+  Tools.new.write_file(new_file, false)
+  #if meta_data.to_s == new_file.to_s
+  #  puts "Files are equal"
+  #else
   #end
 
-  #if meta_data['title'] != site_data['title']
-  #  puts "title not equal"
-  #  puts "File: #{meta_data['title']}"
-  #  puts "URL: #{site_data['title']}"
-  #end
-
-  #if meta_data['subtitle'] != site_data['subtitle']
-  #  puts "subtitle not equal"
-  #  puts "File: #{meta_data['subtitle']}"
-  #  puts "URL: #{site_data['subtitle']}"
-  #end
-
-  #meta_data['categories'] = meta_data['categories'].split(",") if meta_data['categories'].is_a?(String)
-  #if meta_data['categories'].length() == 1 and meta_data['categories'][0] == "Medien"
-  #  puts file
-  #  puts meta_data['categories'][0]
-  #end
 end
 
