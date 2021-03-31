@@ -45,6 +45,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2111,DE,2021-04-05,11:00:00,23701,Eutin,Am Markt / Marktplatz,Event,,Ministerium für Menschenrechte,https://www.mfmr.de
 2125,DE,2021-04-05,12:00:00,28215,Bremen,Bürgerweide,Demonstration,https://DLive.tv/QD421,Querdenken 421,https://Querdenken-421.de
 2119,AT,2021-04-05,14:00:00,6850,Dornbirn,Marktplatz Dornbirn,Kundgebung,,unbekannt,https://corona-demo.at/
+2135,DE,2021-04-05,15:00:00,07318,Saalfeld,Markt,Demonstration,,unbekannt,
 2101,DE,2021-04-05,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Spaziergang,,Querdenken 211,https://www.querdenken211.de
 2114,DE,2021-04-05,17:00:00,06333,Hettstedt,Markt / Denkmal,Kundgebung,,unbekannt,
 2112,DE,2021-04-05,17:00:00,23774,Heiligenhafen,Am Markt / Marktplatz,Event,,Ministerium für Menschenrechte,https://www.mfmr.de
@@ -52,10 +53,12 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 1901,DE,2021-04-05,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
 1928,DE,2021-04-05,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,Privat (zuletzt  z.B. am 22.3.21 /  180 Teilnehmer),https://t.me/LichterspaziergangGT
 2103,DE,2021-04-05,19:00:00,47906,Kempen,Kuhtor,Kundgebung,,Privat,
+2137,DE,2021-04-06,18:00:00,64720,Michelstadt,Bienenmarktplatz,Spaziergang,,Privat,
 2128,DE,2021-04-08,11:30:00,91054,Erlangen,Schlossplatz,Mahnwache,,unbekannt,
 2069,DE,2021-04-09,13:00:00,83543,Rott am Inn,Kaisergarten,Kundgebung,,Bürger im Dialog Haag i.Obb.,https://t.me/fuerfriedenundfreiheit
 2095,DE,2021-04-09,15:30:00,22941,Bargteheide,Am Markt / Schulzentrum,Mahnwache,,Freitag für Freiheit Freude und Frieden,
 2063,DE,2021-04-10,13:00:00,84405,Dorfen,Unterer Markt,Kundgebung,,Bürger im Dialog Haag i.Obb.,https://t.me/fuerfriedenundfreiheit
+2136,DE,2021-04-10,13:30:00,07318,Saalfeld,Markt,Autokorso,,unbekannt,
 1806,DE,2021-04-10,17:00:00,84036,Landshut,Grieserwiese / [Aufstellung 16h],Autokorso,,Autokorso Landshut,https://www.freiheitsfahrer.de/
 2070,DE,2021-04-11,13:00:00,83559,Gars am Inn,Schulstr.,Kundgebung,,Bürger im Dialog Haag i.Obb.,https://t.me/fuerfriedenundfreiheit
 1871,DE,2021-04-11,14:00:00,69231,Rauenberg,Rathausplatz,Kundgebung,,Grundgesetz Guerilla,https://www.facebook.com/GrundgesetzGuerilla
