@@ -9,7 +9,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 1720,DE,2021-03-31,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2118,DE,2021-03-31,18:00:00,10557,Berlin,Bundeskanzleramt,Kundgebung,https://www.youtube.com/channel/UCQpCnHgX_g5_DmY3g7pKyYA/live,AfD,https://www.facebook.com/MERKELMUSSWEGMITTWOCHAKTUELL/
 2100,DE,2021-04-01,11:00:00,23843,Bad Oldesloe,Am Markt,Event,,Ministerium für Menschenrechte,https://www.mfmr.de
+2129,DE,2021-04-01,11:30:00,91054,Erlangen,Schlossplatz,Mahnwache,,unbekannt,
 1927,DE,2021-04-01,14:00:00,06571,Roßleben,Rathausplatz,Sonstiges,,,
+2133,DE,2021-04-01,17:00:00,97070,Würzburg,Unterer Markt,Spaziergang,,Eltern stehen auf,
 2092,DE,2021-04-01,17:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 2113,DE,2021-04-01,17:00:00,06295,Lutherstadt Eisleben,Markt / Denkmal,Kundgebung,,unbekannt,
 2108,DE,2021-04-01,17:00:00,23795,Bad Segeberg,Am Markt / Marktplatz,Event,,Ministerium für Menschenrechte,https://www.mfmr.de
@@ -19,17 +21,20 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2085,DE,2021-04-01,19:30:00,78467,Konstanz,Braschenplatz,Sport,,Friedenker Konstanz,
 2094,DE,2021-04-02,15:30:00,22941,Bargteheide,Am Markt / Schulzentrum,Mahnwache,,Freitag für Freiheit Freude und Frieden,
 2123,DE,2021-04-02,17:00:00,81373,München,Harras,Kundgebung,,Open Mic Demo,https://openmic.onrender.com/
+2134,DE,2021-04-03,10:00:00,01986,Senftenberg,Grubenstr. / Brieske,Autokorso,,unbekannt,
 2099,DE,2021-04-03,10:30:00,79271,St. Peter,Zähringer Eck /  Rossweiher,Versammlung,,Schwarzwald Netzwerk,https://schwarzwald-netzwerk.de/
 2109,DE,2021-04-03,11:00:00,24534,Neumünster,Am Markt / Marktplatz,Event,,Ministerium für Menschenrechte,https://www.mfmr.de
 2065,DE,2021-04-03,12:00:00,70173,Stuttgart,Innenstadt,Aufzug,,Querdenken 711,https://querdenken-711.de/
 1827,DE,2021-04-03,13:00:00,17109,Demmin,Am Bollwerk / Hanseufer,Autokorso,,,
 1953,DE,2021-04-03,14:00:00,94315,Straubing,Am Hagen,Kundgebung,,,
 1956,DE,2021-04-03,14:00:00,94315,Straubing,Hagen,Kundgebung,,,
+2130,DE,2021-04-03,14:00:00,64385,Reichelsheim,Bahnhofstr. / OE Aldi,Zusammenkunft,,Privat,
 2088,DE,2021-04-03,15:00:00,33098,Paderborn,Herz-Jesu Kirche Westerntor/B,Schweigemarsch,,unbekannt,
 2126,DE,2021-04-03,15:30:00,45127,Essen,Willy-Brandt-Platz,Kundgebung,,Für den Erhalt der Freiheit,https://t.me/schuetztunserefreiheit
 2066,DE,2021-04-03,16:00:00,70372,Stuttgart,Cannstatter Wasen,Kundgebung,,Querdenken 711,https://querdenken-711.de/
 2089,DE,2021-04-03,16:00:00,33098,Paderborn,Domplatz,Kundgebung,,unbekannt,
 2110,DE,2021-04-03,17:00:00,24768,Rendsburg,Am Markt / Marktplatz,Event,,Ministerium für Menschenrechte,https://www.mfmr.de
+2131,DE,2021-04-04,10:00:00,02763,Zittau,B 96,Menschenkette,,unbekannt,
 1981,DE,2021-04-04,12:00:00,24211,Rastorf,Rastorfer Kreuz / Biker Treff,Bikerdemo,,Biker stehen auf,
 2071,DE,2021-04-04,13:00:00,83527,Haag in Oberbayern,Marktplatz,Kundgebung,,Bürger im Dialog Haag i.Obb.,https://t.me/fuerfriedenundfreiheit
 1870,DE,2021-04-04,14:00:00,69231,Rauenberg,Rathausplatz,Kundgebung,,Grundgesetz Guerilla,https://www.facebook.com/GrundgesetzGuerilla
@@ -47,6 +52,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 1901,DE,2021-04-05,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
 1928,DE,2021-04-05,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,Privat (zuletzt  z.B. am 22.3.21 /  180 Teilnehmer),https://t.me/LichterspaziergangGT
 2103,DE,2021-04-05,19:00:00,47906,Kempen,Kuhtor,Kundgebung,,Privat,
+2128,DE,2021-04-08,11:30:00,91054,Erlangen,Schlossplatz,Mahnwache,,unbekannt,
 2069,DE,2021-04-09,13:00:00,83543,Rott am Inn,Kaisergarten,Kundgebung,,Bürger im Dialog Haag i.Obb.,https://t.me/fuerfriedenundfreiheit
 2095,DE,2021-04-09,15:30:00,22941,Bargteheide,Am Markt / Schulzentrum,Mahnwache,,Freitag für Freiheit Freude und Frieden,
 2063,DE,2021-04-10,13:00:00,84405,Dorfen,Unterer Markt,Kundgebung,,Bürger im Dialog Haag i.Obb.,https://t.me/fuerfriedenundfreiheit
