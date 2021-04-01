@@ -130,7 +130,7 @@ class Scraper
     end
 
     if config['subtitle'][domain] && config['subtitle'][domain] = 'last'
-      subtitle.gsub!(/[\s]+[|-][\s]+.*$/, "")
+      subtitle.gsub!(/[\s]+[|][\s]+.*$/, "")
       puts "Change title to: #{subtitle}" if debug
     end
 

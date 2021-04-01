@@ -5,5 +5,5 @@ title:      Wochenblick
 subtitle:   "Deutschland: zwei Drittel der Covid-Toten in 2020 ohne Virusnachweis"
 country:    AT
 categories: [Zahlen]
-tags:       [wochenblick, sterblichkeit, who, deutschland]
+tags:       [wochenblick, sterblichkeit, who]
 ---

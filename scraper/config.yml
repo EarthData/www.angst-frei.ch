@@ -10,12 +10,14 @@ article:
   nordkurier: last
   linth24: first
   nachdenkseiten: page
+  nau: last
   ndr: lastcomma
   n-tv: last
   nzz: lastdot
   rnd: last
   rt: first
   tagesanzeiger: last
+  tagblatt: lastdot
   welt: previous
 sitename:
   2020news: 2020 News
@@ -48,6 +50,7 @@ sitename:
   swissmedic: Swissmedic
   swr: SWR
   tagesanzeiger: Tagesanzeiger
+  tagblatt: tagblatt.ch
   tkp: tp - Science & Technology
   uncutnews: Uncut-News
   unser-mitteleuropa: Unser Mitteleuropa
@@ -69,6 +72,7 @@ tag:
   medinside: medinside
   rt: rt
   substack: substack
+  tagblatt: tagblatt
   tichyseinblick: tichyseinblick
   tkp: tkp
   welt: welt
@@ -83,6 +87,7 @@ subtitle:
   medinside: ignore-og
   nordkurier: last
   reitschuster: last
+  tagblatt: last
   uncutnews: last
   unser-mitteleuropa: ignore-og
   welt: last
