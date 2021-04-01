@@ -50,7 +50,7 @@ tags:          [#{tags}]
     file_diff1 = YAML.load_file("#{site_data['filename']}.md")
     file_diff2 = YAML.load_file("../_posts/#{site_data['filename']}.md")
     if file_diff1 == file_diff2
-      puts "Files #{site_data['filename']}.md are identical, deleting local copy"
+      #puts "Files #{site_data['filename']}.md are identical, deleting local copy"
       File.delete("#{site_data['filename']}.md")
     else
       puts "Diff:"
