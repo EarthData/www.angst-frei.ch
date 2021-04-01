@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/corona-als-suendenbock-zentralbanken-habe
 title:      Wochenblick
 subtitle:   "Corona als Sündenbock: Zentralbanken haben uns ins Desaster geführt"
 country:    AT
-categories: MSM
+categories: [Wirtschaft]
 tags:       [wochenblick, geld]
 ---

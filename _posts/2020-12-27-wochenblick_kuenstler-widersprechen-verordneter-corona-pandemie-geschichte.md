@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/kuenstler-widersprechen-verordneter-coron
 title:      Wochenblick
 subtitle:   "Künstler widersprechen verordneter Corona-Pandemie-Geschichte"
 country:    AT
-categories: MSM
-tags:       [wochenblick, massnahmen]
+categories: [Widerstand]
+tags:       [wochenblick, massnahmen, kultur]
 ---

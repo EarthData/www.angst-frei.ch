@@ -4,7 +4,7 @@ redirect:   https://www.wochenblick.at/wissenschaftler-zerstoert-die-corona-maer
 title:      Wochenblick
 subtitle:   "Wissenschaftler zerstört die Corona-Märchen der Regierungen und Eliten"
 country:    AT
-persons:    Ioannidis John P.
-categories: MSM
-tags:       [wochenblick, zahlen, massnahmen]
+persons:    [Ioannidis John P.]
+categories: [Wissenschaft, Zahlen]
+tags:       [wochenblick, massnahmen]
 ---

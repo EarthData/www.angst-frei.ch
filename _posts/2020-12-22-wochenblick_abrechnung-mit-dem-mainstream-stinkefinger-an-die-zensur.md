@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/abrechnung-mit-dem-mainstream-stinkefinge
 title:      Wochenblick
 subtitle:   "Abrechnung mit dem Mainstream – Stinkefinger an die Zensur!"
 country:    AT
-categories: MSM
+categories: [MSM, Widerstand, Manipulation]
 tags:       [wochenblick, zensur]
 ---

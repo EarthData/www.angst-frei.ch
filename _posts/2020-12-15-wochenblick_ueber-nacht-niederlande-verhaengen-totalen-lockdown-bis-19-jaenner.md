@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/ueber-nacht-niederlande-verhaengen-totale
 title:      Wochenblick
 subtitle:   "Über Nacht: Niederlande verhängen totalen Lockdown bis 19. Jänner"
 country:    AT
-categories: MSM
-tags:       [wochenblick, lockdown2]
+categories: [Politik]
+tags:       [wochenblick, lockdown2, willkür, niederlande]
 ---

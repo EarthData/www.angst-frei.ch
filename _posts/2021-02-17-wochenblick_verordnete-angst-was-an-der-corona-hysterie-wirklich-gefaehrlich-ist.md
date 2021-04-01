@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/verordnete-angst-was-an-der-corona-hyster
 title:      Wochenblick
 subtitle:   "Verordnete Angst: Was an der Corona-Hysterie wirklich gefährlich ist"
 country:    AT
-categories: Mensch
+categories: [Mensch]
 tags:       [wochenblick, angst]
 ---

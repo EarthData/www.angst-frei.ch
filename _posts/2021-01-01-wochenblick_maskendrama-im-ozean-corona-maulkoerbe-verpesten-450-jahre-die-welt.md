@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/maskendrama-im-ozean-corona-maulkoerbe-ve
 title:      Wochenblick
 subtitle:   "Maskendrama im Ozean: Corona-Maulkörbe verpesten 450 Jahre die Welt"
 country:    AT
-categories: MSM
-tags:       [wochenblick, maske]
+categories: [Wissenschaft]
+tags:       [wochenblick, maske, kollateralschäden]
 ---

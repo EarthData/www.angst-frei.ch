@@ -145,12 +145,12 @@ class Scraper
     site_data['date'] = date
     site_data['redirect'] = clean_url
     site_data['title'] = site_name
-    site_data['subtitle'] = subtitle
+    site_data['subtitle'] = subtitle.gsub(/'/, "’")
     site_data['country'] = tld
     site_data['categories'] = []
     site_data['tags'] = tags
     site_data['filename'] = filename
- 
+
     return site_data
 
   end

@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/pfizer-vize-bekraeftigt-pcr-test-alleine-
 title:      Wochenblick
 subtitle:   "Pfizer-Vize bekräftigt: PCR-Test alleine sagt nichts über Infektion aus"
 country:    AT
-categories: Wissenschaft
+categories: [Wissenschaft]
 tags:       [wochenblick, pcr-test, infektion]
 ---

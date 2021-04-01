@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/gefaehrlicher-maskenwahn-millionenfache-k
 title:      Wochenblick
 subtitle:   "Gefährlicher Maskenwahn: Millionenfache Körperverletzung und Müllberge"
 country:    AT
-categories: Wissenschaft
+categories: [Wissenschaft]
 tags:       [wochenblick, maske, kollateralschäden]
 ---

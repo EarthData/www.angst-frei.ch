@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/kinder-vereinsamen-wegen-verschaerfung-de
 title:      Wochenblick
 subtitle:   "Kinder vereinsamen wegen Verschärfung der Corona-Maßnahmen"
 country:    AT
-categories: MSM
+categories: [Mensch]
 tags:       [wochenblick, massnahmen, kind]
 ---

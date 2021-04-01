@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/nobelpreistraeger-und-erfinder-des-pcr-te
 title:      Wochenblick
 subtitle:   "Nobelpreisträger und Erfinder des PCR-Tests: Missbrauch möglich"
 country:    AT
-categories: MSM
+categories: [Wissenschaft]
 tags:       [wochenblick, pcr-test]
 ---

@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/erzieherin-die-regierung-zerstoert-mutwil
 title:      Wochenblick
 subtitle:   "Kindergärtnerin: Die Regierung zerstört die Seelen unserer Kleinsten"
 country:    AT
-categories: MSM
+categories: [Politik, Mensch]
 tags:       [wochenblick, kind, massnahmen]
 ---

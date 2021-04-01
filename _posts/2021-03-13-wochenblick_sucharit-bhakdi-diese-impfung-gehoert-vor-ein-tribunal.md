@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/sucharit-bhakdi-diese-impfung-gehoert-
 title:         Wochenblick
 subtitle:      'Sucharit Bhakdi: Diese Impfung gehört vor ein Tribunal'
 country:       AT
-persons:       Bhakdi Sucharit
-categories:    [Impfung, Recht]
+persons:       [Bhakdi Sucharit]
+categories:    [Impfung, Recht, Widerstand]
 tags:          [wochenblick]
 ---

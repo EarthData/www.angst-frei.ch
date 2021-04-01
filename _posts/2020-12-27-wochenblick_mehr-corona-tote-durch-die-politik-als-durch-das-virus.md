@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/mehr-corona-tote-durch-die-politik-als-du
 title:      Wochenblick
 subtitle:   "Mehr Corona-Tote durch die Politik als durch das Virus?"
 country:    AT
-categories: MSM
-tags:       [wochenblick, zahlen]
+categories: [Politik, Zahlen]
+tags:       [wochenblick]
 ---

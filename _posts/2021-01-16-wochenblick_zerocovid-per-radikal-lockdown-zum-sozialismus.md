@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/zerocovid-per-radikal-lockdown-zum-sozial
 title:      Wochenblick
 subtitle:   "„ZeroCovid“: Per Radikal-Lockdown zum Sozialismus"
 country:    AT
-categories: MSM
+categories: [Wirtschaft, Politik]
 tags:       [wochenblick, zerocovid]
 ---

@@ -4,7 +4,7 @@ redirect:   https://www.wochenblick.at/horror-risiken-nach-corona-impfung-bekaem
 title:      Wochenblick
 subtitle:   "Horror-Risiken: Nach Corona-Impfung bekämpft Körper eigene Zellen"
 country:    AT
-persons:    Bhakdi Sucharit
+persons:    [Bhakdi Sucharit]
 categories: [Medizin, Impfung]
 tags:       [wochenblick, impf-nebenwirkungen]
 ---

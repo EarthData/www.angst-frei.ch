@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/corona-propagandist-bei-gespenstischem-ma
 title:      Wochenblick
 subtitle:   "Corona-Propagandist bei gespenstischem Masken-Auftritt im ORF entlarvt"
 country:    AT
-categories: MSM
+categories: [MSM, Manipulation]
 tags:       [wochenblick, pcr-test, lockdown2]
 ---

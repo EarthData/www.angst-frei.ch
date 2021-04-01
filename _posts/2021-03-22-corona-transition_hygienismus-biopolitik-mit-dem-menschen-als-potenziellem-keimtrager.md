@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Hygienismus: Biopolitik mit dem Menschen als potenziellem Keimträger'
 country:       ORG
 categories:    [Politik]
-tags:          [corona transition, impfzwang, grüner impfpass]
+tags:          [corona transition, impfzwang, impfpass]
 ---

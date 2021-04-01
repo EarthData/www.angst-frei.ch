@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Nein zu grünem Impfpass: Anwälte für Aufklärung beweisen Mut'
 country:       AT
 categories:    [Recht, Impfung, Widerstand]
-tags:          [wochenblick, grüner impfpass]
+tags:          [wochenblick, impfpass]
 ---

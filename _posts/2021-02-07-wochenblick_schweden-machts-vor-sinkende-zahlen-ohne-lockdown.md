@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/schweden-machts-vor-sinkende-zahlen-ohne-
 title:      Wochenblick
 subtitle:   "Schweden macht’s vor: Sinkende Zahlen ohne Lockdown!"
 country:    AT
-categories: Zahlen
-tags:       [wochenblick, schweden]
+categories: [Zahlen]
+tags:       [wochenblick, lockdown, schweden]
 ---

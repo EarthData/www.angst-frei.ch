@@ -4,7 +4,7 @@ redirect:   https://www.wochenblick.at/prof-bhakdi-ruft-zu-protest-gegen-unmoral
 title:      Wochenblick
 subtitle:   "Prof. Bhakdi ruft zu Protest gegen unmoralische Menschenversuche auf"
 country:    AT
-persons:    Bhakdi Sucharit
+persons:    [Bhakdi Sucharit]
 categories: [Impfung]
 tags:       [wochenblick, impf-nebenwirkungen]
 ---

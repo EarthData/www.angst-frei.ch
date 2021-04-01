@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/aerztliche-ethik-corona-dr-schiffmann-ver
 title:      Wochenblick
 subtitle:   "Ärztliche Ethik & Corona: Dr. Schiffmann verteidigt sich gegen Behörden"
 country:    AT
-categories: MSM
+categories: [Medizin]
 tags:       [wochenblick, massnahmen, schiffmann]
 ---

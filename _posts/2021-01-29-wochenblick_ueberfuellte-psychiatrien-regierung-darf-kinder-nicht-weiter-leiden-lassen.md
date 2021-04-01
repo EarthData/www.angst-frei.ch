@@ -4,6 +4,6 @@ redirect:   https://www.wochenblick.at/ueberfuellte-psychiatrien-regierung-darf-
 title:      Wochenblick
 subtitle:   "Überfüllte Psychiatrien: Regierung darf Kinder nicht weiter leiden lassen!"
 country:    AT
-categories: MSM
+categories: [Mensch, Politik]
 tags:       [wochenblick, kind, massnahmen]
 ---

@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Das ist das Problem an Corona, den Maßnahmen und dem Impfpass'
 country:       AT
 categories:    [Impfung, Mensch]
-tags:          [tkp, grüner impfpass, massnahmen]
+tags:          [tkp, impfpass, massnahmen]
 ---

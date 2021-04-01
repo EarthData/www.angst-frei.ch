@@ -46,18 +46,17 @@ tags:          [#{tags}]
     end
     File.write("#{site_data['filename']}.md", content)
 
-    #file_diff = %x(diff ./#{site_data['filename']}.md ../_posts/#{site_data['filename']}.md)
-    file_diff1 = YAML.load_file("#{site_data['filename']}.md")
-    file_diff2 = YAML.load_file("../_posts/#{site_data['filename']}.md")
-    if file_diff1 == file_diff2
-      #puts "Files #{site_data['filename']}.md are identical, deleting local copy"
-      File.delete("#{site_data['filename']}.md")
-    else
-      puts "Diff:"
-      puts file_diff1.to_a - file_diff2.to_a
-      puts file_diff2.to_a - file_diff1.to_a
-      #puts "#{file_diff1}"
-      #puts "#{file_diff2}"
+    if !warn_on_existing
+      file_diff1 = YAML.load_file("#{site_data['filename']}.md")
+      file_diff2 = YAML.load_file("../_posts/#{site_data['filename']}.md")
+      if file_diff1 == file_diff2
+        #puts "Files #{site_data['filename']}.md are identical, deleting local copy"
+        File.delete("#{site_data['filename']}.md")
+      else
+        puts "Diff:"
+        puts file_diff1.to_a - file_diff2.to_a
+        puts file_diff2.to_a - file_diff1.to_a
+      end
     end
   end
 end

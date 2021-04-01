@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/rechtsanwalt-belegt-ohne-pcr-test-kein
 title:         Wochenblick
 subtitle:      "Rechtsanwalt belegt: Ohne PCR-Test keine Pandemie"
 country:       AT
-persons:       Füllmich Reiner
-categories:    MSM
+persons:       [Füllmich Reiner]
+categories:    [Recht]
 tags:          [wochenblick, pcr-test]
 ---
