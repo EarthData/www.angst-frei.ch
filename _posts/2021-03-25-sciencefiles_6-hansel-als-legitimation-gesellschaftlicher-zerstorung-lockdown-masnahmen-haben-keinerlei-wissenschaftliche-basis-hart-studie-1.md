@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      '6-Hansel als Legitimation gesellschaftlicher Zerstörung: Lockdown-Maßnahmen haben keinerlei wissenschaftliche Basis – [HART-Studie 1]'
 country:       ORG
 categories:    [Studie]
-tags:          [sciencefilesi, massnahmen, asymptomatisch]
+tags:          [sciencefiles, massnahmen, asymptomatisch]
 ---

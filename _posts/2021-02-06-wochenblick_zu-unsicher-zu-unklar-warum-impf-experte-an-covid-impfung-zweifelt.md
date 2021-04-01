@@ -5,5 +5,5 @@ title:      Wochenblick
 subtitle:   "Zu unsicher, zu unklar: Warum Impf-Experte an Covid-Impfung zweifelt"
 country:    AT
 categories: [Medizin, Impfung, Studie]
-tags:       [wochenblick, impf-nebenwirkungen, immuntät]
+tags:       [wochenblick, impf-nebenwirkungen, immunität]
 ---

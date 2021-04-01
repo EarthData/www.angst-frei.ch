@@ -5,5 +5,5 @@ title:      Wochenblick
 subtitle:   "Eine Woche Corona-Statistik OÖ: 81,8 Jahre Altersschnitt, alle vorerkrankt"
 country:    AT
 categories: [Zahlen]
-tags:       [wochenblick, sterblichkeit, österreich]
+tags:       [wochenblick, sterblichkeit]
 ---

@@ -4,6 +4,6 @@ redirect:      https://corona-transition.org/margareta-griesz-brisson-jetzt-wird
 title:         Corona Transition
 subtitle:      'Die Neurologin Margareta Griesz-Brisson ruft die deutschen Ärztekammern zur Torpedierung der Regierungsmassnahmen auf'
 country:       CH
-categories:    [Wissenschaft, Widerstand]
-tags:          [corona transition, maske, impfung]
+categories:    [Wissenschaft, Widerstand, Impfung]
+tags:          [corona transition, maske]
 ---

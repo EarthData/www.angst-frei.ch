@@ -4,6 +4,6 @@ redirect:      https://reitschuster.de/post/die-impfung-ist-ein-experiment-an-me
 title:         reitschuster
 subtitle:      "„Diese Impfung ist ein Experiment an Menschen“"
 persons:       Hockertz Stefan
-categories:    Medien
-tags:          [reitschuster, impfung]
+categories:    [Impfung, Medizin]
+tags:          [reitschuster]
 ---

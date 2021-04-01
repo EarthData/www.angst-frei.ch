@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Unfassbar: Österreichisches Gericht entblößt Berlins Corona-Politik'
 country:       DE
 categories:    [Recht]
-tags:          [reitschuster, österreich, pcr-test]
+tags:          [reitschuster, pcr-test]
 ---
