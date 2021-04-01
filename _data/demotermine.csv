@@ -14,17 +14,31 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2124,DE,2021-04-01,17:30:00,04838,Eilenburg,Markt,Kundgebung,,unbekannt,
 1816,DE,2021-04-01,18:00:00,85586,Poing,Bahnhof Nordseite,Kundgebung,,Corona Poing,https://t.me/CoronaPoing
 2085,DE,2021-04-01,19:30:00,78467,Konstanz,Braschenplatz,Sport,,Friedenker Konstanz,
+2160,DE,2021-04-02,14:00:00,80539,München,Geschwister-Scholl-Platz,Kundgebung,,Frieden Freiheit Osterdemos,
 2094,DE,2021-04-02,15:30:00,22941,Bargteheide,Am Markt / Schulzentrum,Mahnwache,,Freitag für Freiheit Freude und Frieden,
+2161,DE,2021-04-02,16:00:00,80802,München,Münchner Freiheit,Kundgebung,,Frieden Freiheit Osterdemos,
 2123,DE,2021-04-02,17:00:00,81373,München,Harras,Kundgebung,,Open Mic Demo,https://openmic.onrender.com/
+2162,DE,2021-04-02,18:00:00,80333,München,Königsplatz,Kundgebung,,Frieden Freiheit Osterdemos,
+2163,DE,2021-04-03,09:30:00,81667,München,St. Johannes /  Preysingplatz,Demonstration,,Münchner Friedensbündnis,
+2148,DE,2021-04-03,09:30:00,86825,Bad Wörishofen,Kurpark am Barfußpfad,Schilderwald,,Freiheit Mindelheim,https://Freiheit-MN.de
 2134,DE,2021-04-03,10:00:00,01986,Senftenberg,Grubenstr. / Brieske,Autokorso,,unbekannt,
 2099,DE,2021-04-03,10:30:00,79271,St. Peter,Zähringer Eck /  Rossweiher,Versammlung,,Schwarzwald Netzwerk,https://schwarzwald-netzwerk.de/
 2109,DE,2021-04-03,11:00:00,24534,Neumünster,Am Markt / Marktplatz,Event,,Ministerium für Menschenrechte,https://www.mfmr.de
+2164,DE,2021-04-03,11:00:00,80539,München,Geschwister-Scholl-Platz,Demonstration,,Ostermarsch Münchner Friedensbündnis,
+2156,DE,2021-04-03,11:00:00,29223,Celle,Schützenplatz,Spaziergang,,Celle steht auf,
+2157,DE,2021-04-03,11:45:00,29223,Celle,Großer Plan,Kundgebung,,Celle steht auf,
 2065,DE,2021-04-03,12:00:00,70173,Stuttgart,Innenstadt,Aufzug,,Querdenken 711,https://querdenken-711.de/
+2165,DE,2021-04-03,12:30:00,80333,München,Königsplatz,Kundgebung,,Ostermarsch Münchner Friedensbündnis,
 1827,DE,2021-04-03,13:00:00,17109,Demmin,Am Bollwerk / Hanseufer,Autokorso,,,
 1953,DE,2021-04-03,14:00:00,94315,Straubing,Am Hagen,Kundgebung,,,
 1956,DE,2021-04-03,14:00:00,94315,Straubing,Hagen,Kundgebung,,,
 2130,DE,2021-04-03,14:00:00,64385,Reichelsheim,Bahnhofstr. / OE Aldi,Zusammenkunft,,Privat,
+2144,DE,2021-04-03,14:00:00,64385,Reichelsheim,B38 / Ortseingang Aldi,Versammlung,,unbekannt,
+2152,DE,2021-04-03,14:00:00,56068,Koblenz,Jesuitenplatz,Mahnwache,,unbekannt,
 2088,DE,2021-04-03,15:00:00,33098,Paderborn,Herz-Jesu Kirche Westerntor/B,Schweigemarsch,,unbekannt,
+2153,DE,2021-04-03,15:00:00,90402,Nürnberg,Jakobsplatz,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
+2149,DE,2021-04-03,15:00:00,96052,Bamberg,Maxplatz,Kundgebung,,unbekannt,
+2166,DE,2021-04-03,15:30:00,21073,Hamburg-Harburg,Museumsplatz 1 / am Brunnen,Meditation,,unbekannt,
 2126,DE,2021-04-03,15:30:00,45127,Essen,Willy-Brandt-Platz,Kundgebung,,Für den Erhalt der Freiheit,https://t.me/schuetztunserefreiheit
 2066,DE,2021-04-03,16:00:00,70372,Stuttgart,Cannstatter Wasen,Kundgebung,,Querdenken 711,https://querdenken-711.de/
 2089,DE,2021-04-03,16:00:00,33098,Paderborn,Domplatz,Kundgebung,,unbekannt,
@@ -36,6 +50,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2071,DE,2021-04-04,13:00:00,83527,Haag in Oberbayern,Marktplatz,Kundgebung,,Bürger im Dialog Haag i.Obb.,https://t.me/fuerfriedenundfreiheit
 1870,DE,2021-04-04,14:00:00,69231,Rauenberg,Rathausplatz,Kundgebung,,Grundgesetz Guerilla,https://www.facebook.com/GrundgesetzGuerilla
 2098,DE,2021-04-04,14:00:00,84503,Altötting,Dultplatz,Kundgebung,,Florian Fererers Initiative Schutz für Kinder,
+2154,DE,2021-04-04,14:30:00,50667,Köln,Heumarkt,Kundgebung,,Die Selbstdenker,
 1945,DE,2021-04-04,15:00:00,74936,Siegelsbach,Petersäcker 5,Versammlung,,,
 2028,DE,2021-04-04,15:00:00,74936,Siegelsbach,Petersäcker 5,Versammlung,,,
 2014,DE,2021-04-04,15:30:00,82140,Olching (FFB),Toni-März-Str. / Volksfestplatz,Kundgebung,,Amperfeen,https://www.amperfee.de
@@ -44,11 +59,15 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2119,AT,2021-04-05,14:00:00,6850,Dornbirn,Marktplatz Dornbirn,Kundgebung,,unbekannt,https://corona-demo.at/
 2135,DE,2021-04-05,15:00:00,07318,Saalfeld,Markt,Demonstration,,unbekannt,
 2101,DE,2021-04-05,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Spaziergang,,Querdenken 211,https://www.querdenken211.de
+2155,DE,2021-04-05,16:00:00,99974,Mühlhausen,Popperöder Quelle,Zusammenkunft,,unbekannt,
 2114,DE,2021-04-05,17:00:00,06333,Hettstedt,Markt / Denkmal,Kundgebung,,unbekannt,
 2112,DE,2021-04-05,17:00:00,23774,Heiligenhafen,Am Markt / Marktplatz,Event,,Ministerium für Menschenrechte,https://www.mfmr.de
+2150,DE,2021-04-05,17:30:00,96052,Bamberg,Bahnhof / ggü.,Spaziergang,,unbekannt,
 2121,DE,2021-04-05,18:00:00,92421,Schwandorf,Oberer Marktplatz,Kundgebung,,unbekannt,
 1901,DE,2021-04-05,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
+2145,DE,2021-04-05,18:00:00,89150,Laichingen,Marktplatz,Aufzug,,unbekannt,
 1928,DE,2021-04-05,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,Privat (zuletzt  z.B. am 22.3.21 /  180 Teilnehmer),https://t.me/LichterspaziergangGT
+2146,DE,2021-04-05,19:00:00,89150,Laichingen,Marktplatz,Kundgebung,,unbekannt,
 2103,DE,2021-04-05,19:00:00,47906,Kempen,Kuhtor,Kundgebung,,Privat,
 2137,DE,2021-04-06,18:00:00,64720,Michelstadt,Bienenmarktplatz,Spaziergang,,Privat,
 2128,DE,2021-04-08,11:30:00,91054,Erlangen,Schlossplatz,Mahnwache,,unbekannt,
@@ -56,9 +75,12 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2095,DE,2021-04-09,15:30:00,22941,Bargteheide,Am Markt / Schulzentrum,Mahnwache,,Freitag für Freiheit Freude und Frieden,
 2063,DE,2021-04-10,13:00:00,84405,Dorfen,Unterer Markt,Kundgebung,,Bürger im Dialog Haag i.Obb.,https://t.me/fuerfriedenundfreiheit
 2136,DE,2021-04-10,13:30:00,07318,Saalfeld,Markt,Autokorso,,unbekannt,
+2143,DE,2021-04-10,14:00:00,26122,Oldenburg,Schloßplatz,Aufzug,,Querdenken441,https://querdenken441.de
+2151,DE,2021-04-10,14:30:00,13597,Berlin,S-Bahnhof Spandau,Aufzug,,Wir sind Viele: AfA  Freedomparade  QD 30  Karlshorst steht auf  Straßenaufklärung Treptow  Freie Linke Kommunarden  Freiheitsboten,
 1806,DE,2021-04-10,17:00:00,84036,Landshut,Grieserwiese / [Aufstellung 16h],Autokorso,,Autokorso Landshut,https://www.freiheitsfahrer.de/
 2070,DE,2021-04-11,13:00:00,83559,Gars am Inn,Schulstr.,Kundgebung,,Bürger im Dialog Haag i.Obb.,https://t.me/fuerfriedenundfreiheit
 1871,DE,2021-04-11,14:00:00,69231,Rauenberg,Rathausplatz,Kundgebung,,Grundgesetz Guerilla,https://www.facebook.com/GrundgesetzGuerilla
+2158,DE,2021-04-11,14:00:00,60320,Frankfurt,Bertramstr. 8,Kundgebung,,unbekannt,
 2120,AT,2021-04-11,14:00:00,6900,Bludenz,Riedmillerplatz,Kundgebung,,unbekannt,https://corona-demo.at/
 2022,DE,2021-04-12,17:00:00,80331,München,Marienplatz,Musik,,Magic Monday MediTANZion - Meditation  Musik und Tanz für unsere Freiheit,http://www.mbsr-muenchen.net
 1902,DE,2021-04-12,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
