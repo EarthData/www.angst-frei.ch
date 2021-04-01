@@ -23,6 +23,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2148,DE,2021-04-03,09:30:00,86825,Bad Wörishofen,Kurpark am Barfußpfad,Schilderwald,,Freiheit Mindelheim,https://Freiheit-MN.de
 2134,DE,2021-04-03,10:00:00,01986,Senftenberg,Grubenstr. / Brieske,Autokorso,,unbekannt,
 2099,DE,2021-04-03,10:30:00,79271,St. Peter,Zähringer Eck /  Rossweiher,Versammlung,,Schwarzwald Netzwerk,https://schwarzwald-netzwerk.de/
+2167,DE,2021-04-03,11:00:00,70178,Stuttgart,Marienplatz,Kundgebung,,Querdenken 711,https://querdenken-711.de/
 2109,DE,2021-04-03,11:00:00,24534,Neumünster,Am Markt / Marktplatz,Event,,Ministerium für Menschenrechte,https://www.mfmr.de
 2164,DE,2021-04-03,11:00:00,80539,München,Geschwister-Scholl-Platz,Demonstration,,Ostermarsch Münchner Friedensbündnis,
 2156,DE,2021-04-03,11:00:00,29223,Celle,Schützenplatz,Spaziergang,,Celle steht auf,
@@ -34,7 +35,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 1956,DE,2021-04-03,14:00:00,94315,Straubing,Hagen,Kundgebung,,,
 2130,DE,2021-04-03,14:00:00,64385,Reichelsheim,Bahnhofstr. / OE Aldi,Zusammenkunft,,Privat,
 2144,DE,2021-04-03,14:00:00,64385,Reichelsheim,B38 / Ortseingang Aldi,Versammlung,,unbekannt,
+2170,DE,2021-04-03,14:00:00,80339,München,Theresienwiese,Autokorso,,Autokorso München,https://t.me/AutoKorsoMuc
 2152,DE,2021-04-03,14:00:00,56068,Koblenz,Jesuitenplatz,Mahnwache,,unbekannt,
+2175,DE,2021-04-03,14:00:00,36037,Fulda,Universitätsplatz,Kundgebung,,unbekannt,
 2088,DE,2021-04-03,15:00:00,33098,Paderborn,Herz-Jesu Kirche Westerntor/B,Schweigemarsch,,unbekannt,
 2153,DE,2021-04-03,15:00:00,90402,Nürnberg,Jakobsplatz,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 2149,DE,2021-04-03,15:00:00,96052,Bamberg,Maxplatz,Kundgebung,,unbekannt,
@@ -54,8 +57,10 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 1945,DE,2021-04-04,15:00:00,74936,Siegelsbach,Petersäcker 5,Versammlung,,,
 2028,DE,2021-04-04,15:00:00,74936,Siegelsbach,Petersäcker 5,Versammlung,,,
 2014,DE,2021-04-04,15:30:00,82140,Olching (FFB),Toni-März-Str. / Volksfestplatz,Kundgebung,,Amperfeen,https://www.amperfee.de
+2168,DE,2021-04-04,16:30:00,80339,München,Theresienwiese,Kundgebung,,Bayern steht zusammen e.V.,https://www.bayern-steht-zusammen.de/TERMINE/
 2111,DE,2021-04-05,11:00:00,23701,Eutin,Am Markt / Marktplatz,Event,,Ministerium für Menschenrechte,https://www.mfmr.de
 2125,DE,2021-04-05,12:00:00,28215,Bremen,Bürgerweide,Demonstration,https://DLive.tv/QD421,Querdenken 421,https://Querdenken-421.de
+2169,DE,2021-04-05,13:00:00,80339,München,Theresienwiese,Kundgebung,,Bayern steht zusammen e.V.,https://www.bayern-steht-zusammen.de/TERMINE/
 2119,AT,2021-04-05,14:00:00,6850,Dornbirn,Marktplatz Dornbirn,Kundgebung,,unbekannt,https://corona-demo.at/
 2135,DE,2021-04-05,15:00:00,07318,Saalfeld,Markt,Demonstration,,unbekannt,
 2101,DE,2021-04-05,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Spaziergang,,Querdenken 211,https://www.querdenken211.de
@@ -70,7 +75,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2146,DE,2021-04-05,19:00:00,89150,Laichingen,Marktplatz,Kundgebung,,unbekannt,
 2103,DE,2021-04-05,19:00:00,47906,Kempen,Kuhtor,Kundgebung,,Privat,
 2137,DE,2021-04-06,18:00:00,64720,Michelstadt,Bienenmarktplatz,Spaziergang,,Privat,
+2171,DE,2021-04-07,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2128,DE,2021-04-08,11:30:00,91054,Erlangen,Schlossplatz,Mahnwache,,unbekannt,
+2176,DE,2021-04-08,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2069,DE,2021-04-09,13:00:00,83543,Rott am Inn,Kaisergarten,Kundgebung,,Bürger im Dialog Haag i.Obb.,https://t.me/fuerfriedenundfreiheit
 2095,DE,2021-04-09,15:30:00,22941,Bargteheide,Am Markt / Schulzentrum,Mahnwache,,Freitag für Freiheit Freude und Frieden,
 2063,DE,2021-04-10,13:00:00,84405,Dorfen,Unterer Markt,Kundgebung,,Bürger im Dialog Haag i.Obb.,https://t.me/fuerfriedenundfreiheit
@@ -84,12 +91,18 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2120,AT,2021-04-11,14:00:00,6900,Bludenz,Riedmillerplatz,Kundgebung,,unbekannt,https://corona-demo.at/
 2022,DE,2021-04-12,17:00:00,80331,München,Marienplatz,Musik,,Magic Monday MediTANZion - Meditation  Musik und Tanz für unsere Freiheit,http://www.mbsr-muenchen.net
 1902,DE,2021-04-12,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
+2172,DE,2021-04-14,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
+2177,DE,2021-04-15,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2096,DE,2021-04-16,15:30:00,22941,Bargteheide,Am Markt / Schulzentrum,Mahnwache,,Freitag für Freiheit Freude und Frieden,
 2117,DE,2021-04-17,14:00:00,78713,Schramberg,St. Maria Kirche,Demonstration,,Friede und Freiheit,https://t.me/friede_und_freiheit/4837
 1903,DE,2021-04-19,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
+2173,DE,2021-04-21,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
+2178,DE,2021-04-22,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 1968,DE,2021-04-24,14:00:00,52064,Aachen,Eurogress Monheimsallee 48,Kundgebung,,Querdenken 241,
 1807,DE,2021-04-24,17:00:00,84036,Landshut,Grieserwiese / [Aufstellung 16h],Autokorso,,Autokorso Landshut,https://www.freiheitsfahrer.de/
 1904,DE,2021-04-26,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
+2174,DE,2021-04-28,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
+2179,DE,2021-04-29,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2026,DE,2021-05-01,14:00:00,80336,München,Theresienwiese,Aufzug,,Markus Haintz,https://t.me/Haintz
 2027,DE,2021-05-01,17:00:00,80336,München,Theresienwiese,Kundgebung,,Markus Haintz,https://t.me/Haintz
 1960,DE,2021-11-05,18:00:00,10117,Berlin,Pariser Platz / Brandenburger Tor,MillionMaskMarch,https://anonymous.support/live,Anonymous,https://anonymous.support
