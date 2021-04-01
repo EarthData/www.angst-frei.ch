@@ -3,7 +3,7 @@ date:          2021-03-28
 redirect:      https://corona-transition.org/mutierte-viren-und-die-gefahr-von-lockdowns
 title:         Corona Transition
 subtitle:      'Mutierte Viren und die Gefahr von Lockdowns'
-country:       ORG
+country:       CH
 categories:    [Wissenschaft]
 tags:          [corona transition, virus-mutation, lockdown]
 ---

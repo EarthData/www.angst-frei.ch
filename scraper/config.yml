@@ -97,5 +97,7 @@ cleanurl:
   nachdenkseiten: false
   deutschlandfunk: false
 country:
-  rt: DE
   achgut: DE
+  corona-transition: CH
+  rt: DE
+  sciencefiles: DE
