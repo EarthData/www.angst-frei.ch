@@ -10,7 +10,7 @@ scrape = Scraper.new
 #site_data = scrape.scrape_url(url, date)
 #tools.write_file(site_data)
 
-files = Dir.glob("../_posts/2021-03-*-rt_*.md")
+files = Dir.glob("../_posts/2020-*-rt_*.md")
 
 parameters = ['date', 'redirect', 'title', 'subtitle', 'timeline', 'country', 'persons', 'categories', 'tags', 'filename']
 
