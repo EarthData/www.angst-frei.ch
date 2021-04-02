@@ -49,6 +49,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2119,AT,2021-04-05,14:00:00,6850,Dornbirn,Marktplatz Dornbirn,Kundgebung,,unbekannt,https://corona-demo.at/
 2135,DE,2021-04-05,15:00:00,07318,Saalfeld,Markt,Demonstration,,unbekannt,
 2101,DE,2021-04-05,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Spaziergang,,Querdenken 211,https://www.querdenken211.de
+2186,DE,2021-04-05,16:00:00,64720,Michelstadt,Bienenmarkt-Platz,Kundgebung,,unbekannt,
 2155,DE,2021-04-05,16:00:00,99974,Mühlhausen,Popperöder Quelle,Zusammenkunft,,unbekannt,
 2114,DE,2021-04-05,17:00:00,06333,Hettstedt,Markt / Denkmal,Kundgebung,,unbekannt,
 2112,DE,2021-04-05,17:00:00,23774,Heiligenhafen,Am Markt / Marktplatz,Event,,Ministerium für Menschenrechte,https://www.mfmr.de
@@ -57,8 +58,10 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 1901,DE,2021-04-05,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
 2145,DE,2021-04-05,18:00:00,89150,Laichingen,Marktplatz,Aufzug,,unbekannt,
 1928,DE,2021-04-05,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,Privat (zuletzt  z.B. am 22.3.21 /  180 Teilnehmer),https://t.me/LichterspaziergangGT
+2191,DE,2021-04-05,19:00:00,99974,Mühlhausen / Thüringen,Postplatz,Kundgebung,,unbekannt,
 2146,DE,2021-04-05,19:00:00,89150,Laichingen,Marktplatz,Kundgebung,,unbekannt,
 2103,DE,2021-04-05,19:00:00,47906,Kempen,Kuhtor,Kundgebung,,Privat,
+2187,DE,2021-04-05,19:00:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,unbekannt,
 2137,DE,2021-04-06,18:00:00,64720,Michelstadt,Bienenmarktplatz,Spaziergang,,Privat,
 2171,DE,2021-04-07,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2128,DE,2021-04-08,11:30:00,91054,Erlangen,Schlossplatz,Mahnwache,,unbekannt,
@@ -66,6 +69,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2069,DE,2021-04-09,13:00:00,83543,Rott am Inn,Kaisergarten,Kundgebung,,Bürger im Dialog Haag i.Obb.,https://t.me/fuerfriedenundfreiheit
 2095,DE,2021-04-09,15:30:00,22941,Bargteheide,Am Markt / Schulzentrum,Mahnwache,,Freitag für Freiheit Freude und Frieden,
 2063,DE,2021-04-10,13:00:00,84405,Dorfen,Unterer Markt,Kundgebung,,Bürger im Dialog Haag i.Obb.,https://t.me/fuerfriedenundfreiheit
+2185,DE,2021-04-10,13:15:00,22299,Hamburg,Bebelallee,Autokorso,,Freiheitsfahrer Hamburg,
 2136,DE,2021-04-10,13:30:00,07318,Saalfeld,Markt,Autokorso,,unbekannt,
 2143,DE,2021-04-10,14:00:00,26122,Oldenburg,Schloßplatz,Aufzug,,Querdenken441,https://querdenken441.de
 2151,DE,2021-04-10,14:30:00,13597,Berlin,S-Bahnhof Spandau,Aufzug,,Wir sind Viele: AfA  Freedomparade  QD 30  Karlshorst steht auf  Straßenaufklärung Treptow  Freie Linke Kommunarden  Freiheitsboten,
@@ -76,16 +80,19 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2120,AT,2021-04-11,14:00:00,6900,Bludenz,Riedmillerplatz,Kundgebung,,unbekannt,https://corona-demo.at/
 2022,DE,2021-04-12,17:00:00,80331,München,Marienplatz,Musik,,Magic Monday MediTANZion - Meditation  Musik und Tanz für unsere Freiheit,http://www.mbsr-muenchen.net
 1902,DE,2021-04-12,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
+2188,DE,2021-04-12,19:00:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,unbekannt,
 2172,DE,2021-04-14,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2177,DE,2021-04-15,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2096,DE,2021-04-16,15:30:00,22941,Bargteheide,Am Markt / Schulzentrum,Mahnwache,,Freitag für Freiheit Freude und Frieden,
 2117,DE,2021-04-17,14:00:00,78713,Schramberg,St. Maria Kirche,Demonstration,,Friede und Freiheit,https://t.me/friede_und_freiheit/4837
 1903,DE,2021-04-19,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
+2189,DE,2021-04-19,19:00:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,unbekannt,
 2173,DE,2021-04-21,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2178,DE,2021-04-22,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 1968,DE,2021-04-24,14:00:00,52064,Aachen,Eurogress Monheimsallee 48,Kundgebung,,Querdenken 241,
 1807,DE,2021-04-24,17:00:00,84036,Landshut,Grieserwiese / [Aufstellung 16h],Autokorso,,Autokorso Landshut,https://www.freiheitsfahrer.de/
 1904,DE,2021-04-26,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
+2190,DE,2021-04-26,19:00:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,unbekannt,
 2174,DE,2021-04-28,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2179,DE,2021-04-29,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2026,DE,2021-05-01,14:00:00,80336,München,Theresienwiese,Aufzug,,Markus Haintz,https://t.me/Haintz
