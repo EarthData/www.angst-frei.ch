@@ -14,6 +14,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2156,DE,2021-04-03,11:00:00,29223,Celle,Schützenplatz,Spaziergang,,Celle steht auf,
 2157,DE,2021-04-03,11:45:00,29223,Celle,Großer Plan,Kundgebung,,Celle steht auf,
 2061,DE,2021-04-03,12:00:00,70173,Stuttgart,Marienplatz,Aufzug,,Querdenken 711,https://querdenken-711.de/
+2200,DE,2021-04-03,12:00:00,10117,Berlin,Platz des 18. März,Kundgebung,https://youtube.com/channel/UCQpCnHgX_g5_DmY3g7pKyYA/live,unbekannt,
 2165,DE,2021-04-03,12:30:00,80333,München,Königsplatz,Kundgebung,,Ostermarsch Münchner Friedensbündnis,
 1827,DE,2021-04-03,13:00:00,17109,Demmin,Am Bollwerk / Hanseufer,Autokorso,,,
 1953,DE,2021-04-03,14:00:00,94315,Straubing,Am Hagen,Kundgebung,,,
@@ -25,6 +26,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2175,DE,2021-04-03,14:00:00,36037,Fulda,Universitätsplatz,Kundgebung,,unbekannt,
 2088,DE,2021-04-03,15:00:00,33098,Paderborn,Herz-Jesu Kirche Westerntor/B,Schweigemarsch,,unbekannt,
 2153,DE,2021-04-03,15:00:00,90402,Nürnberg,Jakobsplatz,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
+2199,DE,2021-04-03,15:00:00,44787,Bochum,Dr.-Ruer-Platz,Demonstration,,Querdenken 234 - Bochum,https://querdenken-234.de
 2149,DE,2021-04-03,15:00:00,96052,Bamberg,Maxplatz,Kundgebung,,unbekannt,
 2166,DE,2021-04-03,15:30:00,21073,Hamburg-Harburg,Museumsplatz 1 / am Brunnen,Meditation,,unbekannt,
 2126,DE,2021-04-03,15:30:00,45127,Essen,Willy-Brandt-Platz,Kundgebung,,Für den Erhalt der Freiheit,https://t.me/schuetztunserefreiheit
@@ -42,7 +44,6 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 1945,DE,2021-04-04,15:00:00,74936,Siegelsbach,Petersäcker 5,Versammlung,,,
 2028,DE,2021-04-04,15:00:00,74936,Siegelsbach,Petersäcker 5,Versammlung,,,
 2014,DE,2021-04-04,15:30:00,82140,Olching (FFB),Toni-März-Str. / Volksfestplatz,Kundgebung,,Amperfeen,https://www.amperfee.de
-2168,DE,2021-04-04,16:30:00,80339,München,Theresienwiese,Kundgebung,,Bayern steht zusammen e.V.,https://www.bayern-steht-zusammen.de/TERMINE/
 2111,DE,2021-04-05,11:00:00,23701,Eutin,Am Markt / Marktplatz,Event,,Ministerium für Menschenrechte,https://www.mfmr.de
 2125,DE,2021-04-05,12:00:00,28215,Bremen,Bürgerweide,Demonstration,https://DLive.tv/QD421,Querdenken 421,https://Querdenken-421.de
 2169,DE,2021-04-05,13:00:00,80339,München,Theresienwiese,Kundgebung,,Bayern steht zusammen e.V.,https://www.bayern-steht-zusammen.de/TERMINE/
