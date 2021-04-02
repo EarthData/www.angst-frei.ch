@@ -1,9 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-2160,DE,2021-04-02,14:00:00,80539,München,Geschwister-Scholl-Platz,Kundgebung,,Frieden Freiheit Osterdemos,
-2094,DE,2021-04-02,15:30:00,22941,Bargteheide,Am Markt / Schulzentrum,Mahnwache,,Freitag für Freiheit Freude und Frieden,
-2161,DE,2021-04-02,16:00:00,80802,München,Münchner Freiheit,Kundgebung,,Frieden Freiheit Osterdemos,
-2123,DE,2021-04-02,17:00:00,81373,München,Harras,Kundgebung,,Open Mic Demo,https://openmic.onrender.com/
-2162,DE,2021-04-02,18:00:00,80333,München,Königsplatz,Kundgebung,,Frieden Freiheit Osterdemos,
 2163,DE,2021-04-03,09:30:00,81667,München,St. Johannes /  Preysingplatz,Demonstration,,Münchner Friedensbündnis,
 2148,DE,2021-04-03,09:30:00,86825,Bad Wörishofen,Kurpark am Barfußpfad,Schilderwald,,Freiheit Mindelheim,https://Freiheit-MN.de
 2134,DE,2021-04-03,10:00:00,01986,Senftenberg,Grubenstr. / Brieske,Autokorso,,unbekannt,
@@ -67,6 +62,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2191,DE,2021-04-05,19:00:00,99974,Mühlhausen / Thüringen,Postplatz,Kundgebung,,unbekannt,
 2146,DE,2021-04-05,19:00:00,89150,Laichingen,Marktplatz,Kundgebung,,unbekannt,
 2103,DE,2021-04-05,19:00:00,47906,Kempen,Kuhtor,Kundgebung,,Privat,
+2204,DE,2021-04-05,19:00:00,87600,Kaufbeuren,Altes Rathaus,Spaziergang,,unbekannt,
 2187,DE,2021-04-05,19:00:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,unbekannt,
 2137,DE,2021-04-06,18:00:00,64720,Michelstadt,Bienenmarktplatz,Spaziergang,,Privat,
 2171,DE,2021-04-07,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
