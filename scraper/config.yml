@@ -66,6 +66,7 @@ tag:
   aerzteblatt: ärzteblatt
   corona-blog: corona-blog
   deutsche-apotheker-zeitung: daz
+  dgkj: dgkj
   fm1today: fm1today
   focus: focus
   insideparadeplatz: inside-paradeplatz
@@ -86,7 +87,7 @@ subtitle:
   kenfm: last
   medinside: ignore-og
   nordkurier: last
-  reitschuster: last
+  reitschuster: last-
   tagblatt: last
   uncutnews: last
   unser-mitteleuropa: ignore-og

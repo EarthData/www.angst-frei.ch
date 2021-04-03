@@ -134,6 +134,11 @@ class Scraper
       puts "Change title to: #{subtitle}" if debug
     end
 
+    if config['subtitle'][domain] && config['subtitle'][domain] = 'last-'
+      subtitle.gsub!(/[\s]+[-][\s]+.*$/, "")
+      puts "Change title to: #{subtitle}" if debug
+    end
+
     #title = '' if not (title.force_encoding("UTF-8").valid_encoding?)
     #title = title.chars.select(&:valid_encoding?).join
     #puts "Title: :" + title.delete!("^\u{0000}-\u{007F}") + ":"
