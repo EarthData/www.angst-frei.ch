@@ -23,6 +23,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 1901,DE,2021-04-05,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
 2145,DE,2021-04-05,18:00:00,89150,Laichingen,Marktplatz,Aufzug,,unbekannt,
 1928,DE,2021-04-05,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,Privat (zuletzt  z.B. am 22.3.21 /  180 Teilnehmer),https://t.me/LichterspaziergangGT
+2228,DE,2021-04-05,18:00:00,79098,Freiburg,Platz der alten Synagoge,Mahnwache,,unbekannt,
 2198,DE,2021-04-05,18:00:00,14057,Berlin,Lietzenseepark,Spaziergang,,Freie Bürger Charlottenburg,https://t.me/abendlaeuten
 2207,DE,2021-04-05,18:00:00,02625,Bautzen,Kornmarkt,Mahnwache,,unbekannt,https://www.denkste-mit.de/#willkommen
 2202,DE,2021-04-05,19:00:00,06526,Sangerhausen,Markt,Spaziergang,,unbekannt,
@@ -33,6 +34,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2206,DE,2021-04-05,19:00:00,21640,Buxtehude,Rathausplatz,Spaziergang,,unbekannt,
 2187,DE,2021-04-05,19:00:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,unbekannt,
 2137,DE,2021-04-06,18:00:00,64720,Michelstadt,Bienenmarktplatz,Spaziergang,,Privat,
+2229,DE,2021-04-06,18:30:00,79108,Freiburg,Neues SC-Stadion / Flugplatz,Autokorso,,unbekannt,https://www.zukunft-fr.de
 2220,DE,2021-04-07,16:00:00,70184,Stuttgart,Dobelstr. / Hohenheimer Str.,Kundgebung,,Privat,
 2171,DE,2021-04-07,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2128,DE,2021-04-08,11:30:00,91054,Erlangen,Schlossplatz,Mahnwache,,unbekannt,
@@ -43,6 +45,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2095,DE,2021-04-09,15:30:00,22941,Bargteheide,Am Markt / Schulzentrum,Mahnwache,,Freitag für Freiheit Freude und Frieden,
 2221,DE,2021-04-09,17:00:00,70372,Stuttgart / Bad Cannstatt,Cannstatter Wasen Parkpl. P10,Fahrraddemo,,Privat,
 2226,DE,2021-04-09,17:15:00,78713,Schramberg,Parkplatz am Schloss / Talstadt,Kundgebung,,unbekannt,https://t.me/friede_und_freiheit/5027
+2227,DE,2021-04-10,10:30:00,79271,St. Peter,Zähringer Eck / Rossweiher,Versammlung,,Schwarzwald Netzwerk,https://schwarzwald-netzwerk.de
 2063,DE,2021-04-10,13:00:00,84405,Dorfen,Unterer Markt,Kundgebung,,Bürger im Dialog Haag i.Obb.,https://t.me/fuerfriedenundfreiheit
 2185,DE,2021-04-10,13:15:00,22299,Hamburg,Bebelallee,Autokorso,,Freiheitsfahrer Hamburg,
 2136,DE,2021-04-10,13:30:00,07318,Saalfeld,Markt,Autokorso,,unbekannt,
