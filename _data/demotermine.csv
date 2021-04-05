@@ -5,7 +5,6 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2125,DE,2021-04-05,12:00:00,28215,Bremen,Bürgerweide,Demonstration,https://DLive.tv/QD421,Querdenken 421,https://Querdenken-421.de
 2216,DE,2021-04-05,12:00:00,28195,Bremen,Bürgerweide,Kundgebung,,unbekannt,
 2169,DE,2021-04-05,13:00:00,80339,München,Theresienwiese,Kundgebung,,Bayern steht zusammen e.V.,https://www.bayern-steht-zusammen.de/TERMINE/
-2215,DE,2021-04-05,13:00:00,80336,München,Therrsienwiese,Kundgebung,,Bayern steht zusammen,https://www.bayern-steht-zusammen.de
 2119,AT,2021-04-05,14:00:00,6850,Dornbirn,Marktplatz Dornbirn,Kundgebung,,unbekannt,https://corona-demo.at/
 2225,DE,2021-04-05,14:00:00,10117,Berlin,Brandenburger Tor,Mahnwache,https://youtube.com/channel/UCQpCnHgX_g5_DmY3g7pKyYA/live,Compact Magazin,https://www.facebook.com/155330287422/posts/10157957861017423/?d=n
 2135,DE,2021-04-05,15:00:00,07318,Saalfeld,Markt,Demonstration,,unbekannt,
@@ -14,10 +13,12 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2101,DE,2021-04-05,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Spaziergang,,Querdenken 211,https://www.querdenken211.de
 2186,DE,2021-04-05,16:00:00,64720,Michelstadt,Bienenmarkt-Platz,Kundgebung,,unbekannt,
 2155,DE,2021-04-05,16:00:00,99974,Mühlhausen,Popperöder Quelle,Zusammenkunft,,unbekannt,
+2241,DE,2021-04-05,17:00:00,17166,Teterow,Marktplatz,Kundgebung,,unbekannt,
 2214,DE,2021-04-05,17:00:00,80539,München,Geschwister-Scholl-Platz,Kundgebung,,Frieden Freiheit Osterdemos,
 2114,DE,2021-04-05,17:00:00,06333,Hettstedt,Markt / Denkmal,Kundgebung,,unbekannt,
 2112,DE,2021-04-05,17:00:00,23774,Heiligenhafen,Am Markt / Marktplatz,Event,,Ministerium für Menschenrechte,https://www.mfmr.de
 2150,DE,2021-04-05,17:30:00,96052,Bamberg,Bahnhof / ggü.,Spaziergang,,unbekannt,
+2243,DE,2021-04-05,18:00:00,02763,Zittau,Stadtring,Spaziergang,,unbekannt,
 2121,DE,2021-04-05,18:00:00,92421,Schwandorf,Oberer Marktplatz,Kundgebung,,unbekannt,
 2219,DE,2021-04-05,18:00:00,49074,Osnabrück,Rathaus,Demonstration,,unbekannt,
 1901,DE,2021-04-05,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
@@ -50,11 +51,13 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2227,DE,2021-04-10,10:30:00,79271,St. Peter,Zähringer Eck / Rossweiher,Versammlung,,Schwarzwald Netzwerk,https://schwarzwald-netzwerk.de
 2063,DE,2021-04-10,13:00:00,84405,Dorfen,Unterer Markt,Kundgebung,,Bürger im Dialog Haag i.Obb.,https://t.me/fuerfriedenundfreiheit
 2185,DE,2021-04-10,13:15:00,22299,Hamburg,Bebelallee,Autokorso,,Freiheitsfahrer Hamburg,
+2239,DE,2021-04-10,13:30:00,74889,Sinsheim,Dietmar-Hopp-Str. 1 / TSG Stadion / P10,Autokorso,,Freiheitsfahrer und Querdenken7261,https://t.me/Querdenken7261
 2136,DE,2021-04-10,13:30:00,07318,Saalfeld,Markt,Autokorso,,unbekannt,
 2143,DE,2021-04-10,14:00:00,26122,Oldenburg,Schloßplatz,Aufzug,,Querdenken441,https://querdenken441.de
 2217,DE,2021-04-10,14:30:00,67346,Speyer,Domplatz / Dom,Demonstration,,unbekannt,
 2151,DE,2021-04-10,14:30:00,13597,Berlin,S-Bahnhof Spandau,Aufzug,,Wir sind Viele: AfA  Freedomparade  QD 30  Karlshorst steht auf  Straßenaufklärung Treptow  Freie Linke Kommunarden  Freiheitsboten,
 2192,DE,2021-04-10,15:00:00,50678,Köln,Köln Rudolfplatz,Demonstration,,Koeln ist aktiv,https://koelnistaktiv.de
+2242,DE,2021-04-10,15:30:00,21073,Hamburg-Harburg,Museumsplatz 1 / am Brunnen,Meditation,,unbekannt,
 1806,DE,2021-04-10,17:00:00,84036,Landshut,Grieserwiese / [Aufstellung 16h],Autokorso,,Autokorso Landshut,https://www.freiheitsfahrer.de/
 2193,DE,2021-04-10,17:30:00,50678,Köln,Köln Rudolfplatz,Spaziergang,,Koeln ist aktiv,https://koelnistaktiv.de
 2070,DE,2021-04-11,13:00:00,83559,Gars am Inn,Schulstr.,Kundgebung,,Bürger im Dialog Haag i.Obb.,https://t.me/fuerfriedenundfreiheit
