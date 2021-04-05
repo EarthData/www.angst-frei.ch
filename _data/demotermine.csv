@@ -14,12 +14,15 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2186,DE,2021-04-05,16:00:00,64720,Michelstadt,Bienenmarkt-Platz,Kundgebung,,unbekannt,
 2155,DE,2021-04-05,16:00:00,99974,Mühlhausen,Popperöder Quelle,Zusammenkunft,,unbekannt,
 2241,DE,2021-04-05,17:00:00,17166,Teterow,Marktplatz,Kundgebung,,unbekannt,
+2253,DE,2021-04-05,17:00:00,18055,Rostock,Am Stadthafen,Kundgebung,,unbekannt,
 2214,DE,2021-04-05,17:00:00,80539,München,Geschwister-Scholl-Platz,Kundgebung,,Frieden Freiheit Osterdemos,
+2247,DE,2021-04-05,17:00:00,24103,Kiel,Exerzierplatz,Versammlung,,Kieler Aktionsnetzwerk für Frieden Freiheit und Demokratie,
 2114,DE,2021-04-05,17:00:00,06333,Hettstedt,Markt / Denkmal,Kundgebung,,unbekannt,
 2112,DE,2021-04-05,17:00:00,23774,Heiligenhafen,Am Markt / Marktplatz,Event,,Ministerium für Menschenrechte,https://www.mfmr.de
 2150,DE,2021-04-05,17:30:00,96052,Bamberg,Bahnhof / ggü.,Spaziergang,,unbekannt,
 2243,DE,2021-04-05,18:00:00,02763,Zittau,Stadtring,Spaziergang,,unbekannt,
 2121,DE,2021-04-05,18:00:00,92421,Schwandorf,Oberer Marktplatz,Kundgebung,,unbekannt,
+2254,DE,2021-04-05,18:00:00,18057,Rostock,Neuer Markt,Aufzug,,Montags-Demo,
 2219,DE,2021-04-05,18:00:00,49074,Osnabrück,Rathaus,Demonstration,,unbekannt,
 1901,DE,2021-04-05,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
 2145,DE,2021-04-05,18:00:00,89150,Laichingen,Marktplatz,Aufzug,,unbekannt,
@@ -36,16 +39,21 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2238,DE,2021-04-05,19:00:00,07973,Greiz,Marktbrunnen,Kundgebung,,Greiz steht auf,
 2206,DE,2021-04-05,19:00:00,21640,Buxtehude,Rathausplatz,Spaziergang,,unbekannt,
 2187,DE,2021-04-05,19:00:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,unbekannt,
+2249,DE,2021-04-06,18:00:00,33758,Schloß Holte-Stukenbrock,Kirchplatz / Holte,Spaziergang,,Privat,
 2137,DE,2021-04-06,18:00:00,64720,Michelstadt,Bienenmarktplatz,Spaziergang,,Privat,
 2229,DE,2021-04-06,18:30:00,79108,Freiburg,Neues SC-Stadion / Flugplatz,Autokorso,,unbekannt,https://www.zukunft-fr.de
 2220,DE,2021-04-07,16:00:00,70184,Stuttgart,Dobelstr. / Hohenheimer Str.,Kundgebung,,Privat,
+2252,DE,2021-04-07,17:00:00,18196,Dummerstorf,Rathaus,Kundgebung,,Querdenken 381,
 2171,DE,2021-04-07,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2128,DE,2021-04-08,11:30:00,91054,Erlangen,Schlossplatz,Mahnwache,,unbekannt,
+2255,DE,2021-04-08,16:00:00,18057,Rostock,Neuer Markt / am Rathaus,Kundgebung,,unbekannt,
+2248,DE,2021-04-08,17:00:00,83278,Traunstein,Stadtplatz,Versammlung,https://dlive.tv/861Querdenken-TS?ref=papageienumschau,Querdenken,http://www.querdenken-ts.de
 2223,DE,2021-04-08,17:00:00,06295,Lutherstadt Eisleben,Markt / Denkmal,Kundgebung,,unbekannt,
 2196,DE,2021-04-08,17:30:00,72622,Nürtingen,Ochsenbrunnen - Schillerplatz,Kundgebung,,Querdenken 702,
 2176,DE,2021-04-08,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2069,DE,2021-04-09,13:00:00,83543,Rott am Inn,Kaisergarten,Kundgebung,,Bürger im Dialog Haag i.Obb.,https://t.me/fuerfriedenundfreiheit
 2095,DE,2021-04-09,15:30:00,22941,Bargteheide,Am Markt / Schulzentrum,Mahnwache,,Freitag für Freiheit Freude und Frieden,
+2250,DE,2021-04-09,17:00:00,83301,Traunreut,Rathausplatz,Kundgebung,https://dlive.tv/861Querdenken-TS?ref=papageienumschau,unbekannt,www.querdenken-ts.de
 2221,DE,2021-04-09,17:00:00,70372,Stuttgart / Bad Cannstatt,Cannstatter Wasen Parkpl. P10,Fahrraddemo,,Privat,
 2226,DE,2021-04-09,17:15:00,78713,Schramberg,Parkplatz am Schloss / Talstadt,Kundgebung,,unbekannt,https://t.me/friede_und_freiheit/5027
 2227,DE,2021-04-10,10:30:00,79271,St. Peter,Zähringer Eck / Rossweiher,Versammlung,,Schwarzwald Netzwerk,https://schwarzwald-netzwerk.de
@@ -54,6 +62,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2239,DE,2021-04-10,13:30:00,74889,Sinsheim,Dietmar-Hopp-Str. 1 / TSG Stadion / P10,Autokorso,,Freiheitsfahrer und Querdenken7261,https://t.me/Querdenken7261
 2136,DE,2021-04-10,13:30:00,07318,Saalfeld,Markt,Autokorso,,unbekannt,
 2143,DE,2021-04-10,14:00:00,26122,Oldenburg,Schloßplatz,Aufzug,,Querdenken441,https://querdenken441.de
+2244,DE,2021-04-10,14:00:00,26441,Jever,Alter Markt / Sagenbrunnen,Kundgebung,,Querdenken 446,https://querdenken-446.de
 2217,DE,2021-04-10,14:30:00,67346,Speyer,Domplatz / Dom,Demonstration,,unbekannt,
 2151,DE,2021-04-10,14:30:00,13597,Berlin,S-Bahnhof Spandau,Aufzug,,Wir sind Viele: AfA  Freedomparade  QD 30  Karlshorst steht auf  Straßenaufklärung Treptow  Freie Linke Kommunarden  Freiheitsboten,
 2192,DE,2021-04-10,15:00:00,50678,Köln,Köln Rudolfplatz,Demonstration,,Koeln ist aktiv,https://koelnistaktiv.de
@@ -93,6 +102,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2179,DE,2021-04-29,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2026,DE,2021-05-01,14:00:00,80336,München,Theresienwiese,Aufzug,,Markus Haintz,https://t.me/Haintz
 2027,DE,2021-05-01,17:00:00,80336,München,Theresienwiese,Kundgebung,,Markus Haintz,https://t.me/Haintz
+2251,DE,2021-05-08,14:00:00,83278,Traunstein,Salinenpark,Aufzug,https://dlive.tv/861Querdenken-TS?ref=papageienumschau,Querdenker-861,www.querdenken-ts.de
 1960,DE,2021-11-05,18:00:00,10117,Berlin,Pariser Platz / Brandenburger Tor,MillionMaskMarch,https://anonymous.support/live,Anonymous,https://anonymous.support
 1963,DE,2021-12-24,12:00:00,10178,Berlin,Weltzeituhr / Alexanderplatz,OpSafeWinter,https://anonymous.support/live,Anonymous,https://anonymous.support
 1617,DE,2021-12-31,23:59:00,10117,Berlin,Brandenburger Tor,Event,,,
