@@ -1,6 +1,7 @@
 require 'nokogiri'
 require 'open-uri'
 require 'yaml'
+require 'json'
 
 class Scraper
 
@@ -38,6 +39,8 @@ class Scraper
       document = document.split('-').first
     elsif config['article'][domain] == "previous"
       document = clean_url.split('/')[clean_url.split('/').length - 2]
+    elsif config['article'][domain] == "pprevious"
+      document = clean_url.split('/')[clean_url.split('/').length - 3]
     elsif config['article'][domain] == "page"
       document = clean_url.split('/').last.split("=")[1]
     end
@@ -46,6 +49,15 @@ class Scraper
 
     html = URI.open(url, "Accept-Encoding" => "plain") 
     doc = Nokogiri::HTML(html)
+
+    # read application/ld+json
+    if doc.at("script[type='application/ld+json']")
+      ld_json = doc.at("script[type='application/ld+json']").text
+      ld_meta =  JSON.parse(ld_json)
+      if ld_meta.kind_of?(Array)
+        ld_meta = ld_meta.first
+      end
+    end
 
     # sitename
     if config['sitename'][domain]
@@ -72,7 +84,9 @@ class Scraper
     end
 
     # date
-    if doc.at("meta[name='publish-date']")
+    if ld_meta and ld_meta['datePublished']
+      published_time = ld_meta['datePublished'].to_s
+    elsif doc.at("meta[name='publish-date']")
       published_time = doc.at("meta[name='publish-date']")['content'].to_s.strip
       puts "Date: #{published_time} (meta publish-date)" if debug
     elsif doc.at("meta[name='date']")

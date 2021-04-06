@@ -11,7 +11,7 @@ subtitle: Filme
 
 Einige wenige Pharmaunternehmen teilen sich einen riesigen Markt und beeinflussen gesundheitspolitische Entscheidungen weltweit. Die Dokumentation "Big Pharma" schlüsselt die Praktiken der Unternehmen auf.
 
-{% include youtubePlayer.html id="WwHr4mYkhF4" %}
+{% include youtubePlayer.html id="wHP-k25Vwkg" %}
 
 ## arte - Corona: Sicherheit kontra Freiheit
 
@@ -55,6 +55,16 @@ Having the courage to face out fears
 Ein lebensgefährlicher Virus scheint seit Mai 2009 die Menschheit zu bedrohen. Seit die ersten Fälle der so genannten Schweinegrippe in Mexiko gemeldet wurden, steht die Welt Kopf. Jeden Tag sterben angeblich mehr und mehr Menschen an dem vermeintlich neuen Virus.
 
 {% include youtubePlayer.html id="0mlim_sQsRI" %}
+
+## Lockdown Kinderrechte
+
+21.03.2021
+{:class="date-meta"}
+
+| {{ site.icons.globe }}    | [www.lockdown-kinderrechte.at](https://www.lockdown-kinderrechte.at/) |
+
+
+{% include youtubePlayer.html id="CDDl1gTceoo" %}
 
 ## Unerhört
 

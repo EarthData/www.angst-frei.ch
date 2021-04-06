@@ -1,12 +1,16 @@
 article:
   aerzteblatt: previous
   aerztezeitung: last
+  admin: last
+  ardmediathek: pprevious
   berliner-zeitung: lastdot
   deutschlandfunk: page
   dieostschweiz: last
   epochtimes: last
   focus: last_
   fm1today: last
+  heise: last
+  meinbezirk: last_
   nordkurier: last
   linth24: first
   nachdenkseiten: page
@@ -14,6 +18,7 @@ article:
   ndr: lastcomma
   n-tv: last
   nzz: lastdot
+  pharmazeutische-zeitung: last
   rnd: last
   rt: first
   tagesanzeiger: last
@@ -22,7 +27,9 @@ article:
 sitename:
   2020news: 2020 News
   achgut: Achgut.com
+  admin: Bundesrat
   aerztezeitung: AerzteZeitung
+  ardmediathek: ARD
   deutsche-apotheker-zeitung: Deutsche Apotheker Zeitung
   dieostschweiz: Die Ostschweiz
   epochtimes: Epoch Times
@@ -71,12 +78,14 @@ tag:
   focus: focus
   insideparadeplatz: inside-paradeplatz
   medinside: medinside
+  meinbezirk: meinbezirk
   rt: rt
   substack: substack
   tagblatt: tagblatt
   tichyseinblick: tichyseinblick
   tkp: tkp
   welt: welt
+  zeitpunkt: zeitpunkt
 subtitle:
   2020news: last
   corona-blog: last
@@ -87,6 +96,7 @@ subtitle:
   kenfm: last
   medinside: ignore-og
   nordkurier: last
+  pharmazeutische-zeitung: last
   reitschuster: last-
   tagblatt: last
   uncutnews: last
@@ -101,4 +111,5 @@ country:
   achgut: DE
   corona-transition: CH
   rt: DE
+  rubikon: DE
   sciencefiles: DE

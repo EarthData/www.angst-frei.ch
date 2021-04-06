@@ -4,6 +4,6 @@ redirect:      https://reitschuster.de/post/die-beunruhigenden-zahlen-zu-impfsch
 title:         reitschuster
 subtitle:      'Die beunruhigenden Zahlen zu Impfschäden und das Schweigen der Medien'
 country:       DE
-categories:    [Impfung, Zahlen]
+categories:    [Impfung, Zahlen, MSM]
 tags:          [reitschuster, impf-nebenwirkungen, pei]
 ---
