@@ -43,7 +43,9 @@ navbar-links:
     - Impfung: /timeline/impfung.html
   Events: /events.html
   Infos: /infos.html
-  Netzwerk: /network/index.html
+  Netzwerk: 
+    - Personen: /network/person.html
+    - News: /network/link.html
 
 # --- Logo --- #
 

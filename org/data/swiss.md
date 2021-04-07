@@ -45,9 +45,9 @@ Die offiziellen Daten vom BAG.
 
 Mortalitätsmonitoring (MOMO)
 
-<div class="bfsviz-widget" data-vizid="gd-14.03.04.04-wr-3" data-lang="de"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/widget/widget-v1.2.0.js"></script>
+<div class="bfsviz-widget" data-vizid="gd-14.03.04.05-wr-4" data-lang="de"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/widget/widget-v1.2.0.js"></script>
 
-<div class="bfsviz-widget" data-vizid="gd-14.03.04.05-wr-3" data-lang="de"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/widget/widget-v1.2.0.js"></script>
+<div class="bfsviz-widget" data-vizid="gd-14.03.04.04-wr-4" data-lang="de"></div><script async src="https://viz.bfs.admin.ch/libs/viz-bfs/widget/widget-v1.2.0.js"></script>
 
 Wöchentliche Todesfälle, 2020 - 2021
 

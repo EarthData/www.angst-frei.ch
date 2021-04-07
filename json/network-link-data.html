@@ -1,0 +1,26 @@
+---
+layout:
+title:
+permalink: /json/network-link-data.json
+---
+
+{
+  "nodes": [
+    {%- for node in site.data.network-link-nodes -%}
+    {
+      "id": "{{ node.id }}",
+      "label": "{{ node.label | replace: '"', "'" }}"
+    }
+    {%unless forloop.last %},{%endunless%}
+    {%- endfor -%}
+  ],
+  "edges": [
+    {%- for edge in site.data.network-link-edges -%}
+    {
+      "from": "{{ edge.from }}",
+      "to": "{{ edge.to }}"
+    }
+    {%unless forloop.last %},{%endunless%}
+    {%- endfor -%}
+  ]
+}
