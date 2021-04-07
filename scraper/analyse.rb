@@ -9,14 +9,16 @@ scrape = Scraper.new
 #tools = Tools.new
 #site_data = scrape.scrape_url(url, date)
 #tools.write_file(site_data)
+counter = 1
 
-files = Dir.glob("../_posts/*-dieostschweiz_*.md")
+files = Dir.glob("../_posts/*-medinside_*.md")
 
 parameters = ['date', 'redirect', 'title', 'subtitle', 'timeline', 'country', 'persons', 'categories', 'tags', 'filename']
 
 files.each do |filename|
 
-  puts "File: #{filename}"
+  puts "File: #{filename} (#{counter})"
+  counter += 1
 
   meta_data = YAML.load_file(filename)
   file = File.open(filename)

@@ -5,6 +5,13 @@ require 'json'
 
 class Scraper
 
+  def valid_json?(json)
+    JSON.parse(json)
+    return true
+  rescue JSON::ParserError => e
+    return false
+  end
+
   def scrape_url(url, date, debug) 
 
     config = YAML.load_file("config.yml")
@@ -53,9 +60,11 @@ class Scraper
     # read application/ld+json
     if doc.at("script[type='application/ld+json']")
       ld_json = doc.at("script[type='application/ld+json']").text
-      ld_meta =  JSON.parse(ld_json)
-      if ld_meta.kind_of?(Array)
-        ld_meta = ld_meta.first
+      if valid_json?(ld_json)
+        ld_meta =  JSON.parse(ld_json)
+        if ld_meta.kind_of?(Array)
+          ld_meta = ld_meta.first
+        end
       end
     end
 
