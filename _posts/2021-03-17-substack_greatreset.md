@@ -4,7 +4,7 @@ redirect:      https://miloszmatuschek.substack.com/p/greatreset
 title:         substack.com
 subtitle:      'Der „Great Reset“ ist ein technokratischer Putsch'
 country:       COM
-persons:       Matuschek Milosz
+persons:       [Matuschek Milosz]
 categories:    [Politik]
 tags:          [substack, great reset, paywall]
 ---

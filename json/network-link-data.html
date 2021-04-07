@@ -9,6 +9,7 @@ permalink: /json/network-link-data.json
     {%- for node in site.data.network-link-nodes -%}
     {
       "id": "{{ node.id }}",
+      "value": "{{ node.value }}",
       "label": "{{ node.label | replace: '"', "'" }}"
     }
     {%unless forloop.last %},{%endunless%}

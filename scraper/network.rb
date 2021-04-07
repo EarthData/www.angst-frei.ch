@@ -32,8 +32,8 @@ files.each do |filename|
   if network_nodes.detect {|node| node["label"] == file_name }
     puts "#{file_name} already exists"
   else
-    network_nodes <<  { "label" => meta_data['subtitle'], "id" => node_count}
-    article = node_count
+    network_nodes <<  { "label" => meta_data['subtitle'], "id" => node_count, "value" => 1 }
+    article_id = node_count
     node_count += 1
   end
   
@@ -41,24 +41,35 @@ files.each do |filename|
     if network_nodes.detect {|node| node["label"] == category }
       node = network_nodes.detect {|node| node["label"] == category }
       #puts "#{category} already exists"
-      network_edges <<  { "id" => edges_count, "source" => article, "target" => node['id'] }
+      network_edges <<  { "id" => edges_count, "source" => article_id, "target" => node['id'] }
       edges_count += 1
     else
-      network_nodes <<  { "label" => category, "id" => node_count }
-      network_edges <<  { "id" => edges_count, "source" => article, "target" => node_count }
+      network_nodes <<  { "label" => category, "id" => node_count, "value" => 3 }
+      network_edges <<  { "id" => edges_count, "source" => article_id, "target" => node_count }
       node_count += 1
     end
   end
-#  meta_data['tags'].each do |tag|
-#    network_edges <<  { "source" => file_name, "target" => tag }
-#  end
+
+  meta_data['tags'].each do |tag|
+    next if tag == "wochenblick"
+    if network_nodes.detect {|node| node["label"] == tag }
+      node = network_nodes.detect {|node| node["label"] == tag }
+      #puts "#{category} already exists"
+      network_edges <<  { "id" => edges_count, "source" => article_id, "target" => node['id'] }
+      edges_count += 1
+    else
+      network_nodes <<  { "label" => tag, "id" => node_count, "value" => 2 }
+      network_edges <<  { "id" => edges_count, "source" => article_id, "target" => node_count }
+      node_count += 1
+    end
+  end
   
 end
 
 CSV.open("../_data/network-link-nodes.csv", "wb") do |csv|  
-  csv << ["id", "label"]
+  csv << ["id", "label", "value"]
   network_nodes.each do |node|
-    csv << [node['id'], node['label']]  
+    csv << [node['id'], node['label'], node['value']]  
   end
 end  
 
