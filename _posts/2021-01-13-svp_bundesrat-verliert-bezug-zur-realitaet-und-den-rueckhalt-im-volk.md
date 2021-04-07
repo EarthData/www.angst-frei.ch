@@ -4,6 +4,6 @@ redirect:   https://www.svp.ch/news/artikel/medienmitteilungen/bundesrat-verlier
 title:      SVP
 subtitle:   "Bundesrat verliert Bezug zur Realität und den Rückhalt im Volk"
 country:    CH
-categories: Politik
+categories: [Politik]
 tags:       [svp, bundesrat, massnahmen]
 ---

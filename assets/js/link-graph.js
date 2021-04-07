@@ -1,6 +1,13 @@
 $.getJSON('/json/network-link-data.json', function(data) {
 
   var options = {
+    physics: {
+      forceAtlas2Based: {
+        springLength: 100
+      },
+      minVelocity: 0.75,
+      solver: "forceAtlas2Based"
+    },
     nodes: {
       shape: "dot",
       scaling: {

@@ -4,8 +4,8 @@ title:      Youtube
 subtitle:   "AT: Verfassungsgerichtshof: Lockdown-'Nachfolge-Verordnungen' verfassungswidrig!"
 date:       2020-10-29
 timeline:   true
-categories: Video
-tags:       [lockdown]
+categories: [Video, Recht]
+tags:       [youtube, lockdown]
 youtubeId:  "Pq_q0RedfYg"
 ---
 

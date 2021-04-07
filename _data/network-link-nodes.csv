@@ -1,208 +1,659 @@
 id,label,value
-1,Über Nacht: Niederlande verhängen totalen Lockdown bis 19. Jänner,1
-2,Politik,3
-3,lockdown2,2
-4,willkür,2
-5,niederlande,2
-6,Pfizer-Vize bekräftigt: PCR-Test alleine sagt nichts über Infektion aus,1
-7,Wissenschaft,3
-8,pcr-test,2
-9,infektion,2
-10,Norwegen: Zwei Todesfälle in Pflegeheim nach Covid-Impfung,1
-11,Impfung,3
-12,mit oder an impfung gestorben,2
-13,biontech,2
-14,Überraschung für Israel: Trotz Impfung Corona-Positive und vier Todesfälle,1
-15,israel,2
-16,Brutale Lockdown-Last: Jeder sechste Schüler denkt an Selbstmord,1
-17,Mensch,3
-18,Studie,3
-19,kind,2
-20,massnahmen,2
-21,Gefährlicher Maskenwahn: Millionenfache Körperverletzung und Müllberge,1
-22,maske,2
-23,kollateralschäden,2
-24,Verordnete Angst: Was an der Corona-Hysterie wirklich gefährlich ist,1
-25,angst,2
-26,"Wissenschaftler warnen: Corona-Studien beruhen auf Modellen, nicht Fakten",1
-27,virus-isolation,2
-28,Kein Ende der Pandemie: Die Impfung entfesselt das Virus,1
-29,virus-mutation,2
-30,immunität,2
-31,Schockierender Whistleblower-Bericht: Tote nach Impfung in Berliner Heim,1
-32,Weltweit Impfpannen und Tote: Ärzte und Pflegepersonal verunsichert,1
-33,Horror-Risiken: Nach Corona-Impfung bekämpft Körper eigene Zellen,1
-34,Medizin,3
-35,impf-nebenwirkungen,2
-36,Deutschland: zwei Drittel der Covid-Toten in 2020 ohne Virusnachweis,1
-37,Zahlen,3
-38,sterblichkeit,2
-39,who,2
-40,Vatikan erlaubt Impfstoffe trotz Einsatzes abgetriebener Föten,1
-41,Impfung ein Riesen-Experiment? Mut-Ärztin verlangt Aufklärung von US-Behörden!,1
-42,Widerstand,3
-43,Nein zu grünem Impfpass: Anwälte für Aufklärung beweisen Mut,1
-44,Recht,3
-45,impfpass,2
-46,Das stille Leid der Alten: Pflegerinnen geraten an Belastungsgrenze,1
-47,Wegen falscher Corona-Zahlen - Gericht bestätigt: Demo-Verbot in Wien war illegal!,1
-48,"""Da könnte man auch würfeln"": Krankenschwester rechnet mit Test & Impfung ab",1
-49,Freiheits-Lüge für Impfung: Die Herdenimmunität kommt womöglich nie,1
-50,Trauriger Rekord bei Toten nach Impfung – so viele waren es noch nie!,1
-51,ema,2
-52,Nach Impfung lauter Corona-Fälle in Altenheim: Kam Virus aus der Nadel?,1
-53,"""Nadel der Freiheit"": So perfide wird der Corona-Impfdruck erzeugt",1
-54,Manipulation,3
-55,Polizisten-Brief belegt: Exekutive hatte Befehl zu Demo-Eskalation!,1
-56,polizei,2
-57,Psychotherapeuten rufen um Hilfe - Zahl der Patienten verdoppelt,1
-58,"Geimpft, erkrankt, gestorben: Corona-Ausbruch nach Impfung in Spanien",1
-59,Der Staat hat keine Argumente: Ärztekritik soll im Keim erstickt werden,1
-60,Schafft aggressive Mutationen: Virologe fordert von WHO Covid-Impf-Stopp,1
-61,impf-stopp,2
-62,"Statistik: Covid-Todeszahlen steigen dort, wo am meisten geimpft wurde",1
-63,„Ärzte waren auch immer schon Erfüllungsgehilfen der Eliten“,1
-64,geld,2
-65,"USA: 6 Tote während Pfizer-Imfpfstofftestungen, Warnung für Allergiker",1
-66,Obduktion: Zwettler Krankenschwester (49) starb an Impf-Hirnthrombose,1
-67,blutgerinnungsstörungen,2
-68,astrazeneca,2
-69,Schock in Italien: Bestürzende Serie von Todesfällen nach Corona-Impfung,1
-70,US-Forscher bestätigt: Corona-Sterblichkeit im ersten Jahr äußerst niedrig,1
-71,Israels Impfungen: Vorbild oder menschliches Versuchslabor?,1
-72,US-Datenbank listet 6741 Fälle mit Covid-Impf-Nebenwirkungen: 55 Tote,1
-73,Allergische Reaktionen: Kalifornien stoppt Moderna-mRNA-Impfung,1
-74,moderna,2
-75,Toter Arzt: Freund kämpft in Videobotschaft für Wahrheit über Impfung,1
-76,Sachverständiger beweist live: CO2-Werte unter Masken gesundheitsschädlich,1
-77,Corona-Kollateralschaden: Altenbetreuerin beklagt Tod ihrer Mutter,1
-78,Spital,3
-79,"Tote, Gelähmte, Behinderungen: Impf-Nebenwirkungen weiterhin geleugnet",1
-80,"Informant berichtet: Unzählige Fehlbehandlungen, falsche Todesdiagnosen",1
-81,"Xavier Naidoo ruft zu ""Volksaufstand"" gegen Merkels Total-Lockdown auf!",1
-82,kultur,2
-83,"Kritisch nachgeschaut: Coronavirus, sein Isolat und seine Mutanten",1
-84,Systematische Panikmache mit Todeszahlen am Beispiel Italien,1
-85,"Regierungs-Experte: Impfung hat Nebenwirkungen, schützt andere nicht",1
-86,Weitere fünf Tote in Frankreich: Senioren sterben nach Impfungen,1
-87,Lockdown und Frühlingserwachen: Die Jugend zieht es ins Freie,1
-88,"Chile: Vom ""Impf-Weltmeister"" zum Corona-Infektionsherd",1
-89,Physikerin warnt: Virus-Varianten können Impfschutz umgehen,1
-90,"Mutbrief eines Polizisten: ""Will nicht Komplize des Unrechts sein""",1
-91,Covid19-Gerichtsbeschluss zeigt: Es gibt keine Rechtssicherheit mehr,1
-92,In Schweden: Weiterer toter Senior nach Corona-Impfung,1
-93,schweden,2
-94,Kapazitäten auf Psychiatrie gesprengt: Kinder sind suizidal wegen Corona,1
-95,Biontech/Pfizer: Tests mit Corona-Impfstoff jetzt auch an Babys,1
-96,Fakten zu Corona: Wo wir nach einem Jahr Dauerkrise stehen,1
-97,lockdown,2
-98,Prof. für Molekulargenetik Dr. Cahill warnt vor mRNA-Nebenwirkungen,1
-99,Was ist anders in Florida? Hort der Freiheit hat bessere Zahlen!,1
-100,usa,2
-101,Experte belegt: Gesundheitssystem nicht bedroht. Die Justiz erwacht!,1
-102,Bisher nicht möglich? Neuer Test soll Corona von Grippe unterscheiden,1
-103,massentest,2
-104,Münchner Studie belegt: Kindergärten und Grundschulen grundlos geschlossen,1
-105,Schulen,3
-106,asymptomatisch,2
-107,Israel aus Sterbestatistik verschwunden: Technikfehler oder Vertuschung?,1
-108,"Frühling bald verboten? Nach Aerosolen: Pollen neue ""Corona-Gefahr""",1
-109,Nobelpreisträger und Erfinder des PCR-Tests: Missbrauch möglich,1
-110,Corona - mit strengen Hygienevorschriften zur sozialistischen Diktatur,1
-111,Auch in Österreich starben Senioren kurz nach Corona-Impfung,1
-112,„Ein Massaker“: 53 Tote in Gibraltar seit Beginn der Impfungen,1
-113,Nach Impfkampagne explodieren in Israel die Corona-Zahlen,1
-114,"Impf-Sachverständiger: „Diese Impfung ist eine Lüge und Riesenbetrug""",1
-115,Pfizer/BioNTech starten Impfexperiment an 4.000 schwangeren Frauen,1
-116,Stark: Nena zeigt sich solidarisch mit Freiheits-Protest in Kassel!,1
-117,Experten warnten vor Impf-Thrombosen: Warum ignorierte EMA ihren Rat?,1
-118,Dubios: Deutsche Firmen entwickelten Corona-Impfstoff schon seit Januar,1
-119,"""Die Eltern müssen aufstehen und sagen, dass sie das nicht wollen“",1
-120,Rechtsanwalt: Pflicht zu Massentests und Massenimpfungen unzulässig!,1
-121,Todesrisiko und trotzdem Maskenzwang: Impfung bringt keine Freiheit,1
-122,"Kinder, Babys ab 6 Monaten werden bald geimpft: Ist der Wahnsinn noch zu stoppen?",1
-123,"Zweite Welle erfunden? 90% der ""Infizierten"" laut Forscher falsch-positiv",1
-124,welle2,2
-125,Kindergärtnerin: Die Regierung zerstört die Seelen unserer Kleinsten,1
-126,Corona egal? Indien feiert weltgrößtes Hindu-Fest ausschweifend,1
-127,indien,2
-128,Hohe Durchimpfung verantwortlich für steigende Zahl von Todesfällen,1
-129,Mut-Arzt aus Kanada packt aus: Es ist die Pandemie der Oligarchen,1
-130,"Gates-Insider: ""Impfung verwandelt Virus in unkontrollierbares Monster!""",1
-131,Skandal in Norwegens Pflegeheimen: 23 Tote nach Covid-Impfungen,1
-132,Rechtsanwalt belegt: Ohne PCR-Test keine Pandemie,1
-133,"Impfen für den ""Great Reset"": WHO fordert jetzt mehr Tempo!",1
-134,great reset,2
-135,Künstler widersprechen verordneter Corona-Pandemie-Geschichte,1
-136,"Alleinerziehende Mutter klagt an: ""Was Corona mit uns macht...""",1
-137,Maskendrama im Ozean: Corona-Maulkörbe verpesten 450 Jahre die Welt,1
-138,Ärzte und Apotheker protestieren: Keine Info über Risiken für Corona-Impflinge,1
-139,"Eine Woche Corona-Statistik OÖ: 81,8 Jahre Altersschnitt, alle vorerkrankt",1
-140,Nach Tod von Tansanias Präsident: Wilde Gerüchte über Vergiftung,1
-141,tansania,2
-142,Die Kinder und Jugendlichen werden von der Regierung verheizt,1
-143,Europarat-Resolution: Corona-Impfzwang ist rechtswidrig,1
-144,impfzwang,2
-145,Ein Jahr Corona-Ausnahmezustand: So verloren wir unsere Demokratie,1
-146,demokratie,2
-147,Schon zwei Tote nach Verabreichung der Corona-Impfung,1
-148,Abrechnung mit dem Mainstream – Stinkefinger an die Zensur!,1
-149,MSM,3
-150,zensur,2
-151,Impfstoffhersteller haben von Wirkung und Nebenwirkungen keine Ahnung,1
-152,Staatsfunk am Werk: Bei der Impfung wird einfach Wissenschaft zensiert,1
-153,"Mut-Arzt: Dürfen ""selbst unter Bedrohung"" Menschenrechte nicht verletzen",1
-154,menschenrechte,2
-155,Impfstoff-Zulassungsprotokoll beschreibt lebensbedrohliche Nebenwirkungen,1
-156,Israelischer Mut-Rabbi steht auf: 31 Gründe gegen die Corona-Impfung,1
-157,"Nach Impfungen: 11 Tote in Pflegeheim, weitere Massenausbrüche",1
-158,Durch Freiheits-Urteil amtlich: PCR- und Antigen-Test völlig untauglich!,1
-159,Niedersachsen: 89-jährige Seniorin stirbt nach Corona-Impfung,1
-160,Die Akte Wieler: Gates-Mitglied berät deutschen Gesundheitsminister,1
-161,Mainstream-Medien schweigen: Zahlen der Impfschäden explodieren,1
-162,Corona als Sündenbock: Zentralbanken haben uns ins Desaster geführt,1
-163,Wirtschaft,3
-164,Wiener Schule wegen 62 (!) falsch-positiver Covid-Tests gesperrt,1
-165,"Zu unsicher, zu unklar: Warum Impf-Experte an Covid-Impfung zweifelt",1
-166,Mehrere Todesfälle nach Impfung: Italien ermittelt gegen AstraZeneca Chef,1
-167,Statistisch bewiesen: Impfungen lassen Sterblichkeit explodieren,1
-168,Indien: 42-jährige Testperson stirbt nach Corona-Impfung mit Covaxin,1
-169,Covid-19-Impfung: Weltweit immer mehr Nebenwirkungen und Tote,1
-170,Sucharit Bhakdi: Diese Impfung gehört vor ein Tribunal,1
-171,Schreckenschronik: Weltweit Infizierte und Tote kurz nach Covid-Impfung,1
-172,Mut-Ärzte proben Aufstand: Offener Brief gegen Lauterbachs Panik-Tiraden,1
-173,Corona-Ausbrüche in Alten- und Pflegeheimen nach Impfungen,1
-174,Wissenschaftler zerstört die Corona-Märchen der Regierungen und Eliten,1
-175,Ärztliche Ethik & Corona: Dr. Schiffmann verteidigt sich gegen Behörden,1
-176,schiffmann,2
-177,„ZeroCovid“: Per Radikal-Lockdown zum Sozialismus,1
-178,zerocovid,2
-179,WHO warb für falsche Anwendung von Biontech-Impfstoff,1
-180,Forschungsergebnisse: Experten widersprechen den Corona-Narrativen,1
-181,Wegen tödlicher Blutgerinnsel: Dänemark stoppt Astra Zeneca-Impfung,1
-182,So ein Zufall: Bill Gates investierte im Vorjahr in Impfstoff-Firma Biontech,1
-183,"Polizisten gegen Masken-Verordnung: ""Keine Leibeigenen der Regierung""",1
-184,Studie: Jedes dritte Kind psychisch auffällig durch Corona-Maßnahmen,1
-185,Hirnblutungen bei drei jungen Norwegern,1
-186,Prof. Bhakdi ruft zu Protest gegen unmoralische Menschenversuche auf,1
-187,Mann (56) starb nach Corona-Impfung: Jetzt will seine Witwe wachrütteln,1
-188,Studie belegt: Symptomlose nicht ansteckend. Quarantäne anfechtbar!,1
-189,quarantäne,2
-190,Mehr Corona-Tote durch die Politik als durch das Virus?,1
-191,In deutschen Heimen: Todesfälle und Infektionen in Wochen nach Impfung,1
-192,"Frau klagt an: ""Sie spritzen unsere Großeltern einfach weg!""",1
-193,Corona-Propagandist bei gespenstischem Masken-Auftritt im ORF entlarvt,1
-194,Französischer Experte warnt eindringlich vor Corona-Impfung von Pfizer!,1
-195,Hintergründe der Corona-Impfung: Gesundheit oder Korruption?,1
-196,Nebenwirkungen: Frankreich fährt AstraZeneca Impfungen zurück,1
-197,Schweden als Beweis: Lockdowns schützen niemanden,1
-198,Schwangere Ärztin ließ sich impfen: Wenige Tage später war ihr Baby tot!,1
-199,"Mutanwälte: Folgen unklar - Die Geimpften sind ""Studienteilnehmer""",1
-200,Schweden macht’s vor: Sinkende Zahlen ohne Lockdown!,1
-201,Überfüllte Psychiatrien: Regierung darf Kinder nicht weiter leiden lassen!,1
-202,Kinder vereinsamen wegen Verschärfung der Corona-Maßnahmen,1
-203,Widerstand gegen Corona-Propaganda für Kinder nimmt zu,1
-204,Nach Impfung verschwunden: Wo ist Krankenschwester Tiffany Dover?,1
-205,"Anwalt belegt: Testpositive sind keine Infizierten. ""Die Pandemie ist vorbei!""",1
-206,Stopp bei Impfstoff-Verwendung: Nebenwirkungen und Unwirksamkeit,1
-207,"""Inszenierte Pandemie"": Ärzte aus aller Welt schlagen Alarm!",1
+1,Erste vollständige Impffolgen-Zusammenstellung: >2.500 Tote nach Impfung mit BNT162b2/Comirnaty: Nebenwirkungen füllen 124 Seiten !,1
+2,Impfung,3
+3,sciencefiles,2
+4,mit oder an impfung gestorben,2
+5,impf-nebenwirkungen,2
+6,10.000e Tote als Übersterblichkeit infolge von Impfung? Ergebnisse für das UK legen Möglichkeit nahe [HART-Studie 2],1
+7,Studie,3
+8,sterblichkeit,2
+9,lockdown,2
+10,Über Nacht: Niederlande verhängen totalen Lockdown bis 19. Jänner,1
+11,Politik,3
+12,lockdown2,2
+13,willkür,2
+14,niederlande,2
+15,Bis über 98 Prozent aller Schnell-Testergebnisse falsch-positiv,1
+16,Zahlen,3
+17,Manipulation,3
+18,epoch times,2
+19,massentest,2
+20,Die Schein-Coronatoten,1
+21,rubikon,2
+22,Offener Brief von Ärzten und Gesundheitsfachleuten an alle belgischen Behörden und Medien,1
+23,Wissenschaft,3
+24,Medizin,3
+25,Widerstand,3
+26,naturstoff medizin,2
+27,belgien,2
+28,„Aus rein wissenschaftlicher Sicht“ – Christian Drosten im Tagesthemen-Interview,1
+29,nachdenkseiten,2
+30,massnahmen,2
+31,Wien: Corona-Testergebnisse von 62 Kindern einer Volksschule waren falsch,1
+32,rt,2
+33,Pfizer-Vize bekräftigt: PCR-Test alleine sagt nichts über Infektion aus,1
+34,pcr-test,2
+35,infektion,2
+36,Maskenpflicht: Einige Zürcher Eltern wechseln auf Home Schooling,1
+37,Schulen,3
+38,MSM,3
+39,nzz,2
+40,kind,2
+41,maske,2
+42,paywall,2
+43,Das Phantom-Virus,1
+44,virus-mutation,2
+45,virus-isolation,2
+46,Wenn sich Politiker in Zeiten von Corona Rat von Spitzenwissenschaftlern holen,1
+47,meinbezirk,2
+48,covidiot,2
+49,Privilegien für Geimpfte? Bundesrat steht vor heiklem Entscheid,1
+50,impfzwang,2
+51,Erschreckend: so schaden die Corona Maßnahmen – 16% der Kinder mit suizidalen Gedanken,1
+52,Mensch,3
+53,tkp,2
+54,kollateralschäden,2
+55,Japan: Mehr Tote durch Suizide pro Monat als durch COVID-19 pro Jahr,1
+56,Bhakdi: Masken für Schüler sind Kindsmisshandlung,1
+57,reitschuster,2
+58,"Die ""dritte Welle"": Virusmutation oder verschwiegenes Impfrisiko?",1
+59,multipolar,2
+60,welle3,2
+61,rki,2
+62,Immer wieder Berichte über Todesfälle in Heimen nach Impfung – Offizielle sehen keinen Zusammenhang,1
+63,Auch nach Monaten ist exakte Corona-Sprache in Medien selten,1
+64,infosperber,2
+65,"Nicht das Virus startet die 2. Welle, sondern der Bundesrat",1
+66,inside-paradeplatz,2
+67,bundesrat,2
+68,welle2,2
+69,Schulen ohne Not geschlossen?,1
+70,2020news,2
+71,Norwegen: Zwei Todesfälle in Pflegeheim nach Covid-Impfung,1
+72,biontech,2
+73,"Mehr Selbstmorde wegen COVID-19-Maßnahmen! Die Zahl der Studien, die das belegen, wächst",1
+74,Überraschung für Israel: Trotz Impfung Corona-Positive und vier Todesfälle,1
+75,israel,2
+76,Deutscher Mediziner entwickelt Corona-Antigen - und wird vom Staat angezeigt,1
+77,Therapeutikum,3
+78,Recht,3
+79,focus,2
+80,pei,2
+81,Im Maschinenraum der Wahrheit,1
+82,substack,2
+83,Mathematik-Student rechnet nach: Zusätzliche Tests treiben Inzidenzen künstlich in die Höhe,1
+84,Mögliches Risiko bei Corona-Impfstoffen,1
+85,telepolis,2
+86,Bill Gates & die totale Bevölkerungskontrolle,1
+87,Video,3
+88,youtube,2
+89,Über die ignorierten Kollateralschäden von Lockdowns,1
+90,Amtsgericht Weimar: Kontaktverbot ist verfassungswidrig,1
+91,berliner zeitung,2
+92,"Medizinische Fachzeitschrift «The Lancet» bestätigt, dass PCR-Tests ungeeignet sind",1
+93,corona transition,2
+94,the lancet,2
+95,Hinter der Angst verschwindet das Leben,1
+96,angst,2
+97,Chefin des BAG: Die Aufsichtsbehörde übernimmt keine Verantwortung für das Datenleck beim Impfausweis,1
+98,BAG,3
+99,impfpass,2
+100,Propaganda der Regierung zu gefährlichen Mutationen: wahr oder unwahr?,1
+101,who,2
+102,Diskriminierungsverbot von Ungeimpften duch Europarat ist ohne Bindungswirkung,1
+103,Neue Dokumente beweisen: Der Bund wusste um den geringen Effekt der Reisequarantäne,1
+104,quarantäne,2
+105,Verfassungsgericht von Ecuador: Ausnahmezustand verfassungswidrig,1
+106,Biontech-Pfizer plant Studie zur Wirkung einer dritten Corona-Impfdosis,1
+107,Das Virus und die Zahlen-Leugner,1
+108,die ostschweiz,2
+109,Task-Force will weitere Massnahmen,1
+110,linth24,2
+111,taskforce,2
+112,Hauptsache Maske!?,1
+113,daz,2
+114,Wiener Gericht: «Fallzahlen sind für Demo-Verbot irrelevant»,1
+115,"Impfexperte zu AstraZeneca-Stopp: ""Das ist ein Mega-GAU""",1
+116,astrazeneca,2
+117,impf-stopp,2
+118,Brutale Lockdown-Last: Jeder sechste Schüler denkt an Selbstmord,1
+119,RKI bestätigt: COVID-19-Erkrankte unter Positiv-Getesteten werden nicht übermittelt,1
+120,Corona-Massentests in Schulen: „Das darf man den Kindern nicht antun”,1
+121,nordkurier,2
+122,"To vaccinate, or not to vaccinate …?",1
+123,Datei,3
+124,saez,2
+125,pdf,2
+126,Gefährlicher Maskenwahn: Millionenfache Körperverletzung und Müllberge,1
+127,Corona und Psychologie: Angst arbeitet dem demokratischen Miteinander entgegen,1
+128,demokratie,2
+129,Wie soll es weitergehen? Ein aktueller Text zur Lage und viele Fragen,1
+130,wef,2
+131,"Festhütte Bundeshaus: Politiker von links bis rechts brechen die Regeln, die sie anderen befehlen",1
+132,weltwoche daily,2
+133,«Pfizer-Impfung ist viel weniger wirksam» – keine Transparenz,1
+134,Schaden durch Lockdown mindestens um das Fünffache höher als sein Nutzen – Studienüberblick,1
+135,Fenster zu oder Schule zu! Das Dauer-Lüften im Winter ist kein Corona-Konzept,1
+136,Verordnete Angst: Was an der Corona-Hysterie wirklich gefährlich ist,1
+137,Und jetzt alle: die Überwachung wird euch frei machen!,1
+138,Kritik am 'medizinisch-politischen Komplex' in Covid-Zeiten,1
+139,Krass! Jede 5. Beiz ist schon pleite,1
+140,Wirtschaft,3
+141,Wachrüttelnder Brief eines Polizisten an die Bevölkerung,1
+142,corona-blog,2
+143,polizei,2
+144,"Wengen virusfrei: Panikmache, Swiss made",1
+145,Haager Strafgerichtshof behandelt Klage wegen Verletzung des Nürnberger Kodex durch israelische Regierung und Pfizer,1
+146,"""Man will uns die Immunität aberkennen!""",1
+147,immunität,2
+148,«Die Verlängerung des Lockdowns ist nicht vermittelbar»: Der Ethiker Christoph Lütge bleibt bei seiner Kritik an den Corona-Massnahmen,1
+149,Corona-Lockdown: Droht tatsächlich eine akute nationale Gesundheitsnotlage?,1
+150,"Die “95% Wirksamkeit” der Impfstoffe von Pfizer und Moderna – Zurückhaltung ist geboten, solange wir die vollständigen Daten nicht gesehen haben",1
+151,moderna,2
+152,"„Verzweiflung, Aggression und Hilflosigkeit“",1
+153,welt,2
+154,Lockdown Kills – Explosive Studie zeigt die Wirkungslosigkeit von Lockdowns gegen COVID-19,1
+155,Es ist alles noch viel schlimmer!,1
+156,"Wissenschaftler warnen: Corona-Studien beruhen auf Modellen, nicht Fakten",1
+157,Kein Ende der Pandemie: Die Impfung entfesselt das Virus,1
+158,Impfen gegen Mutanten?,1
+159,achgut,2
+160,Das Covid19-Gesetz und die Blanko-Vollmacht für den Bundesrat,1
+161,Alle ins Homeoffice: Schweiz am Durchdrehen,1
+162,Es ist höchste Zeit für ein paar richtig gute Nachrichten,1
+163,Heute endet das Notrecht – für Stunden und Tage,1
+164,zeitpunkt,2
+165,Wer braucht schon Fakten?,1
+166,Auch Thailand und Bulgarien stoppen Astrazeneca-Impfungen,1
+167,ARD extra: Die Corona-Lage,1
+168,ard,2
+169,Neue Studie zeigt neuerlich: T-Zellen erkennen alle bekannten Varianten,1
+170,Wurde vom Paul-Ehrlich-Institut eine gefährliche Nebenwirkung der Impfung ausgeblendet?,1
+171,Schockierender Whistleblower-Bericht: Tote nach Impfung in Berliner Heim,1
+172,Volk kämpft für Lockdown-Ende,1
+173,COVID-19: Wo ist die Evidenz?,1
+174,ebm,2
+175,evidenz,2
+176,Hygienismus: Biopolitik mit dem Menschen als potenziellem Keimträger,1
+177,Weitere Corona-Tests nach Todesfällen in Emsteker Pflegeheim,1
+178,ndr,2
+179,"Das RKI, seine Abteilungsleiter und Geschäfte mit PCR-Tests",1
+180,Eine Checkliste zeigt: Die Pandemie wird von Leuten mit Sektenmentalität verwaltet,1
+181,zensur,2
+182,Vor dem Virus sind alle gleich? Wir werden immer ungleicher!,1
+183,Das Corona-Papier: ETH-Zürich kommt zu ähnlichen Ergebnissen,1
+184,Weltweit Impfpannen und Tote: Ärzte und Pflegepersonal verunsichert,1
+185,"Alle reden nur noch von Infektionszahlen – dabei galt es bei der Pandemie-Bewältigung ursprünglich, die Spitäler nicht zu überlasten",1
+186,Spital,3
+187,Exklusiv-Interview Teil 2: Klage gegen Christian Drosten. Antworten auf Kritik & neue Entwicklungen,1
+188,langemann medien,2
+189,geld,2
+190,Horror-Risiken: Nach Corona-Impfung bekämpft Körper eigene Zellen,1
+191,Freiburg: 15 Heimbewohner stecken sich nach erster Impfung an,1
+192,srf,2
+193,Schweizer Maskentest liefert vernichtendes Ergebnis,1
+194,Demonstrationen: Maßnahmen-Frust bringt Europa auf die Straße,1
+195,Deutschland: zwei Drittel der Covid-Toten in 2020 ohne Virusnachweis,1
+196,Reale Daten aus 152 Staaten weltweit zeigen: Lockdown-Maßnahmen verhindern keine Covid-19 Todesfälle,1
+197,Rekord bei psychischen Krankschreibungen im Corona-Jahr 2020,1
+198,Explosive Studie: Asymptomatische Fälle nicht ansteckend! Kein Grund für Lockdowns,1
+199,asymptomatisch,2
+200,WHO warnt vor negativen Folgen kompletter Lockdowns,1
+201,Dänische Studie: Masken bieten nur einen geringfügig besseren Corona-Schutz,1
+202,"Kritik an Schnelltests in Schulen – Positive Ergebnisse ""sehr wahrscheinlich"" falsch",1
+203,2020: der wahre Grund der hohen Sterblichkeit,1
+204,Schutzmasken im Härtetest: Die meisten filtern ungenügend,1
+205,SARS-CoV-2: Kinder haben häufiger schon vor der Infektion protektive Antikörper,1
+206,ärzteblatt,2
+207,"BAG gibt zu, die Test-Statistik zu verfälschen",1
+208,Gesundheitsamtsleiter Dr. Pürner: „Ich werde weiter Kritik üben“ – „Inzidenzgrenzen werden willkürlich festgelegt“,1
+209,"Kinderschützer: „Wenn Kinder nicht mehr leben wollen, haben wir als Gesellschaft versagt“",1
+210,Widerstand im Dritten Weltkrieg,1
+211,Hype um BioNTech-Impfstoff – über Risiken und Geld spricht man lieber nicht,1
+212,Der Bundesrat provoziert eine neue Volksbewegung,1
+213,"Forscher: Corona-Todesrate ist wahrscheinlich geringer als 0,2 Prozent",1
+214,Vatikan erlaubt Impfstoffe trotz Einsatzes abgetriebener Föten,1
+215,Geheimpapier des Bundes soll Impf-Privilegien zeigen – das müssen Sie dazu wissen,1
+216,tagblatt,2
+217,Zensur in Zeiten von Corona: wovor hat man eigentlich solche Angst?,1
+218,Manipulieren für den guten Zweck? Das geht nicht mehr lange gut,1
+219,Impfung ein Riesen-Experiment? Mut-Ärztin verlangt Aufklärung von US-Behörden!,1
+220,MedUni Innsbruck: Immunität durch Infektion besser als Impfung,1
+221,"Mehr Herztote, weniger Krebs-OPs: Daten zeigen verheerende Corona-Kollateralschäden",1
+222,Kinderärzte gegen regelmäßige Corona-Selbsttests bei Schülern,1
+223,aerztezeitung,2
+224,Ärzte und Wissenschaft fordern Lockdown-Stop,1
+225,Zu viele Ungereimtheiten: Autoren des Corman-Drosten-Papiers über PCR-Tests zunehmend unter Druck,1
+226,Werden Babys und Kinder bereits gegen COVID-19 geimpft?,1
+227,ema,2
+228,Drosten-Partner Olfert Landt: “50% der Infizierten nicht infektiös – warum dann Quarantäne?”,1
+229,Wir stellen fest: Es ist alles gesagt,1
+230,Exklusiv-Interview: Gigantische Klage gegen Prof. Christian Drosten & Umfeld,1
+231,AT: Verfassungsgerichtshof: Lockdown-'Nachfolge-Verordnungen' verfassungswidrig!,1
+232,Die Kliniklüge,1
+233,Der Corona-Komplex – was passiert hier eigentlich gerade?,1
+234,Die AstraZeneca-Affäre: Was steckt dahinter?,1
+235,kenfm,2
+236,Die totale Ermächtigung,1
+237,Deutsche Krankenhausgesellschaft: Krankenhäuser waren und sind nicht überlastet,1
+238,Nicht ganz dicht!,1
+239,Wie sinnvoll sind die Knockdowns der Wirtschaft?,1
+240,"Zweifel an der intrinsischen Qualität von Produkten, die als Anti-Covid-Impfstoffe präsentiert werden",1
+241,unser mitteleuropa,2
+242,Vaccination kills? Was erklärt die Häufung von Januar-Toten in Gibraltar [Leserfrage],1
+243,"Sterbezahlen Schweiz 2020 - Alle Details, alle Zahlen - wo ist die ÜBERSTERBLICHKEIT?",1
+244,odysee,2
+245,Was hinter der angeblichen Gefährlichkeit neuer Virus Varianten steckt,1
+246,"Virologe warnt vor Mutations-Panik: ""Nichts Sensationelles, sondern ganz normal""",1
+247,Effekte von COVID-19-Pandemie und Lockdown auf die Versorgung von Krankenhauspatienten,1
+248,«Angstmacherei ist eine Unart unserer ganzen Gesellschaft»,1
+249,bernerzeitung,2
+250,Wie der Deutschlandfunk die Wahrheit über die Schädlichkeit der Atemmasken berichtet,1
+251,vera-lengsfeld,2
+252,Den Corona-Virus stoppen oder mit ihm leben?,1
+253,nocovid,2
+254,Corona: Das vorschnelle Starren auf die Reproduktionszahl R,1
+255,r-wert,2
+256,Pflegepersonal ist skeptisch bei Corona-Impfung,1
+257,Polizei in der Pandemie: Wenn das Jagdfieber ausbricht,1
+258,tichyseinblick,2
+259,Professionelle Deformation,1
+260,Mehr Details zum Biontech-Impfstoff,1
+261,pz,2
+262,"13-jährige Asthmatikerin appelliert an Regierungen: ""Hört auf damit! Ihr zerstört Menschenleben""",1
+263,Leichen im Keller,1
+264,Der Kampf gegen die Verwendung von Vitamin D,1
+265,vitamin d,2
+266,So viel kosten uns die Corona-Tests,1
+267,medinside,2
+268,Weimarer Corona-Urteil – Stufe 2 der Rakete gezündet,1
+269,weimar,2
+270,Der große Neustart,1
+271,great reset,2
+272,Dramatischer Appell an die WHO: Top-Virologe warnt vor Massensterben durch Corona-Impfungen,1
+273,Ansichten eines Leopoldina-Dissidenten,1
+274,leopoldina,2
+275,USA: Oberster Gerichtshof von Wisconsin hebt landesweite Maskenpflicht auf,1
+276,usa,2
+277,COVID-19: Ivermectin scheitert in klinischer Studie in Lateinamerika,1
+278,Grippe war für Ältere stets eine Gefahr,1
+279,ktipp,2
+280,Nicht verfassungskonform: Finnlands Regierung sagt Nein zu Ausgangssperren in mehreren Städten,1
+281,finnland,2
+282,Wer wünscht sich schon Beifall von der falschen Seite?,1
+283,Sensationsurteil in Österreich: PCR-Test nicht als Infektionsnachweis geeignet,1
+284,Lockern oder verschärfen? Welche Corona-Regeln sind richtig?,1
+285,wdr,2
+286,COVID-19-Impfungen mit Nebenwirkungen: Bundesinstitut streicht schwere Verdachtsfälle aus der Liste,1
+287,"""Können Langzeitsicherheit nicht beurteilen""",1
+288,zdf,2
+289,Super-Junk-Spreader-Studie: Querdenkerdemos und COVID-19 Erkrankungen sind nicht kausal,1
+290,6-Hansel als Legitimation gesellschaftlicher Zerstörung: Lockdown-Maßnahmen haben keinerlei wissenschaftliche Basis – [HART-Studie 1],1
+291,Nein zu grünem Impfpass: Anwälte für Aufklärung beweisen Mut,1
+292,Offener Brief an die Bundeskanzlerin: Immer mehr Ärzte haben genug vom Irrsinn der Corona-Politik,1
+293,jouwatch,2
+294,Zu Tode geschützt – auch die schweigende Mehrheit ist Corona-müde,1
+295,Das stille Leid der Alten: Pflegerinnen geraten an Belastungsgrenze,1
+296,Nach der Impfung mit dem Biontech/Pfizer-Impfstoff: Neun Tote in Luzerner Altersheim,1
+297,"Barbara Müller: „Ich werde die entsprechenden Personen wegen Nötigung, Drohung und Körperverletzung anzeigen“",1
+298,Mit allen Wassern gewaschen,1
+299,Mut zur Freiheit,1
+300,Zwei wichtige neue Urteile: die Luft wird dünner für die Regierung,1
+301,Wegen falscher Corona-Zahlen - Gericht bestätigt: Demo-Verbot in Wien war illegal!,1
+302,"""Vorsorgliche Maßnahme"" - Keine Astrazeneca-Impfungen für Charité-Mitarbeiterinnen unter 55 Jahren",1
+303,deutschlandfunk,2
+304,Das Missverständnis über den „Impfsschutz“,1
+305,"""Da könnte man auch würfeln"": Krankenschwester rechnet mit Test & Impfung ab",1
+306,"Coronavirus: ETH & BAG korrigieren R-Wert von 1,18 auf 1,12",1
+307,nau,2
+308,Der geistige Lockdown der COVID-19-Taskforce,1
+309,Freiheits-Lüge für Impfung: Die Herdenimmunität kommt womöglich nie,1
+310,Trauriger Rekord bei Toten nach Impfung – so viele waren es noch nie!,1
+311,Nach Impfung lauter Corona-Fälle in Altenheim: Kam Virus aus der Nadel?,1
+312,Die SVP feiert einen überraschenden Sieg im Kampf um das Corona-Regime – die Restaurants sollen schon am 22. März öffnen,1
+313,Dr. Reiner Fuellmich zu PCR-Test-Klagen: Die Politik arbeitet „mit allen möglichen Taschenspielertricks“,1
+314,Virologenlästerung? YouTube zensiert jetzt auch für Drosten,1
+315,SRF hetzt gegen kritische Ärzte: Ombudsstelle sieht kein Problem,1
+316,Erschreckende Statistik,1
+317,"Keine ""zweite Welle""? – Ex-Topwissenschaftler von Pfizer spricht von ""Pseudo-Pandemie""",1
+318,Keine Übersterblichkeit bei unter 65-Jährigen wegen Covid-19,1
+319,Alle Amtsärzte Berlins fordern Ende der inzidenzbasierten Lockdownpolitik,1
+320,Mutierte Viren und die Gefahr von Lockdowns,1
+321,«Die Politik fördert weder Vielfalt noch Transparenz»,1
+322,"Hallo Zukunft, bitte zahlen!",1
+323,"""Wissenschaftlich macht das überhaupt keinen Sinn, Masken im Freien zu tragen""",1
+324,swr,2
+325,Gefahr Corona-Impfstoff: alle Katzen tot,1
+326,Suizidstatistik: Deshalb dauert es so lange - und es soll besser werden,1
+327,«Panikmacher sollten sich entschuldigen»,1
+328,Covid-Antikörper-Test: Ist er wirklich wertlos?,1
+329,infekt,2
+330,Corona-Todesfälle: Die Mär von den zehn verlorenen Lebensjahren,1
+331,Keine Übersterblichkeit trotz Covid,1
+332,Die Hälfte aller Corona-Positiven ist nicht ansteckend,1
+333,Zeit für Ungehorsam,1
+334,WHO ändert für die Impfagenda die Definition der Herdenimmunität,1
+335,Geimpfte Senioren dürfen nicht zusammen Mittag essen: Ihnen wurde die Würde genommen,1
+336,Nebenwirkungen der Covid-19 Impfungen in der Schweiz – Update,1
+337,swissmedic,2
+338,Amtsenthebung von Bundesräten? St.Galler Nationalrat Mike Egger plant Vorstoss,1
+339,«Dürfen diese Menschen denn nicht gehen?»,1
+340,Die Daten beweisen es: Die britische Variante ist wesentlich weniger gefährlich,1
+341,Bayern: Krankenpflegerin (55) stirbt nach AstraZeneca-Impfung mit Verdacht auf Blutgerinnsel,1
+342,blutgerinnungsstörungen,2
+343,Die „Maus“ und Corona: „Was darf ich?“,1
+344,BMI: Sprachprüfer verfasste zentrale Teile eines Corona-Strategiepapiers,1
+345,"""Nadel der Freiheit"": So perfide wird der Corona-Impfdruck erzeugt",1
+346,Gouverneur DeSantis hat Impfpässe per Executive Order in Florida verboten,1
+347,36-jähriger Arzt stirbt in den USA nach Corona-Impfung: Autopsie soll Todesursache klären,1
+348,Bayern: Sieben Tote nach Corona-Impfung in Altersheim,1
+349,Offizielle Zahlen belegen unmissverständlich: Lockdowns töten,1
+350,Sind wir bereit für eine Sternstunde der Demokratie?,1
+351,"Wegen Schwedens ""anderer"" Corona-Strategie: Wissenschaftler sollen Öffentlichkeit manipuliert haben",1
+352,schweden,2
+353,VBS-Masken fallen im Qualitätstest durch,1
+354,Pandemie führt zu mehr Kindsmisshandlungen,1
+355,"Nena dankt ""Querdenkern""",1
+356,ntv,2
+357,kultur,2
+358,Polizisten-Brief belegt: Exekutive hatte Befehl zu Demo-Eskalation!,1
+359,Auch Norwegen setzt Impfungen mit AstraZeneca aus – Berlin sieht keinen Anlass für einen Stopp,1
+360,"Aerosol-Physiker: Maskenpflicht im Freien ist ""völliger Unsinn""",1
+361,"Denn sie wissen nicht, was sie tun",1
+362,Texas und Mississippi beenden Corona-Maßnahmen,1
+363,World Freedom Alliance: Stockholm - Part 2,1
+364,worldfreedomalliance,2
+365,Covid RNA Vaccines: Close to 1000 Post-Vaccination Deaths,1
+366,swprs,2
+367,Psychotherapeuten rufen um Hilfe - Zahl der Patienten verdoppelt,1
+368,Infektiosität und PCR-Positivität – Nicht das Gleiche,1
+369,"Corona children studies ""Co-Ki"": First results of a Germany-wide registry on mouth and nose covering (mask) in children",1
+370,COVID-19-Pandemie: Historisch niedrige Bettenauslastung,1
+371,Corona-Impfungen: Nebenwirkungen steigen um 61%,1
+372,Masken-Leid: Hautärzte registrieren vermehrt Entzündungen im Gesicht,1
+373,Kommentar zur Impfstoff-Affäre – Bersets Lonza-Debakel: Jetzt braucht es volle Aufklärung,1
+374,tagesanzeiger,2
+375,Maskenpflicht in Kitas - Schadet eine Kita-Maskenpflicht den Kleinsten?,1
+376,Schwarze Wahrheiten,1
+377,"Geimpft, erkrankt, gestorben: Corona-Ausbruch nach Impfung in Spanien",1
+378,Wir sehen mittlerweile Corona-Suizide,1
+379,Das Corona-Labyrinth,1
+380,Der Test-Betrug,1
+381,Wissenschaftler fordern Widerruf von PCR-Test-Studie von Corman und Drosten,1
+382,Todesfälle nach Corona-Impfung: Staatsanwalt ermittelt,1
+383,Keine Angst vor Corona-Toten!,1
+384,NZZ schreibt mit fragwürdigen Grafiken eine zweite Welle herbei,1
+385,Der Pharma-Insider,1
+386,Unser Land wird vom «Unbehagen» von Epidemiologen regiert,1
+387,"Risikogruppen schützen, Lockdown vermeiden",1
+388,Die Schweiz im Kippzustand,1
+389,Kritischer Gesundheitsamt-Chef versetzt: Über 130 Ärzte protestieren scharf,1
+390,Der Staat hat keine Argumente: Ärztekritik soll im Keim erstickt werden,1
+391,Wegen Masken-Attesten: Massive Repressionen gegen regierungskritischen Arzt Peer Eifler,1
+392,unzensuriert,2
+393,eifler,2
+394,Hunderte von Fachpersonen sind plötzlich offenbar keine mehr,1
+395,aletheia,2
+396,"Neurobiologe Hüther über Lockdown-Folgen - ""Schule ist der Ort, wo Kinder ihre tiefsten Bedürfnisse stillen""",1
+397,Berliner Polizisten haben Angst vor Astrazeneca-Impfung,1
+398,Die Seelenmörder,1
+399,"Stanford-Prof.: Lockdowns sind ""schlimmster Fehler der letzten 100 Jahre""",1
+400,COVID-19-Impfung: Werden Kollateralschäden unter den Teppich gekehrt?,1
+401,Dr. Reiner Fuellmich - Money Talks Update 1,1
+402,Schafft aggressive Mutationen: Virologe fordert von WHO Covid-Impf-Stopp,1
+403,"""Man kann so ein Virus im Labor erzeugen""",1
+404,virus-ursprung,2
+405,Neues zur Causa Drosten und fehlende Promotionsschrift: Goethe-Uni Frankfurt verhindert mittels Falschaussagen Strafverfolgung von Virologen,1
+406,"Statistik: Covid-Todeszahlen steigen dort, wo am meisten geimpft wurde",1
+407,Kinder-Maskenpetition mit 6000 Unterzeichnenden eingereicht,1
+408,petition,2
+409,Werden Viren durch Veränderung gefährlicher und hat Bossche recht?,1
+410,Corona-Impfschutz: Grosse Unterschiede bei Jung und Alt,1
+411,Im Journalismus riecht es nach Verrat an der Demokratie,1
+412,Die erstaunlichen Vorhersagen der Modellierer im Covid-Prognose-Konsortium,1
+413,Von fragwürdigen und fehlinterpretierten Corona-Zahlen,1
+414,Zunahme von Fällen in US-Staaten mit strikteren Maßnahmen,1
+415,China erklärt Biontech-Impfung zur Giftspritze,1
+416,Staatliche Kindesgefährdung,1
+417,„Ärzte waren auch immer schon Erfüllungsgehilfen der Eliten“,1
+418,Corona-Proteste Kassel: Parallel-Realitäten in den Medien,1
+419,«Wir wollten ein Lächeln und Lebensfreude schenken»,1
+420,Berliner Regierung weckt Zweifel am PCR-Test,1
+421,Coronavirus: Ex-Mitglied Tanner kritisiert Task Force scharf,1
+422,«Man sollte der Öffentlichkeit nichts vorgaukeln»,1
+423,"USA: 6 Tote während Pfizer-Imfpfstofftestungen, Warnung für Allergiker",1
+424,Studie: Selbst ein militärisch strenger Lockdown kann COVID-19 nicht stoppen,1
+425,Obduktion: Zwettler Krankenschwester (49) starb an Impf-Hirnthrombose,1
+426,6 Spitäler in der Region: So ist es mit Corona bei uns!,1
+427,Zitate erfunden? Das Schweigen des ZDF,1
+428,Dr. Roger Hodkinson - Das Ende der Coronalüge in 6 Minuten,1
+429,vimeo,2
+430,Schock in Italien: Bestürzende Serie von Todesfällen nach Corona-Impfung,1
+431,Bundesrat verliert Bezug zur Realität und den Rückhalt im Volk,1
+432,svp,2
+433,Das System ist an der Grenze,1
+434,beobachter,2
+435,Die Neurologin Margareta Griesz-Brisson ruft die deutschen Ärztekammern zur Torpedierung der Regierungsmassnahmen auf,1
+436,US-Forscher bestätigt: Corona-Sterblichkeit im ersten Jahr äußerst niedrig,1
+437,"«Papi, stimmt es, dass wir alle bald aussterben?»",1
+438,SARS-CoV-2: Evidenz spricht gegen Ansteckung über die Luft,1
+439,Norwegischer Chefarzt: Todesfälle nach Corona-Impfungen können nicht ausgeschlossen werden,1
+440,Und wenn der PCR-Test gar nicht brauchbar wäre?,1
+441,Der «Maulkorb» als Knebel der Wissenschaftsfreiheit?,1
+442,Ein Impfstoff wird das Problem nicht lösen,1
+443,"Ansteckender? Nein! – b.1.1.7, die “britische Mutation” widersetzt sich den professionellen Panikverbreitern [Neue Forschung]",1
+444,Weniger Covid-Tote trotz weniger Masken und Lockdown? Das Afrika-Paradox von Lagos,1
+445,afrika,2
+446,Die Gesichtslosen,1
+447,"«Wir dürfen junge, gesunde Menschen nicht diesem Risiko aussetzen!»",1
+448,"Eine Studie, fünf gesellschaftliche Sprengsätze, z.B.: Krankenhausaufenthalt, Organtransplantation erhöhen COVID-19-Sterberisiko erheblich",1
+449,"Keine Erfassung von Todesfällen ""in Zusammenhang mit Corona-Impfung""",1
+450,Intransparente Risikobewertung: Multipolar klagt gegen das Robert Koch-Institut,1
+451,Kommentar - Das BAG lernt einfach nicht dazu – weitere Fehler liegen nicht mehr drin,1
+452,Wie der Lockdown Kinder krank macht,1
+453,An oder mit der Impfung verstorben?,1
+454,Swissmedic und die Bill & Melinda Gates Foundation (BMGF) setzen ihre Zusammenarbeit fort,1
+455,Studie aus Uni Hamburg zum Ursprung der Coronavirus-Pandemie,1
+456,Trotz «Pandemie»: Weniger Tote in der Schweiz,1
+457,Ärzte für Covid-Ethik fordern von EMA Einstellung der experimentellen Impfungen,1
+458,Die Angst aus der Klinik,1
+459,Antoine Hubert: «Wir hätten die Patienten von den Hausärzten behandeln lassen sollen»,1
+460,Die neue Teststrategie für den Dauerlockdown – eine mathematische Analyse und Bewertung,1
+461,Sucharit Bhakdi: 'Betrug an der Schweizer Bevölkerung' - ein Gespräch mit Dr. Rainer Schregel,1
+462,Moderna will Impfstoff an Kindern testen,1
+463,Die Medien haben politischen Aktivismus und überzogene Massnahmen begünstigt,1
+464,Biontech/Pfizer testet Corona-Impfstoff bei Kindern von 0 bis 11 Jahren,1
+465,"Achtung, Diktatur! (2/2)",1
+466,Corona: Erhöhte Ansteckungsgefahr durch Impfen?,1
+467,Der Beweis über die Schädlichkeit der Masken bei Kindern (Eugen Janzen),1
+468,bitchute,2
+469,Neue Studie: Lockdowns verhindern Covid Todesfälle nicht,1
+470,"Münchner Kinderarzt: ""Ich mache mir richtig Sorgen!""",1
+471,Die Liga der geweihten Lockdown-Liebhaber,1
+472,"Versorgungskrise: Kliniken sind nicht überbelegt, sondern unterbesetzt",1
+473,Israels Impfungen: Vorbild oder menschliches Versuchslabor?,1
+474,Wichtige Botschaft von Neurologin Dr. Margareta Griesz-Brisson,1
+475,Wie stark kann sich SARS-CoV-2 durch asymptomatische Träger ausbreiten?,1
+476,Schule fällt aus wegen Astra-Zeneca-Nebenwirkungen,1
+477,"Keine Pandemie, sondern eine Endemie",1
+478,"Überfordert, aber noch tragbar?",1
+479,Richter rügt Corona-Urteile: 'Gerichte haben Grundrechts-Eingriffe aus Angst abgesegnet',1
+480,grundrechte,2
+481,"Drei Studien zeigen, dass die Anfälligkeit für Covid-19 in den ersten neun Tagen nach der Impfung steigt",1
+482,"Mit Schnelltests zum Dauerlockdown? Wie sich mit ""manipulierten Zahlen"" die Kurve hochhalten lässt",1
+483,So zynisch arbeitet das BAG,1
+484,Lockdown: Überschätzten wir uns selbst?,1
+485,80.000 Menschen zeichnen Impfstoff-Petition – die EMA schweigt,1
+486,Volksschulen. Vorgaben Schutzkonzepte; Ausdehnung Maskentragpflicht,1
+487,Spanien: Sieben Pflegeheimbewohner sterben nach BioNTech/Pfizer-Impfung,1
+488,Drosten-PCR-Test-Studie: Rückzugsantrag gestellt wegen wissenschaftlicher Fehler und massiver Interessenkonflikte,1
+489,US-Datenbank listet 6741 Fälle mit Covid-Impf-Nebenwirkungen: 55 Tote,1
+490,Vater der dritten Welle,1
+491,"Leben heisst nicht nur, nicht zu sterben",1
+492,Der Testzwang weitet sich aus und Apartheid droht,1
+493,Bund beteiligt sich an COVAX-Initiative zur Beschaffung von COVID-19-Impfstoffen,1
+494,covax,2
+495,gavi,2
+496,Rima sitzt im Komitee: Impfkritiker lancieren Initiative,1
+497,rima,2
+498,Warum schweigen Sie? Warum sehen Sie weg?,1
+499,Allergische Reaktionen: Kalifornien stoppt Moderna-mRNA-Impfung,1
+500,Trotz Online-Petition: WDR-Programmchef lehnt Corona-kritische Talkshow ab,1
+501,Portugiesisches Berufungsgericht hält PCR-Test für unzuverlässig,1
+502,portugal,2
+503,Die Maske für Kinder könnte der Wendepunkt sein,1
+504,Lockdown Kinderrechte,1
+505,Toter Arzt: Freund kämpft in Videobotschaft für Wahrheit über Impfung,1
+506,Auch in Schweden sterben die alten Menschen nach der Impfung,1
+507,Sachverständiger beweist live: CO2-Werte unter Masken gesundheitsschädlich,1
+508,Bund hält sich bei Impfdeals bedeckt,1
+509,40 Prozent weniger Intensivbetten als noch im Frühling,1
+510,Tödlicher Maskenzwang? 13-jährige kollabiert in Schulbus und stirbt,1
+511,Was die Virus-Panikmache in Politik und Medien mit uns macht,1
+512,Die unerwünschte Wahrheit,1
+513,Sterben in Krisenzeiten,1
+514,Was soll das Gerede von «Covidioten» und Verschwörungstheoretikern? Ausgrenzung kann in einer Demokratie nur das letzte Mittel sein,1
+515,Triemli-Spital-Pfleger langweilen sich zu Tode,1
+516,Vorwort zum Sonntag: Solidarität mit der Jugend in Corona-Zeiten,1
+517,Lungenarzt: „Frühe künstliche Beatmung ist größter Fehler im Kampf gegen Corona“,1
+518,beatmung,2
+519,EMA-Mails gehackt: Corona-Impfstoff von BioNTech und Pfizer hatte Qualitätsprobleme,1
+520,Corona-Kollateralschaden: Altenbetreuerin beklagt Tod ihrer Mutter,1
+521,"Tote, Gelähmte, Behinderungen: Impf-Nebenwirkungen weiterhin geleugnet",1
+522,Testen als Alltagspflicht: Inzwischen geht wirklich fast alles,1
+523,Studie zur Corona-Übersterblichkeit: Starben 45 Prozent infolge des Lockdowns?,1
+524,Lockdowns haben keinen Einfluss auf das Infektionsgeschehen,1
+525,nature,2
+526,Gesichtsmasken sind voll von Bakterien und Pilzen,1
+527,«Kollateralschäden von Lockdowns sind grösser als der Nutzen»: Ausserrhoder Kantonsarzt muss wegen Kritik an Bundesrat Amt niederlegen,1
+528,Ostschweizer Experten sind sich einig: Maskenpflicht für Primarschüler nicht wirksam,1
+529,fm1today,2
+530,Brandbrief an Europäischen Gerichtshof – Bayerische Psychologin fordert rechtliches Gehör,1
+531,Objektive Zahlen gegen professoralen Unsinn,1
+532,Öffentlich-rechtliche Sender und der Lockdown: Ein Armutszeugnis,1
+533,Sperrstunde ab 19 Uhr und Schliessungen an Sonn- und Feiertagen,1
+534,Virologe: „Corona ist auf dem Rückzug“,1
+535,Top Medizin Wissenschaftler John Ioannidis zieht Corona Bilanz,1
+536,Inzwischen 13 Hirnvenen-Thrombosen gemeldet,1
+537,Weitere Todesfälle kurz nach Corona-Impfung in der Schweiz und in Israel,1
+538,"Zuerst Coronaleugner, dann Coronaskeptiker - und was heisst es morgen?",1
+539,Britische Regierung veröffentlicht Bericht über Nebenwirkungen der Corona-Impfstoffe,1
+540,Tausendfache „schwere Freiheitsberaubung“: 50 Anwälte schreiben Offenen Brief gegen Corona-Quarantäne,1
+541,Der beste Psychotherapeut sind die nackten Zahlen,1
+542,"«Sofort aufhören, die Zukunft meiner Grosskinder zu zerstören»",1
+543,"Informant berichtet: Unzählige Fehlbehandlungen, falsche Todesdiagnosen",1
+544,"""Diese Impfung ist ein Experiment an Menschen""",1
+545,Dr. Reiner Fuellmich: Die COVID-19-Injektion – ein „russisches Roulettespiel“,1
+546,Rätselhafte Zahlen bei Belegung von Intensivstationen in Europa,1
+547,Nichtigkeitsklage gegen die Zulassung des BioNTech-Impfstoffs,1
+548,Coronavirus-Todesfälle: Über die fragwürdige Diagnostik und die irreführende Darstellung in Regierungserklärungen,1
+549,Covid-19-Impfstoff: Bund unterzeichnet Vertrag mit Pfizer,1
+550,Anwälte bezichtigen die israelische Regierung der „Verbrechen gegen die Menschlichkeit“,1
+551,Impfskepsis nimmt während der zweiten Corona-Welle zu,1
+552,"Xavier Naidoo ruft zu ""Volksaufstand"" gegen Merkels Total-Lockdown auf!",1
+553,"Kritisch nachgeschaut: Coronavirus, sein Isolat und seine Mutanten",1
+554,"Lieber Bundesrat, hier noch ein paar gut gemeinte Ratschläge",1
+555,Systematische Panikmache mit Todeszahlen am Beispiel Italien,1
+556,"Regierungs-Experte: Impfung hat Nebenwirkungen, schützt andere nicht",1
+557,"Kommentar: Es geht um Staatsbürger, nicht um Untertanen",1
+558,Der zweite Fehlalarm,1
+559,Israel: 75-Jähriger stirbt wenige Stunden nach Corona-Impfung,1
+560,Der grösste Impfstoff-Investor schenkt der Swissmedic 900’000 Dollar,1
+561,Drosten-Papier in der Kritik: Experten finden zehn schwerwiegende Fehler im PCR-Testverfahren,1
+562,Gesundheitsamt verschwieg Zahlen zu umstrittener Reisequarantäne,1
+563,Kassenärzte-Chef Gassen: Harter Lockdown wird scheitern,1
+564,75-jährige St.Gallerin wendet sich an den Bundesrat,1
+565,Weitere fünf Tote in Frankreich: Senioren sterben nach Impfungen,1
+566,PCR-Test: Kritiker unter Beschuss,1
+567,Immunantwort stabiler als bisher vermutet,1
+568,Lockdown und Frühlingserwachen: Die Jugend zieht es ins Freie,1
+569,«Ciao Corona»: Auf diesem dünnen Eis steht die Maske für Schulkinder,1
+570,"Chile: Vom ""Impf-Weltmeister"" zum Corona-Infektionsherd",1
+571,"Keine Maskenpflicht, keine Schulschließungen, Sportangebote, Freiheit – Schweden zeigt einen Weg",1
+572,Klinik-Studie: 2020 weniger Beatmete als 2019,1
+573,Physikerin warnt: Virus-Varianten können Impfschutz umgehen,1
+574,Bund übernimmt Testkosten für Personen ohne Symptome und passt Quarantäneregeln an,1
+575,"Der ehemalige Bundesverfassungsrichter Hans-Jürgen Papier warnt: «Auch wer die Gesundheit der Bevölkerung schützen will, darf nicht beliebig in die Grundrechte eingreifen»",1
+576,Die westlichen Demokratien sind durch das chinesische Virus in den Abgrund gestürzt worden,1
+577,"Kinder, Corona und Angst-Propaganda: Wenn aus ""Blinddarm"" und Co. schwerkranke COVID-Babys werden",1
+578,"Mutbrief eines Polizisten: ""Will nicht Komplize des Unrechts sein""",1
+579,Spahns Corona-Wortbruch,1
+580,"0,0141 Prozent: Positiver Effekt der Corona-Impfung kaum nachweisbar",1
+581,Covid19-Gerichtsbeschluss zeigt: Es gibt keine Rechtssicherheit mehr,1
+582,Studie zeigt massive Covid Infektionen nach der Impfung,1
+583,Corona-Papier des BMI wollte „Angst und Folgebereitschaft“ erzeugen,1
+584,Erneute Verlängerung: Bildungsdirektion entscheidet über die Köpfe von Eltern hinweg,1
+585,Daten nachträglich angepasst – Plötzlich sackt der R-Wert ab,1
+586,Der Sturmvogel aus dem Nichts,1
+587,Masken auf Dauer könnten unsere Kinder die Zukunft kosten.,1
+588,"Richter klagt in Karlsruhe: „Was wir erleben, ist verfassungswidrig“",1
+589,"Dänemark, Island und Norwegen setzen Impfungen mit AstraZeneca Impfstoff nach Berichten über Blutgerinnsel aus",1
+590,"""Lockdown-Sabotage"" bei Hart aber Fair: Diese Sendung muss rückgängig gemacht werden",1
+591,Wie naiv sind wir?,1
+592,"«Zuschauertribünen, Bars und Restaurants sofort öffnen»",1
+593,Großbritannien: Normale Mutanten der Virusevolution,1
+594,WHO-Vertreter: Ende der Pandemie in Sicht – offenbar auch ohne Impfung,1
+595,Nach AstraZeneca-Impfung: Belgische Krankenschwester erblindet,1
+596,"German Doctors Letter to Chancellor Merkel, Put an End to the Covid “Fear Machine”",1
+597,globalresearch,2
+598,"Langfristiger Gebrauch von Masken kann zu Lungenkrebs im fortgeschrittenen Stadium beitragen, sagt eine Studie",1
+599,Wie bei Eltern Corona-Angst geschürt wird,1
+600,In Schweden: Weiterer toter Senior nach Corona-Impfung,1
+601,Spitalsituation: «Glücklicherweise nicht so dramatisch»,1
+602,Kapazitäten auf Psychiatrie gesprengt: Kinder sind suizidal wegen Corona,1
+603,Stark kritisierte wissenschaftliche Arbeit von Christian Drosten wird nicht zurückgezogen,1
+604,Heimische Mediziner fordern Rücknahme der Corona-Maßnahmen,1
+605,standard,2
+606,"Studie von Top-Epidemiologen: Infektionssterblichkeit von Corona 0,15 Prozent",1
+607,Richter klagt gegen Corona-Verordnungen,1
+608,Die Covid-19-Pandemie – bisherige Erkenntnisse und Empfehlungen für das weitere Vorgehen,1
+609,hessisches ärzteblatt,2
+610,gottschalk,2
+611,"Shutdown, Reduzierung der Sozialkontakte und Einhalten der sozialen Distanz",1
+612,Abmahnung an Christian Drosten,1
+613,Schweden: Gleiche Todesraten ohne Lockdown,1
+614,Biontech/Pfizer: Tests mit Corona-Impfstoff jetzt auch an Babys,1
+615,Bundesrat erklärt die «ausserordentliche Lage» und verschärft die Massnahmen,1
+616,Wie sinnvoll sind Corona-Maßnahmen? Ein Offener Brief an Bundeskanzlerin Merkel,1
+617,Dänemark setzt AstraZeneca-Impfungen weiterhin aus,1
+618,Fakten zu Corona: Wo wir nach einem Jahr Dauerkrise stehen,1
+619,Portugiesische Krankenschwester stirbt nach Impfung,1
+620,Diese Corona-Fallzahlen schweben im luftleeren Raum,1
+621,Covid-19 weniger tödlich als vermutet?,1
+622,Coronavirus: BAG treibt Positivitätsrate künstlich in die Höhe,1
+623,Wo ist die Debatte? Wer baut noch Brücken? Ein offener Brief an die Leitmedien,1
+624,Corona und gekaufte Wissenschaft – Wie falsche Wissenschaft die Welt in einen Abgrund stürzt,1
+625,Vorwärts zur neuen Staatsordnung: Warum Intellektuelle in der Corona-Zeit das kritische Denken kritisieren,1
+626,Lockdowns haben keinerlei Effekt auf die Anzahl der COVID-19-Toten [Neue Studie],1
+627,"Uni-""Studie"" bestätigt Masken-Wirksamkeit",1
+628,Verdachtsmeldungen von unerwünschten Wirkungen der Covid-19-Impfstoffe in der Schweiz,1
+629,Dr. Pürner über Corona-Schnelltests: Neue Freiheit - aber zu welchem Preis?,1
+630,Pflegeheim in Solms: Erster „Corona-Todesfall“ nach der Impfung,1
+631,Prof. für Molekulargenetik Dr. Cahill warnt vor mRNA-Nebenwirkungen,1
+632,Großbritannien: 30 Thrombosefälle nach Impfungen mit AstraZeneca,1
+633,Lockdown für die Wirtschaft? Das bringt uns die ökonomische Depression,1
+634,Die deformierte Generation,1
+635,Die Corona Task Force ist eine Art Superspreader bei der Verbreitung von Halbwahrheiten und Vermutungen,1
+636,"Kinder keine Pandemietreiber, T-Zellimmunität schützt",1
+637,Wie seit Impfbeginn in Israel vermehrt Todesfälle bei Jüngeren auftreten,1
+638,Dr. Wodarg und Dr. Yeadon beantragen den Stopp sämtlicher Corona-Impfstudien und rufen zum Mitzeichnen der Petition auf,1
+639,Künstler ziehen vor Verfassungsgericht,1
+640,kunst,2
+641,Mit Kanonen auf Schüler,1
+642,Mutter fragt: Der Tod meiner Tochter – ein Kollateralschaden?,1
+643,Sinnvoll nur bei richtiger Anwendung der Masken,1
+644,pharmazeutische-zeitung,2
+645,"""Jahrhundert-Pandemie""? Kliniken melden weniger Lungenentzündungen und Beatmungsfälle als im Vorjahr",1
+646,COVID-19-Impfung bei rund einem Drittel der Alten wirkungslos [Studie aus Deutschland],1
+647,52% mehr Todesfälle in der Altersgruppe 50+ nach der Impfung,1
+648,"BioNTech: Keine Impfempfehlung für alte, kranke Leute",1
+649,Was ist anders in Florida? Hort der Freiheit hat bessere Zahlen!,1
+650,"Ex-Frau von Lauterbach zur COVID-19-Pandemie: ""Maßnahmen können sofort beendet werden""",1
+651,"Lagebericht aus Spanien: Corona kam, sah und siegte – wie sonst nirgends in Europa",1
+652,Coronavirus: Das Aufrechterhalten der Maßnahmen trotz einer dramatisch gesunkenen Sterberate,1
+653,Britischer Chef-Mediziner: Großbritannien wird Covid-19 wie eine saisonale Grippe behandeln,1
+654,Das Web fragt sich: „Wieso ist eigentlich der Leiter der chinesischen Seuchenschutzbehörde Mitglied der Leopoldina?“,1
+655,"Nach Impfung: 48% erhöhte Wahrscheinlichkeit für Alte, an COVID-19 zu erkranken [neue Studie]",1
+656,Corona-Faktencheck,1
+657,walach,2
+658,Ist das Coronavirus wirklich so gefährlich?,1

@@ -3,8 +3,9 @@ layout:     post
 title:      bitchute
 subtitle:   "Sterben in Krisenzeiten"
 date:       2020-10-08
-categories: Video
-tags:       [haintz]
+persons:    [Haintz Markus]
+categories: [Video, Mensch]
+tags:       [bitchute, sterblichkeit]
 bitchuteId: "8J5BNYMiXZwI"
 ---
 

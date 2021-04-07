@@ -12,7 +12,7 @@ scrape = Scraper.new
 #tools.write_file(site_data)
 counter = 1
 
-files = Dir.glob("../_posts/*-wochenblick_*.md")
+files = Dir.glob("../_posts/*.md")
 
 network_nodes = Array.new
 network_edges = Array.new
@@ -21,7 +21,11 @@ node_count = 1
 edges_count = 1
 
 files.each do |filename|
-  #puts filename
+
+  puts "File: #{filename} (#{counter})"
+  counter += 1
+
+  break if counter > 500
 
   meta_data = YAML.load_file(filename)
   file_name = filename.split('/').last
