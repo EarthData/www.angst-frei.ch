@@ -93,7 +93,7 @@ tag:
   zeitpunkt: zeitpunkt
 subtitle:
   2020news: last-
-  corona-blog: last
+  corona-blog: last2-
   corona-transition: last
   insideparadeplatz: last-
   infekt: last
@@ -116,6 +116,7 @@ cleanurl:
   deutschlandfunk: false
 country:
   achgut: DE
+  corona-blog: DE
   corona-transition: CH
   rt: DE
   rubikon: DE

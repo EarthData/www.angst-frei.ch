@@ -11,7 +11,7 @@ scrape = Scraper.new
 #tools.write_file(site_data)
 counter = 1
 
-files = Dir.glob("../_posts/*-2020news_*.md")
+files = Dir.glob("../_posts/*-corona-blog_*.md")
 
 parameters = ['date', 'redirect', 'title', 'subtitle', 'timeline', 'country', 'persons', 'categories', 'tags', 'filename']
 
