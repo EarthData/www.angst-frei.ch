@@ -14,7 +14,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2095,DE,2021-04-09,15:30:00,22941,Bargteheide,Am Markt / Schulzentrum,Mahnwache,,Freitag für Freiheit Freude und Frieden,
 2312,DE,2021-04-09,16:00:00,64295,Darmstadt,Hindenburgstr. 1,Schilderwald,,unbekannt,
 2333,DE,2021-04-09,17:00:00,97070,Würzburg,Unterer Markt,Spaziergang,,Eltern stehen auf Würzburg,https://eltern-stehen-auf-wuerzburg.de/
-2250,DE,2021-04-09,17:00:00,83301,Traunreut,Rathausplatz,Kundgebung,https://dlive.tv/861Querdenken-TS?ref=papageienumschau,unbekannt,www.querdenken-ts.de
+2250,DE,2021-04-09,17:00:00,83301,Traunreut,Rathausplatz,Kundgebung,https://dlive.tv/861Querdenken-TS?ref=papageienumschau,unbekannt,https://www.querdenken-ts.de
 2221,DE,2021-04-09,17:00:00,70372,Stuttgart / Bad Cannstatt,Cannstatter Wasen Parkpl. P10,Fahrraddemo,,Privat,
 2226,DE,2021-04-09,17:15:00,78713,Schramberg,Parkplatz am Schloss / Talstadt,Kundgebung,,unbekannt,https://t.me/friede_und_freiheit/5027
 2269,DE,2021-04-09,17:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
@@ -25,6 +25,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2292,DE,2021-04-09,20:00:00,76131,Karlsruhe,Marktplatz,Kundgebung,,grundrechte.jetzt,https://grundrechte.jetzt
 2343,DE,2021-04-10,10:00:00,01968,Senftenberg,Grubenstr. / Brieske,Autokorso,,unbekannt,
 2317,DE,2021-04-10,10:00:00,88299,Leutkirch im Allgäu,Auenweg 35 / Betonmischwerk,Autokorso,,Privat,https://www.facebook.com/groups/879919766176803/?ref=share
+2345,DE,2021-04-10,10:00:00,12459,Berlin,Sterndamm / Koenigsheideweg Bus,Sonstiges,,Initiative Hauptstadtstimmen,
 2227,DE,2021-04-10,10:30:00,79271,St. Peter,Zähringer Eck / Rossweiher,Versammlung,,Schwarzwald Netzwerk,https://schwarzwald-netzwerk.de
 2299,DE,2021-04-10,11:00:00,29223,Celle,Schützenplatz,Spaziergang,,Celle steht auf,https://t.me/cellestehtauf
 2275,DE,2021-04-10,13:00:00,39576,Stendal,Winkelmannplatz,Kundgebung,,Bürgerbewegung Altmark / Privat,https://fb.me/e/1oHL9tQak
@@ -89,7 +90,6 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2188,DE,2021-04-12,19:00:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,unbekannt,
 2329,DE,2021-04-13,17:00:00,14471,Potsdam,Bhf Pirschheide,Kundgebung,,Driving4Future,
 2325,DE,2021-04-14,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,http://www.Hanau-steht-auf.de
-2172,DE,2021-04-14,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2322,DE,2021-04-14,18:30:00,75031,Eppingen,Brettenerstr. / Kaiserstr.,Aufzug,,unbekannt,
 2311,DE,2021-04-14,19:00:00,45329,Essen,Zweigertbrücke / Parkplatz,Autokorso,,Querdenken-201,https://www.querdenken-201.de
 2177,DE,2021-04-15,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
