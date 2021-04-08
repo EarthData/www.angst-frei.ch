@@ -20,7 +20,7 @@ files.each do |filename|
   puts "File: #{filename} (#{counter})"
   counter += 1
 
-  break if counter > 800
+  #break if counter > 800
 
   meta_data = YAML.load_file(filename)
   file_name = filename.split('/').last
