@@ -9,7 +9,7 @@ counter = 1
 
 files = Dir.glob("../_posts/*.md")
 
-network_nodes = Array.new
+network_nodes = Hash.new
 network_edges = Array.new
 
 node_count = 1
@@ -20,7 +20,7 @@ files.each do |filename|
   puts "File: #{filename} (#{counter})"
   counter += 1
 
-  #break if counter > 1100
+  break if counter > 500
 
   meta_data = YAML.load_file(filename)
   file_name = filename.split('/').last
@@ -28,54 +28,61 @@ files.each do |filename|
 
   file_date = file_name.match /([0-9]{4}\-[0-9]{2}\-[0-9]{2})/
   #file_name = file_name.match /[0-9]{4}\-[0-9]{2}\-[0-9]{2}\-(.*)$/
-  if network_nodes.detect {|node| node["label"] == file_name }
-    puts "#{file_name} already exists"
+  if network_nodes[meta_data['subtitle']]
+    puts "#{meta_data['subtitle']} already exists"
   else
-    network_nodes <<  { "label" => meta_data['subtitle'], "id" => node_count, "value" => 1 }
+    network_nodes[meta_data['subtitle']] = Hash.new
+    network_nodes[meta_data['subtitle']]['id'] = node_count
+    network_nodes[meta_data['subtitle']]['value'] = 1
     article_id = node_count
     node_count += 1
   end
   
   meta_data['categories'].each do |category|
-    if network_nodes.detect {|node| node["label"] == category }
-      node = network_nodes.detect {|node| node["label"] == category }
+    if network_nodes[category]
       #puts "#{category} already exists"
-      network_edges <<  { "id" => edges_count, "source" => article_id, "target" => node['id'] }
+      network_nodes[category]['value'] += 1
+      network_edges <<  { "source" => article_id, "target" => network_nodes[category]['id'], "value" => 3 }
       edges_count += 1
     else
-      network_nodes <<  { "label" => category, "id" => node_count, "value" => 3 }
-      network_edges <<  { "id" => edges_count, "source" => article_id, "target" => node_count }
+      network_nodes[category] = Hash.new
+      network_nodes[category]['id'] = node_count
+      network_nodes[category]['value'] = 1
+      network_edges <<  { "source" => article_id, "target" => node_count, "value" => 3 }
       node_count += 1
     end
   end
 
   meta_data['tags'].each do |tag|
     next if tag == "wochenblick"
-    if network_nodes.detect {|node| node["label"] == tag }
-      node = network_nodes.detect {|node| node["label"] == tag }
-      #puts "#{category} already exists"
-      network_edges <<  { "id" => edges_count, "source" => article_id, "target" => node['id'] }
+    if network_nodes[tag]
+      #puts "#{tag} already exists"
+      network_nodes[tag]['value'] += 1
+      network_edges <<  { "source" => article_id, "target" => network_nodes[tag]['id'], "value" => 1 }
       edges_count += 1
     else
-      network_nodes <<  { "label" => tag, "id" => node_count, "value" => 2 }
-      network_edges <<  { "id" => edges_count, "source" => article_id, "target" => node_count }
+      network_nodes[tag] = Hash.new
+      network_nodes[tag]['id'] = node_count
+      network_nodes[tag]['value'] = 1
+      network_edges <<  { "source" => article_id, "target" => node_count, "value" => 1 }
       node_count += 1
     end
   end
   
 end
 
+
 CSV.open("../_data/network-link-nodes.csv", "wb") do |csv|  
   csv << ["id", "label", "value"]
-  network_nodes.each do |node|
-    csv << [node['id'], node['label'], node['value']]  
+  network_nodes.each do |node, values|
+    csv << [values['id'], node, values['value']]  
   end
 end  
 
 CSV.open("../_data/network-link-edges.csv", "wb") do |csv|  
-  csv << ["id", "from", "to"]
+  csv << ["from", "to", "value"]
   network_edges.each do |edge|
-    csv << [edge['id'], edge['source'], edge['target']]  
+    csv << [edge['source'], edge['target'], edge['value']]  
   end
 end  
 

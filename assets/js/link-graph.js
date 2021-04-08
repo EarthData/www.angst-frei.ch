@@ -11,11 +11,10 @@ $.getJSON('/json/network-link-data.json', function(data) {
     nodes: {
       shape: "dot",
       scaling: {
-        customScalingFunction: function (min, max, total, value) {
-          return value / total;
+        label: {
+          min: 8,
+          max: 20,
         },
-        min: 5,
-        max: 150,
       },
     },
   };

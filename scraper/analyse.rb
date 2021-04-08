@@ -11,7 +11,7 @@ scrape = Scraper.new
 #tools.write_file(site_data)
 counter = 1
 
-files = Dir.glob("../_posts/*-substack_*.md")
+files = Dir.glob("../_posts/*-epochtimes*.md")
 
 parameters = ['date', 'redirect', 'title', 'subtitle', 'timeline', 'country', 'persons', 'categories', 'tags', 'filename']
 
@@ -84,8 +84,11 @@ files.each do |filename|
       else
         new_file[parameter] = meta_data[parameter]
       end
+    elsif parameter == 'filename' and meta_data['filename'].to_s != site_data['filename'].to_s
+      puts "change filename: mv ../_posts/#{meta_data[parameter]}.md ../_posts/#{site_data[parameter]}.md"
+      new_file[parameter] = site_data[parameter]
     elsif meta_data[parameter].to_s != site_data[parameter].to_s
-      puts "#{parameter}: changing from :#{meta_data[parameter]}: to :#{site_data[parameter]}:"
+      puts "#{parameter}: changing :#{meta_data[parameter]}: to :#{site_data[parameter]}:"
       new_file[parameter] = site_data[parameter]
     else
       new_file[parameter] = site_data[parameter]
