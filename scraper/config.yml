@@ -89,6 +89,7 @@ tag:
   tichyseinblick: tichyseinblick
   tkp: tkp
   vera-lengsfeld: vera-lengsfeld
+  harald-walach: walach
   welt: welt
   zeitpunkt: zeitpunkt
 subtitle:
@@ -110,6 +111,7 @@ subtitle:
   unser-mitteleuropa: ignore-og
   welt: last-
   verfassungsfreunde: last
+  harald-walach: last-
   weltwoche-daily: last
 cleanurl:
   nachdenkseiten: false
