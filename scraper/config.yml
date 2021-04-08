@@ -78,11 +78,13 @@ tag:
   dgkj: dgkj
   fm1today: fm1today
   focus: focus
+  infekt: infekt
   insideparadeplatz: inside-paradeplatz
   medinside: medinside
   meinbezirk: meinbezirk
   rt: rt
   substack: substack
+  swprs: swprs
   tagblatt: tagblatt
   tichyseinblick: tichyseinblick
   tkp: tkp
@@ -90,22 +92,23 @@ tag:
   welt: welt
   zeitpunkt: zeitpunkt
 subtitle:
-  2020news: last
+  2020news: last-
   corona-blog: last
   corona-transition: last
-  insideparadeplatz: last
+  insideparadeplatz: last-
   infekt: last
-  infosperber: last
+  infosperber: last-
   kenfm: last
-  ktipp: last
+  ktipp: last2-
   medinside: ignore-og
   nordkurier: last
   pharmazeutische-zeitung: last
   reitschuster: last-
   tagblatt: last
+  tkp: last-
   uncutnews: last
   unser-mitteleuropa: ignore-og
-  welt: last
+  welt: last-
   verfassungsfreunde: last
   weltwoche-daily: last
 cleanurl:
