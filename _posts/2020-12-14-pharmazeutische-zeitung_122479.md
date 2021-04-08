@@ -2,7 +2,8 @@
 date:          2020-12-14
 redirect:      https://www.pharmazeutische-zeitung.de/covid-19-impfstoffprojekt-wegen-nebeneffekt-gestoppt-122479/
 title:         Pharmazeutische Zeitung
-subtitle:      "Covid-19-Impfstoffprojekt wegen Nebeneffekt gestoppt"
+subtitle:      'Australien: Covid-19-Impfstoffprojekt wegen Nebeneffekt gestoppt'
+country:       DE
 categories:    [Wissenschaft, Impfung]
-tags:          [pharmazeutische-zeitung, impf-nebenwirkungen]
+tags:          [pharmazeutische zeitung, australien, impf-nebenwirkungen]
 ---
