@@ -3,13 +3,8 @@
 require 'yaml'
 require 'csv'
 
-require File.join(__dir__, 'lib/scraper')
 require File.join(__dir__, 'lib/tools')
 
-scrape = Scraper.new
-#tools = Tools.new
-#site_data = scrape.scrape_url(url, date)
-#tools.write_file(site_data)
 counter = 1
 
 files = Dir.glob("../_posts/*.md")
@@ -25,7 +20,7 @@ files.each do |filename|
   puts "File: #{filename} (#{counter})"
   counter += 1
 
-  break if counter > 500
+  #break if counter > 1100
 
   meta_data = YAML.load_file(filename)
   file_name = filename.split('/').last

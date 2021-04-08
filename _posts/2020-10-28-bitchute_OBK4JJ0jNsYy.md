@@ -3,9 +3,9 @@ layout:     post
 title:      bitchute
 subtitle:   "Hohe Gesundheitsrisiken durch das Maskentragen bei Kindern"
 date:       2020-10-28
-timeline:   true
-categories: Video
-tags:       [kind]
+timeline:   Medizin
+categories: [Video, Medizin]
+tags:       [kind, maske]
 bitchuteId: "OBK4JJ0jNsYy"
 ---
 

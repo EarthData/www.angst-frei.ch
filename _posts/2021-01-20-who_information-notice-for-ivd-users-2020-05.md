@@ -4,6 +4,6 @@ redirect:      https://www.who.int/news/item/20-01-2021-who-information-notice-f
 title:         WHO
 timeline:      true
 subtitle:      "WHO Information Notice for IVD Users 2020/05"
-categories:    Wissenschaft
+categories:    [Wissenschaft]
 tags:          [who, pcr-test]
 ---

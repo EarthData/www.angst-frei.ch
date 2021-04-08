@@ -1,10 +1,9 @@
 ---
 date:          2021-02-03
 title:         Jörg Roth
-timeline:      false
 published:     false
 subtitle:      "Gedanken zur P(l)andemie"
-categories:    Posts
+categories:    [Posts]
 tags:          [posts]
 ---
 
