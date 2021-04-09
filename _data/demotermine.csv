@@ -77,6 +77,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2308,DE,2021-04-12,18:00:00,92421,Schwandorf,Oberer Marktplatz,Kundgebung,,unbekannt,
 2351,DE,2021-04-12,18:00:00,14467,Potsdam,Platz zwischen Filmmuseum und,Kundgebung,,Fraktion Frieden und NW2021,
 2237,DE,2021-04-12,18:00:00,14467,Potsdam,Am Kanal,Spaziergang,,Privat,
+2359,DE,2021-04-12,18:00:00,49074,Osnabrück,Rathaus,Demonstration,,unbekannt,
 1902,DE,2021-04-12,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
 2222,DE,2021-04-12,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,Privat,https://t.me/LichterspaziergangGT
 2291,DE,2021-04-12,18:00:00,27432,Bremervörde,Rathausplatz,Spaziergang,,unbekannt,
@@ -88,7 +89,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2356,DE,2021-04-12,19:00:00,09661,Hainichen,Marktplatz,Kundgebung,https://dlive.tv/SAXO_ICA,Privat,
 2188,DE,2021-04-12,19:00:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,unbekannt,
 2329,DE,2021-04-13,17:00:00,14471,Potsdam,Bhf Pirschheide,Kundgebung,,Driving4Future,
+2361,DE,2021-04-13,17:00:00,14467,Potsdam,Glienicker Brücke,Autokorso,,Driving4Future,
 2353,DE,2021-04-13,18:00:00,86441,Zusmarsahausen,Parkplatz Schule,Aufzug,,unbekannt,
+2360,DE,2021-04-13,18:00:00,33758,Schloß Holte-Stukenbrock,Kirchplatz / Holte,Demonstration,,unbekannt,
 2325,DE,2021-04-14,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,http://www.Hanau-steht-auf.de
 2322,DE,2021-04-14,18:30:00,75031,Eppingen,Brettenerstr. / Kaiserstr.,Aufzug,,unbekannt,
 2311,DE,2021-04-14,19:00:00,45329,Essen,Zweigertbrücke / Parkplatz,Autokorso,,Querdenken-201,https://www.querdenken-201.de
@@ -104,6 +107,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2258,CH,2021-04-18,11:00:00,1719,Schwarzsee,Rund um den See,Meditation,,unbekannt,
 2349,AT,2021-04-18,14:00:00,6900,Bregenz,Kornmarktplatz,Kundgebung,,unbekannt,https://corona-demo.at/
 2319,DE,2021-04-18,15:00:00,48149,Münster,Schloßplatz / Parkplatz,Autokorso,,Autokorso Münster von/mit Aerzte fuer Aufklaerung,
+2362,DE,2021-04-19,18:00:00,33397,Rietberg,ZOB / Rietberg,Kundgebung,,unbekannt,
 1903,DE,2021-04-19,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
 2234,DE,2021-04-19,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198
 2189,DE,2021-04-19,19:00:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,unbekannt,
