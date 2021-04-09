@@ -16,6 +16,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2292,DE,2021-04-09,20:00:00,76131,Karlsruhe,Marktplatz,Kundgebung,,grundrechte.jetzt,https://grundrechte.jetzt
 2343,DE,2021-04-10,10:00:00,01968,Senftenberg,Grubenstr. / Brieske,Autokorso,,unbekannt,
 2317,DE,2021-04-10,10:00:00,88299,Leutkirch im Allgäu,Auenweg 35 / Betonmischwerk,Autokorso,,Privat,https://www.facebook.com/groups/879919766176803/?ref=share
+2366,DE,2021-04-10,10:00:00,21614,Buxtehude,Hase und Igel Brunnen,Kundgebung,,unbekannt,
 2345,DE,2021-04-10,10:00:00,12459,Berlin,Sterndamm / Königsheideweg Bus,Sonstiges,,Initiative Hauptstadtstimmen,
 2227,DE,2021-04-10,10:30:00,79271,St. Peter,Zähringer Eck / Rossweiher,Versammlung,,Schwarzwald Netzwerk,https://schwarzwald-netzwerk.de
 2299,DE,2021-04-10,11:00:00,29223,Celle,Schützenplatz,Spaziergang,,Celle steht auf,https://t.me/cellestehtauf
@@ -30,8 +31,10 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2320,DE,2021-04-10,14:00:00,64385,Reichelsheim,B 38 Ortseingang Aldi,Versammlung,,unbekannt,
 2313,DE,2021-04-10,14:00:00,76437,Rastatt,Tulla-Wiese,Demonstration,,unbekannt,https://achern-weiss-bescheid.de/2021/04/06/grossdemo-in-rastatt/
 2143,DE,2021-04-10,14:00:00,26122,Oldenburg,Schloßplatz,Aufzug,,Querdenken441,https://querdenken441.de
+2373,DE,2021-04-10,14:00:00,23562,Lübeck,Karl-Roß-Weg / Ratzeburg Allee,Autokorso,,Freiheitsfahrer Lübeck,https://t.me/luebeck_fuer_freiheit
 2316,DE,2021-04-10,14:00:00,56068,Koblenz,Jesuitenplatz,Mahnwache,,unbekannt,
 2244,DE,2021-04-10,14:00:00,26441,Jever,Alter Markt / Sagenbrunnen,Kundgebung,,Querdenken 446,https://querdenken-446.de
+2365,DE,2021-04-10,14:00:00,36037,Fulda,Universitätsplatz,Kundgebung,,unbekannt,
 2340,DE,2021-04-10,14:00:00,95444,Bayreuth,Volksfestplatz / Parkplatz,Kundgebung,,20 Plus 1 - Bürgerbewegung c/o Harald Steger,https://20plus1.org
 2217,DE,2021-04-10,14:30:00,67346,Speyer,Domplatz / Dom,Demonstration,,unbekannt,
 2279,DE,2021-04-10,14:30:00,93047,Regensburg,Haidplatz,Kundgebung,,Aufruf zum Denken - Gegen die Maskenpflicht,
@@ -46,6 +49,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2327,DE,2021-04-10,15:00:00,96052,Bamberg,Fuchsparkstadion,Kundgebung,,unbekannt,
 2338,AT,2021-04-10,15:30:00,1010,Wien,Freyung / Verfassungsgerichtshof,Versammlung,,unbekannt,
 2331,DE,2021-04-10,15:30:00,29525,Uelzen,Herzogenplatz,Kundgebung,,unbekannt,
+2369,DE,2021-04-10,15:30:00,87600,Kaufbeuren,Obstmarkt / Fußgängerzone,Meditation,,unbekannt,
 2242,DE,2021-04-10,15:30:00,21073,Hamburg-Harburg,Museumsplatz 1 / am Brunnen,Meditation,,unbekannt,
 2315,DE,2021-04-10,15:30:00,45127,Essen,Willy-Brandt-Platz,Kundgebung,,Für den Erhalt der Freiheit,https://t.me/joinchat/JVCyNxq-L-I442RKfw-IXQ
 1806,DE,2021-04-10,17:00:00,84036,Landshut,Grieserwiese,Autokorso,,Autokorso Landshut,https://www.freiheitsfahrer.de/
@@ -70,6 +74,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2298,DE,2021-04-12,15:30:00,82362,Weilheim,Marienplatz,Mahnwache,,unbekannt,
 2350,DE,2021-04-12,17:00:00,17166,Teterow,Marktplatz,Kundgebung,,Wir für das Grundgesetz,
 2022,DE,2021-04-12,17:00:00,80331,München,Marienplatz,Musik,,Magic Monday MediTANZion - Meditation  Musik und Tanz für unsere Freiheit,http://www.mbsr-muenchen.net
+2364,DE,2021-04-12,17:00:00,24103,Kiel,Exerzierplatz,Versammlung,,Kieler Aktionsnetzwerk für Frieden Freiheit und Demokratie,
+2374,DE,2021-04-12,17:00:00,24103,Kiel,Exerzierplatz,Aufzug,,Kieler Aktionsnetzwerk für Frieden Freiheit und Demokratie,https://t.me/frieden_freiheit_demokratie_kiel
 2296,DE,2021-04-12,17:00:00,06333,Hettstedt,Markt / Denkmal,Kundgebung,,unbekannt,
 2232,DE,2021-04-12,17:30:00,17033,Neubrandenburg,Marktplatz,Aufzug,,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198
 2297,DE,2021-04-12,18:00:00,02763,Zittau,Stadtring,Spaziergang,,Jeder für sich selbst,
@@ -86,7 +92,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2264,DE,2021-04-12,18:30:00,46242,Bottrop,Cyriakus Kirche,Spaziergang,,unbekannt,
 2233,DE,2021-04-12,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198
 2281,DE,2021-04-12,19:00:00,99974,Mühlhausen / Thüringen,Postplatz,Spaziergang,,unbekannt,
+2370,DE,2021-04-12,19:00:00,87600,Kaufbeuren,Altes Rathaus,Spaziergang,,unbekannt,
 2356,DE,2021-04-12,19:00:00,09661,Hainichen,Marktplatz,Kundgebung,https://dlive.tv/SAXO_ICA,Privat,
+2367,DE,2021-04-12,19:00:00,21614,Buxtehude,Rathaus,Spaziergang,,unbekannt,
 2188,DE,2021-04-12,19:00:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,unbekannt,
 2329,DE,2021-04-13,17:00:00,14471,Potsdam,Bhf Pirschheide,Kundgebung,,Driving4Future,
 2361,DE,2021-04-13,17:00:00,14467,Potsdam,Glienicker Brücke,Autokorso,,Driving4Future,
@@ -95,6 +103,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2325,DE,2021-04-14,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,http://www.Hanau-steht-auf.de
 2322,DE,2021-04-14,18:30:00,75031,Eppingen,Brettenerstr. / Kaiserstr.,Aufzug,,unbekannt,
 2311,DE,2021-04-14,19:00:00,45329,Essen,Zweigertbrücke / Parkplatz,Autokorso,,Querdenken-201,https://www.querdenken-201.de
+2368,DE,2021-04-15,17:00:00,06295,Lutherstadt Eisleben,Markt / Denkmal,Kundgebung,,unbekannt,
 2177,DE,2021-04-15,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2096,DE,2021-04-16,15:30:00,22941,Bargteheide,Am Markt / Schulzentrum,Mahnwache,,Freitag für Freiheit Freude und Frieden,
 2293,DE,2021-04-16,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,grundrechte.jetzt,https://grundrechte.jetzt
@@ -102,12 +111,14 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2348,DE,2021-04-17,14:00:00,78713,Schramberg,An der Steige / ggü. Kirche,Aufzug,,unbekannt,
 2117,DE,2021-04-17,14:00:00,78713,Schramberg,St. Maria Kirche,Demonstration,,Friede und Freiheit,https://t.me/friede_und_freiheit/4837
 2278,DE,2021-04-17,14:00:00,80538,München,Maxmonument / Max-II-Denkmal,Kundgebung,,@unsreichts,https://es-reicht-uns.de/
+2376,DE,2021-04-17,14:00:00,24105,Kiel,Reventlouwiese,Kundgebung,,unbekannt,https://es-reicht-uns.de/
 2344,DE,2021-04-17,14:00:00,95444,Bayreuth,Volksfestplatz / Parkplatz,Kundgebung,,20 Plus 1 - Bürgerbewegung c/o Harald Steger,https://20plus1.org
 2231,DE,2021-04-17,16:00:00,19370,Parchim,Exerzierplatz,Kundgebung,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured,unbekannt,
 2258,CH,2021-04-18,11:00:00,1719,Schwarzsee,Rund um den See,Meditation,,unbekannt,
 2349,AT,2021-04-18,14:00:00,6900,Bregenz,Kornmarktplatz,Kundgebung,,unbekannt,https://corona-demo.at/
 2319,DE,2021-04-18,15:00:00,48149,Münster,Schloßplatz / Parkplatz,Autokorso,,Autokorso Münster von/mit Aerzte fuer Aufklaerung,
 2362,DE,2021-04-19,18:00:00,33397,Rietberg,ZOB / Rietberg,Kundgebung,,unbekannt,
+2375,DE,2021-04-19,18:00:00,33397,Rietberg,ZOB Rietberg,Kundgebung,,unbekannt,
 1903,DE,2021-04-19,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
 2234,DE,2021-04-19,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198
 2189,DE,2021-04-19,19:00:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,unbekannt,
@@ -117,6 +128,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2342,DE,2021-04-24,14:00:00,95444,Bayreuth,Volksfestplatz / Parkplatz,Kundgebung,,20 Plus 1 - Bürgerbewegung c/o Harald Steger,https://20plus1.org
 1968,DE,2021-04-24,14:00:00,52064,Aachen,Eurogress Monheimsallee 48,Kundgebung,,Querdenken 241,
 1807,DE,2021-04-24,17:00:00,84036,Landshut,Grieserwiese / [Aufstellung 16h],Autokorso,,Autokorso Landshut,https://www.freiheitsfahrer.de/
+2371,AT,2021-04-25,14:00:00,6800,Feldkirch,Montfortplatz,Kundgebung,,unbekannt,https://corona-demo.at/
 1904,DE,2021-04-26,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
 2235,DE,2021-04-26,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198
 2190,DE,2021-04-26,19:00:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,unbekannt,
@@ -125,6 +137,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2295,DE,2021-04-30,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,grundrechte.jetzt,https://grundrechte.jetzt
 2026,DE,2021-05-01,14:00:00,80336,München,Theresienwiese,Aufzug,,Markus Haintz,https://t.me/Haintz
 2027,DE,2021-05-01,17:00:00,80336,München,Theresienwiese,Kundgebung,,Markus Haintz,https://t.me/Haintz
+2372,AT,2021-05-02,14:00:00,6850,Dornbirn,Marktplatz,Kundgebung,,unbekannt,https://corona-demo.at/
 2282,DE,2021-05-03,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 2251,DE,2021-05-08,14:00:00,83278,Traunstein,Salinenpark,Aufzug,https://dlive.tv/861Querdenken-TS?ref=papageienumschau,Querdenker-861,www.querdenken-ts.de
 2283,DE,2021-05-10,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
