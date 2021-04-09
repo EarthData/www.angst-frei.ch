@@ -9,6 +9,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2269,DE,2021-04-09,17:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 2309,DE,2021-04-09,17:30:00,06886,Luth. Wittenberg,Potsdamer Ring / Parkplatz / Hbf,Autokorso,,unbekannt,
 2257,DE,2021-04-09,17:45:00,96052,Bamberg,Fuchsparkstadion,Autokorso,,unbekannt,
+2354,DE,2021-04-09,18:00:00,86609,Donauwörth,Hindenburgstr. / buena Vista,Spaziergang,,unbekannt,
 2336,DE,2021-04-09,18:00:00,34454,Bad Arolsen,Kirchplatz,Aufzug,,unbekannt,
 2272,DE,2021-04-09,19:00:00,26506,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,,unbekannt,
 2292,DE,2021-04-09,20:00:00,76131,Karlsruhe,Marktplatz,Kundgebung,,grundrechte.jetzt,https://grundrechte.jetzt
@@ -38,6 +39,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2192,DE,2021-04-10,15:00:00,50678,Köln,Köln Rudolfplatz,Demonstration,,Koeln ist aktiv,https://koelnistaktiv.de
 2265,DE,2021-04-10,15:00:00,67657,Kaiserslautern,Mitfahrerparkplatz Holtzendorf,Autokorso,,Lautern steht auf,
 2270,DE,2021-04-10,15:00:00,85049,Ingolstadt,Theaterplatz,Kundgebung,,Bayern steht zusammen e.V.,https://www.bayern-steht-zusammen.de/TERMINE/
+2352,DE,2021-04-10,15:00:00,89407,Dillingen an der Donau,Taxispark,Kundgebung,,unbekannt,
 2332,DE,2021-04-10,15:00:00,44787,Bochum,Dr.-Ruer-Platz,Demonstration,,Querdenken 234 - Bochum,https://querdenken-234.de
 2327,DE,2021-04-10,15:00:00,96052,Bamberg,Fuchsparkstadion,Kundgebung,,unbekannt,
 2338,AT,2021-04-10,15:30:00,1010,Wien,Freyung / Verfassungsgerichtshof,Versammlung,,unbekannt,
@@ -71,6 +73,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2297,DE,2021-04-12,18:00:00,02763,Zittau,Stadtring,Spaziergang,,Jeder für sich selbst,
 2339,DE,2021-04-12,18:00:00,28857,Syke,Ev. lutherische Christuskirche,Spaziergang,,Privat,
 2308,DE,2021-04-12,18:00:00,92421,Schwandorf,Oberer Marktplatz,Kundgebung,,unbekannt,
+2351,DE,2021-04-12,18:00:00,14467,Potsdam,Platz zwischen Filmmuseum und,Kundgebung,,Fraktion Frieden und NW2021,
 2237,DE,2021-04-12,18:00:00,14467,Potsdam,Am Kanal,Spaziergang,,Privat,
 1902,DE,2021-04-12,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
 2222,DE,2021-04-12,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,Privat,https://t.me/LichterspaziergangGT
@@ -81,6 +84,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2281,DE,2021-04-12,19:00:00,99974,Mühlhausen / Thüringen,Postplatz,Spaziergang,,unbekannt,
 2188,DE,2021-04-12,19:00:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,unbekannt,
 2329,DE,2021-04-13,17:00:00,14471,Potsdam,Bhf Pirschheide,Kundgebung,,Driving4Future,
+2353,DE,2021-04-13,18:00:00,86441,Zusmarsahausen,Parkplatz Schule,Aufzug,,unbekannt,
 2325,DE,2021-04-14,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,http://www.Hanau-steht-auf.de
 2322,DE,2021-04-14,18:30:00,75031,Eppingen,Brettenerstr. / Kaiserstr.,Aufzug,,unbekannt,
 2311,DE,2021-04-14,19:00:00,45329,Essen,Zweigertbrücke / Parkplatz,Autokorso,,Querdenken-201,https://www.querdenken-201.de
