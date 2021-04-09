@@ -53,21 +53,21 @@ files.each do |filename|
     end
   end
 
-  meta_data['tags'].each do |tag|
-    next if tag == "wochenblick"
-    if network_nodes[tag]
-      #puts "#{tag} already exists"
-      network_nodes[tag]['value'] += 1
-      network_edges <<  { "source" => article_id, "target" => network_nodes[tag]['id'], "value" => 1 }
-      edges_count += 1
-    else
-      network_nodes[tag] = Hash.new
-      network_nodes[tag]['id'] = node_count
-      network_nodes[tag]['value'] = 1
-      network_edges <<  { "source" => article_id, "target" => node_count, "value" => 1 }
-      node_count += 1
-    end
-  end
+##  meta_data['tags'].each do |tag|
+#    next if tag == "wochenblick"
+#    if network_nodes[tag]
+#      #puts "#{tag} already exists"
+#      network_nodes[tag]['value'] += 1
+#      network_edges <<  { "source" => article_id, "target" => network_nodes[tag]['id'], "value" => 1 }
+#      edges_count += 1
+#    else
+#      network_nodes[tag] = Hash.new
+#      network_nodes[tag]['id'] = node_count
+#      network_nodes[tag]['value'] = 1
+#      network_edges <<  { "source" => article_id, "target" => node_count, "value" => 1 }
+#      node_count += 1
+#    end
+#  end
   
 end
 
