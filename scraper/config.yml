@@ -108,7 +108,7 @@ subtitle:
   tagblatt: last
   tkp: last-
   uncutnews: last
-  unser-mitteleuropa: ignore-og
+  unser-mitteleuropa: last
   welt: last-
   verfassungsfreunde: last
   harald-walach: last-
@@ -123,3 +123,4 @@ country:
   rt: DE
   rubikon: DE
   sciencefiles: DE
+  unser-mitteleuropa: EU

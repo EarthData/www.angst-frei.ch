@@ -135,15 +135,16 @@ class Scraper
     filename = date + "-" + domain + "_" + document
 
     # subtitle
-    if doc.at("meta[property='og:title']") and config['subtitle'][domain] and config['subtitle'][domain] != "ignore-og"
+    if doc.at("/html/head//title")
+      subtitle = doc.xpath("/html/head/title").first.text.strip.chomp
+      puts "Title: :#{subtitle}: (head title)" if debug
+    #elsif doc.at("meta[property='og:title']") and config['subtitle'][domain] and config['subtitle'][domain] != "ignore-og"
+    elsif doc.at("meta[property='og:title']")
       subtitle = doc.at("meta[property='og:title']")['content'].to_s.strip
       puts "Title: :#{subtitle}: (meta og:title)" if debug
     elsif doc.at("meta[property='og:title']")
       subtitle = doc.at("meta[property='og:title']")['content'].to_s.strip
       puts "Title: :#{subtitle}: (meta og:title)" if debug
-    elsif doc.at("/html/head//title")
-      subtitle = doc.xpath("/html/head/title").first.text.strip.chomp
-      puts "Title: :#{subtitle}: (head title)" if debug
     elsif doc.xpath("/html/body//h1")
       subtitle = doc.xpath("/html/body//h1").first.text.strip.chomp
       puts "Title: :#{subtitle}: (first h1)" if debug

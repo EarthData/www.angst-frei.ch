@@ -23,6 +23,9 @@ files.each do |filename|
   #break if counter > 800
 
   meta_data = YAML.load_file(filename)
+
+  next if meta_data['published'] = false
+
   file_name = filename.split('/').last
   file_name = File.basename(file_name,File.extname(file_name))
 
