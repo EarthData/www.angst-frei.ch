@@ -7,6 +7,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2221,DE,2021-04-09,17:00:00,70372,Stuttgart / Bad Cannstatt,Cannstatter Wasen Parkpl. P10,Fahrraddemo,,Privat,
 2226,DE,2021-04-09,17:15:00,78713,Schramberg,Parkplatz am Schloss / Talstadt,Kundgebung,,unbekannt,https://t.me/friede_und_freiheit/5027
 2269,DE,2021-04-09,17:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
+2355,DE,2021-04-09,17:30:00,09648,Mittweida,Marktplatz,Kundgebung,https://dlive.tv/SAXO_ICA,Privat,
 2309,DE,2021-04-09,17:30:00,06886,Luth. Wittenberg,Potsdamer Ring / Parkplatz / Hbf,Autokorso,,unbekannt,
 2257,DE,2021-04-09,17:45:00,96052,Bamberg,Fuchsparkstadion,Autokorso,,unbekannt,
 2354,DE,2021-04-09,18:00:00,86609,Donauwörth,Hindenburgstr. / buena Vista,Spaziergang,,unbekannt,
@@ -79,9 +80,11 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2222,DE,2021-04-12,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,Privat,https://t.me/LichterspaziergangGT
 2291,DE,2021-04-12,18:00:00,27432,Bremervörde,Rathausplatz,Spaziergang,,unbekannt,
 2335,DE,2021-04-12,18:00:00,06749,Bitterfeld,Markt,Spaziergang,,unbekannt,
+2357,DE,2021-04-12,18:30:00,97762,Hammelburg,Bahnhofstr. 57,Spaziergang,,unbekannt,
 2264,DE,2021-04-12,18:30:00,46242,Bottrop,Cyriakus Kirche,Spaziergang,,unbekannt,
 2233,DE,2021-04-12,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198
 2281,DE,2021-04-12,19:00:00,99974,Mühlhausen / Thüringen,Postplatz,Spaziergang,,unbekannt,
+2356,DE,2021-04-12,19:00:00,09661,Hainichen,Marktplatz,Kundgebung,https://dlive.tv/SAXO_ICA,Privat,
 2188,DE,2021-04-12,19:00:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,unbekannt,
 2329,DE,2021-04-13,17:00:00,14471,Potsdam,Bhf Pirschheide,Kundgebung,,Driving4Future,
 2353,DE,2021-04-13,18:00:00,86441,Zusmarsahausen,Parkplatz Schule,Aufzug,,unbekannt,
