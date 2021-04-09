@@ -24,6 +24,7 @@ article:
   rt: first
   tagesanzeiger: last
   tagblatt: lastdot
+  unzensuriert: last_
   welt: previous
 sitename:
   2020news: 2020 News
@@ -97,12 +98,13 @@ subtitle:
   corona-blog: last2-
   corona-transition: last
   insideparadeplatz: last-
-  infekt: last
+  infekt: last-
   infosperber: last-
   kenfm: last
   ktipp: last2-
   medinside: ignore-og
   nordkurier: last
+  nzz: last
   pharmazeutische-zeitung: last
   reitschuster: last-
   tagblatt: last
@@ -112,7 +114,7 @@ subtitle:
   welt: last-
   verfassungsfreunde: last
   harald-walach: last-
-  weltwoche-daily: last
+  weltwoche-daily: last-
 cleanurl:
   nachdenkseiten: false
   deutschlandfunk: false

@@ -135,17 +135,18 @@ class Scraper
     filename = date + "-" + domain + "_" + document
 
     # subtitle
-    if doc.at("/html/head//title")
+    #elsif doc.at("meta[property='og:title']") and config['subtitle'][domain] and config['subtitle'][domain] != "ignore-og"
+    subtitle = ""
+    if doc.at("meta[property='og:title']")
+      subtitle = doc.at("meta[property='og:title']")['content'].to_s.strip
+      puts "Title: :#{subtitle}: (meta og:title)" if debug
+    elsif doc.at("meta[property='og:title']") and subtitle == ""
+      subtitle = doc.at("meta[property='og:title']")['content'].to_s.strip
+      puts "Title: :#{subtitle}: (meta og:title)" if debug
+    elsif doc.at("/html/head//title") and subtitle == ""
       subtitle = doc.xpath("/html/head/title").first.text.strip.chomp
       puts "Title: :#{subtitle}: (head title)" if debug
-    #elsif doc.at("meta[property='og:title']") and config['subtitle'][domain] and config['subtitle'][domain] != "ignore-og"
-    elsif doc.at("meta[property='og:title']")
-      subtitle = doc.at("meta[property='og:title']")['content'].to_s.strip
-      puts "Title: :#{subtitle}: (meta og:title)" if debug
-    elsif doc.at("meta[property='og:title']")
-      subtitle = doc.at("meta[property='og:title']")['content'].to_s.strip
-      puts "Title: :#{subtitle}: (meta og:title)" if debug
-    elsif doc.xpath("/html/body//h1")
+    elsif doc.xpath("/html/body//h1") and subtitle == ""
       subtitle = doc.xpath("/html/body//h1").first.text.strip.chomp
       puts "Title: :#{subtitle}: (first h1)" if debug
     else
@@ -155,20 +156,26 @@ class Scraper
 
     if config['subtitle'][domain] && config['subtitle'][domain] == 'last'
       subtitle.gsub!(/[\s]+[|][\s]+.*$/, "")
-      puts "Change title to: #{subtitle}" if debug
+      puts "Change title to: #{subtitle} cause of last" if debug
     end
 
     if config['subtitle'][domain] && config['subtitle'][domain] == 'last-'
       subtitle = subtitle[0..subtitle.rindex("-")-1] if subtitle.include? "-"
       subtitle.strip!
-      puts "Change title to: #{subtitle}" if debug
+      puts "Change title to: #{subtitle} cause of last-" if debug
+    end
+
+    if config['subtitle'][domain] && config['subtitle'][domain] == 'last–'
+      subtitle = subtitle[0..subtitle.rindex("–")-1] if subtitle.include? "–"
+      subtitle.strip!
+      puts "Change title to: #{subtitle} cause of last-" if debug
     end
 
     if config['subtitle'][domain] && config['subtitle'][domain] == 'last2-'
       subtitle = subtitle[0..subtitle.rindex("-")-1] if subtitle.include? "-"
       subtitle = subtitle[0..subtitle.rindex("-")-1] if subtitle.include? "-"
       subtitle.strip!
-      puts "Change title to: #{subtitle}" if debug
+      puts "Change title to: #{subtitle} cause of last2-" if debug
     end
 
     #title = '' if not (title.force_encoding("UTF-8").valid_encoding?)
