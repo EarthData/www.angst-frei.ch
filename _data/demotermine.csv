@@ -56,6 +56,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2120,AT,2021-04-11,14:00:00,6900,Bludenz,Riedmillerplatz,Kundgebung,,unbekannt,https://corona-demo.at/
 2346,DE,2021-04-11,14:30:00,50667,Köln,Heumarkt,Kundgebung,,selberDenken,https://www.quelldenken.com
 2386,DE,2021-04-11,15:00:00,96215,Lichtenfels,Schützenplatz,Kundgebung,,Privat: Bernd Grau,
+2390,DE,2021-04-11,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
 2300,DE,2021-04-11,15:30:00,82140,Olching / FFB,Toni-März-Str. / Volksfestplatz,Kundgebung,,Amperfeen,https://www.amperfee.de
 2388,DE,2021-04-11,16:00:00,06682,Teuchern,Mühlstr. / RTS Platz,Spaziergang,,unbekannt,
 2236,DE,2021-04-11,16:00:00,06682,Teuchern,Mühlstr./ RTS Platz,Spaziergang,,unbekannt,
@@ -113,6 +114,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2258,CH,2021-04-18,11:00:00,1719,Schwarzsee,Rund um den See,Meditation,,unbekannt,
 2349,AT,2021-04-18,14:00:00,6900,Bregenz,Kornmarktplatz,Kundgebung,,unbekannt,https://corona-demo.at/
 2319,DE,2021-04-18,15:00:00,48149,Münster,Schloßplatz / Parkplatz,Autokorso,,Autokorso Münster von/mit Aerzte fuer Aufklaerung,
+2391,DE,2021-04-18,15:00:00,27472,Cuxhaven,Kaemmererplatz,Kundgebung,,unbekannt,
+2392,DE,2021-04-18,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
 2362,DE,2021-04-19,18:00:00,33397,Rietberg,ZOB / Rietberg,Kundgebung,,unbekannt,
 2375,DE,2021-04-19,18:00:00,33397,Rietberg,ZOB Rietberg,Kundgebung,,unbekannt,
 1903,DE,2021-04-19,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
@@ -125,6 +128,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2342,DE,2021-04-24,14:00:00,95444,Bayreuth,Volksfestplatz / Parkplatz,Kundgebung,,20 Plus 1 - Bürgerbewegung c/o Harald Steger,https://20plus1.org
 1968,DE,2021-04-24,14:00:00,52064,Aachen,Eurogress Monheimsallee 48,Kundgebung,,Querdenken 241,
 2371,AT,2021-04-25,14:00:00,6800,Feldkirch,Montfortplatz,Kundgebung,,unbekannt,https://corona-demo.at/
+2393,DE,2021-04-25,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
 1807,DE,2021-04-25,17:00:00,84036,Landshut,Grieserwiese,Autokorso,,Autokorso Landshut,https://www.freiheitsfahrer.de/
 1904,DE,2021-04-26,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
 2235,DE,2021-04-26,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198
@@ -136,8 +140,10 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2026,DE,2021-05-01,14:00:00,80336,München,Theresienwiese,Aufzug,,Markus Haintz,https://t.me/Haintz
 2027,DE,2021-05-01,17:00:00,80336,München,Theresienwiese,Kundgebung,,Markus Haintz,https://t.me/Haintz
 2372,AT,2021-05-02,14:00:00,6850,Dornbirn,Marktplatz,Kundgebung,,unbekannt,https://corona-demo.at/
+2394,DE,2021-05-02,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
 2282,DE,2021-05-03,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 2251,DE,2021-05-08,14:00:00,83278,Traunstein,Salinenpark,Aufzug,https://dlive.tv/861Querdenken-TS?ref=papageienumschau,Querdenker-861,www.querdenken-ts.de
+2395,DE,2021-05-09,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
 2283,DE,2021-05-10,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 2284,DE,2021-05-17,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 2285,DE,2021-05-24,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
