@@ -159,14 +159,20 @@ class Scraper
       puts "Change title to: #{subtitle} cause of last" if debug
     end
 
-    if config['subtitle'][domain] && config['subtitle'][domain] == 'last-'
-      subtitle = subtitle[0..subtitle.rindex("-")-1] if subtitle.include? "-"
+    if config['subtitle'][domain] && config['subtitle'][domain] == 'last›'
+      subtitle = subtitle[0..subtitle.rindex("›")-1] if subtitle.include? "›"
       subtitle.strip!
-      puts "Change title to: #{subtitle} cause of last-" if debug
+      puts "Change title to: #{subtitle} cause of last>" if debug
     end
 
     if config['subtitle'][domain] && config['subtitle'][domain] == 'last–'
       subtitle = subtitle[0..subtitle.rindex("–")-1] if subtitle.include? "–"
+      subtitle.strip!
+      puts "Change title to: #{subtitle} cause of last-" if debug
+    end
+
+    if config['subtitle'][domain] && config['subtitle'][domain] == 'last-'
+      subtitle = subtitle[0..subtitle.rindex("-")-1] if subtitle.include? "-"
       subtitle.strip!
       puts "Change title to: #{subtitle} cause of last-" if debug
     end

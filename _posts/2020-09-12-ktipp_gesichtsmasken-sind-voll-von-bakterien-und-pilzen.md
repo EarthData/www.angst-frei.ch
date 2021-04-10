@@ -4,6 +4,6 @@ redirect:      https://www.ktipp.ch/artikel/artikeldetail/gesichtsmasken-sind-vo
 title:         Ktipp
 subtitle:      'Gesichtsmasken sind voll von Bakterien und Pilzen'
 country:       CH
-categories:    [Wissenschaft]
+categories:    [Wissenschaft, Gesundheit]
 tags:          [ktipp, maske]
 ---
