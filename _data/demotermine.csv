@@ -79,6 +79,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2335,DE,2021-04-12,18:00:00,06749,Bitterfeld,Markt,Spaziergang,,unbekannt,
 2357,DE,2021-04-12,18:30:00,97762,Hammelburg,Bahnhofstr. 57,Spaziergang,,unbekannt,
 2264,DE,2021-04-12,18:30:00,46242,Bottrop,Cyriakus Kirche,Spaziergang,,unbekannt,
+2381,DE,2021-04-12,19:00:00,06526,Sangerhausen,Markt,Spaziergang,,unbekannt,
 2233,DE,2021-04-12,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198
 2281,DE,2021-04-12,19:00:00,99974,Mühlhausen / Thüringen,Postplatz,Spaziergang,,unbekannt,
 2370,DE,2021-04-12,19:00:00,87600,Kaufbeuren,Altes Rathaus,Spaziergang,,unbekannt,
@@ -96,6 +97,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2177,DE,2021-04-15,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2096,DE,2021-04-16,15:30:00,22941,Bargteheide,Am Markt / Schulzentrum,Mahnwache,,Freitag für Freiheit Freude und Frieden,
 2293,DE,2021-04-16,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,grundrechte.jetzt,https://grundrechte.jetzt
+2382,DE,2021-04-16,19:00:00,26506,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,,unbekannt,
 2268,DE,2021-04-17,13:00:00,69126,Heidelberg,Schwanenteichanlage,Aufzug,,unbekannt,
 2348,DE,2021-04-17,14:00:00,78713,Schramberg,An der Steige / ggü. Kirche,Aufzug,,unbekannt,
 2117,DE,2021-04-17,14:00:00,78713,Schramberg,St. Maria Kirche,Demonstration,,Friede und Freiheit,https://t.me/friede_und_freiheit/4837
@@ -114,6 +116,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2173,DE,2021-04-21,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2178,DE,2021-04-22,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2294,DE,2021-04-23,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,grundrechte.jetzt,https://grundrechte.jetzt
+2383,DE,2021-04-23,19:00:00,26506,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,,unbekannt,
 2342,DE,2021-04-24,14:00:00,95444,Bayreuth,Volksfestplatz / Parkplatz,Kundgebung,,20 Plus 1 - Bürgerbewegung c/o Harald Steger,https://20plus1.org
 1968,DE,2021-04-24,14:00:00,52064,Aachen,Eurogress Monheimsallee 48,Kundgebung,,Querdenken 241,
 2371,AT,2021-04-25,14:00:00,6800,Feldkirch,Montfortplatz,Kundgebung,,unbekannt,https://corona-demo.at/
@@ -124,6 +127,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2174,DE,2021-04-28,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2179,DE,2021-04-29,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2295,DE,2021-04-30,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,grundrechte.jetzt,https://grundrechte.jetzt
+2384,DE,2021-04-30,19:00:00,26506,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,,unbekannt,
 2026,DE,2021-05-01,14:00:00,80336,München,Theresienwiese,Aufzug,,Markus Haintz,https://t.me/Haintz
 2027,DE,2021-05-01,17:00:00,80336,München,Theresienwiese,Kundgebung,,Markus Haintz,https://t.me/Haintz
 2372,AT,2021-05-02,14:00:00,6850,Dornbirn,Marktplatz,Kundgebung,,unbekannt,https://corona-demo.at/
