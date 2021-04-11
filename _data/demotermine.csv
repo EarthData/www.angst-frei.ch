@@ -41,6 +41,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2237,DE,2021-04-12,18:00:00,14467,Potsdam,Am Kanal,Spaziergang,,Privat,
 2385,DE,2021-04-12,18:00:00,33098,Paderborn,Herz-Jesu Kirche / Westerntor/B,Schweigemarsch,,unbekannt,
 2359,DE,2021-04-12,18:00:00,49074,Osnabrück,Rathaus,Demonstration,,unbekannt,
+2409,DE,2021-04-12,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 1902,DE,2021-04-12,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
 2400,DE,2021-04-12,18:00:00,78462,Konstanz,Marktstätte,Mahnwache,,unbekannt,
 2222,DE,2021-04-12,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,Privat,https://t.me/LichterspaziergangGT
@@ -62,14 +63,17 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2353,DE,2021-04-13,18:00:00,86441,Zusmarsahausen,Parkplatz Schule,Aufzug,,unbekannt,
 2360,DE,2021-04-13,18:00:00,33758,Schloß Holte-Stukenbrock,Kirchplatz / Holte,Demonstration,,unbekannt,
 2396,DE,2021-04-14,16:00:00,70184,Stuttgart,Dobelstr. / Hohenheimer Str.,Kundgebung,,Privat,
+2410,DE,2021-04-14,17:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 2325,DE,2021-04-14,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,http://www.Hanau-steht-auf.de
 2322,DE,2021-04-14,18:30:00,75031,Eppingen,Brettenerstr. / Kaiserstr.,Aufzug,,unbekannt,
 2311,DE,2021-04-14,19:00:00,45329,Essen,Zweigertbrücke / Parkplatz,Autokorso,,Querdenken-201,https://www.querdenken-201.de
 2389,DE,2021-04-15,11:30:00,91054,Erlangen,Schlossplatz,Mahnwache,,unbekannt,
 2368,DE,2021-04-15,17:00:00,06295,Lutherstadt Eisleben,Markt / Denkmal,Kundgebung,,unbekannt,
 2177,DE,2021-04-15,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
+2411,DE,2021-04-15,19:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 2096,DE,2021-04-16,15:30:00,22941,Bargteheide,Am Markt / Schulzentrum,Mahnwache,,Freitag für Freiheit Freude und Frieden,
 2397,DE,2021-04-16,17:00:00,70372,Stuttgart / Bad Cannstatt,Cannstatter Wasen / Parkpl. P10,Fahrraddemo,,Privat,
+2412,DE,2021-04-16,17:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 2293,DE,2021-04-16,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,grundrechte.jetzt,https://grundrechte.jetzt
 2382,DE,2021-04-16,19:00:00,26506,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,,unbekannt,
 2268,DE,2021-04-17,13:00:00,69126,Heidelberg,Schwanenteichanlage,Aufzug,,unbekannt,
@@ -87,6 +91,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2362,DE,2021-04-19,18:00:00,33397,Rietberg,ZOB / Rietberg,Kundgebung,,unbekannt,
 2375,DE,2021-04-19,18:00:00,33397,Rietberg,ZOB Rietberg,Kundgebung,,unbekannt,
 1903,DE,2021-04-19,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
+2407,DE,2021-04-19,18:30:00,02763,Zittau,Markt,Kundgebung,,Freunde von PEGIDA,
 2234,DE,2021-04-19,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198
 2189,DE,2021-04-19,19:00:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,unbekannt,
 2173,DE,2021-04-21,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
