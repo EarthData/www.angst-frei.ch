@@ -24,7 +24,7 @@ article:
   rt: first
   tagesanzeiger: last
   tagblatt: lastdot
-  unzensuriert: last_
+  unzensuriert: first
   welt: previous
 sitename:
   2020news: 2020 News
@@ -112,6 +112,7 @@ subtitle:
   tkp: last-
   uncutnews: last
   unser-mitteleuropa: last
+  unzensuriert: last-
   welt: last-
   verfassungsfreunde: last
   harald-walach: last-
