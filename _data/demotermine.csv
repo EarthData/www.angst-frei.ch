@@ -45,6 +45,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2409,DE,2021-04-12,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 1902,DE,2021-04-12,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
 2400,DE,2021-04-12,18:00:00,78462,Konstanz,Marktstätte,Mahnwache,,unbekannt,
+2420,DE,2021-04-12,18:00:00,55481,Kirchberg / Hunsrück,Katholische Kirche,Spaziergang,,unbekannt,
+2418,DE,2021-04-12,18:00:00,87435,Kempten / Allgäu,Hildegardplatz / am Brunnen,Kundgebung,,Privat,
 2222,DE,2021-04-12,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,Privat,https://t.me/LichterspaziergangGT
 2291,DE,2021-04-12,18:00:00,27432,Bremervörde,Rathausplatz,Spaziergang,,unbekannt,
 2335,DE,2021-04-12,18:00:00,06749,Bitterfeld,Markt,Spaziergang,,unbekannt,
@@ -77,12 +79,14 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2412,DE,2021-04-16,17:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 2293,DE,2021-04-16,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,grundrechte.jetzt,https://grundrechte.jetzt
 2382,DE,2021-04-16,19:00:00,26506,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,,unbekannt,
+2417,DE,2021-04-17,11:00:00,29223,Celle,Schützenplatz,Spaziergang,,Celle steht auf,
 2268,DE,2021-04-17,13:00:00,69126,Heidelberg,Schwanenteichanlage,Aufzug,,unbekannt,
 2415,DE,2021-04-17,14:00:00,65185,Wiesbaden,Reisinger Anlagen,Kundgebung,,unbekannt,
 2348,DE,2021-04-17,14:00:00,78713,Schramberg,An der Steige / ggü. Kirche,Aufzug,,unbekannt,
 2117,DE,2021-04-17,14:00:00,78713,Schramberg,St. Maria Kirche,Demonstration,,Friede und Freiheit,https://t.me/friede_und_freiheit/4837
 2278,DE,2021-04-17,14:00:00,80538,München,Maxmonument / Max-II-Denkmal,Kundgebung,,@unsreichts,https://es-reicht-uns.de/
 2376,DE,2021-04-17,14:00:00,24105,Kiel,Reventlouwiese,Kundgebung,,unbekannt,https://es-reicht-uns.de/
+2419,DE,2021-04-17,14:00:00,40213,Düsseldorf,Hofgarten,Demonstration,,Wir gestalten unsere Zukunft,https://www.es-reicht-uns.de
 2413,DE,2021-04-17,14:00:00,10117,Berlin,Friedrichstr. 108,Kundgebung,,unbekannt,
 2344,DE,2021-04-17,14:00:00,95444,Bayreuth,Volksfestplatz / Parkplatz,Kundgebung,,20 Plus 1 - Bürgerbewegung c/o Harald Steger,https://20plus1.org
 2231,DE,2021-04-17,16:00:00,19370,Parchim,Exerzierplatz,Kundgebung,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured,unbekannt,
@@ -91,6 +95,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2319,DE,2021-04-18,15:00:00,48149,Münster,Schloßplatz / Parkplatz,Autokorso,,Autokorso Münster von/mit Aerzte fuer Aufklaerung,
 2391,DE,2021-04-18,15:00:00,27472,Cuxhaven,Kaemmererplatz,Kundgebung,,unbekannt,
 2392,DE,2021-04-18,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
+2421,DE,2021-04-18,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
 2362,DE,2021-04-19,18:00:00,33397,Rietberg,ZOB / Rietberg,Kundgebung,,unbekannt,
 2375,DE,2021-04-19,18:00:00,33397,Rietberg,ZOB Rietberg,Kundgebung,,unbekannt,
 1903,DE,2021-04-19,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
