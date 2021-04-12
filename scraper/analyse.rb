@@ -11,8 +11,8 @@ scrape = Scraper.new
 #tools.write_file(site_data)
 counter = 1
 
+files = Dir.glob("../_posts/*-multipolar-magazin_*.md")
 #files = Dir.glob("../_posts/*.md")
-files = Dir.glob("../_posts/*-infosperber_*.md")
 
 parameters = ['date', 'redirect', 'title', 'subtitle', 'timeline', 'country', 'persons', 'categories', 'tags', 'filename']
 
