@@ -4,5 +4,5 @@ redirect:      https://www.kinder-maskenpetition.ch/post/maskenpflicht-verlänge
 title:         Kinder-Maskenpetition
 subtitle:      "Maskenpflicht-Verlängerung: Eltern reagieren mit Unverständnis auf den Entscheid"
 categories:    [Politik, Widerstand]
-tags:          [kind, maske, petition]
+tags:          [kinder-maskenpetition, kind, maske, petition]
 ---

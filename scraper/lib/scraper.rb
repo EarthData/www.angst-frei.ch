@@ -16,7 +16,13 @@ class Scraper
 
     config = YAML.load_file("config.yml")
 
-    domain = URI(url).hostname.split('.').last(2).first
+    uri = URI(url).hostname
+    puts "URI: #{uri}" if debug
+    if config['uri'][uri] and  config['uri'][uri] == "first"
+      domain = URI(url).hostname.split('.').first
+    else
+      domain = URI(url).hostname.split('.').last(2).first
+    end
     puts "Domain: #{domain}" if debug
     if config['country'][domain] 
       tld = config['country'][domain]

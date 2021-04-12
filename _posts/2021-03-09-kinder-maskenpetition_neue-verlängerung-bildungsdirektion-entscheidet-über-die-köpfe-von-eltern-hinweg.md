@@ -4,5 +4,5 @@ redirect:      https://www.kinder-maskenpetition.ch/post/neue-verl%C3%A4ngerung-
 title:         Kinder-Maskenpetition
 subtitle:      "Erneute Verlängerung: Bildungsdirektion entscheidet über die Köpfe von Eltern hinweg"
 categories:    [Politik, Widerstand]
-tags:          [kind, maske, petition]
+tags:          [kinder-maskenpetition, kind, maske, petition]
 ---

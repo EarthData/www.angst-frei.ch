@@ -4,5 +4,5 @@ redirect:      https://www.kinder-maskenpetition.ch/post/kinder-maskenpetition-m
 title:         Kinder-Maskenpetition
 subtitle:      "Kinder-Maskenpetition mit 6000 Unterzeichnenden eingereicht"
 categories:    [Politik, Widerstand]
-tags:          [kind, maske, petition]
+tags:          [kinder-maskenpetition, kind, maske, petition]
 ---

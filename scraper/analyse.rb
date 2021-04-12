@@ -11,7 +11,8 @@ scrape = Scraper.new
 #tools.write_file(site_data)
 counter = 1
 
-files = Dir.glob("../_posts/*.md")
+#files = Dir.glob("../_posts/*.md")
+files = Dir.glob("../_posts/*-tagesanzeiger_*.md")
 
 parameters = ['date', 'redirect', 'title', 'subtitle', 'timeline', 'country', 'persons', 'categories', 'tags', 'filename']
 
@@ -44,6 +45,10 @@ files.each do |filename|
   
   if !meta_data['redirect']
     puts "no redirect found"
+    next
+  end
+
+  if meta_data['title'] == "reitschuster" 
     next
   end
 

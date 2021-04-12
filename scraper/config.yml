@@ -22,6 +22,7 @@ article:
   pharmazeutische-zeitung: last
   rnd: last
   rt: first
+  snanews: last
   tagesanzeiger: last
   tagblatt: lastdot
   unzensuriert: first
@@ -117,6 +118,8 @@ subtitle:
   verfassungsfreunde: last
   harald-walach: last-
   weltwoche-daily: last-
+uri:
+  fassadenkratzer.wordpress.com: first
 cleanurl:
   nachdenkseiten: false
   deutschlandfunk: false
@@ -124,6 +127,7 @@ country:
   achgut: DE
   corona-blog: DE
   corona-transition: CH
+  fassadenkratzer: DE
   rt: DE
   rubikon: DE
   sciencefiles: DE
