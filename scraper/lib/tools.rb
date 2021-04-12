@@ -31,6 +31,10 @@ title:         #{site_data['title']}
 subtitle:      '#{site_data['subtitle']}'
 country:       #{site_data['country']}
 }
+    if site_data['timeline'] 
+      content += %{timeline:      #{site_data['timeline']}
+}
+    end
     if persons 
       content += %{persons:       [#{persons}]
 }

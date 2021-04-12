@@ -5,7 +5,9 @@ article:
   ardmediathek: pprevious
   berliner-zeitung: lastdot
   bernerzeitung: last
+  comm4u: page
   deutschlandfunk: page
+  derstandard: previous
   dieostschweiz: last
   epochtimes: last
   focus: last_
@@ -34,6 +36,7 @@ sitename:
   aerztezeitung: AerzteZeitung
   ardmediathek: ARD
   deutsche-apotheker-zeitung: Deutsche Apotheker Zeitung
+  derstandard: Der Standard
   dieostschweiz: Die Ostschweiz
   epochtimes: Epoch Times
   fm1today: FM1 Today
@@ -73,6 +76,7 @@ tag:
   2020news: 2020news
   aargau-zuerich: aargau-zuerich
   achgut: achgut
+  admin: bundesrat
   aerzteblatt: ärzteblatt
   bernerzeitung: bernerzeitung
   corona-blog: corona-blog
@@ -86,6 +90,7 @@ tag:
   meinbezirk: meinbezirk
   rt: rt
   substack: substack
+  derstandard: standard
   svp: svp
   swprs: swprs
   tagblatt: tagblatt

@@ -11,8 +11,8 @@ scrape = Scraper.new
 #tools.write_file(site_data)
 counter = 1
 
-files = Dir.glob("../_posts/*-tagblatt_*.md")
-#files = Dir.glob("../_posts/*.md")
+files = Dir.glob("../_posts/*-who_*.md")
+files = Dir.glob("../_posts/*.md")
 
 parameters = ['date', 'redirect', 'title', 'subtitle', 'timeline', 'country', 'persons', 'categories', 'tags', 'filename']
 
@@ -48,7 +48,7 @@ files.each do |filename|
     next
   end
 
-  if meta_data['title'] == "reitschuster" 
+  if meta_data['title'].match?(/reitschuster|Wochenblick|Tagesanzeiger|linth24|Die Ostschweiz/)
     next
   end
 
@@ -63,7 +63,7 @@ files.each do |filename|
   parameters.each do |parameter|
     if parameter == 'tags'
       if !meta_data[parameter].include?(site_data[parameter][0])
-        puts "sitename not found in tags"
+        puts "sitename #{site_data[parameter][0]} not found in tags"
         exit
       end
       new_file[parameter] = meta_data[parameter]
@@ -80,6 +80,7 @@ files.each do |filename|
       #puts "no timeline"
     elsif parameter == 'timeline' and meta_data[parameter]
       new_file[parameter] = meta_data[parameter]
+      puts "add timeline"
     elsif parameter == 'persons' and !meta_data[parameter]
       #puts "no persons"
     elsif parameter == 'persons' and meta_data[parameter]
