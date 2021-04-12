@@ -49,6 +49,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2311,DE,2021-04-14,19:00:00,45329,Essen,Zweigertbrücke / Parkplatz,Autokorso,,Querdenken-201,https://www.querdenken-201.de
 2389,DE,2021-04-15,11:30:00,91054,Erlangen,Schlossplatz,Mahnwache,,unbekannt,
 2368,DE,2021-04-15,17:00:00,06295,Lutherstadt Eisleben,Markt / Denkmal,Kundgebung,,unbekannt,
+2427,DE,2021-04-15,17:30:00,73230,Kirchheim unter Teck,Ziegelwasen,Kundgebung,,Querdenken 702,https://querdenken-702.de
 2177,DE,2021-04-15,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2411,DE,2021-04-15,19:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 2096,DE,2021-04-16,15:30:00,22941,Bargteheide,Am Markt / Schulzentrum,Mahnwache,,Freitag für Freiheit Freude und Frieden,
@@ -63,12 +64,14 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2117,DE,2021-04-17,14:00:00,78713,Schramberg,St. Maria Kirche,Demonstration,,Friede und Freiheit,https://t.me/friede_und_freiheit/4837
 2278,DE,2021-04-17,14:00:00,80538,München,Maxmonument / Max-II-Denkmal,Kundgebung,,@unsreichts,https://es-reicht-uns.de/
 2376,DE,2021-04-17,14:00:00,24105,Kiel,Reventlouwiese,Kundgebung,,unbekannt,https://es-reicht-uns.de/
+2426,DE,2021-04-17,14:00:00,20095,Hamburg,Rathausmarkt,Kundgebung,,Es reicht uns,
 2419,DE,2021-04-17,14:00:00,40213,Düsseldorf,Hofgarten,Demonstration,,Wir gestalten unsere Zukunft,https://www.es-reicht-uns.de
 2413,DE,2021-04-17,14:00:00,10117,Berlin,Friedrichstr. 108,Kundgebung,,unbekannt,
 2344,DE,2021-04-17,14:00:00,95444,Bayreuth,Volksfestplatz / Parkplatz,Kundgebung,,20 Plus 1 - Bürgerbewegung c/o Harald Steger,https://20plus1.org
 2231,DE,2021-04-17,15:30:00,19370,Parchim,Festplatz Bergstra�e / Martinimarkt,Kundgebung,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured,unbekannt,
 2422,DE,2021-04-18,10:45:00,75015,Bretten,Marktplatz,Meditation,,unbekannt,
 2258,CH,2021-04-18,11:00:00,1719,Schwarzsee,Rund um den See,Meditation,,unbekannt,
+2428,DE,2021-04-18,14:00:00,84347,Pfarrkirchen,P+R Parkplatz,Kundgebung,,Florian Feuerers Initiative Schutz für Kinder,
 2349,AT,2021-04-18,14:00:00,6900,Bregenz,Kornmarktplatz,Kundgebung,,unbekannt,https://corona-demo.at/
 2319,DE,2021-04-18,15:00:00,48149,Münster,Schloßplatz / Parkplatz,Autokorso,,Autokorso Münster von/mit Aerzte fuer Aufklaerung,
 2391,DE,2021-04-18,15:00:00,27472,Cuxhaven,Kaemmererplatz,Kundgebung,,unbekannt,
@@ -80,6 +83,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2424,DE,2021-04-19,18:00:00,03591,Bautzen,Kornmarkt,Mahnwache,,unbekannt,
 2407,DE,2021-04-19,18:30:00,02763,Zittau,Markt,Kundgebung,,Freunde von PEGIDA,
 2234,DE,2021-04-19,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198
+2425,DE,2021-04-19,19:00:00,29221,Celle,Stechbahn,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,
 2189,DE,2021-04-19,19:00:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,unbekannt,
 2173,DE,2021-04-21,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2178,DE,2021-04-22,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
