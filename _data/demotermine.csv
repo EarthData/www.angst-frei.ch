@@ -23,11 +23,13 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2412,DE,2021-04-16,17:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 2293,DE,2021-04-16,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,grundrechte.jetzt,https://grundrechte.jetzt
 2382,DE,2021-04-16,19:00:00,26506,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,,unbekannt,
+2449,DE,2021-04-17,10:30:00,79271,St. Peter,Zähringer Eck / Rossweiher,Versammlung,,Schwarzwald Netzwerk,https://schwarzwald-netzwerk.de/
 2417,DE,2021-04-17,11:00:00,29223,Celle,Schützenplatz,Spaziergang,,Celle steht auf,
 2268,DE,2021-04-17,13:00:00,69126,Heidelberg,Schwanenteichanlage,Aufzug,,unbekannt,
 2415,DE,2021-04-17,14:00:00,65185,Wiesbaden,Reisinger Anlagen,Kundgebung,,unbekannt,
 2348,DE,2021-04-17,14:00:00,78713,Schramberg,An der Steige / ggü. Kirche,Aufzug,,unbekannt,
 2117,DE,2021-04-17,14:00:00,78713,Schramberg,St. Maria Kirche,Demonstration,,Friede und Freiheit,https://t.me/friede_und_freiheit/4837
+2445,DE,2021-04-17,14:00:00,64385,Reichelsheim,B 38 Ortseingang Aldi,Versammlung,,unbekannt,
 2278,DE,2021-04-17,14:00:00,80538,München,Maxmonument / Max-II-Denkmal,Kundgebung,,@unsreichts,https://es-reicht-uns.de/
 2376,DE,2021-04-17,14:00:00,24105,Kiel,Reventlouwiese,Kundgebung,,unbekannt,https://es-reicht-uns.de/
 2426,DE,2021-04-17,14:00:00,20095,Hamburg,Rathausmarkt,Kundgebung,,Es reicht uns,
@@ -36,6 +38,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2344,DE,2021-04-17,14:00:00,95444,Bayreuth,Volksfestplatz / Parkplatz,Kundgebung,,20 Plus 1 - Bürgerbewegung c/o Harald Steger,https://20plus1.org
 2231,DE,2021-04-17,15:30:00,19370,Parchim,Festplatz Bergstr. / Martinimarkt,Kundgebung,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured,unbekannt,
 2431,DE,2021-04-17,15:30:00,21073,Hamburg-Harburg,Museumsplatz 1 / am Brunnen,Meditation,,unbekannt,
+2447,DE,2021-04-18,10:00:00,02763,Zittau,B 96,Menschenkette,,unbekannr,
 2422,DE,2021-04-18,10:45:00,75015,Bretten,Marktplatz,Meditation,,unbekannt,
 2258,CH,2021-04-18,11:00:00,1719,Schwarzsee,Rund um den See,Meditation,,unbekannt,
 2428,DE,2021-04-18,14:00:00,84347,Pfarrkirchen,P+R Parkplatz,Kundgebung,,Florian Feuerers Initiative Schutz für Kinder,
@@ -45,11 +48,13 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2391,DE,2021-04-18,15:00:00,27472,Cuxhaven,Kaemmererplatz,Kundgebung,,unbekannt,
 2392,DE,2021-04-18,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
 2421,DE,2021-04-18,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
+2450,DE,2021-04-18,16:00:00,63897,Miltenberg,Jahnstr. / Busparkplatz,Kundgebung,,Miltenberg steht auf,https://t.me/s/infomiltenberg
 2362,DE,2021-04-19,18:00:00,33397,Rietberg,ZOB / Rietberg,Kundgebung,,unbekannt,
 2375,DE,2021-04-19,18:00:00,33397,Rietberg,ZOB Rietberg,Kundgebung,,unbekannt,
 1903,DE,2021-04-19,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
 2424,DE,2021-04-19,18:00:00,03591,Bautzen,Kornmarkt,Mahnwache,,unbekannt,
 2407,DE,2021-04-19,18:30:00,02763,Zittau,Markt,Kundgebung,,Freunde von PEGIDA,
+2448,DE,2021-04-19,18:30:00,02763,Zittau,Markt,Kundgebung,,Freunde von PEGIDA,
 2234,DE,2021-04-19,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198
 2432,DE,2021-04-19,19:00:00,47906,Kempen,Kuhtor,Spaziergang,,Privat,
 2425,DE,2021-04-19,19:00:00,29221,Celle,Stechbahn,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,
@@ -80,6 +85,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2282,DE,2021-05-03,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 2251,DE,2021-05-08,14:00:00,83278,Traunstein,Salinenpark,Aufzug,https://dlive.tv/861Querdenken-TS?ref=papageienumschau,Querdenker-861,www.querdenken-ts.de
 2430,DE,2021-05-08,15:00:00,95183,Hof,Kugelbrunnen,Kundgebung,,Hof Steht Auf,
+2444,DE,2021-05-08,15:00:00,95032,Hof,Kugelbrunnen,Kundgebung,,Hof steht auf,
 2395,DE,2021-05-09,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
 2283,DE,2021-05-10,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 2284,DE,2021-05-17,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
