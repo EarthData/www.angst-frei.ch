@@ -114,6 +114,7 @@ subtitle:
   nordkurier: last
   nzz: last
   pharmazeutische-zeitung: last
+  pubmed: last-
   reitschuster: last-
   tagblatt: last
   tkp: last-
@@ -126,6 +127,7 @@ subtitle:
   weltwoche-daily: last-
 uri:
   fassadenkratzer.wordpress.com: first
+  pubmed.ncbi.nlm.nih.gov: first
 cleanurl:
   nachdenkseiten: false
   deutschlandfunk: false
