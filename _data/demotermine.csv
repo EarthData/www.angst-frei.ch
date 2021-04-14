@@ -1,5 +1,5 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-2437,DE,2021-04-14,10:00:00,80333,München,Salvatorstr. 2,Demonstration,,unbekannt,
+2437,DE,2021-04-14,10:00:00,80333,München,Wittelsbacherplatz,Demonstration,,Marcel D.,
 2396,DE,2021-04-14,16:00:00,70184,Stuttgart,Dobelstr. / Hohenheimer Str.,Kundgebung,,Privat,
 2410,DE,2021-04-14,17:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 2325,DE,2021-04-14,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,http://www.Hanau-steht-auf.de
@@ -12,8 +12,10 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2427,DE,2021-04-15,17:30:00,73230,Kirchheim unter Teck,Ziegelwasen,Kundgebung,,Querdenken 702,https://querdenken-702.de
 2177,DE,2021-04-15,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2411,DE,2021-04-15,19:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
+2455,DE,2021-04-16,11:00:00,40221,Düsseldorf,Voelklinger Str. 49 / Schulministerium,Kundgebung,,unbekannt,
 2096,DE,2021-04-16,15:30:00,22941,Bargteheide,Am Markt / Schulzentrum,Mahnwache,,Freitag für Freiheit Freude und Frieden,
 2397,DE,2021-04-16,17:00:00,70372,Stuttgart / Bad Cannstatt,Cannstatter Wasen / Parkpl. P10,Fahrraddemo,,Privat,
+2452,DE,2021-04-16,17:00:00,85356,Freising,Luitpoldanlage,Autokorso,,unbekannt,https://AutokorsoInfoUnterschleissheim
 2412,DE,2021-04-16,17:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 2293,DE,2021-04-16,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,grundrechte.jetzt,https://grundrechte.jetzt
 2382,DE,2021-04-16,19:00:00,26506,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,,unbekannt,
@@ -35,6 +37,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2447,DE,2021-04-18,10:00:00,02763,Zittau,B 96,Menschenkette,,unbekannr,
 2422,DE,2021-04-18,10:45:00,75015,Bretten,Marktplatz,Meditation,,unbekannt,
 2258,CH,2021-04-18,11:00:00,1719,Schwarzsee,Rund um den See,Meditation,,unbekannt,
+2457,DE,2021-04-18,14:00:00,54516,Wittlich,Platz an der Lieser,Demonstration,,unbekannt,
 2428,DE,2021-04-18,14:00:00,84347,Pfarrkirchen,P+R Parkplatz,Kundgebung,,Florian Feuerers Initiative Schutz für Kinder,
 2429,DE,2021-04-18,14:00:00,74182,Obersulm-Willsbach,Marktplatz,Kundgebung,,Freigeister Berg und Tal,
 2349,AT,2021-04-18,14:00:00,6900,Bregenz,Kornmarktplatz,Kundgebung,,unbekannt,https://corona-demo.at/
@@ -61,6 +64,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2383,DE,2021-04-23,19:00:00,26506,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,,unbekannt,
 2342,DE,2021-04-24,14:00:00,95444,Bayreuth,Volksfestplatz / Parkplatz,Kundgebung,,20 Plus 1 - Bürgerbewegung c/o Harald Steger,https://20plus1.org
 1968,DE,2021-04-24,14:00:00,52064,Aachen,Eurogress Monheimsallee 48,Kundgebung,,Querdenken 241,
+2454,DE,2021-04-24,15:00:00,50678,Köln,Rudolfplatz,Demonstration,,Koeln-ist-aktiv,https://koelnistaktiv.de
+2456,DE,2021-04-24,17:00:00,50678,Köln,Rudolfplatz,Spaziergang,,Koeln-ist-aktiv,https://koelnistaktiv.de
 2416,DE,2021-04-25,14:00:00,63454,Hanau/Kesselstadt,Mainwiese / Schloss Philippsruhe,Spaziergang,,Hanau steht auf,https://www.hanau-steht-auf.de
 2371,AT,2021-04-25,14:00:00,6800,Feldkirch,Montfortplatz,Kundgebung,,unbekannt,https://corona-demo.at/
 2440,DE,2021-04-25,14:00:00,84307,Eggenfelden,Rathausplatz,Versammlung,https://dlive.tv/SelbstDenken21,SelbstDenken21,http://shop.selbstdenken21.de
@@ -86,6 +91,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2444,DE,2021-05-08,15:00:00,95032,Hof,Kugelbrunnen,Kundgebung,,Hof steht auf,
 2395,DE,2021-05-09,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
 2283,DE,2021-05-10,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
+2453,DE,2021-05-13,15:00:00,84503,Altötting,Volksfestplatz,Versammlung,,Bayern steht zusammen e.V.,https://www.bayern-steht-zusammen.de/TERMINE/
 2284,DE,2021-05-17,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 2285,DE,2021-05-24,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 2286,DE,2021-05-31,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
