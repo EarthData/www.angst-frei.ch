@@ -82,6 +82,7 @@ tag:
   corona-blog: corona-blog
   deutsche-apotheker-zeitung: daz
   dgkj: dgkj
+  ema: ema
   fm1today: fm1today
   focus: focus
   infekt: infekt
@@ -129,6 +130,7 @@ subtitle:
 uri:
   fassadenkratzer.wordpress.com: first
   pubmed.ncbi.nlm.nih.gov: first
+  www.ema.europa.eu: second
 cleanurl:
   nachdenkseiten: false
   deutschlandfunk: false

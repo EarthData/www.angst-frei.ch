@@ -20,6 +20,8 @@ class Scraper
     puts "URI: #{uri}" if debug
     if config['uri'][uri] and  config['uri'][uri] == "first"
       domain = URI(url).hostname.split('.').first
+    elsif config['uri'][uri] and  config['uri'][uri] == "second"
+      domain = URI(url).hostname.split('.')[1]
     else
       domain = URI(url).hostname.split('.').last(2).first
     end

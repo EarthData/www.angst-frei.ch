@@ -12,7 +12,7 @@ scrape = Scraper.new
 counter = 1
 
 files = Dir.glob("../_posts/*-zeitpunkt_*.md")
-#files = Dir.glob("../_posts/*.md")
+files = Dir.glob("../_posts/*.md")
 
 parameters = ['date', 'redirect', 'title', 'subtitle', 'timeline', 'country', 'persons', 'categories', 'tags', 'filename']
 
