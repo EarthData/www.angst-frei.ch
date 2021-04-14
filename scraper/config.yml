@@ -92,6 +92,7 @@ tag:
   rt: rt
   substack: substack
   derstandard: standard
+  schweizermonat: schweizermonat
   svp: svp
   swprs: swprs
   tagblatt: tagblatt
@@ -105,6 +106,7 @@ subtitle:
   2020news: last-
   corona-blog: last2-
   corona-transition: last
+  harald-walach: last-
   insideparadeplatz: last-
   infekt: last-
   infosperber: last-
@@ -117,16 +119,16 @@ subtitle:
   pharmazeutische-zeitung: last
   pubmed: last-
   reitschuster: last-
-  zeitpunkt: h2
+  schweizermonat: last–
   tagblatt: last
   tkp: last-
   uncutnews: last
   unser-mitteleuropa: last
   unzensuriert: last-
-  welt: last-
   verfassungsfreunde: last
-  harald-walach: last-
+  welt: last-
   weltwoche-daily: last-
+  zeitpunkt: h2
 uri:
   fassadenkratzer.wordpress.com: first
   pubmed.ncbi.nlm.nih.gov: first

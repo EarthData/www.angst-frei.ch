@@ -48,7 +48,7 @@ files.each do |filename|
     next
   end
 
-  if meta_data['title'].match?(/reitschuster|Wochenblick|Tagesanzeiger|linth24|Die Ostschweiz/)
+  if meta_data['title'].match?(/reitschuster|Wochenblick|Tagesanzeiger|linth24|Die Ostschweiz|ScienceFiles/)
     next
   end
 
