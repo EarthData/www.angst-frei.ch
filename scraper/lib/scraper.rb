@@ -155,9 +155,17 @@ class Scraper
     elsif doc.xpath("/html/body//h1") and subtitle == ""
       subtitle = doc.xpath("/html/body//h1").first.text.strip.chomp
       puts "Title: :#{subtitle}: (first h1)" if debug
+    elsif doc.xpath("/html/body//h2") and subtitle == ""
+      subtitle = doc.xpath("/html/body//h2").first.text.strip.chomp
+      puts "Title: :#{subtitle}: (first h2)" if debug
     else
       puts "no title found"
       exit 1
+    end
+
+    if config['subtitle'][domain] && config['subtitle'][domain] == 'h2'
+      subtitle = doc.xpath("/html/body//h2").first.text.strip.chomp
+      puts "Change title to: #{subtitle} cause of h2" if debug
     end
 
     if config['subtitle'][domain] && config['subtitle'][domain] == 'last'
