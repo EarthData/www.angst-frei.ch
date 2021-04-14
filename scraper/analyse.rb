@@ -11,8 +11,8 @@ scrape = Scraper.new
 #tools.write_file(site_data)
 counter = 1
 
-files = Dir.glob("../_posts/*-who_*.md")
-files = Dir.glob("../_posts/*.md")
+files = Dir.glob("../_posts/*-welt_*.md")
+#files = Dir.glob("../_posts/*.md")
 
 parameters = ['date', 'redirect', 'title', 'subtitle', 'timeline', 'country', 'persons', 'categories', 'tags', 'filename']
 

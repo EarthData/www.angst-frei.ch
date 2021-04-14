@@ -4,6 +4,6 @@ redirect:      https://2020news.de/drosten-vorgaenger-wendet-sich-gegen-die-regi
 title:         2020 News
 subtitle:      'Drosten-Vorgänger wendet sich gegen die Regierung'
 country:       DE
-categories:    [Widerstand, Politik]
-tags:          [2020news, rki, who]
+categories:    [Widerstand, Wissenschaft, Politik]
+tags:          [2020news, who]
 ---
