@@ -11,7 +11,7 @@ scrape = Scraper.new
 #tools.write_file(site_data)
 counter = 1
 
-files = Dir.glob("../_posts/*-zeitpunkt_*.md")
+files = Dir.glob("../_posts/*-fm1today_*.md")
 files = Dir.glob("../_posts/*.md")
 
 parameters = ['date', 'redirect', 'title', 'subtitle', 'timeline', 'country', 'persons', 'categories', 'tags', 'filename']
@@ -48,7 +48,12 @@ files.each do |filename|
     next
   end
 
-  if meta_data['title'].match?(/reitschuster|Wochenblick|Tagesanzeiger|linth24|Die Ostschweiz|ScienceFiles/)
+  if meta_data['title'].match?(/reitschuster|Wochenblick|Tagesanzeiger|linth24|Die Ostschweiz|ScienceFiles|FM1 Today/)
+    next
+  end
+
+  # temporary remove NZZ
+  if meta_data['title'].match?(/NZZ/)
     next
   end
 

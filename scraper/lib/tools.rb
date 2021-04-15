@@ -17,7 +17,7 @@ class Tools
   def write_file(site_data, warn_on_existing)
 
     if(File.exist?("../_posts/#{site_data['filename']}.md") and warn_on_existing)
-      puts "File #{site_data['filename']}.md already exists in ../_posts"
+      puts "File ../_posts/#{site_data['filename']}.md already exists"
       exit 0
     end
     tags = site_data['tags'].join(', ')

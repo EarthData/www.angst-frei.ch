@@ -4,6 +4,6 @@ redirect:      https://www.dieostschweiz.ch/artikel/eine-geschichte-der-neuen-sc
 title:         Die Ostschweiz
 subtitle:      'Eine Geschichte der «neuen» Schweiz in wenigen Bildern'
 country:       CH
-categories:    [Widerstand]
+categories:    [Widerstand, Recht]
 tags:          [die ostschweiz, altdorf, polizei]
 ---

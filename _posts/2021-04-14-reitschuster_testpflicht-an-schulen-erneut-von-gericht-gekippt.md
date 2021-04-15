@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Testpflicht an Schulen erneut von Gericht gekippt'
 country:       DE
 categories:    [Recht, Schule]
-tags:          [reitschuster, kind, maske, weilheim]
+tags:          [reitschuster, kind, massentest, magdeburg]
 ---

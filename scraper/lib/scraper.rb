@@ -56,6 +56,13 @@ class Scraper
       document = clean_url.split('/')[clean_url.split('/').length - 2]
     elsif config['article'][domain] == "pprevious"
       document = clean_url.split('/')[clean_url.split('/').length - 3]
+    elsif config['article'][domain] == "cMeta"
+      parameters = URI(url).query.split('&')
+      parameters.each do |parameter|
+        if parameter.match(/^cMeta=/)
+          document = parameter.split('=')
+        end
+      end
     elsif config['article'][domain] == "page"
       document = clean_url.split('/').last.split("=")[1]
     end

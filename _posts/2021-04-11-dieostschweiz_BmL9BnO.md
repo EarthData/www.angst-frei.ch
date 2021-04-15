@@ -4,6 +4,6 @@ redirect:      https://www.dieostschweiz.ch/artikel/altdorf-ist-ueberall-dieser-
 title:         Die Ostschweiz
 subtitle:      'Altdorf ist überall: Dieser Sonntag ist der Innerschweiz gewidmet'
 country:       CH
-categories:    [Widerstand, Politik]
+categories:    [Widerstand, Recht, Politik]
 tags:          [die ostschweiz, altdorf, demokratie, polizei]
 ---
