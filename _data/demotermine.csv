@@ -1,16 +1,19 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-2473,DE,2021-04-16,09:00:00,10117,Berlin,Reichstag / Paul-Löbe-Haus,Aufstand,,Sturm auf den Reichstag,
+2473,DE,2021-04-16,09:00:00,10117,Berlin,Reichstag / Paul-Löbe-Haus,Aufstand,https://youtube.com/channel/UCQpCnHgX_g5_DmY3g7pKyYA/live,Sturm auf den Reichstag,
 2455,DE,2021-04-16,11:00:00,40221,Düsseldorf,Voelklinger Str. 49 / Schulministerium,Kundgebung,,unbekannt,
 2096,DE,2021-04-16,15:30:00,22941,Bargteheide,Am Markt / Schulzentrum,Mahnwache,,Freitag für Freiheit Freude und Frieden,
+2479,DE,2021-04-16,16:30:00,78713,Schramberg,Parkplatz am Schloss im Tal,Menschenkette,,Friede und Freiheit,https://t.me/friede_und_freiheit/5516
 2397,DE,2021-04-16,17:00:00,70372,Stuttgart / Bad Cannstatt,Cannstatter Wasen / Parkpl. P10,Fahrraddemo,,Privat,
 2475,DE,2021-04-16,17:00:00,80634,München,Rotkreuzplatz,Demonstration,,Open Mic Demo,https://openmic.onrender.com/
 2452,DE,2021-04-16,17:00:00,85356,Freising,Luitpoldanlage,Autokorso,,unbekannt,https://AutokorsoInfoUnterschleissheim
 2412,DE,2021-04-16,17:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 2293,DE,2021-04-16,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,grundrechte.jetzt,https://grundrechte.jetzt
+2481,DE,2021-04-16,18:00:00,79682,Todtmoos,Rathaus,Mahnwache,,unbekannt,
 2462,DE,2021-04-16,18:00:00,12623,Berlin,U Hönow P+R Parkplatz,Autokorso,,Autokorso Berlin,
 2471,DE,2021-04-16,18:00:00,34454,Bad Arolsen,Kirchplatz,Aufzug,,unbekannt,
 2382,DE,2021-04-16,19:00:00,26506,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,,unbekannt,
 2465,DE,2021-04-17,00:00:00,87435,Kempten,Rottachstr. / Ostparkplatz,Aufzug,,unbekannt,
+2478,DE,2021-04-17,10:00:00,01968,Senftenberg,Grubenstr. Brieske,Autokorso,,unbekannt,
 2449,DE,2021-04-17,10:30:00,79271,St. Peter,Zähringer Eck / Rossweiher,Versammlung,,Schwarzwald Netzwerk,https://schwarzwald-netzwerk.de/
 2417,DE,2021-04-17,11:00:00,29223,Celle,Schützenplatz,Spaziergang,,Celle steht auf,
 2268,DE,2021-04-17,13:00:00,69126,Heidelberg,Schwanenteichanlage,Aufzug,,unbekannt,
@@ -19,7 +22,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2348,DE,2021-04-17,14:00:00,78713,Schramberg,An der Steige / ggü. Kirche,Aufzug,,unbekannt,
 2117,DE,2021-04-17,14:00:00,78713,Schramberg,St. Maria Kirche,Demonstration,,Friede und Freiheit,https://t.me/friede_und_freiheit/4837
 2445,DE,2021-04-17,14:00:00,64385,Reichelsheim,B 38 Ortseingang Aldi,Versammlung,,unbekannt,
-2278,DE,2021-04-17,14:00:00,80538,München,Maxmonument / Max-II-Denkmal,Kundgebung,,@unsreichts,https://es-reicht-uns.de/
+2278,DE,2021-04-17,14:00:00,80538,München,Theresienwiese,Kundgebung,,@unsreichts,https://es-reicht-uns.de/
 2463,DE,2021-04-17,14:00:00,56068,Koblenz,Jesuitenplatz,Mahnwache,,unbekannt,
 2376,DE,2021-04-17,14:00:00,24105,Kiel,Reventlouwiese,Kundgebung,,unbekannt,https://es-reicht-uns.de/
 2466,DE,2021-04-17,14:00:00,87435,Kempten,Königsplatz,Kundgebung,,unbekannt,
@@ -43,7 +46,6 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2467,DE,2021-04-18,15:00:00,64711,Erbach,Marktplatz / am Schloss,Kundgebung,,unbekannt,
 2391,DE,2021-04-18,15:00:00,27472,Cuxhaven,Kaemmererplatz,Kundgebung,,unbekannt,
 2392,DE,2021-04-18,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
-2450,DE,2021-04-18,16:00:00,63897,Miltenberg,Jahnstr. / Busparkplatz,Kundgebung,,Miltenberg steht auf,https://t.me/s/infomiltenberg
 2470,DE,2021-04-19,07:26:00,01744,Dippoldiswalde,Markt,Treffpunkt,,Kinderschutz,
 2459,DE,2021-04-19,15:00:00,10117,Berlin,Brandenburger Tor,Kundgebung,https://www.twitch.tv/demokratievs1984,#ESREICHT Thorsten Schulte diedirekte,https://www.diedirekte.de
 2375,DE,2021-04-19,18:00:00,33397,Rietberg,Torfweg 63 / ZOB,Kundgebung,,unbekannt,
@@ -60,8 +62,10 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2464,DE,2021-04-20,18:00:00,14467,Potsdam,Schiffbauergasse 7,Autokorso,,unbekannt,
 2468,DE,2021-04-20,18:00:00,64711,Erbach,Marktplatz / am Schloss,Spaziergang,,unbekannt,
 2474,DE,2021-04-21,09:00:00,10117,Berlin,Reichstag / Paul-Löbe-Haus,Aufstand,,Sturm auf den Reichstag,
+2483,DE,2021-04-21,10:00:00,10117,Berlin,Str. des 17. Juni,Kundgebung,,Querdenken 30,https://querdenken-30.de
 2173,DE,2021-04-21,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2178,DE,2021-04-22,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
+2482,DE,2021-04-23,09:00:00,10117,Berlin,Reichstag / Paul-Löbe-Haus,Aufstand,,Sturm auf den Reichstag,
 2294,DE,2021-04-23,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,grundrechte.jetzt,https://grundrechte.jetzt
 2383,DE,2021-04-23,19:00:00,26506,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,,unbekannt,
 2342,DE,2021-04-24,14:00:00,95444,Bayreuth,Volksfestplatz / Parkplatz,Kundgebung,,20 Plus 1 - Bürgerbewegung c/o Harald Steger,https://20plus1.org
@@ -106,4 +110,4 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2271,DE,2021-10-04,14:30:00,06232,Speyer,Domplatz,Kundgebung,https://dlive.tv/Live-Reports-DUEW,Querdenken 6341,https://www.querdenken-6341.de
 1960,DE,2021-11-05,18:00:00,10117,Berlin,Pariser Platz / Brandenburger Tor,MillionMaskMarch,https://anonymous.support/live,Anonymous,https://anonymous.support
 1963,DE,2021-12-24,12:00:00,10178,Berlin,Weltzeituhr / Alexanderplatz,OpSafeWinter,https://anonymous.support/live,Anonymous,https://anonymous.support
-1617,DE,2021-12-31,23:59:00,10117,Berlin,Brandenburger Tor,Event,,,
+1617,DE,2021-12-31,23:59:00,10117,Berlin,Brandenburger Tor,Event,,Welcome 2022,
