@@ -47,6 +47,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2457,DE,2021-04-18,14:00:00,54516,Wittlich,Platz an der Lieser,Demonstration,,unbekannt,
 2428,DE,2021-04-18,14:00:00,84347,Pfarrkirchen,P+R Parkplatz,Kundgebung,,Florian Feuerers Initiative Schutz für Kinder,
 2429,DE,2021-04-18,14:00:00,74182,Obersulm-Willsbach,Marktplatz,Kundgebung,,Freigeister Berg und Tal,
+2517,DE,2021-04-18,14:00:00,90443,Nürnberg,Richard-Wagner-Platz / Opernhaus,Schweigemarsch,,Der Schweigemarsch,https://www.der-schweigemarsch.de
 2349,AT,2021-04-18,14:00:00,6900,Bregenz,Kornmarktplatz,Kundgebung,,unbekannt,https://corona-demo.at/
 2319,DE,2021-04-18,15:00:00,48149,Münster,Schloßplatz / Parkplatz,Autokorso,,Autokorso Münster von/mit Aerzte fuer Aufklaerung,
 2467,DE,2021-04-18,15:00:00,64711,Erbach,Marktplatz / am Schloss,Kundgebung,,unbekannt,
@@ -105,8 +106,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2295,DE,2021-04-30,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,grundrechte.jetzt,https://grundrechte.jetzt
 2384,DE,2021-04-30,19:00:00,26506,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,,unbekannt,
 2451,DE,2021-05-01,14:00:00,02763,Zittau,Markt,Kundgebung,,Freunde von PEGIDA,https://t.me/freundevonpegida
-2026,DE,2021-05-01,14:00:00,80336,München,Theresienwiese,Aufzug,,Markus Haintz,https://t.me/Haintz
-2027,DE,2021-05-01,17:00:00,80336,München,Theresienwiese,Kundgebung,,Markus Haintz,https://t.me/Haintz
+2027,DE,2021-05-01,14:00:00,80336,München,Theresienwiese,Kundgebung,,Markus Haintz,https://t.me/Haintz
 2372,AT,2021-05-02,14:00:00,6850,Dornbirn,Marktplatz,Kundgebung,,unbekannt,https://corona-demo.at/
 2394,DE,2021-05-02,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
 2282,DE,2021-05-03,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
