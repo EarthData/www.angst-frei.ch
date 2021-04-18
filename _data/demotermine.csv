@@ -17,6 +17,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2470,DE,2021-04-19,07:26:00,01744,Dippoldiswalde,Markt,Treffpunkt,,Kinderschutz,
 2459,DE,2021-04-19,15:00:00,10117,Berlin,Brandenburger Tor,Kundgebung,https://www.twitch.tv/demokratievs1984,#ESREICHT Thorsten Schulte diedirekte,https://www.diedirekte.de
 2523,DE,2021-04-19,15:00:00,96052,Bamberg,Theuerstadt 1 / Schulamt,Demonstration,,unbekannt,
+2524,DE,2021-04-19,17:00:00,06333,Hettstedt,Markt / Denkmal,Kundgebung,,unbekannt,
 2487,DE,2021-04-19,18:00:00,92421,Schwandorf,Oberer Marktplatz,Kundgebung,,unbekannt,
 2375,DE,2021-04-19,18:00:00,33397,Rietberg,Torfweg 63 / ZOB,Kundgebung,,unbekannt,
 2496,DE,2021-04-19,18:00:00,49074,Osnabrück,Platz der deutschen Einheit,Demonstration,,unbekannt,
@@ -28,6 +29,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2441,DE,2021-04-19,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,unbekannt,
 2522,DE,2021-04-19,19:00:00,06526,Sangerhausen,Markt,Spaziergang,,unbekannt,
 2234,DE,2021-04-19,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198
+2526,DE,2021-04-19,19:00:00,99974,Mühlhausen / Thüringen,Postplatz,Spaziergang,,unbekannt,
 2432,DE,2021-04-19,19:00:00,47906,Kempen,Kuhtor,Spaziergang,,Privat,
 2492,DE,2021-04-19,19:00:00,87600,Kaufbeuren,Tänzelfestplatz,Spaziergang,,unbekannt,
 2486,DE,2021-04-19,19:00:00,01744,Dippoldiswalde,Markt,Spaziergang,,Kinderschutz,
@@ -36,11 +38,14 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2189,DE,2021-04-19,19:00:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,unbekannt,
 2464,DE,2021-04-20,18:00:00,14467,Potsdam,Schiffbauergasse 7,Autokorso,,unbekannt,
 2468,DE,2021-04-20,18:00:00,64711,Erbach,Marktplatz / am Schloss,Spaziergang,,unbekannt,
+2529,DE,2021-04-20,18:30:00,60385,Frankfurt / Main,Uhrtürmchen,Spaziergang,,unbekannt,
 2504,DE,2021-04-20,19:00:00,83043,Bad Aibling,Ausstellungshalle Viehhalle,Kundgebung,,Zukunftsrunde e.V. in Gründung Kolbermoor,https://zukunftsrunde.de/veranstaltungen/
 2474,DE,2021-04-21,09:00:00,10117,Berlin,Reichstag / Paul-Löbe-Haus,Aufstand,,Sturm auf den Reichstag,
 2483,DE,2021-04-21,10:00:00,10117,Berlin,Str. des 17. Juni,Kundgebung,,Querdenken 30,https://querdenken-30.de
 2495,DE,2021-04-21,12:00:00,95444,Bayreuth,Landratsamt,Kundgebung,,20plus1 Bürgerbewegung,
+2527,DE,2021-04-21,17:00:00,99974,Mühlhausen,Popperöder Quelle,Kundgebung,,Zanker ad,
 2173,DE,2021-04-21,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
+2525,DE,2021-04-22,17:00:00,06295,Lutherstadt Eisleben,Markt / Denkmal,Kundgebung,,unbekannt,
 2488,DE,2021-04-22,18:00:00,93413,Cham,Am Floßhafen / Eingang Frey,Kundgebung,,unbekannt,
 2178,DE,2021-04-22,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2482,DE,2021-04-23,09:00:00,10117,Berlin,Reichstag / Paul-Löbe-Haus,Aufstand,,Sturm auf den Reichstag,
@@ -54,6 +59,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2454,DE,2021-04-24,15:00:00,50678,Köln,Rudolfplatz,Demonstration,,Koeln-ist-aktiv,https://koelnistaktiv.de
 2456,DE,2021-04-24,17:00:00,50678,Köln,Rudolfplatz,Spaziergang,,Koeln-ist-aktiv,https://koelnistaktiv.de
 2416,DE,2021-04-25,14:00:00,63454,Hanau/Kesselstadt,Mainwiese / Schloss Philippsruhe,Spaziergang,,Hanau steht auf,https://www.hanau-steht-auf.de
+2530,DE,2021-04-25,14:00:00,63454,Hanau,Schlosspark Philippsruhe,Spaziergang,,unbekannt,
 2371,AT,2021-04-25,14:00:00,6800,Feldkirch,Montfortplatz,Kundgebung,,unbekannt,https://corona-demo.at/
 2440,DE,2021-04-25,14:00:00,84307,Eggenfelden,Rathausplatz,Versammlung,https://dlive.tv/SelbstDenken21,SelbstDenken21,http://shop.selbstdenken21.de
 2393,DE,2021-04-25,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
@@ -63,6 +69,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 1904,DE,2021-04-26,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
 2442,DE,2021-04-26,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,unbekannt,
 2235,DE,2021-04-26,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198
+2528,DE,2021-04-26,19:00:00,99974,Mühlhausen / Thüringen,Postplatz,Spaziergang,,unbekannt,
 2190,DE,2021-04-26,19:00:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,unbekannt,
 2174,DE,2021-04-28,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2179,DE,2021-04-29,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
