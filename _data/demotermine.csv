@@ -9,6 +9,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2542,DE,2021-04-19,17:30:00,18439,Stralsund,Trelleborger Platz,Kundgebung,,unbekannt,
 2487,DE,2021-04-19,18:00:00,92421,Schwandorf,Oberer Marktplatz,Kundgebung,,unbekannt,
 2375,DE,2021-04-19,18:00:00,33397,Rietberg,Torfweg 63 / ZOB,Kundgebung,,unbekannt,
+2558,DE,2021-04-19,18:00:00,33397,Rietberg,Torfweg 63 / ZOB,Spaziergang,,Privat,https://t.me/LichterspaziergangGT
 2541,DE,2021-04-19,18:00:00,14467,Potsdam,Platz zwischen Filmmuseum und,Mahnwache,,unbekannt,
 2496,DE,2021-04-19,18:00:00,49074,Osnabrück,Platz der deutschen Einheit,Demonstration,,unbekannt,
 1903,DE,2021-04-19,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
@@ -16,12 +17,15 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2424,DE,2021-04-19,18:00:00,03591,Bautzen,Kornmarkt,Mahnwache,,unbekannt,
 2521,DE,2021-04-19,18:00:00,96052,Bamberg,Bahnhof / ggü.,Spaziergang,,unbekannt,
 2407,DE,2021-04-19,18:30:00,02763,Zittau,Markt,Kundgebung,,Freunde von PEGIDA,
+2557,DE,2021-04-19,18:30:00,99518,Bad Sulza,Marktplatz,Sonstiges,,unbekannt,
 2544,DE,2021-04-19,18:30:00,97688,Bad Kissingen / Garitz,Seeplatz,Spaziergang,,unbekannt,
 2441,DE,2021-04-19,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,unbekannt,
 2522,DE,2021-04-19,19:00:00,06526,Sangerhausen,Markt,Spaziergang,,unbekannt,
 2533,DE,2021-04-19,19:00:00,72764,Reutlingen,Marktplatz,Spaziergang,,unbekannt,
 2234,DE,2021-04-19,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198
 2526,DE,2021-04-19,19:00:00,99974,Mühlhausen / Thüringen,Postplatz,Spaziergang,,unbekannt,
+2556,DE,2021-04-19,19:00:00,71672,Marbach am Neckar,Marktstr. / Rathaus,Spaziergang,,unbekannt,
+2562,CH,2021-04-19,19:00:00,6004,Luzern,Schwanenplatz,Spaziergang,,unbekannt,
 2432,DE,2021-04-19,19:00:00,47906,Kempen,Kuhtor,Spaziergang,,Privat,
 2492,DE,2021-04-19,19:00:00,87600,Kaufbeuren,Tänzelfestplatz,Spaziergang,,unbekannt,
 2486,DE,2021-04-19,19:00:00,01744,Dippoldiswalde,Markt,Spaziergang,,Kinderschutz,
@@ -29,6 +33,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2434,DE,2021-04-19,19:00:00,08359,Breitenbrunn / Erzgebirge,Rathaus,Spaziergang,,unbekannt,
 2189,DE,2021-04-19,19:00:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,unbekannt,
 2535,DE,2021-04-20,16:00:00,78532,Tuttlingen,Marktplatz beim Brunnen,Demonstration,,Aktionsteam RW/VS/TuT,https://t.me/friede_und_freiheit/5588
+2552,DE,2021-04-20,17:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 2464,DE,2021-04-20,18:00:00,14467,Potsdam,Schiffbauergasse 7,Autokorso,,unbekannt,
 2468,DE,2021-04-20,18:00:00,64711,Erbach,Marktplatz / am Schloss,Spaziergang,,unbekannt,
 2529,DE,2021-04-20,18:30:00,60385,Frankfurt / Main,Uhrtürmchen,Spaziergang,,unbekannt,
@@ -39,16 +44,21 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2495,DE,2021-04-21,12:00:00,95444,Bayreuth,Landratsamt,Kundgebung,,20plus1 Bürgerbewegung,
 2534,DE,2021-04-21,16:00:00,70184,Stuttgart,Ecke Dobelstr. / Hohenheimer Str.,Kundgebung,,unbekannt,
 2527,DE,2021-04-21,17:00:00,99974,Mühlhausen,Popperöder Quelle,Kundgebung,,Zanker ad,
+2553,DE,2021-04-21,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 2173,DE,2021-04-21,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2525,DE,2021-04-22,17:00:00,06295,Lutherstadt Eisleben,Markt / Denkmal,Kundgebung,,unbekannt,
 2538,DE,2021-04-22,17:30:00,72622,Nürtingen,Ochsenbrunnen,Kundgebung,,Querdenken 702,
 2488,DE,2021-04-22,18:00:00,93413,Cham,Am Floßhafen / Eingang Frey,Kundgebung,,unbekannt,
 2178,DE,2021-04-22,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
+2554,DE,2021-04-22,19:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 2482,DE,2021-04-23,09:00:00,10117,Berlin,Reichstag / Paul-Löbe-Haus,Aufstand,,Sturm auf den Reichstag,
+2551,DE,2021-04-23,17:00:00,36404,Vacha / Phillipsthal,Werrabrücke,Schilderwald,,unbekannt,
 2294,DE,2021-04-23,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,grundrechte.jetzt,https://grundrechte.jetzt
+2555,DE,2021-04-23,18:15:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 2485,DE,2021-04-23,18:30:00,90402,Nürnberg,Hallplatz,Kundgebung,,unbekannt,
 2383,DE,2021-04-23,19:00:00,26506,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,,unbekannt,
 2501,DE,2021-04-24,10:00:00,10557,Berlin,Straße des 17. Juni,Kundgebung,,Demokratischer Widerstand. Querdenken 30,
+2561,CH,2021-04-24,13:00:00,8640,Rapperswil,Fischmarktplatz,Kundgebung,,unbekannt,
 2497,DE,2021-04-24,14:00:00,26122,Oldenburg,Schloßplatz,Aufzug,https://dlive.tv/QD421,Querdenken441,https://querdenken441.de
 2549,DE,2021-04-24,14:00:00,10969,Berlin,Wilhelmstr. / Franz-Klühs-Str.,Aufzug,,unbekannt,
 2342,DE,2021-04-24,14:00:00,95444,Bayreuth,Volksfestplatz / Parkplatz,Kundgebung,,20 Plus 1 - Bürgerbewegung c/o Harald Steger,https://20plus1.org
@@ -68,9 +78,11 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2460,DE,2021-04-26,15:00:00,10117,Berlin,Brandenburger Tor,Kundgebung,https://www.twitch.tv/demokratievs1984,#ESREICHT Thorsten Schulte diedirekte,https://www.diedirekte.de
 2536,DE,2021-04-26,17:00:00,99974,Mühlhausen,Postplatz,Revolte,,Radikale Bürger,
 1904,DE,2021-04-26,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
+2559,DE,2021-04-26,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,Privat,https://t.me/LichterspaziergangGT
 2442,DE,2021-04-26,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,unbekannt,
 2235,DE,2021-04-26,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198
 2528,DE,2021-04-26,19:00:00,99974,Mühlhausen / Thüringen,Postplatz,Spaziergang,,unbekannt,
+2563,CH,2021-04-26,19:00:00,6004,Luzern,Schwanenplatz,Spaziergang,,unbekannt,
 2190,DE,2021-04-26,19:00:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,unbekannt,
 2174,DE,2021-04-28,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2179,DE,2021-04-29,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
@@ -82,14 +94,19 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2394,DE,2021-05-02,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
 2282,DE,2021-05-03,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 2443,DE,2021-05-03,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,unbekannt,
+2564,CH,2021-05-03,19:00:00,6004,Luzern,Schwanenplatz,Spaziergang,,unbekannt,
 2251,DE,2021-05-08,14:00:00,83278,Traunstein,Salinenpark,Aufzug,https://dlive.tv/861Querdenken-TS?ref=papageienumschau,Querdenker-861,www.querdenken-ts.de
 2430,DE,2021-05-08,15:00:00,95183,Hof,Kugelbrunnen,Kundgebung,,Hof Steht Auf,
 2444,DE,2021-05-08,15:00:00,95032,Hof,Kugelbrunnen,Kundgebung,,Hof steht auf,
 2547,AT,2021-05-09,14:00:00,6900,Bludenz,Riedmillerplatz,Kundgebung,,unbekannt,https://corona-demo.at/
 2395,DE,2021-05-09,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
 2283,DE,2021-05-10,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
+2565,CH,2021-05-10,19:00:00,6004,Luzern,Schwanenplatz,Spaziergang,,unbekannt,
 2453,DE,2021-05-13,15:00:00,84503,Altötting,Volksfestplatz,Versammlung,,Bayern steht zusammen e.V.,https://www.bayern-steht-zusammen.de/TERMINE/
+2560,CH,2021-05-15,13:00:00,2000,Neuchâtel,Jeunes Rives,Kundgebung,,Stiller Protest,
 2284,DE,2021-05-17,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
+2566,CH,2021-05-17,19:00:00,6004,Luzern,Schwanenplatz,Spaziergang,,unbekannt,
+2568,CH,2021-05-22,13:00:00,2503,Biel,Altstadt,Kundgebung,,unbekannt,
 2285,DE,2021-05-24,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 2286,DE,2021-05-31,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 2287,DE,2021-06-07,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
