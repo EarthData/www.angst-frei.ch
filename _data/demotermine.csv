@@ -11,6 +11,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2474,DE,2021-04-21,09:00:00,10117,Berlin,Reichstag / Paul-Löbe-Haus,Aufstand,,Sturm auf den Reichstag,
 2667,DE,2021-04-21,10:00:00,10117,Berlin,Bundeskanzleramt,Mahnwache,,Mahnwache am Kanzleramt,
 2670,DE,2021-04-21,10:00:00,10117,Berlin,Brandenburger Tor,Kundgebung,,Wir sind das Volk,
+2677,DE,2021-04-21,10:00:00,10557,Berlin,Heinrich von Gagern Str.,Kundgebung,https://youtube.com/user/cheeta030/live,Des Volkes Stimme,
 2483,DE,2021-04-21,10:00:00,10117,Berlin,Str. des 17. Juni,Kundgebung,,Querdenken 30,https://querdenken-30.de
 2668,DE,2021-04-21,10:30:00,10179,Berlin,Jannowitzbrücke,Kundgebung,,Praktizierende,
 2495,DE,2021-04-21,12:00:00,95444,Bayreuth,Landratsamt,Kundgebung,,20plus1 Bürgerbewegung,
@@ -46,6 +47,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2383,DE,2021-04-23,19:00:00,26506,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,,unbekannt,
 2627,CH,2021-04-23,19:00:00,2503,Biel-Bienne,Bahnhof,Spaziergang,,unknown,
 2501,DE,2021-04-24,10:00:00,10557,Berlin,Straße des 17. Juni,Kundgebung,,Demokratischer Widerstand. Querdenken 30,
+2678,DE,2021-04-24,10:30:00,79271,St. Peter,Zähringer Eck / Rossweiher,Versammlung,,Schwarzwald Netzwerk,https://schwarzwald-netzwerk.de/
 2561,CH,2021-04-24,13:00:00,8640,Rapperswil,Fischmarktplatz,Kundgebung,,unbekannt,
 2659,DE,2021-04-24,13:30:00,03172,Guben,Flemmingplatz,Autokorso,,unbekannt,https://t.me/djhotte/360
 2653,DE,2021-04-24,14:00:00,54294,Trier,Viehmarkt,Spaziergang,https://de-de.facebook.com/team.freiheit.trier,Team Freiheit Trier,https://t.me/teamfreiheittrier
