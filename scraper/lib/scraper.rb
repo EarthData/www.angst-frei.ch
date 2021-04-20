@@ -121,6 +121,16 @@ class Scraper
       puts "Date: #{published_time} (meta article:published_time)" if debug
     end
 
+    if doc.at("meta[name='last-modified']")
+      last_modified = doc.at("meta[name='last-modified']")['content'].to_s.strip
+      last_modified = DateTime.parse(last_modified).strftime("%s")
+      published = DateTime.parse(published_time).strftime("%s")
+      if last_modified < published
+        puts "last-modified earlier than published_time"
+        published_time = doc.at("meta[name='last-modified']")['content'].to_s.strip
+      end
+    end
+
     if published_time
       published_time.gsub! '- ', '-'
     end

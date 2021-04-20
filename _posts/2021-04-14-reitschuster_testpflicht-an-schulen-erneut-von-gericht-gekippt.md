@@ -4,6 +4,6 @@ redirect:      https://reitschuster.de/post/testpflicht-an-schulen-erneut-von-ge
 title:         reitschuster
 subtitle:      'Testpflicht an Schulen erneut von Gericht gekippt'
 country:       DE
-categories:    [Recht, Schule]
+categories:    [Recht, Schulen]
 tags:          [reitschuster, kind, massentest, magdeburg]
 ---

@@ -11,8 +11,11 @@ scrape = Scraper.new
 #tools.write_file(site_data)
 counter = 1
 
+config = YAML.load_file("config.yml")
+
 files = Dir.glob("../_posts/*-fm1today_*.md")
-files = Dir.glob("../_posts/*.md")
+files = Dir.glob("../_posts/2020-0*.md")
+#files = Dir.glob("../_posts/2020-09-18*.md")
 
 parameters = ['date', 'redirect', 'title', 'subtitle', 'timeline', 'country', 'persons', 'categories', 'tags', 'filename']
 
@@ -86,6 +89,9 @@ files.each do |filename|
     elsif parameter == 'timeline' and meta_data[parameter]
       new_file[parameter] = meta_data[parameter]
       puts "add timeline"
+    elsif parameter == 'subtitle' and config[parameter][meta_data['title']] and config[parameter][meta_data['title']] == "ignore"
+      new_file[parameter] = meta_data[parameter]
+      puts "ignoring subtitle"
     elsif parameter == 'persons' and !meta_data[parameter]
       #puts "no persons"
     elsif parameter == 'persons' and meta_data[parameter]

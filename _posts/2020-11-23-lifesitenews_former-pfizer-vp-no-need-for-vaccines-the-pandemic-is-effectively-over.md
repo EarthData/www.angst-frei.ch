@@ -4,5 +4,5 @@ redirect:   https://www.lifesitenews.com/news/former-pfizer-vp-no-need-for-vacci
 title:      LifeSite
 subtitle:   "Former Pfizer VP: ‘No need for vaccines,’ ‘the pandemic is effectively over’"
 categories: [MSM, Impfung]
-tags:       [lifesite]
+tags:       [lifesitenews]
 ---

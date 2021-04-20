@@ -22,11 +22,15 @@ article:
   n-tv: last
   nzz: lastdot
   pharmazeutische-zeitung: last
+  parlament: page
   rnd: last
   rt: first
   snanews: last
+  stgallen24: first
   tagesanzeiger: last
   tagblatt: lastdot
+  t-online: previous
+  tips: first
   unilu: last
   unzensuriert: first
   welt: previous
@@ -56,6 +60,7 @@ sitename:
   ndr: NDR
   n-tv: ntv
   nzz: NZZ
+  nytimes: The New York Times
   pharmazeutische-zeitung: Pharmazeutische Zeitung
   reitschuster: reitschuster
   rnd: RND
@@ -91,6 +96,8 @@ tag:
   insideparadeplatz: inside-paradeplatz
   medinside: medinside
   meinbezirk: meinbezirk
+  nature: nature
+  orf: orf
   rt: rt
   substack: substack
   derstandard: standard
@@ -98,6 +105,8 @@ tag:
   svp: svp
   swprs: swprs
   tagblatt: tagblatt
+  nytimes: nytimes
+  t-online: t-online
   tichyseinblick: tichyseinblick
   tkp: tkp
   vera-lengsfeld: vera-lengsfeld
@@ -109,6 +118,7 @@ subtitle:
   corona-blog: last2-
   corona-transition: last
   harald-walach: last-
+  handelsblatt: ignore
   insideparadeplatz: last-
   infekt: last-
   infosperber: last-
@@ -118,6 +128,7 @@ subtitle:
   medinside: ignore-og
   nordkurier: last
   nzz: last
+  The New York Times: ignore
   pharmazeutische-zeitung: last
   pubmed: last-
   reitschuster: last-

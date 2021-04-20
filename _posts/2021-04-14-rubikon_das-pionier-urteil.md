@@ -4,6 +4,6 @@ redirect:      https://www.rubikon.news/artikel/das-pionier-urteil
 title:         Rubikon
 subtitle:      'Das Pionier-Urteil'
 country:       DE
-categories:    [Recht, Schule]
+categories:    [Recht, Schulen]
 tags:          [rubikon, kind, maske, weimar]
 ---
