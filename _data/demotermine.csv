@@ -11,7 +11,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2483,DE,2021-04-21,10:00:00,10117,Berlin,Str. des 17. Juni,Kundgebung,,Querdenken 30,https://querdenken-30.de
 2495,DE,2021-04-21,12:00:00,95444,Bayreuth,Landratsamt,Kundgebung,,20plus1 Bürgerbewegung,
 2584,CH,2021-04-21,14:00:00,4410,Liestal,Bahnhof,Spaziergang,,unknown,
+2662,DE,2021-04-21,15:00:00,91522,Ansbach,Parkplatz  Onoldia Saal,Autokorso,,Autokorso Ansbach,
 2534,DE,2021-04-21,16:00:00,70184,Stuttgart,Dobelstr. / Hohenheimer Str.,Kundgebung,,unbekannt,
+2660,DE,2021-04-21,17:00:00,70173,Stuttgart,Kronprinzplatz,Aufzug,,Privat Person,
 2527,DE,2021-04-21,17:00:00,99974,Mühlhausen,Popperöder Quelle,Kundgebung,,Zanker ad,
 2597,CH,2021-04-21,18:00:00,2542,Pieterlen,Bahnhof,Spaziergang,,unknown,
 2553,DE,2021-04-21,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
@@ -21,6 +23,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2525,DE,2021-04-22,17:00:00,06295,Lutherstadt Eisleben,Markt / Denkmal,Kundgebung,,unbekannt,
 2538,DE,2021-04-22,17:30:00,72622,Nürtingen,Ochsenbrunnen,Kundgebung,,Querdenken 702,
 2488,DE,2021-04-22,18:00:00,93413,Cham,Am Floßhafen / Eingang Frey,Kundgebung,,unbekannt,
+2663,DE,2021-04-22,18:30:00,74731,Walldürn,Schlossplatz,Kundgebung,,Buchen steht auf,
 2178,DE,2021-04-22,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2609,CH,2021-04-22,19:00:00,9000,St. Gallen,Blumenmarkt,Spaziergang,,unknown,
 2615,CH,2021-04-22,19:00:00,6170,Schüpfheim,Bahnhof,Spaziergang,,unknown,
@@ -30,6 +33,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2654,DE,2021-04-23,17:00:00,69168,Wiesloch,Güterstr.,Schilderwald,,Hallo Meinung Wiesloch,
 2551,DE,2021-04-23,17:00:00,36404,Vacha / Phillipsthal,Werrabrücke,Schilderwald,,unbekannt,
 2294,DE,2021-04-23,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,grundrechte.jetzt,https://grundrechte.jetzt
+2661,DE,2021-04-23,17:30:00,71522,Backnang,Gänsebrunnen am Rathaus,Aufzug,,Privat Person,
 2633,CH,2021-04-23,18:00:00,3186,Düdingen,Bahnhof,Spaziergang,,unknown,
 2555,DE,2021-04-23,18:15:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 2485,DE,2021-04-23,18:30:00,90402,Nürnberg,Hallplatz,Kundgebung,,unbekannt,
@@ -38,6 +42,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2627,CH,2021-04-23,19:00:00,2503,Biel-Bienne,Bahnhof,Spaziergang,,unknown,
 2501,DE,2021-04-24,10:00:00,10557,Berlin,Straße des 17. Juni,Kundgebung,,Demokratischer Widerstand. Querdenken 30,
 2561,CH,2021-04-24,13:00:00,8640,Rapperswil,Fischmarktplatz,Kundgebung,,unbekannt,
+2659,DE,2021-04-24,13:30:00,03172,Guben,Flemmingplatz,Autokorso,,unbekannt,https://t.me/djhotte/360
 2653,DE,2021-04-24,14:00:00,54294,Trier,Viehmarkt,Spaziergang,https://de-de.facebook.com/team.freiheit.trier,Team Freiheit Trier,https://t.me/teamfreiheittrier
 2497,DE,2021-04-24,14:00:00,26122,Oldenburg,Schloßplatz,Aufzug,https://dlive.tv/QD421,Querdenken441,https://querdenken441.de
 2549,DE,2021-04-24,14:00:00,10969,Berlin,Wilhelmstr. / Franz-Klühs-Str.,Aufzug,,unbekannt,
@@ -45,6 +50,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 1968,DE,2021-04-24,14:00:00,52064,Aachen,Eurogress Monheimsallee 48,Kundgebung,,Querdenken 241,
 2454,DE,2021-04-24,15:00:00,50678,Köln,Rudolfplatz,Demonstration,,Koeln-ist-aktiv,https://koelnistaktiv.de
 2545,DE,2021-04-24,15:00:00,50678,Köln,Rudolfplatz,Demonstration,,Koeln-ist-aktiv,https://koelnistaktiv.de
+2658,DE,2021-04-24,15:30:00,29525,Uelzen,Herzogenplatz,Kundgebung,,unbekannt,
 2543,DE,2021-04-24,15:30:00,29525,Uelzen,Herzogenplatz,Kundgebung,,unbekannt,
 2657,DE,2021-04-24,15:30:00,39104,Magdeburg,Domplatz,Kundgebung,,unbekannt,
 2655,DE,2021-04-24,15:30:00,21073,Hamburg-Harburg,Museumsplatz 1 / am Brunnen,Meditation,,unbekannt,
