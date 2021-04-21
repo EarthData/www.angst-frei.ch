@@ -124,6 +124,7 @@ subtitle:
   aerzteblatt: h1
   corona-blog: last2-
   corona-transition: last
+  globalresearch: last-
   harald-walach: last-
   Handelsblatt: ignore
   insideparadeplatz: last-
@@ -164,6 +165,7 @@ country:
   corona-blog: DE
   corona-transition: CH
   fassadenkratzer: DE
+  globalresearch: World
   journalistenwatch: DE
   rt: DE
   rubikon: DE
