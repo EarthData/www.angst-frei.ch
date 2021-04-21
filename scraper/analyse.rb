@@ -13,7 +13,7 @@ counter = 1
 
 config = YAML.load_file("config.yml")
 
-files = Dir.glob("../_posts/*-aerzteblatt_*.md")
+files = Dir.glob("../_posts/*-journalistenwatch_*.md")
 #files = Dir.glob("../_posts/2020-0*.md")
 #files = Dir.glob("../_posts/2020-10-05*.md")
 
