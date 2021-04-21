@@ -189,6 +189,11 @@ class Scraper
       puts "Change title to: #{subtitle} cause of h2" if debug
     end
 
+    if config['subtitle'][domain] && config['subtitle'][domain] == 'h1'
+      subtitle = doc.xpath("/html/body//h1").first.text.strip.chomp
+      puts "Change title to: #{subtitle} cause of h1" if debug
+    end
+
     if config['subtitle'][domain] && config['subtitle'][domain] == 'last'
       subtitle.gsub!(/[\s]+[|][\s]+.*$/, "")
       puts "Change title to: #{subtitle} cause of last" if debug
