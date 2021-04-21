@@ -3,6 +3,7 @@ article:
   aerztezeitung: last
   admin: last
   ardmediathek: pprevious
+  bag: last
   berliner-zeitung: lastdot
   bernerzeitung: last
   br: lastcomma
@@ -41,6 +42,7 @@ sitename:
   admin: Bundesrat
   aerztezeitung: AerzteZeitung
   ardmediathek: ARD
+  bag: BAG
   baernerbaer: Bärnerbär
   berthub: berthub
   deutsche-apotheker-zeitung: Deutsche Apotheker Zeitung
@@ -88,6 +90,7 @@ tag:
   achgut: achgut
   admin: bundesrat
   aerzteblatt: ärzteblatt
+  bag: bundesrat
   bernerzeitung: bernerzeitung
   corona-blog: corona-blog
   deutsche-apotheker-zeitung: daz
@@ -134,6 +137,7 @@ subtitle:
   nzz: last
   The New York Times: ignore
   pharmazeutische-zeitung: last
+  peds-ansichten: last
   pubmed: last-
   reitschuster: last-
   schweizermonat: last–
@@ -148,6 +152,7 @@ subtitle:
   zeitpunkt: h2
 uri:
   fassadenkratzer.wordpress.com: first
+  www.bag.admin.ch: second
   pubmed.ncbi.nlm.nih.gov: first
   www.ema.europa.eu: second
   www.i-med.ac.at: second

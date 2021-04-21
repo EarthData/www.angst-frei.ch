@@ -13,7 +13,7 @@ counter = 1
 
 config = YAML.load_file("config.yml")
 
-files = Dir.glob("../_posts/*-journalistenwatch_*.md")
+files = Dir.glob("../_posts/*-zdf_*.md")
 #files = Dir.glob("../_posts/2020-0*.md")
 #files = Dir.glob("../_posts/2020-10-05*.md")
 
@@ -105,7 +105,7 @@ files.each do |filename|
       puts "change filename: mv ../_posts/#{meta_data[parameter]}.md ../_posts/#{site_data[parameter]}.md"
       new_file[parameter] = site_data[parameter]
     elsif meta_data[parameter].to_s != site_data[parameter].to_s
-      puts "#{parameter}: changing :#{meta_data[parameter]}: to :#{site_data[parameter]}:"
+      #puts "#{parameter}: changing :#{meta_data[parameter]}: to :#{site_data[parameter]}:"
       new_file[parameter] = site_data[parameter]
     else
       new_file[parameter] = site_data[parameter]
