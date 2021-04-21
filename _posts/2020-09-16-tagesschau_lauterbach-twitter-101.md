@@ -2,7 +2,8 @@
 date:          2020-09-16
 redirect:      https://www.tagesschau.de/faktenfinder/lauterbach-twitter-101.html
 title:         tagesschau.de
-subtitle:      "Aufklärung oder Panikmache?"
+subtitle:      'Karl Lauterbach auf Twitter: Aufklärung oder Panikmache?'
+country:       DE
 categories:    [MSM, Manipulation]
 tags:          [tagesschau.de, lauterbach]
 ---
