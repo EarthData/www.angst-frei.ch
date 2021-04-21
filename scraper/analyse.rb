@@ -13,9 +13,9 @@ counter = 1
 
 config = YAML.load_file("config.yml")
 
-files = Dir.glob("../_posts/*-nordkurier_*.md")
-#files = Dir.glob("../_posts/2021-02*.md")
-#files = Dir.glob("../_posts/2020-10-05*.md")
+files = Dir.glob("../_posts/*-corona-transition_*.md")
+#files = Dir.glob("../_posts/2021-03-*.md")
+files = Dir.glob("../_posts/*.md")
 
 parameters = ['date', 'redirect', 'title', 'subtitle', 'timeline', 'country', 'persons', 'categories', 'tags', 'filename']
 
@@ -51,9 +51,9 @@ files.each do |filename|
     next
   end
 
-  if meta_data['title'].match?(/reitschuster|Wochenblick|Tagesanzeiger|linth24|Die Ostschweiz|ScienceFiles|FM1 Today/)
-    next
-  end
+#  if meta_data['title'].match?(/reitschuster|Wochenblick|Tagesanzeiger|linth24|Die Ostschweiz|ScienceFiles|FM1 Today/)
+#    next
+#  end
 
   # temporary remove NZZ
   if meta_data['title'].match?(/NZZ|swr/)
