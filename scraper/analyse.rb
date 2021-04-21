@@ -13,8 +13,8 @@ counter = 1
 
 config = YAML.load_file("config.yml")
 
-files = Dir.glob("../_posts/*-vera-lengsfeld_*.md")
-#files = Dir.glob("../_posts/2020-10*.md")
+files = Dir.glob("../_posts/*-srf_*.md")
+#files = Dir.glob("../_posts/2020-11*.md")
 #files = Dir.glob("../_posts/2020-10-05*.md")
 
 parameters = ['date', 'redirect', 'title', 'subtitle', 'timeline', 'country', 'persons', 'categories', 'tags', 'filename']
@@ -56,7 +56,7 @@ files.each do |filename|
   end
 
   # temporary remove NZZ
-  if meta_data['title'].match?(/NZZ/)
+  if meta_data['title'].match?(/NZZ|swr/)
     next
   end
 
