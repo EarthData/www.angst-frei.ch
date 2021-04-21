@@ -2,7 +2,7 @@
 layout:     post
 title:      Youtube
 subtitle:   "John Ioannidis - Modelling by the Imperial College"
-date:       2020-10-21
+date:       2020-10-25
 timeline:   Wissenschaft
 persons:    [Ioannidis John P.]
 categories: [Video, Wissenschaft]

@@ -4,5 +4,5 @@ redirect:      https://www.insidecorona.ch/2020/10/29/endlich-werden-die-richtig
 title:         InsideCorona
 subtitle:      "Endlich werden die richtigen Fragen gestellt!"
 categories:    [Widerstand]
-tags:          [insidecorona, massnahmen]
+tags:          [inside corona, massnahmen]
 ---

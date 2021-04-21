@@ -5,5 +5,5 @@ title:      telegra.ph
 subtitle:   "Masken als Todesursache"
 timeline:   Medizin
 categories: [Wissenschaft]
-tags:       [telegra.ph, schiffmann, maske]
+tags:       [telegraph, schiffmann, maske]
 ---

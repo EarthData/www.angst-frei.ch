@@ -5,6 +5,7 @@ article:
   ardmediathek: pprevious
   berliner-zeitung: lastdot
   bernerzeitung: last
+  br: lastcomma
   comm4u: page
   deutschlandfunk: page
   derstandard: previous
@@ -40,6 +41,8 @@ sitename:
   admin: Bundesrat
   aerztezeitung: AerzteZeitung
   ardmediathek: ARD
+  baernerbaer: Bärnerbär
+  berthub: berthub
   deutsche-apotheker-zeitung: Deutsche Apotheker Zeitung
   derstandard: Der Standard
   dieostschweiz: Die Ostschweiz
@@ -118,7 +121,7 @@ subtitle:
   corona-blog: last2-
   corona-transition: last
   harald-walach: last-
-  handelsblatt: ignore
+  Handelsblatt: ignore
   insideparadeplatz: last-
   infekt: last-
   infosperber: last-
@@ -146,6 +149,7 @@ uri:
   fassadenkratzer.wordpress.com: first
   pubmed.ncbi.nlm.nih.gov: first
   www.ema.europa.eu: second
+  www.i-med.ac.at: second
 cleanurl:
   nachdenkseiten: false
   deutschlandfunk: false
@@ -157,4 +161,5 @@ country:
   rt: DE
   rubikon: DE
   sciencefiles: DE
+  telegra: EU
   unser-mitteleuropa: EU

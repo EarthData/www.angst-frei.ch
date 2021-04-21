@@ -4,7 +4,7 @@ redirect:      https://cormandrostenreview.com/report/
 title:         Corman-Drosten
 subtitle:      "External peer review of the RTPCR test to detect SARS-CoV-2 reveals 10 major scientific flaws at the molecular and methodological level: consequences for false positive results."
 timeline:      Wissenschaft
-persons:       Drosten Christian
+persons:       [Drosten Christian]
 categories:    [Wissenschaft]
-tags:          [pcr-test]
+tags:          [cormandrostenreview, pcr-test]
 ---

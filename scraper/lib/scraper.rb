@@ -67,6 +67,8 @@ class Scraper
       document = clean_url.split('/').last.split("=")[1]
     end
 
+    document.downcase!
+
     puts "filename: #{document}" if debug
 
     html = URI.open(url, "Accept-Encoding" => "plain") 
