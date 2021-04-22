@@ -48,6 +48,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2701,DE,2021-04-24,15:30:00,85049,Ingolstadt,Theatervorplatz,Kundgebung,,unbekannt,
 2655,DE,2021-04-24,15:30:00,21073,Hamburg-Harburg,Museumsplatz 1 / am Brunnen,Meditation,,unbekannt,
 2456,DE,2021-04-24,17:00:00,50678,Köln,Rudolfplatz,Spaziergang,,Koeln-ist-aktiv,https://koelnistaktiv.de
+2710,DE,2021-04-24,17:00:00,96052,Bamberg,Maxplatz,Kundgebung,,unbekannt,
 2548,DE,2021-04-25,10:45:00,75015,Bretten,Marktplatz,Meditation,,unbekannt,
 2683,DE,2021-04-25,14:00:00,42277,Wuppertal,Berliner platz,Aufstand,,,
 2416,DE,2021-04-25,14:00:00,63454,Hanau/Kesselstadt,Mainwiese / Schloss Philippsruhe,Spaziergang,,Hanau steht auf,https://www.hanau-steht-auf.de
@@ -67,6 +68,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2700,DE,2021-04-26,18:00:00,92421,Schwandorf,Oberer Marktplatz,Kundgebung,,unbekannt,
 2705,DE,2021-04-26,18:00:00,49074,Osnabrück,Rathaus,Demonstration,,unbekannt,
 1904,DE,2021-04-26,18:00:00,63225,Langen,Bahnstrasse / Goethestrasse,Mahnwache,,,
+2708,DE,2021-04-26,18:00:00,78462,Konstanz,Marktstätte,Mahnwache,,unbekannt,
 2559,DE,2021-04-26,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,Privat,https://t.me/LichterspaziergangGT
 2671,DE,2021-04-26,18:00:00,06844,Dessau-Roßlau,Rathaus / Friedensglocke,Spaziergang,,Privat,https://t.me/MontagsMahnwache
 2706,DE,2021-04-26,18:00:00,02625,Bautzen,Kornmarkt,Mahnwache,https://www.youtube.com/user/EuroMinusSkeptikerDe/live,EuroSkeptiker,https://www.youtube.com/user/EuroMinusSkeptikerDe
@@ -79,6 +81,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2682,DE,2021-04-26,19:00:00,71,Ludwigsburg,Marktplatz,Spaziergang,,,
 2690,DE,2021-04-26,19:00:00,89150,Laichingen,Marktplatz,Kundgebung,,Team Freiheit,
 2190,DE,2021-04-26,19:00:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,unbekannt,
+2707,DE,2021-04-27,17:00:00,14467,Potsdam,Schiffbauergasse,Autokorso,,Auto Korso Potsdam,
 2585,CH,2021-04-28,14:00:00,4410,Liestal,Bahnhof,Spaziergang,,unknown,
 2598,CH,2021-04-28,18:00:00,2542,Pieterlen,Bahnhof,Spaziergang,,unknown,
 2174,DE,2021-04-28,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
@@ -86,6 +89,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2179,DE,2021-04-29,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2610,CH,2021-04-29,19:00:00,9000,St. Gallen,Blumenmarkt,Spaziergang,,unknown,
 2616,CH,2021-04-29,19:00:00,6170,Schüpfheim,Bahnhof,Spaziergang,,unknown,
+2709,DE,2021-04-29,19:30:00,78467,Konstanz,Berchenplatz,Sport,,unbekannt,
 2604,CH,2021-04-29,20:00:00,8750,Glarus,Rathausplatz,Spaziergang,,unknown,
 2695,DE,2021-04-30,15:30:00,22941,Bargteheide,Am Markt / Schulzentrum,Mahnwache,,Freitag für Freiheit Freude  Frieden,
 2295,DE,2021-04-30,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,grundrechte.jetzt,https://grundrechte.jetzt
