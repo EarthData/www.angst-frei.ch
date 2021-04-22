@@ -23,7 +23,7 @@ permalink: /json/event-data.json
  
     {% capture title %}{{event.stadt}}, {{event.treffpunkt}}, {{event.protestform}}{% endcapture %}
 
-    { "color":"{{color}}", "title":"{{title}}", "start": "{{event.datum}}T{{event.uhrzeit}}", "allDay":false, "country":"{{event.land}}", "stream":"{{event.livestream}}", "url":"{{url}}" }
+    { "id":"{{event.id}}", "color":"{{color}}", "title":"{{title}}", "start": "{{event.datum}}T{{event.uhrzeit}}", "allDay":false, "country":"{{event.land}}", "stream":"{{event.livestream}}", "url":"{{url}}" }
     {%unless forloop.last %},{%endunless%}
   {% endfor %}
 ]
