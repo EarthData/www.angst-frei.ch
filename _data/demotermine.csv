@@ -34,6 +34,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 1968,DE,2021-04-24,14:00:00,52064,Aachen,Eurogress Monheimsallee 48,Kundgebung,,Querdenken 241,
 2704,DE,2021-04-24,14:09:00,56068,Koblenz,Jesuitenplatz,Mahnwache,,unbekannt,
 2684,DE,2021-04-24,15:00:00,83022,Rosenheim,Max Josefs Platz,Kundgebung,,unbekannt,
+2726,DE,2021-04-24,15:00:00,90402,Nürnberg,Jakobsplatz,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 2454,DE,2021-04-24,15:00:00,50678,Köln,Rudolfplatz,Demonstration,,Koeln-ist-aktiv,https://koelnistaktiv.de
 2545,DE,2021-04-24,15:00:00,50678,Köln,Rudolfplatz,Demonstration,,Koeln-ist-aktiv,https://koelnistaktiv.de
 2719,DE,2021-04-24,15:00:00,06108,Halle,Markt / Ostseite,Kundgebung,https://www.twitch.tv/svenliebich,Sven Liebich,https://t.me/InSvensWelt
@@ -44,6 +45,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2658,DE,2021-04-24,15:30:00,29525,Uelzen,Herzogenplatz,Kundgebung,,unbekannt,
 2543,DE,2021-04-24,15:30:00,29525,Uelzen,Herzogenplatz,Kundgebung,,unbekannt,
 2657,DE,2021-04-24,15:30:00,39104,Magdeburg,Domplatz,Kundgebung,,unbekannt,
+2727,DE,2021-04-24,15:30:00,87600,Kaufbeuren,Obstmarkt / Fußgängerzone,Kundgebung,,unbekannt,
 2701,DE,2021-04-24,15:30:00,85049,Ingolstadt,Theatervorplatz,Kundgebung,,unbekannt,
 2655,DE,2021-04-24,15:30:00,21073,Hamburg-Harburg,Museumsplatz 1 / am Brunnen,Meditation,,unbekannt,
 2456,DE,2021-04-24,17:00:00,50678,Köln,Rudolfplatz,Spaziergang,,Koeln-ist-aktiv,https://koelnistaktiv.de
@@ -79,6 +81,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2563,CH,2021-04-26,19:00:00,6004,Luzern,Schwanenplatz,Spaziergang,,unbekannt,
 2682,DE,2021-04-26,19:00:00,71,Ludwigsburg,Marktplatz,Spaziergang,,,
 2690,DE,2021-04-26,19:00:00,89150,Laichingen,Marktplatz,Kundgebung,,Team Freiheit,
+2728,DE,2021-04-26,19:00:00,87600,Kaufbeuren,Tänzelfestplatz,Kundgebung,,unbekannt,
 2190,DE,2021-04-26,19:00:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,unbekannt,
 2720,DE,2021-04-26,22:00:00,06108,Halle,Markt / Ostseite,Kundgebung,https://www.twitch.tv/svenliebich,Sven Liebich,https://t.me/InSvensWelt
 2707,DE,2021-04-27,17:00:00,14467,Potsdam,Schiffbauergasse,Autokorso,,Auto Korso Potsdam,
