@@ -16,6 +16,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2621,CH,2021-04-23,19:00:00,7320,Sargans,Bahnhof,Spaziergang,,unknown,
 2383,DE,2021-04-23,19:00:00,26506,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,,unbekannt,
 2627,CH,2021-04-23,19:00:00,2503,Biel-Bienne,Bahnhof,Spaziergang,,unknown,
+2718,DE,2021-04-23,21:30:00,06107,Halle,Markt / Ostseite,Kundgebung,https://www.twitch.tv/svenliebich,Sandra Gabriel,https://t.me/SandraGabriel269
 2698,DE,2021-04-24,09:00:00,22941,Ahrensburg,Rathaus / Vorplatz,Kundgebung,,unbekannt,
 2501,DE,2021-04-24,10:00:00,10557,Berlin,Straße des 17. Juni,Kundgebung,,Demokratischer Widerstand. Querdenken 30,
 2678,DE,2021-04-24,10:30:00,79271,St. Peter,Zähringer Eck / Rossweiher,Versammlung,,Schwarzwald Netzwerk,https://schwarzwald-netzwerk.de/
@@ -25,6 +26,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2659,DE,2021-04-24,13:30:00,03172,Guben,Flemmingplatz,Autokorso,,unbekannt,https://t.me/djhotte/360
 2686,AT,2021-04-24,14:00:00,1010,Wien,Graben Pestsäule,Versammlung,,unbekannt,
 2653,DE,2021-04-24,14:00:00,54294,Trier,Viehmarkt,Spaziergang,https://de-de.facebook.com/team.freiheit.trier,Team Freiheit Trier,https://t.me/teamfreiheittrier
+2725,DE,2021-04-24,14:00:00,64385,Reichelsheim,B38 / Aldi / Ortseingang,Versammlung,,unbekannt,
 2497,DE,2021-04-24,14:00:00,26122,Oldenburg,Schloßplatz,Aufzug,https://dlive.tv/QD421,Querdenken441,https://querdenken441.de
 2692,DE,2021-04-24,14:00:00,96215,Lichtenfels / Oberfranken,Schützenplatz,Kundgebung,,unbekannt,
 2549,DE,2021-04-24,14:00:00,10969,Berlin,Wilhelmstr. / Franz-Klühs-Str.,Aufzug,,unbekannt,
@@ -34,6 +36,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2684,DE,2021-04-24,15:00:00,83022,Rosenheim,Max Josefs Platz,Kundgebung,,unbekannt,
 2454,DE,2021-04-24,15:00:00,50678,Köln,Rudolfplatz,Demonstration,,Koeln-ist-aktiv,https://koelnistaktiv.de
 2545,DE,2021-04-24,15:00:00,50678,Köln,Rudolfplatz,Demonstration,,Koeln-ist-aktiv,https://koelnistaktiv.de
+2719,DE,2021-04-24,15:00:00,06108,Halle,Markt / Ostseite,Kundgebung,https://www.twitch.tv/svenliebich,Sven Liebich,https://t.me/InSvensWelt
 2714,DE,2021-04-24,15:00:00,06844,Dessau,Hauptbahnhof / Westausgang,Demonstration,,Aktionsgruppe Dessau/Bitterfeld,
 2689,DE,2021-04-24,15:00:00,91522,Ansbach,Parkplatz Onoldiasaal Hofwiese,Autokorso,,Autokorso Ansbach,
 2697,DE,2021-04-24,15:00:00,91522,Ansbach,Parkplatz Onoldiasaal Hofwiese,Autokorso,,Autokorso Ansbach,
@@ -77,22 +80,27 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2682,DE,2021-04-26,19:00:00,71,Ludwigsburg,Marktplatz,Spaziergang,,,
 2690,DE,2021-04-26,19:00:00,89150,Laichingen,Marktplatz,Kundgebung,,Team Freiheit,
 2190,DE,2021-04-26,19:00:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,unbekannt,
+2720,DE,2021-04-26,22:00:00,06108,Halle,Markt / Ostseite,Kundgebung,https://www.twitch.tv/svenliebich,Sven Liebich,https://t.me/InSvensWelt
 2707,DE,2021-04-27,17:00:00,14467,Potsdam,Schiffbauergasse,Autokorso,,Auto Korso Potsdam,
+2721,DE,2021-04-27,22:00:00,06108,Halle,Markt / Ostseite,Kundgebung,https://www.twitch.tv/svenliebich,Sven Liebich,https://t.me/InSvensWelt
 2585,CH,2021-04-28,14:00:00,4410,Liestal,Bahnhof,Spaziergang,,unknown,
 2598,CH,2021-04-28,18:00:00,2542,Pieterlen,Bahnhof,Spaziergang,,unknown,
 2174,DE,2021-04-28,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2591,CH,2021-04-28,18:30:00,9470,Buchs / SG,Lokremise,Spaziergang,,unknown,
+2722,DE,2021-04-28,22:00:00,06108,Halle,Markt / Ostseite,Kundgebung,https://www.twitch.tv/svenliebich,Sven Liebich,https://t.me/InSvensWelt
 2179,DE,2021-04-29,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2610,CH,2021-04-29,19:00:00,9000,St. Gallen,Blumenmarkt,Spaziergang,,unknown,
 2616,CH,2021-04-29,19:00:00,6170,Schüpfheim,Bahnhof,Spaziergang,,unknown,
 2709,DE,2021-04-29,19:30:00,78467,Konstanz,Berchenplatz,Sport,,unbekannt,
 2604,CH,2021-04-29,20:00:00,8750,Glarus,Rathausplatz,Spaziergang,,unknown,
+2723,DE,2021-04-29,22:00:00,06108,Halle,Markt / Ostseite,Kundgebung,https://www.twitch.tv/svenliebich,Sven Liebich,https://t.me/InSvensWelt
 2695,DE,2021-04-30,15:30:00,22941,Bargteheide,Am Markt / Schulzentrum,Mahnwache,,Freitag für Freiheit Freude  Frieden,
 2295,DE,2021-04-30,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,grundrechte.jetzt,https://grundrechte.jetzt
 2634,CH,2021-04-30,18:00:00,3186,Düdingen,Bahnhof,Spaziergang,,unknown,
 2622,CH,2021-04-30,19:00:00,7320,Sargans,Bahnhof,Spaziergang,,unknown,
 2384,DE,2021-04-30,19:00:00,26506,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,,unbekannt,
 2628,CH,2021-04-30,19:00:00,2503,Biel-Bienne,Bahnhof,Spaziergang,,unknown,
+2724,DE,2021-04-30,22:00:00,06108,Halle,Markt / Ostseite,Kundgebung,https://www.twitch.tv/svenliebich,Sven Liebich,https://t.me/InSvensWelt
 2570,CH,2021-05-01,13:30:00,6900,Lugano,Parco Tassino,Kundgebung,,Cittadini pacifici e comuni come te,
 2451,DE,2021-05-01,14:00:00,02763,Zittau,Markt,Kundgebung,,Freunde von PEGIDA,https://t.me/freundevonpegida
 2027,DE,2021-05-01,14:00:00,80336,München,Theresienwiese,Kundgebung,,Markus Haintz,https://t.me/Haintz
