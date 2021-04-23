@@ -21,6 +21,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2698,DE,2021-04-24,09:00:00,22941,Ahrensburg,Rathaus / Vorplatz,Kundgebung,,unbekannt,
 2501,DE,2021-04-24,10:00:00,10557,Berlin,Straße des 17. Juni,Kundgebung,,Demokratischer Widerstand. Querdenken 30,
 2678,DE,2021-04-24,10:30:00,79271,St. Peter,Zähringer Eck / Rossweiher,Versammlung,,Schwarzwald Netzwerk,https://schwarzwald-netzwerk.de/
+2745,DE,2021-04-24,11:00:00,11011,Berlin,Platz der Republik - Reichstag,Zusammenkunft,https://youtube.com/user/cheeta030/live,StaatenDoof,https://youtube.com/user/cheeta030
 2703,DE,2021-04-24,12:00:00,78532,Tuttlingen,Marktplatz / beim Brunnen,Kundgebung,,Friede u. Freiheit! Demokratie JETZT!,https://t.me/friede_und_freiheit/5719
 2561,CH,2021-04-24,13:00:00,8640,Rapperswil,Fischmarktplatz,Kundgebung,,unbekannt,
 2702,DE,2021-04-24,13:00:00,45711,Datteln,Rathaus,Kundgebung,,unbekannt,
@@ -130,6 +131,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2599,CH,2021-05-05,18:00:00,2542,Pieterlen,Bahnhof,Spaziergang,,unknown,
 2737,DE,2021-05-05,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
 2592,CH,2021-05-05,18:30:00,9470,Buchs / SG,Lokremise,Spaziergang,,unknown,
+2741,DE,2021-05-06,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2611,CH,2021-05-06,19:00:00,9000,St. Gallen,Blumenmarkt,Spaziergang,,unknown,
 2617,CH,2021-05-06,19:00:00,6170,Schüpfheim,Bahnhof,Spaziergang,,unknown,
 2605,CH,2021-05-06,20:00:00,8750,Glarus,Rathausplatz,Spaziergang,,unknown,
@@ -155,6 +157,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2738,DE,2021-05-12,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
 2593,CH,2021-05-12,18:30:00,9470,Buchs / SG,Lokremise,Spaziergang,,unknown,
 2453,DE,2021-05-13,15:00:00,84503,Altötting,Volksfestplatz,Versammlung,,Bayern steht zusammen e.V.,https://www.bayern-steht-zusammen.de/TERMINE/
+2742,DE,2021-05-13,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2612,CH,2021-05-13,19:00:00,9000,St. Gallen,Blumenmarkt,Spaziergang,,unknown,
 2618,CH,2021-05-13,19:00:00,6170,Schüpfheim,Bahnhof,Spaziergang,,unknown,
 2606,CH,2021-05-13,20:00:00,8750,Glarus,Rathausplatz,Spaziergang,,unknown,
@@ -174,6 +177,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2601,CH,2021-05-19,18:00:00,2542,Pieterlen,Bahnhof,Spaziergang,,unknown,
 2739,DE,2021-05-19,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
 2595,CH,2021-05-19,18:30:00,9470,Buchs / SG,Lokremise,Spaziergang,,unknown,
+2743,DE,2021-05-20,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2613,CH,2021-05-20,19:00:00,9000,St. Gallen,Blumenmarkt,Spaziergang,,unknown,
 2619,CH,2021-05-20,19:00:00,6170,Schüpfheim,Bahnhof,Spaziergang,,unknown,
 2607,CH,2021-05-20,20:00:00,8750,Glarus,Rathausplatz,Spaziergang,,unknown,
@@ -190,6 +194,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2602,CH,2021-05-26,18:00:00,2542,Pieterlen,Bahnhof,Spaziergang,,unknown,
 2740,DE,2021-05-26,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
 2596,CH,2021-05-26,18:30:00,9470,Buchs / SG,Lokremise,Spaziergang,,unknown,
+2744,DE,2021-05-27,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2614,CH,2021-05-27,19:00:00,9000,St. Gallen,Blumenmarkt,Spaziergang,,unknown,
 2620,CH,2021-05-27,19:00:00,6170,Schüpfheim,Bahnhof,Spaziergang,,unknown,
 2608,CH,2021-05-27,20:00:00,8750,Glarus,Rathausplatz,Spaziergang,,unknown,
