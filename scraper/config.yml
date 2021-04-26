@@ -72,6 +72,7 @@ sitename:
   rubikon: Rubikon
   srf: SRF
   substack: substack.com
+  suedostschweiz: südostschweiz
   swissmedic: Swissmedic
   swr: SWR
   tagesanzeiger: Tagesanzeiger
@@ -143,10 +144,11 @@ subtitle:
   pubmed: last-
   reitschuster: last-
   schweizermonat: last–
+  svp: last-
   tagblatt: last
   tkp: last-
   uncutnews: last
-  unser-mitteleuropa: last
+  Unser Mitteleuropa: ignore
   unzensuriert: last-
   verfassungsfreunde: last
   welt: last-

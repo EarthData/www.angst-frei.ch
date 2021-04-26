@@ -70,6 +70,20 @@ Ein lebensgefährlicher Virus scheint seit Mai 2009 die Menschheit zu bedrohen. 
 
 Der Dokfilm zur Coronakrise von Reto Brennwald.
 
+{% include vimeoPlayer.html id="471959768" %}
+
 | {{ site.icons.globe }}    | [www.unerhoert-der-film.ch](https://www.unerhoert-der-film.ch/) |
 | {{ site.icons.movie }}    | [Unerhört!](https://vimeo.com/471959768) |
 
+## SRF: Geschäft mit Schweinegrippe
+
+04.07.2010
+{:class="date-meta"}
+
+<div class="video-container">
+  <iframe src="https://srf.ch/play/embed?urn=urn:srf:video:69300495-2647-478c-827c-6edd9cf1c77d&subdivisions=false"
+    frameborder="0"
+    allow="geolocation *; autoplay; encrypted-media"
+    allowfullscreen>
+  </iframe>
+</div>

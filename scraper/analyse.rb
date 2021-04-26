@@ -13,9 +13,9 @@ counter = 1
 
 config = YAML.load_file("config.yml")
 
-files = Dir.glob("../_posts/*-corona-transition_*.md")
+files = Dir.glob("../_posts/*-unser-mitteleuropa_*.md")
 #files = Dir.glob("../_posts/2021-03-*.md")
-files = Dir.glob("../_posts/*.md")
+#files = Dir.glob("../_posts/*.md")
 
 parameters = ['date', 'redirect', 'title', 'subtitle', 'timeline', 'country', 'persons', 'categories', 'tags', 'filename']
 
