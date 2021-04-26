@@ -1,5 +1,5 @@
 ---
-date:          2021-04-20
+date:          2021-04-26
 redirect:      https://www.ema.europa.eu/en/medicines/human/EPAR/vaxzevria-previously-covid-19-vaccine-astrazeneca
 title:         European Medicines Agency
 subtitle:      'Vaxzevria (previously COVID-19 Vaccine AstraZeneca) - European Medicines Agency'

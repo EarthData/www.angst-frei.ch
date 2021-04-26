@@ -170,6 +170,9 @@ class Scraper
     elsif doc.at("meta[property='og:title']") and subtitle == ""
       subtitle = doc.at("meta[property='og:title']")['content'].to_s.strip
       puts "Title: :#{subtitle}: (meta og:title)" if debug
+    elsif ld_meta and ld_meta['headline'] and subtitle == ""
+      subtitle = ld_meta['headline']
+      puts "Title: :#{subtitle}: (ld_meta headline)" if debug
     elsif doc.at("/html/head//title") and subtitle == ""
       subtitle = doc.xpath("/html/head/title").first.text.strip.chomp
       puts "Title: :#{subtitle}: (head title)" if debug
