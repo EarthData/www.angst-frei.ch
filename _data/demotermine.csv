@@ -40,13 +40,17 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2690,DE,2021-04-26,19:00:00,89150,Laichingen,Marktplatz,Kundgebung,,Team Freiheit,
 2786,DE,2021-04-26,19:00:00,47800,Krefeld,Hauptbahnhof / Vordereingang,Kundgebung,,unbekannt,
 2728,DE,2021-04-26,19:00:00,87600,Kaufbeuren,Tänzelfestplatz,Kundgebung,,unbekannt,
+2806,DE,2021-04-26,19:00:00,06108,Halle,Markt / Westseite,Kundgebung,,Bewegung Halle,http://www.bewegunghalle.de/
 2764,DE,2021-04-26,19:00:00,46537,Dinslaken,Rathaus,Spaziergang,,unbekannt,
 2776,DE,2021-04-26,19:00:00,08359,Breitenbrunn,Rathaus,Spaziergang,,Bürger,
 2190,DE,2021-04-26,19:00:00,99510,Apolda,Bahnhofstr. / Stadtzentrum,Spaziergang,,unbekannt,
+2807,DE,2021-04-26,19:00:00,52064,Aachen,Marktplatz,Spaziergang,,Euregio steht auf,
 2720,DE,2021-04-26,22:00:00,06108,Halle,Markt / Ostseite,Kundgebung,https://www.twitch.tv/svenliebich,Sven Liebich,https://t.me/InSvensWelt
 2707,DE,2021-04-27,17:00:00,14467,Potsdam,Schiffbauergasse,Autokorso,,Auto Korso Potsdam,
+2797,DE,2021-04-27,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 2785,DE,2021-04-27,18:00:00,74906,Bad Rappenau,Kirchplatz am Rathaus,Kundgebung,,unbekannt,
 2721,DE,2021-04-27,22:00:00,06108,Halle,Markt / Ostseite,Kundgebung,https://www.twitch.tv/svenliebich,Sven Liebich,https://t.me/InSvensWelt
+2798,DE,2021-04-28,13:00:00,10785,Berlin,Potsdamer Pl. / Ebertstr.,Mahnwache,,Künstler*innen retten Kunst und Kultur,
 2585,CH,2021-04-28,14:00:00,4410,Liestal,Bahnhof,Spaziergang,,unknown,
 2752,DE,2021-04-28,16:00:00,70184,Stuttgart,Dobelstr. / Hohenheimer Str,Schilderwald,,Privat,
 2761,DE,2021-04-28,18:00:00,78549,Spaichingen,Marktplatz,Kundgebung,,unbekannt,
@@ -56,6 +60,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2722,DE,2021-04-28,22:00:00,06108,Halle,Markt / Ostseite,Kundgebung,https://www.twitch.tv/svenliebich,Sven Liebich,https://t.me/InSvensWelt
 2763,DE,2021-04-29,16:00:00,18055,Rostock,Neuer Markt,Demonstration,,unbekannt,
 2753,DE,2021-04-29,17:00:00,06295,Lutherstadt Eisleben,Markt / Denkmal,Kundgebung,,unbekannt,
+2800,DE,2021-04-29,18:00:00,93413,Cham,Am Floßhafen / Eingang Frey,Kundgebung,,unbekannt,
 2179,DE,2021-04-29,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2610,CH,2021-04-29,19:00:00,9000,St. Gallen,Blumenmarkt,Spaziergang,,unknown,
 2616,CH,2021-04-29,19:00:00,6170,Schüpfheim,Bahnhof,Spaziergang,,unknown,
@@ -63,6 +68,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2604,CH,2021-04-29,20:00:00,8750,Glarus,Rathausplatz,Spaziergang,,unknown,
 2723,DE,2021-04-29,22:00:00,06108,Halle,Markt / Ostseite,Kundgebung,https://www.twitch.tv/svenliebich,Sven Liebich,https://t.me/InSvensWelt
 2695,DE,2021-04-30,15:30:00,22941,Bargteheide,Am Markt / Schulzentrum,Mahnwache,,Freitag für Freiheit Freude  Frieden,
+2794,DE,2021-04-30,16:45:00,78713,Schramberg,Parkplatz am Schloss im Tal,Menschenkette,,Friede und Freiheit,https://t.me/friede_und_freiheit
 2295,DE,2021-04-30,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,grundrechte.jetzt,https://grundrechte.jetzt
 2634,CH,2021-04-30,18:00:00,3186,Düdingen,Bahnhof,Spaziergang,,unknown,
 2622,CH,2021-04-30,19:00:00,7320,Sargans,Bahnhof,Spaziergang,,unknown,
@@ -74,10 +80,13 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2451,DE,2021-05-01,14:00:00,02763,Zittau,Markt,Kundgebung,,Freunde von PEGIDA,https://t.me/freundevonpegida
 2027,DE,2021-05-01,14:00:00,80336,München,Theresienwiese,Kundgebung,,Markus Haintz,https://t.me/Haintz
 2771,DE,2021-05-01,15:00:00,40213,Düsseldorf,Corneliusplatz,Spaziergang,,unbekannt,
+2805,DE,2021-05-01,15:30:00,295252,Uelzen,Herzogenplatz,Kundgebung,,unbekannt,
 2673,DE,2021-05-01,17:00:00,06846,Dessau-Roßlau,Alte Landebahn,Autokorso,,Privat,https://t.me/autokorso_dessau
 2733,DE,2021-05-01,17:00:00,06846,Dessau,Alte Landebahn,Autokorso,https://www.twitch.tv/svenliebich,Dessauer Bürger,
 2759,DE,2021-05-01,17:30:00,06846,Dessau,Alte Landebahn,Autokorso,,unbekannt,
 2775,DE,2021-05-01,17:30:00,06842,Dessau,Alte Landebahn,Autokorso,,unbekannt,
+2803,DE,2021-05-01,19:00:00,74357,Bönnigheim,Marktplatz / Stadtmitte,Kundgebung,,unbekannt,
+2796,DE,2021-05-02,10:45:00,75015,Bretten,Marktplatz,Meditation,,unbekannt,
 2372,AT,2021-05-02,14:00:00,6850,Dornbirn,Marktplatz,Kundgebung,,unbekannt,https://corona-demo.at/
 2646,CH,2021-05-02,14:00:00,9450,Altstätten / SG,Reformierte Kirche,Spaziergang,,unknown,
 2394,DE,2021-05-02,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
@@ -85,7 +94,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2579,CH,2021-05-03,18:00:00,8636,Wald / ZH,Hallenbad / Windegg,Spaziergang,,unknown,
 2573,CH,2021-05-03,18:00:00,6362,Stansstad,Hafen,Spaziergang,,unknown,
 2282,DE,2021-05-03,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
+2802,DE,2021-05-03,18:00:00,07973,Greiz,Mark,Demonstration,,unbekannt,
 2672,DE,2021-05-03,18:00:00,06844,Dessau-Roßlau,Rathaus / Friedensglocke,Spaziergang,,Privat,https://t.me/MontagsMahnwache
+2799,DE,2021-05-03,18:30:00,29221,Celle,Stechbahn,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,
 2443,DE,2021-05-03,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,unbekannt,
 2564,CH,2021-05-03,19:00:00,6004,Luzern,Schwanenplatz,Spaziergang,,unbekannt,
 2586,CH,2021-05-05,14:00:00,4410,Liestal,Bahnhof,Spaziergang,,unknown,
@@ -105,6 +116,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2788,CH,2021-05-08,14:00:00,5000,Aargau,Stadtmuseum,Kundgebung,,unbekannt,
 2430,DE,2021-05-08,15:00:00,95183,Hof,Kugelbrunnen,Kundgebung,,Hof Steht Auf,
 2444,DE,2021-05-08,15:00:00,95032,Hof,Kugelbrunnen,Kundgebung,,Hof steht auf,
+2804,DE,2021-05-09,11:30:00,39114,Magdeburg,Tessenowstr. / Parkplatz,Autokorso,,Magdeburger Autokorso,https://t.me/Korso_MD_Doku
+2801,DE,2021-05-09,13:00:00,84028,Landshut,Ringelstecherwiese,Kundgebung,,Bayern steht zusammen e.V.,https://www.bayern-steht-zusammen.de/TERMINE/
 2547,AT,2021-05-09,14:00:00,6900,Bludenz,Riedmillerplatz,Kundgebung,,unbekannt,https://corona-demo.at/
 2647,CH,2021-05-09,14:00:00,9450,Altstätten / SG,Reformierte Kirche,Spaziergang,,unknown,
 2395,DE,2021-05-09,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
