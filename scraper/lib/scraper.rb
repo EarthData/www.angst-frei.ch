@@ -124,6 +124,9 @@ class Scraper
     elsif doc.at("meta[property='article:published_time']")
       published_time = doc.at("meta[property='article:published_time']")['content'].to_s.strip
       puts "Date: #{published_time} (meta article:published_time)" if debug
+    elsif doc.at(".date-created") 
+      published_time = doc.at(".date-created").text.to_s.strip
+      puts "Date: #{published_time} (class:date-created)" if debug
     end
 
     if doc.at("meta[name='last-modified']")
@@ -153,10 +156,13 @@ class Scraper
     end
 
     tags = Array.new
+    domaintag = ""
     if config['tag'][domain]
       tags.push(config['tag'][domain])
+      domaintag = config['tag'][domain]
     else
       tags.push(site_name.downcase)
+      domaintag = site_name.downcase
     end
  
     published_date = DateTime.parse(published_time.strip)
@@ -253,6 +259,7 @@ class Scraper
     site_data['categories'] = []
     site_data['tags'] = tags
     site_data['filename'] = filename
+    site_data['domaintag'] = domaintag
 
     return site_data
 

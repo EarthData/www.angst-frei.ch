@@ -13,7 +13,7 @@ counter = 1
 
 config = YAML.load_file("config.yml")
 
-files = Dir.glob("../_posts/*-meinbezirk_*.md")
+files = Dir.glob("../_posts/*-handelsblatt_*.md")
 #files = Dir.glob("../_posts/2021-03-*.md")
 #files = Dir.glob("../_posts/*.md")
 
@@ -30,6 +30,9 @@ files.each do |filename|
   file_data = file_data.gsub!(/\A---(.|\n)*?---/, '')
   file_data = file_data.gsub(/\n+|\r+/, "\n").squeeze("\n").strip
 
+  if meta_data['tags'].length == 1
+    puts "just 1 tag"
+  end
   
   file_date = filename.match /([0-9]{4}\-[0-9]{2}\-[0-9]{2})/
 
@@ -56,7 +59,7 @@ files.each do |filename|
 #  end
 
   # temporary remove NZZ
-  if meta_data['title'].match?(/NZZ|SWR|European Medicines Agency/)
+  if meta_data['title'].match?(/NZZ|SWR|European Medicines Agency|linth24|FM1 Today|Handelsblatt/)
     next
   end
 
@@ -70,7 +73,7 @@ files.each do |filename|
 
   parameters.each do |parameter|
     if parameter == 'tags'
-      if !meta_data[parameter].include?(site_data[parameter][0])
+      if !meta_data[parameter].include?(site_data['domaintag'])
         puts "sitename #{site_data[parameter][0]} not found in tags"
         exit
       end
