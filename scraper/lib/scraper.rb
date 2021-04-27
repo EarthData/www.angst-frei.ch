@@ -82,6 +82,7 @@ class Scraper
         if ld_meta.kind_of?(Array)
           ld_meta = ld_meta.first
         end
+        puts "ld+json found" if debug
       end
     end
 
