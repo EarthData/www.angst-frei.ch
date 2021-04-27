@@ -22,6 +22,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2709,DE,2021-04-29,19:30:00,78467,Konstanz,Berchenplatz,Sport,,unbekannt,
 2604,CH,2021-04-29,20:00:00,8750,Glarus,Rathausplatz,Spaziergang,,unknown,
 2723,DE,2021-04-29,22:00:00,06108,Halle,Markt / Ostseite,Kundgebung,https://www.twitch.tv/svenliebich,Sven Liebich,https://t.me/InSvensWelt
+2825,DE,2021-04-30,08:30:00,80333,München,Salvatorplatz / Kultusministerium,Kundgebung,,Eltern stehen auf e.V.,https://elternstehenauf.de/
+2826,DE,2021-04-30,15:00:00,80802,München,Münchner Freiheit,Kundgebung,,Eltern stehen auf e.V.,https://elternstehenauf.de/
 2695,DE,2021-04-30,15:30:00,22941,Bargteheide,Am Markt / Schulzentrum,Mahnwache,,Freitag für Freiheit Freude  Frieden,
 2794,DE,2021-04-30,16:45:00,78713,Schramberg,Parkplatz am Schloss im Tal,Menschenkette,,Friede und Freiheit,https://t.me/friede_und_freiheit
 2822,DE,2021-04-30,17:00:00,07546,Gera,Industriestrasse,Autokorso,,unbekannt,
@@ -32,9 +34,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2628,CH,2021-04-30,19:00:00,2503,Biel-Bienne,Bahnhof,Spaziergang,,unknown,
 2724,DE,2021-04-30,22:00:00,06108,Halle,Markt / Ostseite,Kundgebung,https://www.twitch.tv/svenliebich,Sven Liebich,https://t.me/InSvensWelt
 2777,DE,2021-05-01,10:30:00,79271,St. Peter,Zähringer Eck / Rossweiher,Versammlung,,Schwarzwald Netzwerk,https://schwarzwald-netzwerk.de/
+2827,DE,2021-05-01,11:00:00,29223,Celle,Schützenplatz,Kundgebung,,Celle steht auf,
 2570,CH,2021-05-01,13:30:00,6900,Lugano,Parco Tassino,Kundgebung,,Cittadini pacifici e comuni come te,
 2451,DE,2021-05-01,14:00:00,02763,Zittau,Markt,Kundgebung,,Freunde von PEGIDA,https://t.me/freundevonpegida
-2027,DE,2021-05-01,14:00:00,80336,München,Theresienwiese,Kundgebung,,Markus Haintz,https://t.me/Haintz
 2816,DE,2021-05-01,14:00:00,30169,Hannover,Maschsee / Nordufer,Kundgebung,,unbekannt,
 2815,DE,2021-05-01,14:00:00,49152,Bad Essen,An der Breede / beim Labyrinth,Autokorso,,Autocorso,
 2824,DE,2021-05-01,15:00:00,50679,Köln,Deutzer Werft,Demonstration,,Koeln ist aktiv,https://koelnistaktiv.de
