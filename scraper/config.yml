@@ -48,6 +48,7 @@ sitename:
   deutsche-apotheker-zeitung: Deutsche Apotheker Zeitung
   derstandard: Der Standard
   dieostschweiz: Die Ostschweiz
+  dgpi: Deutsche Gesellschaft für Pädiatrische Infektiologie
   epochtimes: Epoch Times
   fm1today: FM1 Today
   focus: Focus Online
@@ -94,6 +95,7 @@ tag:
   bag: bundesrat
   bernerzeitung: bernerzeitung
   corona-blog: corona-blog
+  cducsu: cducsu
   deutsche-apotheker-zeitung: daz
   dgkj: dgkj
   dgpi: dgpi
@@ -170,8 +172,12 @@ country:
   fassadenkratzer: DE
   globalresearch: World
   journalistenwatch: DE
+  report24: AT
   rt: DE
   rubikon: DE
   sciencefiles: DE
   telegra: EU
   unser-mitteleuropa: EU
+filename:
+  dieostschweiz: ignoredowncase
+  kinder-maskenpetition: ignoredowncase

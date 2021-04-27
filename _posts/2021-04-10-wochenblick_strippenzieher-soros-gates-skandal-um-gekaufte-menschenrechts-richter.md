@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/strippenzieher-soros-gates-skandal-um-
 title:         Wochenblick
 subtitle:      'Strippenzieher Soros & Gates: Skandal um gekaufte Menschenrechts-Richter'
 country:       AT
-prsons:        [Gates Bill]
+persons:       [Gates Bill]
 categories:    [Recht, Manipulation]
 tags:          [wochenblick, geld, menschenrechte]
 ---

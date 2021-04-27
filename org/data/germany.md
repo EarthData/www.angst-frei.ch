@@ -4,6 +4,12 @@ title:    Daten
 subtitle: Deutschland
 ---
 
+## Absolute Zahlen SARS-CoV-2
+
+Zahlen bundesweit. Als Grundlage der Berechnung dienen die Daten des RKI, DESTATIS und JHU CSSE.
+
+| {{ site.icons.globe }}    | [www.absolute-zahlen.com](https://www.absolute-zahlen.com/) |
+
 ## Corona Fakten
 
 News und Zusammenfassungen zu den Themen Impfung, Corona, Viren, Bakterien, Infektionsstheorie, Universalbiologie
