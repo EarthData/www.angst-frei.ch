@@ -4,6 +4,6 @@ redirect:      https://verfassungsfreunde.ch/Die-Petition-Schutzt-die-Kinder-wur
 title:         Verfassungsfreunde
 subtitle:      'Die Petition «Schützt die Kinder» wurde vor 10 Tagen versendet!'
 country:       CH
-categories:    [Recht, Poltik, Widerstand]
+categories:    [Recht, Politik, Widerstand]
 tags:          [verfassungsfreunde, kind, maske, petition, pinned]
 ---

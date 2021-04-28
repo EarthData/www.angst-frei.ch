@@ -4,6 +4,6 @@ redirect:      https://2020news.de/hausdurchsuchung-bei-weimarer-sensationsricht
 title:         2020 News
 subtitle:      'Hausdurchsuchung bei Weimarer Sensationsrichter'
 country:       DE
-categories:    [Recht, Schule]
+categories:    [Recht, Schulen]
 tags:          [2020news, willkür, polizei, weimar]
 ---

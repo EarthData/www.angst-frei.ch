@@ -4,6 +4,6 @@ redirect:      https://www.tichyseinblick.de/daili-es-sentials/wir-sind-entsetzt
 title:         Tichys Einblick
 subtitle:      '“Wir sind entsetzt”: Richterverein sieht Hausdurchsuchung bei Weimarer Richter als rechtswidrig an'
 country:       DE
-categories:    [Recht, Schule]
+categories:    [Recht, Schulen]
 tags:          [tichyseinblick, willkür, polizei, weimar]
 ---

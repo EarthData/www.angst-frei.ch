@@ -4,6 +4,6 @@ redirect:      https://www.nachdenkseiten.de/?p=67116
 title:         NachDenkSeiten
 subtitle:      'Globale Corona-Politik: Das Gegenteil von „Schutz“ und „Solidarität“'
 country:       DE
-categories:    [Poltik, Studie]
+categories:    [Politik, Studie]
 tags:          [nachdenkseiten, massnahmen, kollateralschäden]
 ---

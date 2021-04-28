@@ -4,6 +4,6 @@ redirect:      https://www.wochenblick.at/schockmeldung-in-australien-trotz-durc
 title:         Wochenblick
 subtitle:      'Schockmeldung in Australien: Trotz Durchimpfung könnte Land zubleiben'
 country:       AT
-categories:    [Imfung]
+categories:    [Impfung]
 tags:          [wochenblick, massnahmen, australien]
 ---
