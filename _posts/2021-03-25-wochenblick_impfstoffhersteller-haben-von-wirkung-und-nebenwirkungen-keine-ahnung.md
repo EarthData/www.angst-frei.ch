@@ -4,6 +4,6 @@ redirect:      https://www.wochenblick.at/impfstoffhersteller-haben-von-wirkung-
 title:         Wochenblick
 subtitle:      'Impfstoffhersteller haben von Wirkung und Nebenwirkungen keine Ahnung'
 country:       AT
-categories:    [Impfung, Manipulation]
-tags:          [wochenblick, impf-nebenwirkungen]
+categories:    [Impfung]
+tags:          [wochenblick, impf-nebenwirkungen, manipulation]
 ---

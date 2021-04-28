@@ -4,6 +4,6 @@ redirect:      https://tkp.at/2021/02/20/das-missverstaendnis-ueber-den-impfssch
 title:         tp - Science & Technology
 subtitle:      'Das Missverständnis über den „Impfsschutz“'
 country:       AT
-categories:    [Impfung, Manipulation]
-tags:          [tkp, impf-nebenwirkungen]
+categories:    [Impfung]
+tags:          [tkp, impf-nebenwirkungen, manipulation]
 ---

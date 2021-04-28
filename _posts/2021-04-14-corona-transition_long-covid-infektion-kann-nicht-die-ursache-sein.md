@@ -4,6 +4,6 @@ redirect:      https://corona-transition.org/long-covid-infektion-kann-nicht-die
 title:         Corona Transition
 subtitle:      '«Long-Covid»: Infektion kann nicht die Ursache sein'
 country:       CH
-categories:    [Medizin, Manipulation, MSM, Studie]
-tags:          [corona transition, long covid]
+categories:    [Medizin, MSM, Studie]
+tags:          [corona transition, long covid, manipulation]
 ---

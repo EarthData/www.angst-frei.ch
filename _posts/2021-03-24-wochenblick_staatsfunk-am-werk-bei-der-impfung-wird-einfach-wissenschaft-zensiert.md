@@ -4,6 +4,6 @@ redirect:      https://www.wochenblick.at/staatsfunk-am-werk-bei-der-impfung-wir
 title:         Wochenblick
 subtitle:      'Staatsfunk am Werk: Bei der Impfung wird einfach Wissenschaft zensiert'
 country:       AT
-categories:    [MSM, Manipulation]
-tags:          [wochenblick, zensur]
+categories:    [MSM]
+tags:          [wochenblick, zensur, manipulation]
 ---

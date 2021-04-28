@@ -4,6 +4,6 @@ redirect:      https://www.wochenblick.at/systematische-panikmache-mit-todeszahl
 title:         Wochenblick
 subtitle:      'Systematische Panikmache mit Todeszahlen am Beispiel Italien'
 country:       AT
-categories:    [Manipulation, Zahlen]
-tags:          [wochenblick, sterblichkeit]
+categories:    [Zahlen]
+tags:          [wochenblick, sterblichkeit, manipulation]
 ---

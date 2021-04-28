@@ -4,6 +4,6 @@ redirect:      https://www.dieostschweiz.ch/artikel/stell-dir-vor-es-gibt-einen-
 title:         Die Ostschweiz
 subtitle:      'Stell dir vor, es gibt einen Skandal - und keiner schaut hin'
 country:       CH
-categories:    [Zahlen, Manipulation, BAG]
-tags:          [die ostschweiz, quarantäne]
+categories:    [Zahlen, BAG]
+tags:          [die ostschweiz, quarantäne, manipulation]
 ---

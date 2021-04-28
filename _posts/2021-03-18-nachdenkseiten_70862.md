@@ -4,6 +4,6 @@ redirect:      https://www.nachdenkseiten.de/?p=70862
 title:         NachDenkSeiten
 subtitle:      'Corona: Die Panikmache der Medien ist das größte Problem'
 country:       DE
-categories:    [MSM, Manipulation]
-tags:          [nachdenkseiten, angst]
+categories:    [MSM]
+tags:          [nachdenkseiten, angst, manipulation]
 ---

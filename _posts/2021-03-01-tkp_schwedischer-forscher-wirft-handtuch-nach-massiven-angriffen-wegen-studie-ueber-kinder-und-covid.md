@@ -4,6 +4,6 @@ redirect:      https://tkp.at/2021/03/01/schwedischer-forscher-wirft-handtuch-na
 title:         tp - Science & Technology
 subtitle:      'Schwedischer Forscher wirft Handtuch nach massiven Angriffen wegen Studie über Kinder und Covid'
 country:       AT
-categories:    [Schulen, Manipulation, Studie]
-tags:          [tkp, kind]
+categories:    [Schulen, Studie]
+tags:          [tkp, kind, manipulation]
 ---

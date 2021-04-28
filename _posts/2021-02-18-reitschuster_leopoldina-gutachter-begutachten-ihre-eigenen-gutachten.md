@@ -4,6 +4,6 @@ redirect:      https://reitschuster.de/post/leopoldina-gutachter-begutachten-ihr
 title:         reitschuster
 subtitle:      'Leopoldina: Gutachter begutachten ihre eigenen „Gutachten“'
 country:       DE
-categories:    [Manipulation, Wissenschaft]
-tags:          [reitschuster, leopoldina]
+categories:    [Wissenschaft]
+tags:          [reitschuster, leopoldina, manipulation]
 ---

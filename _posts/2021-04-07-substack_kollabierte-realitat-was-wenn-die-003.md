@@ -5,6 +5,6 @@ title:         substack.com
 subtitle:      'Kollabierte Realität: Was, wenn die Verschwörungstheoretiker Recht haben?'
 country:       COM
 persons:       [Matuschek Milosz]
-categories:    [Mensch, Manipulation]
-tags:          [substack]
+categories:    [Mensch]
+tags:          [substack, manipulation]
 ---

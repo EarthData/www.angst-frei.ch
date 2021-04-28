@@ -5,6 +5,6 @@ title:         Wochenblick
 subtitle:      'Strippenzieher Soros & Gates: Skandal um gekaufte Menschenrechts-Richter'
 country:       AT
 persons:       [Gates Bill]
-categories:    [Recht, Manipulation]
-tags:          [wochenblick, geld, menschenrechte]
+categories:    [Recht]
+tags:          [wochenblick, geld, menschenrechte, manipulation]
 ---

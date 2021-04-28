@@ -4,6 +4,6 @@ redirect:      https://corona-transition.org/uber-nacht-verschwinden-34-000-schw
 title:         Corona Transition
 subtitle:      'Über Nacht verschwinden 34’000 Schweizer aus der Quarantäne-Statistik des Bundes'
 country:       CH
-categories:    [Zahlen, Manipulation]
-tags:          [corona transition]
+categories:    [Zahlen]
+tags:          [corona transition, manipulation]
 ---

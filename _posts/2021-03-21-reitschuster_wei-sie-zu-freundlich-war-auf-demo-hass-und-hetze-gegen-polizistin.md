@@ -4,6 +4,6 @@ redirect:      https://reitschuster.de/post/wei-sie-zu-freundlich-war-auf-demo-h
 title:         reitschuster
 subtitle:      'Weil sie Herz zeigte auf Demo: Hass und Hetze gegen Polizistin'
 country:       DE
-categories:    [MSM, Manipulation]
-tags:          [reitschuster, polizei, willkür]
+categories:    [MSM]
+tags:          [reitschuster, polizei, willkür, manipulation]
 ---

@@ -4,6 +4,6 @@ redirect:      https://www.dieostschweiz.ch/artikel/ein-plakat-fuer-einen-videob
 title:         Die Ostschweiz
 subtitle:      'Ein Plakat für einen Videoblogger ist plötzlich «politische Werbung»'
 country:       CH
-categories:    [Recht, Politik, Manipulation]
-tags:          [die ostschweiz, zensur]
+categories:    [Recht, Politik]
+tags:          [die ostschweiz, zensur, manipulation]
 ---

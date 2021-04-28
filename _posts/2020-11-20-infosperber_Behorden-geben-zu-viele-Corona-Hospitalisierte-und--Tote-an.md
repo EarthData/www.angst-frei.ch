@@ -4,6 +4,6 @@ redirect:      https://www.infosperber.ch/Artikel/Gesundheit/Behorden-geben-zu-v
 title:         INFOsperber
 subtitle:      'Behörden geben zu viele Corona-Hospitalisierte und -Tote an'
 country:       CH
-categories:    [Zahlen, Spital, Manipulation]
-tags:          [infosperber]
+categories:    [Zahlen, Spital]
+tags:          [infosperber, manipulation]
 ---

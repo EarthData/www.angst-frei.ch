@@ -4,6 +4,6 @@ redirect:      https://www.achgut.com/artikel/verlorene_jahre_neue_nonsens_zahle
 title:         Achgut.com
 subtitle:      'Verlorene Jahre: Neue Nonsens-Zahlen vom RKI'
 country:       DE
-categories:    [Zahlen, Manipulation]
-tags:          [achgut, angst, rki, sterblichkeit]
+categories:    [Zahlen]
+tags:          [achgut, angst, rki, sterblichkeit, manipulation]
 ---

@@ -5,6 +5,6 @@ title:         Rubikon
 subtitle:      'Die große Umkehrung'
 country:       DE
 persons:       [Kaiser Gunnar]
-categories:    [Mensch, Manipulation]
-tags:          [rubikon]
+categories:    [Mensch]
+tags:          [rubikon, manipulation]
 ---

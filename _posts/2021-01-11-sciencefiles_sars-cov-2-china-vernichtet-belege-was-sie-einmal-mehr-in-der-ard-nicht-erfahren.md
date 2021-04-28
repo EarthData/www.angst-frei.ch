@@ -4,6 +4,6 @@ redirect:      https://sciencefiles.org/2021/01/11/sars-cov-2-china-vernichtet-b
 title:         ScienceFiles
 subtitle:      'SARS-CoV-2: China vernichtet Belege. Was Sie einmal mehr in der ARD nicht erfahren!'
 country:       DE
-categories:    [MSM, Manipulation]
-tags:          [sciencefiles, china]
+categories:    [MSM]
+tags:          [sciencefiles, china, manipulation]
 ---

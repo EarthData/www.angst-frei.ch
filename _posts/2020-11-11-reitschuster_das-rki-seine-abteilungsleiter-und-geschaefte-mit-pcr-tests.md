@@ -4,6 +4,6 @@ redirect:      https://www.reitschuster.de/post/das-rki-seine-abteilungsleiter-u
 title:         reitschuster
 subtitle:      'Das RKI, seine Abteilungsleiter und Geschäfte mit PCR-Tests'
 country:       DE
-categories:    [Manipulation, Politik, Wirtschaft]
-tags:          [reitschuster, rki, pcr-test]
+categories:    [Politik, Wirtschaft]
+tags:          [reitschuster, rki, pcr-test, manipulation]
 ---

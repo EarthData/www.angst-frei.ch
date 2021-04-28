@@ -4,6 +4,6 @@ redirect:      https://www.infosperber.ch/gesundheit/public-health/behoerden-geb
 title:         INFOsperber
 subtitle:      'Behörden geben zu viele Corona-Hospitalisierte und -Tote an'
 country:       CH
-categories:    [Spital, Zahlen, Manipulation]
-tags:          [infosperber, sterblichkeit]
+categories:    [Spital, Zahlen]
+tags:          [infosperber, sterblichkeit, manipulation]
 ---

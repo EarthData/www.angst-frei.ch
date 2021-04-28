@@ -4,6 +4,6 @@ redirect:      https://reitschuster.de/post/nach-masken-sensationsurteil-framing
 title:         reitschuster
 subtitle:      'Nach Masken-Sensationsurteil: Framing oder Totschweigen'
 country:       DE
-categories:    [Recht, MSM, Manipulation]
-tags:          [reitschuster, weimar]
+categories:    [Recht, MSM]
+tags:          [reitschuster, weimar, manipulation]
 ---

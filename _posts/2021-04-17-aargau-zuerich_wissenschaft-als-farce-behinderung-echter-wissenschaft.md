@@ -4,6 +4,6 @@ redirect:      https://www.aargau-zuerich.ch/post/wissenschaft-als-farce-behinde
 title:         aargau-zuerich.ch
 subtitle:      'Wissenschaft als Farce / Behinderung echter Wissenschaft'
 country:       CH
-categories:    [Wissenschaft, Manipulation]
-tags:          [aargau-zuerich, dialog]
+categories:    [Wissenschaft]
+tags:          [aargau-zuerich, dialog, manipulation]
 ---

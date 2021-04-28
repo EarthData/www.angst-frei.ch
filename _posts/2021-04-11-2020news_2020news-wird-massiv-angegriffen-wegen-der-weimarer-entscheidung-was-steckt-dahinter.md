@@ -4,6 +4,6 @@ redirect:      https://2020news.de/2020news-wird-massiv-angegriffen-wegen-der-we
 title:         2020 News
 subtitle:      '2020News wird massiv angegriffen nach Artikel zu Sensationsurteil - warum?'
 country:       DE
-categories:    [Manipulation, Recht]
-tags:          [2020news, zensur, weimar]
+categories:    [Recht]
+tags:          [2020news, zensur, weimar, manipulation]
 ---

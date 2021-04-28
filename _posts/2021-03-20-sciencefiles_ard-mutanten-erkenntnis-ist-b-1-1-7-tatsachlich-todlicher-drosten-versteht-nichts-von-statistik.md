@@ -5,6 +5,6 @@ title:         ScienceFiles
 subtitle:      'ARD-Mutanten-Erkenntnis: Ist b.1.1.7 tatsächlich tödlicher? Drosten versteht nichts von Statistik'
 country:       DE
 persons:       [Drosten Christian]
-categories:    [Zahlen, Studie, Manipulation]
-tags:          [sciencefiles, virus-mutation]
+categories:    [Zahlen, Studie]
+tags:          [sciencefiles, virus-mutation, manipulation]
 ---

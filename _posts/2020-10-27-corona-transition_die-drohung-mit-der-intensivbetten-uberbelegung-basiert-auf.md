@@ -4,6 +4,6 @@ redirect:      https://corona-transition.org/die-drohung-mit-der-intensivbetten-
 title:         Corona Transition
 subtitle:      'Die Drohung mit der Intensivbetten-Überbelegung basiert auf Zahlenmanipulationen'
 country:       CH
-categories:    [Spital, Manipulation]
-tags:          [corona transition, lockdown2]
+categories:    [Spital]
+tags:          [corona transition, lockdown2, manipulation]
 ---

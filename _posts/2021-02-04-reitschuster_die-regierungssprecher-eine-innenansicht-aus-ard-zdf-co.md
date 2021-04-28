@@ -4,6 +4,6 @@ redirect:      https://reitschuster.de/post/die-regierungssprecher-eine-innenans
 title:         reitschuster
 subtitle:      'Die Regierungssprecher – Innenansichten aus ARD,  ZDF & Co.'
 country:       DE
-categories:    [MSM, Manipulation]
-tags:          [reitschuster, zensur, ard, zdf]
+categories:    [MSM]
+tags:          [reitschuster, zensur, ard, zdf, manipulation]
 ---

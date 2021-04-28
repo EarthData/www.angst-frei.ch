@@ -4,6 +4,6 @@ redirect:      https://www.wochenblick.at/sensation-offizielle-daten-widersprech
 title:         Wochenblick
 subtitle:      'Sensation: Offizielle Daten widersprechen der Mär der überlasteten Spitäler'
 country:       AT
-categories:    [Spital, Zahlen, Manipulation]
-tags:          [wochenblick]
+categories:    [Spital, Zahlen]
+tags:          [wochenblick, manipulation]
 ---

@@ -4,6 +4,6 @@ redirect:      https://www.dieostschweiz.ch/artikel/mit-allen-wassern-gewaschen-
 title:         Die Ostschweiz
 subtitle:      'Mit allen Wassern gewaschen'
 country:       CH
-categories:    [Mensch, Manipulation]
-tags:          [die ostschweiz]
+categories:    [Mensch]
+tags:          [die ostschweiz, manipulation]
 ---

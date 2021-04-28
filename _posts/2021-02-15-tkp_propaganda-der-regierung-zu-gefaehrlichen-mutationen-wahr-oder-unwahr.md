@@ -4,6 +4,6 @@ redirect:      https://tkp.at/2021/02/15/propaganda-der-regierung-zu-gefaehrlich
 title:         tp - Science & Technology
 subtitle:      'Propaganda der Regierung zu gefährlichen Mutationen: wahr oder unwahr?'
 country:       AT
-categories:    [Studie, Manipulation]
-tags:          [tkp, virus-mutation, who]
+categories:    [Studie]
+tags:          [tkp, virus-mutation, who, manipulation]
 ---

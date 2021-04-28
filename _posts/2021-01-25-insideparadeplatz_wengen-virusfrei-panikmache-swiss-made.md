@@ -4,6 +4,6 @@ redirect:      https://insideparadeplatz.ch/2021/01/25/wengen-virusfrei-panikmac
 title:         In$ide Paradeplatz
 subtitle:      'Wengen virusfrei: Panikmache, Swiss made'
 country:       CH
-categories:    [MSM, Manipulation]
-tags:          [inside-paradeplatz, lockdown, angst]
+categories:    [MSM]
+tags:          [inside-paradeplatz, lockdown, angst, manipulation]
 ---

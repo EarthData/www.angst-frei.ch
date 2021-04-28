@@ -4,6 +4,6 @@ redirect:      https://www.dieostschweiz.ch/artikel/wie-das-hirn-gewaschen-wird-
 title:         Die Ostschweiz
 subtitle:      'Wie das Hirn gewaschen wird'
 country:       CH
-categories:    [Mensch, Manipulation]
-tags:          [die ostschweiz, willkür]
+categories:    [Mensch]
+tags:          [die ostschweiz, willkür, manipulation]
 ---

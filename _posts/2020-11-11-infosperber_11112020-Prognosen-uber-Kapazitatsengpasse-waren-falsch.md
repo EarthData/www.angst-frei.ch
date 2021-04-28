@@ -4,6 +4,6 @@ redirect:      https://www.infosperber.ch/Artikel/Gesundheit/11112020-Prognosen-
 title:         INFOsperber
 subtitle:      '11.11.2020: Prognosen über Kapazitätsengpässe waren falsch'
 country:       CH
-categories:    [Zahlen, Spital, Manipulation]
-tags:          [infosperber]
+categories:    [Zahlen, Spital]
+tags:          [infosperber, manipulation]
 ---

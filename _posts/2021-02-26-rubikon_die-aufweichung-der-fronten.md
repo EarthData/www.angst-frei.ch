@@ -4,6 +4,6 @@ redirect:      https://www.rubikon.news/artikel/die-aufweichung-der-fronten
 title:         Rubikon
 subtitle:      'Die Aufweichung der Fronten'
 country:       DE
-categories:    [Mensch, Manipulation]
-tags:          [rubikon]
+categories:    [Mensch]
+tags:          [rubikon, manipulation]
 ---

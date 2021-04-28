@@ -4,6 +4,6 @@ redirect:      https://reitschuster.de/post/herzstillstand-nach-impfung-und-das-
 title:         reitschuster
 subtitle:      'Herzstillstand nach Impfung – und das Schweigen aller Beteiligten'
 country:       DE
-categories:    [Impfung, Manipulation]
-tags:          [reitschuster, mit oder an impfung gestorben, biontech]
+categories:    [Impfung]
+tags:          [reitschuster, mit oder an impfung gestorben, biontech, manipulation]
 ---

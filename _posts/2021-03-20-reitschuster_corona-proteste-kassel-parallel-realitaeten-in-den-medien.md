@@ -4,6 +4,6 @@ redirect:      https://reitschuster.de/post/corona-proteste-kassel-parallel-real
 title:         reitschuster
 subtitle:      'Corona-Proteste Kassel: Parallel-Realitäten in den Medien'
 country:       DE
-categories:    [MSM, Manipulation]
-tags:          [reitschuster, polizei]
+categories:    [MSM]
+tags:          [reitschuster, polizei, manipulation]
 ---

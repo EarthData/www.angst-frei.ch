@@ -4,6 +4,6 @@ redirect:      https://www.wochenblick.at/informant-berichtet-unzaehlige-fehlbeh
 title:         Wochenblick
 subtitle:      'Informant berichtet: Unzählige Fehlbehandlungen, falsche Todesdiagnosen'
 country:       AT
-categories:    [Medizin, Manipulation]
-tags:          [wochenblick, willkür]
+categories:    [Medizin]
+tags:          [wochenblick, willkür, manipulation]
 ---

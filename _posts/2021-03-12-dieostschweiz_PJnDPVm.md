@@ -4,6 +4,6 @@ redirect:      https://www.dieostschweiz.ch/artikel/der-maulkorb-als-knebel-der-
 title:         Die Ostschweiz
 subtitle:      'Der «Maulkorb» als Knebel der Wissenschaftsfreiheit?'
 country:       CH
-categories:    [Wissenschaft, Manipulation]
-tags:          [die ostschweiz, taskforce]
+categories:    [Wissenschaft]
+tags:          [die ostschweiz, taskforce, manipulation]
 ---

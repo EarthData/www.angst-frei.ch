@@ -4,6 +4,6 @@ redirect:      https://www.dieostschweiz.ch/artikel/der-sturmvogel-aus-dem-nicht
 title:         Die Ostschweiz
 subtitle:      'Der Sturmvogel aus dem Nichts'
 country:       CH
-categories:    [Politik, Wirtschaft, Spital, Manipulation]
-tags:          [die ostschweiz, taskforce, massnahmen]
+categories:    [Politik, Wirtschaft, Spital]
+tags:          [die ostschweiz, taskforce, massnahmen, manipulation]
 ---

@@ -4,6 +4,6 @@ redirect:      https://reitschuster.de/post/das-berthold-interview-das-youtube-n
 title:         reitschuster
 subtitle:      'Youtube zensiert Interview mit Weltmeister Berthold noch vor Ausstrahlung'
 country:       DE
-categories:    [Manipulation, Video]
-tags:          [reitschuster, youtube, zensur]
+categories:    [Video]
+tags:          [reitschuster, youtube, zensur, manipulation]
 ---

@@ -5,6 +5,6 @@ title:         In$ide Paradeplatz
 subtitle:      'NZZ kickt Covid-Kritiker mit den Giga-Klicks'
 country:       CH
 persons:       [Matuschek Milosz]
-categories:    [MSM, Manipulation]
-tags:          [inside-paradeplatz, nzz]
+categories:    [MSM]
+tags:          [inside-paradeplatz, nzz, manipulation]
 ---

@@ -4,6 +4,6 @@ redirect:      https://www.dieostschweiz.ch/artikel/ueberfordert-aber-noch-tragb
 title:         Die Ostschweiz
 subtitle:      'Überfordert, aber noch tragbar?'
 country:       CH
-categories:    [BAG, Manipulation]
-tags:          [die ostschweiz, zensur]
+categories:    [BAG]
+tags:          [die ostschweiz, zensur, manipulation]
 ---

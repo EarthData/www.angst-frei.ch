@@ -4,6 +4,6 @@ redirect:      https://kenfm.de/der-zerbrochene-tagesspiegel/
 title:         kenFM
 subtitle:      'Der zerbrochene Tagesspiegel'
 country:       DE
-categories:    [MSM, Manipulation]
-tags:          [kenfm, willkür]
+categories:    [MSM]
+tags:          [kenfm, willkür, manipulation]
 ---

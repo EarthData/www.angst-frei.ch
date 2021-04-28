@@ -4,6 +4,6 @@ redirect:      https://multipolar-magazin.de/artikel/corona-todeszahlen-nicht-pl
 title:         multipolar
 subtitle:      'Betrugsverdacht: Warum die Todeszahlen des Robert Koch-Instituts nicht plausibel sind'
 country:       DE
-categories:    [Zahlen, Manipulation]
-tags:          [multipolar, rki, sterblichkeit]
+categories:    [Zahlen]
+tags:          [multipolar, rki, sterblichkeit, manipulation]
 ---

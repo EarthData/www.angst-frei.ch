@@ -4,6 +4,6 @@ redirect:      https://www.nachdenkseiten.de/?p=67271
 title:         NachDenkSeiten
 subtitle:      'Die „Maus“ und Corona: „Was darf ich?“'
 country:       DE
-categories:    [MSM, Manipulation]
-tags:          [nachdenkseiten, kind]
+categories:    [MSM]
+tags:          [nachdenkseiten, kind, manipulation]
 ---

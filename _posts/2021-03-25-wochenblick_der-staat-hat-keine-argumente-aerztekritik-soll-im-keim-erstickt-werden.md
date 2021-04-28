@@ -4,6 +4,6 @@ redirect:      https://www.wochenblick.at/der-staat-hat-keine-argumente-aerztekr
 title:         Wochenblick
 subtitle:      'Der Staat hat keine Argumente: Ärztekritik soll im Keim erstickt werden'
 country:       AT
-categories:    [Medizin, Manipulation, Widerstand]
-tags:          [wochenblick, willkür]
+categories:    [Medizin, Widerstand]
+tags:          [wochenblick, willkür, manipulation]
 ---

@@ -5,6 +5,6 @@ title:         Rubikon
 subtitle:      'Der Goldjunge'
 country:       DE
 persons:       [Drosten Christian]
-categories:    [Wissenschaft, Manipulation]
-tags:          [rubikon, geld]
+categories:    [Wissenschaft]
+tags:          [rubikon, geld, manipulation]
 ---

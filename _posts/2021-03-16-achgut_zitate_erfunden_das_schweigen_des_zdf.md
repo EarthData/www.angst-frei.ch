@@ -4,6 +4,6 @@ redirect:      https://www.achgut.com/artikel/zitate_erfunden_das_schweigen_des_
 title:         Achgut.com
 subtitle:      'Zitate erfunden? Das Schweigen des ZDF'
 country:       DE
-categories:    [MSM, Manipulation]
-tags:          [achgut, ard, zdf]
+categories:    [MSM]
+tags:          [achgut, ard, zdf, manipulation]
 ---

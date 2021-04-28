@@ -4,6 +4,6 @@ redirect:      https://corona-transition.org/srf-hetzt-gegen-kritische-arzte-omb
 title:         Corona Transition
 subtitle:      'SRF hetzt gegen kritische Ärzte: Ombudsstelle sieht kein Problem'
 country:       CH
-categories:    [MSM, Manipulation]
-tags:          [corona transition, srf]
+categories:    [MSM]
+tags:          [corona transition, srf, manipulation]
 ---

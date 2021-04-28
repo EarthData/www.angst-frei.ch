@@ -4,6 +4,6 @@ redirect:      https://www.berliner-zeitung.de/kultur-vergnuegen/schriftstelleri
 title:         Berliner Zeitung
 subtitle:      'Spaltpilz Corona'
 country:       DE
-categories:    [MSM, Mensch, Manipulation]
-tags:          [berliner zeitung, paywall]
+categories:    [MSM, Mensch]
+tags:          [berliner zeitung, paywall, manipulation]
 ---

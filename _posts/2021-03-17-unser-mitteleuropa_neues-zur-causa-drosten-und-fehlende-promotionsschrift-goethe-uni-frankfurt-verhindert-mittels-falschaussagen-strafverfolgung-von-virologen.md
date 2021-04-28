@@ -5,6 +5,6 @@ title:         Unser Mitteleuropa
 subtitle:      'Neues zur Causa Drosten und fehlende Promotionsschrift: Goethe-Uni Frankfurt verhindert mittels Falschaussagen Strafverfolgung von Virologen'
 country:       EU
 persons:       [Drosten Christian]
-categories:    [Recht, Manipulation]
-tags:          [unser mitteleuropa]
+categories:    [Recht]
+tags:          [unser mitteleuropa, manipulation]
 ---

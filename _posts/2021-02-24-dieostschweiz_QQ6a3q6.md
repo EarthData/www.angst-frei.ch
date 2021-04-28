@@ -4,6 +4,6 @@ redirect:      https://www.dieostschweiz.ch/artikel/die-schweiz-im-kippzustand-Q
 title:         Die Ostschweiz
 subtitle:      'Die Schweiz im Kippzustand'
 country:       CH
-categories:    [Politik, Widerstand, Manipulation]
-tags:          [die ostschweiz, bundesrat]
+categories:    [Politik, Widerstand]
+tags:          [die ostschweiz, bundesrat, manipulation]
 ---

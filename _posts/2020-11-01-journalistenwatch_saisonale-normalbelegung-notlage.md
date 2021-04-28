@@ -4,6 +4,6 @@ redirect:      https://www.journalistenwatch.com/2020/11/01/saisonale-normalbele
 title:         Jouwatch
 subtitle:      'Saisonale Normalbelegung, keine Notlage: Chefarzt rechnet mit Corona-Hysterie ab'
 country:       DE
-categories:    [Medizin, Manipulation]
-tags:          [jouwatch]
+categories:    [Medizin]
+tags:          [jouwatch, manipulation]
 ---

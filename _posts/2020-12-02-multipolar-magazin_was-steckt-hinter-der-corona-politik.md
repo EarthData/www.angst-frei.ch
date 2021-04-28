@@ -4,6 +4,6 @@ redirect:      https://multipolar-magazin.de/artikel/was-steckt-hinter-der-coron
 title:         multipolar
 subtitle:      'Was steckt hinter der Corona-Politik?'
 country:       DE
-categories:    [Politik, Zahlen, Manipulation]
-tags:          [multipolar, massnahmen]
+categories:    [Politik, Zahlen]
+tags:          [multipolar, massnahmen, manipulation]
 ---

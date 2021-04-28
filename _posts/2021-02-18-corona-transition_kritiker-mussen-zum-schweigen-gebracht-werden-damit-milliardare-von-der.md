@@ -4,6 +4,6 @@ redirect:      https://corona-transition.org/kritiker-mussen-zum-schweigen-gebra
 title:         Corona Transition
 subtitle:      'Kritiker müssen zum Schweigen gebracht werden, damit Milliardäre von der Pandemie profitieren können'
 country:       CH
-categories:    [Wirtschaft, MSM, Manipulation]
-tags:          [corona transition, geld]
+categories:    [Wirtschaft, MSM]
+tags:          [corona transition, geld, manipulation]
 ---

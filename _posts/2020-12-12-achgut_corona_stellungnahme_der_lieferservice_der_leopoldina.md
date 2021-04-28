@@ -4,6 +4,6 @@ redirect:      https://www.achgut.com/artikel/corona_stellungnahme_der_lieferser
 title:         Achgut.com
 subtitle:      'Corona-Stellungnahme: Der Lieferservice der Leopoldina'
 country:       DE
-categories:    [Wissenschaft, Manipulation]
-tags:          [achgut, massnahmen, leopoldina]
+categories:    [Wissenschaft]
+tags:          [achgut, massnahmen, leopoldina, manipulation]
 ---

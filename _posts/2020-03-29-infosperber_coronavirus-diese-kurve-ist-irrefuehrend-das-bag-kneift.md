@@ -4,6 +4,6 @@ redirect:      https://www.infosperber.ch/gesundheit/public-health/coronavirus-d
 title:         INFOsperber
 subtitle:      'Coronavirus: Diese Kurve ist irreführend. Das BAG kneift.'
 country:       CH
-categories:    [Zahlen, Manipulation, BAG]
-tags:          [infosperber]
+categories:    [Zahlen, BAG]
+tags:          [infosperber, manipulation]
 ---

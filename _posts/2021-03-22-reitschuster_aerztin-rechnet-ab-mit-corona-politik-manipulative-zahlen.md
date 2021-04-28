@@ -4,6 +4,6 @@ redirect:      https://reitschuster.de/post/aerztin-rechnet-ab-mit-corona-politi
 title:         reitschuster
 subtitle:      'Ärztin rechnet ab mit Corona-Politik: "Manipulative Zahlen"'
 country:       DE
-categories:    [Medizin, Manipulation, Zahlen]
-tags:          [reitschuster]
+categories:    [Medizin, Zahlen]
+tags:          [reitschuster, manipulation]
 ---

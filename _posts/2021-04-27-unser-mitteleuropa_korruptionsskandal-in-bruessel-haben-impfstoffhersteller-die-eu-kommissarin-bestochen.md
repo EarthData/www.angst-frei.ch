@@ -4,6 +4,6 @@ redirect:      https://unser-mitteleuropa.com/korruptionsskandal-in-bruessel-hab
 title:         Unser Mitteleuropa
 subtitle:      ''
 country:       EU
-categories:    [Politik, Impfung, Manipulation]
-tags:          [unser mitteleuropa]
+categories:    [Politik, Impfung]
+tags:          [unser mitteleuropa, manipulation]
 ---

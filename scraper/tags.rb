@@ -56,16 +56,16 @@ files.each do |filename|
   #  counter += 1
   #end
 
-#  if meta_data['categories'].include?("Manipulation")
-#    puts "File: #{filename} (#{counter})"
-#    puts meta_data['categories']
-#    meta_data['categories'].delete_at(meta_data['categories'].index("Manipulation"))
-#    puts meta_data['categories']
-#    puts meta_data['tags']
-#    meta_data['tags'].push("manipulation")
-#    puts meta_data['tags']
-#    counter += 1
-#  end
+  if meta_data['categories'].include?("Manipulation")
+    puts "File: #{filename} (#{counter})"
+    puts meta_data['categories']
+    meta_data['categories'].delete_at(meta_data['categories'].index("Manipulation"))
+    puts meta_data['categories']
+    puts meta_data['tags']
+    meta_data['tags'].push("manipulation")
+    puts meta_data['tags']
+    counter += 1
+  end
 
   if file_data != ""
     tools.write_file(meta_data, false, file_data)

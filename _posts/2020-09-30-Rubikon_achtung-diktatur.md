@@ -4,6 +4,6 @@ redirect:      https://www.rubikon.news/artikel/achtung-diktatur
 title:         Rubikon
 subtitle:      'Achtung, Diktatur!'
 country:       DE
-categories:    [Politik, Manipulation]
-tags:          [rubikon, wef]
+categories:    [Politik]
+tags:          [rubikon, wef, manipulation]
 ---

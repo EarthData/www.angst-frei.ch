@@ -4,6 +4,6 @@ redirect:      https://www.dieostschweiz.ch/artikel/es-ist-alles-noch-viel-schli
 title:         Die Ostschweiz
 subtitle:      'Es ist alles noch viel schlimmer!'
 country:       CH
-categories:    [Politik, Manipulation]
-tags:          [die ostschweiz, massnahmen]
+categories:    [Politik]
+tags:          [die ostschweiz, massnahmen, manipulation]
 ---

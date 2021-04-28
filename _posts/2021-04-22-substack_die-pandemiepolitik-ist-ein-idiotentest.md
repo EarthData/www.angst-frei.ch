@@ -5,6 +5,6 @@ title:         substack.com
 subtitle:      'Die Pandemiepolitik ist ein Idiotentest'
 country:       COM
 persons:       [Matuschek Milosz]
-categories:    [Mensch, Politik, MSM, Manipulation]
-tags:          [substack]
+categories:    [Mensch, Politik, MSM]
+tags:          [substack, manipulation]
 ---

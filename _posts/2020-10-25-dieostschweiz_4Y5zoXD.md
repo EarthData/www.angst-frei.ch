@@ -4,6 +4,6 @@ redirect:      https://www.dieostschweiz.ch/artikel/corona-religion-und-das-schw
 title:         Die Ostschweiz
 subtitle:      'Corona-Religion und das Schweigen der Lämmer'
 country:       CH
-categories:    [Mensch, Politik, Manipulation]
-tags:          [die ostschweiz, angst]
+categories:    [Mensch, Politik]
+tags:          [die ostschweiz, angst, manipulation]
 ---

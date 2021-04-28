@@ -5,6 +5,6 @@ title:         Die Ostschweiz
 subtitle:      'In der Zeitmaschine: Die erstaunlichen Aussagen des Christian Drosten'
 country:       CH
 persons:       [Dristen Christian]
-categories:    [Wissenschaft, Manipulation]
-tags:          [die ostschweiz, pcr-test]
+categories:    [Wissenschaft]
+tags:          [die ostschweiz, pcr-test, manipulation]
 ---

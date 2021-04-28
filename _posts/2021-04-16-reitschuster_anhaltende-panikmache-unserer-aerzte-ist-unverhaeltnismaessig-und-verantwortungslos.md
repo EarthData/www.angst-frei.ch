@@ -4,6 +4,6 @@ redirect:      https://reitschuster.de/post/anhaltende-panikmache-unserer-aerzte
 title:         reitschuster
 subtitle:      '"Anhaltende Panikmache unserer Ärzte ist unverhältnismäßig und verantwortungslos"'
 country:       DE
-categories:    [Medizin, Manipulation, Spital]
-tags:          [reitschuster, angst]
+categories:    [Medizin, Spital]
+tags:          [reitschuster, angst, manipulation]
 ---

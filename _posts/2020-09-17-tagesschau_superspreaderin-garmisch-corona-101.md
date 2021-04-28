@@ -4,6 +4,6 @@ redirect:      https://www.tagesschau.de/faktenfinder/superspreaderin-garmisch-c
 title:         tagesschau.de
 subtitle:      'Die angebliche Superspreaderin von Garmisch'
 country:       DE
-categories:    [MSM, Manipulation]
-tags:          [tagesschau.de]
+categories:    [MSM]
+tags:          [tagesschau.de, manipulation]
 ---

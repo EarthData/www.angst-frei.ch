@@ -4,6 +4,6 @@ redirect:      https://www.dieostschweiz.ch/artikel/eine-rundschau-mit-tunnelbli
 title:         Die Ostschweiz
 subtitle:      'Eine «Rundschau» mit Tunnelblick'
 country:       CH
-categories:    [MSM, Manipulation]
-tags:          [die ostschweiz, srf]
+categories:    [MSM]
+tags:          [die ostschweiz, srf, manipulation]
 ---

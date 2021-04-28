@@ -4,6 +4,6 @@ redirect:      https://www.infosperber.ch/gesundheit/public-health/diese-corona-
 title:         INFOsperber
 subtitle:      'Diese Corona-Fallzahlen schweben im luftleeren Raum'
 country:       CH
-categories:    [Zahlen, Manipulation]
-tags:          [infosperber, pcr-test, massentest]
+categories:    [Zahlen]
+tags:          [infosperber, pcr-test, massentest, manipulation]
 ---

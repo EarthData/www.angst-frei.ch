@@ -4,6 +4,6 @@ redirect:      https://sciencefiles.org/2021/03/09/corona-heuschnupfen-noch-ne-l
 title:         ScienceFiles
 subtitle:      'Corona-Heuschnupfen: Noch ne Legitimation für mehr Lockdown – Junk Science mit der ARD'
 country:       DE
-categories:    [MSM, Manipulation, Studie]
-tags:          [sciencefiles, ard, lockdown]
+categories:    [MSM, Studie]
+tags:          [sciencefiles, ard, lockdown, manipulation]
 ---

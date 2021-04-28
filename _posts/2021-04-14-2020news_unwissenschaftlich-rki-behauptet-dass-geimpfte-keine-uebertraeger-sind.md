@@ -4,6 +4,6 @@ redirect:      https://2020news.de/unwissenschaftlich-rki-behauptet-dass-geimpft
 title:         2020 News
 subtitle:      'Unwissenschaftlich: RKI behauptet, dass Geimpfte keine Überträger sind'
 country:       DE
-categories:    [Wissenschaft, Manipulation]
-tags:          [2020news, rki, immunität]
+categories:    [Wissenschaft]
+tags:          [2020news, rki, immunität, manipulation]
 ---

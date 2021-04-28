@@ -4,6 +4,6 @@ redirect:      https://www.berliner-zeitung.de/politik-gesellschaft/heribert-pra
 title:         Berliner Zeitung
 subtitle:      'Heribert Prantl: „Ich hoffe, dass die Gesellschaft aufwacht“'
 country:       DE
-categories:    [MSM, Mensch, Manipulation]
-tags:          [berliner zeitung, demokratie, massnahmen]
+categories:    [MSM, Mensch]
+tags:          [berliner zeitung, demokratie, massnahmen, manipulation]
 ---

@@ -4,6 +4,6 @@ redirect:      https://corona-transition.org/spital-thun-verpasste-seinen-mitarb
 title:         Corona Transition
 subtitle:      'Spital Thun verpasste seinen Mitarbeitern einen «Maulkorb»'
 country:       CH
-categories:    [Spital, Manipulation]
-tags:          [corona transition, zensur]
+categories:    [Spital]
+tags:          [corona transition, zensur, manipulation]
 ---

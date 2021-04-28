@@ -4,6 +4,6 @@ redirect:      https://reitschuster.de/post/wir-testen-uns-zu-tode-wir-fuerchten
 title:         reitschuster
 subtitle:      'Wir testen uns zu Tode, wir fürchten uns zu Tode'
 country:       DE
-categories:    [Zahlen, Manipulation]
-tags:          [reitschuster, angst]
+categories:    [Zahlen]
+tags:          [reitschuster, angst, manipulation]
 ---

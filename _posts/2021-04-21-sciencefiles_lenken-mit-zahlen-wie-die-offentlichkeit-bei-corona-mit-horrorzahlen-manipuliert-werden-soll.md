@@ -4,6 +4,6 @@ redirect:      https://sciencefiles.org/2021/04/21/lenken-mit-zahlen-wie-die-off
 title:         ScienceFiles
 subtitle:      'Lenken mit Zahlen: Wie die Öffentlichkeit bei Corona mit “Horrorzahlen” manipuliert werden soll'
 country:       DE
-categories:    [Zahlen, Manipulation]
-tags:          [sciencefiles, virus-mutation]
+categories:    [Zahlen]
+tags:          [sciencefiles, virus-mutation, manipulation]
 ---

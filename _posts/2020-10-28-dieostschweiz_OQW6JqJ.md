@@ -4,6 +4,6 @@ redirect:      https://www.dieostschweiz.ch/artikel/wenn-wissenschaftler-baren-u
 title:         Die Ostschweiz
 subtitle:      'Wenn Wissenschaftler baren Unsinn schwatzen'
 country:       CH
-categories:    [Wissenschaft, Manipulation]
-tags:          [die ostschweiz, taskforce, lockdown2]
+categories:    [Wissenschaft]
+tags:          [die ostschweiz, taskforce, lockdown2, manipulation]
 ---

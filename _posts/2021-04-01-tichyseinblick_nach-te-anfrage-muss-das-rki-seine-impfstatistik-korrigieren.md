@@ -4,6 +4,6 @@ redirect:      https://www.tichyseinblick.de/daili-es-sentials/nach-te-anfrage-m
 title:         Tichys Einblick
 subtitle:      'Nach TE Anfrage korrigiert das RKI seine Statistik um 2.183 Impfungen'
 country:       DE
-categories:    [Impfung, Zahlen, Manipulation]
-tags:          [tichyseinblick]
+categories:    [Impfung, Zahlen]
+tags:          [tichyseinblick, manipulation]
 ---

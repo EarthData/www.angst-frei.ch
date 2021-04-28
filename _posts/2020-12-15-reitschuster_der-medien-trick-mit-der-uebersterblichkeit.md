@@ -4,6 +4,6 @@ redirect:      https://reitschuster.de/post/der-medien-trick-mit-der-uebersterbl
 title:         reitschuster
 subtitle:      'Der Medien-Trick mit der Übersterblichkeit'
 country:       DE
-categories:    [MSM, Manipulation]
-tags:          [reitschuster, sterblichkeit]
+categories:    [MSM]
+tags:          [reitschuster, sterblichkeit, manipulation]
 ---

@@ -4,6 +4,6 @@ redirect:      https://multipolar-magazin.de/artikel/die-mainstream-blase
 title:         multipolar
 subtitle:      'Die Mainstream-Blase'
 country:       DE
-categories:    [Manipulation, MSM]
-tags:          [multipolar, zensur]
+categories:    [MSM]
+tags:          [multipolar, zensur, manipulation]
 ---

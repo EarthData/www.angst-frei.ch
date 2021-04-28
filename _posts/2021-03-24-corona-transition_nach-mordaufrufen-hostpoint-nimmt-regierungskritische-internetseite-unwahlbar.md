@@ -4,6 +4,6 @@ redirect:      https://corona-transition.org/nach-mordaufrufen-hostpoint-nimmt-r
 title:         Corona Transition
 subtitle:      'Nach Hasskommentaren: Hostpoint nimmt Internetseite unwählbar.ch vom Netz'
 country:       CH
-categories:    [Politik, Manipulation]
-tags:          [corona transition, zensur]
+categories:    [Politik]
+tags:          [corona transition, zensur, manipulation]
 ---

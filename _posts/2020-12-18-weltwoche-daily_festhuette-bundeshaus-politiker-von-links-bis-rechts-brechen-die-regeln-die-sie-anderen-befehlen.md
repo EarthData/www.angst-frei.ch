@@ -4,6 +4,6 @@ redirect:      https://www.weltwoche-daily.ch/beitrag/festhuette-bundeshaus-poli
 title:         Weltwoche daily
 subtitle:      'Festhütte Bundeshaus: Politiker von links bis rechts brechen die Regeln, die sie anderen befehlen'
 country:       CH
-categories:    [Politik, Manipulation]
-tags:          [weltwoche daily, massnahmen, willkür]
+categories:    [Politik]
+tags:          [weltwoche daily, massnahmen, willkür, manipulation]
 ---

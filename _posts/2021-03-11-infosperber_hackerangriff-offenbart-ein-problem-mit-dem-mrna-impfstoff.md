@@ -4,6 +4,6 @@ redirect:      https://www.infosperber.ch/gesundheit/public-health/hackerangriff
 title:         INFOsperber
 subtitle:      'Hackerangriff offenbart ein Problem mit dem mRNA-Impfstoff'
 country:       CH
-categories:    [Impfung, Manipulation]
-tags:          [infosperber, biontech]
+categories:    [Impfung]
+tags:          [infosperber, biontech, manipulation]
 ---

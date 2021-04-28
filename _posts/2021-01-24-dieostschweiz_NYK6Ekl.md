@@ -5,6 +5,6 @@ title:         Die Ostschweiz
 subtitle:      'Ihr St.Galler Corona-Versager!'
 country:       CH
 persons:       [Vernazza Pietro]
-categories:    [MSM, Manipulation]
-tags:          [die ostschweiz, massnahmen]
+categories:    [MSM]
+tags:          [die ostschweiz, massnahmen, manipulation]
 ---

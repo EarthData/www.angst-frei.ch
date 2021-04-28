@@ -4,6 +4,6 @@ redirect:      https://www.wochenblick.at/nadel-der-freiheit-so-perfide-wird-der
 title:         Wochenblick
 subtitle:      '"Nadel der Freiheit": So perfide wird der Corona-Impfdruck erzeugt'
 country:       AT
-categories:    [Impfung, Recht, Manipulation]
-tags:          [wochenblick]
+categories:    [Impfung, Recht]
+tags:          [wochenblick, manipulation]
 ---

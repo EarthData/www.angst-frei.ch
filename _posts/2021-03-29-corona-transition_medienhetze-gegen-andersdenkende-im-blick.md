@@ -4,6 +4,6 @@ redirect:      https://corona-transition.org/medienhetze-gegen-andersdenkende-im
 title:         Corona Transition
 subtitle:      'Medienhetze gegen Andersdenkende im Blick'
 country:       CH
-categories:    [MSM, Manipulation]
-tags:          [corona transition]
+categories:    [MSM]
+tags:          [corona transition, manipulation]
 ---

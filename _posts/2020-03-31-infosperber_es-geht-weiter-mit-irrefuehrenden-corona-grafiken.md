@@ -4,6 +4,6 @@ redirect:      https://www.infosperber.ch/gesundheit/public-health/es-geht-weite
 title:         INFOsperber
 subtitle:      '«Es geht weiter mit irreführenden Corona-Grafiken»'
 country:       CH
-categories:    [Zahlen, Manipulation]
-tags:          [infosperber]
+categories:    [Zahlen]
+tags:          [infosperber, manipulation]
 ---

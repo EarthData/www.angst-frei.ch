@@ -4,6 +4,6 @@ redirect:      https://www.zeitpunkt.ch/vor-jeder-verschaerfung-der-massnahmen-w
 title:         ZE!TPUNKT
 subtitle:      'Vor jeder Verschärfung der Massnahmen wurde mehr getestet'
 country:       CH
-categories:    [BAG, Manipulation]
-tags:          [zeitpunkt, massnahmen]
+categories:    [BAG]
+tags:          [zeitpunkt, massnahmen, manipulation]
 ---

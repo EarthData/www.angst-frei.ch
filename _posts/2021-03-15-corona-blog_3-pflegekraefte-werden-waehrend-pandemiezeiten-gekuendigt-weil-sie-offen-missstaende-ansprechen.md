@@ -4,6 +4,6 @@ redirect:      https://corona-blog.net/2021/03/15/3-pflegekraefte-werden-waehren
 title:         corona-blog.net
 subtitle:      '3 Pflegekräfte werden während Pandemiezeiten gekündigt, weil Sie offen Missstände ansprechen'
 country:       DE
-categories:    [Manipulation, Recht]
-tags:          [corona-blog, willkür]
+categories:    [Recht]
+tags:          [corona-blog, willkür, manipulation]
 ---

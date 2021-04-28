@@ -4,6 +4,6 @@ redirect:      https://reitschuster.de/post/wie-bei-eltern-corona-angst-geschuer
 title:         reitschuster
 subtitle:      'Wie bei Eltern Corona-Angst geschürt wird'
 country:       DE
-categories:    [Zahlen, Manipulation]
-tags:          [reitschuster, kind, angst]
+categories:    [Zahlen]
+tags:          [reitschuster, kind, angst, manipulation]
 ---

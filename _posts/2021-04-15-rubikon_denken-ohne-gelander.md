@@ -4,6 +4,6 @@ redirect:      https://www.rubikon.news/artikel/denken-ohne-gelander
 title:         Rubikon
 subtitle:      'Denken ohne Geländer'
 country:       DE
-categories:    [Mensch, Manipulation]
-tags:          [rubikon, kollateralschäden]
+categories:    [Mensch]
+tags:          [rubikon, kollateralschäden, manipulation]
 ---

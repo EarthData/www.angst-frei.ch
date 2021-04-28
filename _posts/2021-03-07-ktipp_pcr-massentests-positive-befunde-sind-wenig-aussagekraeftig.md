@@ -4,6 +4,6 @@ redirect:      https://www.ktipp.ch/artikel/artikeldetail/pcr-massentests-positi
 title:         Ktipp
 subtitle:      'PCR-Massentests: Positive Befunde sind wenig aussagekräftig'
 country:       CH
-categories:    [Manipulation, Medizin]
-tags:          [ktipp, pcr-test, massentest, paywall]
+categories:    [Medizin]
+tags:          [ktipp, pcr-test, massentest, paywall, manipulation]
 ---

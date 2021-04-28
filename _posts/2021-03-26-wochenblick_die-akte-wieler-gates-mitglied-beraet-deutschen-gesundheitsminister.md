@@ -5,6 +5,6 @@ title:         Wochenblick
 subtitle:      'Die Akte Wieler: Gates-Mitglied berät deutschen Gesundheitsminister'
 country:       AT
 persons:       [Gates Bill]
-categories:    [Politik, Manipulation]
-tags:          [wochenblick]
+categories:    [Politik]
+tags:          [wochenblick, manipulation]
 ---

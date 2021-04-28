@@ -4,6 +4,6 @@ redirect:      https://reitschuster.de/post/auswertung-sterbefaelle-2/
 title:         reitschuster
 subtitle:      'Übersterblichkeit? "Sehr weit weg von allen Katastrophenszenarien"'
 country:       DE
-categories:    [Zahlen, Manipulation]
-tags:          [reitschuster, sterblichkeit]
+categories:    [Zahlen]
+tags:          [reitschuster, sterblichkeit, manipulation]
 ---

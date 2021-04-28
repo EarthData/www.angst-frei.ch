@@ -5,6 +5,6 @@ title:         Wochenblick
 subtitle:      'Zweite Welle erfunden? 90% der "Infizierten" laut Forscher falsch-positiv'
 country:       AT
 persons:       [Yeadon Michael]
-categories:    [Wissenschaft, Manipulation]
-tags:          [wochenblick, pcr-test, welle2]
+categories:    [Wissenschaft]
+tags:          [wochenblick, pcr-test, welle2, manipulation]
 ---

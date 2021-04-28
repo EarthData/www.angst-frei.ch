@@ -5,6 +5,6 @@ title:         substack.com
 subtitle:      'Wie soll es weitergehen? Ein aktueller Text zur Lage und viele Fragen'
 country:       COM
 persons:       [Matuschek Milosz]
-categories:    [Politik, Manipulation]
-tags:          [substack, wef]
+categories:    [Politik]
+tags:          [substack, wef, manipulation]
 ---

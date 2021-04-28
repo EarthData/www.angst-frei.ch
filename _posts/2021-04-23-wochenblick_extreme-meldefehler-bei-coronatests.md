@@ -4,6 +4,6 @@ redirect:      https://www.wochenblick.at/extreme-meldefehler-bei-coronatests/
 title:         Wochenblick
 subtitle:      'Extreme Meldefehler bei Coronatests'
 country:       AT
-categories:    [Zahlen, Manipulation]
-tags:          [wochenblick, selbsttest]
+categories:    [Zahlen]
+tags:          [wochenblick, selbsttest, manipulation]
 ---

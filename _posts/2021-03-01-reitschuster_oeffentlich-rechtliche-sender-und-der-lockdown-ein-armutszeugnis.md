@@ -4,6 +4,6 @@ redirect:      https://reitschuster.de/post/oeffentlich-rechtliche-sender-und-de
 title:         reitschuster
 subtitle:      'Öffentlich-rechtliche Sender und der Lockdown: Ein Armutszeugnis'
 country:       DE
-categories:    [Manipulation, Wissenschaft]
-tags:          [reitschuster, who]
+categories:    [Wissenschaft]
+tags:          [reitschuster, who, manipulation]
 ---

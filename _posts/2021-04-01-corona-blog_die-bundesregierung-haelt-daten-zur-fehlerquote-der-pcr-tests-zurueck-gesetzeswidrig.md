@@ -4,6 +4,6 @@ redirect:      https://corona-blog.net/die-bundesregierung-haelt-daten-zur-fehle
 title:         corona-blog.net
 subtitle:      'Die Bundesregierung hält Daten zur Fehlerquote der PCR-Tests zurück - Gesetzeswidrig'
 country:       DE
-categories:    [Zahlen, Manipulation, Politik]
-tags:          [corona-blog, pcr-test]
+categories:    [Zahlen, Politik]
+tags:          [corona-blog, pcr-test, manipulation]
 ---

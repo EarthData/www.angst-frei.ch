@@ -4,6 +4,6 @@ redirect:      https://uncutnews.ch/weltgesundheitsorganisation-geht-in-den-modu
 title:         Uncut-News
 subtitle:      'Weltgesundheitsorganisation geht in den Modus der Schadensbegrenzung über'
 country:       CH
-categories:    [Wissenschaft, Recht, Manipulation]
-tags:          [uncut-news, virus-ursprung, who]
+categories:    [Wissenschaft, Recht]
+tags:          [uncut-news, virus-ursprung, who, manipulation]
 ---

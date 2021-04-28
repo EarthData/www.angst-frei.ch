@@ -4,6 +4,6 @@ redirect:      https://www.journalistenwatch.com/2021/04/02/intensivmediziner-vi
 title:         Jouwatch
 subtitle:      'Intensivmediziner und Virologen lügen uns in den Dauer-Lockdown'
 country:       DE
-categories:    [Medizin, Wissenschaft, Manipulation]
-tags:          [jouwatch, angst]
+categories:    [Medizin, Wissenschaft]
+tags:          [jouwatch, angst, manipulation]
 ---

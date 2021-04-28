@@ -5,6 +5,6 @@ title:         substack.com
 subtitle:      'Im Maschinenraum der Wahrheit'
 country:       COM
 persons:       [Matuschek Milosz]
-categories:    [MSM, Politik, Manipulation]
-tags:          [substack]
+categories:    [MSM, Politik]
+tags:          [substack, manipulation]
 ---

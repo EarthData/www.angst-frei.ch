@@ -4,6 +4,6 @@ redirect:      https://www.infosperber.ch/Artikel/Medien/Auch-nach-Monaten-ist-e
 title:         INFOsperber
 subtitle:      'Auch nach Monaten ist exakte Corona-Sprache in Medien selten'
 country:       CH
-categories:    [MSM, Manipulation]
-tags:          [infosperber, lockdown2]
+categories:    [MSM]
+tags:          [infosperber, lockdown2, manipulation]
 ---

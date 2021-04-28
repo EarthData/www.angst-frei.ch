@@ -4,6 +4,6 @@ redirect:      https://swprs.org/weitere-lockdown-marchen/
 title:         Swiss Policy Research
 subtitle:      'Weitere Lockdown-Märchen'
 country:       ORG
-categories:    [Manipulation, Zahlen, MSM]
-tags:          [swprs, lockdown]
+categories:    [Zahlen, MSM]
+tags:          [swprs, lockdown, manipulation]
 ---
