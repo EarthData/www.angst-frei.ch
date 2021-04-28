@@ -14,5 +14,5 @@ date = ARGV[1]
 puts "Scraping #{url} ..."
 
 site_data = Scraper.new.scrape_url(url, date, true)
-Tools.new.write_file(site_data, true)
+Tools.new.write_file(site_data, true, false)
 

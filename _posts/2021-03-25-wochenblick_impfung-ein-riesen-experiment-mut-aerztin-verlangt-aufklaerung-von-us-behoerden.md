@@ -4,6 +4,6 @@ redirect:      https://www.wochenblick.at/impfung-ein-riesen-experiment-mut-aerz
 title:         Wochenblick
 subtitle:      'Impfung ein Riesen-Experiment? Mut-Ärztin verlangt Aufklärung von US-Behörden!'
 country:       AT
-categories:    [Impfung, Widerstand]
+categories:    [Impfung, Widerstand, Behörde]
 tags:          [wochenblick, impf-nebenwirkungen]
 ---

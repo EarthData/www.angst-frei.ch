@@ -5,5 +5,5 @@ title:         2020 News
 subtitle:      'Hausdurchsuchung bei Weimarer Sensationsrichter'
 country:       DE
 categories:    [Recht, Schule]
-tags:          [2020news, willkür, polizei]
+tags:          [2020news, willkür, polizei, weimar]
 ---

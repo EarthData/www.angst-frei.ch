@@ -2,23 +2,19 @@
 
 require 'yaml'
 
-require File.join(__dir__, 'lib/scraper')
 require File.join(__dir__, 'lib/tools')
 
-scrape = Scraper.new
-#tools = Tools.new
-#site_data = scrape.scrape_url(url, date)
-#tools.write_file(site_data)
 counter = 1
+debug = false
 
 config = YAML.load_file("config.yml")
 
-files = Dir.glob("../_posts/*.md")
+tools = Tools.new
 
-parameters = ['date', 'redirect', 'title', 'subtitle', 'timeline', 'country', 'persons', 'categories', 'tags', 'filename']
+files = Dir.glob("../_posts/*-n-tv_*.md")
+#files = Dir.glob("../_posts/*.md")
 
 files.each do |filename|
-
 
   meta_data = YAML.load_file(filename)
   file = File.open(filename)
@@ -26,106 +22,34 @@ files.each do |filename|
   file_data = file_data.gsub!(/\A---(.|\n)*?---/, '')
   file_data = file_data.gsub(/\n+|\r+/, "\n").squeeze("\n").strip
 
+  file_name = filename.split('/').last
+  meta_data['filename'] = File.basename(file_name,File.extname(file_name))
+
+  domain = tools.get_sitename(meta_data['redirect'], debug)
+
+  if config['category'][domain] and !meta_data['categories'].include?(config['category'][domain])
+    puts "File: #{filename} (#{counter})"
+    puts "#{config['category'][domain]} not found"
+    meta_data['categories'].push(config['category'][domain])
+  end
+
   if meta_data['tags'].length == 1
     puts "File: #{filename} (#{counter})"
     puts "just 1 tag"
     counter += 1
   end
 
-#  if meta_data['categories'].length == 1
-#    puts "File: #{filename} (#{counter})"
-#    puts "just 1 category"
-#    counter += 1
-#  end
-
-  next
-  
-  file_date = filename.match /([0-9]{4}\-[0-9]{2}\-[0-9]{2})/
-
-  file_name = filename.split('/').last
-  meta_data['filename'] = File.basename(file_name,File.extname(file_name))
-
-  if file_date.to_s != meta_data['date'].to_s
-    puts "filedate :#{file_date}: and metadate :#{meta_data['date']}: differ"
-    exit
+  if meta_data['categories'].length == 1
+    puts "File: #{filename} (#{counter})"
+    puts "just 1 category"
+    counter += 1
   end
 
   if file_data != ""
-    puts "File has data: #{file_data}"
-    next
+    tools.write_file(meta_data, false, file_data)
+  else
+    tools.write_file(meta_data, false, false)
   end
-  
-  if !meta_data['redirect']
-    puts "no redirect found"
-    next
-  end
-
-#  if meta_data['title'].match?(/reitschuster|Wochenblick|Tagesanzeiger|linth24|Die Ostschweiz|ScienceFiles|FM1 Today/)
-#    next
-#  end
-
-  # temporary remove NZZ
-  if meta_data['title'].match?(/NZZ|SWR|European Medicines Agency|linth24|FM1 Today|Handelsblatt/)
-    next
-  end
-
-  site_data = scrape.scrape_url(meta_data['redirect'], meta_data['date'].to_s, false)
-  
-#  if meta_data.keys != site_data.keys
-#    puts "Keys differ: #{meta_data.keys} #{site_data.keys}"
-#  end
-
-  new_file = Hash.new
-
-  parameters.each do |parameter|
-    if parameter == 'tags'
-      if !meta_data[parameter].include?(site_data['domaintag'])
-        puts "sitename #{site_data[parameter][0]} not found in tags"
-        exit
-      end
-      new_file[parameter] = meta_data[parameter]
-    elsif parameter == 'categories'
-      if !meta_data[parameter].kind_of?(Array)
-        puts "Changing catgories to array"
-        new_file[parameter] = [meta_data[parameter]]
-      else
-        new_file[parameter] = meta_data[parameter]
-      end
-    elsif parameter == 'timeline' and meta_data[parameter] == false
-      puts "deleting timeline"
-    elsif parameter == 'timeline' and !meta_data[parameter]
-      #puts "no timeline"
-    elsif parameter == 'timeline' and meta_data[parameter]
-      new_file[parameter] = meta_data[parameter]
-      puts "add timeline"
-    elsif parameter == 'subtitle' and config[parameter][meta_data['title']] and config[parameter][meta_data['title']] == "ignore"
-      new_file[parameter] = meta_data[parameter]
-      puts "ignoring subtitle"
-    elsif parameter == 'persons' and !meta_data[parameter]
-      #puts "no persons"
-    elsif parameter == 'persons' and meta_data[parameter]
-      if !meta_data[parameter].kind_of?(Array)
-        puts "Changing persons to array"
-        new_file[parameter] = [meta_data[parameter]]
-      else
-        new_file[parameter] = meta_data[parameter]
-      end
-    elsif parameter == 'filename' and meta_data['filename'].to_s != site_data['filename'].to_s
-      puts "change filename: mv ../_posts/#{meta_data[parameter]}.md ../_posts/#{site_data[parameter]}.md"
-      new_file[parameter] = site_data[parameter]
-    elsif meta_data[parameter].to_s != site_data[parameter].to_s
-      #puts "#{parameter}: changing :#{meta_data[parameter]}: to :#{site_data[parameter]}:"
-      new_file[parameter] = site_data[parameter]
-    else
-      new_file[parameter] = site_data[parameter]
-    end
-  end
-
-  Tools.new.write_file(new_file, false)
-  #if meta_data.to_s == new_file.to_s
-  #  puts "Files are equal"
-  #else
-  #end
 
 end
 

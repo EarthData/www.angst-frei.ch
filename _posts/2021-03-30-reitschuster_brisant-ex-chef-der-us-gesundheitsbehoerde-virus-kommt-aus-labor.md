@@ -4,6 +4,6 @@ redirect:      https://reitschuster.de/post/brisant-ex-chef-der-us-gesundheitsbe
 title:         reitschuster
 subtitle:      'Brisant – Ex-Chef der US-Gesundheitsbehörde: Virus kommt aus Labor'
 country:       DE
-categories:    [Politik]
+categories:    [Behörde]
 tags:          [reitschuster, virus-ursprung]
 ---

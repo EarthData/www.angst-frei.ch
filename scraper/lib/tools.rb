@@ -1,4 +1,6 @@
 
+require 'open-uri'
+
 class String
   def strip_control_characters()
     chars.each_with_object("") do |char, str|
@@ -14,7 +16,35 @@ class String
 end
 
 class Tools
-  def write_file(site_data, warn_on_existing)
+
+  def valid_json?(json)
+    JSON.parse(json)
+    return true
+  rescue JSON::ParserError => e
+    return false
+  end
+
+  def get_sitename(url, debug)
+
+    config = YAML.load_file("config.yml")
+
+    uri = URI(url).hostname
+    puts "URI: #{uri}" if debug
+
+    if config['uri'][uri] and  config['uri'][uri] == "first"
+      domain = URI(url).hostname.split('.').first
+    elsif config['uri'][uri] and  config['uri'][uri] == "second"
+      domain = URI(url).hostname.split('.')[1]
+    else
+      domain = URI(url).hostname.split('.').last(2).first
+    end
+    puts "Domain: #{domain}" if debug
+
+    return domain
+
+  end
+
+  def write_file(site_data, warn_on_existing, file_data)
 
     if(File.exist?("../_posts/#{site_data['filename']}.md") and warn_on_existing)
       puts "File ../_posts/#{site_data['filename']}.md already exists"
@@ -45,9 +75,14 @@ tags:          [#{tags}]
 ---
 }
 
+    if file_data
+      content += file_data
+    end
+
     if warn_on_existing
       puts "Writing: #{site_data['filename']}.md\n#{content}"
     end
+
     File.write("#{site_data['filename']}.md", content)
 
     if !warn_on_existing

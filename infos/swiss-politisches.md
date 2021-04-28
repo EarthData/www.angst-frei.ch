@@ -51,6 +51,7 @@ subtitle: Schweiz - Politisches
 #### Schweiz
 
  * [Sofortige Offenlegung der Verträge mit dem Pharmakonzernen bezüglich Covid-19-Impfstoff-Kauf](https://act.campax.org/petitions/sofortige-offenlegung-der-vertrage-mit-den-pharmakonzernen-bezuglich-covid-19-impfstoff-kauf-1)
+ * [Moratorium für RNA-Impfstoffe](https://swiss-freedom.ch/de)
 
 #### Europa
 

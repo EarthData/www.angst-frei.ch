@@ -6,16 +6,14 @@ require File.join(__dir__, 'lib/scraper')
 require File.join(__dir__, 'lib/tools')
 
 scrape = Scraper.new
-#tools = Tools.new
-#site_data = scrape.scrape_url(url, date)
-#tools.write_file(site_data)
+tools = Tools.new
 counter = 1
 
 config = YAML.load_file("config.yml")
 
-files = Dir.glob("../_posts/*-handelsblatt_*.md")
+files = Dir.glob("../_posts/*-dieostschweiz_*.md")
 #files = Dir.glob("../_posts/2021-03-*.md")
-files = Dir.glob("../_posts/*.md")
+#files = Dir.glob("../_posts/*.md")
 
 parameters = ['date', 'redirect', 'title', 'subtitle', 'timeline', 'country', 'persons', 'categories', 'tags', 'filename']
 
@@ -115,7 +113,7 @@ files.each do |filename|
     end
   end
 
-  Tools.new.write_file(new_file, false)
+  tools.write_file(new_file, false, false)
   #if meta_data.to_s == new_file.to_s
   #  puts "Files are equal"
   #else

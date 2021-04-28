@@ -5,27 +5,13 @@ require 'json'
 
 class Scraper
 
-  def valid_json?(json)
-    JSON.parse(json)
-    return true
-  rescue JSON::ParserError => e
-    return false
-  end
-
   def scrape_url(url, date, debug) 
 
     config = YAML.load_file("config.yml")
 
-    uri = URI(url).hostname
-    puts "URI: #{uri}" if debug
-    if config['uri'][uri] and  config['uri'][uri] == "first"
-      domain = URI(url).hostname.split('.').first
-    elsif config['uri'][uri] and  config['uri'][uri] == "second"
-      domain = URI(url).hostname.split('.')[1]
-    else
-      domain = URI(url).hostname.split('.').last(2).first
-    end
-    puts "Domain: #{domain}" if debug
+    tools = Tools.new
+    domain = tools.get_sitename(url, debug)
+
     if config['country'][domain] 
       tld = config['country'][domain]
     else
@@ -79,7 +65,7 @@ class Scraper
     # read application/ld+json
     if doc.at("script[type='application/ld+json']")
       ld_json = doc.at("script[type='application/ld+json']").text
-      if valid_json?(ld_json)
+      if tools.valid_json?(ld_json)
         ld_meta =  JSON.parse(ld_json)
         if ld_meta.kind_of?(Array)
           ld_meta = ld_meta.first
