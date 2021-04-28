@@ -49,12 +49,3 @@ Wenn Du uns helfen möchtest, findest Du weitere Informationen [hier](/help.html
 ### Haftungshinweis
 
 Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
-
-<script type="text/javascript">
-var LHCChatboxOptions = {hashchatbox:'empty',identifier:'angst-frei',status_text:'Chatbox'};
-(function() {
-var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-po.src = '//demo.stream/chatbox/index.php/chatbox/getstatus/(position)/bottom_right/(top)/300/(units)/pixels/(width)/300/(theme)/3/(height)/300/(chat_height)/220';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-})();
-</script>

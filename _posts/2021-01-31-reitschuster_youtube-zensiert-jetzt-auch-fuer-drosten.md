@@ -5,6 +5,6 @@ title:         reitschuster
 subtitle:      "Virologenlästerung? YouTube zensiert jetzt auch für Drosten"
 country:       DE
 persons:       [Drosten Christian]
-categories:    [Manipulation]
+categories:    [Wissenschaft, Manipulation]
 tags:          [reitschuster, youtube, zensur]
 ---

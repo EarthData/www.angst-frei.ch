@@ -4,6 +4,6 @@ redirect:      https://www.zeitpunkt.ch/eine-checkliste-zeigt-die-pandemie-wird-
 title:         ZE!TPUNKT
 subtitle:      'Eine Checkliste zeigt: Die Pandemie wird von Leuten mit Sektenmentalität verwaltet'
 country:       CH
-categories:    [Manipulation]
+categories:    [P(l)andemie, Manipulation]
 tags:          [zeitpunkt, zensur]
 ---

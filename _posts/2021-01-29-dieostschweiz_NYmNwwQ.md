@@ -4,6 +4,6 @@ redirect:      https://www.dieostschweiz.ch/artikel/manipulieren-fuer-den-guten-
 title:         Die Ostschweiz
 subtitle:      'Manipulieren für den guten Zweck? Das geht nicht mehr lange gut'
 country:       CH
-categories:    [Manipulation]
+categories:    [Behörde, Wissenschaft, MSM, Manipulation]
 tags:          [die ostschweiz, massnahmen, zensur]
 ---
