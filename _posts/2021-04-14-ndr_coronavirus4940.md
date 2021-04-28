@@ -5,5 +5,5 @@ title:         NDR
 subtitle:      'Schnelltests "nicht zuverlässig": Landes-Anwälte mit brisanter Aussage'
 country:       DE
 categories:    [Recht]
-tags:          [ndr, schnelltest]
+tags:          [ndr, selbsttest]
 ---

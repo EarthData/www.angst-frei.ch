@@ -4,6 +4,6 @@ redirect:   https://www.rubikon.news/artikel/die-schein-coronatoten-2
 title:      Rubikon
 subtitle:   "Die Schein-Coronatoten"
 country:    DE
-categories: [Manipulation]
+categories: [Recht, Manipulation]
 tags:       [rubikon]
 ---

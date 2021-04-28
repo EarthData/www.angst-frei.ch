@@ -4,6 +4,6 @@ redirect:      https://uncutnews.ch/ein-zwischenzeitlich-geloeschter-und-entlarv
 title:         Uncut-News
 subtitle:      'Ein inzwischen gelöschter und entlarvender Artikel von Forbes im 2010 über die WHO: "Warum wurde eine Pandemie vorgetäuscht?"'
 country:       CH
-categories:    [Manipulation]
-tags:          [uncut-news]
+categories:    [MSM, Manipulation]
+tags:          [uncut-news, who]
 ---

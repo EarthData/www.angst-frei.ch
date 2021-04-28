@@ -4,6 +4,6 @@ redirect:      https://www.achgut.com/artikel/faktenchecker_fortsetzung_hat_das_
 title:         Achgut.com
 subtitle:      'Faktenchecker, die Fortsetzung: Hat das ZDF Zitate gefälscht?'
 country:       DE
-categories:    [Manipulation]
+categories:    [MSM, Manipulation]
 tags:          [achgut, ard, zdf]
 ---

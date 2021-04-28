@@ -5,5 +5,5 @@ title:         Weltwoche daily
 subtitle:      'Wie wir manipuliert werden: Die tödlichere Corona-Mutation ist ein Schauermärchen, die Schutzmaskenpflicht ein schlechter Witz'
 country:       CH
 categories:    [Manipulation, BAG, Politik]
-tags:          [weltwoche daily, virus-mutation, bundesrat. taskforce, maske]
+tags:          [weltwoche daily, virus-mutation, bundesrat, taskforce, maske]
 ---

@@ -4,6 +4,6 @@ redirect:   https://www.tichyseinblick.de/kolumnen/herles-faellt-auf/trojanische
 title:      Tichys Einblick
 subtitle:   "Trojanische Pferde. Eine notwendige wie sinnlose Wutrede."
 country:    DE
-categories: [Manipulation]
+categories: [Politik, Manipulation]
 tags:       [tichyseinblick, demokratie]
 ---

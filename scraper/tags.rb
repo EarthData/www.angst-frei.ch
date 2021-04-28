@@ -12,11 +12,17 @@ config = YAML.load_file("config.yml")
 tools = Tools.new
 
 files = Dir.glob("../_posts/*-focus_*.md")
-#files = Dir.glob("../_posts/*.md")
+files = Dir.glob("../_posts/*.md")
 
 files.each do |filename|
 
   meta_data = YAML.load_file(filename)
+
+  if !meta_data['redirect']
+    puts "no redirect found"
+    next
+  end
+
   file = File.open(filename)
   file_data = file.read
   file_data = file_data.gsub!(/\A---(.|\n)*?---/, '')
@@ -33,17 +39,24 @@ files.each do |filename|
     meta_data['categories'].push(config['category'][domain])
   end
 
-  if meta_data['tags'].length == 1
-    puts "File: #{filename} (#{counter})"
-    puts "just 1 tag"
-    counter += 1
-  end
+#  if meta_data['tags'].length == 1
+#    puts "File: #{filename} (#{counter})"
+#    puts "just 1 tag"
+#    counter += 1
+#  end
 
-  if meta_data['categories'].length == 1
+#  if meta_data['categories'].length == 1
+#    puts "File: #{filename} (#{counter})"
+#    puts "just 1 category"
+#    counter += 1
+#  end
+
+  if meta_data['categories'].include?("Manipulation") and meta_data['categories'].length == 1
     puts "File: #{filename} (#{counter})"
-    puts "just 1 category"
     counter += 1
   end
+    
+  next
 
   if file_data != ""
     tools.write_file(meta_data, false, file_data)

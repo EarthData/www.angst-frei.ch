@@ -4,6 +4,6 @@ redirect:      https://www.achgut.com/artikel/ard_und_zdf_faktenchecker_erwischt
 title:         Achgut.com
 subtitle:      'ARD- und ZDF-Faktenchecker erwischt: Die Schamlosen'
 country:       DE
-categories:    [Manipulation]
+categories:    [MSM, Manipulation]
 tags:          [achgut, ard, zdf]
 ---

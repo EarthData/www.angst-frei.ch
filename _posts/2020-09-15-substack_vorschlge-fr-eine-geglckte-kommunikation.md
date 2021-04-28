@@ -5,6 +5,6 @@ title:         substack.com
 subtitle:      'Vorschläge für eine geglückte Kommunikation'
 country:       COM
 persons:       [Matuschek Milosz]
-categories:    [Manipulation]
-tags:          [substack]
+categories:    [MSM, Manipulation]
+tags:          [substack, debatte]
 ---
