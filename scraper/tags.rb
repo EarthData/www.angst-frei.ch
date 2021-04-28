@@ -13,16 +13,12 @@ counter = 1
 
 config = YAML.load_file("config.yml")
 
-files = Dir.glob("../_posts/*-handelsblatt_*.md")
-#files = Dir.glob("../_posts/2021-03-*.md")
 files = Dir.glob("../_posts/*.md")
 
 parameters = ['date', 'redirect', 'title', 'subtitle', 'timeline', 'country', 'persons', 'categories', 'tags', 'filename']
 
 files.each do |filename|
 
-  puts "File: #{filename} (#{counter})"
-  counter += 1
 
   meta_data = YAML.load_file(filename)
   file = File.open(filename)
@@ -31,8 +27,18 @@ files.each do |filename|
   file_data = file_data.gsub(/\n+|\r+/, "\n").squeeze("\n").strip
 
   if meta_data['tags'].length == 1
+    puts "File: #{filename} (#{counter})"
     puts "just 1 tag"
+    counter += 1
   end
+
+#  if meta_data['categories'].length == 1
+#    puts "File: #{filename} (#{counter})"
+#    puts "just 1 category"
+#    counter += 1
+#  end
+
+  next
   
   file_date = filename.match /([0-9]{4}\-[0-9]{2}\-[0-9]{2})/
 

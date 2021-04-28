@@ -4,6 +4,6 @@ redirect:      https://www.ndr.de/nachrichten/mecklenburg-vorpommern/Nach-Todesf
 title:         NDR
 subtitle:      'AstraZeneca: Uniklinik setzt Impfung für Risikogruppen aus'
 country:       DE
-categories:    [Impfung]
+categories:    [MSM, Impfung]
 tags:          [ndr, impf-stopp, mit oder an impfung gestorben, impf-nebenwirkungen, astrazeneca]
 ---
