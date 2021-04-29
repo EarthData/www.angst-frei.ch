@@ -11,7 +11,7 @@ config = YAML.load_file("config.yml")
 
 tools = Tools.new
 
-files = Dir.glob("../_posts/*-nzz_*.md")
+files = Dir.glob("../_posts/*-tagesanzeiger_*.md")
 #files = Dir.glob("../_posts/*.md")
 
   task = "check_categories"

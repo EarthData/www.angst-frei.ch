@@ -1,8 +1,9 @@
 ---
-title:      angst-frei
-layout:     page
-cover-img:  /assets/img/hope.jpg
-head-extra: favicons.html
+title:        angst-frei
+layout:       page
+cover-img:    /assets/img/hope.jpg
+head-extra:   favicons.html
+footer-extra: footer-i-d.html
 share-description: 'Übersicht und Aggregation von kritischen Stimmen zum aktuellen Covid19-Geschehen'
 ---
 
@@ -43,9 +44,3 @@ Auch in den Mainstream-Medien erscheinen durchaus kritische Artikel zum Thema, d
 ## Hilfe willkommen
 
 Wenn Du uns helfen möchtest, findest Du weitere Informationen [hier](/help.html).
-
----
-
-### Haftungshinweis
-
-Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
