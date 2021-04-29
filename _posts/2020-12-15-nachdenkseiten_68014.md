@@ -5,5 +5,5 @@ title:         NachDenkSeiten
 subtitle:      'Das Impfdilemma'
 country:       DE
 categories:    [Impfung]
-tags:          [nachdenkseiten]
+tags:          [nachdenkseiten, impfplan]
 ---

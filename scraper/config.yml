@@ -87,6 +87,7 @@ sitename:
   zeitpunkt: ZE!TPUNKT
   zueriost: züriost
 tag:
+  1bis19: 1bis19
   2020news: 2020news
   aargau-zuerich: aargau-zuerich
   achgut: achgut
@@ -185,3 +186,4 @@ category:
   tagesanzeiger: MSM
   welt: MSM
   focus: MSM
+  nzz: MSM

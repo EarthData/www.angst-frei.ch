@@ -11,8 +11,11 @@ config = YAML.load_file("config.yml")
 
 tools = Tools.new
 
-files = Dir.glob("../_posts/*-focus_*.md")
-files = Dir.glob("../_posts/*.md")
+files = Dir.glob("../_posts/*-nzz_*.md")
+#files = Dir.glob("../_posts/*.md")
+
+  task = "check_categories"
+#  task = "check_tags"
 
 files.each do |filename|
 
@@ -32,24 +35,29 @@ files.each do |filename|
   meta_data['filename'] = File.basename(file_name,File.extname(file_name))
 
   domain = tools.get_sitename(meta_data['redirect'], debug)
-
-  if config['category'][domain] and !meta_data['categories'].include?(config['category'][domain])
-    puts "File: #{filename} (#{counter})"
-    puts "#{config['category'][domain]} not found"
-    meta_data['categories'].push(config['category'][domain])
+ 
+  if task == "check_categories"
+    if config['category'][domain] and !meta_data['categories'].include?(config['category'][domain])
+      puts "File: #{filename} (#{counter})"
+      puts "#{config['category'][domain]} not found"
+      meta_data['categories'].push(config['category'][domain])
+    end
+    if meta_data['categories'].length == 1
+      puts "File: #{filename} (#{counter})"
+      puts "just 1 category"
+      counter += 1
+    end
   end
 
-#  if meta_data['tags'].length == 1
-#    puts "File: #{filename} (#{counter})"
-#    puts "just 1 tag"
-#    counter += 1
-#  end
+  if task == "check_tags"
+    if meta_data['tags'].length == 1
+      puts "File: #{filename} (#{counter})"
+      puts "just 1 tag"
+      counter += 1
+    end
+    next
+  end
 
-#  if meta_data['categories'].length == 1
-#    puts "File: #{filename} (#{counter})"
-#    puts "just 1 category"
-#    counter += 1
-#  end
 
   #if meta_data['categories'].include?("Manipulation") and meta_data['categories'].length == 1
   #  puts "File: #{filename} (#{counter})"

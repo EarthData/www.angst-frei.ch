@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      '«Mach’s einfach»: Die lästige Fragerei soll endlich ein Ende haben'
 country:       CH
 categories:    [BAG]
-tags:          [die ostschweiz]
+tags:          [die ostschweiz, willkür]
 ---

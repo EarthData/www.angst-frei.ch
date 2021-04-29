@@ -5,5 +5,5 @@ title:         medinside.ch
 subtitle:      'Geschasster Arzt Rainer Schregel ist wieder im Amt'
 country:       CH
 categories:    [Medizin, Recht]
-tags:          [medinside]
+tags:          [medinside, willkür]
 ---

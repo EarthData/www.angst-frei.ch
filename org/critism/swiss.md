@@ -115,6 +115,16 @@ Unsere Landesregierung verfolgt offensichtlich eine Agenda, welche nichts mit Co
 
 | {{ site.icons.globe }}    | [www.reaktion.org](https://www.reaktion.org/) |
 
+## REAKTION.ORG
+
+Unsere Landesregierung verfolgt offensichtlich eine Agenda, welche nichts mit Corona oder der Volksgesundheit zu tun hat. Viel mehr scheint sie Pläne für einen globalen wirtschaftlichen und gesellschaftlichen Umbruch hin zu einem zentralisierten und autoritären Superstaat aktiv zu unterstützen.
+
+## Reiner Tisch
+
+Eine ausgewählte Sammlung interessanter Meinungen und Fakten zum Thema Corona. 
+
+| {{ site.icons.globe }}    | [www.reinertisch.org](https://www.reinertisch.org/) |
+
 ## SOS-KMU Verband
 
 Gemeinsam mit Vernunft zurück zur Normalität
