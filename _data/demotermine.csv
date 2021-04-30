@@ -30,15 +30,19 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2849,DE,2021-05-01,14:00:00,56068,Koblenz,Jesuitenplatz,Mahnwache,,unbekannt,
 2870,DE,2021-05-01,14:00:00,56068,Koblenz,Jesuitenplatz,Mahnwache,,unbekannt,
 2816,DE,2021-05-01,14:00:00,30169,Hannover,Maschsee / Nordufer,Kundgebung,,unbekannt,
+2887,DE,2021-05-01,14:00:00,30159,Hannover,Trammplatz,Demonstration,,Querdenken 511 Hannover,https://www.facebook.com/Querdenken511Hannover
 2853,DE,2021-05-01,14:00:00,36037,Fulda,Universitätsplatz,Kundgebung,,unbekannt,
 2815,DE,2021-05-01,14:00:00,49152,Bad Essen,An der Breede / beim Labyrinth,Autokorso,,Autocorso,
 2824,DE,2021-05-01,15:00:00,50679,Köln,Deutzer Werft,Demonstration,,Koeln ist aktiv,https://koelnistaktiv.de
 2771,DE,2021-05-01,15:00:00,40213,Düsseldorf,Corneliusplatz,Spaziergang,,unbekannt,
 2861,DE,2021-05-01,15:00:00,44787,Bochum,Dr.-Ruer-Platz,Demonstration,,Querdenken 234 - Bochum,https://querdenken-234.de
 2865,DE,2021-05-01,15:30:00,29525,Uelzen,Herzogenplatz,Demonstration,,Private Initiative für Wiederherstellung der Grundrechte,
+2885,DE,2021-05-01,15:30:00,29525,Uelzen,Herzogenplatz,Kundgebung,,unbekannt,
 2805,DE,2021-05-01,15:30:00,295252,Uelzen,Herzogenplatz,Kundgebung,,unbekannt,
+2878,DE,2021-05-01,15:30:00,87600,Kaufbeuren,Obstmarkt / Fußgängerzone,Meditation,,unbekannt,
 2673,DE,2021-05-01,17:00:00,06846,Dessau-Roßlau,Alte Landebahn,Autokorso,,Privat,https://t.me/autokorso_dessau
 2759,DE,2021-05-01,17:30:00,06846,Dessau,Alte Landebahn,Autokorso,,unbekannt,
+2880,DE,2021-05-01,19:00:00,74336,Brackenheim,Rathaus,Demonstration,,unbekannt,
 2803,DE,2021-05-01,19:00:00,74357,Bönnigheim,Marktplatz / Stadtmitte,Kundgebung,,unbekannt,
 2796,DE,2021-05-02,10:45:00,75015,Bretten,Marktplatz,Meditation,,unbekannt,
 2859,DE,2021-05-02,11:00:00,71364,Winnenden,Adlerplatz,Musik,,Horn For Hope,
@@ -52,6 +56,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2875,DE,2021-05-02,16:00:00,29223,Celle,Hermann-Löns-Str. / Wendehammer,Kundgebung,,Nachdenker,
 2818,DE,2021-05-02,17:30:00,92237,Sulzbach-Rosenberg,Dultplatz / Rosenberger Str.,Kundgebung,,Bayern steht zusammen e.V.,https://www.bayern-steht-zusammen.de/TERMINE/
 2640,LI,2021-05-02,18:00:00,9490,Vaduz,Peter-Kaiser-Platz,Spaziergang,,unknown,
+2886,DE,2021-05-03,15:00:00,10117,Berlin,Brandenburger Tor,Kundgebung,https://fb.me/e/2a1Hkv7X9,#ESREICHT,https://t.me/s/silberjungeoffiziell?before=1392
+2888,DE,2021-05-03,15:00:00,10117,Berlin,Brandenburger Tor,Livestream,https://fb.me/e/2a1Hkv7X9,demokratievs1984,https://demokratischer-kalender.de/de/event/demo-fur-grundrechte-selbstbestimmung-berlin-2021-04-05/2021-05-03-15-00
 2848,DE,2021-05-03,17:00:00,17166,Teterow,Marktplatz,Kundgebung,https://dlive.tv/MV1,unbekannt,
 2863,DE,2021-05-03,17:00:00,06333,Hettstedt,Markt / Denkmal,Kundgebung,,unbekannt,
 2579,CH,2021-05-03,18:00:00,8636,Wald / ZH,Hallenbad / Windegg,Spaziergang,,unknown,
@@ -66,12 +72,15 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2799,DE,2021-05-03,18:30:00,29221,Celle,Stechbahn,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,
 2851,DE,2021-05-03,18:30:00,74336,Brackenheim,Rathaus,Lichterkette,,unbekannt,
 2443,DE,2021-05-03,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,unbekannt,
+2884,DE,2021-05-03,19:00:00,06682,Teuchern,Mühlstr. / RTS Platz,Spaziergang,,unbekannt,
 2564,CH,2021-05-03,19:00:00,6004,Luzern,Schwanenplatz,Spaziergang,,unbekannt,
 2858,DE,2021-05-03,19:00:00,47906,Kempen,Kuhtor,Spaziergang,,Privat,
+2879,DE,2021-05-03,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,unbekannt,
 2821,DE,2021-05-03,19:00:00,04509,Delitzsch,Marktplatz,Spaziergang,,unbekannt,
 2873,DE,2021-05-04,18:00:00,33758,Schloß Holte-Stukenbrock,Holter Kirchplatz,Spaziergang,,unbekannt,
 2586,CH,2021-05-05,14:00:00,4410,Liestal,Bahnhof,Spaziergang,,unknown,
 2599,CH,2021-05-05,18:00:00,2542,Pieterlen,Bahnhof,Spaziergang,,unknown,
+2881,DE,2021-05-05,18:00:00,80539,München,Odeonsplatz,Spaziergang,,München steht auf,
 2737,DE,2021-05-05,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
 2592,CH,2021-05-05,18:30:00,9470,Buchs / SG,Lokremise,Spaziergang,,unknown,
 2868,DE,2021-05-06,17:30:00,72622,Nürtingen,Lammbrunnen,Kundgebung,,Querdenken 702,
@@ -84,7 +93,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2635,CH,2021-05-07,18:00:00,3186,Düdingen,Bahnhof,Spaziergang,,unknown,
 2623,CH,2021-05-07,19:00:00,7320,Sargans,Bahnhof,Spaziergang,,unknown,
 2629,CH,2021-05-07,19:00:00,2503,Biel-Bienne,Bahnhof,Spaziergang,,unknown,
+2876,DE,2021-05-08,10:00:00,24568,Kaltenkirchen,Marktplatz,Demonstration,,unbekannt,https://t.me/Corona_Forum_Henstedt_Ulzburg
 2571,CH,2021-05-08,13:00:00,8001,Zürich,Fraumünster-Kirche,Spaziergang,,unknown,
+2877,DE,2021-05-08,13:00:00,24558,Henstedt-Ulzburg,Vor Kentucky Brät Hähnchen,Schilderwald,,unbekannt,https://t.me/Corona_Forum_Henstedt_Ulzburg
 2251,DE,2021-05-08,14:00:00,83278,Traunstein,Salinenpark,Aufzug,https://dlive.tv/861Querdenken-TS?ref=papageienumschau,Querdenker-861,www.querdenken-ts.de
 2812,DE,2021-05-08,14:00:00,26122,Oldenburg,Schloßplatz,Aufzug,,Querdenken441,https://querdenken441.de
 2788,CH,2021-05-08,14:00:00,5000,Aargau,Stadtmuseum,Kundgebung,,unbekannt,
