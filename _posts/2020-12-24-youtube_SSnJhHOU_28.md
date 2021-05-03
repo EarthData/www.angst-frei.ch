@@ -4,8 +4,8 @@ title:      WIR - Wissen ist relevant
 subtitle:   "Paul Schreyer: Pandemie-Planspiele – Vorbereitung einer neuen Ära?"
 date:       2020-12-24
 timeline:   Politik
-categories: [Video]
 persons:    [Gates Bill]
+categories: [Video, P(l)andemie]
 tags:       [wir, wef, youtube]
 youtubeId:  "SSnJhHOU_28"
 ---
