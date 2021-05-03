@@ -4,6 +4,6 @@ redirect:      https://www.zeitpunkt.ch/index.php/erstmals-verlangt-eine-behoerd
 title:         ZE!TPUNKT
 subtitle:      'Erstmals verlangt eine Behörde die Offenlegung der Anzahl Zyklen beim PCR-Test'
 country:       CH
-categories:    [Politik, Wissenschaft]
+categories:    [Politik, Behörde, Wissenschaft]
 tags:          [zeitpunkt, pcr-test]
 ---

@@ -17,6 +17,7 @@ subtitle: Schweiz - Politisches
 #### Schweiz
 
  * [COVID-19 Referendum](https://covid19-referendum.ch/)
+ * [COVID-Gesetz NEIN](https://covidgesetz-nein.ch/)
 
 ### Petitionen
 

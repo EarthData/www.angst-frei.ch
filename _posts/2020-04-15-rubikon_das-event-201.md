@@ -5,6 +5,6 @@ title:         Rubikon
 subtitle:      'Das Event 201'
 country:       DE
 persons:       [Gates Bill]
-categories:    [Wissenschaft]
+categories:    [P(l)andemie]
 tags:          [rubikon, event 201]
 ---
