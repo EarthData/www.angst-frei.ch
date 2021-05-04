@@ -5,6 +5,6 @@ title:         Die Ostschweiz
 subtitle:      'Diese wundervolle Stadt hat diesen Stadtrat nicht verdient'
 country:       CH
 categories:    [Politik]
-tags:          [die ostschweiz, st.gallen]
+tags:          [st.gallen]
 ---
 Dead Link: https://www.dieostschweiz.ch/artikel/diese-wundervolle-stadt-hat-diesen-stadtrat-nicht-verdient-AWqa8Ar
