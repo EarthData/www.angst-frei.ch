@@ -10,7 +10,8 @@ permalink: /json/network-link-data.json
     {
       "id": "{{ node.id }}",
       "value": "{{ node.value }}",
-      "label": "{{ node.label | replace: '"', "'" }}"
+      "title": "{{ node.title | replace: '"', "'" }}",
+      "group": "{{ node.group }}"
     }
     {%unless forloop.last %},{%endunless%}
     {%- endfor -%}

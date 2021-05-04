@@ -4,6 +4,6 @@ redirect:      https://www.ktipp.ch/artikel/artikeldetail/grippe-war-fuer-aelter
 title:         Ktipp
 subtitle:      'Grippe war für Ältere stets eine Gefahr '
 country:       CH
-categories:    [Zahlen]
+categories:    [Gesundheit]
 tags:          [ktipp, sterblichkeit, paywall]
 ---

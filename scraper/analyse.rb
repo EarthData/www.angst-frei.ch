@@ -67,9 +67,9 @@ files.each do |filename|
 
   parameters.each do |parameter|
     if parameter == 'tags'
-      if !meta_data[parameter].include?(site_data['domaintag'])
-        puts "sitename #{site_data[parameter][0]} not found in tags"
-        exit
+      if meta_data[parameter].include?(site_data['domaintag'])
+        puts "sitename #{site_data['domaintag']} found in tags"
+        meta_data[parameter].delete_at(meta_data[parameter].index(site_data['domaintag']))
       end
       new_file[parameter] = meta_data[parameter]
     elsif parameter == 'categories'

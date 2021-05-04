@@ -9,6 +9,9 @@ counter = 1
 
 files = Dir.glob("../_posts/*.md")
 
+graph_categories = false
+graph_tags = true
+
 network_nodes = Hash.new
 network_edges = Array.new
 
@@ -20,7 +23,7 @@ files.each do |filename|
   puts "File: #{filename} (#{counter})"
   counter += 1
 
-  break if counter > 100
+  break if counter > 1545
 
   meta_data = YAML.load_file(filename)
 
@@ -31,54 +34,64 @@ files.each do |filename|
 
   file_date = file_name.match /([0-9]{4}\-[0-9]{2}\-[0-9]{2})/
   #file_name = file_name.match /[0-9]{4}\-[0-9]{2}\-[0-9]{2}\-(.*)$/
-  if network_nodes[meta_data['subtitle']]
-    puts "#{meta_data['subtitle']} already exists"
+  if network_nodes[file_name]
+    puts "#{file_name} already exists"
   else
-    network_nodes[meta_data['subtitle']] = Hash.new
-    network_nodes[meta_data['subtitle']]['id'] = node_count
-    network_nodes[meta_data['subtitle']]['value'] = 1
+    network_nodes[file_name] = Hash.new
+    network_nodes[file_name]['id'] = node_count
+    network_nodes[file_name]['value'] = 1
+    network_nodes[file_name]['title'] = meta_data['subtitle']
+    network_nodes[file_name]['group'] = meta_data['title']
     article_id = node_count
     node_count += 1
   end
   
-  meta_data['categories'].each do |category|
-    if network_nodes[category]
-      #puts "#{category} already exists"
-      network_nodes[category]['value'] += 1
-      network_edges <<  { "source" => article_id, "target" => network_nodes[category]['id'], "value" => 3 }
-      edges_count += 1
-    else
-      network_nodes[category] = Hash.new
-      network_nodes[category]['id'] = node_count
-      network_nodes[category]['value'] = 1
-      network_edges <<  { "source" => article_id, "target" => node_count, "value" => 3 }
-      node_count += 1
+  if graph_categories
+    meta_data['categories'].each do |category|
+      if network_nodes[category]
+        #puts "#{category} already exists"
+        network_nodes[category]['value'] += 1
+        network_edges <<  { "source" => article_id, "target" => network_nodes[category]['id'], "value" => 3 }
+        edges_count += 1
+      else
+        network_nodes[category] = Hash.new
+        network_nodes[category]['id'] = node_count
+        network_nodes[category]['title'] = category
+        network_nodes[category]['value'] = 1
+        network_nodes[category]['group'] = "Kategorien" 
+        network_edges <<  { "source" => article_id, "target" => node_count, "value" => 3 }
+        node_count += 1
+      end
     end
   end
 
-##  meta_data['tags'].each do |tag|
-#    next if tag == "wochenblick"
-#    if network_nodes[tag]
-#      #puts "#{tag} already exists"
-#      network_nodes[tag]['value'] += 1
-#      network_edges <<  { "source" => article_id, "target" => network_nodes[tag]['id'], "value" => 1 }
-#      edges_count += 1
-#    else
-#      network_nodes[tag] = Hash.new
-#      network_nodes[tag]['id'] = node_count
-#      network_nodes[tag]['value'] = 1
-#      network_edges <<  { "source" => article_id, "target" => node_count, "value" => 1 }
-#      node_count += 1
-#    end
-#  end
+  if graph_tags
+    meta_data['tags'].each do |tag|
+      next if tag.match(/^(wochenblick|corona transition|reitschuster|rt|tkp|epoch times)$/)
+      if network_nodes[tag]
+        #puts "#{tag} already exists"
+        network_nodes[tag]['value'] += 1
+        network_edges <<  { "source" => network_nodes[tag]['id'], "target" => article_id, "value" => 1 }
+        edges_count += 1
+      else
+        network_nodes[tag] = Hash.new
+        network_nodes[tag]['id'] = node_count
+        network_nodes[tag]['title'] = tag
+        network_nodes[tag]['value'] = 1
+        network_nodes[tag]['group'] = tag
+        network_edges <<  { "source" => node_count, "target" => article_id, "value" => 1 }
+        node_count += 1
+      end
+    end
+  end
   
 end
 
 
-CSV.open("../_data/network-link-nodes.csv", "wb") do |csv|  
-  csv << ["id", "label", "value"]
+CSV.open("../_data/network-link-nodes.csv", "wb", { :force_quotes => true }) do |csv|  
+  csv << ["id", "title", "value", "group"]
   network_nodes.each do |node, values|
-    csv << [values['id'], node, values['value']]  
+    csv << [values['id'], values['title'], values['value'], values['group']]  
   end
 end  
 

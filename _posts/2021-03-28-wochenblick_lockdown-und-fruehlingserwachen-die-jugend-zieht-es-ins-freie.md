@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Lockdown und Frühlingserwachen: Die Jugend zieht es ins Freie'
 country:       AT
 categories:    [Mensch, Widerstand]
-tags:          [wochenblick]
+tags:          [wochenblick, jugend]
 ---

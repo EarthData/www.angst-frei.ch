@@ -147,7 +147,6 @@ class Scraper
       tags.push(config['tag'][domain])
       domaintag = config['tag'][domain]
     else
-      tags.push(site_name.downcase)
       domaintag = site_name.downcase
     end
  
