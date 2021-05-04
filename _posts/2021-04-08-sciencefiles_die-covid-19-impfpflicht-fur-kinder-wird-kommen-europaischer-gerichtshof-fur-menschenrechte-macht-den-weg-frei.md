@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      'Die COVID-19-Impfpflicht (für Kinder) wird kommen: Europäischer Gerichtshof für Menschenrechte macht den Weg frei'
 country:       DE
 categories:    [Recht, Impfung]
-tags:          [sciencefiles, impfzwang, kind, menschenrechte]
+tags:          [impfzwang, kind, menschenrechte]
 ---

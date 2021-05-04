@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      'Ärzte warnen vor gefährlichen Blutgerinnsel als Folge von Impfungen mit COVID-19-Impfstoffen'
 country:       DE
 categories:    [Medizin]
-tags:          [sciencefiles, impf-nebenwirkungen, blutgerinnungsstörungen]
+tags:          [impf-nebenwirkungen, blutgerinnungsstörungen]
 ---

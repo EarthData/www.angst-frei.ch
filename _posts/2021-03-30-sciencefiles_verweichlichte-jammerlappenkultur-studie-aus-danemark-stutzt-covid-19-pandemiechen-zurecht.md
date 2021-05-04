@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      'Verweichlichte Jammerlappenkultur: Studie aus Dänemark stutzt COVID-19 Pandemiechen zurecht'
 country:       DE
 categories:    [Studie]
-tags:          [sciencefiles, who]
+tags:          [who]
 ---

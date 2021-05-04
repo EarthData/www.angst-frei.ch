@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      '10.000e Tote als Übersterblichkeit infolge von Impfung? Ergebnisse für das UK legen Möglichkeit nahe [HART-Studie 2]'
 country:       DE
 categories:    [Studie, Impfung]
-tags:          [sciencefiles, sterblichkeit, lockdown, mit oder an impfung gestorben]
+tags:          [sterblichkeit, lockdown, mit oder an impfung gestorben]
 ---

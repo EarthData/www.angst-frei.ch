@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      'Lockdowns haben keinerlei Effekt auf die Anzahl der COVID-19-Toten [Neue Studie]'
 country:       DE
 categories:    [Studie, Zahlen]
-tags:          [sciencefiles, lockdown, sterblichkeit]
+tags:          [lockdown, sterblichkeit]
 ---

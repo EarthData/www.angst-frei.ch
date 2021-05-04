@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      'Eskalation der Inszenierung: Wie die ARD mit Indien Stimmung für die Verschärfung des Infektionsschutzgesetzes macht'
 country:       DE
 categories:    [MSM]
-tags:          [sciencefiles, indien, manipulation]
+tags:          [indien, manipulation]
 ---

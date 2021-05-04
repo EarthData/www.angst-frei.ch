@@ -6,5 +6,5 @@ subtitle:      'Globale Gesundheitskatastrophe durch Impfung? Wissenschaftler wa
 country:       DE
 persons:       [Vanden Bossche Geert]
 categories:    [Impfung, Wissenschaft]
-tags:          [sciencefiles, virus-mutation, immunität]
+tags:          [virus-mutation, immunität]
 ---

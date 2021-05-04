@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      'WHO bestätigt: SARS aus Labor entwichen'
 country:       DE
 categories:    [Wissenschaft]
-tags:          [sciencefiles, who]
+tags:          [who]
 ---

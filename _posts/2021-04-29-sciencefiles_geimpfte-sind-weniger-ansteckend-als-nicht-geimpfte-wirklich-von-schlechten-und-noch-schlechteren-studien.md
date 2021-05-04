@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      '“Geimpfte sind weniger ansteckend als nicht Geimpfte” – Wirklich? Von schlechten und noch schlechteren Studien'
 country:       DE
 categories:    [Studie, Impfung]
-tags:          [sciencefiles, immunität]
+tags:          [immunität]
 ---

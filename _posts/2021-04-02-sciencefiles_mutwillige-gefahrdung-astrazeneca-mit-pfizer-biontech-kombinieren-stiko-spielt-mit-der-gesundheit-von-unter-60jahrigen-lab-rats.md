@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      'Mutwillige Gefährdung? AstraZeneca mit Pfizer/Biontech kombinieren – STIKO spielt mit der Gesundheit von unter 60jährigen [Lab Rats]'
 country:       DE
 categories:    [Impfung]
-tags:          [sciencefiles, stiko, biontech, astrazeneca]
+tags:          [stiko, biontech, astrazeneca]
 ---

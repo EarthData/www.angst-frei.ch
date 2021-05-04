@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      'Super-Junk-Spreader-Studie: Querdenkerdemos und COVID-19 Erkrankungen sind nicht kausal'
 country:       DE
 categories:    [Studie]
-tags:          [sciencefiles, infektion]
+tags:          [infektion]
 ---

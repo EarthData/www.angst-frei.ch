@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      'Studie aus München: KEINE Übertragung von SARS-CoV-2 in Kindergärten und Grundschulen'
 country:       DE
 categories:    [Studie, Schulen]
-tags:          [sciencefiles, kind, asymptomatisch]
+tags:          [kind, asymptomatisch]
 ---

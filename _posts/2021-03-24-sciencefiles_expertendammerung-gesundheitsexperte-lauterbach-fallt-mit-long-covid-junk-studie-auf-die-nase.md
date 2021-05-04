@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      'Expertendämmerung: Gesundheitsexperte Lauterbach fällt mit Long-Covid-Junk Studie auf die Nase'
 country:       DE
 categories:    [Studie]
-tags:          [sciencefiles, long covid, manipulation]
+tags:          [long covid, manipulation]
 ---

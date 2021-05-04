@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      'Mehr Selbstmorde wegen COVID-19-Maßnahmen! Die Zahl der Studien, die das belegen, wächst'
 country:       DE
 categories:    [Studie]
-tags:          [sciencefiles, kollateralschäden]
+tags:          [kollateralschäden]
 ---

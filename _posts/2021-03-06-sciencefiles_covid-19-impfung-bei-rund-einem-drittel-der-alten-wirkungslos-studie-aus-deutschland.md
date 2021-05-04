@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      'COVID-19-Impfung bei rund einem Drittel der Alten wirkungslos [Studie aus Deutschland]'
 country:       DE
 categories:    [Studie, Impfung]
-tags:          [sciencefiles, immunität]
+tags:          [immunität]
 ---

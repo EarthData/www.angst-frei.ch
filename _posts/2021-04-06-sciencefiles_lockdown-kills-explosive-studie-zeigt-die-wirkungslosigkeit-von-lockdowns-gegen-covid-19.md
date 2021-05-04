@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      'Lockdown Kills – Explosive Studie zeigt die Wirkungslosigkeit von Lockdowns gegen COVID-19'
 country:       DE
 categories:    [Studie, Zahlen]
-tags:          [sciencefiles, lockdown, sterblichkeit]
+tags:          [lockdown, sterblichkeit]
 ---

@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      'Ansteckender? Nein! – b.1.1.7, die “britische Mutation” widersetzt sich den professionellen Panikverbreitern [Neue Forschung]'
 country:       DE
 categories:    [Wissenschaft]
-tags:          [sciencefiles, virus-mutation]
+tags:          [virus-mutation]
 ---

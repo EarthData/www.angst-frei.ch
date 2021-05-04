@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      'Lenken mit Zahlen: Wie die Öffentlichkeit bei Corona mit “Horrorzahlen” manipuliert werden soll'
 country:       DE
 categories:    [Zahlen]
-tags:          [sciencefiles, virus-mutation, manipulation]
+tags:          [virus-mutation, manipulation]
 ---

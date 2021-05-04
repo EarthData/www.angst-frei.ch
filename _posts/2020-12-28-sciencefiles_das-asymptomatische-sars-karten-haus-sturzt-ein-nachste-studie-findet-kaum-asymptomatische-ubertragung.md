@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      'Das asymptomatische SARS-(Karten-)Haus stürzt ein: Nächste Studie findet kaum asymptomatische Übertragung'
 country:       DE
 categories:    [Studie]
-tags:          [sciencefiles, asymptomatisch]
+tags:          [asymptomatisch]
 ---

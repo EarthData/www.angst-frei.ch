@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      'Eine Studie, fünf gesellschaftliche Sprengsätze, z.B.: Krankenhausaufenthalt, Organtransplantation erhöhen COVID-19-Sterberisiko erheblich'
 country:       DE
 categories:    [Studie, Spital]
-tags:          [sciencefiles, sterblichkeit, lockdown]
+tags:          [sterblichkeit, lockdown]
 ---

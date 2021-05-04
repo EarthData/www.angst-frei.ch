@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      'COVID-19-Impfung: politische Inszenierung ohne Wert? Bedenkliche Ergebnisse neuer Studie'
 country:       DE
 categories:    [Studie, Impfung]
-tags:          [sciencefiles, virus-mutation]
+tags:          [virus-mutation]
 ---

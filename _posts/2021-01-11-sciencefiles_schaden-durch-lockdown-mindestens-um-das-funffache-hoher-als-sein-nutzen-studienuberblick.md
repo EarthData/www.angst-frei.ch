@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      'Schaden durch Lockdown mindestens um das Fünffache höher als sein Nutzen – Studienüberblick'
 country:       DE
 categories:    [Studie]
-tags:          [sciencefiles, massnahmen, lockdown]
+tags:          [massnahmen, lockdown]
 ---

@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      'Schluss mit der Panik: SARS-CoV-2 kann nicht so einfach übertragen werden, wie behauptet'
 country:       DE
 categories:    [Wissenschaft]
-tags:          [sciencefiles, immunität, asymptomatisch]
+tags:          [immunität, asymptomatisch]
 ---

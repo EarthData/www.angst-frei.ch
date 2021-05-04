@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      'Kumulierte Einzelfälle: 25 Seiten voller Berichte über Folgen einer Impfung mit mRNA-Impfstoffen'
 country:       DE
 categories:    [Impfung]
-tags:          [sciencefiles, impf-nebenwirkungen, mit oder an impfung gestorben]
+tags:          [impf-nebenwirkungen, mit oder an impfung gestorben]
 ---

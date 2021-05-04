@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      'Massenhysterie als Treiber hinter Lockdown-Maßnahmen von Regierungen – neue Studie'
 country:       DE
 categories:    [Studie, Politik, MSM]
-tags:          [sciencefiles, angst]
+tags:          [angst]
 ---

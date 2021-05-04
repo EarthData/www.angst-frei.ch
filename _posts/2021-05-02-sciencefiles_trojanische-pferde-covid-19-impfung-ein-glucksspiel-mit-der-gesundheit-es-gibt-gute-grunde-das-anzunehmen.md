@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      'Trojanische Pferde: COVID-19-Impfung ein Glücksspiel mit der Gesundheit? Es gibt gute Gründe, das anzunehmen'
 country:       DE
 categories:    [Impfung, Wissenschaft]
-tags:          [sciencefiles, impf-nebenwirkungen, ade]
+tags:          [impf-nebenwirkungen, ade]
 ---

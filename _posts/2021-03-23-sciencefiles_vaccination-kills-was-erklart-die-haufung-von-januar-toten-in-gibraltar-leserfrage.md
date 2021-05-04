@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      'Vaccination kills? Was erklärt die Häufung von Januar-Toten in Gibraltar [Leserfrage]'
 country:       DE
 categories:    [Impfung]
-tags:          [sciencefiles, mit oder an impfung gestorben, biontech]
+tags:          [mit oder an impfung gestorben, biontech]
 ---

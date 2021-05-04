@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      'Mindestens ein Drittel der statistisch als COVID-19 Tote Erfassten sind nicht an COVID-19 verstorben'
 country:       DE
 categories:    [Zahlen]
-tags:          [sciencefiles, sterblichkeit, manipulation]
+tags:          [sterblichkeit, manipulation]
 ---

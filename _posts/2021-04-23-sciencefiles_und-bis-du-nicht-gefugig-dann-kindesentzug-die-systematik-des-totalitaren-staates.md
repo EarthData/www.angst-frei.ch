@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      'Und bis Du nicht gefügig, dann: Kindesentzug – Die Systematik des totalitären Staates'
 country:       DE
 categories:    [Recht]
-tags:          [sciencefiles, kind, demokratie, grundrechte]
+tags:          [kind, demokratie, grundrechte]
 ---

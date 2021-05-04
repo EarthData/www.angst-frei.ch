@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      'Follow the Science! Die gesammelten Belege dafür, dass Lockdowns nicht funktionieren'
 country:       DE
 categories:    [Wissenschaft, Studie]
-tags:          [sciencefiles, lockdown]
+tags:          [lockdown]
 ---

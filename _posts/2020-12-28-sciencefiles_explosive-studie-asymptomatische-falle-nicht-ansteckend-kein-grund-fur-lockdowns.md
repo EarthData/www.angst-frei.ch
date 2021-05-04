@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      'Explosive Studie: Asymptomatische Fälle nicht ansteckend! Kein Grund für Lockdowns'
 country:       DE
 categories:    [Studie]
-tags:          [sciencefiles, nature, asymptomatisch]
+tags:          [nature, asymptomatisch]
 ---

@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      'Britische Ärzte und Wissenschaftler machen gegen Corona-Maßnahmenwahnsinn mobil'
 country:       DE
 categories:    [Wissenschaft, Medizin, Widerstand]
-tags:          [sciencefiles, massnahmen]
+tags:          [massnahmen]
 ---

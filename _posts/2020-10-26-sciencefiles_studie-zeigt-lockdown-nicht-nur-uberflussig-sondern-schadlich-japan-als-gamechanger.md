@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      'Studie zeigt: Lockdown nicht nur überflüssig, sondern schädlich. Japan als Gamechanger'
 country:       DE
 categories:    [Studie]
-tags:          [sciencefiles, lockdown]
+tags:          [lockdown]
 ---

@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      'Das große Geschäft mit den (nutzlosen) Antigen-SARS-CoV-2 Schnelltests (in Kindertagesstätten, Schulen und Betrieben)'
 country:       DE
 categories:    [Schulen, Wirtschaft]
-tags:          [sciencefiles, selbsttest, kind, geld]
+tags:          [selbsttest, kind, geld]
 ---

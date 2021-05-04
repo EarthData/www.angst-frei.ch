@@ -6,5 +6,5 @@ subtitle:      'ARD-Mutanten-Erkenntnis: Ist b.1.1.7 tatsächlich tödlicher? Dr
 country:       DE
 persons:       [Drosten Christian]
 categories:    [Zahlen, Studie]
-tags:          [sciencefiles, virus-mutation, manipulation]
+tags:          [virus-mutation, manipulation]
 ---

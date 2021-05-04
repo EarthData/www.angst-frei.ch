@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      'Erste vollständige Impffolgen-Zusammenstellung: >2.500 Tote nach Impfung mit BNT162b2/Comirnaty: Nebenwirkungen füllen 124 Seiten !'
 country:       DE
 categories:    [Impfung]
-tags:          [sciencefiles, mit oder an impfung gestorben, impf-nebenwirkungen]
+tags:          [mit oder an impfung gestorben, impf-nebenwirkungen]
 ---

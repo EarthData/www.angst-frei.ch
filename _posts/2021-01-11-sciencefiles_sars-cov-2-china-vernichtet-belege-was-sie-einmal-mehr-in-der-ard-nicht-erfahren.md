@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      'SARS-CoV-2: China vernichtet Belege. Was Sie einmal mehr in der ARD nicht erfahren!'
 country:       DE
 categories:    [MSM]
-tags:          [sciencefiles, china, manipulation]
+tags:          [china, manipulation]
 ---

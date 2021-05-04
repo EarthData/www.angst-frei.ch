@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      'Einstürzende Lügengebäude: Die COVID-Inszenierung bröckelt weiter'
 country:       DE
 categories:    [P(l)andemie, Studie]
-tags:          [sciencefiles, manipulation]
+tags:          [manipulation]
 ---

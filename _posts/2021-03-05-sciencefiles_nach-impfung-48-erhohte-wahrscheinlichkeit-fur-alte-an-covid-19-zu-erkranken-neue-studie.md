@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      'Nach Impfung: 48% erhöhte Wahrscheinlichkeit für Alte, an COVID-19 zu erkranken [neue Studie]'
 country:       DE
 categories:    [Studie, Impfung]
-tags:          [sciencefiles, immunität]
+tags:          [immunität]
 ---

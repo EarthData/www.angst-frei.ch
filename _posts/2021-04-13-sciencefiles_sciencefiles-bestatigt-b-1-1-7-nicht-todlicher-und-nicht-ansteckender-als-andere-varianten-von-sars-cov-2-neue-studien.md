@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      'ScienceFiles bestätigt: b.1.1.7 NICHT tödlicher und nicht ansteckender als andere Varianten von SARS-CoV-2 [Neue Studien]'
 country:       DE
 categories:    [Studie]
-tags:          [sciencefiles, virus-mutation, sterblichkeit]
+tags:          [virus-mutation, sterblichkeit]
 ---
