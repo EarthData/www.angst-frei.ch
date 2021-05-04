@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Impfen für den "Great Reset": WHO fordert jetzt mehr Tempo!'
 country:       AT
 categories:    [Impfung]
-tags:          [wochenblick, great reset, who]
+tags:          [great reset, who]
 ---

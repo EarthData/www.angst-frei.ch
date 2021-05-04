@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Geringe Nachfrage: Immer mehr Corona-Impfzentren müssen schließen'
 country:       AT
 categories:    [Impfung, Widerstand]
-tags:          [wochenblick, manipulation]
+tags:          [manipulation]
 ---

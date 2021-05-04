@@ -6,5 +6,5 @@ subtitle:      'Die Akte Wieler: Gates-Mitglied berät deutschen Gesundheitsmini
 country:       AT
 persons:       [Gates Bill]
 categories:    [Politik]
-tags:          [wochenblick, manipulation]
+tags:          [manipulation]
 ---

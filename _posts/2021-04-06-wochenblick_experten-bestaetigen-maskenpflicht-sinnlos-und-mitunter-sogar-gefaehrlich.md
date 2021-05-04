@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Experten bestätigen: Maskenpflicht sinnlos und mitunter sogar gefährlich!'
 country:       AT
 categories:    [Studie, Medizin, Wissenschaft]
-tags:          [wochenblick, maske, who]
+tags:          [maske, who]
 ---

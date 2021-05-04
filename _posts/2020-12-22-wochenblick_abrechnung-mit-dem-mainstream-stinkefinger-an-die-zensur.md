@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Abrechnung mit dem Mainstream – Stinkefinger an die Zensur!'
 country:       AT
 categories:    [MSM, Widerstand]
-tags:          [wochenblick, zensur, manipulation]
+tags:          [zensur, manipulation]
 ---

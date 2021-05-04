@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Nächstes Gericht bestätigt: Maskenpflicht an Schulen gefährdet Kindeswohl'
 country:       AT
 categories:    [Recht, Schulen]
-tags:          [wochenblick, maske, kind, weilheim]
+tags:          [maske, kind, weilheim]
 ---

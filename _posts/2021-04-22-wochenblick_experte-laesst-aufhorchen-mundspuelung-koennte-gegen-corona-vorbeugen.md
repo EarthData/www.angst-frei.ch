@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Experte lässt aufhorchen: Mundspülung könnte gegen Corona vorbeugen'
 country:       AT
 categories:    [Medizin, Gesundheit]
-tags:          [wochenblick, therapeutikum]
+tags:          [therapeutikum]
 ---

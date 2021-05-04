@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Hirnblutungen bei drei jungen Norwegern'
 country:       AT
 categories:    [Impfung]
-tags:          [wochenblick, mit oder an impfung gestorben, impf-nebenwirkungen, astrazeneca]
+tags:          [mit oder an impfung gestorben, impf-nebenwirkungen, astrazeneca]
 ---

@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Mut-Arzt aus Kanada packt aus: Es ist die Pandemie der Oligarchen'
 country:       AT
 categories:    [Medizin, Widerstand]
-tags:          [wochenblick, pcr-test, who]
+tags:          [pcr-test, who]
 ---

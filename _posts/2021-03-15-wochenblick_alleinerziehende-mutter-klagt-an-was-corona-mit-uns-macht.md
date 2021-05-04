@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Alleinerziehende Mutter klagt an: "Was Corona mit uns macht..."'
 country:       AT
 categories:    [Mensch, Widerstand]
-tags:          [wochenblick, kind]
+tags:          [kind]
 ---

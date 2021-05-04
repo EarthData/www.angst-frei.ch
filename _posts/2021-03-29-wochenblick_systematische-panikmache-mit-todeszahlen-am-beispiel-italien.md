@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Systematische Panikmache mit Todeszahlen am Beispiel Italien'
 country:       AT
 categories:    [Zahlen]
-tags:          [wochenblick, sterblichkeit, manipulation]
+tags:          [sterblichkeit, manipulation]
 ---

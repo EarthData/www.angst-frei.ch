@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Experten sehen Gefahr durch ungetestete Impfstoffe'
 country:       AT
 categories:    [Impfung, Wissenschaft]
-tags:          [wochenblick, pei, impf-nebenwirkungen]
+tags:          [pei, impf-nebenwirkungen]
 ---

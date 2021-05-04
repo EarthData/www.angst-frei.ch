@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Israels Impfungen: Vorbild oder menschliches Versuchslabor?'
 country:       AT
 categories:    [Impfung, Recht, Mensch]
-tags:          [wochenblick, israel]
+tags:          [israel]
 ---

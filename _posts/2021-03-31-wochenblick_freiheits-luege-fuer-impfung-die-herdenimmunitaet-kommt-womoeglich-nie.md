@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Freiheits-Lüge für Impfung: Die Herdenimmunität kommt womöglich nie'
 country:       AT
 categories:    [Impfung]
-tags:          [wochenblick, immunität]
+tags:          [immunität]
 ---

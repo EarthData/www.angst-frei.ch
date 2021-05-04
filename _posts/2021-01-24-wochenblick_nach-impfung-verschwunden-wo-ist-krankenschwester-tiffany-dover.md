@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Nach Impfung verschwunden: Wo ist Krankenschwester Tiffany Dover?'
 country:       AT
 categories:    [Impfung]
-tags:          [wochenblick, zensur, manipulation]
+tags:          [zensur, manipulation]
 ---

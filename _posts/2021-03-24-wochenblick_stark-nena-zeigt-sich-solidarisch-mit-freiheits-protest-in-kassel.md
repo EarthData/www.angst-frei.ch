@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Stark: Nena zeigt sich solidarisch mit Freiheits-Protest in Kassel!'
 country:       AT
 categories:    [Widerstand]
-tags:          [wochenblick, kultur]
+tags:          [kultur]
 ---

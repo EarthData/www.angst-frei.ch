@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Schweden als Beweis: Lockdowns schützen niemanden'
 country:       AT
 categories:    [Zahlen]
-tags:          [wochenblick, schweden, massnahmen, lockdown]
+tags:          [schweden, massnahmen, lockdown]
 ---

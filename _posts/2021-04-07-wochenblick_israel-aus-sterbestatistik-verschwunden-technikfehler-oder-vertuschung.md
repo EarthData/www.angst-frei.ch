@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Israel aus Sterbestatistik verschwunden: Technikfehler oder Vertuschung?'
 country:       AT
 categories:    [Impfung, Zahlen]
-tags:          [wochenblick, israel, mit oder an impfung gestorben, sterblichkeit]
+tags:          [israel, mit oder an impfung gestorben, sterblichkeit]
 ---

@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Trotzdem schwere Verläufe: Covid-Impfstoffe schützen vor allem Alte nicht'
 country:       AT
 categories:    [Impfung]
-tags:          [wochenblick, immunität]
+tags:          [immunität]
 ---

@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Obduktion: Zwettler Krankenschwester (49) starb an Impf-Hirnthrombose'
 country:       AT
 categories:    [Impfung]
-tags:          [wochenblick, mit oder an impfung gestorben, blutgerinnungsstörungen, astrazeneca]
+tags:          [mit oder an impfung gestorben, blutgerinnungsstörungen, astrazeneca]
 ---

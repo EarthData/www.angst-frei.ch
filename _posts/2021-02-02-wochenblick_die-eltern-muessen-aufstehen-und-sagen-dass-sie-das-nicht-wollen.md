@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      '"Die Eltern müssen aufstehen und sagen, dass sie das nicht wollen“'
 country:       AT
 categories:    [Schulen, Widerstand]
-tags:          [wochenblick, kind, massnahmen]
+tags:          [kind, massnahmen]
 ---

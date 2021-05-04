@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Mutanwälte: Folgen unklar - Die Geimpften sind "Studienteilnehmer"'
 country:       AT
 categories:    [Impfung, Recht]
-tags:          [wochenblick, impf-nebenwirkungen, ema]
+tags:          [impf-nebenwirkungen, ema]
 ---

@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Kinder, Babys ab 6 Monaten werden bald geimpft: Ist der Wahnsinn noch zu stoppen?'
 country:       AT
 categories:    [Impfung]
-tags:          [wochenblick, kind]
+tags:          [kind]
 ---

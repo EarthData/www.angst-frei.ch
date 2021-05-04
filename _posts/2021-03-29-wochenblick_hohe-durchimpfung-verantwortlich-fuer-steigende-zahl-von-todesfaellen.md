@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Hohe Durchimpfung verantwortlich für steigende Zahl von Todesfällen'
 country:       AT
 categories:    [Impfung]
-tags:          [wochenblick, mit oder an impfung gestorben]
+tags:          [mit oder an impfung gestorben]
 ---

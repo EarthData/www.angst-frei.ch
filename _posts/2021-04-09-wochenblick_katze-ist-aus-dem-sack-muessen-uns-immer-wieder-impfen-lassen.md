@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Katze ist aus dem Sack: "Müssen uns immer wieder impfen lassen"'
 country:       AT
 categories:    [Impfung]
-tags:          [wochenblick, israel]
+tags:          [israel]
 ---

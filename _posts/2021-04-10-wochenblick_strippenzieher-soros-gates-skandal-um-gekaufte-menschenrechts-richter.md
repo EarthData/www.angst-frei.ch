@@ -6,5 +6,5 @@ subtitle:      'Strippenzieher Soros & Gates: Skandal um gekaufte Menschenrechts
 country:       AT
 persons:       [Gates Bill]
 categories:    [Recht]
-tags:          [wochenblick, geld, menschenrechte, manipulation]
+tags:          [geld, menschenrechte, manipulation]
 ---

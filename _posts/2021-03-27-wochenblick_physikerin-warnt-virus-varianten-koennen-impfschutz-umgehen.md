@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Physikerin warnt: Virus-Varianten können Impfschutz umgehen'
 country:       AT
 categories:    [Impfung]
-tags:          [wochenblick, virus-mutation, immunität]
+tags:          [virus-mutation, immunität]
 ---

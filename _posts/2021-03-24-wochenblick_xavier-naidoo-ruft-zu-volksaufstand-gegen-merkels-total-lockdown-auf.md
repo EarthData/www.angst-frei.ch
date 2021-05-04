@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Xavier Naidoo ruft zu "Volksaufstand" gegen Merkels Total-Lockdown auf!'
 country:       AT
 categories:    [Widerstand]
-tags:          [wochenblick, kultur]
+tags:          [kultur]
 ---

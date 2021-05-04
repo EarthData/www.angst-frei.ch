@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Israel-Studie zu Südafrika-Virus: Geimpfte eher anfällig als Ungeimpfte'
 country:       AT
 categories:    [Impfung]
-tags:          [wochenblick, immunität, virus-mutation, israel]
+tags:          [immunität, virus-mutation, israel]
 ---

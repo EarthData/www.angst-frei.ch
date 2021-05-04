@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Mutbrief eines Polizisten: "Will nicht Komplize des Unrechts sein"'
 country:       AT
 categories:    [Widerstand]
-tags:          [wochenblick, polizei]
+tags:          [polizei]
 ---

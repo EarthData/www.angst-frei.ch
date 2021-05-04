@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Impfung ein Riesen-Experiment? Mut-Ärztin verlangt Aufklärung von US-Behörden!'
 country:       AT
 categories:    [Impfung, Widerstand, Behörde]
-tags:          [wochenblick, impf-nebenwirkungen]
+tags:          [impf-nebenwirkungen]
 ---

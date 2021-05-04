@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Corona egal? Indien feiert weltgrößtes Hindu-Fest ausschweifend'
 country:       AT
 categories:    [Widerstand]
-tags:          [wochenblick, indien]
+tags:          [indien]
 ---

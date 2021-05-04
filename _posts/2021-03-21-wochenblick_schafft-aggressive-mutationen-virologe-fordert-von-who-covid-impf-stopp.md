@@ -6,5 +6,5 @@ subtitle:      'Schafft aggressive Mutationen: Virologe fordert von WHO Covid-Im
 country:       AT
 persons:       [Vanden Bossche Geert]
 categories:    [Impfung]
-tags:          [wochenblick, virus-mutation, impf-stopp]
+tags:          [virus-mutation, impf-stopp]
 ---

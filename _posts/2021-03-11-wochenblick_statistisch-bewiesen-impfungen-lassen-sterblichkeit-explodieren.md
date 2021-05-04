@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Statistisch bewiesen: Impfungen lassen Sterblichkeit explodieren'
 country:       AT
 categories:    [Zahlen, Impfung]
-tags:          [wochenblick, sterblichkeit]
+tags:          [sterblichkeit]
 ---

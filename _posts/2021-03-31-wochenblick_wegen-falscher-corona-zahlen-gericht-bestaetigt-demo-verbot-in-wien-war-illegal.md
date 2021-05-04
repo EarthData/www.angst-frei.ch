@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Wegen falscher Corona-Zahlen - Gericht bestätigt: Demo-Verbot in Wien war illegal!'
 country:       AT
 categories:    [Recht, Zahlen]
-tags:          [wochenblick, pcr-test]
+tags:          [pcr-test]
 ---

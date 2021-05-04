@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Corona-Propagandist bei gespenstischem Masken-Auftritt im ORF entlarvt'
 country:       AT
 categories:    [MSM]
-tags:          [wochenblick, pcr-test, lockdown2, manipulation]
+tags:          [pcr-test, lockdown2, manipulation]
 ---

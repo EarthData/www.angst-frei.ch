@@ -6,5 +6,5 @@ subtitle:      'US-Forscher bestätigt: Corona-Sterblichkeit im ersten Jahr äu�
 country:       AT
 persons:       [Ioannidis John P.]
 categories:    [Studie]
-tags:          [wochenblick, sterblichkeit]
+tags:          [sterblichkeit]
 ---

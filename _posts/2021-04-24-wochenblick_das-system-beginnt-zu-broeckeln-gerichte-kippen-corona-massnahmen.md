@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Das System beginnt zu bröckeln: Gerichte kippen Corona-Maßnahmen'
 country:       AT
 categories:    [Recht, Widerstand]
-tags:          [wochenblick, demokratie, grundrechte]
+tags:          [demokratie, grundrechte]
 ---

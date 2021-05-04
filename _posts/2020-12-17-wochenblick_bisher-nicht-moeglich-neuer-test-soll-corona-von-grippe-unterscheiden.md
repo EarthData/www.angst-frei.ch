@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Bisher nicht möglich? Neuer Test soll Corona von Grippe unterscheiden'
 country:       AT
 categories:    [Wissenschaft]
-tags:          [wochenblick, pcr-test, massentest, manipulation]
+tags:          [pcr-test, massentest, manipulation]
 ---

@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Mainstream-Medien schweigen: Zahlen der Impfschäden explodieren'
 country:       AT
 categories:    [Impfung, Zahlen]
-tags:          [wochenblick, impf-nebenwirkungen, mit oder an impfung gestorben, manipulation]
+tags:          [impf-nebenwirkungen, mit oder an impfung gestorben, manipulation]
 ---

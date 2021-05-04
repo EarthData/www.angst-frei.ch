@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Impfstoffhersteller haben von Wirkung und Nebenwirkungen keine Ahnung'
 country:       AT
 categories:    [Impfung]
-tags:          [wochenblick, impf-nebenwirkungen, manipulation]
+tags:          [impf-nebenwirkungen, manipulation]
 ---

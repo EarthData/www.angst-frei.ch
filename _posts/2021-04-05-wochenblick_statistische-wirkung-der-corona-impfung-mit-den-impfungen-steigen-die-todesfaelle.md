@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Statistische Wirkung der Corona-Impfung: Mit den Impfungen steigen die Todesfälle'
 country:       AT
 categories:    [Impfung, Zahlen]
-tags:          [wochenblick, mit oder an impfung gestorben]
+tags:          [mit oder an impfung gestorben]
 ---

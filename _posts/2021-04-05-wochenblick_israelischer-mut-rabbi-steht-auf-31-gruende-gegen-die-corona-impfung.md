@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Israelischer Mut-Rabbi steht auf: 31 Gründe gegen die Corona-Impfung'
 country:       AT
 categories:    [Impfung, Widerstand]
-tags:          [wochenblick, israel]
+tags:          [israel]
 ---

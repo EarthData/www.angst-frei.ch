@@ -6,5 +6,5 @@ subtitle:      'Zweite Welle erfunden? 90% der "Infizierten" laut Forscher falsc
 country:       AT
 persons:       [Yeadon Michael]
 categories:    [Wissenschaft]
-tags:          [wochenblick, pcr-test, welle2, manipulation]
+tags:          [pcr-test, welle2, manipulation]
 ---

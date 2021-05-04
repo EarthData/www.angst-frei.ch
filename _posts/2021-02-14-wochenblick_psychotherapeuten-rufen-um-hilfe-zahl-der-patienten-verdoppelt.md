@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Psychotherapeuten rufen um Hilfe - Zahl der Patienten verdoppelt'
 country:       AT
 categories:    [Mensch]
-tags:          [wochenblick, kollateralschäden]
+tags:          [kollateralschäden]
 ---

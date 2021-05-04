@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      '"Nadel der Freiheit": So perfide wird der Corona-Impfdruck erzeugt'
 country:       AT
 categories:    [Impfung, Recht]
-tags:          [wochenblick, manipulation]
+tags:          [manipulation]
 ---

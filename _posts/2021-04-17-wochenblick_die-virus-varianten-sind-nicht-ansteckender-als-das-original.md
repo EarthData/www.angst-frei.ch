@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Die Virus-Varianten sind nicht ansteckender als das Original'
 country:       AT
 categories:    [Studie, Wissenschaft]
-tags:          [wochenblick, virus-mutation, immunität]
+tags:          [virus-mutation, immunität]
 ---

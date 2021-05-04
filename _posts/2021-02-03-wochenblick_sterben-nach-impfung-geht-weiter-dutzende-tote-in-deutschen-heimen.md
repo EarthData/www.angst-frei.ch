@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'In deutschen Heimen: Todesfälle und Infektionen in Wochen nach Impfung'
 country:       AT
 categories:    [Impfung]
-tags:          [wochenblick, mit oder an impfung gestorben]
+tags:          [mit oder an impfung gestorben]
 ---

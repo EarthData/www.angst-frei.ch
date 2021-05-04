@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Polizisten gegen Masken-Verordnung: "Keine Leibeigenen der Regierung"'
 country:       AT
 categories:    [Widerstand]
-tags:          [wochenblick, polizei]
+tags:          [polizei]
 ---

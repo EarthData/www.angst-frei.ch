@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      '"Inszenierte Pandemie": Ärzte aus aller Welt schlagen Alarm!'
 country:       AT
 categories:    [Widerstand, Medizin, Impfung]
-tags:          [wochenblick]
+tags:          []
 ---

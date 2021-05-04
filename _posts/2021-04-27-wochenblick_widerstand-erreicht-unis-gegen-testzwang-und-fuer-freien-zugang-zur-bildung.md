@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Widerstand erreicht Unis: Gegen Testzwang und für freien Zugang zur Bildung'
 country:       AT
 categories:    [Widerstand]
-tags:          [wochenblick, jugend]
+tags:          [jugend]
 ---

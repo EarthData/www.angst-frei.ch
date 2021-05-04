@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Frau klagt an: "Sie spritzen unsere Großeltern einfach weg!"'
 country:       AT
 categories:    [Impfung]
-tags:          [wochenblick, mit oder an impfung gestorben]
+tags:          [mit oder an impfung gestorben]
 ---

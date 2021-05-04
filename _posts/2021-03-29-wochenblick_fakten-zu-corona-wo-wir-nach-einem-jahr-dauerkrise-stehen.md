@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Fakten zu Corona: Wo wir nach einem Jahr Dauerkrise stehen'
 country:       AT
 categories:    [Zahlen, Wissenschaft, Medizin]
-tags:          [wochenblick, lockdown, massnahmen]
+tags:          [lockdown, massnahmen]
 ---

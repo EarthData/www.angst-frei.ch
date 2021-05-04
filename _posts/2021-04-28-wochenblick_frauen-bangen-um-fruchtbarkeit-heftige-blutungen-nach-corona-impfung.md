@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Frauen bangen um Fruchtbarkeit: Heftige Blutungen nach Corona-Impfung'
 country:       AT
 categories:    [Impfung]
-tags:          [wochenblick, impf-nebenwirkungen]
+tags:          [impf-nebenwirkungen]
 ---

@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Schockmeldung in Australien: Trotz Durchimpfung könnte Land zubleiben'
 country:       AT
 categories:    [Impfung]
-tags:          [wochenblick, massnahmen, australien]
+tags:          [massnahmen, australien]
 ---

@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Covid19-Gerichtsbeschluss zeigt: Es gibt keine Rechtssicherheit mehr'
 country:       AT
 categories:    [Recht]
-tags:          [wochenblick, willkür]
+tags:          [willkür]
 ---

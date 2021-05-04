@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Chile: Vom "Impf-Weltmeister" zum Corona-Infektionsherd'
 country:       AT
 categories:    [Impfung, Zahlen]
-tags:          [wochenblick, immunität]
+tags:          [immunität]
 ---

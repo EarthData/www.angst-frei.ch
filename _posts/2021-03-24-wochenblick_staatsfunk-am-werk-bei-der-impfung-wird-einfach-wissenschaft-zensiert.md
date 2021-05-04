@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Staatsfunk am Werk: Bei der Impfung wird einfach Wissenschaft zensiert'
 country:       AT
 categories:    [MSM]
-tags:          [wochenblick, zensur, manipulation]
+tags:          [zensur, manipulation]
 ---

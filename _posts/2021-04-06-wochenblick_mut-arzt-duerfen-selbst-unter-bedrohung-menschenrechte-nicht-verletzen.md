@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Mut-Arzt: Dürfen "selbst unter Bedrohung" Menschenrechte nicht verletzen'
 country:       AT
 categories:    [Medizin, Widerstand]
-tags:          [wochenblick, menschenrechte]
+tags:          [menschenrechte]
 ---

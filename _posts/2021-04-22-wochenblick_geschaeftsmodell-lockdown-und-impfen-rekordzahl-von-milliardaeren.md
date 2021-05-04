@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Geschäftsmodell „Lockdown und Impfen“: Rekordzahl von Milliardären'
 country:       AT
 categories:    [Wirtschaft, Impfung]
-tags:          [wochenblick, geld]
+tags:          [geld]
 ---

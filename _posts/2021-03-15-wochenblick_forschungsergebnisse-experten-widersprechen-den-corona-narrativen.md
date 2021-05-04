@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Forschungsergebnisse: Experten widersprechen den Corona-Narrativen'
 country:       AT
 categories:    [Wissenschaft, Widerstand]
-tags:          [wochenblick]
+tags:          []
 ---

@@ -6,5 +6,5 @@ subtitle:      'Gates-Insider: "Impfung verwandelt Virus in unkontrollierbares M
 country:       AT
 persons:       [Vanden Bossche Geert]
 categories:    [Impfung]
-tags:          [wochenblick, impf-nebenwirkungen]
+tags:          [impf-nebenwirkungen]
 ---

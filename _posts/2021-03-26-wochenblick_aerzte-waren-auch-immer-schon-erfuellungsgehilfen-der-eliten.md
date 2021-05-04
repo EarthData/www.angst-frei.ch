@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      '„Ärzte waren auch immer schon Erfüllungsgehilfen der Eliten“'
 country:       AT
 categories:    [Widerstand, Medizin]
-tags:          [wochenblick, geld]
+tags:          [geld]
 ---

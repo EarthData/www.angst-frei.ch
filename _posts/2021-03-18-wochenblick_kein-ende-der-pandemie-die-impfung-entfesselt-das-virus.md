@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Kein Ende der Pandemie: Die Impfung entfesselt das Virus'
 country:       AT
 categories:    [Impfung, Wissenschaft]
-tags:          [wochenblick, virus-mutation, immunität]
+tags:          [virus-mutation, immunität]
 ---

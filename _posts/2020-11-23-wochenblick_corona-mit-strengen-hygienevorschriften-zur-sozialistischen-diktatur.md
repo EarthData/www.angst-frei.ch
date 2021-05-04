@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Corona - mit strengen Hygienevorschriften zur sozialistischen Diktatur'
 country:       AT
 categories:    [Politik]
-tags:          [wochenblick, massnahmen]
+tags:          [massnahmen]
 ---

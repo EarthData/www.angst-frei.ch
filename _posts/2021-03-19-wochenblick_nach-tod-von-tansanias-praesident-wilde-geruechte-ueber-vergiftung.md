@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Nach Tod von Tansanias Präsident: Wilde Gerüchte über Vergiftung'
 country:       AT
 categories:    [Politik, Widerstand]
-tags:          [wochenblick, tansania]
+tags:          [tansania]
 ---

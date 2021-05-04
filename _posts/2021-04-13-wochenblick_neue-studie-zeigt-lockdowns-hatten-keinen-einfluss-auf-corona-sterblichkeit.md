@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Neue Studie zeigt: Lockdowns hatten keinen Einfluss auf Corona-Sterblichkeit'
 country:       AT
 categories:    [Studie]
-tags:          [wochenblick, lockdown, sterblichkeit]
+tags:          [lockdown, sterblichkeit]
 ---

@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Schock: Sieben Menschen trotz Zweifach-Impfung an Corona gestorben'
 country:       AT
 categories:    [Impfung]
-tags:          [wochenblick, mit oder an impfung gestorben]
+tags:          [mit oder an impfung gestorben]
 ---

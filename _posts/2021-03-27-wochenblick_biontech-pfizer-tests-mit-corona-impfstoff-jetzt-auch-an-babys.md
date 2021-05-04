@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Biontech/Pfizer: Tests mit Corona-Impfstoff jetzt auch an Babys'
 country:       AT
 categories:    [Impfung]
-tags:          [wochenblick, biontech, kind]
+tags:          [biontech, kind]
 ---

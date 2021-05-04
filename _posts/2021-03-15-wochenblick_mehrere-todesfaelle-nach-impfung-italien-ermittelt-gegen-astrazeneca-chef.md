@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Mehrere Todesfälle nach Impfung: Italien ermittelt gegen AstraZeneca Chef'
 country:       AT
 categories:    [Impfung, Recht]
-tags:          [wochenblick, mit oder an impfung gestorben, impf-nebenwirkungen, astrazeneca]
+tags:          [mit oder an impfung gestorben, impf-nebenwirkungen, astrazeneca]
 ---

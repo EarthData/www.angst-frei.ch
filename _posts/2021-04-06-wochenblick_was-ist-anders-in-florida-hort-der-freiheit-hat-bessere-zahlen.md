@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Was ist anders in Florida? Hort der Freiheit hat bessere Zahlen!'
 country:       AT
 categories:    [Zahlen]
-tags:          [wochenblick, maske, massnahmen, usa]
+tags:          [maske, massnahmen, usa]
 ---

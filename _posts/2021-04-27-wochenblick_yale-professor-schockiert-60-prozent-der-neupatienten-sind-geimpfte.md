@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Yale-Professor schockiert: "60 Prozent der Neupatienten sind Geimpfte"'
 country:       AT
 categories:    [Impfung, Wissenschaft]
-tags:          [wochenblick, immunität]
+tags:          [immunität]
 ---

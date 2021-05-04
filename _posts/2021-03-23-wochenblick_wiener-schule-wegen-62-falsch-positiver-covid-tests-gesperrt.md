@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Wiener Schule wegen 62 (!) falsch-positiver Covid-Tests gesperrt'
 country:       AT
 categories:    [Zahlen]
-tags:          [wochenblick, massentest]
+tags:          [massentest]
 ---

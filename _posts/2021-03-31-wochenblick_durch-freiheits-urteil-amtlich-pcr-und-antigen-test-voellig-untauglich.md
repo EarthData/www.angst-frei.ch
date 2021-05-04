@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Durch Freiheits-Urteil amtlich: PCR- und Antigen-Test völlig untauglich!'
 country:       AT
 categories:    [Recht]
-tags:          [wochenblick, pcr-test, massentest]
+tags:          [pcr-test, massentest]
 ---

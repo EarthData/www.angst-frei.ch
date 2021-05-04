@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Widerstand gegen Corona-Propaganda für Kinder nimmt zu'
 country:       AT
 categories:    [Widerstand]
-tags:          [wochenblick, kind, kollateralschäden, manipulation]
+tags:          [kind, kollateralschäden, manipulation]
 ---

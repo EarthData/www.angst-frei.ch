@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Der Staat hat keine Argumente: Ärztekritik soll im Keim erstickt werden'
 country:       AT
 categories:    [Medizin, Widerstand]
-tags:          [wochenblick, willkür, manipulation]
+tags:          [willkür, manipulation]
 ---

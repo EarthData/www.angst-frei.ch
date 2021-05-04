@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Informant berichtet: Unzählige Fehlbehandlungen, falsche Todesdiagnosen'
 country:       AT
 categories:    [Medizin]
-tags:          [wochenblick, willkür, manipulation]
+tags:          [willkür, manipulation]
 ---

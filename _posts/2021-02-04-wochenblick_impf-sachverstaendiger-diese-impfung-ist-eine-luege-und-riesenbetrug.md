@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Impf-Sachverständiger: „Diese Impfung ist eine Lüge und Riesenbetrug"'
 country:       AT
 categories:    [Medizin, Impfung]
-tags:          [wochenblick, manipulation]
+tags:          [manipulation]
 ---

@@ -6,5 +6,5 @@ subtitle:      'Politikversagen: Lockdown bringt mehr Tote, dafür weniger Arbei
 country:       AT
 persons:       [Ioannidis John P.]
 categories:    [Politik, Studie, Wirtschaft, Gesundheit]
-tags:          [wochenblick, lockdown]
+tags:          [lockdown]
 ---

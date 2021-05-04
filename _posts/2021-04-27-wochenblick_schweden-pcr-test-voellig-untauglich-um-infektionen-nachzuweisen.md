@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Schweden: PCR-Test völlig untauglich um Infektionen nachzuweisen'
 country:       AT
 categories:    [Behörde]
-tags:          [wochenblick, schweden, pcr-test]
+tags:          [schweden, pcr-test]
 ---

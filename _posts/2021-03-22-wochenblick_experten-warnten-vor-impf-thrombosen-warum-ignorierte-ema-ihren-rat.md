@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Experten warnten vor Impf-Thrombosen: Warum ignorierte EMA ihren Rat?'
 country:       AT
 categories:    [Impfung]
-tags:          [wochenblick, impf-nebenwirkungen, blutgerinnungsstörungen, ema]
+tags:          [impf-nebenwirkungen, blutgerinnungsstörungen, ema]
 ---

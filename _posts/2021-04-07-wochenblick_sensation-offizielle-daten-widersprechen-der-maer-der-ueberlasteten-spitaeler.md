@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Sensation: Offizielle Daten widersprechen der Mär der überlasteten Spitäler'
 country:       AT
 categories:    [Spital, Zahlen]
-tags:          [wochenblick, manipulation]
+tags:          [manipulation]
 ---

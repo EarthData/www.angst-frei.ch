@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Frühling bald verboten? Nach Aerosolen: Pollen neue "Corona-Gefahr"'
 country:       AT
 categories:    [Studie]
-tags:          [wochenblick, angst, manipulation]
+tags:          [angst, manipulation]
 ---

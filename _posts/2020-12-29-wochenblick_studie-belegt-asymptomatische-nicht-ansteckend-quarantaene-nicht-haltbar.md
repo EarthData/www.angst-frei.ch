@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Studie belegt: Symptomlose nicht ansteckend. Quarantäne anfechtbar!'
 country:       AT
 categories:    [Studie]
-tags:          [wochenblick, quarantäne, asymptomatisch]
+tags:          [quarantäne, asymptomatisch]
 ---

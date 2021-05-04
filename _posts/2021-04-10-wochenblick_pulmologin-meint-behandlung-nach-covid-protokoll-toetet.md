@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Pulmologin meint: Behandlung nach Covid-Protokoll tötet!'
 country:       AT
 categories:    [Medizin, Widerstand]
-tags:          [wochenblick, sterblichkeit]
+tags:          [sterblichkeit]
 ---

@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Anwalt belegt: Testpositive sind keine Infizierten. "Die Pandemie ist vorbei!"'
 country:       AT
 categories:    [Recht]
-tags:          [wochenblick, pcr-test]
+tags:          [pcr-test]
 ---

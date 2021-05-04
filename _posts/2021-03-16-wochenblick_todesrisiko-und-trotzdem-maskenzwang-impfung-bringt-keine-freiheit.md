@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Todesrisiko und trotzdem Maskenzwang: Impfung bringt keine Freiheit'
 country:       AT
 categories:    [Impfung, Medizin]
-tags:          [wochenblick, impf-nebenwirkungen, mit oder an impfung gestorben, blutgerinnungsstörungen, maske]
+tags:          [impf-nebenwirkungen, mit oder an impfung gestorben, blutgerinnungsstörungen, maske]
 ---

@@ -4,6 +4,6 @@ redirect:      https://www.infosperber.ch/Artikel/Medien/NZZ-schreibt-mit-fragwu
 title:         INFOsperber
 subtitle:      'NZZ schreibt mit fragwürdigen Grafiken eine zweite Welle herbei'
 country:       CH
-categories:    [MSM]
-tags:          [nzz, infosperber, welle2, manipulation]
+categories:    [MSM, Zahlen]
+tags:          [infosperber, welle2, manipulation]
 ---

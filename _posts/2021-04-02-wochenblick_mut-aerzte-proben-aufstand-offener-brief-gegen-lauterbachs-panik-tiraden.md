@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Mut-Ärzte proben Aufstand: Offener Brief gegen Lauterbachs Panik-Tiraden'
 country:       AT
 categories:    [Widerstand, Medizin, Politik]
-tags:          [wochenblick]
+tags:          []
 ---

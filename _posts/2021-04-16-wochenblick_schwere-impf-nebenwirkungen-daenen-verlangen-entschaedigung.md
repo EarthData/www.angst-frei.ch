@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Schwere Impf-Nebenwirkungen: Dänen verlangen Entschädigung'
 country:       AT
 categories:    [Recht]
-tags:          [wochenblick, impf-nebenwirkungen, dänemark]
+tags:          [impf-nebenwirkungen, dänemark]
 ---
