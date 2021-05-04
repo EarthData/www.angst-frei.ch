@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Propaganda der Regierung zu gefährlichen Mutationen: wahr oder unwahr?'
 country:       AT
 categories:    [Studie]
-tags:          [tkp, virus-mutation, who, manipulation]
+tags:          [virus-mutation, who, manipulation]
 ---

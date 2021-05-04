@@ -6,5 +6,5 @@ subtitle:      'Nochmal zu den falschen Theorien über Immunflucht von Vanden Bo
 country:       AT
 persons:       [Vanden Bossche Geert]
 categories:    [Impfung, Wissenschaft]
-tags:          [tkp, virus-mutation, immunität]
+tags:          [virus-mutation, immunität]
 ---

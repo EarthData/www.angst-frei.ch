@@ -6,5 +6,5 @@ subtitle:      'Sucharit Bhakdi warnt neuerlich vor PCR-Test und Impfstoffen'
 country:       AT
 persons:       [Bhakdi Sucharit]
 categories:    [Impfung, Medizin, Widerstand]
-tags:          [tkp, pcr-test]
+tags:          [pcr-test]
 ---

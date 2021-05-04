@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Offizielle Zahlen belegen unmissverständlich: Lockdowns töten'
 country:       AT
 categories:    [Zahlen]
-tags:          [tkp, lockdown]
+tags:          [lockdown]
 ---

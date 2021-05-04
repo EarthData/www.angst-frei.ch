@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Große Studie zeigt häufige Erkrankungen nach Impfungen'
 country:       AT
 categories:    [Impfung]
-tags:          [tkp, impf-nebenwirkungen, mit oder an impfung gestorben]
+tags:          [impf-nebenwirkungen, mit oder an impfung gestorben]
 ---

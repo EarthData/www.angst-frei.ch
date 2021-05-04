@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Lockdown der Vernunft – gegen jede wissenschaftliche Erkenntnis, gegen praktische Erfahrung'
 country:       AT
 categories:    [Wissenschaft, Studie]
-tags:          [tkp, lockdown, maske]
+tags:          [lockdown, maske]
 ---

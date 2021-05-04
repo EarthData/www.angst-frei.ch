@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'USA: 22 Staaten ohne Maskenpflicht und 12 Staaten verbieten Impfpass'
 country:       AT
 categories:    [Politik]
-tags:          [tkp, maske, lockdown, impfpass, usa]
+tags:          [maske, lockdown, impfpass, usa]
 ---

@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Verträge der EU-Kommission mit Pfizer und Moderna geleakt – Rechtsanwaltskanzlei beurteilt sie als ungültig'
 country:       AT
 categories:    [Impfung, Recht]
-tags:          [tkp, biontech, moderna]
+tags:          [biontech, moderna]
 ---

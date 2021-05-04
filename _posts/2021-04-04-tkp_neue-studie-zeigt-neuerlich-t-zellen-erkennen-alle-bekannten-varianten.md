@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Neue Studie zeigt neuerlich: T-Zellen erkennen alle bekannten Varianten'
 country:       AT
 categories:    [Studie]
-tags:          [tkp, immunität, virus-mutation]
+tags:          [immunität, virus-mutation]
 ---

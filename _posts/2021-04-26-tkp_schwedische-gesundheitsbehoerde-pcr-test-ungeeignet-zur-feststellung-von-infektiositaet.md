@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Schwedische Gesundheitsbehörde: PCR Test ungeeignet zur Feststellung von Infektiosität'
 country:       AT
 categories:    [Behörde]
-tags:          [tkp, pcr-test, schweden]
+tags:          [pcr-test, schweden]
 ---

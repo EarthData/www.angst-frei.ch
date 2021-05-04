@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Infektion in Heimen trotz Impfung'
 country:       AT
 categories:    [Impfung]
-tags:          [tkp, immunität, biontech]
+tags:          [immunität, biontech]
 ---

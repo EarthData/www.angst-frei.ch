@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Stimmt die Geschichte von den jüngeren Covid-Patienten?'
 country:       AT
 categories:    [Zahlen]
-tags:          [tkp, virus-mutation, jugend]
+tags:          [virus-mutation, jugend]
 ---

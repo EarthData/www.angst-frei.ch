@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Rückblick auf ein Jahr WHO-Pandemie – Fazit von Claus Köhnlein'
 country:       AT
 categories:    [Medizin]
-tags:          [tkp, who, demokratie, grundrechte, massnahmen]
+tags:          [who, demokratie, grundrechte, massnahmen]
 ---

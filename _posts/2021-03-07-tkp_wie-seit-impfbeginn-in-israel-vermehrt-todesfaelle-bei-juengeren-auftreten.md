@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Wie seit Impfbeginn in Israel vermehrt Todesfälle bei Jüngeren auftreten'
 country:       AT
 categories:    [Impfung]
-tags:          [tkp, mit oder an impfung gestorben, israel]
+tags:          [mit oder an impfung gestorben, israel]
 ---

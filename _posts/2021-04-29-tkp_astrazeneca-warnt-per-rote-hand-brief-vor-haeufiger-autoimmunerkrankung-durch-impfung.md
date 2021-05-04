@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'AstraZeneca warnt per Rote-Hand-Brief vor häufiger Autoimmunerkrankung durch Impfung'
 country:       AT
 categories:    [Impfung]
-tags:          [tkp, impf-nebenwirkungen, blutgerinnungsstörungen, astrazeneca]
+tags:          [impf-nebenwirkungen, blutgerinnungsstörungen, astrazeneca]
 ---

@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Studie zeigt Wirksamkeit von neuem Medikament bei Frühbehandlung'
 country:       AT
 categories:    [Studie, Gesundheit]
-tags:          [tkp, therapeutikum]
+tags:          [therapeutikum]
 ---

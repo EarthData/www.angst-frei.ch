@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'BMJ Herausgeber fordert Tribunal über Handlungen der Politik in der Corona Krise'
 country:       AT
 categories:    [Politik, Recht, Widerstand]
-tags:          [tkp, massnahmen]
+tags:          [massnahmen]
 ---

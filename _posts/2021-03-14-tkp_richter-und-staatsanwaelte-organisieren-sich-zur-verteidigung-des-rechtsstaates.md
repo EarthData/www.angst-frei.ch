@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Richter und Staatsanwälte organisieren sich zur Verteidigung des Rechtsstaates'
 country:       AT
 categories:    [Widerstand]
-tags:          [tkp]
+tags:          []
 ---

@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Österreich wie Israel – mehr Fälle und Todesfälle seit Impfbeginn'
 country:       AT
 categories:    [Impfung, Zahlen]
-tags:          [tkp, israel, impf-nebenwirkungen, mit oder an impfung gestorben, immunität]
+tags:          [israel, impf-nebenwirkungen, mit oder an impfung gestorben, immunität]
 ---

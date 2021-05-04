@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'US-Daten: Probleme mit Blutgerinnung bei allen drei Impfstoffen mit Notfallzulassung'
 country:       AT
 categories:    [Zahlen, Impfung]
-tags:          [tkp, usa, impf-nebenwirkungen, blutgerinnungsstörungen, moderna, biontech, johnson & johnson]
+tags:          [usa, impf-nebenwirkungen, blutgerinnungsstörungen, moderna, biontech, johnson & johnson]
 ---

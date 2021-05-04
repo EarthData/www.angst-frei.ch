@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Bangladesh und Indien: steiler Anstieg von Infektionen und Todesfällen seit Impfbeginn'
 country:       AT
 categories:    [Impfung]
-tags:          [tkp, immunität]
+tags:          [immunität]
 ---

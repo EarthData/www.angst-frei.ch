@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Was hinter der angeblichen Gefährlichkeit neuer Virus Varianten steckt'
 country:       AT
 categories:    [MSM, Studie]
-tags:          [tkp, virus-mutation, angst]
+tags:          [virus-mutation, angst]
 ---

@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Urteil von Gericht in Weimar schützt Kinder vor Kindeswohlgefährdung'
 country:       AT
 categories:    [Recht, Schulen]
-tags:          [tkp, kind, maske, weimar]
+tags:          [kind, maske, weimar]
 ---

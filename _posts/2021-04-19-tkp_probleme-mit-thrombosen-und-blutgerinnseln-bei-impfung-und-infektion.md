@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Probleme mit Thrombosen und Blutgerinnseln bei Impfung und Infektion'
 country:       AT
 categories:    [Impfung]
-tags:          [tkp, impf-nebenwirkungen, blutgerinnungsstörungen]
+tags:          [impf-nebenwirkungen, blutgerinnungsstörungen]
 ---

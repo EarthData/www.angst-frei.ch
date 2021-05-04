@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'US-Forscher: T-Zellen erkennen alle bekannten Corona Varianten'
 country:       AT
 categories:    [Wissenschaft]
-tags:          [tkp, virus-mutation, immunität]
+tags:          [virus-mutation, immunität]
 ---

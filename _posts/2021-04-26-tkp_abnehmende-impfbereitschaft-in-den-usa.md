@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Abnehmende Impfbereitschaft in den USA'
 country:       AT
 categories:    [Impfung, Widerstand]
-tags:          [tkp, usa]
+tags:          [usa]
 ---

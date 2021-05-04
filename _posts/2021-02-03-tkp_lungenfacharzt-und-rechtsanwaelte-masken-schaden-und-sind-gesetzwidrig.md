@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Lungenfacharzt und Rechtsanwälte: Masken schaden und sind gesetzwidrig'
 country:       AT
 categories:    [Medizin, Recht]
-tags:          [tkp, maske]
+tags:          [maske]
 ---

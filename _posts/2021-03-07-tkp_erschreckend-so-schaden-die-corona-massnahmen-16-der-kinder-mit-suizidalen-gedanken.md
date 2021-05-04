@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Erschreckend: so schaden die Corona Maßnahmen – 16% der Kinder mit suizidalen Gedanken'
 country:       AT
 categories:    [Mensch, Studie]
-tags:          [tkp, kind, kollateralschäden]
+tags:          [kind, kollateralschäden]
 ---

@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Studien von Stanford und CDC: Masken unwirksam gegen Infektion und gesundheitsschädlich'
 country:       AT
 categories:    [Studie, Gesundheit]
-tags:          [tkp, maske]
+tags:          [maske]
 ---

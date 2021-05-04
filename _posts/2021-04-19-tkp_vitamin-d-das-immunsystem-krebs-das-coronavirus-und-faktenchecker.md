@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Vitamin D, das Immunsystem, Krebs, das Coronavirus und Faktenchecker'
 country:       AT
 categories:    [Wissenschaft, Medizin]
-tags:          [tkp, vitamin d]
+tags:          [vitamin d]
 ---

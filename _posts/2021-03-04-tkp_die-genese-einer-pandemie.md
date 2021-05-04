@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Die Genese einer Pandemie'
 country:       AT
 categories:    [P(l)andemie]
-tags:          [tkp, pcr-test, manipulation]
+tags:          [pcr-test, manipulation]
 ---

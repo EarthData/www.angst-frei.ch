@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Bereits 24 US-Bundesstaaten ohne Maskenzwang und 12 mit Verbot vom Impfpass'
 country:       AT
 categories:    [Politik]
-tags:          [tkp, maske, lockdown, impfpass, usa]
+tags:          [maske, lockdown, impfpass, usa]
 ---

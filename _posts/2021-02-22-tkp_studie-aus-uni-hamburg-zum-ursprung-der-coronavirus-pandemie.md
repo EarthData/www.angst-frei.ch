@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Studie aus Uni Hamburg zum Ursprung der Coronavirus-Pandemie'
 country:       AT
 categories:    [Studie, Wissenschaft]
-tags:          [tkp, virus-ursprung]
+tags:          [virus-ursprung]
 ---

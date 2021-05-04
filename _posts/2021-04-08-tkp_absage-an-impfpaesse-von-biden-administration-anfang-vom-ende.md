@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Absage an Impfpässe von Biden-Administration - Anfang vom Ende?'
 country:       AT
 categories:    [Impfung, Politik]
-tags:          [tkp, impfpass, usa]
+tags:          [impfpass, usa]
 ---

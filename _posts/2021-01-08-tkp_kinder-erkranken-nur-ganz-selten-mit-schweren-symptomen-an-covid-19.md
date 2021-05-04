@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Kinder erkranken nur ganz selten mit schweren Symptomen an Covid-19'
 country:       AT
 categories:    [Schulen, Studie]
-tags:          [tkp, kind]
+tags:          [kind]
 ---

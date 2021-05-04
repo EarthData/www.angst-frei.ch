@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Beispiel USA zeigt: Masken schaden mehr als sie nutzen'
 country:       AT
 categories:    [Zahlen]
-tags:          [tkp, maske]
+tags:          [maske]
 ---

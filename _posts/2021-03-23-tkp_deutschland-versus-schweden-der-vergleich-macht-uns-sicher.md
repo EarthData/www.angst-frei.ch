@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Deutschland versus Schweden – der Vergleich macht uns sicher'
 country:       AT
 categories:    [Zahlen]
-tags:          [tkp, sterblichkeit, schweden]
+tags:          [sterblichkeit, schweden]
 ---

@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Rätselhafte Zahlen bei Belegung von Intensivstationen in Europa'
 country:       AT
 categories:    [Spital]
-tags:          [tkp]
+tags:          []
 ---

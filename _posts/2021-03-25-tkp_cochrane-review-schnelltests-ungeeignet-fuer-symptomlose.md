@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Cochrane Review: Schnelltests ungeeignet für Symptomlose'
 country:       AT
 categories:    [Studie]
-tags:          [tkp, massentest, asymptomatisch]
+tags:          [massentest, asymptomatisch]
 ---

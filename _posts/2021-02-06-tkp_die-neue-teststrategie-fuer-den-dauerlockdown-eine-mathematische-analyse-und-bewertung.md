@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Die neue Teststrategie für den Dauerlockdown – eine mathematische Analyse und Bewertung'
 country:       AT
 categories:    [Zahlen]
-tags:          [tkp, pcr-test, massentest]
+tags:          [pcr-test, massentest]
 ---

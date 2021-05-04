@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Parlament in Finnland schmettert Oster-Lockdown ab - mehr zum finnischen Erfolgsmodell'
 country:       AT
 categories:    [Politik, Recht, Widerstand]
-tags:          [tkp, lockdown, finnland]
+tags:          [lockdown, finnland]
 ---

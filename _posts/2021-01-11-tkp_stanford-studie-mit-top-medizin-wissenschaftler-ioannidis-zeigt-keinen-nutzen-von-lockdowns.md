@@ -6,5 +6,5 @@ subtitle:      'Stanford Studie mit Top Medizin-Wissenschaftler Ioannidis zeigt 
 country:       AT
 persons:       [Ioannidis John P.]
 categories:    [Studie]
-tags:          [tkp, lockdown]
+tags:          [lockdown]
 ---

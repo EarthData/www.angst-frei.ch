@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Gouverneur DeSantis hat Impfpässe per Executive Order in Florida verboten'
 country:       AT
 categories:    [Widerstand, Impfung]
-tags:          [tkp, impfpass, usa]
+tags:          [impfpass, usa]
 ---

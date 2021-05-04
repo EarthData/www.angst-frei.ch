@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Faktenchecker gegen Nobelpreisträger und die Rezeption in Medien'
 country:       AT
 categories:    [Recht, MSM]
-tags:          [tkp, manipulation]
+tags:          [manipulation]
 ---

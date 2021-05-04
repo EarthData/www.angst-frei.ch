@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Gouverneur von Florida zieht Bilanz über ein halbes Jahr ohne Einschränkungen und Masken'
 country:       AT
 categories:    [Politik]
-tags:          [tkp, massnahmen, maske]
+tags:          [massnahmen, maske]
 ---

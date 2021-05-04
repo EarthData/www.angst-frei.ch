@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'MedUni Innsbruck: Immunität durch Infektion besser als Impfung'
 country:       AT
 categories:    [Studie, Impfung]
-tags:          [tkp, immunität, infektion]
+tags:          [immunität, infektion]
 ---

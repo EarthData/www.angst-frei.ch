@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Urteil von deutschem Amtsgericht bezeichnet Corona Verordnung als verfassungswidrig'
 country:       AT
 categories:    [Recht]
-tags:          [tkp, massnahmen]
+tags:          [massnahmen]
 ---

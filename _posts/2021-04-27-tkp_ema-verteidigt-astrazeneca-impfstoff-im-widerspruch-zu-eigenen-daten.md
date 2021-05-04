@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'EMA verteidigt AstraZeneca Impfstoff im Widerspruch zu eigenen Daten'
 country:       AT
 categories:    [Impfung]
-tags:          [tkp, astrazeneca, ema, manipulation]
+tags:          [astrazeneca, ema, manipulation]
 ---

@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Schwedischer Forscher wirft Handtuch nach massiven Angriffen wegen Studie über Kinder und Covid'
 country:       AT
 categories:    [Schulen, Studie]
-tags:          [tkp, kind, manipulation]
+tags:          [kind, manipulation]
 ---

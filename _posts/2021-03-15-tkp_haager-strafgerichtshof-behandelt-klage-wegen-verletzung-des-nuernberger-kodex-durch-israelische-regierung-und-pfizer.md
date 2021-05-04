@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Haager Strafgerichtshof behandelt Klage wegen Verletzung des Nürnberger Kodex durch israelische Regierung und Pfizer'
 country:       AT
 categories:    [Recht]
-tags:          [tkp, israel]
+tags:          [israel]
 ---

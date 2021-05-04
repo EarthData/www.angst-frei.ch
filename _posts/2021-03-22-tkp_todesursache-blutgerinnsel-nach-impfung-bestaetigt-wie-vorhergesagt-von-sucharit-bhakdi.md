@@ -6,5 +6,5 @@ subtitle:      'Todesursache Blutgerinnsel nach Impfung bestätigt - wie vorherg
 country:       AT
 persons:       [Bhakdi Sucharit]
 categories:    [Impfung]
-tags:          [tkp, impf-nebenwirkungen, blutgerinnungsstörungen]
+tags:          [impf-nebenwirkungen, blutgerinnungsstörungen]
 ---

@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'So schaden Lockdowns, Masken und andere Einschränkungen der Gesundheit'
 country:       AT
 categories:    [Mensch]
-tags:          [tkp, lockdown, massnahmen]
+tags:          [lockdown, massnahmen]
 ---

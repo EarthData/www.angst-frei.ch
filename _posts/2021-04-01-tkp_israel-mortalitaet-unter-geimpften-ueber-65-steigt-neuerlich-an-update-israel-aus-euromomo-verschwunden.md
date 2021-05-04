@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Israel: Mortalität unter Geimpften über 65 steigt neuerlich an - Update: Israel in Euromomo wieder da'
 country:       AT
 categories:    [Zahlen, Impfung]
-tags:          [tkp, israel, sterblichkeit]
+tags:          [israel, sterblichkeit]
 ---

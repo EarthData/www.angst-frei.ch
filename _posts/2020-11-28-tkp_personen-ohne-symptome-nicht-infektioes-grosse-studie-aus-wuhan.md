@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Personen ohne Symptome nicht infektiös: große Studie aus Wuhan'
 country:       AT
 categories:    [Studie]
-tags:          [tkp, asymptomatisch]
+tags:          [asymptomatisch]
 ---

@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Das Missverständnis über den „Impfsschutz“'
 country:       AT
 categories:    [Impfung]
-tags:          [tkp, impf-nebenwirkungen, manipulation]
+tags:          [impf-nebenwirkungen, manipulation]
 ---

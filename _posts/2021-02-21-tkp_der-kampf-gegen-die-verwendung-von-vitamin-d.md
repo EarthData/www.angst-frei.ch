@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Der Kampf gegen die Verwendung von Vitamin D'
 country:       AT
 categories:    [Studie, Medizin, Wissenschaft]
-tags:          [tkp, vitamin d]
+tags:          [vitamin d]
 ---

@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Neue Studie: Lockdowns verhindern Covid Todesfälle nicht'
 country:       AT
 categories:    [Studie]
-tags:          [tkp, massnahmen]
+tags:          [massnahmen]
 ---

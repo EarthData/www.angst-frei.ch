@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Ärzte für Covid-Ethik fordern von EMA Einstellung der experimentellen Impfungen'
 country:       AT
 categories:    [Medizin, Impfung, Widerstand]
-tags:          [tkp, impf-stopp, ema]
+tags:          [impf-stopp, ema]
 ---

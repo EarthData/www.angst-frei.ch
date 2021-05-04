@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Die Funktion von T-Zellen und Antikörpern im Immunsystem'
 country:       AT
 categories:    [Medizin, Wissenschaft]
-tags:          [tkp, immunität]
+tags:          [immunität]
 ---

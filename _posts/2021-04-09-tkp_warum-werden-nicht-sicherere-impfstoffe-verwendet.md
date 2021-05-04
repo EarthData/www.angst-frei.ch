@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Warum werden nicht sicherere Impfstoffe verwendet?'
 country:       AT
 categories:    [Impfung]
-tags:          [tkp, impf-nebenwirkungen]
+tags:          [impf-nebenwirkungen]
 ---

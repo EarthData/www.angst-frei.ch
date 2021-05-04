@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Studie zeigt massive Covid Infektionen nach der Impfung'
 country:       AT
 categories:    [Studie, Impfung]
-tags:          [tkp, infektion]
+tags:          [infektion]
 ---

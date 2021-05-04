@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Die erstaunlichen Vorhersagen der Modellierer im Covid-Prognose-Konsortium'
 country:       AT
 categories:    [Zahlen]
-tags:          [tkp, manipulation]
+tags:          [manipulation]
 ---

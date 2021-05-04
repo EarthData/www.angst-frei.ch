@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'UK Behörden: massive Nebenwirkungen bei Impfung wie Schlaganfall, Erblindung, Fehlgeburten'
 country:       AT
 categories:    [Impfung]
-tags:          [tkp, mit oder an impfung gestorben, impf-nebenwirkungen]
+tags:          [mit oder an impfung gestorben, impf-nebenwirkungen]
 ---

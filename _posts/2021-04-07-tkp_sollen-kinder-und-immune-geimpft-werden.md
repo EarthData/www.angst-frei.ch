@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Sollen Kinder und Immune geimpft werden?'
 country:       AT
 categories:    [Impfung, Studie]
-tags:          [tkp, biontech, impf-nebenwirkungen, immunität, kind]
+tags:          [biontech, impf-nebenwirkungen, immunität, kind]
 ---

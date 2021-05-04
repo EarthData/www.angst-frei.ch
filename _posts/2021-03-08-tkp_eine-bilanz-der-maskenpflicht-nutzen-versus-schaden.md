@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Eine Bilanz der Maskenpflicht – Nutzen versus Schaden'
 country:       AT
 categories:    [Studie]
-tags:          [tkp, maske, kollateralschäden]
+tags:          [maske, kollateralschäden]
 ---

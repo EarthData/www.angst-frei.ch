@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Gefährliche Bestandteile in den Antigen Schnelltests?'
 country:       AT
 categories:    [Impfung]
-tags:          [tkp, massentest]
+tags:          [massentest]
 ---

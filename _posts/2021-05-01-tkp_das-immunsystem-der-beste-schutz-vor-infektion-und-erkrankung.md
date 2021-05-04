@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Das Immunsystem: der beste Schutz vor Infektion und Erkrankung'
 country:       AT
 categories:    [Gesundheit]
-tags:          [tkp, immunsystem]
+tags:          [immunsystem]
 ---

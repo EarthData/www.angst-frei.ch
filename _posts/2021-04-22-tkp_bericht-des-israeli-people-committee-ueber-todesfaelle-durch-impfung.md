@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Bericht des Israeli People Committee über Todesfälle durch Impfung'
 country:       AT
 categories:    [Impfung]
-tags:          [tkp, impf-nebenwirkungen, mit oder an impfung gestorben, biontech, israel]
+tags:          [impf-nebenwirkungen, mit oder an impfung gestorben, biontech, israel]
 ---

@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Studie der Universität Warwick: Schulen spielen keine Rolle bei Verbreitung von Corona'
 country:       AT
 categories:    [Studie, Schulen]
-tags:          [tkp, kind]
+tags:          [kind]
 ---

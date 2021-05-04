@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Warum Skepsis gegen derzeit verwendete Impfstoffe berechtigt ist'
 country:       AT
 categories:    [Impfung]
-tags:          [tkp, impf-nebenwirkungen, mit oder an impfung gestorben, johnson & johnson]
+tags:          [impf-nebenwirkungen, mit oder an impfung gestorben, johnson & johnson]
 ---

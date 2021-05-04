@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Gründe für stärkere 2. Welle in manchen Ländern – staatliche Maßnahmen und Hoffnungslosigkeit'
 country:       AT
 categories:    [Politik, Mensch]
-tags:          [tkp, welle2, massnahmen, kollateralschäden]
+tags:          [welle2, massnahmen, kollateralschäden]
 ---

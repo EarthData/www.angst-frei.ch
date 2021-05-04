@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Über den Zusammenhang von Impftempo, Fallzahlen und Erkrankungen'
 country:       AT
 categories:    [Impfung, Zahlen]
-tags:          [tkp, immunität]
+tags:          [immunität]
 ---

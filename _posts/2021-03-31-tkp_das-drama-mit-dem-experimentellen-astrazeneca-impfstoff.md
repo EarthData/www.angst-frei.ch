@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Das Drama mit dem experimentellen AstraZeneca Impfstoff'
 country:       AT
 categories:    [Impfung]
-tags:          [tkp, impf-nebenwirkungen, mit oder an impfung gestorben, astrazeneca]
+tags:          [impf-nebenwirkungen, mit oder an impfung gestorben, astrazeneca]
 ---

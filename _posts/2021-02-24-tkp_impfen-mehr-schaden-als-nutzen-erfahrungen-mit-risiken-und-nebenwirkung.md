@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Impfen – mehr Schaden als Nutzen? Erfahrungen mit Risiken und Nebenwirkungen'
 country:       AT
 categories:    [Impfung]
-tags:          [tkp, mit oder an impfung gestorben, impf-nebenwirkungen]
+tags:          [mit oder an impfung gestorben, impf-nebenwirkungen]
 ---

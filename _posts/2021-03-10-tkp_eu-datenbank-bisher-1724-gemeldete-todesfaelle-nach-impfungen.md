@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'EU Datenbank: bisher 1724 gemeldete Todesfälle nach Impfungen'
 country:       AT
 categories:    [Impfung]
-tags:          [tkp, mit oder an impfung gestorben, biontech, moderna, astrazeneca]
+tags:          [mit oder an impfung gestorben, biontech, moderna, astrazeneca]
 ---

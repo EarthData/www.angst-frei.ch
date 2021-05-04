@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Virus oder Mensch – was ist wichtiger?'
 country:       AT
 categories:    [Mensch]
-tags:          [tkp, kollateralschäden]
+tags:          [kollateralschäden]
 ---

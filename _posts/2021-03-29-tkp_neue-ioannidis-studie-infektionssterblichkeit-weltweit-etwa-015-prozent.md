@@ -4,8 +4,7 @@ redirect:      https://tkp.at/2021/03/29/neue-ioannidis-studie-infektionssterbli
 title:         tp - Science & Technology
 subtitle:      'Neue Ioannidis Studie: Infektionssterblichkeit weltweit etwa 0,15 Prozent'
 country:       AT
-Timeline:      Studie
 persons:       [Ioannidis John P.]
 categories:    [Studie]
-tags:          [tkp, sterblichkeit]
+tags:          [sterblichkeit]
 ---

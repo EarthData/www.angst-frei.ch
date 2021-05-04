@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Lockdown vernichtet Arbeitsplätze bei höherer Covid-Mortalität'
 country:       AT
 categories:    [Studie, Zahlen]
-tags:          [tkp, lockdown, sterblichkeit]
+tags:          [lockdown, sterblichkeit]
 ---

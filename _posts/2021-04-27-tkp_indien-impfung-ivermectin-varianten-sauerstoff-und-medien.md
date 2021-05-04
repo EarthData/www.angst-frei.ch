@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Indien: Impfung, Ivermectin, Varianten, Sauerstoff und Medien'
 country:       AT
 categories:    [Impfung, MSM]
-tags:          [tkp, indien, manipulation]
+tags:          [indien, manipulation]
 ---

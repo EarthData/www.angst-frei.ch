@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Verfassungsgericht von Ecuador: Ausnahmezustand verfassungswidrig'
 country:       AT
 categories:    [Recht]
-tags:          [tkp, lockdown]
+tags:          [lockdown]
 ---

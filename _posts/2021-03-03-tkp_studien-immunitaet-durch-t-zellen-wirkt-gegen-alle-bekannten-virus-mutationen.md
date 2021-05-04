@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'Studien: Immunität durch T-Zellen wirkt gegen alle bekannten Virus Mutationen'
 country:       AT
 categories:    [Studie]
-tags:          [tkp, immunität, virus-mutation]
+tags:          [immunität, virus-mutation]
 ---

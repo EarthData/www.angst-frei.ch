@@ -5,5 +5,5 @@ title:         tp - Science & Technology
 subtitle:      'EMA Datenbank: 1268 Fälle von Nebenwirkungen bei Kindern bis 17 Jahren'
 country:       AT
 categories:    [Impfung]
-tags:          [tkp, kind, impf-nebenwirkungen, mit oder an impfung gestorben, ema]
+tags:          [kind, impf-nebenwirkungen, mit oder an impfung gestorben, ema]
 ---

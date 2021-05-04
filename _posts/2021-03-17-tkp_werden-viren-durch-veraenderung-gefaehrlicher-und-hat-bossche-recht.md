@@ -6,5 +6,5 @@ subtitle:      'Werden Viren durch Veränderung gefährlicher und hat Bossche re
 country:       AT
 persons:       [Vanden Bossche Geert]
 categories:    [Impfung, Wissenschaft]
-tags:          [tkp, virus-mutation, immunität]
+tags:          [virus-mutation, immunität]
 ---
