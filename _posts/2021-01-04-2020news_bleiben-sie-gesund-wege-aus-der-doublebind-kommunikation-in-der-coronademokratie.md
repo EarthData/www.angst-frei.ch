@@ -5,5 +5,5 @@ title:         2020 News
 subtitle:      '"Unterstehen Sie sich, krank zu werden!"'
 country:       DE
 categories:    [Mensch, Widerstand]
-tags:          [2020news, demokratie]
+tags:          [demokratie]
 ---

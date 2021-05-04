@@ -5,5 +5,5 @@ title:         2020 News
 subtitle:      'Kein Lockdown: Die Schweden haben es raus'
 country:       DE
 categories:    [Zahlen]
-tags:          [2020news, lockdown, schweden]
+tags:          [lockdown, schweden]
 ---

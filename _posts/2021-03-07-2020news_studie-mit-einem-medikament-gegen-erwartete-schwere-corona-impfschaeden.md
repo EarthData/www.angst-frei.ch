@@ -6,5 +6,5 @@ subtitle:      'Studie mit einem Medikament gegen "erwartete" schwere Corona-Imp
 country:       DE
 persons:       [Wodarg Wolfgang]
 categories:    [Studie, Impfung]
-tags:          [2020news, impf-nebenwirkungen]
+tags:          [impf-nebenwirkungen]
 ---

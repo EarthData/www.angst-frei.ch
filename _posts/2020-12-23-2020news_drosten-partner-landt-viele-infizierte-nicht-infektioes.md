@@ -6,5 +6,5 @@ subtitle:      'Drosten-Partner Olfert Landt: "50% der Infizierten nicht infekti
 country:       DE
 persons:       [Drosten Christian]
 categories:    [Wissenschaft, Zahlen]
-tags:          [2020news, massnahmen, quarantäne]
+tags:          [massnahmen, quarantäne]
 ---

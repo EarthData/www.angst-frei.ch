@@ -5,5 +5,5 @@ title:         2020 News
 subtitle:      'Gefahr Corona-Impfstoff: alle Katzen tot'
 country:       DE
 categories:    [Impfung]
-tags:          [2020news, impf-nebenwirkungen]
+tags:          [impf-nebenwirkungen]
 ---

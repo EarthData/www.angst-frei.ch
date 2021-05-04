@@ -6,5 +6,5 @@ subtitle:      'Prof. Drosten stellt sich dem Kampf'
 country:       DE
 persons:       [Drosten Christian, Füllmich Reiner]
 categories:    [Recht]
-tags:          [2020news]
+tags:          []
 ---

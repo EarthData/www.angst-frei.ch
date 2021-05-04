@@ -6,5 +6,5 @@ subtitle:      'Drosten-PCR-Test-Studie: Rückzugsantrag gestellt wegen wissensc
 country:       DE
 persons:       [Drosten Christian]
 categories:    [Studie, Wissenschaft]
-tags:          [2020news, pcr-test]
+tags:          [pcr-test]
 ---

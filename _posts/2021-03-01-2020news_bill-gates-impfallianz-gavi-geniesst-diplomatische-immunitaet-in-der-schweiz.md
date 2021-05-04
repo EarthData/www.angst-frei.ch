@@ -6,5 +6,5 @@ subtitle:      'Warum Bill Gates in der Schweiz nicht verhaftet werden kann'
 country:       DE
 persons:       [Gates Bill]
 categories:    [Recht, Impfung]
-tags:          [2020news, gavi]
+tags:          [gavi]
 ---

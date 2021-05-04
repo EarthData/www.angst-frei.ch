@@ -5,5 +5,5 @@ title:         2020 News
 subtitle:      'Portugiesische Krankenschwester stirbt nach Impfung'
 country:       DE
 categories:    [Impfung]
-tags:          [2020news, mit oder an impfung gestorben, biontech]
+tags:          [mit oder an impfung gestorben, biontech]
 ---

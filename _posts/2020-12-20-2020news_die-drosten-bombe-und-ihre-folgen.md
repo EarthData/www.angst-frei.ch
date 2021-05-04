@@ -6,5 +6,5 @@ subtitle:      'Die "Drosten-Bombe" und ihre Folgen'
 country:       DE
 persons:       [Drosten Christian, Füllmich Reiner]
 categories:    [Recht]
-tags:          [2020news, pcr-test]
+tags:          [pcr-test]
 ---

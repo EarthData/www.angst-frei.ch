@@ -5,5 +5,5 @@ title:         2020 News
 subtitle:      'EMA: 26.849 gemeldete negative Corona-Impfeffekte'
 country:       DE
 categories:    [Impfung]
-tags:          [2020news, impf-nebenwirkungen, ema]
+tags:          [impf-nebenwirkungen, ema]
 ---

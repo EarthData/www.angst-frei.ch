@@ -5,5 +5,5 @@ title:         2020 News
 subtitle:      'Die "95% Wirksamkeit" der Impfstoffe von Pfizer und Moderna - Zurückhaltung ist geboten, solange wir die vollständigen Daten nicht gesehen haben'
 country:       DE
 categories:    [Impfung, Zahlen, Studie]
-tags:          [2020news, impf-nebenwirkungen, biontech, moderna]
+tags:          [impf-nebenwirkungen, biontech, moderna]
 ---

@@ -5,5 +5,5 @@ title:         2020 News
 subtitle:      'Beschluss aus Karlsruhe stützt Sensationsurteil aus Weimar, Rechtsbeugungsvorwurf ohne Grundlage'
 country:       DE
 categories:    [Recht]
-tags:          [2020news, kind, maske, weimar]
+tags:          [kind, maske, weimar]
 ---

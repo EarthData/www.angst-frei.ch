@@ -5,5 +5,5 @@ title:         2020 News
 subtitle:      'Wissenschaftler gründen Plattform zur offenen Diskussion der Pandemie-Strategie'
 country:       DE
 categories:    [Wissenschaft]
-tags:          [2020news, evidenz]
+tags:          [evidenz]
 ---

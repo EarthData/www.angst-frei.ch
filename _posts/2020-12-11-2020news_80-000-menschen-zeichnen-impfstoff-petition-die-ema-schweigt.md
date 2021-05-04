@@ -5,5 +5,5 @@ title:         2020 News
 subtitle:      '80.000 Menschen zeichnen Impfstoff-Petition - die EMA schweigt'
 country:       DE
 categories:    [Politik, Impfung]
-tags:          [2020news, petition, ema]
+tags:          [petition, ema]
 ---

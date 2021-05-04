@@ -5,5 +5,5 @@ title:         2020 News
 subtitle:      'Leopoldina-ProfessorInnen sollen Aussage zum PCR-Test beeiden'
 country:       DE
 categories:    [Wissenschaft]
-tags:          [2020news, pcr-test, leopoldina]
+tags:          [pcr-test, leopoldina]
 ---

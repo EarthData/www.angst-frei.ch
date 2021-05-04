@@ -5,5 +5,5 @@ title:         2020 News
 subtitle:      'Am Friedrich-Löffler-Institut läuft ein Impf-Tierversuch'
 country:       DE
 categories:    [Impfung, Recht]
-tags:          [2020news]
+tags:          []
 ---

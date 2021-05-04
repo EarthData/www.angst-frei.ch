@@ -5,5 +5,5 @@ title:         2020 News
 subtitle:      'Zwei wichtige neue Urteile: die Luft wird dünner für die Regierung'
 country:       DE
 categories:    [Recht]
-tags:          [2020news, belgien]
+tags:          [belgien]
 ---

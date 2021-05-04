@@ -5,5 +5,5 @@ title:         2020 News
 subtitle:      'Ärzte wehren sich gegen Impfpolitik'
 country:       DE
 categories:    [Impfung, Widerstand, Medizin]
-tags:          [2020news]
+tags:          []
 ---

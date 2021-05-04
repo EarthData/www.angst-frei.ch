@@ -5,5 +5,5 @@ title:         2020 News
 subtitle:      'Fruchtbarkeitsstudie nach Impfung in Israel'
 country:       DE
 categories:    [Impfung, Studie]
-tags:          [2020news, israel]
+tags:          [israel]
 ---

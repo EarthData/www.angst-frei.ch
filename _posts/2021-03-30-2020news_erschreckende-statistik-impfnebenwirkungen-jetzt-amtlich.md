@@ -5,5 +5,5 @@ title:         2020 News
 subtitle:      'Erschreckende Statistik - Impfnebenwirkungen jetzt amtlich'
 country:       DE
 categories:    [Impfung]
-tags:          [2020news, impf-nebenwirkungen, mit oder an impfung gestorben]
+tags:          [impf-nebenwirkungen, mit oder an impfung gestorben]
 ---

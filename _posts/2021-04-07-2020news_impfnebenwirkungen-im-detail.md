@@ -5,5 +5,5 @@ title:         2020 News
 subtitle:      'Impfnebenwirkungen im Detail'
 country:       DE
 categories:    [Impfung, Zahlen]
-tags:          [2020news, impf-nebenwirkungen, ema]
+tags:          [impf-nebenwirkungen, ema]
 ---

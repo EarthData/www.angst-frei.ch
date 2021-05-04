@@ -5,5 +5,5 @@ title:         2020 News
 subtitle:      'Riesenskandal aufgedeckt: Covid-19-Impfung zerstört unser Immunsystem nachhaltig'
 country:       DE
 categories:    [Studie, Wissenschaft, Impfung]
-tags:          [2020news, impf-nebenwirkungen, immunsystem]
+tags:          [impf-nebenwirkungen, immunsystem]
 ---

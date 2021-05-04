@@ -5,5 +5,5 @@ title:         2020 News
 subtitle:      '60% der Kinder zornig: neue deutsche Maskenstudie'
 country:       DE
 categories:    [Studie, Schulen]
-tags:          [2020news, kind, maske]
+tags:          [kind, maske]
 ---

@@ -5,5 +5,5 @@ title:         2020 News
 subtitle:      'Italien: Studie belegt stark erhöhten CO2-Wert unter der Maske'
 country:       DE
 categories:    [Studie, Schulen]
-tags:          [2020news, maske, kind]
+tags:          [maske, kind]
 ---

@@ -6,5 +6,5 @@ subtitle:      'Drosten-Papier unter Beschuss'
 country:       DE
 persons:       [Drosten Christian]
 categories:    [Wissenschaft]
-tags:          [2020news, pcr-test]
+tags:          [pcr-test]
 ---

@@ -5,5 +5,5 @@ title:         2020 News
 subtitle:      'Thrombosen, Herzinfarkte und Hirnblutungen sind nach allen Impfstoffen möglich'
 country:       DE
 categories:    [Impfung]
-tags:          [2020news, impf-nebenwirkungen, blutgerinnungsstörungen]
+tags:          [impf-nebenwirkungen, blutgerinnungsstörungen]
 ---

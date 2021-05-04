@@ -5,5 +5,5 @@ title:         2020 News
 subtitle:      'Generalstaatsanwalt Stuttgart will Obduktionen nach Impfungen verhindern'
 country:       DE
 categories:    [Recht, Medizin, Impfung]
-tags:          [2020news, mit oder an impfung gestorben]
+tags:          [mit oder an impfung gestorben]
 ---

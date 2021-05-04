@@ -5,5 +5,5 @@ title:         2020 News
 subtitle:      'Schulen ohne Not geschlossen?'
 country:       DE
 categories:    [Schulen, Zahlen]
-tags:          [2020news, kind]
+tags:          [kind]
 ---

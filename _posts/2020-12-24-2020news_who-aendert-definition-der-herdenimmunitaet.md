@@ -5,5 +5,5 @@ title:         2020 News
 subtitle:      'WHO ändert für die Impfagenda die Definition der Herdenimmunität'
 country:       DE
 categories:    [Wissenschaft]
-tags:          [2020news, who, immunität]
+tags:          [who, immunität]
 ---

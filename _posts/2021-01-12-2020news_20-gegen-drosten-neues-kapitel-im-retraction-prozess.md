@@ -6,5 +6,5 @@ subtitle:      '2:0 gegen Drosten - neues Kapitel im Retraction Prozess'
 country:       DE
 persons:       [Drosten Christian]
 categories:    [Wissenschaft]
-tags:          [2020news, pcr-test]
+tags:          [pcr-test]
 ---

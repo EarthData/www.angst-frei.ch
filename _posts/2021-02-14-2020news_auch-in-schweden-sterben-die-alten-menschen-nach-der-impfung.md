@@ -5,5 +5,5 @@ title:         2020 News
 subtitle:      'Auch in Schweden sterben die alten Menschen nach der Impfung'
 country:       DE
 categories:    [Impfung]
-tags:          [2020news, schweden, biontech, mit oder an impfung gestorben]
+tags:          [schweden, biontech, mit oder an impfung gestorben]
 ---

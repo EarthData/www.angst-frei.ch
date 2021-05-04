@@ -5,5 +5,5 @@ title:         2020 News
 subtitle:      'Neuer Leak: Die Umsetzung des Panikpapiers'
 country:       DE
 categories:    [Politik]
-tags:          [2020news, manipulation]
+tags:          [manipulation]
 ---

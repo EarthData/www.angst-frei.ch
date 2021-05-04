@@ -6,5 +6,5 @@ subtitle:      'Dr. Wodarg und Dr. Yeadon beantragen den Stopp sämtlicher Coron
 country:       DE
 persons:       [Wodarg Wolfgang, Yeadon Michael]
 categories:    [Wissenschaft, Impfung]
-tags:          [2020news, petition]
+tags:          [petition]
 ---

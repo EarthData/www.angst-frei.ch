@@ -5,5 +5,5 @@ title:         2020 News
 subtitle:      'Leere Corona-Betten in Schleswig-Holstein'
 country:       DE
 categories:    [Spital]
-tags:          [2020news, manipulation]
+tags:          [manipulation]
 ---

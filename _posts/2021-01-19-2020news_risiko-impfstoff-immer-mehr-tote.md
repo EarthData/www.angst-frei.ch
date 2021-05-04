@@ -5,5 +5,5 @@ title:         2020 News
 subtitle:      'Risiko Impfstoff - immer mehr Tote?'
 country:       DE
 categories:    [Impfung]
-tags:          [2020news, mit oder an impfung gestorben]
+tags:          [mit oder an impfung gestorben]
 ---

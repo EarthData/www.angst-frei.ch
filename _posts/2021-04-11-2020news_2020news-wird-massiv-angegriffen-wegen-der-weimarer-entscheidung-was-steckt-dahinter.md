@@ -5,5 +5,5 @@ title:         2020 News
 subtitle:      '2020News wird massiv angegriffen nach Artikel zu Sensationsurteil - warum?'
 country:       DE
 categories:    [Recht]
-tags:          [2020news, zensur, weimar, manipulation]
+tags:          [zensur, weimar, manipulation]
 ---

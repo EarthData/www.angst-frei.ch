@@ -5,5 +5,5 @@ title:         2020 News
 subtitle:      'Drosten-Vorgänger wendet sich gegen die Regierung'
 country:       DE
 categories:    [Widerstand, Wissenschaft, Politik]
-tags:          [2020news, who]
+tags:          [who]
 ---

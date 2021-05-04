@@ -5,5 +5,5 @@ title:         2020 News
 subtitle:      'Die Kaiserin ist nackt'
 country:       DE
 categories:    [Zahlen, Wissenschaft, Medizin, Impfung]
-tags:          [2020news, kind, lockdown, pcr-test, massnahmen]
+tags:          [kind, lockdown, pcr-test, massnahmen]
 ---

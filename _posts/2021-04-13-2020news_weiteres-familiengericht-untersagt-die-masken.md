@@ -5,5 +5,5 @@ title:         2020 News
 subtitle:      'Weiteres Familiengericht untersagt die Masken'
 country:       DE
 categories:    [Recht]
-tags:          [2020news, kind, maske, weilheim]
+tags:          [kind, maske, weilheim]
 ---

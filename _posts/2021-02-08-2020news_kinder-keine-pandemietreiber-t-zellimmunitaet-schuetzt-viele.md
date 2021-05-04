@@ -5,5 +5,5 @@ title:         2020 News
 subtitle:      'Kinder sind keine Pandemietreiber, T-Zellimmunität schützt'
 country:       DE
 categories:    [Schulen, Studie]
-tags:          [2020news, kind, immunität]
+tags:          [kind, immunität]
 ---
