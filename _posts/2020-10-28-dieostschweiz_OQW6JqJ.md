@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Wenn Wissenschaftler baren Unsinn schwatzen'
 country:       CH
 categories:    [Wissenschaft]
-tags:          [die ostschweiz, taskforce, lockdown2, manipulation]
+tags:          [taskforce, lockdown2, manipulation]
 ---

@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Wie das Hirn gewaschen wird'
 country:       CH
 categories:    [Mensch]
-tags:          [die ostschweiz, willkür, manipulation]
+tags:          [willkür, manipulation]
 ---

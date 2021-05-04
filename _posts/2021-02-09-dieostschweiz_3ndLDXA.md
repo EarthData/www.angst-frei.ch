@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Suizidrate, Teil 3: So einfach wäre es, einen Überblick zu gewinnen'
 country:       CH
 categories:    [BAG]
-tags:          [die ostschweiz, sterblichkeit]
+tags:          [sterblichkeit]
 ---

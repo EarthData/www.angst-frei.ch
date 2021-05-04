@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Liebe Frau Low, wollen Sie die Beizer endgültig kaputtmachen?'
 country:       CH
 categories:    [Wirtschaft]
-tags:          [die ostschweiz, taskforce, lockdown2]
+tags:          [taskforce, lockdown2]
 ---

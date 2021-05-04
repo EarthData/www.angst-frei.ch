@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Eltern wollen Bundesrat Berset mit Kinderzeichnungen überhäufen'
 country:       CH
 categories:    [Widerstand]
-tags:          [die ostschweiz, bundesrat, kind]
+tags:          [bundesrat, kind]
 ---

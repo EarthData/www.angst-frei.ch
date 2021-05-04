@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Alarm läuten oder leugnen?'
 country:       CH
 categories:    [Zahlen]
-tags:          [die ostschweiz]
+tags:          []
 ---

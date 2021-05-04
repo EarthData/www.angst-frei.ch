@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Welche Solidarität ist denn gemeint?'
 country:       CH
 categories:    [Impfung]
-tags:          [die ostschweiz, sterblichkeit]
+tags:          [sterblichkeit]
 ---

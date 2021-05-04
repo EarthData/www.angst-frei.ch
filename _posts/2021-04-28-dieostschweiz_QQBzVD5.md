@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Impfstoffe: Auf welcher Basis agiert die Schweiz?'
 country:       CH
 categories:    [Impfung, Studie]
-tags:          [die ostschweiz, swissmedic]
+tags:          [swissmedic]
 ---

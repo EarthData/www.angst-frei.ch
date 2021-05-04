@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Zuerst Coronaleugner, dann Coronaskeptiker - und was heisst es morgen?'
 country:       CH
 categories:    [Widerstand]
-tags:          [die ostschweiz, covidiot]
+tags:          [covidiot]
 ---

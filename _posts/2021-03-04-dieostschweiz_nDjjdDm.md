@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      '«Die Politik fördert weder Vielfalt noch Transparenz»'
 country:       CH
 categories:    [Politik, MSM]
-tags:          [die ostschweiz]
+tags:          []
 ---

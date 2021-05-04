@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Der Hass auf die Gesunden'
 country:       CH
 categories:    [Gesundheit, Mensch]
-tags:          [die ostschweiz, dialog]
+tags:          [dialog]
 ---

@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Vor dem Virus sind alle gleich? Wir werden immer ungleicher!'
 country:       CH
 categories:    [Politik]
-tags:          [die ostschweiz, bundesrat, massnahmen]
+tags:          [bundesrat, massnahmen]
 ---

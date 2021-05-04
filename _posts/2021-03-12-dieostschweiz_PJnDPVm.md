@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Der «Maulkorb» als Knebel der Wissenschaftsfreiheit?'
 country:       CH
 categories:    [Wissenschaft]
-tags:          [die ostschweiz, taskforce, manipulation]
+tags:          [taskforce, manipulation]
 ---

@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      '«Hier dürfen nur Geimpfte rein»: 2021 ist nichts mehr unmöglich'
 country:       CH
 categories:    [Impfung, Politik]
-tags:          [die ostschweiz, impfpass, impfzwang]
+tags:          [impfpass, impfzwang]
 ---

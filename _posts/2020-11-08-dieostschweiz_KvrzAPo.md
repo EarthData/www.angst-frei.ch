@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Spitäler am Anschlag!'
 country:       CH
 categories:    [Spital]
-tags:          [die ostschweiz, massnahmen]
+tags:          [massnahmen]
 ---

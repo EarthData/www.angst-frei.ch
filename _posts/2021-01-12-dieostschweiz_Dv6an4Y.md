@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Expertengruppe fordert umgehende Einstellung aller Massnahmen'
 country:       CH
 categories:    [Widerstand]
-tags:          [die ostschweiz, aletheia, massnahmen]
+tags:          [aletheia, massnahmen]
 ---

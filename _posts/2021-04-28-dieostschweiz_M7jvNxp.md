@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Ein Bundesrat, der sich auf sein Volk blind verlassen kann'
 country:       CH
 categories:    [Politik]
-tags:          [die ostschweiz, bundesrat]
+tags:          [bundesrat]
 ---

@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Rund 1000 Menschen in Schaffhausen – und das Tränengas blieb aus'
 country:       CH
 categories:    [Widerstand]
-tags:          [die ostschweiz, polizei, schaffhausen]
+tags:          [polizei, schaffhausen]
 ---

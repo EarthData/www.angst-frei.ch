@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Leben heisst nicht nur, nicht zu sterben'
 country:       CH
 categories:    [Mensch]
-tags:          [die ostschweiz, angst]
+tags:          [angst]
 ---

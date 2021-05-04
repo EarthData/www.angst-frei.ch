@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Überfordert, aber noch tragbar?'
 country:       CH
 categories:    [BAG]
-tags:          [die ostschweiz, zensur, manipulation]
+tags:          [zensur, manipulation]
 ---

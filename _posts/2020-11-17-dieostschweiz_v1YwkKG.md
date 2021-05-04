@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Den Teufel mit dem Beelzebub austreiben?'
 country:       CH
 categories:    [Mensch]
-tags:          [die ostschweiz]
+tags:          []
 ---

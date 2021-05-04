@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Traurig, aber wahr: Die Schweiz ist eben doch ein Land wie jedes andere'
 country:       CH
 categories:    [Politik]
-tags:          [die ostschweiz, demokratie, massnahmen]
+tags:          [demokratie, massnahmen]
 ---

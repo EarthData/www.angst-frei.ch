@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Die Schweiz im Kippzustand'
 country:       CH
 categories:    [Politik, Widerstand]
-tags:          [die ostschweiz, bundesrat, manipulation]
+tags:          [bundesrat, manipulation]
 ---

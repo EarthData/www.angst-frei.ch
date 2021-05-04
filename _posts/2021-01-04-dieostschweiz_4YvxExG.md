@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'So zynisch arbeitet das BAG'
 country:       CH
 categories:    [BAG, Zahlen]
-tags:          [die ostschweiz]
+tags:          []
 ---

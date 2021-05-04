@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Testing, Testing, Testing'
 country:       CH
 categories:    [Wissenschaft, Wirtschaft]
-tags:          [die ostschweiz, pcr-test]
+tags:          [pcr-test]
 ---

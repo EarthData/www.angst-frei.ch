@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Das Problem sind nicht mehr die Behörden - es sind die Bürger'
 country:       CH
 categories:    [Mensch, Politik]
-tags:          [die ostschweiz, angst]
+tags:          [angst]
 ---

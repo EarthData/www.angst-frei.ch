@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      '«Ich wünsche mir einfach, dass alle wieder Spass haben am Leben»'
 country:       CH
 categories:    [Mensch]
-tags:          [die ostschweiz, kind]
+tags:          [kind]
 ---

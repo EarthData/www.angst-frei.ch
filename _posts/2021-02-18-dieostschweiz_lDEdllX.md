@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Ein Grounding in dünnen Scheibchen'
 country:       CH
 categories:    [Politik]
-tags:          [die ostschweiz, massnahmen, bundesrat]
+tags:          [massnahmen, bundesrat]
 ---

@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Weitere Kundgebung: Keine Bewilligung wegen «Vertrauensbruch»'
 country:       CH
 categories:    [Widerstand, Politik]
-tags:          [die ostschweiz, rapperswil]
+tags:          [rapperswil]
 ---

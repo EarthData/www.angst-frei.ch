@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Manipulieren für den guten Zweck? Das geht nicht mehr lange gut'
 country:       CH
 categories:    [Behörde, Wissenschaft, MSM]
-tags:          [die ostschweiz, massnahmen, zensur, manipulation]
+tags:          [massnahmen, zensur, manipulation]
 ---

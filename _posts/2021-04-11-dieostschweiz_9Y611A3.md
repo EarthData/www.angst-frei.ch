@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Individuelle Freiheit trotz Corona-Notrecht'
 country:       CH
 categories:    [Widerstand, Recht, Politik]
-tags:          [die ostschweiz, altdorf, demokratie, polizei]
+tags:          [altdorf, demokratie, polizei]
 ---

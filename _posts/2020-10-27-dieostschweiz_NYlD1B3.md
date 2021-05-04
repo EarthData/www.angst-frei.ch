@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Lieber Bundesrat, hier noch ein paar gut gemeinte Ratschläge'
 country:       CH
 categories:    [Politik]
-tags:          [die ostschweiz, bundesrat, massnahmen]
+tags:          [bundesrat, massnahmen]
 ---

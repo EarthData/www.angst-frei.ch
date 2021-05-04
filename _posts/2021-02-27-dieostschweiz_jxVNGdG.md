@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Eine neue Dimension: Hausarzt wird Berufserlaubnis per sofort entzogen'
 country:       CH
 categories:    [Recht, Medizin, Widerstand]
-tags:          [die ostschweiz, willkür]
+tags:          [willkür]
 ---

@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Unser Land wird vom «Unbehagen» von Epidemiologen regiert'
 country:       CH
 categories:    [Politik]
-tags:          [die ostschweiz, massnahmen, bundesrat]
+tags:          [massnahmen, bundesrat]
 ---

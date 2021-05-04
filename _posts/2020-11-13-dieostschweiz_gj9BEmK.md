@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      '«Papi, stimmt es, dass wir alle bald aussterben?»'
 country:       CH
 categories:    [Mensch]
-tags:          [die ostschweiz, angst, kind]
+tags:          [angst, kind]
 ---

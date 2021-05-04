@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      '«Dürfen diese Menschen denn nicht gehen?»'
 country:       CH
 categories:    [Mensch, Zahlen]
-tags:          [die ostschweiz, sterblichkeit]
+tags:          [sterblichkeit]
 ---

@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Chronologie: Wie Altdorf (fast) verhindert wurde'
 country:       CH
 categories:    [Politik, Recht, Widerstand]
-tags:          [die ostschweiz, altdorf]
+tags:          [altdorf]
 ---

@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Testen als Alltagspflicht: Inzwischen geht wirklich fast alles'
 country:       CH
 categories:    [Mensch, Wirtschaft]
-tags:          [die ostschweiz, bundesrat, massentest]
+tags:          [bundesrat, massentest]
 ---

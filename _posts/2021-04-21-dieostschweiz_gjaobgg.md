@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Ein Plakat für einen Videoblogger ist plötzlich «politische Werbung»'
 country:       CH
 categories:    [Recht, Politik]
-tags:          [die ostschweiz, zensur, manipulation]
+tags:          [zensur, manipulation]
 ---

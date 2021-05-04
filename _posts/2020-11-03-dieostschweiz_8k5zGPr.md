@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Stell dir vor, es gibt einen Skandal - und keiner schaut hin'
 country:       CH
 categories:    [Zahlen, BAG]
-tags:          [die ostschweiz, quarantäne, manipulation]
+tags:          [quarantäne, manipulation]
 ---

@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Regieren ohne zu begründen im Corona-Krieg'
 country:       CH
 categories:    [Politik]
-tags:          [die ostschweiz, demokratie, bundesrat, pcr-test, massnahmen, maske]
+tags:          [demokratie, bundesrat, pcr-test, massnahmen, maske]
 ---

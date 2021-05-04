@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Wenn Experten zu Aktivisten mutieren'
 country:       CH
 categories:    [Politik, Wissenschaft]
-tags:          [die ostschweiz, bundesrat, taskforce]
+tags:          [bundesrat, taskforce]
 ---

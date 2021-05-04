@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Suizidstatistik: Deshalb dauert es so lange - und es soll besser werden'
 country:       CH
 categories:    [BAG]
-tags:          [die ostschweiz, sterblichkeit]
+tags:          [sterblichkeit]
 ---

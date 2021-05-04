@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Es ist alles noch viel schlimmer!'
 country:       CH
 categories:    [Politik]
-tags:          [die ostschweiz, massnahmen, manipulation]
+tags:          [massnahmen, manipulation]
 ---

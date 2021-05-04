@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Organisierter Ruin heisst neuerdings «Planungssicherheit»'
 country:       CH
 categories:    [Politik]
-tags:          [die ostschweiz, evidenz, bundesrat, massnahmen]
+tags:          [evidenz, bundesrat, massnahmen]
 ---

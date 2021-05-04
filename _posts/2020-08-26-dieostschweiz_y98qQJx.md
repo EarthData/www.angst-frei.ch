@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Umarmt Euch!'
 country:       CH
 categories:    [Widerstand]
-tags:          [die ostschweiz, angst]
+tags:          [angst]
 ---

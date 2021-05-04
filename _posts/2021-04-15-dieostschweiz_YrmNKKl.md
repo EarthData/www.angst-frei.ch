@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      '«Kennen Sie denn niemanden, der schwer an Corona erkrankt ist?»'
 country:       CH
 categories:    [Widerstand, Mensch]
-tags:          [die ostschweiz, kollateralschäden]
+tags:          [kollateralschäden]
 ---

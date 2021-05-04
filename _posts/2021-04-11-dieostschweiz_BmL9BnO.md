@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Altdorf ist überall: Dieser Sonntag ist der Innerschweiz gewidmet'
 country:       CH
 categories:    [Widerstand, Recht, Politik]
-tags:          [die ostschweiz, altdorf, demokratie, polizei]
+tags:          [altdorf, demokratie, polizei]
 ---

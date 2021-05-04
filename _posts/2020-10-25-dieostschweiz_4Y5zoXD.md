@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Corona-Religion und das Schweigen der Lämmer'
 country:       CH
 categories:    [Mensch, Politik]
-tags:          [die ostschweiz, angst, manipulation]
+tags:          [angst, manipulation]
 ---

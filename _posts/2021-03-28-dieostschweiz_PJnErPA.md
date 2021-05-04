@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Es braucht endlich Führungskräfte im Bundesrat'
 country:       CH
 categories:    [Politik]
-tags:          [die ostschweiz, bundesrat]
+tags:          [bundesrat]
 ---

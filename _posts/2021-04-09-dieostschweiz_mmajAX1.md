@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Die Briefe von Frau Vetsch an den Bundesrat werden nun nur noch «abgelegt»'
 country:       CH
 categories:    [Politik, Widerstand]
-tags:          [die ostschweiz, bundesrat, willkür]
+tags:          [bundesrat, willkür]
 ---

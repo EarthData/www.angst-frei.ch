@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Die Angstpropaganda des Bundesrats verfängt nicht'
 country:       CH
 categories:    [Politik]
-tags:          [die ostschweiz, bundesrat, covid-19-gesetz]
+tags:          [bundesrat, covid-19-gesetz]
 ---

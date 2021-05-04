@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Der lange Atem von Covid19'
 country:       CH
 categories:    [Spital, Medizin]
-tags:          [die ostschweiz, long covid]
+tags:          [long covid]
 ---

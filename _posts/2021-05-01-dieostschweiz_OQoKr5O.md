@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Privilegien oder Grundrechte?'
 country:       CH
 categories:    [Impfung, MSM]
-tags:          [die ostschweiz, grundrechte, impfzwang]
+tags:          [grundrechte, impfzwang]
 ---

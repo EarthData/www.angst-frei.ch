@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      '«Die Coronamassnahmen blockieren jede Alternative»'
 country:       CH
 categories:    [Spital]
-tags:          [die ostschweiz, massnahmen]
+tags:          [massnahmen]
 ---

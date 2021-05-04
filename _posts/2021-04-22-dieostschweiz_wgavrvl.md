@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Die Polizei definiert eine «No go»-Zone'
 country:       CH
 categories:    [Widerstand, Recht]
-tags:          [die ostschweiz, polizei, rapperswil]
+tags:          [polizei, rapperswil]
 ---

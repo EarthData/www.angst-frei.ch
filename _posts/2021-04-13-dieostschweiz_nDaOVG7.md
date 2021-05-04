@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Task Force: Kann weg'
 country:       CH
 categories:    [Wissenschaft, Politik, Medizin]
-tags:          [die ostschweiz, bundesrat, taskforce]
+tags:          [bundesrat, taskforce]
 ---

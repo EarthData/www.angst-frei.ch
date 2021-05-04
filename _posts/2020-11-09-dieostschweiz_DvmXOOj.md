@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Masken für Kinder?'
 country:       CH
 categories:    [Medizin]
-tags:          [die ostschweiz, kind, maske]
+tags:          [kind, maske]
 ---

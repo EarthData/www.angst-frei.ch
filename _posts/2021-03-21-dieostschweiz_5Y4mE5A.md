@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Der Bundesrat provoziert eine neue Volksbewegung'
 country:       CH
 categories:    [Widerstand, Politik]
-tags:          [die ostschweiz, bundesrat]
+tags:          [bundesrat]
 ---

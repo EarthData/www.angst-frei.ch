@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Hallo Menschlichkeit: Ist jemand zu Hause?'
 country:       CH
 categories:    [Mensch]
-tags:          [die ostschweiz, kind]
+tags:          [kind]
 ---

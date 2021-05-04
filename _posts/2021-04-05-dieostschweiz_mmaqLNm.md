@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Endlich. Die tun was Aufmüpfiges'
 country:       CH
 categories:    [Widerstand]
-tags:          [die ostschweiz, st.gallen]
+tags:          [st.gallen]
 ---

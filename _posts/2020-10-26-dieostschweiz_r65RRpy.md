@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Es geht nicht um Gesundheit, sondern um den globalen Wettbewerb'
 country:       CH
 categories:    [Politik]
-tags:          [die ostschweiz, bundesrat, pcr-test]
+tags:          [bundesrat, pcr-test]
 ---

@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Der Bundesrat sitzt auf den Suizidzahlen: Jetzt muss die Begründung her'
 country:       CH
 categories:    [BAG, Zahlen]
-tags:          [die ostschweiz, bundesrat, sterblichkeit, kollateralschäden]
+tags:          [bundesrat, sterblichkeit, kollateralschäden]
 ---

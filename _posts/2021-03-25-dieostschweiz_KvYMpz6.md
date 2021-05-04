@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      '«Uns Kindern geht es nicht gut!»'
 country:       CH
 categories:    [Mensch]
-tags:          [die ostschweiz, kind, kollateralschäden]
+tags:          [kind, kollateralschäden]
 ---

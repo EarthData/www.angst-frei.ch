@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Sitzt der Chefredaktor mit dem Regenschirm in die Gartenbeiz?'
 country:       CH
 categories:    [MSM]
-tags:          [die ostschweiz, tagesanzeiger]
+tags:          [tagesanzeiger]
 ---

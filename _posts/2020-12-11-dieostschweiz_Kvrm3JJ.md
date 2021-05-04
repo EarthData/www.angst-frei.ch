@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Eine Tortur ohne jede Evidenz'
 country:       CH
 categories:    [Politik]
-tags:          [die ostschweiz, bundesrat, evidenz, massnahmen]
+tags:          [bundesrat, evidenz, massnahmen]
 ---

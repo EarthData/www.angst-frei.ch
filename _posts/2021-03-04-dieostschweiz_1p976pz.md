@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Ein simpler Dreisatz widerlegt die ganze Coronapolitik'
 country:       CH
 categories:    [Zahlen]
-tags:          [die ostschweiz, bundesrat, massnahmen]
+tags:          [bundesrat, massnahmen]
 ---

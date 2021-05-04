@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Es ist höchste Zeit für die «fünfte Gewalt»'
 country:       CH
 categories:    [Widerstand]
-tags:          [die ostschweiz]
+tags:          []
 ---

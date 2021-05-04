@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Die Zahlen sind verschwunden, die Folgen bleiben'
 country:       CH
 categories:    [Mensch, Zahlen, BAG, Widerstand]
-tags:          [die ostschweiz, bundesrat, kind]
+tags:          [bundesrat, kind]
 ---

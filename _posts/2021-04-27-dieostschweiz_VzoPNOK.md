@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Was habt Ihr St. Galler nur getan?'
 country:       CH
 categories:    [Widerstand]
-tags:          [die ostschweiz, rapperswil]
+tags:          [rapperswil]
 ---

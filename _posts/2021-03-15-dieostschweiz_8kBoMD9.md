@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Deshalb sollten «Corona-Straftäter» die Strafe nicht akzeptieren'
 country:       CH
 categories:    [Widerstand, Recht]
-tags:          [die ostschweiz]
+tags:          []
 ---

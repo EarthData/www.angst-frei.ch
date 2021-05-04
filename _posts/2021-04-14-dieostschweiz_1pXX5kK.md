@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Der Terrassentrick: Wie sich der Bundesrat wieder ein bisschen Ruhe erkauft'
 country:       CH
 categories:    [Politik]
-tags:          [die ostschweiz, bundesrat]
+tags:          [bundesrat]
 ---

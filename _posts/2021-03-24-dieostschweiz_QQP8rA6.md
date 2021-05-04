@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Den Frieden stören'
 country:       CH
 categories:    [Mensch]
-tags:          [die ostschweiz]
+tags:          []
 ---

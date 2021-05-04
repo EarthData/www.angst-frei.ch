@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Wer braucht schon Fakten?'
 country:       CH
 categories:    [Zahlen, Mensch]
-tags:          [die ostschweiz, kind]
+tags:          [kind]
 ---

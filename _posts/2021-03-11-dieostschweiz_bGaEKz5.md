@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Hier sind sie endlich: Die vielen guten Seiten von Corona'
 country:       CH
 categories:    [Mensch]
-tags:          [die ostschweiz]
+tags:          []
 ---

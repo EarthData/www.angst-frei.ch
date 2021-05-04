@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      '«Mit Zahlen ohne Relationen verbreitet man Angst und Panik»'
 country:       CH
 categories:    [Schulen, Zahlen]
-tags:          [die ostschweiz, kind, maske]
+tags:          [kind, maske]
 ---

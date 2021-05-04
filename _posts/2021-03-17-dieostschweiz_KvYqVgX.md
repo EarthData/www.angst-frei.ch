@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Hallo Zukunft, bitte zahlen!'
 country:       CH
 categories:    [Wirtschaft]
-tags:          [die ostschweiz, geld]
+tags:          [geld]
 ---

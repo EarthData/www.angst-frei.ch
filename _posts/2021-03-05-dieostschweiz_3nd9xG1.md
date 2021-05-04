@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Corona bringt den Verlagen Millionen ein'
 country:       CH
 categories:    [Wirtschaft, MSM]
-tags:          [die ostschweiz, geld]
+tags:          [geld]
 ---

@@ -6,5 +6,5 @@ subtitle:      'In der Zeitmaschine: Die erstaunlichen Aussagen des Christian Dr
 country:       CH
 persons:       [Dristen Christian]
 categories:    [Wissenschaft]
-tags:          [die ostschweiz, pcr-test, manipulation]
+tags:          [pcr-test, manipulation]
 ---

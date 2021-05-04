@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Die Zahlen, die über unser Schicksal entscheiden, sind verfälscht'
 country:       CH
 categories:    [Zahlen, BAG]
-tags:          [die ostschweiz, massentest, bundesrat]
+tags:          [massentest, bundesrat]
 ---

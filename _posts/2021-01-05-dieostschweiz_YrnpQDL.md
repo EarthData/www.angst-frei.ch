@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Mit allen Wassern gewaschen'
 country:       CH
 categories:    [Mensch]
-tags:          [die ostschweiz, manipulation]
+tags:          [manipulation]
 ---

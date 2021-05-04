@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      '«Es gilt, den Jahren mehr Leben zu geben»'
 country:       CH
 categories:    [Mensch]
-tags:          [die ostschweiz, massnahmen]
+tags:          [massnahmen]
 ---

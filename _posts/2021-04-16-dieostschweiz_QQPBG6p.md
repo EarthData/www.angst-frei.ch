@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Juristisches Gutachten zerzaust die Coronapolitik des Bundesrats'
 country:       CH
 categories:    [Recht, Politik]
-tags:          [die ostschweiz, bundesrat]
+tags:          [bundesrat]
 ---

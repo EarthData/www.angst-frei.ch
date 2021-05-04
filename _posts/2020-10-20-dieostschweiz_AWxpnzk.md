@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Es ist höchste Zeit für ein paar richtig gute Nachrichten'
 country:       CH
 categories:    [Zahlen]
-tags:          [die ostschweiz, lockdown2]
+tags:          [lockdown2]
 ---

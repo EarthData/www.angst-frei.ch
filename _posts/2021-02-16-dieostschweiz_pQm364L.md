@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Hunderte von Fachpersonen sind plötzlich offenbar keine mehr'
 country:       CH
 categories:    [MSM, Medizin, Widerstand]
-tags:          [die ostschweiz, aletheia, manipulation]
+tags:          [aletheia, manipulation]
 ---

@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Fröhliche Zahlenknobelei oder Reise nach Jerusalem?'
 country:       CH
 categories:    [Spital, Zahlen]
-tags:          [die ostschweiz, manipulation]
+tags:          [manipulation]
 ---

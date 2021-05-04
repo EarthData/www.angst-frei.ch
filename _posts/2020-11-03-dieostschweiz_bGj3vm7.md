@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Das Phänomen Marco Rima - und was es über den Rest aussagt'
 country:       CH
 categories:    [Widerstand]
-tags:          [die ostschweiz, rima]
+tags:          [rima]
 ---
