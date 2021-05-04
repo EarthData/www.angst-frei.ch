@@ -13,7 +13,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2737,DE,2021-05-05,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
 2940,DE,2021-05-05,18:00:00,09669,Frankenberg,Markt,Kundgebung,,unbekannt,
 2943,DE,2021-05-05,18:00:00,105557,Berlin,Bundeskanzleramt,Kundgebung,https://youtube.com/user/cheeta030/live,AfD,
+2953,DE,2021-05-05,18:30:00,90478,Nürnberg,Meistersingerhalle / Parkplatz,Autokorso,,Querdenken 911,
 2592,CH,2021-05-05,18:30:00,9470,Buchs / SG,Lokremise,Spaziergang,,unknown,
+2946,DE,2021-05-05,19:00:00,06108,Halle,Markt / Ostseite,Kundgebung,https://www.twitch.tv/svenliebich,Sven Liebich,https://t.me/InSvensWelt
 2868,DE,2021-05-06,17:30:00,72622,Nürtingen,Lammbrunnen,Kundgebung,,Querdenken 702,
 2836,DE,2021-05-06,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 2913,DE,2021-05-06,18:00:00,42579,Heiligenhaus,Rathausplatz,Spaziergang,,Coronakritik Velbert Heiligenhaus,t.me/Coronakritik_Velbert
@@ -25,8 +27,10 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2934,DE,2021-05-06,19:00:00,24105,Kiel,Bernhard-Harms-Weg,Aufzug,,unbekannt,
 2605,CH,2021-05-06,20:00:00,8750,Glarus,Rathausplatz,Spaziergang,,unknown,
 2696,DE,2021-05-07,15:30:00,22941,Bargteheide,Am Markt / Schulzentrum,Mahnwache,,Freitag für Freiheit Freude  Frieden,
+2954,DE,2021-05-07,16:30:00,85716,Unterschleißheim,Furtweg 59 / am See,Autokorso,,Autokorso Unterschleißheim,https://t.me/AutoKorsoInfoUnterschleissheim
 2910,DE,2021-05-07,18:00:00,91126,Schwabach,Martin-Luther-Platz,Kundgebung,,Bündnis für Meinungsfreiheit,
 2635,CH,2021-05-07,18:00:00,3186,Düdingen,Bahnhof,Spaziergang,,unknown,
+2945,DE,2021-05-07,18:00:00,12619,Berlin,Hellersdorfer Str.159 / Parkplatz,Autokorso,,Autokorso Berlin,
 2931,DE,2021-05-07,18:15:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 2623,CH,2021-05-07,19:00:00,7320,Sargans,Bahnhof,Spaziergang,,unknown,
 2915,DE,2021-05-07,19:00:00,26506,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,,unbekannt,
@@ -34,20 +38,28 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2935,DE,2021-05-08,10:00:00,67063,Ludwigshafen,Industriestr. / Kopernikusstr.,Schilderwald,,unbekannt,
 2876,DE,2021-05-08,10:00:00,24568,Kaltenkirchen,Marktplatz,Demonstration,,unbekannt,https://t.me/Corona_Forum_Henstedt_Ulzburg
 2903,DE,2021-05-08,10:30:00,79271,St. Peter,Zähringer Eck / Rossweiher,Versammlung,,Schwarzwald Netzwerk,https://schwarzwald-netzwerk.de/
+2958,DE,2021-05-08,11:00:00,29223,Celle,Schützenplatz,Spaziergang,,Celle steht auf,
 2571,CH,2021-05-08,13:00:00,8001,Zürich,Fraumünster-Kirche,Spaziergang,,unknown,
+2951,DE,2021-05-08,13:00:00,98527,Suhl,Platz der Deutschen Einheit,Autokorso,,unbekannt,
 2922,DE,2021-05-08,13:00:00,84036,Landshut,Wittstr. 9 / Grieserwiese,Autokorso,,Freiheitsfahrer,https://www.freiheitsfahrer.de
 2877,DE,2021-05-08,13:00:00,24558,Henstedt-Ulzburg,Vor Kentucky Brät Hähnchen,Schilderwald,,unbekannt,https://t.me/Corona_Forum_Henstedt_Ulzburg
 2936,DE,2021-05-08,13:00:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,Bürgerinitiative aufRECHT:FREIdenken,https://solidarnosch.de
 2904,DE,2021-05-08,14:00:00,54290,Trier,Porta Nigra,Demonstration,,unbekannt,
 2251,DE,2021-05-08,14:00:00,83278,Traunstein,Salinenpark,Aufzug,https://dlive.tv/861Querdenken-TS?ref=papageienumschau,Querdenker-861,www.querdenken-ts.de
+2957,DE,2021-05-08,14:00:00,64385,Reichelsheim,B 38 Ortseingang Aldi,Versammlung,,unbekannt,
 2812,DE,2021-05-08,14:00:00,26122,Oldenburg,Schloßplatz,Aufzug,,Querdenken441,https://querdenken441.de
+2949,DE,2021-05-08,14:00:00,56068,Koblenz,Jesuitenplatz,Mahnwache,,unbekannt,
 2788,CH,2021-05-08,14:00:00,5000,Aargau,Stadtmuseum,Kundgebung,,unbekannt,
+2961,DE,2021-05-08,14:30:00,76829,Landau in der Pfalz,Rathausplatz,Demonstration,,Uffbasse Südpfalz,https://t.me/Uffbasse_Suedpfalz
+2950,DE,2021-05-08,14:30:00,30169,Hannover,Schützenplatz,Autokorso,,Autocorso Hannover,Telegram
 2925,DE,2021-05-08,15:00:00,51065,Köln,Wiener Platz,Demonstration,,Koeln ist aktiv,https://koelnistaktiv.de
 2430,DE,2021-05-08,15:00:00,95183,Hof,Kugelbrunnen,Kundgebung,,Hof Steht Auf,
 2444,DE,2021-05-08,15:00:00,95032,Hof,Kugelbrunnen,Kundgebung,,Hof steht auf,
+2955,DE,2021-05-08,17:00:00,80333,München,Königsplatz,Kundgebung,,Eltern stehen auf e.V. Mutigmacher. Demokratischer Widerstand u.a.,www.agedexperts.de
 2920,DE,2021-05-09,10:45:00,75015,Bretten,Marktplatz,Meditation,,unbekannt,
 2804,DE,2021-05-09,11:30:00,39114,Magdeburg,Tessenowstr. / Parkplatz,Autokorso,,Magdeburger Autokorso,https://t.me/Korso_MD_Doku
 2801,DE,2021-05-09,13:00:00,84028,Landshut,Ringelstecherwiese,Kundgebung,,Bayern steht zusammen e.V.,https://www.bayern-steht-zusammen.de/TERMINE/
+2948,DE,2021-05-09,14:00:00,84489,Burghausen,Messeplatz,Kundgebung,,Florian Feuerer s Initiative Schutz für Kinder,
 2547,AT,2021-05-09,14:00:00,6900,Bludenz,Riedmillerplatz,Kundgebung,,unbekannt,https://corona-demo.at/
 2647,CH,2021-05-09,14:00:00,9450,Altstätten / SG,Reformierte Kirche,Spaziergang,,unknown,
 2869,DE,2021-05-09,15:00:00,73230,Kirchheim unter Teck,Ziegelwasen,Kundgebung,,Querdenken 702,
@@ -55,10 +67,12 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2641,LI,2021-05-09,18:00:00,9490,Vaduz,Peter-Kaiser-Platz,Spaziergang,,unknown,
 2580,CH,2021-05-10,18:00:00,8636,Wald / ZH,Hallenbad / Windegg,Spaziergang,,unknown,
 2574,CH,2021-05-10,18:00:00,6362,Stansstad,Hafen,Spaziergang,,unknown,
+2947,DE,2021-05-10,18:00:00,14467,Potsdam,Platz zwischen Filmmuseum und,Mahnwache,,Fraktion Frieden. NW2021. Demokratischer Widerstand,
 2283,DE,2021-05-10,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 2923,DE,2021-05-10,18:00:00,32805,Horn-Bad Meinberg,Externsteine,Spaziergang,,unbekannt,
 2911,DE,2021-05-10,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,Privat,https://t.me/LichterspaziergangGT
 2674,DE,2021-05-10,18:00:00,06844,Dessau-Roßlau,Rathaus / Friedensglocke,Spaziergang,,Privat,https://t.me/MontagsMahnwache
+2960,DE,2021-05-10,18:30:00,74336,Brackenheim,Rathaus,Lichterkette,,unbekannt,
 2898,DE,2021-05-10,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,unbekannt,
 2889,DE,2021-05-10,19:00:00,06682,Teuchern,RTS Platz Mühlstraße,Spaziergang,,unbekannt,
 2893,DE,2021-05-10,19:00:00,06618,Naumburg,Marktplatz,Kundgebung,,Aus Distanz wird Verbundenheit,
@@ -69,6 +83,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2738,DE,2021-05-12,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
 2941,DE,2021-05-12,18:00:00,09669,Frankenberg,Markt,Kundgebung,,unbeaknnt,
 2593,CH,2021-05-12,18:30:00,9470,Buchs / SG,Lokremise,Spaziergang,,unknown,
+2956,DE,2021-05-13,13:00:00,82481,Mittenwald,Festplatz / Rathaus,Kundgebung,,Freiheitsboten Oberland,https://www.freiheitsboten-oberland.de
 2453,DE,2021-05-13,15:00:00,84503,Altötting,Volksfestplatz,Versammlung,,Bayern steht zusammen e.V.,https://www.bayern-steht-zusammen.de/TERMINE/
 2837,DE,2021-05-13,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 2742,DE,2021-05-13,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
