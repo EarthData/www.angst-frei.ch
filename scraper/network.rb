@@ -67,7 +67,7 @@ files.each do |filename|
 
   if graph_tags
     meta_data['tags'].each do |tag|
-      next if tag.match(/^(wochenblick|corona transition|reitschuster|rt|tkp|epoch times)$/)
+      next if tag.match(/^(corona transition|rt|tkp)$/)
       if network_nodes[tag]
         #puts "#{tag} already exists"
         network_nodes[tag]['value'] += 1
