@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Riesen-Durcheinander bei Corona-Zahlen'
 country:       DE
 categories:    [Zahlen, Spital]
-tags:          [reitschuster, beatmung]
+tags:          [beatmung]
 ---

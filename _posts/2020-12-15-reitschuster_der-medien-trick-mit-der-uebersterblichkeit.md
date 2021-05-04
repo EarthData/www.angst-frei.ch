@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Der Medien-Trick mit der Übersterblichkeit'
 country:       DE
 categories:    [MSM]
-tags:          [reitschuster, sterblichkeit, manipulation]
+tags:          [sterblichkeit, manipulation]
 ---

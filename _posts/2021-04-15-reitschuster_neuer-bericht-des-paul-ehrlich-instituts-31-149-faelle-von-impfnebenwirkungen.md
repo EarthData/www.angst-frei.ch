@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Neuer Bericht des Paul-Ehrlich-Instituts: 31.149 Fälle von Impfnebenwirkungen'
 country:       DE
 categories:    [Impfung]
-tags:          [reitschuster, impf-nebenwirkungen, mit oder an impfung gestorben, pei]
+tags:          [impf-nebenwirkungen, mit oder an impfung gestorben, pei]
 ---

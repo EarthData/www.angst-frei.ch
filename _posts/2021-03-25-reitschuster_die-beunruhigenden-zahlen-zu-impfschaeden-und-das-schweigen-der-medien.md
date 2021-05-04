@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Die beunruhigenden Zahlen zu Impfschäden und das Schweigen der Medien'
 country:       DE
 categories:    [Impfung, Zahlen, MSM]
-tags:          [reitschuster, impf-nebenwirkungen, pei]
+tags:          [impf-nebenwirkungen, pei]
 ---

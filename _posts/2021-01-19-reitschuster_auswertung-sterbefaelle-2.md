@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Übersterblichkeit? "Sehr weit weg von allen Katastrophenszenarien"'
 country:       DE
 categories:    [Zahlen]
-tags:          [reitschuster, sterblichkeit, manipulation]
+tags:          [sterblichkeit, manipulation]
 ---

@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Uni-"Studie" bestätigt Masken-Wirksamkeit'
 country:       DE
 categories:    [Studie]
-tags:          [reitschuster, maske]
+tags:          [maske]
 ---

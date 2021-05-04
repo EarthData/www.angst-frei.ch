@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Wie bei Eltern Corona-Angst geschürt wird'
 country:       DE
 categories:    [Zahlen]
-tags:          [reitschuster, kind, angst, manipulation]
+tags:          [kind, angst, manipulation]
 ---

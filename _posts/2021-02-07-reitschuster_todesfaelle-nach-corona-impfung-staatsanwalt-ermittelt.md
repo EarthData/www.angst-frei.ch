@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Todesfälle nach Corona-Impfung: Staatsanwalt ermittelt'
 country:       DE
 categories:    [Impfung]
-tags:          [reitschuster, mit oder an impfung gestorben]
+tags:          [mit oder an impfung gestorben]
 ---

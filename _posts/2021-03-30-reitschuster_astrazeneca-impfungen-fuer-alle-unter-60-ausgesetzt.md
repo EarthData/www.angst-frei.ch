@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Astrazeneca-Impfungen für alle unter 60 ausgesetzt'
 country:       DE
 categories:    [Impfung]
-tags:          [reitschuster, impf-stopp, astrazeneca]
+tags:          [impf-stopp, astrazeneca]
 ---

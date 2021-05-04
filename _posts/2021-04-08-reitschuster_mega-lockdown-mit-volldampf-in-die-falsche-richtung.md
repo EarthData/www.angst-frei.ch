@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Mega-Lockdown - mit Volldampf in die falsche Richtung'
 country:       DE
 categories:    [Politik]
-tags:          [reitschuster, lockdown]
+tags:          [lockdown]
 ---

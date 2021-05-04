@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Spahns Corona-Wortbruch'
 country:       DE
 categories:    [Politik, Zahlen]
-tags:          [reitschuster, lockdown2]
+tags:          [lockdown2]
 ---

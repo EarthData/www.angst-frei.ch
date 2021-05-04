@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Brisant – Ex-Chef der US-Gesundheitsbehörde: Virus kommt aus Labor'
 country:       DE
 categories:    [Behörde]
-tags:          [reitschuster, virus-ursprung]
+tags:          [virus-ursprung]
 ---

@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Ärzte und Apotheker protestieren gegen Impf-Politik'
 country:       DE
 categories:    [Medizin, Impfung, Widerstand]
-tags:          [reitschuster]
+tags:          []
 ---

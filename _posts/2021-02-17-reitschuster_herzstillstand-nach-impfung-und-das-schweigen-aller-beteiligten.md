@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Herzstillstand nach Impfung – und das Schweigen aller Beteiligten'
 country:       DE
 categories:    [Impfung]
-tags:          [reitschuster, mit oder an impfung gestorben, biontech, manipulation]
+tags:          [mit oder an impfung gestorben, biontech, manipulation]
 ---

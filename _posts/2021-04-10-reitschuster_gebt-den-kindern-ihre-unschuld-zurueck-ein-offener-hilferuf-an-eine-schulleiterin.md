@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      '"Gebt den Kindern ihre Unschuld zurück" – ein offener Hilferuf an eine Schulleiterin'
 country:       DE
 categories:    [Schulen, Widerstand, Mensch]
-tags:          [reitschuster, kind]
+tags:          [kind]
 ---

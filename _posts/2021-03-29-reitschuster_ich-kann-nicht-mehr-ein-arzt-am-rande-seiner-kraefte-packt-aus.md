@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      '"Ich kann nicht mehr" – Ein Arzt am Rande seiner Kräfte packt aus'
 country:       DE
 categories:    [Medizin, Impfung]
-tags:          [reitschuster, massentest]
+tags:          [massentest]
 ---

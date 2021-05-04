@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Nach Entscheidung gegen Masken in Schulen: Durchsuchungsaktion bei Weimarer Richter'
 country:       DE
 categories:    [Recht, Schulen]
-tags:          [reitschuster, willkür, polizei, weimar]
+tags:          [willkür, polizei, weimar]
 ---

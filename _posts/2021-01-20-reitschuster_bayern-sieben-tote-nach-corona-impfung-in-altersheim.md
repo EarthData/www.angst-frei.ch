@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Bayern: Sieben Tote nach Corona-Impfung in Altersheim'
 country:       DE
 categories:    [Impfung]
-tags:          [reitschuster, biontech, mit oder an impfung gestorben]
+tags:          [biontech, mit oder an impfung gestorben]
 ---

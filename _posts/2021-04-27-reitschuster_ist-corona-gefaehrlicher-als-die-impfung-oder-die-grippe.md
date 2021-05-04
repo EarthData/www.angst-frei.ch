@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Ist Corona gefährlicher als die Impfung oder die Grippe?'
 country:       DE
 categories:    [Impfung, Zahlen]
-tags:          [reitschuster, sterblichkeit, immunität]
+tags:          [sterblichkeit, immunität]
 ---

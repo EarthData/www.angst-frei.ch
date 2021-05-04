@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Geringere Todesrate durch höhere Immunisierung in Schweden?'
 country:       DE
 categories:    [Zahlen]
-tags:          [reitschuster, schweden, immunität, sterblichkeit]
+tags:          [schweden, immunität, sterblichkeit]
 ---

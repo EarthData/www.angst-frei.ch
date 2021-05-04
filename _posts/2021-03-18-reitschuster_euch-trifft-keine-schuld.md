@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      '"Euch trifft keine Schuld"'
 country:       DE
 categories:    [Mensch]
-tags:          [reitschuster, kollateralschäden]
+tags:          [kollateralschäden]
 ---

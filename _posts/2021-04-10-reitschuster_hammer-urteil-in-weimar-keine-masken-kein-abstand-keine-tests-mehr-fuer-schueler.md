@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Hammer-Urteil in Weimar: Keine Masken, kein Abstand, keine Tests mehr für Schüler'
 country:       DE
 categories:    [Recht, Schulen]
-tags:          [reitschuster, kind, maske, weimar]
+tags:          [kind, maske, weimar]
 ---

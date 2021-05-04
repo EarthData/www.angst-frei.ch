@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Wir testen uns zu Tode, wir fürchten uns zu Tode'
 country:       DE
 categories:    [Zahlen]
-tags:          [reitschuster, angst, manipulation]
+tags:          [angst, manipulation]
 ---

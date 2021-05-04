@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      '„Die Isolation ist das Schlimmste“'
 country:       DE
 categories:    [Mensch]
-tags:          [reitschuster, kind, kollateralschäden]
+tags:          [kind, kollateralschäden]
 ---

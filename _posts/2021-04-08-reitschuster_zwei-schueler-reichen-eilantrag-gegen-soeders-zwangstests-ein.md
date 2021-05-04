@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Zwei Schüler reichen Eilantrag gegen Söders Zwangstests ein'
 country:       DE
 categories:    [Recht, Widerstand]
-tags:          [reitschuster, kind, massentest]
+tags:          [kind, massentest]
 ---

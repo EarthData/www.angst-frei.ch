@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Nach Schauspieler-Aktion: Morddrohungen und Bedrohungen gegen Kinder'
 country:       DE
 categories:    [Widerstand]
-tags:          [reitschuster, kultur, allesdichtmachen, kind]
+tags:          [kultur, allesdichtmachen, kind]
 ---

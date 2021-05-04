@@ -2,8 +2,8 @@
 date:          2021-02-17
 redirect:      https://reitschuster.de/post/kinderkram/
 title:         reitschuster
-subtitle:      "Kinderkram"
+subtitle:      'Kinderkram'
 country:       DE
 categories:    [Mensch]
-tags:          [reitschuster, kind, kollateralschäden]
+tags:          [kind, kollateralschäden]
 ---

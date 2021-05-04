@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Maskenpflicht beruht auf "Glauben"'
 country:       DE
 categories:    [Wissenschaft]
-tags:          [reitschuster, maske]
+tags:          [maske]
 ---

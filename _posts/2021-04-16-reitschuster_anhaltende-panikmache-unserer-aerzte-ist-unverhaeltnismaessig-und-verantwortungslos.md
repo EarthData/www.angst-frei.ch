@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      '"Anhaltende Panikmache unserer Ärzte ist unverhältnismäßig und verantwortungslos"'
 country:       DE
 categories:    [Medizin, Spital]
-tags:          [reitschuster, angst, manipulation]
+tags:          [angst, manipulation]
 ---

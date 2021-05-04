@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Corona-Impfungen: Bloß keine Nebenwirkungen erfassen?'
 country:       DE
 categories:    [Impfung]
-tags:          [reitschuster, impf-nebenwirkungen]
+tags:          [impf-nebenwirkungen]
 ---

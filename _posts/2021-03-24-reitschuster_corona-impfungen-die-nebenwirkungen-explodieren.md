@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Corona-Impfungen: Die Nebenwirkungen explodieren'
 country:       DE
 categories:    [Impfung]
-tags:          [reitschuster, impf-nebenwirkungen, mit oder an impfung gestorben, pei]
+tags:          [impf-nebenwirkungen, mit oder an impfung gestorben, pei]
 ---

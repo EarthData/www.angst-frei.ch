@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Ex-Verfassungsgerichtspräsident zerlegt Merkel'
 country:       DE
 categories:    [Politik, Recht]
-tags:          [reitschuster, grundrechte]
+tags:          [grundrechte]
 ---

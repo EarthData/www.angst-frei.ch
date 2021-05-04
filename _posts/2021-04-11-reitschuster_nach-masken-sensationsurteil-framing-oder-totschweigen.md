@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Nach Masken-Sensationsurteil: Framing oder Totschweigen'
 country:       DE
 categories:    [Recht, MSM]
-tags:          [reitschuster, weimar, manipulation]
+tags:          [weimar, manipulation]
 ---

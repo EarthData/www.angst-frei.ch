@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Lockdown: Anzeichen, dass die Stimmung kippt?'
 country:       DE
 categories:    [MSM, Widerstand, Politik]
-tags:          [reitschuster, lockdown]
+tags:          [lockdown]
 ---

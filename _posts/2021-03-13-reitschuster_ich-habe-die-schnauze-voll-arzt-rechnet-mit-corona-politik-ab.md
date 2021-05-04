@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      '"Ich habe die Schnauze voll" – Arzt rechnet mit Corona-Politik ab'
 country:       DE
 categories:    [Medizin, Widerstand]
-tags:          [reitschuster]
+tags:          []
 ---

@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Kollateralschäden der Corona-Impfungen: verstörende Erfahrungsberichte'
 country:       DE
 categories:    [Impfung]
-tags:          [reitschuster, impf-nebenwirkungen]
+tags:          [impf-nebenwirkungen]
 ---

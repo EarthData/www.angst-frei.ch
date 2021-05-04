@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Feiern statt Lockdown und geringe Fallzahlen: Der Texanische Weg'
 country:       DE
 categories:    [P(l)andemie, Zahlen]
-tags:          [reitschuster, lockdown, usa]
+tags:          [lockdown, usa]
 ---

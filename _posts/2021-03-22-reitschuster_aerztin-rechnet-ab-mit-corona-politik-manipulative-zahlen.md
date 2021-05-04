@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Ärztin rechnet ab mit Corona-Politik: "Manipulative Zahlen"'
 country:       DE
 categories:    [Medizin, Zahlen]
-tags:          [reitschuster, manipulation]
+tags:          [manipulation]
 ---

@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Selbsttests für Schüler: "juristisch heikel und psychologisch katastrophal"'
 country:       DE
 categories:    [Recht, Schulen]
-tags:          [reitschuster, kind, selbsttest]
+tags:          [kind, selbsttest]
 ---

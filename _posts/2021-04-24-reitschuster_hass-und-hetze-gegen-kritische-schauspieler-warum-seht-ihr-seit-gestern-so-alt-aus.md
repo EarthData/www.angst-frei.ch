@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Hass und Hetze gegen kritische Schauspieler: Warum seht ihr seit gestern so alt aus?'
 country:       DE
 categories:    [Widerstand]
-tags:          [reitschuster, kultur, allesdichtmachen]
+tags:          [kultur, allesdichtmachen]
 ---

@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Für Nicht-Geimpfte bald keine Teilnahme am öffentlichen Leben mehr?'
 country:       DE
 categories:    [Impfung]
-tags:          [reitschuster, impfzwang, grundrechte]
+tags:          [impfzwang, grundrechte]
 ---

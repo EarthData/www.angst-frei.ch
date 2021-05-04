@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Lage auf Intensivstationen: "Die Klagen der Spitzenmediziner sind getrost zu ignorieren"'
 country:       DE
 categories:    [Spital, Zahlen]
-tags:          [reitschuster, manipulation]
+tags:          [manipulation]
 ---

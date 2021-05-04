@@ -6,5 +6,5 @@ subtitle:      'Top-Virologe warnt vor Massensterben durch Corona-Impfungen'
 country:       DE
 persons:       [Vanden Bossche Geert]
 categories:    [Impfung]
-tags:          [reitschuster, who, virus-mutation, impf-stopp]
+tags:          [who, virus-mutation, impf-stopp]
 ---

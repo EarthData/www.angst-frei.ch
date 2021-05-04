@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Die Pandemie an Universitäten: „Ich kann meinen Mund nicht mehr halten, ohne daran zu erkranken“'
 country:       DE
 categories:    [Widerstand]
-tags:          [reitschuster, jugend]
+tags:          [jugend]
 ---

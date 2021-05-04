@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Das hat politische Sprengkraft: Geimpfte positiv auf Corona getestet'
 country:       DE
 categories:    [Medizin, Impfung]
-tags:          [reitschuster, immunität, virus-mutation]
+tags:          [immunität, virus-mutation]
 ---

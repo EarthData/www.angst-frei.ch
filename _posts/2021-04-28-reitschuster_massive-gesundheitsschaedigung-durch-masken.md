@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Massive Gesundheitsschädigung durch Masken'
 country:       DE
 categories:    [Gesundheit, Studie]
-tags:          [reitschuster, maske]
+tags:          [maske]
 ---

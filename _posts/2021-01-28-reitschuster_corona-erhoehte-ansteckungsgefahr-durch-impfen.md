@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Corona: Erhöhte Ansteckungsgefahr durch Impfen?'
 country:       DE
 categories:    [Impfung, Medizin]
-tags:          [reitschuster, rki, infektion]
+tags:          [rki, infektion]
 ---

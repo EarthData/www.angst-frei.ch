@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Nur sechs Wissenschaftler berieten Regierung zum Lockdown'
 country:       DE
 categories:    [Politik]
-tags:          [reitschuster, lockdown, manipulation]
+tags:          [lockdown, manipulation]
 ---

@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Leopoldina: Gutachter begutachten ihre eigenen „Gutachten“'
 country:       DE
 categories:    [Wissenschaft]
-tags:          [reitschuster, leopoldina, manipulation]
+tags:          [leopoldina, manipulation]
 ---

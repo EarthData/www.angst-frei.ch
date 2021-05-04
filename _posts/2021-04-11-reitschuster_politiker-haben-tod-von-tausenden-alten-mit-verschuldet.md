@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      '"Politiker haben den Tod von Tausenden Alten mit verschuldet"'
 country:       DE
 categories:    [Medizin, Politik, Widerstand]
-tags:          [reitschuster, sterblichkeit]
+tags:          [sterblichkeit]
 ---

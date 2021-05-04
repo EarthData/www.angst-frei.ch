@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Richter klagt gegen Corona-Verordnungen'
 country:       DE
 categories:    [Recht, Widerstand]
-tags:          [reitschuster, massnahmen]
+tags:          [massnahmen]
 ---

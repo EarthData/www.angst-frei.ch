@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      '"Hört endlich auf, mich zu retten! Ich habe das nicht gewollt!"'
 country:       DE
 categories:    [Mensch, Widerstand]
-tags:          [reitschuster, kollateralschäden]
+tags:          [kollateralschäden]
 ---

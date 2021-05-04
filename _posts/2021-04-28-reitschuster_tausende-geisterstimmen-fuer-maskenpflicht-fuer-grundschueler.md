@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Tausende "Geisterstimmen" für Maskenpflicht für Grundschüler'
 country:       DE
 categories:    [MSM, Schulen, Umfrage]
-tags:          [reitschuster, maske, kind, manipulation]
+tags:          [maske, kind, manipulation]
 ---

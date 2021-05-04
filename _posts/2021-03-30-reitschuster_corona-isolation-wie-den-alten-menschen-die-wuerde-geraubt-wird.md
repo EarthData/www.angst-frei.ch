@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Corona-Isolation: Wie den alten Menschen die Würde geraubt wird'
 country:       DE
 categories:    [Mensch]
-tags:          [reitschuster, kollateralschäden]
+tags:          [kollateralschäden]
 ---

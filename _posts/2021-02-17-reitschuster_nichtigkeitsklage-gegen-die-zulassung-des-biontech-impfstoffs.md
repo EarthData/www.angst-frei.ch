@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Nichtigkeitsklage gegen die Zulassung des BioNTech-Impfstoffs'
 country:       DE
 categories:    [Recht, Impfung]
-tags:          [reitschuster, biontech]
+tags:          [biontech]
 ---

@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Corona-Impfungen: Nebenwirkungen steigen um 61%'
 country:       DE
 categories:    [Impfung, Zahlen]
-tags:          [reitschuster, mit oder an impfung gestorben, impf-nebenwirkungen]
+tags:          [mit oder an impfung gestorben, impf-nebenwirkungen]
 ---

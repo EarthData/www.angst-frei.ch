@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Weltweite Menschenrechtslage durch Corona massiv verschlechtert'
 country:       DE
 categories:    [Recht, Mensch]
-tags:          [reitschuster, menschenrechte]
+tags:          [menschenrechte]
 ---

@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Ein Viertel der Geimpften arbeitsunfähig: Wie gefährlich ist AstraZeneca?'
 country:       DE
 categories:    [Impfung]
-tags:          [reitschuster, impf-nebenwirkungen, astrazeneca]
+tags:          [impf-nebenwirkungen, astrazeneca]
 ---

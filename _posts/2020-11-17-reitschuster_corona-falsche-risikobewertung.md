@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Corona: "Falsche Risikobewertung"'
 country:       DE
 categories:    [Zahlen]
-tags:          [reitschuster, sterblichkeit, manipulation]
+tags:          [sterblichkeit, manipulation]
 ---

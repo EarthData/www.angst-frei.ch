@@ -6,5 +6,5 @@ subtitle:      '„Wir werden hier den Kindern mehr schaden, als es sich einige 
 country:       DE
 persons:       [Pürner Friedrich]
 categories:    [Medizin, Widerstand]
-tags:          [reitschuster, kind]
+tags:          [kind]
 ---

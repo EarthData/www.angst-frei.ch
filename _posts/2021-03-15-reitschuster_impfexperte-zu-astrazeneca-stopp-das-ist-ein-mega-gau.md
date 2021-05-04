@@ -6,5 +6,5 @@ subtitle:      'Impfexperte zu AstraZeneca-Stopp: "Das ist ein Mega-GAU"'
 country:       DE
 persons:       [Hockertz Stefan]
 categories:    [Impfung]
-tags:          [reitschuster, impf-nebenwirkungen, astrazeneca, impf-stopp]
+tags:          [impf-nebenwirkungen, astrazeneca, impf-stopp]
 ---

@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Flammender Appell von Chef-Kinderarzt gegen Schulschließungen'
 country:       DE
 categories:    [Medizin, Widerstand, Schulen]
-tags:          [reitschuster, kind]
+tags:          [kind]
 ---

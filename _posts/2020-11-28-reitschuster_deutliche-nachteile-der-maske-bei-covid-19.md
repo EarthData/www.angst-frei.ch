@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      '"Deutliche Nachteile der Maske" bei Covid-19'
 country:       DE
 categories:    [Medizin]
-tags:          [reitschuster, maske]
+tags:          [maske]
 ---

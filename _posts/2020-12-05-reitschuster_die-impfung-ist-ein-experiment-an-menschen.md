@@ -6,5 +6,5 @@ subtitle:      '"Diese Impfung ist ein Experiment an Menschen"'
 country:       DE
 persons:       [Hockertz Stefan]
 categories:    [Impfung, Medizin]
-tags:          [reitschuster]
+tags:          []
 ---

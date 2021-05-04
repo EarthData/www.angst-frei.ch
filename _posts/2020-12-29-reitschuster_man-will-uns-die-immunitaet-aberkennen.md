@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      '"Man will uns die Immunität aberkennen!"'
 country:       DE
 categories:    [Impfung]
-tags:          [reitschuster, who, immunität]
+tags:          [who, immunität]
 ---

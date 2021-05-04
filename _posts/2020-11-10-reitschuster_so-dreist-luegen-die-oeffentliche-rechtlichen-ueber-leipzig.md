@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'So dreist lügen ARD & ZDF über Leipzig'
 country:       DE
 categories:    [MSM]
-tags:          [reitschuster, massnahmen, manipulation]
+tags:          [massnahmen, manipulation]
 ---

@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Weil sie Herz zeigte auf Demo: Hass und Hetze gegen Polizistin'
 country:       DE
 categories:    [MSM]
-tags:          [reitschuster, polizei, willkür, manipulation]
+tags:          [polizei, willkür, manipulation]
 ---

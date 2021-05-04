@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Arzt alarmiert: Diese Impfkampagne kann uns in den Abgrund führen!'
 country:       DE
 categories:    [Medizin, Impfung]
-tags:          [reitschuster, virus-mutation, impf-stopp]
+tags:          [virus-mutation, impf-stopp]
 ---

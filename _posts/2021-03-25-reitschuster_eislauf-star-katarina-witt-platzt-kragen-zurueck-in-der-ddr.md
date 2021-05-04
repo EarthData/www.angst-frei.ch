@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Eislauf-Star Katarina Witt platzt der Kragen: "Zurück in der DDR"'
 country:       DE
 categories:    [Widerstand]
-tags:          [reitschuster]
+tags:          []
 ---

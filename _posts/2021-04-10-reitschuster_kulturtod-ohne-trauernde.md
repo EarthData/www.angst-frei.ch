@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Kulturtod ohne Trauernde'
 country:       DE
 categories:    [Widerstand]
-tags:          [reitschuster, kultur]
+tags:          [kultur]
 ---

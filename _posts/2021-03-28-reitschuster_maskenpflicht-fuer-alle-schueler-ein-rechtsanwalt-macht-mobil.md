@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Maskenpflicht für alle Schüler: Ein Rechtsanwalt macht mobil'
 country:       DE
 categories:    [Widerstand, Recht]
-tags:          [reitschuster, maske, kind]
+tags:          [maske, kind]
 ---

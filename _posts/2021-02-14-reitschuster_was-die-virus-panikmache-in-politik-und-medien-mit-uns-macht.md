@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Was die Virus-Panikmache in Politik und Medien mit uns macht'
 country:       DE
 categories:    [Mensch, MSM, Politik]
-tags:          [reitschuster, angst, massnahmen]
+tags:          [angst, massnahmen]
 ---

@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Das RKI, seine Abteilungsleiter und Geschäfte mit PCR-Tests'
 country:       DE
 categories:    [Politik, Wirtschaft]
-tags:          [reitschuster, rki, pcr-test, manipulation]
+tags:          [rki, pcr-test, manipulation]
 ---

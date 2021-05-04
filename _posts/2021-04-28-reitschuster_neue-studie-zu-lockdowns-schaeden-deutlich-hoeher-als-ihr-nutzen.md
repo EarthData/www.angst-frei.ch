@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Neue Studie zu Lockdowns: Schäden deutlich höher als ihr Nutzen'
 country:       DE
 categories:    [Studie]
-tags:          [reitschuster, lockdown]
+tags:          [lockdown]
 ---

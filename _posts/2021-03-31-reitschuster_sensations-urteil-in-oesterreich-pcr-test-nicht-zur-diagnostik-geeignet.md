@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Sensationsurteil in Österreich: PCR-Test nicht als Infektionsnachweis geeignet'
 country:       DE
 categories:    [Recht]
-tags:          [reitschuster, pcr-test]
+tags:          [pcr-test]
 ---

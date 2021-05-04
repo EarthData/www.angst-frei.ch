@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Zweifel an Corona-Tests: Regierung verweigert Antwort'
 country:       DE
 categories:    [Politik]
-tags:          [reitschuster, pcr-test, manipulation]
+tags:          [pcr-test, manipulation]
 ---

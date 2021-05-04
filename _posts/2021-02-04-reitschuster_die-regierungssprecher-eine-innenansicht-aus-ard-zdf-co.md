@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Die Regierungssprecher – Innenansichten aus ARD,  ZDF & Co.'
 country:       DE
 categories:    [MSM]
-tags:          [reitschuster, zensur, ard, zdf, manipulation]
+tags:          [zensur, ard, zdf, manipulation]
 ---

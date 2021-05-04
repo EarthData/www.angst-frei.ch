@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Mutanten – ein Multi-Milliarden-Markt'
 country:       DE
 categories:    [Wirtschaft]
-tags:          [reitschuster, geld, virus-mutation]
+tags:          [geld, virus-mutation]
 ---

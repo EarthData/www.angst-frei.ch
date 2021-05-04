@@ -6,5 +6,5 @@ subtitle:      'Sind Masken für Kinder gefährlich? Ein Immunologe rechnet ab'
 country:       DE
 persons:       [Hockertz Stefan]
 categories:    [Medizin, Widerstand]
-tags:          [reitschuster, maske, kind]
+tags:          [maske, kind]
 ---

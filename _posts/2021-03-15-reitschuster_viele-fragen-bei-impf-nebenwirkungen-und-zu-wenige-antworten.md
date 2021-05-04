@@ -6,5 +6,5 @@ subtitle:      'Viele Fragen bei Impf-Nebenwirkungen – und zu wenige Antworte
 country:       DE
 persons:       [Wodarg Wolfgang]
 categories:    [Medizin, Impfung]
-tags:          [reitschuster, impf-nebenwirkungen, blutgerinnungsstörungen]
+tags:          [impf-nebenwirkungen, blutgerinnungsstörungen]
 ---

@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Richter ruft Bürger zum Widerstand gegen Corona-Strafen auf'
 country:       DE
 categories:    [Widerstand, Recht]
-tags:          [reitschuster]
+tags:          []
 ---

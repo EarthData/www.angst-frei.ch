@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'TV-Impf-Aktion: "Entwürdigend und zutiefst inhuman"'
 country:       DE
 categories:    [Impfung, Mensch, MSM]
-tags:          [reitschuster]
+tags:          []
 ---

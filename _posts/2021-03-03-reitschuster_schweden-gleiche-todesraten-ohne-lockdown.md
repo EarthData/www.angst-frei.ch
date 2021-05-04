@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Schweden: Gleiche Todesraten ohne Lockdown'
 country:       DE
 categories:    [Zahlen]
-tags:          [reitschuster, schweden, sterblichkeit]
+tags:          [schweden, sterblichkeit]
 ---

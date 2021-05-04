@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Wie Staatsanwaltschaften die Obduktionen von Impfschäden hintertreiben'
 country:       DE
 categories:    [Impfung, Recht]
-tags:          [reitschuster, impf-nebenwirkungen, mit oder an impfung gestorben, rki]
+tags:          [impf-nebenwirkungen, mit oder an impfung gestorben, rki]
 ---

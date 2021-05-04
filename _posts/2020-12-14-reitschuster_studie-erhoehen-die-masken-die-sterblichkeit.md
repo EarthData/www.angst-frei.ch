@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Studie: Erhöhen Masken die Sterblichkeit?'
 country:       DE
 categories:    [Studie]
-tags:          [reitschuster, maske, sterblichkeit]
+tags:          [maske, sterblichkeit]
 ---

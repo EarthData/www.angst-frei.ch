@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Youtube lässt Corona-Kritik aus Suchergebnissen verschwinden'
 country:       DE
 categories:    [Widerstand]
-tags:          [reitschuster, kultur, zensur, youtube, allesdichtmachen, manipulation]
+tags:          [kultur, zensur, youtube, allesdichtmachen, manipulation]
 ---

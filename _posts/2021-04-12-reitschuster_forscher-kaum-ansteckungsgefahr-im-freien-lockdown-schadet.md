@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Forscher: Kaum Ansteckungsgefahr im Freien, Lockdown schadet'
 country:       DE
 categories:    [Wissenschaft, Widerstand]
-tags:          [reitschuster, maske]
+tags:          [maske]
 ---

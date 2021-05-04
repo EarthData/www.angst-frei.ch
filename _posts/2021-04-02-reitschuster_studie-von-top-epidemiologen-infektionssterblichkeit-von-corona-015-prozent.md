@@ -6,5 +6,5 @@ subtitle:      'Studie von Top-Epidemiologen: Infektionssterblichkeit von Corona
 country:       DE
 persons:       [Ioannidis John P.]
 categories:    [Studie]
-tags:          [reitschuster, sterblichkeit]
+tags:          [sterblichkeit]
 ---

@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Klinik-Studie: 2020 weniger Beatmete als 2019'
 country:       DE
 categories:    [Studie, Zahlen]
-tags:          [reitschuster, beatmung]
+tags:          [beatmung]
 ---

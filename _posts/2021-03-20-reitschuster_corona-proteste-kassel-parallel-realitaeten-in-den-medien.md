@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Corona-Proteste Kassel: Parallel-Realitäten in den Medien'
 country:       DE
 categories:    [MSM]
-tags:          [reitschuster, polizei, manipulation]
+tags:          [polizei, manipulation]
 ---

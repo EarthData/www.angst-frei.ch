@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      '"Kindeswohlgefährdung" durch Corona-Politik?'
 country:       DE
 categories:    [Mensch]
-tags:          [reitschuster, kind, kollateralschäden]
+tags:          [kind, kollateralschäden]
 ---
