@@ -5,5 +5,5 @@ title:         Berliner Zeitung
 subtitle:      'Covid 19: Forscher warnt vor Impfung mit Erbsubstanz'
 country:       DE
 categories:    [MSM, Impfung, Wissenschaft]
-tags:          []
+tags:          [impfplan]
 ---

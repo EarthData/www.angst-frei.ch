@@ -5,5 +5,5 @@ title:         multipolar
 subtitle:      'Schwarze Wahrheiten'
 country:       DE
 categories:    [Widerstand]
-tags:          []
+tags:          [maske]
 ---

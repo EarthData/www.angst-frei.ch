@@ -4,6 +4,6 @@ redirect:      https://2020news.de/pcr-teststaebchen-partikel-wirken-wie-asbest-
 title:         2020 News
 subtitle:      'PCR-Teststäbchen-Partikel können wie Asbest im Körper wirken'
 country:       DE
-categories:    [Wissenschaft]
+categories:    [Wissenschaft, Gesundheit]
 tags:          [pcr-test]
 ---

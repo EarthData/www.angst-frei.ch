@@ -5,5 +5,5 @@ title:         Naturstoff Medizin
 subtitle:      "Offener Brief von Ärzten und Gesundheitsfachleuten an alle belgischen Behörden und Medien"
 country:       DE
 categories:    [Medizin, Widerstand]
-tags:          [belgien]
+tags:          [belgien, zensur, kollateralschäden, massnahmen]
 ---

@@ -88,7 +88,6 @@ sitename:
   zueriost: züriost
 tag:
   1bis19: 1bis19
-  2020news: 2020news
   aargau-zuerich: aargau-zuerich
   achgut: achgut
   admin: bundesrat
@@ -119,10 +118,8 @@ tag:
   nytimes: nytimes
   t-online: t-online
   tichyseinblick: tichyseinblick
-  tkp: tkp
   vera-lengsfeld: vera-lengsfeld
   harald-walach: walach
-  welt: welt
   zeitpunkt: zeitpunkt
 subtitle:
   2020news: last-

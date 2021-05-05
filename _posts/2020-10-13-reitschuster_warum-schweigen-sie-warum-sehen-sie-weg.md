@@ -5,5 +5,5 @@ title:         reitschuster
 subtitle:      'Warum schweigen Sie? Warum sehen Sie weg?'
 country:       DE
 categories:    [MSM]
-tags:          [polizei]
+tags:          [polizei, manipulation, zensur]
 ---

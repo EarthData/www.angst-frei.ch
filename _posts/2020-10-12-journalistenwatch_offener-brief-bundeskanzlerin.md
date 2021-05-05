@@ -4,6 +4,6 @@ redirect:      https://www.journalistenwatch.com/2020/10/12/offener-brief-bundes
 title:         Jouwatch
 subtitle:      'Offener Brief an die Bundeskanzlerin: Immer mehr Ärzte haben genug vom Irrsinn der Corona-Politik'
 country:       DE
-categories:    [Medizin, Wissenschaft, Widerstand]
-tags:          []
+categories:    [Medizin, Widerstand]
+tags:          [sterblichkeit, massnahmen, angst]
 ---

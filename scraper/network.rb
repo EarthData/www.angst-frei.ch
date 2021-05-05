@@ -9,7 +9,7 @@ counter = 1
 
 files = Dir.glob("../_posts/*.md")
 
-graph_categories = false
+graph_categories = true
 graph_tags = true
 
 network_nodes = Hash.new
@@ -20,20 +20,23 @@ edges_count = 1
 
 files.each do |filename|
 
-  puts "File: #{filename} (#{counter})"
-  counter += 1
-
   break if counter > 1545
 
   meta_data = YAML.load_file(filename)
 
   next if meta_data['published'] = false
 
+  year = meta_data['date'].strftime("%Y").to_i
+  month = meta_data['date'].strftime("%m").to_i
+
+  next if year > 2020 #or month > 10 
+
+  puts "File: #{filename} (#{counter})"
+  counter += 1
+
   file_name = filename.split('/').last
   file_name = File.basename(file_name,File.extname(file_name))
 
-  file_date = file_name.match /([0-9]{4}\-[0-9]{2}\-[0-9]{2})/
-  #file_name = file_name.match /[0-9]{4}\-[0-9]{2}\-[0-9]{2}\-(.*)$/
   if network_nodes[file_name]
     puts "#{file_name} already exists"
   else
@@ -41,6 +44,7 @@ files.each do |filename|
     network_nodes[file_name]['id'] = node_count
     network_nodes[file_name]['value'] = 1
     network_nodes[file_name]['title'] = meta_data['subtitle']
+    #network_nodes[file_name]['title'] = "<a href=\"#{meta_data['redirect']}\">#{meta_data['subtitle']}</a>"
     network_nodes[file_name]['group'] = meta_data['title']
     article_id = node_count
     node_count += 1
@@ -48,18 +52,19 @@ files.each do |filename|
   
   if graph_categories
     meta_data['categories'].each do |category|
+      next if category.match(/^(MSM)$/)
       if network_nodes[category]
         #puts "#{category} already exists"
         network_nodes[category]['value'] += 1
-        network_edges <<  { "source" => article_id, "target" => network_nodes[category]['id'], "value" => 3 }
+        network_edges <<  { "source" => network_nodes[category]['id'], "target" => article_id, "value" => 5 }
         edges_count += 1
       else
         network_nodes[category] = Hash.new
         network_nodes[category]['id'] = node_count
         network_nodes[category]['title'] = category
         network_nodes[category]['value'] = 1
-        network_nodes[category]['group'] = "Kategorien" 
-        network_edges <<  { "source" => article_id, "target" => node_count, "value" => 3 }
+        network_nodes[category]['group'] = category
+        network_edges <<  { "source" => node_count, "target" => article_id, "value" => 5 }
         node_count += 1
       end
     end
@@ -67,7 +72,7 @@ files.each do |filename|
 
   if graph_tags
     meta_data['tags'].each do |tag|
-      next if tag.match(/^(corona transition|rt|tkp)$/)
+      next if tag.match(/^(paywall)$/)
       if network_nodes[tag]
         #puts "#{tag} already exists"
         network_nodes[tag]['value'] += 1

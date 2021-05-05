@@ -4,6 +4,6 @@ redirect:      https://www.rubikon.news/artikel/widerstand-im-dritten-weltkrieg
 title:         Rubikon
 subtitle:      'Widerstand im Dritten Weltkrieg'
 country:       DE
-categories:    [Widerstand]
-tags:          []
+categories:    [Widerstand, Recht]
+tags:          [grundrechte]
 ---
