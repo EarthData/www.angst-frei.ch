@@ -5,5 +5,5 @@ title:         Berliner Zeitung
 subtitle:      'Masken-Leid: Hautärzte registrieren vermehrt Entzündungen im Gesicht'
 country:       DE
 categories:    [MSM, Medizin]
-tags:          [berliner zeitung, maske]
+tags:          [maske]
 ---

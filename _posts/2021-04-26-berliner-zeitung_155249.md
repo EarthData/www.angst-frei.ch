@@ -6,5 +6,5 @@ subtitle:      'Allesdichtmachen: Virologe Streeck versteht Liefers und andere S
 country:       DE
 persons:       [Streeck Hendrik]
 categories:    [Widerstand]
-tags:          [berliner zeitung, allesdichtmachen]
+tags:          [allesdichtmachen]
 ---

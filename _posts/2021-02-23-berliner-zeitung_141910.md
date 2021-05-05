@@ -5,5 +5,5 @@ title:         Berliner Zeitung
 subtitle:      'Berliner Polizisten haben Angst vor Astrazeneca-Impfung'
 country:       DE
 categories:    [Widerstand, MSM, Impfung]
-tags:          [berliner zeitung, polizei, astrazeneca]
+tags:          [polizei, astrazeneca]
 ---

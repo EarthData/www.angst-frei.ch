@@ -6,5 +6,5 @@ subtitle:      'Kritischer Gesundheitsamt-Chef versetzt: Über 130 Ärzte protes
 country:       DE
 persons:       [Pürner Friedrich]
 categories:    [MSM, Widerstand, Medizin]
-tags:          [berliner zeitung, willkür]
+tags:          [willkür]
 ---

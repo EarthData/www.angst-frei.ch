@@ -5,5 +5,5 @@ title:         Berliner Zeitung
 subtitle:      'Amtsgericht Weimar: Kontaktverbot ist verfassungswidrig'
 country:       DE
 categories:    [Recht]
-tags:          [berliner zeitung]
+tags:          []
 ---

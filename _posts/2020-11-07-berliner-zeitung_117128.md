@@ -5,5 +5,5 @@ title:         Berliner Zeitung
 subtitle:      'Berlin: Anfrage zu PCR-Tests und Antwort des Senats'
 country:       DE
 categories:    [MSM, Politik]
-tags:          [berliner zeitung, pcr-test]
+tags:          [pcr-test]
 ---

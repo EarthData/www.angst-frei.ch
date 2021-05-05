@@ -5,5 +5,5 @@ title:         Berliner Zeitung
 subtitle:      'Anwältin: „Es ist unglaublich, was wir da erleben“'
 country:       DE
 categories:    [Recht, MSM]
-tags:          [berliner zeitung, massnahmen]
+tags:          [massnahmen]
 ---

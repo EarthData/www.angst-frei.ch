@@ -5,5 +5,5 @@ title:         Berliner Zeitung
 subtitle:      'Thrombosen auch bei mRNA-Impfstoffen'
 country:       DE
 categories:    [MSM, Impfung, Studie]
-tags:          [berliner zeitung, impf-nebenwirkungen, blutgerinnungsstörungen]
+tags:          [impf-nebenwirkungen, blutgerinnungsstörungen]
 ---

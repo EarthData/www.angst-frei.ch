@@ -5,5 +5,5 @@ title:         Berliner Zeitung
 subtitle:      'Warnung aus Norwegen: Mögliche Nebenwirkungen des Impfstoffs'
 country:       DE
 categories:    [MSM, Impfung]
-tags:          [berliner zeitung, mit oder an impfung gestorben, impf-nebenwirkungen, biontech]
+tags:          [mit oder an impfung gestorben, impf-nebenwirkungen, biontech]
 ---

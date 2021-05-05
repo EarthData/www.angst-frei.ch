@@ -5,5 +5,5 @@ title:         Berliner Zeitung
 subtitle:      'Kubicki: Ermittlung der Corona-Inzidenzwerte ist unseriös'
 country:       DE
 categories:    [MSM, Zahlen]
-tags:          [berliner zeitung, manipulation]
+tags:          [manipulation]
 ---

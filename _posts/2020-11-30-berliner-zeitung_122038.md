@@ -5,5 +5,5 @@ title:         Berliner Zeitung
 subtitle:      'Weltweite Debatte um Corona-Impfpflicht'
 country:       DE
 categories:    [MSM, Impfung, Recht]
-tags:          [berliner zeitung, impfplicht]
+tags:          [impfplicht]
 ---

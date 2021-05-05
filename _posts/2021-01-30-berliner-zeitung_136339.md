@@ -5,5 +5,5 @@ title:         Berliner Zeitung
 subtitle:      'Heribert Prantl: „Ich hoffe, dass die Gesellschaft aufwacht“'
 country:       DE
 categories:    [MSM, Mensch]
-tags:          [berliner zeitung, demokratie, massnahmen, manipulation]
+tags:          [demokratie, massnahmen, manipulation]
 ---

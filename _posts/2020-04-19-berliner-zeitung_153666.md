@@ -5,5 +5,5 @@ title:         Berliner Zeitung
 subtitle:      '800.000 Berliner ignorieren Einladung zur Corona-Impfung'
 country:       DE
 categories:    [Impfung, Widerstand]
-tags:          [berliner zeitung]
+tags:          []
 ---

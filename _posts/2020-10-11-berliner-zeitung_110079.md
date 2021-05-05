@@ -5,5 +5,5 @@ title:         Berliner Zeitung
 subtitle:      'Spaltpilz Corona'
 country:       DE
 categories:    [MSM, Mensch]
-tags:          [berliner zeitung, paywall, manipulation]
+tags:          [paywall, manipulation]
 ---

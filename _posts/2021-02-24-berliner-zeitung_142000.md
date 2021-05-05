@@ -5,5 +5,5 @@ title:         Berliner Zeitung
 subtitle:      'Lockdown: Obi, Media Markt und Peek & Cloppenburg klagen gegen Schließungen'
 country:       DE
 categories:    [Recht, Widerstand, MSM]
-tags:          [berliner zeitung, lockdown]
+tags:          [lockdown]
 ---

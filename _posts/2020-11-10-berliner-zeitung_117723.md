@@ -5,5 +5,5 @@ title:         Berliner Zeitung
 subtitle:      'Möglicher Suizid: Zahl der Rettungseinsätze steigt massiv an'
 country:       DE
 categories:    [MSM, Mensch]
-tags:          [berliner zeitung, kollateralschäden]
+tags:          [kollateralschäden]
 ---

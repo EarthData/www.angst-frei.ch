@@ -5,5 +5,5 @@ title:         Berliner Zeitung
 subtitle:      'Auch Thailand und Bulgarien stoppen Astrazeneca-Impfungen'
 country:       DE
 categories:    [Impfung]
-tags:          [berliner zeitung, mit oder an impfung gestorben, impf-nebenwirkungen, astrazeneca, impf-stopp]
+tags:          [mit oder an impfung gestorben, impf-nebenwirkungen, astrazeneca, impf-stopp]
 ---

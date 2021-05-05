@@ -6,5 +6,5 @@ subtitle:      'Ulrike Guérot: „Ja, ich möchte mit Christian Drosten über F
 country:       DE
 persons:       [Drosten Christian]
 categories:    [Recht, Wissenschaft, MSM]
-tags:          [berliner zeitung, grundrechte, massnahmen, lockdown]
+tags:          [grundrechte, massnahmen, lockdown]
 ---

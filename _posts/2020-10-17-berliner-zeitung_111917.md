@@ -5,5 +5,5 @@ title:         Berliner Zeitung
 subtitle:      'Forscher: Corona-Todesrate ist wahrscheinlich geringer als 0,2 Prozent'
 country:       DE
 categories:    [MSM, Zahlen]
-tags:          [berliner zeitung, who, sterblichkeit]
+tags:          [who, sterblichkeit]
 ---

@@ -5,5 +5,5 @@ title:         Berliner Zeitung
 subtitle:      'Virologe: „Corona ist auf dem Rückzug“'
 country:       DE
 categories:    [Wissenschaft, MSM, Zahlen]
-tags:          [berliner zeitung, who]
+tags:          [who]
 ---
