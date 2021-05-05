@@ -5,5 +5,5 @@ title:         NDR
 subtitle:      'Braunschweiger Klinik stoppt Impfung mit AstraZeneca-Mittel'
 country:       DE
 categories:    [Impfung, MSM]
-tags:          [ndr, impf-nebenwirkungen, astrazeneca, impf-stopp]
+tags:          [impf-nebenwirkungen, astrazeneca, impf-stopp]
 ---

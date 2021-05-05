@@ -5,5 +5,5 @@ title:         NDR
 subtitle:      'AstraZeneca: Uniklinik setzt Impfung für Risikogruppen aus'
 country:       DE
 categories:    [MSM, Impfung]
-tags:          [ndr, impf-stopp, mit oder an impfung gestorben, impf-nebenwirkungen, astrazeneca]
+tags:          [impf-stopp, mit oder an impfung gestorben, impf-nebenwirkungen, astrazeneca]
 ---
