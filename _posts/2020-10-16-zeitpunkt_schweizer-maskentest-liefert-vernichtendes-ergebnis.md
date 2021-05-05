@@ -5,5 +5,5 @@ title:         ZE!TPUNKT
 subtitle:      'Schweizer Maskentest liefert vernichtendes Ergebnis'
 country:       CH
 categories:    [Medizin]
-tags:          [zeitpunkt, maske]
+tags:          [maske]
 ---

@@ -5,5 +5,5 @@ title:         ZE!TPUNKT
 subtitle:      'An Heiligabend geimpft, fünf Tage später tot'
 country:       CH
 categories:    [Impfung]
-tags:          [zeitpunkt, mit oder an impfung gestorben, biontech]
+tags:          [mit oder an impfung gestorben, biontech]
 ---

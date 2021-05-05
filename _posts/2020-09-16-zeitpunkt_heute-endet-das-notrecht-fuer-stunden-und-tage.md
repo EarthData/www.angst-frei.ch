@@ -5,5 +5,5 @@ title:         ZE!TPUNKT
 subtitle:      'Heute endet das Notrecht – für Stunden und Tage'
 country:       CH
 categories:    [Politik, Recht]
-tags:          [zeitpunkt, massnahmen]
+tags:          [massnahmen]
 ---

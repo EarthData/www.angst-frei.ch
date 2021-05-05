@@ -5,5 +5,5 @@ title:         ZE!TPUNKT
 subtitle:      'Erstmals verlangt eine Behörde die Offenlegung der Anzahl Zyklen beim PCR-Test'
 country:       CH
 categories:    [Politik, Behörde, Wissenschaft]
-tags:          [zeitpunkt, pcr-test]
+tags:          [pcr-test]
 ---

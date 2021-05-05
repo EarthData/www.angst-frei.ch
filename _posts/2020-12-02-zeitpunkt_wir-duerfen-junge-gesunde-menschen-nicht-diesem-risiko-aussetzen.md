@@ -6,5 +6,5 @@ subtitle:      '«Wir dürfen junge, gesunde Menschen nicht diesem Risiko ausset
 country:       CH
 persons:       [Wodarg Wolfgang]
 categories:    [Impfung]
-tags:          [zeitpunkt, impf-nebenwirkungen]
+tags:          [impf-nebenwirkungen]
 ---

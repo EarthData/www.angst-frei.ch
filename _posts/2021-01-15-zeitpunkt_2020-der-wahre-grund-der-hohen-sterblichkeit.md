@@ -5,5 +5,5 @@ title:         ZE!TPUNKT
 subtitle:      '2020: der wahre Grund der hohen Sterblichkeit'
 country:       CH
 categories:    [Zahlen]
-tags:          [zeitpunkt, sterblichkeit]
+tags:          [sterblichkeit]
 ---

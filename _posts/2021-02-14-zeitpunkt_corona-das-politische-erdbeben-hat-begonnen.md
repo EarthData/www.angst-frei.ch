@@ -5,5 +5,5 @@ title:         ZE!TPUNKT
 subtitle:      'Corona: Das politische Erdbeben hat begonnen'
 country:       CH
 categories:    [Politik, Widerstand]
-tags:          [zeitpunkt, bundesrat, massnahmen]
+tags:          [bundesrat, massnahmen]
 ---

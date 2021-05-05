@@ -5,5 +5,5 @@ title:         ZE!TPUNKT
 subtitle:      'Vor jeder Verschärfung der Massnahmen wurde mehr getestet'
 country:       CH
 categories:    [BAG]
-tags:          [zeitpunkt, massnahmen, manipulation]
+tags:          [massnahmen, manipulation]
 ---

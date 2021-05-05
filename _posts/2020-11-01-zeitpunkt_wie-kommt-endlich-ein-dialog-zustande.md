@@ -5,5 +5,5 @@ title:         ZE!TPUNKT
 subtitle:      'Wie kommt endlich ein Dialog zustande?'
 country:       CH
 categories:    [Mensch]
-tags:          [zeitpunkt, dialog]
+tags:          [dialog]
 ---
