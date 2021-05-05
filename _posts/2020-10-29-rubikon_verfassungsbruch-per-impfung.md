@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Verfassungsbruch per Impfung'
 country:       DE
 categories:    [Recht, Politik, Impfung]
-tags:          [rubikon]
+tags:          []
 ---

@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Professionelle Deformation'
 country:       DE
 categories:    [Wissenschaft, Medizin, Mensch]
-tags:          [rubikon, massnahmen]
+tags:          [massnahmen]
 ---

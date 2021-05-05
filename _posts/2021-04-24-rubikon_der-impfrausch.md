@@ -6,5 +6,5 @@ subtitle:      'Der Impfrausch'
 country:       DE
 persons:       [Bhakdi Sucharit]
 categories:    [Impfung, Medizin]
-tags:          [rubikon]
+tags:          []
 ---

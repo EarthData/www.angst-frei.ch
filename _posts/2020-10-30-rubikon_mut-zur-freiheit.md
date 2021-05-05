@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Mut zur Freiheit'
 country:       DE
 categories:    [Mensch, Widerstand]
-tags:          [rubikon, angst]
+tags:          [angst]
 ---

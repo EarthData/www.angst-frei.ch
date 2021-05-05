@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Vater der dritten Welle'
 country:       DE
 categories:    [Wissenschaft, Wirtschaft]
-tags:          [rubikon, virus-mutation, welle3, manipulation]
+tags:          [virus-mutation, welle3, manipulation]
 ---

@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Leichen im Keller'
 country:       DE
 categories:    [Impfung]
-tags:          [rubikon, mit oder an impfung gestorben]
+tags:          [mit oder an impfung gestorben]
 ---

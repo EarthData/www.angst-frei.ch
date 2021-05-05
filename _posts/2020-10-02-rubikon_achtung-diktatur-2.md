@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Achtung, Diktatur!'
 country:       DE
 categories:    [Politik, MSM]
-tags:          [rubikon, angst, demokratie]
+tags:          [angst, demokratie]
 ---

@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Widerstand im Dritten Weltkrieg'
 country:       DE
 categories:    [Widerstand]
-tags:          [rubikon]
+tags:          []
 ---

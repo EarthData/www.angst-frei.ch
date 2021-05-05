@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Der zweite Fehlalarm'
 country:       DE
 categories:    [Zahlen]
-tags:          [rubikon, rki, welle2, manipulation]
+tags:          [rki, welle2, manipulation]
 ---

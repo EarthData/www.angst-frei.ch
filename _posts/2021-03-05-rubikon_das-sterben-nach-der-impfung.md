@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Das Sterben nach der Impfung'
 country:       DE
 categories:    [Impfung]
-tags:          [rubikon, mit oder an impfung gestorben]
+tags:          [mit oder an impfung gestorben]
 ---

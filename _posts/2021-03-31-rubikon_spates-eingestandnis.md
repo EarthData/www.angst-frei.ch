@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Spätes Eingeständnis'
 country:       DE
 categories:    [Wissenschaft, Medizin]
-tags:          [rubikon, who, pcr-test]
+tags:          [who, pcr-test]
 ---

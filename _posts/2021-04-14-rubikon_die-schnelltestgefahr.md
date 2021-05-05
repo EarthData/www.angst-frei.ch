@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Die Schnelltestgefahr'
 country:       DE
 categories:    [Gesundheit]
-tags:          [rubikon, selbsttest]
+tags:          [selbsttest]
 ---

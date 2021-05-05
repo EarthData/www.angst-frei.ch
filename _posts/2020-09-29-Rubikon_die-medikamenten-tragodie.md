@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Die Medikamenten-Tragödie'
 country:       DE
 categories:    [Medizin]
-tags:          [rubikon]
+tags:          []
 ---

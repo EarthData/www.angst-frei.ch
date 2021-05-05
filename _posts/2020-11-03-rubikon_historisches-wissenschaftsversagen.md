@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Historisches Wissenschaftsversagen'
 country:       DE
 categories:    [Wissenschaft]
-tags:          [rubikon, lockdown]
+tags:          [lockdown]
 ---

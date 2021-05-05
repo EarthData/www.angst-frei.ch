@@ -6,5 +6,5 @@ subtitle:      'Geraubte Kindheit'
 country:       DE
 persons:       [Hockertz Stefan]
 categories:    [Mensch]
-tags:          [rubikon, kind, kollateralschäden]
+tags:          [kind, kollateralschäden]
 ---

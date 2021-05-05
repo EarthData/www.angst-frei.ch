@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Die deformierte Generation'
 country:       DE
 categories:    [Mensch]
-tags:          [rubikon, kind]
+tags:          [kind]
 ---

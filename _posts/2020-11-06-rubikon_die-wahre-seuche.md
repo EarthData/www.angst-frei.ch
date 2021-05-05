@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Die wahre Seuche'
 country:       DE
 categories:    [Impfung]
-tags:          [rubikon]
+tags:          []
 ---

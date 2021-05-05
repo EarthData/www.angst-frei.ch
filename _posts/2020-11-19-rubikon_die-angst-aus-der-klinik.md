@@ -6,5 +6,5 @@ subtitle:      'Die Angst aus der Klinik'
 country:       DE
 persons:       [Wodarg Wolfgang]
 categories:    [Spital]
-tags:          [rubikon, angst]
+tags:          [angst]
 ---

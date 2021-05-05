@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Die Gesichtslosen'
 country:       DE
 categories:    [Mensch]
-tags:          [rubikon, maske]
+tags:          [maske]
 ---

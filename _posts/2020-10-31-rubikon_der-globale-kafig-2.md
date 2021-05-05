@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Der globale Käfig'
 country:       DE
 categories:    [Mensch]
-tags:          [rubikon, angst]
+tags:          [angst]
 ---

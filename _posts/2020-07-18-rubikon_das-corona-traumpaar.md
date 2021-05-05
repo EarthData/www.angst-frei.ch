@@ -6,5 +6,5 @@ subtitle:      'Das Corona-Traumpaar'
 country:       DE
 persons:       [Drosten Christian]
 categories:    [Wirtschaft]
-tags:          [rubikon, pcr-test]
+tags:          [pcr-test]
 ---

@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Die Seelenmörder'
 country:       DE
 categories:    [Widerstand, Mensch]
-tags:          [rubikon, kind, kollateralschäden]
+tags:          [kind, kollateralschäden]
 ---

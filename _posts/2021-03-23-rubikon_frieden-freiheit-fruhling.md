@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Frieden, Freiheit, Frühling!'
 country:       DE
 categories:    [Widerstand]
-tags:          [rubikon, polizei]
+tags:          [polizei]
 ---

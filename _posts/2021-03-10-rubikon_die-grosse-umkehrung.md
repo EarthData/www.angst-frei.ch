@@ -6,5 +6,5 @@ subtitle:      'Die große Umkehrung'
 country:       DE
 persons:       [Kaiser Gunnar]
 categories:    [Mensch]
-tags:          [rubikon, manipulation]
+tags:          [manipulation]
 ---

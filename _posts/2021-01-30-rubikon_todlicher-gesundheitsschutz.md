@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Tödlicher Gesundheitsschutz'
 country:       DE
 categories:    [Impfung]
-tags:          [rubikon, mit oder an impfung gestorben, impf-nebenwirkungen]
+tags:          [mit oder an impfung gestorben, impf-nebenwirkungen]
 ---

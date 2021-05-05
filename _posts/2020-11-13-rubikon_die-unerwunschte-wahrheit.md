@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Die unerwünschte Wahrheit'
 country:       DE
 categories:    [Zahlen]
-tags:          [rubikon, who, sterblichkeit, manipulation]
+tags:          [who, sterblichkeit, manipulation]
 ---

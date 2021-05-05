@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Die totale Ermächtigung'
 country:       DE
 categories:    [Politik, Recht]
-tags:          [rubikon, massnahmen, demokratie]
+tags:          [massnahmen, demokratie]
 ---

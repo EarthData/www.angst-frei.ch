@@ -6,5 +6,5 @@ subtitle:      'Der Pharma-Insider'
 country:       DE
 persons:       [Yeadon Michael]
 categories:    [Zahlen, Impfung]
-tags:          [rubikon, pcr-test, sterblichkeit]
+tags:          [pcr-test, sterblichkeit]
 ---

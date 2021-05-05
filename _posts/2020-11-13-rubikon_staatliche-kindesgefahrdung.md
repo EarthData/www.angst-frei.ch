@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Staatliche Kindesgefährdung'
 country:       DE
 categories:    [Politik]
-tags:          [rubikon, maske, kind]
+tags:          [maske, kind]
 ---

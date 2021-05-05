@@ -6,5 +6,5 @@ subtitle:      'Zwielichtiger Enthüller'
 country:       DE
 persons:       [Vanden Bossche Geert]
 categories:    [Impfung, Wissenschaft]
-tags:          [rubikon]
+tags:          []
 ---

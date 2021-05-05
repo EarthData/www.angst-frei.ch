@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Deutschlands mutigste Schülerin'
 country:       DE
 categories:    [Widerstand]
-tags:          [rubikon, kind]
+tags:          [kind]
 ---

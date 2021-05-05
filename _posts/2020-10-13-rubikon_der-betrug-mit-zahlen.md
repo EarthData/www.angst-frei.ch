@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Der Betrug mit Zahlen'
 country:       DE
 categories:    [Zahlen]
-tags:          [rubikon, pcr-test]
+tags:          [pcr-test]
 ---

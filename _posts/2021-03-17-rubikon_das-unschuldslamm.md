@@ -6,5 +6,5 @@ subtitle:      'Das Unschuldslamm'
 country:       DE
 persons:       [Gates Bill]
 categories:    [Mensch, Impfung, Wirtschaft]
-tags:          [rubikon, geld]
+tags:          [geld]
 ---

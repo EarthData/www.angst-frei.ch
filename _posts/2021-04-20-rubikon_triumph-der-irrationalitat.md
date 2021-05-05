@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Triumph der Irrationalität'
 country:       DE
 categories:    [Mensch, Impfung]
-tags:          [rubikon, manipulation]
+tags:          [manipulation]
 ---

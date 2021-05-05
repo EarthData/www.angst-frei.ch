@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Denken ohne Geländer'
 country:       DE
 categories:    [Mensch]
-tags:          [rubikon, kollateralschäden, manipulation]
+tags:          [kollateralschäden, manipulation]
 ---

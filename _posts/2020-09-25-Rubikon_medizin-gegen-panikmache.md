@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Medizin gegen Panikmache'
 country:       DE
 categories:    [Mensch]
-tags:          [rubikon, angst]
+tags:          [angst]
 ---

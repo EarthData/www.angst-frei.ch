@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Achtung, Diktatur!'
 country:       DE
 categories:    [Politik]
-tags:          [rubikon, wef, manipulation]
+tags:          [wef, manipulation]
 ---

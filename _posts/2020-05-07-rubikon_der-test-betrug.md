@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Der Test-Betrug'
 country:       DE
 categories:    [Wissenschaft]
-tags:          [rubikon, pcr-test]
+tags:          [pcr-test]
 ---

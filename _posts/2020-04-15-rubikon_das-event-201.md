@@ -6,5 +6,5 @@ subtitle:      'Das Event 201'
 country:       DE
 persons:       [Gates Bill]
 categories:    [P(l)andemie]
-tags:          [rubikon, event 201]
+tags:          [event 201]
 ---

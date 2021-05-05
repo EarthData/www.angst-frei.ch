@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Die Kliniklüge'
 country:       DE
 categories:    [Spital]
-tags:          [rubikon, manipulation]
+tags:          [manipulation]
 ---

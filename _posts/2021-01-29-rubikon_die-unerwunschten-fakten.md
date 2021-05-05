@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Die unerwünschten Fakten'
 country:       DE
 categories:    [Zahlen]
-tags:          [rubikon, schweden, immunität]
+tags:          [schweden, immunität]
 ---

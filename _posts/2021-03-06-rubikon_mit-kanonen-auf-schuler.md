@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Mit Kanonen auf Schüler'
 country:       DE
 categories:    [Mensch, Politik]
-tags:          [rubikon, kind]
+tags:          [kind]
 ---

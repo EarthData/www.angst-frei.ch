@@ -6,5 +6,5 @@ subtitle:      'Der große Neustart'
 country:       DE
 persons:       [Gates Bill]
 categories:    [Mensch]
-tags:          [rubikon, wef, great reset]
+tags:          [wef, great reset]
 ---

@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Das Pionier-Urteil'
 country:       DE
 categories:    [Recht, Schulen]
-tags:          [rubikon, kind, maske, weimar]
+tags:          [kind, maske, weimar]
 ---

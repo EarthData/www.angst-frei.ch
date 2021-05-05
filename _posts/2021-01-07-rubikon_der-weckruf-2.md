@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Der Weckruf'
 country:       DE
 categories:    [Widerstand]
-tags:          [rubikon, demokratie]
+tags:          [demokratie]
 ---

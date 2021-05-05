@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Die Aufweichung der Fronten'
 country:       DE
 categories:    [Mensch]
-tags:          [rubikon, manipulation]
+tags:          [manipulation]
 ---

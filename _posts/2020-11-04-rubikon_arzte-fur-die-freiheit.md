@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Ärzte für die Freiheit'
 country:       DE
 categories:    [Medizin, Widerstand]
-tags:          [rubikon, massnahmen]
+tags:          [massnahmen]
 ---

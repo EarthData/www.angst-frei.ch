@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Die Schein-Coronatoten'
 country:       DE
 categories:    [Recht]
-tags:          [rubikon, manipulation]
+tags:          [manipulation]
 ---

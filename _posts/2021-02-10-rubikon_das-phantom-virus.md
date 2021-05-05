@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Das Phantom-Virus'
 country:       DE
 categories:    [Wissenschaft]
-tags:          [rubikon, virus-mutation, virus-isolation, pcr-test]
+tags:          [virus-mutation, virus-isolation, pcr-test]
 ---

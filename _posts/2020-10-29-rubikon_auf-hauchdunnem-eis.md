@@ -5,5 +5,5 @@ title:         Rubikon
 subtitle:      'Auf hauchdünnem Eis'
 country:       DE
 categories:    [Wissenschaft]
-tags:          [rubikon, massnahmen]
+tags:          [massnahmen]
 ---
