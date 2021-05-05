@@ -5,5 +5,5 @@ title:         INFOsperber
 subtitle:      'Noch einmal: Keine «Fallzahlen» ohne Zahl der Tests'
 country:       CH
 categories:    [Zahlen]
-tags:          [infosperber, pcr-test]
+tags:          [pcr-test]
 ---

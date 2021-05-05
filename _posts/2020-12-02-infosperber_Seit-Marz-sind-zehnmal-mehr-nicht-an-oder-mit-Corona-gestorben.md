@@ -5,5 +5,5 @@ title:         INFOsperber
 subtitle:      'Seit März starben neun von zehn Personen nicht an Corona'
 country:       CH
 categories:    [Zahlen]
-tags:          [infosperber, sterblichkeit]
+tags:          [sterblichkeit]
 ---

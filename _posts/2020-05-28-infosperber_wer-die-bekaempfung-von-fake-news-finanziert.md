@@ -5,5 +5,5 @@ title:         INFOsperber
 subtitle:      'Wer die Bekämpfung von «Fake-News» finanziert'
 country:       CH
 categories:    [MSM]
-tags:          [infosperber, manipulation, zensur, geld]
+tags:          [manipulation, zensur, geld]
 ---

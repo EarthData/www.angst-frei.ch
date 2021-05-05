@@ -5,5 +5,5 @@ title:         INFOsperber
 subtitle:      'Coronavirus: So wecken Medien Misstrauen'
 country:       CH
 categories:    [Impfung, MSM]
-tags:          [infosperber]
+tags:          []
 ---

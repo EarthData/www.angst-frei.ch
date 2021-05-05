@@ -5,5 +5,5 @@ title:         INFOsperber
 subtitle:      '«Impfungen als Allheilmittel ist eine gefährliche Strategie»'
 country:       CH
 categories:    [Impfung, Medizin]
-tags:          [infosperber]
+tags:          []
 ---

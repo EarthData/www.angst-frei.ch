@@ -5,5 +5,5 @@ title:         INFOsperber
 subtitle:      'NZZ schreibt mit fragwürdigen Grafiken eine zweite Welle herbei'
 country:       CH
 categories:    [MSM, Zahlen]
-tags:          [infosperber, welle2, manipulation]
+tags:          [welle2, manipulation]
 ---

@@ -5,5 +5,5 @@ title:         INFOsperber
 subtitle:      'Diese Corona-Fallzahlen schweben im luftleeren Raum'
 country:       CH
 categories:    [Zahlen]
-tags:          [infosperber, pcr-test, massentest, manipulation]
+tags:          [pcr-test, massentest, manipulation]
 ---

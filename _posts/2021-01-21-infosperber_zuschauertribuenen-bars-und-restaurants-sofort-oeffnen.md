@@ -5,5 +5,5 @@ title:         INFOsperber
 subtitle:      '«Zuschauertribünen, Bars und Restaurants sofort öffnen»'
 country:       CH
 categories:    [Zahlen, Widerstand]
-tags:          [infosperber, massnahmen]
+tags:          [massnahmen]
 ---

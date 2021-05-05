@@ -5,5 +5,5 @@ title:         INFOsperber
 subtitle:      'Misstrauen gegen Impfhersteller kommt nicht von ungefähr'
 country:       CH
 categories:    [Impfung]
-tags:          [infosperber, manipulation]
+tags:          [manipulation]
 ---

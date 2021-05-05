@@ -5,5 +5,5 @@ title:         INFOsperber
 subtitle:      '6.11.20: Auslastung auf Intensivstationen erneut gestiegen'
 country:       CH
 categories:    [Spital, Zahlen]
-tags:          [infosperber]
+tags:          []
 ---

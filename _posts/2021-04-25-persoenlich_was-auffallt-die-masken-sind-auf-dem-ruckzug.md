@@ -5,5 +5,5 @@ title:         persoenlich.com
 subtitle:      'Serie zum Coronavirus: «Was auffällt, die Masken sind auf dem Rückzug»'
 country:       CH
 categories:    [Mensch, Widerstand]
-tags:          [linth24, maske]
+tags:          [maske]
 ---

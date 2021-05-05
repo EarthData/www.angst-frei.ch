@@ -5,5 +5,5 @@ title:         INFOsperber
 subtitle:      'Corona-Impfung: Das Kleingedruckte bei den Risiken'
 country:       CH
 categories:    [Impfung]
-tags:          [infosperber, impf-nebenwirkungen]
+tags:          [impf-nebenwirkungen]
 ---

@@ -5,5 +5,5 @@ title:         INFOsperber
 subtitle:      'Ceterum censeo: Positiv Getestete sind keine kranken Patienten'
 country:       CH
 categories:    [Gesundheit]
-tags:          [infosperber, pcr-test, manipulation]
+tags:          [pcr-test, manipulation]
 ---

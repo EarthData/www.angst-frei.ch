@@ -5,5 +5,5 @@ title:         INFOsperber
 subtitle:      'Corona-Impfschutz: Grosse Unterschiede bei Jung und Alt'
 country:       CH
 categories:    [Impfung, Studie]
-tags:          [infosperber, immunität]
+tags:          [immunität]
 ---

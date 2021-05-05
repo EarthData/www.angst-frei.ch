@@ -5,5 +5,5 @@ title:         INFOsperber
 subtitle:      'Hinter der Angst verschwindet das Leben'
 country:       CH
 categories:    [Mensch]
-tags:          [infosperber, angst]
+tags:          [angst]
 ---

@@ -5,5 +5,5 @@ title:         INFOsperber
 subtitle:      'Corona: Weder Kantone noch Militär nahmen Warnungen ernst'
 country:       CH
 categories:    [Spital, Zahlen, Politik]
-tags:          [infosperber]
+tags:          []
 ---

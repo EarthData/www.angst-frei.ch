@@ -5,5 +5,5 @@ title:         INFOsperber
 subtitle:      'NZZ zeigt, wie man neue Coronafälle dramatisch darstellt'
 country:       CH
 categories:    [MSM, Zahlen]
-tags:          [infosperber, manipulation]
+tags:          [manipulation]
 ---

@@ -5,5 +5,5 @@ title:         INFOsperber
 subtitle:      'Schickt niemanden, der nicht ansteckend ist, in Quarantäne!'
 country:       CH
 categories:    [Medizin]
-tags:          [infosperber, quarantäne]
+tags:          [quarantäne]
 ---

@@ -5,5 +5,5 @@ title:         INFOsperber
 subtitle:      'BAG zu Corona-Massnahmen: «Positivrate ist kein Richtwert mehr»'
 country:       CH
 categories:    [BAG]
-tags:          [infosperber, pcr-test, massentest, asymptomatisch]
+tags:          [pcr-test, massentest, asymptomatisch]
 ---

@@ -5,5 +5,5 @@ title:         INFOsperber
 subtitle:      'Coronavirus: Diese Kurve ist irreführend. Das BAG kneift.'
 country:       CH
 categories:    [Zahlen, BAG]
-tags:          [infosperber, manipulation]
+tags:          [manipulation]
 ---

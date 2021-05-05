@@ -5,5 +5,5 @@ title:         INFOsperber
 subtitle:      '«Pfizer-Impfung ist viel weniger wirksam» – keine Transparenz'
 country:       CH
 categories:    [Studie, Wissenschaft, Impfung]
-tags:          [infosperber, biontech, impf-nebenwirkungen]
+tags:          [biontech, impf-nebenwirkungen]
 ---

@@ -5,5 +5,5 @@ title:         INFOsperber
 subtitle:      'Corona-Krise wird zur sozialen Krise'
 country:       CH
 categories:    [Mensch, Wirtschaft]
-tags:          [infosperber, geld]
+tags:          [geld]
 ---

@@ -5,5 +5,5 @@ title:         INFOsperber
 subtitle:      '«Neutrale» Impfinformation erwies sich als falsch und einseitig'
 country:       CH
 categories:    [Impfung]
-tags:          [infosperber]
+tags:          []
 ---

@@ -5,5 +5,5 @@ title:         INFOsperber
 subtitle:      'Die Corona-Dramatisierer spalten die Gesellschaft'
 country:       CH
 categories:    [Politik, MSM, Zahlen]
-tags:          [infosperber, angst, massnahmen]
+tags:          [angst, massnahmen]
 ---

@@ -5,5 +5,5 @@ title:         INFOsperber
 subtitle:      'Corona: Etwas Licht ins Dunkel der Spitalbetten'
 country:       CH
 categories:    [Spital, Zahlen]
-tags:          [infosperber]
+tags:          []
 ---

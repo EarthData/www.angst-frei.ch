@@ -5,5 +5,5 @@ title:         INFOsperber
 subtitle:      'Terrassen: Kantonaler Ungehorsam am falschen Objekt kritisiert'
 country:       CH
 categories:    [Widerstand]
-tags:          [infosperber, lockdown]
+tags:          [lockdown]
 ---

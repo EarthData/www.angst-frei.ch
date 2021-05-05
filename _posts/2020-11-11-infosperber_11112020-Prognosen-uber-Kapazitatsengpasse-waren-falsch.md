@@ -5,5 +5,5 @@ title:         INFOsperber
 subtitle:      '11.11.2020: Prognosen über Kapazitätsengpässe waren falsch'
 country:       CH
 categories:    [Zahlen, Spital]
-tags:          [infosperber, manipulation]
+tags:          [manipulation]
 ---

@@ -5,5 +5,5 @@ title:         INFOsperber
 subtitle:      'Berufungsgericht: «PCR-Positive sind nicht alle ansteckend»'
 country:       CH
 categories:    [Recht]
-tags:          [infosperber, pcr-test]
+tags:          [pcr-test]
 ---

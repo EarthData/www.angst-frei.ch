@@ -5,5 +5,5 @@ title:         INFOsperber
 subtitle:      '«Es geht weiter mit irreführenden Corona-Grafiken»'
 country:       CH
 categories:    [Zahlen]
-tags:          [infosperber, manipulation]
+tags:          [manipulation]
 ---

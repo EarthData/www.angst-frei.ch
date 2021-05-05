@@ -5,5 +5,5 @@ title:         INFOsperber
 subtitle:      'Auch nach Monaten ist exakte Corona-Sprache in Medien selten'
 country:       CH
 categories:    [MSM]
-tags:          [infosperber, lockdown2, manipulation]
+tags:          [lockdown2, manipulation]
 ---

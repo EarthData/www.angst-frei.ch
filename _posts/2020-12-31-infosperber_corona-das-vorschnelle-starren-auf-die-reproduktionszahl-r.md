@@ -5,5 +5,5 @@ title:         INFOsperber
 subtitle:      'Corona: Das vorschnelle Starren auf die Reproduktionszahl R'
 country:       CH
 categories:    [Zahlen]
-tags:          [infosperber, r-wert]
+tags:          [r-wert]
 ---

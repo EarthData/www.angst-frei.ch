@@ -5,5 +5,5 @@ title:         INFOsperber
 subtitle:      'Wiener Gericht: «Fallzahlen sind für Demo-Verbot irrelevant»'
 country:       CH
 categories:    [Recht]
-tags:          [infosperber, pcr-test]
+tags:          [pcr-test]
 ---

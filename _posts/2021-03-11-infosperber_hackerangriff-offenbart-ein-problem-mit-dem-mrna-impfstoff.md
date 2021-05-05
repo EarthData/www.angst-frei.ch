@@ -5,5 +5,5 @@ title:         INFOsperber
 subtitle:      'Hackerangriff offenbart ein Problem mit dem mRNA-Impfstoff'
 country:       CH
 categories:    [Impfung]
-tags:          [infosperber, biontech, manipulation]
+tags:          [biontech, manipulation]
 ---

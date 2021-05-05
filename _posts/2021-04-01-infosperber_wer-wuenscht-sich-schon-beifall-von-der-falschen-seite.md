@@ -5,5 +5,5 @@ title:         INFOsperber
 subtitle:      'Wer wünscht sich schon Beifall von der falschen Seite?'
 country:       CH
 categories:    [Widerstand, MSM, Politik]
-tags:          [infosperber]
+tags:          []
 ---

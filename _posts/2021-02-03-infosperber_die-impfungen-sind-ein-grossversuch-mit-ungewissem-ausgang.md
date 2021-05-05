@@ -5,5 +5,5 @@ title:         INFOsperber
 subtitle:      'Die Impfungen sind ein Grossversuch mit ungewissem Ausgang'
 country:       CH
 categories:    [Impfung]
-tags:          [infosperber]
+tags:          []
 ---

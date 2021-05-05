@@ -5,5 +5,5 @@ title:         INFOsperber
 subtitle:      'Behörden geben zu viele Corona-Hospitalisierte und -Tote an'
 country:       CH
 categories:    [Spital, Zahlen]
-tags:          [infosperber, sterblichkeit, manipulation]
+tags:          [sterblichkeit, manipulation]
 ---
