@@ -5,5 +5,5 @@ title:         Ktipp
 subtitle:      'Unabhängige Corona-Task-Force? Schön wärs!'
 country:       CH
 categories:    [Wirtschaft, Medizin, Wissenschaft]
-tags:          [ktipp, taskforce]
+tags:          [taskforce]
 ---

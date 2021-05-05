@@ -6,5 +6,5 @@ subtitle:      'Masken als Todesursache'
 country:       DE
 timeline:      Medizin
 categories:    [Wissenschaft]
-tags:          [telegraph, schiffmann, maske]
+tags:          [schiffmann, maske]
 ---

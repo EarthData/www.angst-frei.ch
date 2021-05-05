@@ -5,5 +5,5 @@ title:         multipolar
 subtitle:      'Die Mainstream-Blase'
 country:       DE
 categories:    [MSM]
-tags:          [multipolar, zensur, manipulation]
+tags:          [zensur, manipulation]
 ---

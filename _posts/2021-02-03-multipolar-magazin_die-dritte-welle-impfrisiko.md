@@ -5,5 +5,5 @@ title:         multipolar
 subtitle:      'Die "dritte Welle": Virusmutation oder verschwiegenes Impfrisiko?'
 country:       DE
 categories:    [Impfung, Wissenschaft]
-tags:          [multipolar, virus-mutation, welle3, rki]
+tags:          [virus-mutation, welle3, rki]
 ---

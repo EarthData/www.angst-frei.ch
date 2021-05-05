@@ -5,5 +5,5 @@ title:         multipolar
 subtitle:      'Was steckt hinter der Corona-Politik?'
 country:       DE
 categories:    [Politik, Zahlen]
-tags:          [multipolar, massnahmen, manipulation]
+tags:          [massnahmen, manipulation]
 ---

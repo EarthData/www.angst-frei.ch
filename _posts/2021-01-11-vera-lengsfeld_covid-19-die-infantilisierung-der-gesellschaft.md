@@ -5,5 +5,5 @@ title:         Vera Lengsfeld
 subtitle:      'Covid 19: die Infantilisierung der Gesellschaft'
 country:       DE
 categories:    [Mensch]
-tags:          [vera-lengsfeld, angst, massnahmen]
+tags:          [angst, massnahmen]
 ---

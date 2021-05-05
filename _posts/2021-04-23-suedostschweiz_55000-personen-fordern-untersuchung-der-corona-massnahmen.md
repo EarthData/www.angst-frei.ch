@@ -5,5 +5,5 @@ title:         südostschweiz
 subtitle:      '55’000 Personen fordern Untersuchung der Corona-Massnahmen'
 country:       CH
 categories:    [Recht, Politik]
-tags:          [südostschweiz, petition]
+tags:          [petition]
 ---

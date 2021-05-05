@@ -5,5 +5,5 @@ title:         Ktipp
 subtitle:      'Gesunde brauchen keine Gesichtsmasken'
 country:       CH
 categories:    [Gesundheit]
-tags:          [ktipp, maske, paywall]
+tags:          [maske, paywall]
 ---

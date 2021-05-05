@@ -5,5 +5,5 @@ title:         multipolar
 subtitle:      'Gerichtsbeschluss nach Multipolar-Klage: RKI muss Krisenstab offenlegen'
 country:       DE
 categories:    [Recht]
-tags:          [multipolar, rki, manipulation]
+tags:          [rki, manipulation]
 ---

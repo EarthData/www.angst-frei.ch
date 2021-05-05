@@ -5,5 +5,5 @@ title:         Verfassungsfreunde
 subtitle:      'Das gefährlichste Gesetz, das die Schweiz je sah'
 country:       CH
 categories:    [Politik]
-tags:          [verfassungsfreunde]
+tags:          [covid-19-gesetz]
 ---

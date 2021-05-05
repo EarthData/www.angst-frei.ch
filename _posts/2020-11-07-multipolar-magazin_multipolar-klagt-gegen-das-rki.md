@@ -5,5 +5,5 @@ title:         multipolar
 subtitle:      'Intransparente Risikobewertung: Multipolar klagt gegen das Robert Koch-Institut'
 country:       DE
 categories:    [Recht, Widerstand]
-tags:          [multipolar, rki, massnahmen]
+tags:          [rki, massnahmen]
 ---

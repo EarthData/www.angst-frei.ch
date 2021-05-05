@@ -5,5 +5,5 @@ title:         multipolar
 subtitle:      'Zweifel an Wirksamkeit des Impfstoffs: Ministerium weicht aus, Medien schweigen'
 country:       DE
 categories:    [Impfung, Politik, MSM]
-tags:          [multipolar, zensur]
+tags:          [zensur]
 ---

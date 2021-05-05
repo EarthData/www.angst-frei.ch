@@ -5,5 +5,5 @@ title:         Vera Lengsfeld
 subtitle:      'Wie sinnvoll sind Corona-Maßnahmen? Ein Offener Brief an Bundeskanzlerin Merkel'
 country:       DE
 categories:    [Wissenschaft, Widerstand]
-tags:          [vera-lengsfeld, massnahmen]
+tags:          [massnahmen]
 ---

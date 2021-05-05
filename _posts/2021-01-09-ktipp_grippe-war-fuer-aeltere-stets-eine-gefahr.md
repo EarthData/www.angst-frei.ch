@@ -5,5 +5,5 @@ title:         Ktipp
 subtitle:      'Grippe war für Ältere stets eine Gefahr '
 country:       CH
 categories:    [Gesundheit]
-tags:          [ktipp, sterblichkeit, paywall]
+tags:          [sterblichkeit, paywall]
 ---

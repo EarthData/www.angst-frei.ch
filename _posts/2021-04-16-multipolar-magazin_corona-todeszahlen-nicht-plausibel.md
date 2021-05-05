@@ -5,5 +5,5 @@ title:         multipolar
 subtitle:      'Betrugsverdacht: Warum die Todeszahlen des Robert Koch-Instituts nicht plausibel sind'
 country:       DE
 categories:    [Zahlen]
-tags:          [multipolar, rki, sterblichkeit, manipulation]
+tags:          [rki, sterblichkeit, manipulation]
 ---

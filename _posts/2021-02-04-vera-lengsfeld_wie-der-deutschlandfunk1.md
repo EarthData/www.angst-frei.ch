@@ -5,5 +5,5 @@ title:         Vera Lengsfeld
 subtitle:      'Wie der Deutschlandfunk die Wahrheit über die Schädlichkeit der Atemmasken berichtet'
 country:       DE
 categories:    [MSM]
-tags:          [vera-lengsfeld, maske, manipulation]
+tags:          [maske, manipulation]
 ---

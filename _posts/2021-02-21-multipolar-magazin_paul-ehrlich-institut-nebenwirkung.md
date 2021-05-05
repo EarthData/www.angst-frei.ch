@@ -6,5 +6,5 @@ subtitle:      'Wurde vom Paul-Ehrlich-Institut eine gefährliche Nebenwirkung d
 country:       DE
 persons:       [Wodarg Wolfgang]
 categories:    [Impfung]
-tags:          [multipolar, impf-nebenwirkungen, pei]
+tags:          [impf-nebenwirkungen, pei]
 ---

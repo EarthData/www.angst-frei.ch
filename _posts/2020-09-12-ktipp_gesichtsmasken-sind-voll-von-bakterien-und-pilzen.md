@@ -5,5 +5,5 @@ title:         Ktipp
 subtitle:      'Gesichtsmasken sind voll von Bakterien und Pilzen'
 country:       CH
 categories:    [Gesundheit]
-tags:          [ktipp, maske, paywall]
+tags:          [maske, paywall]
 ---

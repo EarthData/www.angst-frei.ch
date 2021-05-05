@@ -5,5 +5,5 @@ title:         multipolar
 subtitle:      'Die Maske aus der Schuhfabrik'
 country:       DE
 categories:    [Wissenschaft]
-tags:          [multipolar, maske]
+tags:          [maske]
 ---

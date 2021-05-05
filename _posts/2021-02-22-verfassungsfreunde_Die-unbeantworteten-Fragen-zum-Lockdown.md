@@ -5,5 +5,5 @@ title:         Verfassungsfreunde
 subtitle:      'Die unbeantworteten Fragen zum Lockdown'
 country:       CH
 categories:    [Politik]
-tags:          [verfassungsfreunde, taskforce, bundesrat, lockdown]
+tags:          [taskforce, bundesrat, lockdown]
 ---

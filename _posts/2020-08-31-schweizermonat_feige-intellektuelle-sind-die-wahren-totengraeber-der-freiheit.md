@@ -6,5 +6,5 @@ subtitle:      'Feige Intellektuelle sind die wahren Totengräber der Freiheit'
 country:       CH
 persons:       [Matuschek Milosz]
 categories:    [Mensch]
-tags:          [schweizermonat, angst, demokratie]
+tags:          [angst, demokratie]
 ---
