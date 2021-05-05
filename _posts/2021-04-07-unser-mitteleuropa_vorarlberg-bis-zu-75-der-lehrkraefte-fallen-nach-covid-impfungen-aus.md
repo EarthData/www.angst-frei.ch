@@ -5,5 +5,5 @@ title:         Unser Mitteleuropa
 subtitle:      'Vorarlberg: Bis zu 75% (!) der Lehrkräfte fallen nach Covid-Impfungen aus'
 country:       EU
 categories:    [Impfung]
-tags:          [unser mitteleuropa, impf-nebenwirkungen]
+tags:          [impf-nebenwirkungen]
 ---

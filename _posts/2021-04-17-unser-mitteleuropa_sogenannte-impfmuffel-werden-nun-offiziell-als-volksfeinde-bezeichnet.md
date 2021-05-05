@@ -5,5 +5,5 @@ title:         Unser Mitteleuropa
 subtitle:      'Sogenannte „Impfmuffel“ werden nun offiziell als „Volksfeinde“ bezeichnet'
 country:       EU
 categories:    [MSM, Mensch, Impfung]
-tags:          [unser mitteleuropa, willkür, demokratie]
+tags:          [willkür, demokratie]
 ---

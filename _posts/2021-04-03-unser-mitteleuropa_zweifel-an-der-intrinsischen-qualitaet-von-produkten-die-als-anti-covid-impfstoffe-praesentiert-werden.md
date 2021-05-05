@@ -5,5 +5,5 @@ title:         Unser Mitteleuropa
 subtitle:      'Zweifel an der intrinsischen Qualität von Produkten, die als Anti-Covid-Impfstoffe präsentiert werden'
 country:       EU
 categories:    [Impfung]
-tags:          [unser mitteleuropa]
+tags:          []
 ---

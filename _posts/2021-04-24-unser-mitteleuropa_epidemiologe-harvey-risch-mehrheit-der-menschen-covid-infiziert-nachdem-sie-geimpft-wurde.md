@@ -5,5 +5,5 @@ title:         Unser Mitteleuropa
 subtitle:      'Epidemiologe Harvey Risch: Mehrheit der Menschen Covid-infiziert, nachdem sie geimpft wurde'
 country:       EU
 categories:    [Wissenschaft, Impfung]
-tags:          [unser mitteleuropa, infektion, immunität]
+tags:          [infektion, immunität]
 ---

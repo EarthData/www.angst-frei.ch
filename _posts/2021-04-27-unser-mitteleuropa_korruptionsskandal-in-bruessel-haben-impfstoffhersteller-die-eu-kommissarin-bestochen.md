@@ -5,5 +5,5 @@ title:         Unser Mitteleuropa
 subtitle:      'Korruptionsskandal in Brüssel: Haben Impfstoffhersteller die EU-Kommissarin bestochen?'
 country:       EU
 categories:    [Politik, Impfung]
-tags:          [unser mitteleuropa, manipulation]
+tags:          [manipulation]
 ---

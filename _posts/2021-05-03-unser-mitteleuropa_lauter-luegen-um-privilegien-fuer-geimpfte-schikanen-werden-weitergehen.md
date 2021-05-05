@@ -5,5 +5,5 @@ title:         Unser Mitteleuropa
 subtitle:      'Lauter Lügen um Privilegien für Geimpfte – Schikanen werden weitergehen'
 country:       EU
 categories:    [Impfung]
-tags:          [unser mitteleuropa, manipulation, impfzwang]
+tags:          [manipulation, impfzwang]
 ---

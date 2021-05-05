@@ -6,5 +6,5 @@ subtitle:      'Neues zur Causa Drosten und fehlende Promotionsschrift: Goethe-U
 country:       EU
 persons:       [Drosten Christian]
 categories:    [Recht]
-tags:          [unser mitteleuropa, manipulation]
+tags:          [manipulation]
 ---

@@ -5,5 +5,5 @@ title:         Unser Mitteleuropa
 subtitle:      'Besorgniserregendes aus Israel: Virus-Mutation für Geimpfte ansteckender als für Ungeimpfte'
 country:       EU
 categories:    [Impfung]
-tags:          [unser mitteleuropa, virus-mutation, immunität, israel]
+tags:          [virus-mutation, immunität, israel]
 ---

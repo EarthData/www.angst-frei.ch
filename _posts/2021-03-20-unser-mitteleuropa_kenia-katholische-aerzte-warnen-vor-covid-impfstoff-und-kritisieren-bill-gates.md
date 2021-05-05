@@ -6,5 +6,5 @@ subtitle:      'Kenia: Katholische Ärzte warnen vor Covid-Impfstoff und kritisi
 country:       EU
 persons:       [Gates Bill]
 categories:    [Impfung, Widerstand]
-tags:          [unser mitteleuropa]
+tags:          []
 ---

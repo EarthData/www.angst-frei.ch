@@ -5,5 +5,5 @@ title:         Unser Mitteleuropa
 subtitle:      'CIA-Neurobiologie-Experte über die Steuerung des menschlichen Gehirns mittels RNA-Impfstoffen'
 country:       EU
 categories:    [Wissenschaft, Impfung]
-tags:          [unser mitteleuropa, impf-nebenwirkungen]
+tags:          [impf-nebenwirkungen]
 ---

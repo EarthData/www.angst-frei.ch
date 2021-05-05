@@ -5,5 +5,5 @@ title:         Unser Mitteleuropa
 subtitle:      'Lauterbach nach Tod von 32-Jähriger: Impftote für Impferfolg müsse man hinnehmen'
 country:       EU
 categories:    [Politik, Impfung]
-tags:          [unser mitteleuropa, mit oder an impfung gestorben, astrazeneca]
+tags:          [mit oder an impfung gestorben, astrazeneca]
 ---
