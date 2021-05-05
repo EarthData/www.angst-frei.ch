@@ -5,5 +5,5 @@ title:         corona-blog.net
 subtitle:      '36 Ärzte schreiben offenen Brief gegen Karl Lauterbach'
 country:       DE
 categories:    [Widerstand, Medizin]
-tags:          [corona-blog]
+tags:          []
 ---

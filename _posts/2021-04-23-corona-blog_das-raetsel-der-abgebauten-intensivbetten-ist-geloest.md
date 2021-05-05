@@ -5,5 +5,5 @@ title:         corona-blog.net
 subtitle:      'Das „Rätsel“ der abgebauten Intensivbetten ist gelöst'
 country:       DE
 categories:    [Spital, Zahlen]
-tags:          [corona-blog, geld]
+tags:          [geld]
 ---

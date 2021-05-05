@@ -6,5 +6,5 @@ subtitle:      '«Die meisten Menschen sind gegen das Virus sowieso immun»'
 country:       CH
 persons:       [Stadler Beda]
 categories:    [MSM, Medizin]
-tags:          [bärnerbär, immunität]
+tags:          [immunität]
 ---

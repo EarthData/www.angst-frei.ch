@@ -5,5 +5,5 @@ title:         corona-blog.net
 subtitle:      '9. Sicherheitsbericht des PEI handelt von 407 Todesfällen, plötzlich auftauchenden 429 Thrombosen und einem großen Experiment'
 country:       DE
 categories:    [Impfung]
-tags:          [corona-blog, impf-nebenwirkungen, mit oder an impfung gestorben, pei]
+tags:          [impf-nebenwirkungen, mit oder an impfung gestorben, pei]
 ---

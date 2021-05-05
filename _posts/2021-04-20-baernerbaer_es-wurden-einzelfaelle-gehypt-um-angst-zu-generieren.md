@@ -6,5 +6,5 @@ subtitle:      '«Es wurden Einzelfälle gehypt, um Angst zu generieren»'
 country:       CH
 persons:       [Stadler Beda]
 categories:    [Wissenschaft, Widerstand]
-tags:          [bärnerbär, massnahmen]
+tags:          [massnahmen, angst]
 ---

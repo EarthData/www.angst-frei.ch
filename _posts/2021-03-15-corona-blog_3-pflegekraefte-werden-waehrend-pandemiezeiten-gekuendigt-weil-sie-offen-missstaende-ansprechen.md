@@ -5,5 +5,5 @@ title:         corona-blog.net
 subtitle:      '3 Pflegekräfte werden während Pandemiezeiten gekündigt, weil Sie offen Missstände ansprechen'
 country:       DE
 categories:    [Recht]
-tags:          [corona-blog, willkür, manipulation]
+tags:          [willkür, manipulation]
 ---

@@ -5,5 +5,5 @@ title:         corona-blog.net
 subtitle:      'Der Fall AstraZeneca'
 country:       DE
 categories:    [Impfung]
-tags:          [corona-blog, astrazeneca]
+tags:          [astrazeneca]
 ---

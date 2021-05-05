@@ -5,5 +5,5 @@ title:         corona-blog.net
 subtitle:      '52% mehr Todesfälle in der Altersgruppe 50+ nach der Impfung'
 country:       DE
 categories:    [Impfung]
-tags:          [corona-blog, mit oder an impfung gestorben]
+tags:          [mit oder an impfung gestorben]
 ---

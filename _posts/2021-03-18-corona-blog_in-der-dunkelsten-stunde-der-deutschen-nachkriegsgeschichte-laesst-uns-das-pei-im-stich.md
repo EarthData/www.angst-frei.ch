@@ -5,5 +5,5 @@ title:         corona-blog.net
 subtitle:      'In der dunkelsten Stunde der deutschen Nachkriegsgeschichte lässt uns das PEI im Stich'
 country:       DE
 categories:    [Impfung]
-tags:          [corona-blog, impf-nebenwirkungen, mit oder an impfung gestorben, pei]
+tags:          [impf-nebenwirkungen, mit oder an impfung gestorben, pei]
 ---

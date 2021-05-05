@@ -5,5 +5,5 @@ title:         corona-blog.net
 subtitle:      'Strafanzeige gegen Nikolaus Blome, der gezielt zu gesellschaftlichen Nachteilen für Ungeimpfte aufruft'
 country:       DE
 categories:    [MSM, Impfung, Recht, Widerstand]
-tags:          [corona-blog, willkür]
+tags:          [willkür]
 ---

@@ -5,5 +5,5 @@ title:         corona-blog.net
 subtitle:      'Explosion der Impfnebenwirkungen seit Beginn der „Coronavirus Schutzimpfungen“ im Vergleich der letzten 21 Jahre'
 country:       DE
 categories:    [Impfung]
-tags:          [corona-blog, impf-nebenwirkungen]
+tags:          [impf-nebenwirkungen]
 ---

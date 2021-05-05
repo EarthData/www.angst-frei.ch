@@ -5,5 +5,5 @@ title:         corona-blog.net
 subtitle:      'Ist es jetzt amtlich? Belügt uns das PEI?'
 country:       DE
 categories:    [Zahlen, Impfung]
-tags:          [corona-blog, mit oder an impfung gestorben, pei]
+tags:          [mit oder an impfung gestorben, pei]
 ---

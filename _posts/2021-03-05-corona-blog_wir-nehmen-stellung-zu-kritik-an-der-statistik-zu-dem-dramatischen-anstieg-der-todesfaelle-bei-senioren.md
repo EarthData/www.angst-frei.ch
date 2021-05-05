@@ -5,5 +5,5 @@ title:         corona-blog.net
 subtitle:      'Wir nehmen Stellung zu Kritik an der Statistik zu dem dramatischen Anstieg der Todesfälle bei Senioren'
 country:       DE
 categories:    [Zahlen, Impfung]
-tags:          [corona-blog, mit oder an impfung gestorben]
+tags:          [mit oder an impfung gestorben]
 ---

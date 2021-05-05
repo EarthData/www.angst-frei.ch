@@ -5,5 +5,5 @@ title:         corona-blog.net
 subtitle:      'Schulen sollen sich nun wieder zu ›silent hotspots‹ entwickeln?'
 country:       DE
 categories:    [Schulen, Studie]
-tags:          [corona-blog, kind, massentest, infektion]
+tags:          [kind, massentest, infektion]
 ---

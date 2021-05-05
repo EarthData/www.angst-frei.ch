@@ -5,5 +5,5 @@ title:         corona-blog.net
 subtitle:      'Betreiberin eines Reisebüros berichtet: „Sieben Kollegen haben sich das Leben genommen'
 country:       DE
 categories:    [Mensch]
-tags:          [corona-blog, sterblichkeit, kollateralschäden]
+tags:          [sterblichkeit, kollateralschäden]
 ---

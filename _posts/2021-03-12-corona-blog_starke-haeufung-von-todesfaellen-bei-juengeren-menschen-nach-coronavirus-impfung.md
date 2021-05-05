@@ -5,5 +5,5 @@ title:         corona-blog.net
 subtitle:      'Starke Häufung von Todesfällen bei jüngeren Menschen nach Coronavirus Impfung'
 country:       DE
 categories:    [Impfung]
-tags:          [corona-blog, mit oder an impfung gestorben]
+tags:          [mit oder an impfung gestorben]
 ---

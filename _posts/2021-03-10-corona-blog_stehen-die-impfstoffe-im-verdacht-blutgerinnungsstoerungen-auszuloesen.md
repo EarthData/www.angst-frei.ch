@@ -5,5 +5,5 @@ title:         corona-blog.net
 subtitle:      'Stehen die Impfstoffe im Verdacht Blutgerinnungsstörungen auszulösen?'
 country:       DE
 categories:    [Impfung]
-tags:          [corona-blog, mit oder an impfung gestorben, impf-nebenwirkungen, blutgerinnungsstörungen]
+tags:          [mit oder an impfung gestorben, impf-nebenwirkungen, blutgerinnungsstörungen]
 ---
