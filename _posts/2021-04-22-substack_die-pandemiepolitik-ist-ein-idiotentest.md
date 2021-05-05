@@ -6,5 +6,5 @@ subtitle:      'Die Pandemiepolitik ist ein Idiotentest'
 country:       COM
 persons:       [Matuschek Milosz]
 categories:    [Mensch, Politik, MSM]
-tags:          [substack, manipulation]
+tags:          [manipulation]
 ---

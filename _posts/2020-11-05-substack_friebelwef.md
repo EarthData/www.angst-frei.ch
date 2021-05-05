@@ -6,5 +6,5 @@ subtitle:      'Wie soll es weitergehen? Ein aktueller Text zur Lage und viele F
 country:       COM
 persons:       [Matuschek Milosz]
 categories:    [Politik]
-tags:          [substack, wef, manipulation]
+tags:          [wef, manipulation]
 ---

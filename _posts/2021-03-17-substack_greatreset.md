@@ -6,5 +6,5 @@ subtitle:      'Der „Great Reset“ ist ein technokratischer Putsch'
 country:       COM
 persons:       [Matuschek Milosz]
 categories:    [Politik]
-tags:          [substack, great reset, paywall]
+tags:          [great reset, paywall]
 ---

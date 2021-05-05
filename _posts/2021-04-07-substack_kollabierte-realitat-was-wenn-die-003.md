@@ -6,5 +6,5 @@ subtitle:      'Kollabierte Realität: Was, wenn die Verschwörungstheoretiker R
 country:       COM
 persons:       [Matuschek Milosz]
 categories:    [Mensch]
-tags:          [substack, manipulation]
+tags:          [manipulation]
 ---

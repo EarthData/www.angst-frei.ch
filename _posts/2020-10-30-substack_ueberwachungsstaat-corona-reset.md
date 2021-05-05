@@ -6,5 +6,5 @@ subtitle:      'Und jetzt alle: die Überwachung wird euch frei machen!'
 country:       COM
 persons:       [Matuschek Milosz]
 categories:    [Widerstand]
-tags:          [substack, wef, massnahmen]
+tags:          [wef, massnahmen]
 ---

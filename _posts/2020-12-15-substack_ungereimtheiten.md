@@ -6,5 +6,5 @@ subtitle:      'Die medizinischen Ungereimtheiten'
 country:       COM
 persons:       [Matuschek Milosz]
 categories:    [Medizin]
-tags:          [substack]
+tags:          []
 ---

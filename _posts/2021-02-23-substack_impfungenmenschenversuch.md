@@ -6,5 +6,5 @@ subtitle:      'Covid-Impfungen: die Menschenversuche müssen aufhören!'
 country:       COM
 persons:       [Matuschek Milosz]
 categories:    [Impfung]
-tags:          [substack, impfzwang, impf-nebenwirkungen]
+tags:          [impfzwang, impf-nebenwirkungen]
 ---

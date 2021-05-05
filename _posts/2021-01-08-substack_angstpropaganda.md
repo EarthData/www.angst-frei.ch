@@ -6,5 +6,5 @@ subtitle:      'Die Pandemie der Panik'
 country:       COM
 persons:       [Matuschek Milosz]
 categories:    [Mensch]
-tags:          [substack, angst]
+tags:          [angst]
 ---

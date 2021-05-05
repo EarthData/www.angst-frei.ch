@@ -6,5 +6,5 @@ subtitle:      'Zensur in Zeiten von Corona: wovor hat man eigentlich solche Ang
 country:       COM
 persons:       [Matuschek Milosz]
 categories:    [Politik]
-tags:          [substack, angst, zensur, manipulation]
+tags:          [angst, zensur, manipulation]
 ---

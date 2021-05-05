@@ -6,5 +6,5 @@ subtitle:      'Kommt die CoviDDR 2.0 – oder ist sie schon da?'
 country:       COM
 persons:       [Matuschek Milosz]
 categories:    [Politik]
-tags:          [substack, wef, massnahmen]
+tags:          [wef, massnahmen]
 ---

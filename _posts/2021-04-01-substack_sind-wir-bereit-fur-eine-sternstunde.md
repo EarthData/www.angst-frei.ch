@@ -6,5 +6,5 @@ subtitle:      'Sind wir bereit für eine Sternstunde der Demokratie?'
 country:       COM
 persons:       [Matuschek Milosz]
 categories:    [Politik]
-tags:          [substack, demokratie]
+tags:          [demokratie]
 ---

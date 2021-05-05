@@ -6,5 +6,5 @@ subtitle:      'Das rechtliche Pandemieregime passt vorne und hinten nicht'
 country:       COM
 persons:       [Matuschek Milosz]
 categories:    [Recht]
-tags:          [substack]
+tags:          []
 ---

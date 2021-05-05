@@ -6,5 +6,5 @@ subtitle:      'Im Maschinenraum der Wahrheit'
 country:       COM
 persons:       [Matuschek Milosz]
 categories:    [MSM, Politik]
-tags:          [substack, manipulation]
+tags:          [manipulation]
 ---
