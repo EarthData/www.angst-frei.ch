@@ -5,5 +5,5 @@ title:         In$ide Paradeplatz
 subtitle:      'Pfusch mit R-Wert macht Schweiz zu Geisterland'
 country:       CH
 categories:    [Zahlen]
-tags:          [inside-paradeplatz, r-wert, massnahmen]
+tags:          [r-wert, massnahmen]
 ---

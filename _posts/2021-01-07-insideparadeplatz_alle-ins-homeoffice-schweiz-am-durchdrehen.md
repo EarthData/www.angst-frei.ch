@@ -5,5 +5,5 @@ title:         In$ide Paradeplatz
 subtitle:      'Alle ins Homeoffice: Schweiz am Durchdrehen'
 country:       CH
 categories:    [Zahlen, Politik]
-tags:          [inside-paradeplatz, bundesrat, massnahmen]
+tags:          [bundesrat, massnahmen]
 ---

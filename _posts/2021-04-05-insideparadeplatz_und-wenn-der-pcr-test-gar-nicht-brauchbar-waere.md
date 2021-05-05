@@ -5,5 +5,5 @@ title:         In$ide Paradeplatz
 subtitle:      'Und wenn der PCR-Test gar nicht brauchbar wäre?'
 country:       CH
 categories:    [Recht]
-tags:          [inside-paradeplatz, pcr-test]
+tags:          [pcr-test]
 ---

@@ -5,5 +5,5 @@ title:         In$ide Paradeplatz
 subtitle:      'Schweizer Lockdown-Politik ist absolut gescheitert'
 country:       CH
 categories:    [Studie]
-tags:          [inside-paradeplatz, lockdown, massnahmen]
+tags:          [lockdown, massnahmen]
 ---

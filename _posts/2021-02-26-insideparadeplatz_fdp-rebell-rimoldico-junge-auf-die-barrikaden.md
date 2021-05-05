@@ -5,5 +5,5 @@ title:         In$ide Paradeplatz
 subtitle:      'FDP-Rebell Rimoldi&Co: Junge, auf die Barrikaden'
 country:       CH
 categories:    [Politik, Widerstand]
-tags:          [inside-paradeplatz, kollateralschäden]
+tags:          [kollateralschäden]
 ---

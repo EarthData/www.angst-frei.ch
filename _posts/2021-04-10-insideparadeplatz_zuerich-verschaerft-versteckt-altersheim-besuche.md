@@ -5,5 +5,5 @@ title:         In$ide Paradeplatz
 subtitle:      'Zürich verschärft "versteckt" Altersheim-Besuche'
 country:       CH
 categories:    [Politik, Impfung]
-tags:          [inside-paradeplatz, willkür]
+tags:          [willkür]
 ---

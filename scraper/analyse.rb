@@ -11,7 +11,7 @@ counter = 1
 
 config = YAML.load_file("config.yml")
 
-files = Dir.glob("../_posts/*-nachdenkseiten_*.md")
+files = Dir.glob("../_posts/*-insideparadeplatz_*.md")
 #files = Dir.glob("../_posts/2021-03-*.md")
 #files = Dir.glob("../_posts/*.md")
 

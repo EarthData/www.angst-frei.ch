@@ -5,5 +5,5 @@ title:         In$ide Paradeplatz
 subtitle:      'Spital Schwyz setzt Test-Verweigerin in Wehen vor Tür'
 country:       CH
 categories:    [Spital, Widerstand]
-tags:          [inside-paradeplatz, pcr-test, willkür]
+tags:          [pcr-test, willkür]
 ---

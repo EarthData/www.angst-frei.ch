@@ -5,5 +5,5 @@ title:         In$ide Paradeplatz
 subtitle:      'Subito aufmachen? Menschen sind längst draussen'
 country:       CH
 categories:    [Politik, MSM, Widerstand]
-tags:          [inside-paradeplatz]
+tags:          []
 ---

@@ -5,5 +5,5 @@ title:         In$ide Paradeplatz
 subtitle:      'Verursacher der Krise ist nicht Virus, sondern Bern'
 country:       CH
 categories:    [Politik]
-tags:          [inside-paradeplatz, lockdown, bundesrat]
+tags:          [lockdown, bundesrat]
 ---

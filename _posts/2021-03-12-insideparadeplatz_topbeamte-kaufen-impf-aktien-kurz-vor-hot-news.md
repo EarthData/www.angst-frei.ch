@@ -5,5 +5,5 @@ title:         In$ide Paradeplatz
 subtitle:      'Topbeamte kauften Impf-Aktien kurz vor Hot News'
 country:       CH
 categories:    [Wirtschaft]
-tags:          [inside-paradeplatz, geld, manipulation]
+tags:          [geld, manipulation]
 ---

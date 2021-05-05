@@ -5,5 +5,5 @@ title:         In$ide Paradeplatz
 subtitle:      'Covid-19 Task Force kann keine Wissenschaft'
 country:       CH
 categories:    [Wissenschaft, Zahlen]
-tags:          [inside-paradeplatz, taskforce, manipulation]
+tags:          [taskforce, manipulation]
 ---

@@ -6,5 +6,5 @@ subtitle:      'NZZ kickt Covid-Kritiker mit den Giga-Klicks'
 country:       CH
 persons:       [Matuschek Milosz]
 categories:    [MSM]
-tags:          [inside-paradeplatz, manipulation]
+tags:          [manipulation]
 ---

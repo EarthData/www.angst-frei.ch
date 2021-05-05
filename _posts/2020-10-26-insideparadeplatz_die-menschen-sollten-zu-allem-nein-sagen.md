@@ -5,5 +5,5 @@ title:         In$ide Paradeplatz
 subtitle:      '"Die Menschen sollten zu allem Nein sagen"'
 country:       CH
 categories:    [Widerstand]
-tags:          [inside-paradeplatz, demokratie]
+tags:          [demokratie]
 ---

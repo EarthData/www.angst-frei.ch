@@ -5,5 +5,5 @@ title:         In$ide Paradeplatz
 subtitle:      'Wie sinnvoll sind die Knockdowns der Wirtschaft?'
 country:       CH
 categories:    [Wirtschaft]
-tags:          [inside-paradeplatz, lockdown, geld]
+tags:          [lockdown, geld]
 ---

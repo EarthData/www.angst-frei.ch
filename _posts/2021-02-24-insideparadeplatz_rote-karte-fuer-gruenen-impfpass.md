@@ -5,5 +5,5 @@ title:         In$ide Paradeplatz
 subtitle:      'Rote Karte für grünen Impfpass'
 country:       CH
 categories:    [Impfung]
-tags:          [inside-paradeplatz, impfzwang, impfpass]
+tags:          [impfzwang, impfpass]
 ---

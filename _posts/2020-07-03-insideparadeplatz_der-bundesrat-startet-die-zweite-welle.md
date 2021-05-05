@@ -5,5 +5,5 @@ title:         In$ide Paradeplatz
 subtitle:      'Nicht das Virus startet die 2. Welle, sondern der Bundesrat'
 country:       CH
 categories:    [Politik]
-tags:          [inside-paradeplatz, bundesrat, welle2]
+tags:          [bundesrat, welle2]
 ---

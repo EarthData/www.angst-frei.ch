@@ -5,5 +5,5 @@ title:         In$ide Paradeplatz
 subtitle:      'Wengen virusfrei: Panikmache, Swiss made'
 country:       CH
 categories:    [MSM]
-tags:          [inside-paradeplatz, lockdown, angst, manipulation]
+tags:          [lockdown, angst, manipulation]
 ---

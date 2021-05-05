@@ -5,5 +5,5 @@ title:         In$ide Paradeplatz
 subtitle:      'Studie sieht Sterblichkeit tief, BAG giga-hoch'
 country:       CH
 categories:    [Studie, BAG]
-tags:          [inside-paradeplatz, who, sterblichkeit]
+tags:          [who, sterblichkeit]
 ---

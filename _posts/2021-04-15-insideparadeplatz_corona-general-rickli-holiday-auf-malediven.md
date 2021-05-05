@@ -5,5 +5,5 @@ title:         In$ide Paradeplatz
 subtitle:      'Corona-General Rickli: Holiday auf den Malediven'
 country:       CH
 categories:    [Politik]
-tags:          [inside-paradeplatz, svp, manipulation]
+tags:          [svp, manipulation]
 ---

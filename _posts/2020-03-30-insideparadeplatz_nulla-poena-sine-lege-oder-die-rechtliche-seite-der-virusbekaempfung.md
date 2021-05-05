@@ -5,5 +5,5 @@ title:         In$ide Paradeplatz
 subtitle:      'Nulla poena sine lege oder die rechtliche Seite der Virusbekämpfung'
 country:       CH
 categories:    [Recht, Politik]
-tags:          [inside-paradeplatz, bundesrat]
+tags:          [bundesrat]
 ---

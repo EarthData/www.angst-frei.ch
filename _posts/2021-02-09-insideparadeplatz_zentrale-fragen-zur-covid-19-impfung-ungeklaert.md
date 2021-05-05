@@ -5,5 +5,5 @@ title:         In$ide Paradeplatz
 subtitle:      'Ungeklärtes zur Covid-19-Impfung'
 country:       CH
 categories:    [Impfung, Medizin]
-tags:          [inside-paradeplatz, impf-nebenwirkungen]
+tags:          [impf-nebenwirkungen]
 ---

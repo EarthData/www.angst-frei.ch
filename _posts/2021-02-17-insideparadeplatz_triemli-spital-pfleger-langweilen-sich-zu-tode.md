@@ -5,5 +5,5 @@ title:         In$ide Paradeplatz
 subtitle:      'Triemli-Spital-Pfleger langweilen sich zu Tode'
 country:       CH
 categories:    [Spital, Zahlen]
-tags:          [inside-paradeplatz]
+tags:          []
 ---
