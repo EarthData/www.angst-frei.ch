@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Lagebericht aus Spanien (1): Corona kam, sah und siegte – wie sonst nirgends in Europa'
 country:       CH
 categories:    [Mensch, Politik, Recht]
-tags:          [corona transition, demokratie, polizei]
+tags:          [demokratie, polizei]
 ---

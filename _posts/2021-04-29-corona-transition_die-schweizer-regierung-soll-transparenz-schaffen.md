@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Schweizer Regierung soll Transparenz schaffen'
 country:       CH
 categories:    [Widerstand, Politik]
-tags:          [corona transition, petition, bundesrat]
+tags:          [petition, bundesrat]
 ---

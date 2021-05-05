@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Der Nürnberger Kodex'
 country:       CH
 categories:    [Recht, Medizin]
-tags:          [corona transition, nürnberger kodex]
+tags:          [nürnberger kodex]
 ---

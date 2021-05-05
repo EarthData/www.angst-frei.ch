@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'In Brasilien sterben sehr viele Menschen – aber woran?'
 country:       CH
 categories:    [Zahlen, Impfung]
-tags:          [corona transition, sterblichkeit, brasilien]
+tags:          [sterblichkeit, brasilien]
 ---

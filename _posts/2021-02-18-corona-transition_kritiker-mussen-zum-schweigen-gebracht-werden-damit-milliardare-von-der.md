@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Kritiker müssen zum Schweigen gebracht werden, damit Milliardäre von der Pandemie profitieren können'
 country:       CH
 categories:    [Wirtschaft, MSM]
-tags:          [corona transition, geld, manipulation]
+tags:          [geld, manipulation]
 ---

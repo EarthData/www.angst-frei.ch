@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Geimpfte in Israel haben eine 40 mal höhere Mortalität als Ungeimpfte - israelische Forscher sprechen von einem «neuen Holocaust»'
 country:       CH
 categories:    [Impfung]
-tags:          [corona transition, mit oder an impfung gestorben, israel]
+tags:          [mit oder an impfung gestorben, israel]
 ---

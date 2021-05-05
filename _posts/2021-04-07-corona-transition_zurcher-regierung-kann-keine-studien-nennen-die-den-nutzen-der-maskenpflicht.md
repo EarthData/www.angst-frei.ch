@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Zürcher Regierung kann keine Studien nennen, die den Nutzen der Maskenpflicht aufzeigen'
 country:       CH
 categories:    [Politik]
-tags:          [corona transition, kind, maske]
+tags:          [kind, maske]
 ---

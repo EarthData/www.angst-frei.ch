@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Welche Auswirkungen hat die «Pandemie» auf unsere Demokratie?'
 country:       CH
 categories:    [Recht, Politik]
-tags:          [corona transition, demokratie]
+tags:          [demokratie]
 ---

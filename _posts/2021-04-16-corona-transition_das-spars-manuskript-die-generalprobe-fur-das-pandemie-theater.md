@@ -6,5 +6,5 @@ subtitle:      'Das SPARS-Manuskript — die Generalprobe für das Pandemie-Thea
 country:       CH
 persons:       [Gates Bill]
 categories:    [Mensch]
-tags:          [corona transition, event 201, who, spars]
+tags:          [event 201, who, spars]
 ---

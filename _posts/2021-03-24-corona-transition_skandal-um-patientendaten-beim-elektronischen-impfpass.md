@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Skandal um Patientendaten beim elektronischen Impfpass'
 country:       CH
 categories:    [Impfung]
-tags:          [corona transition, impfpass]
+tags:          [impfpass]
 ---

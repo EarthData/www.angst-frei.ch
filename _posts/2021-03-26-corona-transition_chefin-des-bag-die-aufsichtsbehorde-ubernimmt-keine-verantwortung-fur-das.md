@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Chefin des BAG: Die Aufsichtsbehörde übernimmt keine Verantwortung für das Datenleck beim Impfausweis'
 country:       CH
 categories:    [Politik, BAG, Impfung]
-tags:          [corona transition, impfpass]
+tags:          [impfpass]
 ---

@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Medienhetze gegen Andersdenkende im Blick'
 country:       CH
 categories:    [MSM]
-tags:          [corona transition, manipulation]
+tags:          [manipulation]
 ---

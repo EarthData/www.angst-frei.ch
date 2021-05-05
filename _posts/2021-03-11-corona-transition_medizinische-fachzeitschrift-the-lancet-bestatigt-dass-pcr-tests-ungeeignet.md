@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Medizinische Fachzeitschrift «The Lancet» bestätigt, dass PCR-Tests ungeeignet sind'
 country:       CH
 categories:    [Medizin]
-tags:          [corona transition, pcr-test, the lancet]
+tags:          [pcr-test, the lancet]
 ---

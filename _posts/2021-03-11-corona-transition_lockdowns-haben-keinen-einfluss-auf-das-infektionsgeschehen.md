@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Lockdowns haben keinen Einfluss auf das Infektionsgeschehen'
 country:       CH
 categories:    [Wissenschaft]
-tags:          [corona transition, lockdown, nature, infektion]
+tags:          [lockdown, nature, infektion]
 ---

@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Der Skandal hat jetzt eine sichere Zahl: mRNA-Impfungen sind 40 mal gefährlicher als Grippeimpfungen'
 country:       CH
 categories:    [Impfung]
-tags:          [corona transition, mit oder an impfung gestorben, who]
+tags:          [mit oder an impfung gestorben, who]
 ---

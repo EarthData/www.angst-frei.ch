@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Langfristiger Gebrauch von Masken kann zu Lungenkrebs im fortgeschrittenen Stadium beitragen, sagt eine Studie'
 country:       CH
 categories:    [Studie]
-tags:          [corona transition, maske]
+tags:          [maske]
 ---

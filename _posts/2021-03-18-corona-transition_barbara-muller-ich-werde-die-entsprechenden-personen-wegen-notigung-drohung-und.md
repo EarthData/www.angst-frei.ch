@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Barbara Müller: „Ich werde die entsprechenden Personen wegen Nötigung, Drohung und Körperverletzung anzeigen“'
 country:       CH
 categories:    [Recht]
-tags:          [corona transition, willkür]
+tags:          [willkür]
 ---

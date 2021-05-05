@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Nach der Impfung mit dem Biontech/Pfizer-Impfstoff: Neun Tote in Luzerner Altersheim'
 country:       CH
 categories:    [Impfung]
-tags:          [corona transition, mit oder an impfung gestorben, biontech]
+tags:          [mit oder an impfung gestorben, biontech]
 ---

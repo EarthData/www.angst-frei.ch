@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Spital Thun verpasste seinen Mitarbeitern einen «Maulkorb»'
 country:       CH
 categories:    [Spital]
-tags:          [corona transition, zensur, manipulation]
+tags:          [zensur, manipulation]
 ---

@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Dicke Post für die Schweizer Regierung'
 country:       CH
 categories:    [Politik, Recht, Widerstand]
-tags:          [corona transition, bundesrat, grundrechte]
+tags:          [bundesrat, grundrechte]
 ---

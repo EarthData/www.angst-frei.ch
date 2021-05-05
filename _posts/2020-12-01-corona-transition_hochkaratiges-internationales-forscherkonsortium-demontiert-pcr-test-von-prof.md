@@ -6,5 +6,5 @@ subtitle:      'Hochkarätiges internationales Forscherkonsortium demontiert PCR
 country:       CH
 persons:       [Drosten Christian]
 categories:    [Wissenschaft]
-tags:          [corona transition, pcr-test]
+tags:          [pcr-test]
 ---

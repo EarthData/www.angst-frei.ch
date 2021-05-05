@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'SRF hetzt gegen kritische Ärzte: Ombudsstelle sieht kein Problem'
 country:       CH
 categories:    [MSM]
-tags:          [corona transition, srf, manipulation]
+tags:          [srf, manipulation]
 ---

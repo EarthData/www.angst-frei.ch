@@ -6,5 +6,5 @@ subtitle:      'Stark kritisierte wissenschaftliche Arbeit von Christian Drosten
 country:       CH
 persons:       [Drosten Christian]
 categories:    [Wissenschaft]
-tags:          [corona transition, pcr-test]
+tags:          [pcr-test]
 ---

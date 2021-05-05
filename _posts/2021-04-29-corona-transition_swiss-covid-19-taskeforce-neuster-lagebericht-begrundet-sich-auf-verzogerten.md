@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Swiss Covid-19 Task Force: Neuster Lagebericht basiert auf verzögerten und nicht quantifizierbaren Schätzwerten'
 country:       CH
 categories:    [Zahlen]
-tags:          [corona transition, taskforce, manipulation]
+tags:          [taskforce, manipulation]
 ---

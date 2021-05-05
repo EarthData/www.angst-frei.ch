@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'BAG begründet Rechtsungleichheit zwischen Geimpften und Ungeimpften mit Studien, die wissenschaftlichen Standards nicht genügen'
 country:       CH
 categories:    [BAG, Recht, Studie]
-tags:          [corona transition, demokratie]
+tags:          [demokratie]
 ---

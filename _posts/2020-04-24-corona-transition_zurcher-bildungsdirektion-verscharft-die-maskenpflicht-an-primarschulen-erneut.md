@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Zürcher Bildungsdirektion verschärft die Maskenpflicht an Primarschulen erneut – aufgrund von reinen Vermutungen'
 country:       CH
 categories:    [Politik, Schulen]
-tags:          [corona transition, kind, maske]
+tags:          [kind, maske]
 ---

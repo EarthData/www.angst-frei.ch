@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Eltern stehen auf und setzen sich für die Rechte ihrer Kinder ein!'
 country:       CH
 categories:    [Recht, Widerstand]
-tags:          [corona transition, kind]
+tags:          [kind]
 ---

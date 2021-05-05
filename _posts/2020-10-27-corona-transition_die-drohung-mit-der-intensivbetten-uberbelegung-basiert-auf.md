@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Die Drohung mit der Intensivbetten-Überbelegung basiert auf Zahlenmanipulationen'
 country:       CH
 categories:    [Spital]
-tags:          [corona transition, lockdown2, manipulation]
+tags:          [lockdown2, manipulation]
 ---

@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Lockdowns sind «grösster je gemachter Fehler im Bereich der öffentlichen Gesundheit»'
 country:       CH
 categories:    [Mensch]
-tags:          [corona transition, kollateralschäden, lockdown]
+tags:          [kollateralschäden, lockdown]
 ---

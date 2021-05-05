@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Masken auf Dauer könnten unsere Kinder die Zukunft kosten'
 country:       CH
 categories:    [Medizin]
-tags:          [corona transition, maske, kind]
+tags:          [maske, kind]
 ---

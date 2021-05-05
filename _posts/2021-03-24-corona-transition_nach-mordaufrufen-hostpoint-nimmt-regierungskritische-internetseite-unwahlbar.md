@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Nach Hasskommentaren: Hostpoint nimmt Internetseite unwählbar.ch vom Netz'
 country:       CH
 categories:    [Politik]
-tags:          [corona transition, zensur, manipulation]
+tags:          [zensur, manipulation]
 ---

@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Über Nacht verschwinden 34’000 Schweizer aus der Quarantäne-Statistik des Bundes'
 country:       CH
 categories:    [Zahlen]
-tags:          [corona transition, manipulation]
+tags:          [manipulation]
 ---

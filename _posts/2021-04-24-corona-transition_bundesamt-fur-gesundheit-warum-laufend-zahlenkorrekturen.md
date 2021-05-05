@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Bundesamt für Gesundheit: Warum laufend Zahlenkorrekturen?'
 country:       CH
 categories:    [BAG, Zahlen]
-tags:          [corona transition]
+tags:          []
 ---

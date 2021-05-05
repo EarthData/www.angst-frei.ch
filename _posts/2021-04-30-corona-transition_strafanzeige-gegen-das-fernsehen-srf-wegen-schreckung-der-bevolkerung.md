@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Strafanzeige gegen das Fernsehen SRF wegen «Schreckung der Bevölkerung»'
 country:       CH
 categories:    [MSM, Recht]
-tags:          [corona transition, srf, manipulation]
+tags:          [srf, manipulation]
 ---

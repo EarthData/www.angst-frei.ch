@@ -6,5 +6,5 @@ subtitle:      'Infektionssterblichkeit bei Covid-19 nach unten korrigiert'
 country:       CH
 persons:       [Ioannidis John P.]
 categories:    [Zahlen]
-tags:          [corona transition, sterblichkeit]
+tags:          [sterblichkeit]
 ---

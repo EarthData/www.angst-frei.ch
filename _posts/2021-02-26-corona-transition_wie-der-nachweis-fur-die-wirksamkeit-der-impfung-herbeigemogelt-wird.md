@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Wie der Nachweis für die Wirksamkeit der Impfung herbeigemogelt wird'
 country:       CH
 categories:    [Zahlen, Impfung]
-tags:          [corona transition, who, lockdown]
+tags:          [who, lockdown]
 ---

@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'In Florida erkranken Dutzende an COVID-19 nach vollständiger Impfung'
 country:       CH
 categories:    [Impfung]
-tags:          [corona transition, immunität, usa]
+tags:          [immunität, usa]
 ---

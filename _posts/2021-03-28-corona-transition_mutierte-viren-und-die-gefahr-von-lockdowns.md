@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Mutierte Viren und die Gefahr von Lockdowns'
 country:       CH
 categories:    [Wissenschaft]
-tags:          [corona transition, virus-mutation, lockdown]
+tags:          [virus-mutation, lockdown]
 ---

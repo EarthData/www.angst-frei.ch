@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Todesfälle im Zusammenhang mit Covid-Vakzinen 30-mal häufiger als bei anderen Impfstoffen.'
 country:       CH
 categories:    [Impfung]
-tags:          [corona transition, mit oder an impfung gestorben]
+tags:          [mit oder an impfung gestorben]
 ---

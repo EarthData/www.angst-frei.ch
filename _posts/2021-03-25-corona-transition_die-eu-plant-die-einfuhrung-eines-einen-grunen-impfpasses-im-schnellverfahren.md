@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Die EU plant die Einführung eines eigenen grünen Impfpasses im Schnellverfahren'
 country:       CH
 categories:    [Politik, Impfung]
-tags:          [corona transition, impfpass]
+tags:          [impfpass]
 ---

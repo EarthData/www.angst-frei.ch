@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'RICHTIGSTELLUNG ZUM ARTIKEL: Anweisung an Ärzte und Apotheker: «Bitte sprechen Sie die Risiken nicht an»'
 country:       CH
 categories:    [Medizin, Impfung]
-tags:          [corona transition, willkür, manipulation]
+tags:          [willkür, manipulation]
 ---

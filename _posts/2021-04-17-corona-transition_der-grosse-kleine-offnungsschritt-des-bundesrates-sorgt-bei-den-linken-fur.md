@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Der grosse (kleine) Öffnungsschritt des Bundesrates sorgt bei den Linken für heisse Köpfe'
 country:       CH
 categories:    [Politik]
-tags:          [corona transition, bundesrat]
+tags:          [bundesrat]
 ---

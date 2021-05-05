@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Berset in bester orwellscher Manier'
 country:       CH
 categories:    [Politik, Impfung]
-tags:          [corona transition, bundesrat, impfpass, impfzwang]
+tags:          [bundesrat, impfpass, impfzwang]
 ---

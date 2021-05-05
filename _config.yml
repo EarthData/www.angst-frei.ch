@@ -176,6 +176,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
+  - _posts
   - _newposts
   - _archive
   - scraper

@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Lockdown-Politik sei schuld am «grössten Fiasko der öffentlichen Gesundheit in der Geschichte»'
 country:       CH
 categories:    [Widerstand, Medizin]
-tags:          [corona transition, lockdown, kollateralschäden]
+tags:          [lockdown, kollateralschäden]
 ---

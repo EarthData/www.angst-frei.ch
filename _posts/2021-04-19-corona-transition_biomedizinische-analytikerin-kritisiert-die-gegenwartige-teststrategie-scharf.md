@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Biomedizinische Analytikerin kritisiert die gegenwärtige Teststrategie scharf'
 country:       CH
 categories:    [Wissenschaft, Widerstand]
-tags:          [corona transition, massentest, pcr-test]
+tags:          [massentest, pcr-test]
 ---

@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Der «stille Protest» ist nicht mehr zu überhören'
 country:       CH
 categories:    [Widerstand]
-tags:          [corona transition]
+tags:          []
 ---

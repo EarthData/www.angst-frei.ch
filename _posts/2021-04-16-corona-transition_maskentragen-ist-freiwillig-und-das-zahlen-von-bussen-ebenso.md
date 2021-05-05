@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Wer besondere Gründe hat – muss keine Maske tragen'
 country:       CH
 categories:    [Recht]
-tags:          [corona transition, maske]
+tags:          [maske]
 ---

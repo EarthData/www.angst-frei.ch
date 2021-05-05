@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Polizei behindert freie Pressearbeit von Stricker TV'
 country:       CH
 categories:    [Recht, Widerstand]
-tags:          [corona transition, schaffhausen, polizei]
+tags:          [schaffhausen, polizei]
 ---

@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Die «Ärzte mit Blick aufs Ganze» weisen dem Bundesrat einen goldenen Mittelweg'
 country:       CH
 categories:    [Medizin, Widerstand]
-tags:          [corona transition, bundesrat]
+tags:          [bundesrat]
 ---

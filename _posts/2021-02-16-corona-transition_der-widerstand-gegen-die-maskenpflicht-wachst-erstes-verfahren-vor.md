@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Der Widerstand gegen die Maskenpflicht wächst: Erstes Verfahren beim Bundesgericht angelangt'
 country:       CH
 categories:    [Recht, Widerstand]
-tags:          [corona transition, maske, kind]
+tags:          [maske, kind]
 ---

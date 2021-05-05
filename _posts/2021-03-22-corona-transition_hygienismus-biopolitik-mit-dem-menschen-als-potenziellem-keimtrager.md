@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Hygienismus: Biopolitik mit dem Menschen als potenziellem Keimträger'
 country:       CH
 categories:    [Politik]
-tags:          [corona transition, impfzwang, impfpass]
+tags:          [impfzwang, impfpass]
 ---

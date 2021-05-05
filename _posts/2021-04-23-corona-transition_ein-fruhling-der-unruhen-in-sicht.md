@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Ein Frühling der Unruhen in Sicht?'
 country:       CH
 categories:    [Widerstand]
-tags:          [corona transition]
+tags:          []
 ---

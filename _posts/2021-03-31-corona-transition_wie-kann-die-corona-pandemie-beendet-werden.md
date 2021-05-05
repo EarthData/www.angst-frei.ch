@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Wie kann die Corona-Pandemie beendet werden?'
 country:       CH
 categories:    [Mensch, Widerstand, Impfung]
-tags:          [corona transition]
+tags:          []
 ---

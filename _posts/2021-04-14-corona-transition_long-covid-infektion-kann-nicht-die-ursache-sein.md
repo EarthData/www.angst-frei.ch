@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      '«Long-Covid»: Infektion kann nicht die Ursache sein'
 country:       CH
 categories:    [Medizin, MSM, Studie]
-tags:          [corona transition, long covid, manipulation]
+tags:          [long covid, manipulation]
 ---

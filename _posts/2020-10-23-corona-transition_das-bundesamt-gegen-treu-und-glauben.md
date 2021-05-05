@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Das Bundesamt gegen Treu und Glauben'
 country:       CH
 categories:    [BAG]
-tags:          [corona transition, pcr-test]
+tags:          [pcr-test]
 ---

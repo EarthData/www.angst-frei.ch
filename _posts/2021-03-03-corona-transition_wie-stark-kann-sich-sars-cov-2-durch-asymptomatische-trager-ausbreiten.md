@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Wie stark kann sich SARS-CoV-2 durch asymptomatische Träger ausbreiten?'
 country:       CH
 categories:    [Wissenschaft]
-tags:          [corona transition, asymptomatisch]
+tags:          [asymptomatisch]
 ---

@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Anwälte bezichtigen die israelische Regierung der „Verbrechen gegen die Menschlichkeit“'
 country:       CH
 categories:    [Recht, Widerstand]
-tags:          [corona transition, israel]
+tags:          [israel]
 ---

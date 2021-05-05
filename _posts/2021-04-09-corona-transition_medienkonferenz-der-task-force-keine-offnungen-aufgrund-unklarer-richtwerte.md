@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Medienkonferenz der Task Force: Keine Öffnungen aufgrund unklarer Richtwerte'
 country:       CH
 categories:    [Politik]
-tags:          [corona transition, taskforce]
+tags:          [taskforce]
 ---

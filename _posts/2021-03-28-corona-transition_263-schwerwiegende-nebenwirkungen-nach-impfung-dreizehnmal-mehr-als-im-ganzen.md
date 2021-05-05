@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      '263 schwerwiegende Nebenwirkungen nach Impfung – dreizehnmal mehr als im ganzen Jahr 2019'
 country:       CH
 categories:    [Impfung]
-tags:          [corona transition, swissmedic, mit oder an impfung gestorben, impf-nebenwirkungen]
+tags:          [swissmedic, mit oder an impfung gestorben, impf-nebenwirkungen]
 ---

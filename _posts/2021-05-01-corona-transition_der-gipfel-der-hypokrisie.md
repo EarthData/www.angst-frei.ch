@@ -6,5 +6,5 @@ subtitle:      'Der Gipfel der Hypokrisie'
 country:       CH
 persons:       [Gates Bill]
 categories:    [Impfung]
-tags:          [corona transition, geld, astrazeneca]
+tags:          [geld, astrazeneca]
 ---

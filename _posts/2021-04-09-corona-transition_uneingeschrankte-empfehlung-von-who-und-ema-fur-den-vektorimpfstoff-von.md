@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Uneingeschränkte Empfehlung von WHO und EMA für den Vektorimpfstoff von AstraZeneca'
 country:       CH
 categories:    [Impfung]
-tags:          [corona transition, astrazeneca, who, ema]
+tags:          [astrazeneca, who, ema]
 ---

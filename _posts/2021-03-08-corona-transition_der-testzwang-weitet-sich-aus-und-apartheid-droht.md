@@ -6,5 +6,5 @@ subtitle:      'Der Testzwang weitet sich aus und Apartheid droht'
 country:       CH
 persons:       [Drosten Christian]
 categories:    [Politik, Recht]
-tags:          [corona transition, pcr-test, massnahmen]
+tags:          [pcr-test, massnahmen]
 ---

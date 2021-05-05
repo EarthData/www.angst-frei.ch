@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Wer sich kritisch zur Impfung äussert, wird jetzt auch von Behörden angegriffen'
 country:       CH
 categories:    [Impfung, Recht, Widerstand]
-tags:          [corona transition, willkür]
+tags:          [willkür]
 ---

@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Wissenschaftliche Daten zeigen, dass die Bewertung der aktuellen Neuinfektionszahlen falsch ist.'
 country:       CH
 categories:    [BAG]
-tags:          [corona transition, rki, pcr-test, infektion]
+tags:          [rki, pcr-test, infektion]
 ---

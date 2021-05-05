@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Berset gesteht ein, dass die Positivitätsrate kein zuverlässiger Indikator ist'
 country:       CH
 categories:    [Politik, Zahlen]
-tags:          [corona transition, bundesrat]
+tags:          [bundesrat]
 ---

@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Die Todesfälle nach Impfung sind in den USA seit Jahresbeginn um das Fünfzigfache gestiegen'
 country:       CH
 categories:    [Impfung]
-tags:          [corona transition, mit oder an impfung gestorben]
+tags:          [mit oder an impfung gestorben]
 ---

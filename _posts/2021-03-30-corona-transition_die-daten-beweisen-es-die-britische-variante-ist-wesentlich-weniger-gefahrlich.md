@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Die Daten beweisen es: Die britische Variante ist wesentlich weniger gefährlich'
 country:       CH
 categories:    [Zahlen]
-tags:          [corona transition, virus-mutation]
+tags:          [virus-mutation]
 ---

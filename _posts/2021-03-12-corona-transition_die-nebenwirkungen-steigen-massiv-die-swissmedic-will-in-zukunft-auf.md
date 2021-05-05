@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Die Nebenwirkungen steigen massiv – die Swissmedic will in Zukunft auf Sicherheitsprüfungen verzichten'
 country:       CH
 categories:    [Impfung]
-tags:          [corona transition, swissmedic, mit oder an impfung gestorben, impf-nebenwirkungen, manipulation]
+tags:          [swissmedic, mit oder an impfung gestorben, impf-nebenwirkungen, manipulation]
 ---

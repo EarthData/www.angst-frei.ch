@@ -4,7 +4,7 @@ redirect:      https://corona-transition.org/die-impfung-provoziert-keine-superi
 title:         Corona Transition
 subtitle:      'Die Impfung provoziert keine superinfektiösen Mutanten'
 country:       CH
-persons:       [Vanden Bossche Geert] 
+persons:       [Vanden Bossche Geert]
 categories:    [Impfung]
-tags:          [corona transition, virus-mutation]
+tags:          [virus-mutation]
 ---

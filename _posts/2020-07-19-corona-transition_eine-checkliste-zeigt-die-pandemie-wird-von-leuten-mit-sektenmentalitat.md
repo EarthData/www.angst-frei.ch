@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Eine Checkliste zeigt: Die Pandemie wird von Leuten mit Sektenmentalität verwaltet'
 country:       CH
 categories:    [P(l)andemie]
-tags:          [corona transition, zensur, manipulation]
+tags:          [zensur, manipulation]
 ---

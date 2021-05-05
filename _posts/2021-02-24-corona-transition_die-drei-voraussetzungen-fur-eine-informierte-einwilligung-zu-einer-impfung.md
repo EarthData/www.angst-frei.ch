@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Die drei Voraussetzungen für eine informierte Einwilligung zu einer Impfung'
 country:       CH
 categories:    [Recht, Impfung]
-tags:          [corona transition, impfzwang]
+tags:          [impfzwang]
 ---

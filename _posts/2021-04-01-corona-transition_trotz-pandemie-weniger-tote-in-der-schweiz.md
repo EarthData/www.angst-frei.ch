@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Trotz «Pandemie»: Weniger Tote in der Schweiz'
 country:       CH
 categories:    [Zahlen]
-tags:          [corona transition, sterblichkeit]
+tags:          [sterblichkeit]
 ---

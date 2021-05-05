@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Verfassungsbruch in Altdorf'
 country:       CH
 categories:    [Widerstand, Recht]
-tags:          [corona transition, altdorf]
+tags:          [altdorf]
 ---

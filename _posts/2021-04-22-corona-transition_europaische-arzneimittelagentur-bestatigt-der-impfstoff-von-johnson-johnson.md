@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Europäische Arzneimittelagentur bestätigt: Der Impfstoff von Johnson & Johnson verursacht Thrombosen'
 country:       CH
 categories:    [Impfung]
-tags:          [corona transition, impf-nebenwirkungen, johnson & johnson, ema]
+tags:          [impf-nebenwirkungen, johnson & johnson, ema]
 ---

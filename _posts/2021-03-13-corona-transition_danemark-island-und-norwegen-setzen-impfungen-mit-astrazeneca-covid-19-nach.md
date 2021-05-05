@@ -5,5 +5,5 @@ title:         Corona Transition
 subtitle:      'Dänemark, Island und Norwegen setzen Impfungen mit AstraZeneca Impfstoff nach Berichten über Blutgerinnsel aus'
 country:       CH
 categories:    [Impfung]
-tags:          [corona transition, astrazeneca, blutgerinnungsstörungen, impf-stopp]
+tags:          [astrazeneca, blutgerinnungsstörungen, impf-stopp]
 ---
