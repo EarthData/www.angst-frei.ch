@@ -6,5 +6,5 @@ subtitle:      'Brief von Prof. Bhakdi und Kollegen an die EMA - Verdacht Blutge
 country:       DE
 persons:       [Bhakdi Sucharit]
 categories:    [Medizin, Wissenschaft, Impfung, Widerstand]
-tags:          [corona-blog, ema, impf-nebenwirkungen, blutgerinnungsstörungen]
+tags:          [ema, impf-nebenwirkungen, blutgerinnungsstörungen]
 ---

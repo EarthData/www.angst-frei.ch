@@ -5,5 +5,5 @@ title:         corona-blog.net
 subtitle:      'Die Bundesregierung hält Daten zur Fehlerquote der PCR-Tests zurück - Gesetzeswidrig'
 country:       DE
 categories:    [Zahlen, Politik]
-tags:          [corona-blog, pcr-test, manipulation]
+tags:          [pcr-test, manipulation]
 ---

@@ -5,5 +5,5 @@ title:         corona-blog.net
 subtitle:      'Dramatischer Anstieg der Todesfälle unter Senioren seit Beginn der „Corona-Schutzimpfungen“'
 country:       DE
 categories:    [Zahlen, Impfung]
-tags:          [corona-blog, mit oder an impfung gestorben]
+tags:          [mit oder an impfung gestorben]
 ---

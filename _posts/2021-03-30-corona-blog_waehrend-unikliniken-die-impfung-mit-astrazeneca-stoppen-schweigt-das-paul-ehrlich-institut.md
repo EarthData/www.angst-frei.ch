@@ -5,5 +5,5 @@ title:         corona-blog.net
 subtitle:      'Während Unikliniken die Impfung mit AstraZeneca stoppen, schweigt das Paul-Ehrlich-Institut'
 country:       DE
 categories:    [Impfung]
-tags:          [corona-blog, impf-stopp, pei, impf-nebenwirkungen]
+tags:          [impf-stopp, pei, impf-nebenwirkungen]
 ---

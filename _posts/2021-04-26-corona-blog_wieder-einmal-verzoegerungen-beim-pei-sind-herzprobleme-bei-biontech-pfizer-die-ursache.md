@@ -5,5 +5,5 @@ title:         corona-blog.net
 subtitle:      'Wieder einmal Verzögerungen beim PEI - sind Herzprobleme bei BioNTech-Pfizer die Ursache?'
 country:       DE
 categories:    [Impfung]
-tags:          [corona-blog, impf-nebenwirkungen, biontech]
+tags:          [impf-nebenwirkungen, biontech]
 ---

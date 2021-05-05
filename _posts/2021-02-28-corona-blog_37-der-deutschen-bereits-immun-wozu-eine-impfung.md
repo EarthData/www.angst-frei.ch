@@ -5,5 +5,5 @@ title:         corona-blog.net
 subtitle:      '37% der Deutschen bereits immun - wozu eine Impfung?'
 country:       DE
 categories:    [Zahlen, Impfung]
-tags:          [corona-blog, immunität]
+tags:          [immunität]
 ---
