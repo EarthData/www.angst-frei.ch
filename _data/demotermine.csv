@@ -25,6 +25,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2605,CH,2021-05-06,20:00:00,8750,Glarus,Rathausplatz,Spaziergang,,unknown,
 2696,DE,2021-05-07,15:30:00,22941,Bargteheide,Am Markt / Schulzentrum,Mahnwache,,Freitag für Freiheit Freude  Frieden,
 2954,DE,2021-05-07,16:30:00,85716,Unterschleißheim,Furtweg 59 / am See,Autokorso,,Autokorso Unterschleißheim,https://t.me/AutoKorsoInfoUnterschleissheim
+2965,DE,2021-05-07,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,grundrechte.jetzt,www.grundrechte.jetzt
 2910,DE,2021-05-07,18:00:00,91126,Schwabach,Martin-Luther-Platz,Kundgebung,,Bündnis für Meinungsfreiheit,
 2635,CH,2021-05-07,18:00:00,3186,Düdingen,Bahnhof,Spaziergang,,unknown,
 2945,DE,2021-05-07,18:00:00,12619,Berlin,Hellersdorfer Str.159 / Parkplatz,Autokorso,,Autokorso Berlin,
@@ -52,6 +53,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2925,DE,2021-05-08,15:00:00,51065,Köln,Wiener Platz,Demonstration,,Koeln ist aktiv,https://koelnistaktiv.de
 2430,DE,2021-05-08,15:00:00,95183,Hof,Kugelbrunnen,Kundgebung,,Hof Steht Auf,
 2444,DE,2021-05-08,15:00:00,95032,Hof,Kugelbrunnen,Kundgebung,,Hof steht auf,
+2963,DE,2021-05-08,15:00:00,91522,Ansbach,Inselwiese,Autokorso,,unbekannt,
+2964,DE,2021-05-08,15:30:00,295252,Uelzen,Herzogenplatz,Kundgebung,,unbekannt,
 2955,DE,2021-05-08,17:00:00,80333,München,Königsplatz,Kundgebung,,Eltern stehen auf e.V. Mutigmacher. Demokratischer Widerstand u.a.,www.agedexperts.de
 2920,DE,2021-05-09,10:45:00,75015,Bretten,Marktplatz,Meditation,,unbekannt,
 2804,DE,2021-05-09,11:30:00,39114,Magdeburg,Tessenowstr. / Parkplatz,Autokorso,,Magdeburger Autokorso,https://t.me/Korso_MD_Doku
@@ -87,6 +90,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2612,CH,2021-05-13,19:00:00,9000,St. Gallen,Blumenmarkt,Spaziergang,,unknown,
 2618,CH,2021-05-13,19:00:00,6170,Schüpfheim,Bahnhof,Spaziergang,,unknown,
 2606,CH,2021-05-13,20:00:00,8750,Glarus,Rathausplatz,Spaziergang,,unknown,
+2966,DE,2021-05-14,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,grundrechte.jetzt,www.grundrechte.jetzt
 2636,CH,2021-05-14,18:00:00,3186,Düdingen,Bahnhof,Spaziergang,,unknown,
 2624,CH,2021-05-14,19:00:00,7320,Sargans,Bahnhof,Spaziergang,,unknown,
 2916,DE,2021-05-14,19:00:00,26506,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,,unbekannt,
@@ -113,6 +117,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2613,CH,2021-05-20,19:00:00,9000,St. Gallen,Blumenmarkt,Spaziergang,,unknown,
 2619,CH,2021-05-20,19:00:00,6170,Schüpfheim,Bahnhof,Spaziergang,,unknown,
 2607,CH,2021-05-20,20:00:00,8750,Glarus,Rathausplatz,Spaziergang,,unknown,
+2967,DE,2021-05-21,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,grundrechte.jetzt,www.grundrechte.jetzt
 2637,CH,2021-05-21,18:00:00,3186,Düdingen,Bahnhof,Spaziergang,,unknown,
 2625,CH,2021-05-21,19:00:00,7320,Sargans,Bahnhof,Spaziergang,,unknown,
 2917,DE,2021-05-21,19:00:00,26506,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,,unbekannt,
@@ -134,6 +139,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2614,CH,2021-05-27,19:00:00,9000,St. Gallen,Blumenmarkt,Spaziergang,,unknown,
 2620,CH,2021-05-27,19:00:00,6170,Schüpfheim,Bahnhof,Spaziergang,,unknown,
 2608,CH,2021-05-27,20:00:00,8750,Glarus,Rathausplatz,Spaziergang,,unknown,
+2968,DE,2021-05-28,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,grundrechte.jetzt,www.grundrechte.jetzt
 2638,CH,2021-05-28,18:00:00,3186,Düdingen,Bahnhof,Spaziergang,,unknown,
 2626,CH,2021-05-28,19:00:00,7320,Sargans,Bahnhof,Spaziergang,,unknown,
 2918,DE,2021-05-28,19:00:00,26506,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,,unbekannt,
