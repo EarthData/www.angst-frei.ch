@@ -5,5 +5,5 @@ title:         medinside.ch
 subtitle:      'RT-PCR-Tests: Was taugt der Schwellenwert?'
 country:       CH
 categories:    [Medizin]
-tags:          [pcr-test, medinside]
+tags:          [pcr-test]
 ---

@@ -5,5 +5,5 @@ title:         medinside.ch
 subtitle:      'Wann ersetzt der Bundesrat seine umstrittene Task-Force?'
 country:       CH
 categories:    [Politik]
-tags:          [medinside, bundesrat, taskforce]
+tags:          [bundesrat, taskforce]
 ---

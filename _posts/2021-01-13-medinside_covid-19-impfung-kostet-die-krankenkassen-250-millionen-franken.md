@@ -5,5 +5,5 @@ title:         medinside.ch
 subtitle:      'Impfungen kosten die Krankenkassen 201 Millionen'
 country:       CH
 categories:    [Impfung, Wirtschaft]
-tags:          [medinside, geld]
+tags:          [geld]
 ---

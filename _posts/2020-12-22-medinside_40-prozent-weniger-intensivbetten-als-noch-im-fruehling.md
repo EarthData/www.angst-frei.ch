@@ -5,5 +5,5 @@ title:         medinside.ch
 subtitle:      '40 Prozent weniger Intensivbetten als noch im Frühling'
 country:       CH
 categories:    [Spital, Zahlen]
-tags:          [medinside]
+tags:          []
 ---

@@ -5,5 +5,5 @@ title:         medinside.ch
 subtitle:      'Schweizer Chefärztin auf Abwegen'
 country:       CH
 categories:    [Medizin]
-tags:          [pcr-test, massnahmen, medinside]
+tags:          [pcr-test, massnahmen]
 ---

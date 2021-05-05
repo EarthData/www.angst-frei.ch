@@ -5,5 +5,5 @@ title:         medinside.ch
 subtitle:      'So viel kosten uns die Corona-Tests'
 country:       CH
 categories:    [Wirtschaft]
-tags:          [pcr-test, geld, medinside]
+tags:          [pcr-test, geld]
 ---

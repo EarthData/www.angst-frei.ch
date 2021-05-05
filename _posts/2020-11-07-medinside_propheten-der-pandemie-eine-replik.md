@@ -6,5 +6,5 @@ subtitle:      '«Propheten der Pandemie» – eine Replik'
 country:       CH
 persons:       [Vernazza Pietro]
 categories:    [Medizin]
-tags:          [medinside, massnahmen]
+tags:          [massnahmen]
 ---

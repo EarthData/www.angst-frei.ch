@@ -5,5 +5,5 @@ title:         medinside.ch
 subtitle:      'Astra Zeneca: Immer mehr Länder verhängen Impfstopp'
 country:       CH
 categories:    [Impfung]
-tags:          [medinside, impf-stopp, astrazeneca, blutgerinnungsstörungen]
+tags:          [impf-stopp, astrazeneca, blutgerinnungsstörungen]
 ---

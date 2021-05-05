@@ -5,5 +5,5 @@ title:         medinside.ch
 subtitle:      'Der geistige Lockdown der COVID-19-Taskforce'
 country:       CH
 categories:    [Politik, Widerstand]
-tags:          [massnahmen, medinside, bundesrat, taskforce]
+tags:          [massnahmen, bundesrat, taskforce]
 ---

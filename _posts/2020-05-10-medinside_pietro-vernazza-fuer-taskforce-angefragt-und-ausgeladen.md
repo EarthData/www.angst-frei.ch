@@ -6,5 +6,5 @@ subtitle:      'Covid-Taskforce: Pietro Vernazza wurde wieder ausgeladen'
 country:       CH
 persons:       [Vernazza Pietro]
 categories:    [Wissenschaft, Politik]
-tags:          [medinside, taskforce]
+tags:          [taskforce]
 ---

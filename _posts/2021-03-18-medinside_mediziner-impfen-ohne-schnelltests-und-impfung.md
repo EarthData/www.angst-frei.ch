@@ -5,5 +5,5 @@ title:         medinside.ch
 subtitle:      'Kränkelnde Ärzte impfen ohne Schnelltests und Impfung'
 country:       CH
 categories:    [Impfung, Spital]
-tags:          [medinside]
+tags:          []
 ---

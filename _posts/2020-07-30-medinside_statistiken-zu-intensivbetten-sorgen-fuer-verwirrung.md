@@ -5,5 +5,5 @@ title:         medinside.ch
 subtitle:      'Statistiken zu Intensivbetten sorgen für Verwirrung'
 country:       CH
 categories:    [Spital, Zahlen]
-tags:          [medinside]
+tags:          []
 ---

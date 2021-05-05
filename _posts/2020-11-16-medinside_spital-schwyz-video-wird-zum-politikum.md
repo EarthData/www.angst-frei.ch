@@ -5,5 +5,5 @@ title:         medinside.ch
 subtitle:      'Spital-Schwyz-Video wird zum Politikum'
 country:       CH
 categories:    [Spital, Politik]
-tags:          [medinside]
+tags:          []
 ---

@@ -5,5 +5,5 @@ title:         medinside.ch
 subtitle:      'Ab August gibt es nur noch Massnahmen für Ungeimpfte'
 country:       CH
 categories:    [Impfung, Politik]
-tags:          [medinside, bundesrat, impfzwang]
+tags:          [bundesrat, impfzwang]
 ---

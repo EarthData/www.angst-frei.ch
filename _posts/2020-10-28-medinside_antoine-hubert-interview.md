@@ -5,5 +5,5 @@ title:         medinside.ch
 subtitle:      'Antoine Hubert: «Wir hätten die Patienten von den Hausärzten behandeln lassen sollen»'
 country:       CH
 categories:    [Wissenschaft]
-tags:          [massnahmen, medinside]
+tags:          [massnahmen]
 ---
