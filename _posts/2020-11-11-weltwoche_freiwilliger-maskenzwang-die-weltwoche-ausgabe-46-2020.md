@@ -5,5 +5,5 @@ title:         Weltwoche
 subtitle:      'Freiwilliger Maskenzwang'
 country:       CH
 categories:    [Recht]
-tags:          [weltwoche, maske]
+tags:          [maske]
 ---

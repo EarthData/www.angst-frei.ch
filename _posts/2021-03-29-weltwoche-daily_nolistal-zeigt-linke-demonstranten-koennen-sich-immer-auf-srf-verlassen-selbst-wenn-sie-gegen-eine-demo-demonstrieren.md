@@ -5,5 +5,5 @@ title:         Weltwoche daily
 subtitle:      '#NoLiestal zeigt: Linke Demonstranten können sich immer auf SRF verlassen – selbst wenn sie gegen eine Demo demonstrieren'
 country:       CH
 categories:    [Widerstand]
-tags:          [weltwoche daily, willkür, manipulation]
+tags:          [willkür, manipulation]
 ---

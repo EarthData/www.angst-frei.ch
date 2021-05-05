@@ -5,5 +5,5 @@ title:         Weltwoche daily
 subtitle:      'Alain Berset lobt das italienische Spital-System – hat er sich einmal in italienischen Krankenhäusern umgesehen?'
 country:       CH
 categories:    [Spital, Politik]
-tags:          [weltwoche daily, bundesrat]
+tags:          [bundesrat]
 ---

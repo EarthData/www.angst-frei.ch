@@ -5,5 +5,5 @@ title:         Weltwoche daily
 subtitle:      'Kann der Bundesrat den Protest von 300000 Personen ignorieren? Die Corona-Task-Force findet ja – und will die Massnahmen verschärfen'
 country:       CH
 categories:    [Politik, Widerstand]
-tags:          [weltwoche daily, bundesrat, taskforce, massnahmen]
+tags:          [bundesrat, taskforce, massnahmen]
 ---

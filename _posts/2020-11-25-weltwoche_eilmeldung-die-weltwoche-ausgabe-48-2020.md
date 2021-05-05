@@ -5,5 +5,5 @@ title:         Weltwoche
 subtitle:      'Reiter der Apokalypse'
 country:       CH
 categories:    [MSM, Zahlen]
-tags:          [weltwoche, manipulation]
+tags:          [manipulation]
 ---

@@ -5,5 +5,5 @@ title:         Weltwoche daily
 subtitle:      'Beim Tell-Denkmal die Verfassung hochleben lassen: Mit dem Verbot der Demo in Altdorf hat die Urner Regierung ein Eigentor geschossen'
 country:       CH
 categories:    [Widerstand, Politik]
-tags:          [weltwoche daily, altdorf]
+tags:          [altdorf]
 ---

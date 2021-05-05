@@ -5,5 +5,5 @@ title:         Weltwoche daily
 subtitle:      'Falscher Fetisch Fallzahlen – nun verliert sogar Lukas Engelberger den Glauben an die Lockdown-Politik'
 country:       CH
 categories:    [Zahlen]
-tags:          [weltwoche daily, manipulation]
+tags:          [manipulation]
 ---

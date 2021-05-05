@@ -5,5 +5,5 @@ title:         Weltwoche daily
 subtitle:      'Massentests sind nutzlos im Kampf gegen das Coronavirus. Wir sollten den Fokus auf die Sterblichkeit richten'
 country:       CH
 categories:    [Zahlen]
-tags:          [weltwoche daily, massentest, sterblichkeit]
+tags:          [massentest, sterblichkeit]
 ---

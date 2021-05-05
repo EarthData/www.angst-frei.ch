@@ -5,5 +5,5 @@ title:         Weltwoche daily
 subtitle:      'Seit Anfang Februar sterben in der Schweiz so wenig Menschen wie schon lange nicht mehr. Warum berichten die Medien nicht?'
 country:       CH
 categories:    [Zahlen]
-tags:          [weltwoche daily, sterblichkeit]
+tags:          [sterblichkeit]
 ---

@@ -5,5 +5,5 @@ title:         Weltwoche daily
 subtitle:      'Gesundheitsdirektor Lukas Engelberger tut es wieder: Trotz Lockdown veranstaltet er ein regierungsrätliches Gelage mit 13 Personen'
 country:       CH
 categories:    [Politik]
-tags:          [weltwoche daily, lockdown, willkür]
+tags:          [lockdown, willkür]
 ---

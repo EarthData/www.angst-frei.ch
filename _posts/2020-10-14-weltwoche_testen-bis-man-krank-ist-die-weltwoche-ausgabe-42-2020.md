@@ -5,5 +5,5 @@ title:         Weltwoche
 subtitle:      'Testen, bis man krank ist'
 country:       CH
 categories:    [Zahlen]
-tags:          [weltwoche, pcr-test]
+tags:          [pcr-test]
 ---

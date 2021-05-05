@@ -5,5 +5,5 @@ title:         Weltwoche
 subtitle:      'Hurra, wir leben noch'
 country:       CH
 categories:    [Mensch, Politik]
-tags:          [weltwoche]
+tags:          []
 ---

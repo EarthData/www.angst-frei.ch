@@ -5,5 +5,5 @@ title:         Weltwoche daily
 subtitle:      'Skandal! Um nicht in den Unterricht gehen zu müssen, haben in Basel Mittelschüler mit Corona-Tests geschummelt. Ist das nicht genau das, was der Bund auch macht?'
 country:       CH
 categories:    [Politik, Mensch]
-tags:          [weltwoche daily, massentest]
+tags:          [massentest]
 ---

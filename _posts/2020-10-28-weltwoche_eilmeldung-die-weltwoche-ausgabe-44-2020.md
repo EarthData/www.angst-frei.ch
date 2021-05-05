@@ -5,5 +5,5 @@ title:         Weltwoche
 subtitle:      'Professor Eggers Panikorchester'
 country:       CH
 categories:    [BAG]
-tags:          [weltwoche, taskforce, massnahmen]
+tags:          [taskforce, massnahmen]
 ---
