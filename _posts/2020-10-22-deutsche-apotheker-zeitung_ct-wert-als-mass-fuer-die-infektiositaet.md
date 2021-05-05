@@ -6,5 +6,5 @@ timeline:      Medizin
 subtitle:      "Ct-Wert als Maß für die Infektiosität"
 country:       DE
 categories:    [Medizin]
-tags:          [daz, pcr-test]
+tags:          [pcr-test]
 ---

@@ -5,5 +5,5 @@ title:         InsideCorona
 subtitle:      'Endlich werden die richtigen Fragen gestellt!'
 country:       CH
 categories:    [Widerstand]
-tags:          [inside corona, massnahmen]
+tags:          [massnahmen]
 ---

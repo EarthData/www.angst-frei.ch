@@ -6,5 +6,5 @@ subtitle:      'Neurobiologe Hüther über Lockdown-Folgen - "Schule ist der Ort
 country:       DE
 persons:       [Hüther Gerald]
 categories:    [Mensch]
-tags:          [deutschlandfunk, kind, kollateralschäden]
+tags:          [kind, kollateralschäden]
 ---

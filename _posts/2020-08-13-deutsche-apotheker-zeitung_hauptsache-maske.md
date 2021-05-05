@@ -5,5 +5,5 @@ title:         Deutsche Apotheker Zeitung
 subtitle:      'Hauptsache Maske!?'
 country:       DE
 categories:    [Wissenschaft]
-tags:          [daz, maske]
+tags:          [maske]
 ---

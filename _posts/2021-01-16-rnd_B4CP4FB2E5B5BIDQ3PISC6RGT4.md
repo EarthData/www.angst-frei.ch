@@ -5,5 +5,5 @@ title:         RND
 subtitle:      'Traurige Botschaft einer Heimleiterin: „Viele sterben nicht an Corona, sondern an der Isolation“'
 country:       DE
 categories:    [MSM, Mensch]
-tags:          [rnd, massnahmen, kollateralschäden]
+tags:          [massnahmen, kollateralschäden]
 ---

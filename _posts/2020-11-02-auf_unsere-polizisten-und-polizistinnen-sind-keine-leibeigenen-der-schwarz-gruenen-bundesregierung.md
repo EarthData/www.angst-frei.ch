@@ -5,5 +5,5 @@ title:         AUF
 subtitle:      'Unsere Polizisten und Polizistinnen sind keine Leibeigenen der schwarz-grünen Bundesregierung'
 country:       AT
 categories:    [Politik, Widerstand]
-tags:          [auf, polizei]
+tags:          [polizei]
 ---

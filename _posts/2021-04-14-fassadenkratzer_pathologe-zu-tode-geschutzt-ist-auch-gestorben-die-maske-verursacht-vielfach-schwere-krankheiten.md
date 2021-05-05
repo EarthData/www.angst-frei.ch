@@ -4,6 +4,6 @@ redirect:      https://fassadenkratzer.wordpress.com/2021/04/14/pathologe-zu-tod
 title:         FASSADENKRATZER
 subtitle:      'Pathologe: „Zu Tode geschützt ist auch gestorben“ – Die Maske verursacht vielfach schwere Krankheiten'
 country:       DE
-categories:    [Medizin]
-tags:          [fassadenkratzer, maske]
+categories:    [Medizin, Gesundheit]
+tags:          [maske]
 ---

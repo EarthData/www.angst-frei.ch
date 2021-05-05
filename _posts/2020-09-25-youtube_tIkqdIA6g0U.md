@@ -5,7 +5,7 @@ subtitle:      "Exklusiv-Interview Teil 2: Klage gegen Christian Drosten. Antwor
 date:          2020-09-25
 persons:       [Drosten Christian, Füllmich Reiner]
 categories:    [Video, Recht]
-tags:          [langemann medien, geld, youtube]
+tags:          [geld, youtube]
 youtubeId:     "tIkqdIA6g0U"
 ---
 

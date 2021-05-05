@@ -5,5 +5,5 @@ title:         Deutsche Gesellschaft für Kinder- und Jugendmedizin e.V.
 subtitle:      'Presseinfo zum Infektionsgeschehen bei Kindern'
 country:       DE
 categories:    [Zahlen]
-tags:          [dgkj, infektion, kind]
+tags:          [infektion, kind]
 ---

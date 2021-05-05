@@ -5,5 +5,5 @@ title:         RND
 subtitle:      'Schüler in Baden-Württemberg erkrankt nach Biontech-Impfung an Herzmuskelentzündung'
 country:       DE
 categories:    [MSM, Impfung]
-tags:          [rnd, impf-nebenwirkungen, biontech, herzmuskelentzündung]
+tags:          [impf-nebenwirkungen, biontech, herzmuskelentzündung]
 ---

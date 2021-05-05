@@ -5,5 +5,5 @@ title:         Deutsche Gesellschaft für Pädiatrische Infektiologie
 subtitle:      'Stellungnahme von DGPI und DGKH zu Hospitalisierung und Sterblichkeit von COVID-19 bei Kindern in Deutschland (Stand 21.04.2021)'
 country:       DE
 categories:    [Medizin, Spital, Zahlen]
-tags:          [dgpi, kind, sterblichkeit]
+tags:          [kind, sterblichkeit]
 ---

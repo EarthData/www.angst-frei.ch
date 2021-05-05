@@ -5,5 +5,5 @@ title:         Report24
 subtitle:      'Drei weitere tote Kinder und Jugendliche nach Covid-Impfung'
 country:       AT
 categories:    [Impfung]
-tags:          [report24, mit oder an impfung gestorben, kind, jugend]
+tags:          [mit oder an impfung gestorben, kind, jugend]
 ---

@@ -5,5 +5,5 @@ title:         FASSADENKRATZER
 subtitle:      'Schwerste Verletzungen der Menschenrechte für Kinder – Offener Brief an den UN-Sonderberichterstatter für Folter'
 country:       DE
 categories:    [Recht, Widerstand]
-tags:          [fassadenkratzer, who, menschenrechte]
+tags:          [who, kind, menschenrechte]
 ---

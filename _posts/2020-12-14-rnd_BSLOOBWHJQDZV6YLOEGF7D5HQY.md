@@ -5,5 +5,5 @@ title:         RND
 subtitle:      'Fresenius-Chef Sturm: Einseitiger Blick auf Intensivbetten ist falsch – stehen nicht vor Kollaps'
 country:       DE
 categories:    [MSM, Spital, Zahlen]
-tags:          [rnd]
+tags:          [manipulation]
 ---

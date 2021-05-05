@@ -5,5 +5,5 @@ title:         Report24
 subtitle:      'Schock: Schon mehrere tote Kinder nach Impfungen. Wie ist das möglich?'
 country:       AT
 categories:    [Impfung]
-tags:          [report24, kind, mit oder an impfung gestorben, impf-nebenwirkungen]
+tags:          [kind, mit oder an impfung gestorben, impf-nebenwirkungen]
 ---

@@ -5,5 +5,5 @@ title:         Report24
 subtitle:      'Israel: Angeblich erkranken nun mehr Geimpfte an Covid als Ungeimpfte'
 country:       AT
 categories:    [Impfung]
-tags:          [report24, immunität, israel]
+tags:          [immunität, israel]
 ---

@@ -6,5 +6,5 @@ subtitle:      'Vorschläge für eine geglückte Kommunikation'
 country:       COM
 persons:       [Matuschek Milosz]
 categories:    [MSM]
-tags:          [substack, debatte, manipulation]
+tags:          [substack, dialog, manipulation]
 ---

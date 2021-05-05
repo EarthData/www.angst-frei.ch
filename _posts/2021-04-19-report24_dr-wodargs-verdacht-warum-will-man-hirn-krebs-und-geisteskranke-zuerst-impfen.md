@@ -6,5 +6,5 @@ subtitle:      'Dr. Wodargs Verdacht: Warum impft man Behinderte, Krebs- und Gei
 country:       AT
 persons:       [Wodarg Wolfgang]
 categories:    [Impfung]
-tags:          [report24, geld]
+tags:          [geld]
 ---

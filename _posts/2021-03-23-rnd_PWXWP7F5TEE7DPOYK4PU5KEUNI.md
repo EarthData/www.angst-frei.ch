@@ -5,5 +5,5 @@ title:         RND
 subtitle:      'Zurück ins öffentliche Leben: Dänemark einigt sich auf Abkehr von Corona-Maßnahmen'
 country:       DE
 categories:    [Politik]
-tags:          [rnd, massnahmen]
+tags:          [massnahmen]
 ---

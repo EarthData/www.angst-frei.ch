@@ -5,5 +5,5 @@ title:         Deutsche Apotheker Zeitung
 subtitle:      '„Pharmaindustrie schlimmer als die Mafia“'
 country:       DE
 categories:    [Wissenschaft, Impfung]
-tags:          [daz, geld]
+tags:          [geld]
 ---

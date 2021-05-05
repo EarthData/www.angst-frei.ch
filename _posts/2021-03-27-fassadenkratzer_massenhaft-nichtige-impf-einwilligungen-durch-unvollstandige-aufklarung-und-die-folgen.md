@@ -5,5 +5,5 @@ title:         FASSADENKRATZER
 subtitle:      'Massenhaft nichtige Impf-Einwilligungen durch unvollständige Aufklärung – und die Folgen'
 country:       DE
 categories:    [Impfung, Recht]
-tags:          [fassadenkratzer]
+tags:          [manipulation]
 ---
