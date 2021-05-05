@@ -5,5 +5,5 @@ title:         Achgut.com
 subtitle:      'Weimarer Corona-Urteil – Stufe 2 der Rakete gezündet'
 country:       DE
 categories:    [Recht]
-tags:          [achgut, weimar]
+tags:          [weimar]
 ---

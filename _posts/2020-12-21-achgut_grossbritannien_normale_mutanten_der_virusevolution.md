@@ -5,5 +5,5 @@ title:         Achgut.com
 subtitle:      'Großbritannien: Normale Mutanten der Virusevolution'
 country:       DE
 categories:    [Wissenschaft]
-tags:          [achgut, virus-mutation]
+tags:          [virus-mutation]
 ---

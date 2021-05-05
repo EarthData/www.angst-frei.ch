@@ -5,5 +5,5 @@ title:         Achgut.com
 subtitle:      'Corona-Stellungnahme: Der Lieferservice der Leopoldina'
 country:       DE
 categories:    [Wissenschaft]
-tags:          [achgut, massnahmen, leopoldina, manipulation]
+tags:          [massnahmen, leopoldina, manipulation]
 ---

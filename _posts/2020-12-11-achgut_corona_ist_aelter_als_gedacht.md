@@ -5,5 +5,5 @@ title:         Achgut.com
 subtitle:      'Corona ist älter als gedacht'
 country:       DE
 categories:    [Medizin]
-tags:          [achgut, virus-ursprung]
+tags:          [virus-ursprung]
 ---

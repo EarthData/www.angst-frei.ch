@@ -5,5 +5,5 @@ title:         Achgut.com
 subtitle:      'Epidemische Lage von maximaler Schlagseite'
 country:       DE
 categories:    [Recht]
-tags:          [achgut, weimar]
+tags:          [weimar]
 ---

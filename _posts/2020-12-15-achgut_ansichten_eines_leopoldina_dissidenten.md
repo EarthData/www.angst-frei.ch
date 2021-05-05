@@ -5,5 +5,5 @@ title:         Achgut.com
 subtitle:      'Ansichten eines Leopoldina-Dissidenten'
 country:       DE
 categories:    [Wissenschaft]
-tags:          [achgut, leopoldina, demokratie]
+tags:          [leopoldina, demokratie]
 ---

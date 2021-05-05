@@ -5,5 +5,5 @@ title:         Achgut.com
 subtitle:      'Testen, bis der Arzt kommt?'
 country:       DE
 categories:    [Medizin]
-tags:          [achgut, massentest]
+tags:          [massentest]
 ---

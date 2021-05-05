@@ -5,5 +5,5 @@ title:         Achgut.com
 subtitle:      'Corona-Politik: Grundlegende PCR-Test-Studie auf Treibsand gebaut?'
 country:       DE
 categories:    [Studie]
-tags:          [achgut, pcr-test]
+tags:          [pcr-test]
 ---

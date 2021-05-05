@@ -5,5 +5,5 @@ title:         Achgut.com
 subtitle:      'Faktenchecker, die Fortsetzung: Hat das ZDF Zitate gefälscht?'
 country:       DE
 categories:    [MSM]
-tags:          [achgut, ard, zdf, manipulation]
+tags:          [ard, zdf, manipulation]
 ---

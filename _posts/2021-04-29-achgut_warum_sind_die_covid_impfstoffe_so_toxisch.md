@@ -5,5 +5,5 @@ title:         Achgut.com
 subtitle:      'Warum sind die COVID-Impfstoffe so toxisch?'
 country:       DE
 categories:    [Impfung, Zahlen]
-tags:          [achgut, impf-nebenwirkungen, mit oder an impfung gestorben]
+tags:          [impf-nebenwirkungen, mit oder an impfung gestorben]
 ---

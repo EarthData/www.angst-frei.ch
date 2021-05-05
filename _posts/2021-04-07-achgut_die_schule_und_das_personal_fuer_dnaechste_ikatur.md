@@ -5,5 +5,5 @@ title:         Achgut.com
 subtitle:      'Die Schule und das Personal für die nächste Diktatur'
 country:       DE
 categories:    [Schulen, Mensch]
-tags:          [achgut, willkür]
+tags:          [willkür]
 ---

@@ -5,5 +5,5 @@ title:         Achgut.com
 subtitle:      'Die Maskenpflicht wird immer zweifelhafter'
 country:       DE
 categories:    [Studie]
-tags:          [achgut, maske]
+tags:          [maske]
 ---

@@ -5,5 +5,5 @@ title:         Achgut.com
 subtitle:      'Corona-Langzeitfolgen – wie sieht es wirklich aus?'
 country:       DE
 categories:    [Wissenschaft]
-tags:          [achgut, long covid]
+tags:          [long covid]
 ---

@@ -5,5 +5,5 @@ title:         Achgut.com
 subtitle:      'Impfen gegen Mutanten?'
 country:       DE
 categories:    [Wissenschaft, Impfung]
-tags:          [achgut, virus-mutation]
+tags:          [virus-mutation]
 ---

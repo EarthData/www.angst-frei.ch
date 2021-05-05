@@ -5,5 +5,5 @@ title:         Achgut.com
 subtitle:      'Impfen gegen Corona: Macht das RKI sich ehrlich?'
 country:       DE
 categories:    [Impfung]
-tags:          [achgut, rki, virus-mutation]
+tags:          [rki, virus-mutation]
 ---

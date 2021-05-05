@@ -5,5 +5,5 @@ title:         Achgut.com
 subtitle:      'Die Angst der Herdentiere'
 country:       DE
 categories:    [Politik]
-tags:          [achgut, manipulation]
+tags:          [manipulation]
 ---

@@ -5,5 +5,5 @@ title:         Achgut.com
 subtitle:      'Keine Pandemie, sondern eine Endemie'
 country:       DE
 categories:    [Zahlen, Medizin]
-tags:          [achgut, virus-mutation]
+tags:          [virus-mutation]
 ---

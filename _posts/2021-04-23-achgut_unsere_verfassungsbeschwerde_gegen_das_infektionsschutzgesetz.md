@@ -5,5 +5,5 @@ title:         Achgut.com
 subtitle:      'Unsere Verfassungs–Beschwerde gegen das Infektionsschutz–Gesetz'
 country:       DE
 categories:    [Recht, Widerstand]
-tags:          [achgut, grundrechte]
+tags:          [grundrechte]
 ---

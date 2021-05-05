@@ -5,5 +5,5 @@ title:         Achgut.com
 subtitle:      'Das Corona-Papier: ETH-Zürich kommt zu ähnlichen Ergebnissen'
 country:       DE
 categories:    [Studie, Wissenschaft]
-tags:          [achgut, bundesrat, lockdown, massnahmen]
+tags:          [bundesrat, lockdown, massnahmen]
 ---

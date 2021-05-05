@@ -5,5 +5,5 @@ title:         Achgut.com
 subtitle:      'Die Liga der geweihten Lockdown-Liebhaber'
 country:       DE
 categories:    [Politik]
-tags:          [achgut, demokratie, massnahmen]
+tags:          [demokratie, massnahmen]
 ---

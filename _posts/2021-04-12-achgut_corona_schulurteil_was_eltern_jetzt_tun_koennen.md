@@ -5,5 +5,5 @@ title:         Achgut.com
 subtitle:      'Corona-Schulurteil: Was Eltern jetzt tun können'
 country:       DE
 categories:    [Schulen, Recht, Widerstand]
-tags:          [achgut, kind, maske, massentest]
+tags:          [kind, maske, massentest]
 ---

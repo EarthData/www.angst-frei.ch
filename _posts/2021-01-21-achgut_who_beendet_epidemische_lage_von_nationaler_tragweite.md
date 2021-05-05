@@ -5,5 +5,5 @@ title:         Achgut.com
 subtitle:      'WHO beendet Epidemische Lage von Nationaler Tragweite'
 country:       DE
 categories:    [Recht]
-tags:          [achgut, who]
+tags:          [who]
 ---

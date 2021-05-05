@@ -6,5 +6,5 @@ subtitle:      'Professor Drosten in der PCR-Test-Zwickmühle'
 country:       DE
 persons:       [Drosten Christian]
 categories:    [Recht]
-tags:          [achgut, pcr-test]
+tags:          [pcr-test]
 ---

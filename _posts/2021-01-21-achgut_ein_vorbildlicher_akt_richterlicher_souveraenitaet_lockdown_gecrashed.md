@@ -5,5 +5,5 @@ title:         Achgut.com
 subtitle:      'Vorbildlicher Akt richterlicher Souveränität: Lockdown gecrashed'
 country:       DE
 categories:    [Recht]
-tags:          [achgut, lockdown]
+tags:          [lockdown]
 ---

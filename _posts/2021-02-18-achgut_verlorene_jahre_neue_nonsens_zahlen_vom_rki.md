@@ -5,5 +5,5 @@ title:         Achgut.com
 subtitle:      'Verlorene Jahre: Neue Nonsens-Zahlen vom RKI'
 country:       DE
 categories:    [Zahlen]
-tags:          [achgut, angst, rki, sterblichkeit, manipulation]
+tags:          [angst, rki, sterblichkeit, manipulation]
 ---

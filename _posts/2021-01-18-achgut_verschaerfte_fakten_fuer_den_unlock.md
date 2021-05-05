@@ -5,5 +5,5 @@ title:         Achgut.com
 subtitle:      'Verschärfte Fakten für den Unlock'
 country:       DE
 categories:    [Zahlen]
-tags:          [achgut, lockdown, sterblichkeit]
+tags:          [lockdown, sterblichkeit]
 ---

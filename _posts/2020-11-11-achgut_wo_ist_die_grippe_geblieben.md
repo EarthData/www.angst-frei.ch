@@ -5,5 +5,5 @@ title:         Achgut.com
 subtitle:      'Wo ist die Grippe geblieben?'
 country:       DE
 categories:    [Zahlen]
-tags:          [achgut, who, sterblichkeit]
+tags:          [who, sterblichkeit]
 ---
