@@ -6,7 +6,7 @@ date:       2020-12-24
 timeline:   [P(l)andemie]
 persons:    [Gates Bill]
 categories: [Video, P(l)andemie]
-tags:       [wir, wef, youtube]
+tags:       [wef, youtube]
 youtubeId:  "SSnJhHOU_28"
 ---
 

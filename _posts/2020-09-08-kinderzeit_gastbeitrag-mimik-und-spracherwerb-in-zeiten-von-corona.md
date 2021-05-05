@@ -5,5 +5,5 @@ title:         kinderzeit
 subtitle:      'Gastbeitrag: Mimik und Spracherwerb in Zeiten von Corona'
 country:       DE
 categories:    [Mensch]
-tags:          [kinderzeit, kind, maske]
+tags:          [kind, maske]
 ---
