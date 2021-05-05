@@ -5,5 +5,5 @@ title:         Tichys Einblick
 subtitle:      'Berliner Richter: Coronakrise ist "die größte Krise für das Grundgesetz"'
 country:       DE
 categories:    [Recht]
-tags:          [tichyseinblick, demokratie]
+tags:          [demokratie]
 ---

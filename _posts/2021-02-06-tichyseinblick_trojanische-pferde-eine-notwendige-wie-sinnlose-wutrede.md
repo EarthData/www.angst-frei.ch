@@ -5,5 +5,5 @@ title:         Tichys Einblick
 subtitle:      'Trojanische Pferde. Eine notwendige wie sinnlose Wutrede.'
 country:       DE
 categories:    [Politik]
-tags:          [tichyseinblick, demokratie, manipulation]
+tags:          [demokratie, manipulation]
 ---

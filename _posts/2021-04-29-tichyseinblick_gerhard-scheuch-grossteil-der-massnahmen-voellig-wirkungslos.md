@@ -5,5 +5,5 @@ title:         Tichys Einblick
 subtitle:      'Gerhard Scheuch: "Großteil der Maßnahmen völlig wirkungslos"'
 country:       DE
 categories:    [Wissenschaft]
-tags:          [tichyseinblick, maske, massnahmen]
+tags:          [maske, massnahmen]
 ---

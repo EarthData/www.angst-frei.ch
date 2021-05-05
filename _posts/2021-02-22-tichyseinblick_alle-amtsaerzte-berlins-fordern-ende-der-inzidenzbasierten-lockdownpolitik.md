@@ -5,5 +5,5 @@ title:         Tichys Einblick
 subtitle:      'Alle Amtsärzte Berlins fordern Ende der inzidenzbasierten Lockdownpolitik'
 country:       DE
 categories:    [Medizin, Widerstand]
-tags:          [tichyseinblick, nocovid, lockdown]
+tags:          [nocovid, lockdown]
 ---

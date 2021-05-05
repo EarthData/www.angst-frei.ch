@@ -5,5 +5,5 @@ title:         Tichys Einblick
 subtitle:      'Vorwort zum Sonntag: Solidarität mit der Jugend in Corona-Zeiten'
 country:       DE
 categories:    [Mensch]
-tags:          [tichyseinblick, kind, massnahmen]
+tags:          [kind, massnahmen]
 ---

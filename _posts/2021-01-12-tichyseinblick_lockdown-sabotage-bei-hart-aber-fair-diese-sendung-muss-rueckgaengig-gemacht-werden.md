@@ -5,5 +5,5 @@ title:         Tichys Einblick
 subtitle:      '"Lockdown-Sabotage" bei Hart aber Fair: Diese Sendung muss rückgängig gemacht werden'
 country:       DE
 categories:    [MSM]
-tags:          [tichyseinblick, lockdown, massnahmen, manipulation]
+tags:          [lockdown, massnahmen, manipulation]
 ---

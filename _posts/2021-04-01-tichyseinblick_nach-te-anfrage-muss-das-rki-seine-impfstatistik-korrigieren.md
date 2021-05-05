@@ -5,5 +5,5 @@ title:         Tichys Einblick
 subtitle:      'Nach TE Anfrage korrigiert das RKI seine Statistik um 2.183 Impfungen'
 country:       DE
 categories:    [Impfung, Zahlen]
-tags:          [tichyseinblick, manipulation]
+tags:          [manipulation]
 ---

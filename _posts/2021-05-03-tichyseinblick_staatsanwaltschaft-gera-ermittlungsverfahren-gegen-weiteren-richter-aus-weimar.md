@@ -5,5 +5,5 @@ title:         Tichys Einblick
 subtitle:      'Staatsanwaltschaft Gera: “Ermittlungsverfahren” gegen weiteren Richter aus Weimar'
 country:       DE
 categories:    [Recht]
-tags:          [tichyseinblick, weimar, willkür]
+tags:          [weimar, willkür]
 ---

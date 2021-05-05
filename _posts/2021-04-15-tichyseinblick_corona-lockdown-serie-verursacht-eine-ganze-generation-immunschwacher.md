@@ -5,5 +5,5 @@ title:         Tichys Einblick
 subtitle:      'Corona-Lockdown-Serien verursachen eine ganze Generation Immunschwacher'
 country:       DE
 categories:    [Gesundheit]
-tags:          [tichyseinblick, immunsystem, lockdown]
+tags:          [immunsystem, lockdown]
 ---

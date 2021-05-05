@@ -5,5 +5,5 @@ title:         Tichys Einblick
 subtitle:      'Corona-Triage Fehlanzeige - was auf Intensivstationen wirklich passiert'
 country:       DE
 categories:    [Spital]
-tags:          [tichyseinblick, manipulation]
+tags:          [manipulation]
 ---

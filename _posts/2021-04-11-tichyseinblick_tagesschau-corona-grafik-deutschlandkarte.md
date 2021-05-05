@@ -5,5 +5,5 @@ title:         Tichys Einblick
 subtitle:      'Zu Merkels Lockdown dramatisiert die Tagesschau die Fakten - Panik gesucht'
 country:       DE
 categories:    [MSM, Zahlen, Spital]
-tags:          [tichyseinblick, willkür, manipulation]
+tags:          [willkür, manipulation]
 ---

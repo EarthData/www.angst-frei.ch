@@ -5,5 +5,5 @@ title:         Tichys Einblick
 subtitle:      'Die Europäer müssen retten, was noch zu retten ist '
 country:       DE
 categories:    [Wirtschaft, Politik]
-tags:          [tichyseinblick, demokratie]
+tags:          [demokratie]
 ---

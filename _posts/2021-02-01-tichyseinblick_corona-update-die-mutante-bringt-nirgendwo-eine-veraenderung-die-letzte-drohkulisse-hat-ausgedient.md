@@ -5,5 +5,5 @@ title:         Tichys Einblick
 subtitle:      'Corona-Update: Nirgendwo bringt die Mutante eine Veränderung - die ewige Drohung hat ausgedient'
 country:       DE
 categories:    [Zahlen, Politik]
-tags:          [tichyseinblick, virus-mutation]
+tags:          [virus-mutation]
 ---

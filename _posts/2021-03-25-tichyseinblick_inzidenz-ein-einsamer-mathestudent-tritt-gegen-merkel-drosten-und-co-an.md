@@ -5,5 +5,5 @@ title:         Tichys Einblick
 subtitle:      'Ein einsamer Mathestudent tritt gegen Merkel, Drosten und Co an'
 country:       DE
 categories:    [Zahlen, Widerstand]
-tags:          [tichyseinblick]
+tags:          []
 ---

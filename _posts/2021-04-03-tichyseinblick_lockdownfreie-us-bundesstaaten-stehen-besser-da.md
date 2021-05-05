@@ -5,5 +5,5 @@ title:         Tichys Einblick
 subtitle:      'Lockdownfreie US-Bundesstaaten stehen besser da'
 country:       DE
 categories:    [Zahlen]
-tags:          [tichyseinblick, lockdown, usa]
+tags:          [lockdown, usa]
 ---

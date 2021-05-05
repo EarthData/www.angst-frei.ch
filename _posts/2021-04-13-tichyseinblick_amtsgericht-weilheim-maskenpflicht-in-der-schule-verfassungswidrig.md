@@ -5,5 +5,5 @@ title:         Tichys Einblick
 subtitle:      'Amtsgericht Weilheim: Maskenpflicht in der Schule verfassungswidrig'
 country:       DE
 categories:    [Recht]
-tags:          [tichyseinblick, maske, kind, weilheim]
+tags:          [maske, kind, weilheim]
 ---
