@@ -5,5 +5,5 @@ title:         SWR
 subtitle:      'Experte kritisiert Coronavirus-Strategie: "Alles versäumt worden, was irgendwie versäumt werden kann"'
 country:       DE
 categories:    [MSM, Politik]
-tags:          [swr, massnahmen]
+tags:          [massnahmen]
 ---

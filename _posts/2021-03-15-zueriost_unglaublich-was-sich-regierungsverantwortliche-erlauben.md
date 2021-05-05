@@ -5,5 +5,5 @@ title:         züriost
 subtitle:      '«Unglaublich, was sich Regierungsverantwortliche erlauben»'
 country:       CH
 categories:    [Widerstand, Politik]
-tags:          [züriost, polizei]
+tags:          [polizei]
 ---

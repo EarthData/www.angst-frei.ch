@@ -5,5 +5,5 @@ title:         Jouwatch
 subtitle:      'Keine Übersterblichkeit, immer mehr zweifelnde Ärzte: Der größte Fehlalarm aller Zeiten'
 country:       DE
 categories:    [Zahlen, Medizin]
-tags:          [jouwatch, sterblichkeit]
+tags:          [sterblichkeit]
 ---

@@ -5,5 +5,5 @@ title:         Jouwatch
 subtitle:      'Viele Leben zerstören, um wenige zu retten: Die brutale Logik der Corona-Politik'
 country:       DE
 categories:    [Mensch]
-tags:          [jouwatch, kollateralschäden]
+tags:          [kollateralschäden]
 ---

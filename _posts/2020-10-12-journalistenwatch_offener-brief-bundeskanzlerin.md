@@ -5,5 +5,5 @@ title:         Jouwatch
 subtitle:      'Offener Brief an die Bundeskanzlerin: Immer mehr Ärzte haben genug vom Irrsinn der Corona-Politik'
 country:       DE
 categories:    [Medizin, Wissenschaft, Widerstand]
-tags:          [jouwatch]
+tags:          []
 ---

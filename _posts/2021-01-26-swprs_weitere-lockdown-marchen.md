@@ -5,5 +5,5 @@ title:         Swiss Policy Research
 subtitle:      'Weitere Lockdown-Märchen'
 country:       ORG
 categories:    [Zahlen, MSM]
-tags:          [swprs, lockdown, manipulation]
+tags:          [lockdown, manipulation]
 ---

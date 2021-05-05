@@ -5,5 +5,5 @@ title:         Swiss Policy Research
 subtitle:      'Zur Behandlung von Covid-19'
 country:       ORG
 categories:    [Medizin]
-tags:          [swprs, therapeutikum]
+tags:          [therapeutikum]
 ---

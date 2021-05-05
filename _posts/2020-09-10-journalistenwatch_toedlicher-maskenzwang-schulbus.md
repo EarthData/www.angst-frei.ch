@@ -5,5 +5,5 @@ title:         Jouwatch
 subtitle:      'Tödlicher Maskenzwang? 13-jährige kollabiert in Schulbus und stirbt'
 country:       DE
 categories:    [Schulen]
-tags:          [jouwatch, maske, kind]
+tags:          [maske, kind]
 ---

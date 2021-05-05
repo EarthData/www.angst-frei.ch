@@ -5,5 +5,5 @@ title:         Jouwatch
 subtitle:      'All das Geimpfe nützt wohl nix: Hohe Corona-Ansteckungsrate bei Impfweltmeister Israel – Vierter Lockdown steht vor der Tür'
 country:       DE
 categories:    [Impfung]
-tags:          [jouwatch, lockdown4, israel]
+tags:          [lockdown4, israel]
 ---

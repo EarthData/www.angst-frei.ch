@@ -5,5 +5,5 @@ title:         Jouwatch
 subtitle:      'Saisonale Normalbelegung, keine Notlage: Chefarzt rechnet mit Corona-Hysterie ab'
 country:       DE
 categories:    [Medizin]
-tags:          [jouwatch, manipulation]
+tags:          [manipulation]
 ---

@@ -5,5 +5,5 @@ title:         Swiss Policy Research
 subtitle:      'Die Schweiz im Corona-Frühling'
 country:       ORG
 categories:    [Zahlen]
-tags:          [swprs, virus-mutation]
+tags:          [virus-mutation]
 ---

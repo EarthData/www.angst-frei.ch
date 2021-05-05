@@ -5,5 +5,5 @@ title:         SWR
 subtitle:      '"Desinfektionsmittel sind extrem gesundheitsschädlich"'
 country:       DE
 categories:    [MSM, Wissenschaft]
-tags:          [swr, massnahmen]
+tags:          [massnahmen]
 ---

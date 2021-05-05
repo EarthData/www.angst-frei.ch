@@ -5,5 +5,5 @@ title:         Swiss Policy Research
 subtitle:      'Israel: Why Is All-Cause Mortality Increasing?'
 country:       ORG
 categories:    [Impfung, Zahlen]
-tags:          [swprs, sterblichkeit, mit oder an impfung gestorben]
+tags:          [sterblichkeit, mit oder an impfung gestorben]
 ---

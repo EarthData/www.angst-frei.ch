@@ -5,5 +5,5 @@ title:         SWR
 subtitle:      '"Wissenschaftlich macht das überhaupt keinen Sinn, Masken im Freien zu tragen"'
 country:       DE
 categories:    [MSM, Wissenschaft]
-tags:          [swr, maske]
+tags:          [maske]
 ---

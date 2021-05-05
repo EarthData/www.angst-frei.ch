@@ -4,6 +4,7 @@ redirect:      https://www.lifesitenews.com/news/former-pfizer-vp-no-need-for-va
 title:         LifeSite
 subtitle:      'Former Pfizer VP: ‘No need for vaccines,’ ‘the pandemic is effectively over’'
 country:       COM
+persons:       [Yeadon Michael]
 categories:    [MSM, Impfung]
-tags:          [lifesitenews]
+tags:          [immunität]
 ---

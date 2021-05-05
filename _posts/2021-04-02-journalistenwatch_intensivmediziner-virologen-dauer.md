@@ -5,5 +5,5 @@ title:         Jouwatch
 subtitle:      'Intensivmediziner und Virologen lügen uns in den Dauer-Lockdown'
 country:       DE
 categories:    [Medizin, Wissenschaft]
-tags:          [jouwatch, angst, manipulation]
+tags:          [angst, manipulation]
 ---

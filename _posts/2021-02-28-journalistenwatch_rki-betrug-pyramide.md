@@ -5,5 +5,5 @@ title:         Jouwatch
 subtitle:      'Wann bricht das Kartenhaus zusammen: RKI gibt mutmaßlichen Betrug zu'
 country:       DE
 categories:    [Zahlen]
-tags:          [jouwatch, rki]
+tags:          [rki]
 ---

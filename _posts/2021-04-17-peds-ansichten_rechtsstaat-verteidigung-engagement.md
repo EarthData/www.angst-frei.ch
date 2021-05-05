@@ -5,5 +5,5 @@ title:         Peds Ansichten
 subtitle:      'Gute Nachrichten'
 country:       DE
 categories:    [Recht, Widerstand]
-tags:          [peds ansichten]
+tags:          []
 ---

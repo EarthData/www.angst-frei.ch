@@ -5,5 +5,5 @@ title:         Jouwatch
 subtitle:      'Weltweites Totalversagen: Studie bestätigt völlige Wirkungslosigkeit aller Corona-Maßnahmen'
 country:       DE
 categories:    [Studie]
-tags:          [jouwatch, massnahmen]
+tags:          [massnahmen]
 ---

@@ -5,5 +5,5 @@ title:         Swiss Policy Research
 subtitle:      'Covid Vaccines: Already Close to 10,000 Post-Vaccination Deaths'
 country:       ORG
 categories:    [Impfung]
-tags:          [swprs, mit oder an impfung gestorben]
+tags:          [mit oder an impfung gestorben]
 ---

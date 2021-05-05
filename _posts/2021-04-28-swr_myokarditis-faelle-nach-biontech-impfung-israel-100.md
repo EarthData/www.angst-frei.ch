@@ -5,5 +5,5 @@ title:         SWR
 subtitle:      'Israel untersucht Fälle von Herzmuskelentzündungen nach Impfungen'
 country:       DE
 categories:    [MSM, Impfung]
-tags:          [swr, impf-nebenwirkungen, biontech, herzmuskelentzündung, israel]
+tags:          [impf-nebenwirkungen, biontech, herzmuskelentzündung, israel]
 ---

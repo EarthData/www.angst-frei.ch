@@ -4,6 +4,6 @@ redirect:      https://www.naturstoff-medizin.de/artikel/offener-brief-von-aerzt
 title:         Naturstoff Medizin
 subtitle:      "Offener Brief von Ärzten und Gesundheitsfachleuten an alle belgischen Behörden und Medien"
 country:       DE
-categories:    [Wissenschaft, Medizin, Widerstand]
-tags:          [naturstoff medizin, belgien]
+categories:    [Medizin, Widerstand]
+tags:          [belgien]
 ---
