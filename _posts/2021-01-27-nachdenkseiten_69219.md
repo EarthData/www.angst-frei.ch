@@ -6,5 +6,5 @@ subtitle:      '„Aus rein wissenschaftlicher Sicht“ – Christian Drosten im
 country:       DE
 persons:       [Drosten Christian]
 categories:    [Wissenschaft, Zahlen]
-tags:          [nachdenkseiten, massnahmen]
+tags:          [massnahmen]
 ---

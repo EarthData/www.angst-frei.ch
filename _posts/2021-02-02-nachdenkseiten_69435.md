@@ -5,5 +5,5 @@ title:         NachDenkSeiten
 subtitle:      'Das Corona-Labyrinth. Von Magda von Garrel'
 country:       DE
 categories:    [Mensch]
-tags:          [nachdenkseiten, covidiot, massnahmen, manipulation]
+tags:          [covidiot, massnahmen, manipulation]
 ---

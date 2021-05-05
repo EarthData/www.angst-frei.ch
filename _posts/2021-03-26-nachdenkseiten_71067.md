@@ -5,5 +5,5 @@ title:         NachDenkSeiten
 subtitle:      'Danke Nena!'
 country:       DE
 categories:    [Widerstand]
-tags:          [nachdenkseiten, kultur]
+tags:          [kultur]
 ---

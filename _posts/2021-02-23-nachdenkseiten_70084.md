@@ -5,5 +5,5 @@ title:         NachDenkSeiten
 subtitle:      'An oder mit der Impfung verstorben?'
 country:       DE
 categories:    [Impfung]
-tags:          [nachdenkseiten, mit oder an impfung gestorben, impf-nebenwirkungen]
+tags:          [mit oder an impfung gestorben, impf-nebenwirkungen]
 ---

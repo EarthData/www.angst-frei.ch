@@ -5,5 +5,5 @@ title:         NachDenkSeiten
 subtitle:      'Corona: Die Panikmache der Medien ist das größte Problem'
 country:       DE
 categories:    [MSM]
-tags:          [nachdenkseiten, angst, manipulation]
+tags:          [angst, manipulation]
 ---

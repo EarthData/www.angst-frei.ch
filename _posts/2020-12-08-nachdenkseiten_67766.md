@@ -6,5 +6,5 @@ subtitle:      'Der Störenfriedrich. Ein Amtsarzt widerspricht Markus Söder un
 country:       DE
 persons:       [Pürner Friedrich]
 categories:    [Widerstand, Medizin]
-tags:          [nachdenkseiten, willkür]
+tags:          [willkür]
 ---

@@ -5,5 +5,5 @@ title:         NachDenkSeiten
 subtitle:      'Taugen Lockdowns als Mittel, um die Sterblichkeit mit Covid-19 zu verringern?'
 country:       DE
 categories:    [Studie]
-tags:          [nachdenkseiten, lockdown, sterblichkeit]
+tags:          [lockdown, sterblichkeit]
 ---

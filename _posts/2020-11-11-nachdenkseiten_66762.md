@@ -5,5 +5,5 @@ title:         NachDenkSeiten
 subtitle:      'Hype um BioNTech-Impfstoff – über Risiken und Geld spricht man lieber nicht'
 country:       DE
 categories:    [Impfung]
-tags:          [nachdenkseiten, impf-nebenwirkungen, geld]
+tags:          [impf-nebenwirkungen, geld]
 ---

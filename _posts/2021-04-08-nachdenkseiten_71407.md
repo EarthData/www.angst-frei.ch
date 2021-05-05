@@ -5,5 +5,5 @@ title:         NachDenkSeiten
 subtitle:      'Schade, dass wir nicht von Clowns regiert werden!'
 country:       DE
 categories:    [Politik, Zahlen]
-tags:          [nachdenkseiten, massnahmen]
+tags:          [massnahmen]
 ---

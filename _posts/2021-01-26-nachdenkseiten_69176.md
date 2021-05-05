@@ -5,5 +5,5 @@ title:         NachDenkSeiten
 subtitle:      'Corona und Psychologie: Angst arbeitet dem demokratischen Miteinander entgegen'
 country:       DE
 categories:    [Mensch]
-tags:          [nachdenkseiten, angst, demokratie]
+tags:          [angst, demokratie]
 ---

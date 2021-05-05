@@ -5,5 +5,5 @@ title:         NachDenkSeiten
 subtitle:      'Zeit für Ungehorsam'
 country:       DE
 categories:    [Widerstand]
-tags:          [nachdenkseiten, massnahmen]
+tags:          [massnahmen]
 ---

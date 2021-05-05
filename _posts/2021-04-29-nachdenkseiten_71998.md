@@ -5,5 +5,5 @@ title:         NachDenkSeiten
 subtitle:      'Merkel und die „Impfdrohung“ an die Kinder'
 country:       DE
 categories:    [Politik, Impfung]
-tags:          [nachdenkseiten, kind, impfzwang]
+tags:          [kind, impfzwang]
 ---

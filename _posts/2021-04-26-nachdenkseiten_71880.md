@@ -5,5 +5,5 @@ title:         NachDenkSeiten
 subtitle:      'Nase auf, Schule zu. Wie eine kranke Krisenpolitik die Zukunft unserer Kinder kaputt macht.'
 country:       DE
 categories:    [Mensch, Schulen]
-tags:          [nachdenkseiten, kind, kollateralschäden]
+tags:          [kind, kollateralschäden]
 ---

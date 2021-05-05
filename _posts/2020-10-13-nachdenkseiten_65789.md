@@ -5,5 +5,5 @@ title:         NachDenkSeiten
 subtitle:      'Corona und Umfragen: Die simulierte Übereinstimmung'
 country:       DE
 categories:    [Umfrage]
-tags:          [nachdenkseiten, zensur]
+tags:          [zensur]
 ---

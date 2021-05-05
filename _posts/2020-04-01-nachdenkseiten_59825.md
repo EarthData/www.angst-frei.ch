@@ -6,5 +6,5 @@ subtitle:      '„Die USA haben das sicherste Gesundheitssystem der Welt“ –
 country:       DE
 persons:       [Gates Bill]
 categories:    [Wissenschaft]
-tags:          [nachdenkseiten, event 201]
+tags:          [event 201]
 ---

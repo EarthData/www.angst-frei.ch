@@ -5,5 +5,5 @@ title:         NachDenkSeiten
 subtitle:      'Corona-Maßnahmen: Wenn Kinder die Leidtragenden sind (1/2)'
 country:       DE
 categories:    [Mensch]
-tags:          [nachdenkseiten, kind]
+tags:          [kind]
 ---

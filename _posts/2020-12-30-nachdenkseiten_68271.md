@@ -5,5 +5,5 @@ title:         NachDenkSeiten
 subtitle:      'Corona-Maßnahmen, Kinder und die Linke: „Denkfaulheit, Opportunismus und ein Totalausfall“ (2/2)'
 country:       DE
 categories:    [Politik]
-tags:          [nachdenkseiten, massnahmen, kind]
+tags:          [massnahmen, kind]
 ---

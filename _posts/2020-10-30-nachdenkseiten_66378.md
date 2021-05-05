@@ -5,5 +5,5 @@ title:         NachDenkSeiten
 subtitle:      'Auffälliges Schweigen über Schweden. Hier ein Bericht von Henning Rosenbusch'
 country:       DE
 categories:    [Zahlen]
-tags:          [nachdenkseiten, schweden, manipulation]
+tags:          [schweden, manipulation]
 ---

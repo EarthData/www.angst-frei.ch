@@ -5,5 +5,5 @@ title:         NachDenkSeiten
 subtitle:      'Die „Maus“ und Corona: „Was darf ich?“'
 country:       DE
 categories:    [MSM]
-tags:          [nachdenkseiten, kind, manipulation]
+tags:          [kind, manipulation]
 ---

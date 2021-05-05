@@ -5,5 +5,5 @@ title:         NachDenkSeiten
 subtitle:      'Corona und gekaufte Wissenschaft – Wie falsche Wissenschaft die Welt in einen Abgrund stürzt'
 country:       DE
 categories:    [Wissenschaft]
-tags:          [nachdenkseiten, manipulation]
+tags:          [manipulation]
 ---

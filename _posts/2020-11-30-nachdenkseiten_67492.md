@@ -5,5 +5,5 @@ title:         NachDenkSeiten
 subtitle:      'Im Journalismus riecht es nach Verrat an der Demokratie'
 country:       DE
 categories:    [MSM]
-tags:          [nachdenkseiten, massnahmen, demokratie]
+tags:          [massnahmen, demokratie]
 ---
