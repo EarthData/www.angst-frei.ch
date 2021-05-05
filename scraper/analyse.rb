@@ -11,7 +11,7 @@ counter = 1
 
 config = YAML.load_file("config.yml")
 
-files = Dir.glob("../_posts/*-insideparadeplatz_*.md")
+files = Dir.glob("../_posts/*-linth24_*.md")
 #files = Dir.glob("../_posts/2021-03-*.md")
 #files = Dir.glob("../_posts/*.md")
 
@@ -53,7 +53,7 @@ files.each do |filename|
 #  end
 
   # temporary remove NZZ
-  if meta_data['title'].match?(/SWR|European Medicines Agency|linth24|FM1 Today|Handelsblatt/)
+  if meta_data['title'].match?(/SWR|European Medicines Agency|FM1 Today|Handelsblatt/)
     next
   end
 
