@@ -6,5 +6,5 @@ subtitle:      'Lockdown: Überschätzten wir uns selbst?'
 country:       CH
 persons:       [Vernazza Pietro]
 categories:    [Wissenschaft]
-tags:          [infekt, lockdown]
+tags:          [lockdown]
 ---

@@ -6,5 +6,5 @@ subtitle:      'Infektiosität und PCR-Positivität - Nicht das Gleiche'
 country:       CH
 persons:       [Vernazza Pietro]
 categories:    [Wissenschaft, Medizin]
-tags:          [infekt, pcr-test]
+tags:          [pcr-test]
 ---

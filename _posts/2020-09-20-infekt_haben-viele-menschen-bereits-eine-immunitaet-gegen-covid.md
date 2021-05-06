@@ -6,5 +6,5 @@ subtitle:      'Haben viele Menschen bereits eine Immunität gegen Covid?'
 country:       CH
 persons:       [Vernazza Pietro]
 categories:    [Medizin]
-tags:          [infekt, immunität]
+tags:          [immunität]
 ---

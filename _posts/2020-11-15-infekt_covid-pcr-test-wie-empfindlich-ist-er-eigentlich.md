@@ -6,5 +6,5 @@ subtitle:      'Covid-PCR-Test: Wie empfindlich ist er eigentlich?'
 country:       CH
 persons:       [Vernazza Pietro]
 categories:    [Wissenschaft]
-tags:          [infekt, pcr-test]
+tags:          [pcr-test]
 ---

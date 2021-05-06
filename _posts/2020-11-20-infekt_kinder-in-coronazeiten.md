@@ -5,5 +5,5 @@ title:         infekt.ch
 subtitle:      'Kinder in Coronazeiten'
 country:       CH
 categories:    [Wissenschaft]
-tags:          [kind, infekt]
+tags:          [kind]
 ---

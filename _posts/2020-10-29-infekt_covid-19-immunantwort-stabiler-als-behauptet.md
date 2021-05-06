@@ -6,5 +6,5 @@ subtitle:      'Covid-19: Immunantwort stabiler als bisher vermutet'
 country:       CH
 persons:       [Vernazza Pietro]
 categories:    [Medizin]
-tags:          [infekt, immunität]
+tags:          [immunität]
 ---

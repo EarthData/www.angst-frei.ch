@@ -6,5 +6,5 @@ subtitle:      'Covid-Antikörper-Test: Ist er wirklich wertlos?'
 country:       CH
 persons:       [Vernazza Pietro]
 categories:    [Medizin, Impfung]
-tags:          [infekt, immunität]
+tags:          [immunität]
 ---
