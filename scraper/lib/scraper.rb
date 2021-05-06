@@ -107,6 +107,10 @@ class Scraper
       puts "Description not found" if debug
     end
 
+    if config['description'][domain] and description.include? "/"
+      description = description[0..description.rindex("/")-1].strip
+    end
+
     # date
     if ld_meta and ld_meta['datePublished']
       published_time = ld_meta['datePublished'].to_s
