@@ -248,7 +248,7 @@ class Scraper
     site_data['tags'] = tags
     site_data['filename'] = filename
     site_data['domaintag'] = domaintag
-    site_data['description'] = description
+    site_data['description'] = description.gsub(/'/, "’")
 
     return site_data
 
