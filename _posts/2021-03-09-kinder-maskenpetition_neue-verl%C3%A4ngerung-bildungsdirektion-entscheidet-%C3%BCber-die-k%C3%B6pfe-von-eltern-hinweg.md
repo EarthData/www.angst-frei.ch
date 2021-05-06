@@ -5,5 +5,5 @@ title:         Kinder-Maskenpetition
 subtitle:      'Erneute Verlängerung: Bildungsdirektion entscheidet über die Köpfe von Eltern hinweg'
 country:       CH
 categories:    [Politik, Widerstand]
-tags:          [kinder-maskenpetition, kind, maske, petition]
+tags:          [kind, maske, petition]
 ---

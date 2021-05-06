@@ -5,7 +5,7 @@ subtitle:   "Doctors & Medical Professionals From All Over The World Speak Out"
 date:       2020-12-07
 timeline:   Impfung
 categories: [Video, Impfung, Widerstand]
-tags:       [brighteon, impf-nebenwirkungen]
+tags:       [impf-nebenwirkungen]
 ---
 
 <div class="video-container">

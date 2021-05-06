@@ -5,5 +5,5 @@ title:         tagesschau.de
 subtitle:      'Krankenhausgesellschaft: Kliniken können bald Gehälter nicht zahlen'
 country:       DE
 categories:    [MSM, Spital]
-tags:          [tagesschau.de, geld]
+tags:          [geld]
 ---

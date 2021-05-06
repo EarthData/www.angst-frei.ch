@@ -5,5 +5,5 @@ title:         tagesschau.de
 subtitle:      'Dänemark impft nicht mehr mit Johnson & Johnson gegen Corona'
 country:       DE
 categories:    [Impfung]
-tags:          [tagesschau.de, impf-stopp, johnson & johnson, dänemark]
+tags:          [impf-stopp, johnson & johnson, dänemark]
 ---

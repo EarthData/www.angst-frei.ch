@@ -6,5 +6,5 @@ subtitle:      'Kinderarzt Janzen: unnötig gefährliche Testmethode'
 country:       DE
 persons:       [Janzen Eugen]
 categories:    [Medizin]
-tags:          [kind, selbsttest]
+tags:          [kind, schnelltest]
 ---

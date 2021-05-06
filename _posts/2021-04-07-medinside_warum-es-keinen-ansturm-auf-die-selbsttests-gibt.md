@@ -5,5 +5,5 @@ title:         medinside.ch
 subtitle:      'Warum es keinen Ansturm auf die Selbsttests gibt'
 country:       CH
 categories:    [Medizin]
-tags:          [selbsttest]
+tags:          [schnelltest]
 ---

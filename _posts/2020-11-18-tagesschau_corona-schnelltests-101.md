@@ -5,5 +5,5 @@ title:         tagesschau.de
 subtitle:      'Corona-Schnelltests: Lückenhafte Qualitätskontrolle'
 country:       DE
 categories:    [MSM]
-tags:          [tagesschau.de, massentest]
+tags:          [schnelltest]
 ---

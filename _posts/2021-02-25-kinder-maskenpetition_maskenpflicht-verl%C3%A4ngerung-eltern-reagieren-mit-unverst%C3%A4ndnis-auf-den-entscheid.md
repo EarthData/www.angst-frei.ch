@@ -5,5 +5,5 @@ title:         Kinder-Maskenpetition
 subtitle:      'Maskenpflicht-Verlängerung: Eltern reagieren mit Unverständnis auf den Entscheid'
 country:       CH
 categories:    [Politik, Widerstand]
-tags:          [kinder-maskenpetition, kind, maske, petition]
+tags:          [kind, maske, petition]
 ---

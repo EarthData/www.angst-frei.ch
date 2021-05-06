@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'Extreme Meldefehler bei Coronatests'
 country:       AT
 categories:    [Zahlen]
-tags:          [selbsttest, manipulation]
+tags:          [manipulation, schnelltest]
 ---

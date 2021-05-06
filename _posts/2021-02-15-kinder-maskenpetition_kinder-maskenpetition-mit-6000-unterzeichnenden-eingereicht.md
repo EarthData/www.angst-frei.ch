@@ -5,5 +5,5 @@ title:         Kinder-Maskenpetition
 subtitle:      'Kinder-Maskenpetition mit 6000 Unterzeichnenden eingereicht'
 country:       CH
 categories:    [Politik, Widerstand]
-tags:          [kinder-maskenpetition, kind, maske, petition]
+tags:          [kind, maske, petition]
 ---

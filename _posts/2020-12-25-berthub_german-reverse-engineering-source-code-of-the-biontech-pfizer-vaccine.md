@@ -6,5 +6,5 @@ subtitle:      'Dekonstruktion des Programmcodes des BioNTech/Pfizer SARS-CoV-2 
 country:       EU
 timeline:      Wissenschaft
 categories:    [Wissenschaft, Impfung]
-tags:          [berthub, biontech]
+tags:          [biontech]
 ---

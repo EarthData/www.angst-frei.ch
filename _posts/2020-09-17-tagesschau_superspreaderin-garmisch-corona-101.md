@@ -5,5 +5,5 @@ title:         tagesschau.de
 subtitle:      'Die angebliche Superspreaderin von Garmisch'
 country:       DE
 categories:    [MSM]
-tags:          [tagesschau.de, manipulation]
+tags:          [manipulation]
 ---

@@ -5,5 +5,5 @@ title:         cochrane
 subtitle:      'Aktualisierter Cochrane Review bewertet Zuverlässigkeit von Schnelltests zum Nachweis von COVID-19'
 country:       DE
 categories:    [Wissenschaft]
-tags:          [cochrane, selbsttest]
+tags:          [cochrane, schnelltest]
 ---

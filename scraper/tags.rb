@@ -64,15 +64,19 @@ files.each do |filename|
   #  counter += 1
   #end
 
-  if meta_data['categories'].include?("Schulen")
+  if meta_data['tags'].include?("selbsttest")
+  #if meta_data['categories'].include?("Schulen")
     puts "File: #{filename} (#{counter})"
-    #puts meta_data['tag']
-    puts meta_data['categories']
-    meta_data['categories'].delete_at(meta_data['categories'].index("Schulen"))
-    #puts meta_data['tag']
-    puts meta_data['categories']
-    meta_data['categories'].push("Schule")
-    puts meta_data['categories']
+    puts meta_data['tag']
+    #puts meta_data['categories']
+    meta_data['tags'].delete_at(meta_data['tags'].index("selbsttest"))
+    #meta_data['categories'].delete_at(meta_data['categories'].index("Schulen"))
+    puts meta_data['tag']
+    #puts meta_data['categories']
+    meta_data['tags'].push("schnelltest")
+    #meta_data['categories'].push("Schule")
+    puts meta_data['tags']
+    #puts meta_data['categories']
     counter += 1
   end
 

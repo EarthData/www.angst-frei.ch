@@ -4,6 +4,7 @@ redirect:      https://unser-mitteleuropa.com/lauterbach-nach-tod-von-32-jaehrig
 title:         Unser Mitteleuropa
 subtitle:      'Lauterbach nach Tod von 32-Jähriger: Impftote für Impferfolg müsse man hinnehmen'
 country:       EU
+persons:       [Lauterbach Karl]
 categories:    [Politik, Impfung]
 tags:          [mit oder an impfung gestorben, astrazeneca]
 ---

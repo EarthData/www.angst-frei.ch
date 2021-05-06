@@ -4,6 +4,7 @@ redirect:      https://www.wochenblick.at/mut-aerzte-proben-aufstand-offener-bri
 title:         Wochenblick
 subtitle:      'Mut-Ärzte proben Aufstand: Offener Brief gegen Lauterbachs Panik-Tiraden'
 country:       AT
+persons:       [Lauterbach Karl]
 categories:    [Widerstand, Medizin, Politik]
-tags:          []
+tags:          [angst]
 ---

@@ -4,6 +4,7 @@ redirect:      https://www.tagesschau.de/faktenfinder/lauterbach-twitter-101.htm
 title:         tagesschau.de
 subtitle:      'Karl Lauterbach auf Twitter: Aufklärung oder Panikmache?'
 country:       DE
+persons:       [Lauterbach Karl]
 categories:    [MSM]
-tags:          [tagesschau.de, lauterbach, manipulation]
+tags:          [angst, manipulation]
 ---
