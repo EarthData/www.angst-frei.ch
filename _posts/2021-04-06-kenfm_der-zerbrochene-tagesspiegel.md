@@ -5,5 +5,5 @@ title:         kenFM
 subtitle:      'Der zerbrochene Tagesspiegel'
 country:       DE
 categories:    [MSM]
-tags:          [kenfm, willkür, manipulation]
+tags:          [willkür, manipulation]
 ---

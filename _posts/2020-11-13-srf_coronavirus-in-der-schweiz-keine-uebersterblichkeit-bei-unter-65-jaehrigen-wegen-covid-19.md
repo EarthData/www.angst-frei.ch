@@ -5,5 +5,5 @@ title:         SRF
 subtitle:      'Coronavirus in der Schweiz - Keine Übersterblichkeit bei unter 65-Jährigen wegen Covid-19'
 country:       CH
 categories:    [MSM, Zahlen]
-tags:          [srf, sterblichkeit]
+tags:          [sterblichkeit]
 ---

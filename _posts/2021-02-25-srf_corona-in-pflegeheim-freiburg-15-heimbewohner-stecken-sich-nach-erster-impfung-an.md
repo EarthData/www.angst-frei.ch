@@ -5,5 +5,5 @@ title:         SRF
 subtitle:      'Corona in Pflegeheim - Freiburg: 15 Heimbewohner stecken sich nach erster Impfung an'
 country:       CH
 categories:    [MSM, Impfung]
-tags:          [srf, immunität]
+tags:          [immunität]
 ---

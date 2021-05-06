@@ -5,5 +5,5 @@ title:         SRF
 subtitle:      'Kinder und Corona - Die Rolle von Kindern in der Pandemie'
 country:       CH
 categories:    [MSM, Studie]
-tags:          [srf, maske, kind]
+tags:          [maske, kind]
 ---

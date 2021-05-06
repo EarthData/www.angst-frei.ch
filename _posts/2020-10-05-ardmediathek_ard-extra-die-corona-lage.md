@@ -5,5 +5,5 @@ title:         ARD
 subtitle:      "ARD extra: Die Corona-Lage"
 country:       DE
 categories:    [MSM, Video]
-tags:          [ard, welle2]
+tags:          [welle2]
 ---

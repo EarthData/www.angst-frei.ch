@@ -5,5 +5,5 @@ title:         kenFM
 subtitle:      'Schweden zeigt deutsches Corona-Politik-Versagen'
 country:       DE
 categories:    [Politik, Zahlen]
-tags:          [kenfm, schweden]
+tags:          [schweden]
 ---

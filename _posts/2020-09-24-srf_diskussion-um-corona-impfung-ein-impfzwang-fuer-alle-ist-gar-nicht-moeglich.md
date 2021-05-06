@@ -5,5 +5,5 @@ title:         SRF
 subtitle:      'Diskussion um Corona-Impfung - Ein Impfzwang für alle ist gar nicht möglich'
 country:       CH
 categories:    [MSM, Impfung]
-tags:          [srf, impfzwang]
+tags:          [impfzwang]
 ---

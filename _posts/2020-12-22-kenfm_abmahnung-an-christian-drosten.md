@@ -6,5 +6,5 @@ subtitle:      'Abmahnung an Christian Drosten'
 country:       DE
 persons:       [Drosten Christian, Füllmich Reiner]
 categories:    [Recht]
-tags:          [kenfm]
+tags:          []
 ---

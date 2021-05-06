@@ -5,5 +5,5 @@ title:         Beobachter
 subtitle:      'Impfstoff-Verträge bleiben geheim: Bund hält sich bei Impfdeals bedeckt'
 country:       CH
 categories:    [BAG, Impfung]
-tags:          [beobachter, geld]
+tags:          [geld]
 ---

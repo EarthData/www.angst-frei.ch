@@ -5,5 +5,5 @@ title:         ARD
 subtitle:      "Gefährliche Intubation: Könnten mehr Covid-19-Erkrankte überleben?"
 country:       DE
 categories:    [Video, MSM, Medizin]
-tags:          [ard, beatmung]
+tags:          [beatmung]
 ---

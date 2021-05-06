@@ -5,5 +5,5 @@ title:         Beobachter
 subtitle:      'Ist das Coronavirus wirklich so gefährlich?'
 country:       CH
 categories:    [Zahlen]
-tags:          [beobachter, sterblichkeit, pcr-test]
+tags:          [sterblichkeit, pcr-test]
 ---

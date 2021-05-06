@@ -5,5 +5,5 @@ title:         SRF
 subtitle:      'Weg aus der Pandemie - Pflegepersonal ist skeptisch bei Corona-Impfung'
 country:       CH
 categories:    [MSM, Widerstand, Impfung]
-tags:          [srf]
+tags:          []
 ---

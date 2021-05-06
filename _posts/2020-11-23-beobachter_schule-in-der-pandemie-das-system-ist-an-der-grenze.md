@@ -5,5 +5,5 @@ title:         Beobachter
 subtitle:      'Schule in der Pandemie: Das System ist an der Grenze'
 country:       CH
 categories:    [Schule]
-tags:          [beobachter, kind]
+tags:          [kind]
 ---

@@ -5,5 +5,5 @@ title:         SRF
 subtitle:      'Labortest - Schutzmasken im Härtetest: Die meisten filtern ungenügend'
 country:       CH
 categories:    [MSM, Medizin]
-tags:          [srf, maske]
+tags:          [maske]
 ---

@@ -5,5 +5,5 @@ title:         SRF
 subtitle:      'Kinderspital Zürich - Pandemie führt zu mehr Kindsmisshandlungen'
 country:       CH
 categories:    [MSM, Mensch]
-tags:          [srf, kind, kollateralschäden]
+tags:          [kind, kollateralschäden]
 ---

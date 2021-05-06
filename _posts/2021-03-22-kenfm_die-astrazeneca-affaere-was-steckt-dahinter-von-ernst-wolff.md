@@ -5,5 +5,5 @@ title:         kenFM
 subtitle:      'Die AstraZeneca-Affäre: Was steckt dahinter?'
 country:       DE
 categories:    [Impfung]
-tags:          [kenfm, astrazeneca]
+tags:          [astrazeneca]
 ---

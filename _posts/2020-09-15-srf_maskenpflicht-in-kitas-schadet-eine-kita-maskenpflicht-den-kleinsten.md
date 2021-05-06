@@ -5,5 +5,5 @@ title:         SRF
 subtitle:      'Maskenpflicht in Kitas - Schadet eine Kita-Maskenpflicht den Kleinsten?'
 country:       CH
 categories:    [MSM, Mensch]
-tags:          [srf, maske, kind, kollateralschäden]
+tags:          [maske, kind, kollateralschäden]
 ---

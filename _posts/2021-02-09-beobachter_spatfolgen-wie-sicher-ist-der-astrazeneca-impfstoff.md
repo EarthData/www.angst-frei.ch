@@ -5,5 +5,5 @@ title:         Beobachter
 subtitle:      'Spätfolgen: Wie sicher ist der AstraZeneca-Impfstoff?'
 country:       CH
 categories:    [Impfung]
-tags:          [beobachter, impf-nebenwirkungen, astrazeneca]
+tags:          [impf-nebenwirkungen, astrazeneca]
 ---

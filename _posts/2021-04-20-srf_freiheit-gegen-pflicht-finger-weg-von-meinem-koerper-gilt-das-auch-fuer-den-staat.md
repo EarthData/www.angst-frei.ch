@@ -5,5 +5,5 @@ title:         SRF
 subtitle:      'Freiheit gegen Pflicht - Finger weg von meinem Körper! Gilt das auch für den Staat?'
 country:       CH
 categories:    [Recht, Impfung]
-tags:          [srf, impfzwang]
+tags:          [impfzwang]
 ---

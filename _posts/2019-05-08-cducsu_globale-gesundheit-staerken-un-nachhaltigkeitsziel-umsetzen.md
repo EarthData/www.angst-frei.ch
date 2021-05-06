@@ -6,6 +6,6 @@ subtitle:      'Globale Gesundheit stärken UN-Nachhaltigkeitsziel umsetzen'
 country:       DE
 timeline:      "P(l)andemie"
 persons:       [Drosten Christian, Gates Bill]
-categories:    [Politik]
-tags:          [cducsu, who]
+categories:    [Politik, Gesundheit]
+tags:          [who]
 ---

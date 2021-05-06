@@ -5,5 +5,5 @@ title:         ARD-Mediathek
 subtitle:      'Lockern oder verschärfen? Welche Corona-Regeln sind richtig?'
 country:       DE
 categories:    [Video, MSM]
-tags:          [ard-mediathek, maske, massnahmen]
+tags:          [maske, massnahmen]
 ---

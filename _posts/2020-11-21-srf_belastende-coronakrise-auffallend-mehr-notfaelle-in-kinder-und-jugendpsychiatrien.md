@@ -5,5 +5,5 @@ title:         SRF
 subtitle:      'Belastende Coronakrise - Auffallend mehr Notfälle in Kinder- und Jugendpsychiatrien'
 country:       CH
 categories:    [MSM, Mensch]
-tags:          [srf, kind, kollateralschäden]
+tags:          [kind, kollateralschäden]
 ---

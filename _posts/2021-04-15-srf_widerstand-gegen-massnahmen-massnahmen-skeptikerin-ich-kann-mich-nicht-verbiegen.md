@@ -5,5 +5,5 @@ title:         SRF
 subtitle:      'Widerstand gegen Massnahmen - Massnahmen-Skeptikerin: «Ich kann mich nicht verbiegen»'
 country:       CH
 categories:    [MSM, Widerstand, Mensch]
-tags:          [srf, massnahmen, maske]
+tags:          [massnahmen, maske]
 ---

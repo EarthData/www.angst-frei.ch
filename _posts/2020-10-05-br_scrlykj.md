@@ -5,5 +5,5 @@ title:         BR24
 subtitle:      'Corona: Gesundheitsamtsleiter kritisiert Staatsregierung'
 country:       DE
 categories:    [MSM, Behörde, Politik, Widerstand]
-tags:          [br24, maske, kind]
+tags:          [maske, kind]
 ---

@@ -5,5 +5,5 @@ title:         SRF
 subtitle:      'Corona-Krise in Norditalien - Das Corona-Desaster in der Lombardei reicht weit zurück'
 country:       CH
 categories:    [Spital, Wirtschaft]
-tags:          [srf, italien]
+tags:          [italien]
 ---

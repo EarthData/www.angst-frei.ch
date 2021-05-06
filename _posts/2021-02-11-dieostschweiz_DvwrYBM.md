@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Eine «Rundschau» mit Tunnelblick'
 country:       CH
 categories:    [MSM]
-tags:          [srf, manipulation]
+tags:          [manipulation]
 ---

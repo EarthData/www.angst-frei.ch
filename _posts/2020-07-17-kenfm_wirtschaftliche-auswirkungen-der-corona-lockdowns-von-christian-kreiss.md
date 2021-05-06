@@ -5,5 +5,5 @@ title:         kenFM
 subtitle:      'Wirtschaftliche Auswirkungen der Corona-Lockdowns'
 country:       DE
 categories:    [Wirtschaft]
-tags:          [kenfm, lockdown]
+tags:          [lockdown]
 ---
