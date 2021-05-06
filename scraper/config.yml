@@ -14,6 +14,7 @@ article:
   epochtimes: last
   focus: last_
   fm1today: last
+  fr: last
   heise: last
   meinbezirk: last_
   nordkurier: last
@@ -52,6 +53,7 @@ sitename:
   epochtimes: Epoch Times
   fm1today: FM1 Today
   focus: Focus Online
+  fr: Frankfurter Rundschau
   gesundheitstipp: Gesundheitstipp
   heise: Telepolis
   infosperber: INFOsperber
@@ -108,7 +110,6 @@ tag:
   meinbezirk: meinbezirk
   nature: nature
   orf: orf
-  rt: rt
   substack: substack
   derstandard: standard
   schweizermonat: schweizermonat

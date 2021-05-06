@@ -70,8 +70,6 @@ Ein lebensgefährlicher Virus scheint seit Mai 2009 die Menschheit zu bedrohen. 
 
 Der Dokfilm zur Coronakrise von Reto Brennwald.
 
-{% include vimeoPlayer.html id="471959768" %}
-
 | {{ site.icons.globe }}    | [www.unerhoert-der-film.ch](https://www.unerhoert-der-film.ch/) |
 | {{ site.icons.movie }}    | [Unerhört!](https://vimeo.com/471959768) |
 
@@ -87,3 +85,11 @@ Der Dokfilm zur Coronakrise von Reto Brennwald.
     allowfullscreen>
   </iframe>
 </div>
+
+## ServusTV: Corona – auf der Suche nach der Wahrheit
+
+04.05.2021
+{:class="date-meta"}
+
+| {{ site.icons.movie }}    | [Corona – auf der Suche nach der Wahrheit!](https://www.servustv.com/corona-auf-der-suche-nach-der-wahrheit/) |
+
