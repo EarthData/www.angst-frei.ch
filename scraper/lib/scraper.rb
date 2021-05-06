@@ -245,6 +245,7 @@ class Scraper
     site_data['tags'] = tags
     site_data['filename'] = filename
     site_data['domaintag'] = domaintag
+    site_data['description'] = description
 
     return site_data
 

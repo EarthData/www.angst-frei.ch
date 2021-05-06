@@ -177,7 +177,6 @@ exclude:
   - Gemfile.lock
   - node_modules
   - _newposts
-  - _posts
   - _archive
   - scraper
   - imagemosaic

@@ -59,7 +59,12 @@ date:          #{site_data['date']}
 redirect:      #{site_data['redirect']}
 title:         #{site_data['title']}
 subtitle:      '#{site_data['subtitle']}'
-country:       #{site_data['country']}
+}
+    if site_data['description'] 
+      content += %{description:   '#{site_data['description']}'
+}
+    end
+    content += %{country:       #{site_data['country']}
 }
     if site_data['timeline'] 
       content += %{timeline:      #{site_data['timeline']}

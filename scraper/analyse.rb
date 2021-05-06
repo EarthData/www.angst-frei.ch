@@ -11,11 +11,11 @@ counter = 1
 
 config = YAML.load_file("config.yml")
 
-files = Dir.glob("../_posts/*-pharmazeutische-zeitung_*.md")
+files = Dir.glob("../_posts/*-wochenblick_*.md")
 #files = Dir.glob("../_posts/2021-03-*.md")
 #files = Dir.glob("../_posts/*.md")
 
-parameters = ['date', 'redirect', 'title', 'subtitle', 'timeline', 'country', 'persons', 'categories', 'tags', 'filename']
+parameters = ['date', 'redirect', 'title', 'subtitle', 'description', 'timeline', 'country', 'persons', 'categories', 'tags', 'filename']
 
 files.each do |filename|
 

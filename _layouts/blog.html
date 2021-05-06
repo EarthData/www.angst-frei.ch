@@ -36,6 +36,10 @@ layout: page
     {% endif %}
     {% endif %}
 
+    {%- if post.description -%}
+    <p>{{ post.description }}</p>
+    {% endif %}
+
     {%- if post.redirect -%}
     <a href="{{ post.redirect | absolute_url }}">
     {% else %}
