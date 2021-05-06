@@ -4,6 +4,6 @@ redirect:      https://2020news.de/italien-studie-belegt-stark-erhoehten-co2-wer
 title:         2020 News
 subtitle:      'Italien: Studie belegt stark erhöhten CO2-Wert unter der Maske'
 country:       DE
-categories:    [Studie, Schulen]
+categories:    [Studie, Schule]
 tags:          [maske, kind]
 ---

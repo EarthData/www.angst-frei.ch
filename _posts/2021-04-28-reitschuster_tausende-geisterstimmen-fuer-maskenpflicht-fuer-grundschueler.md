@@ -4,6 +4,6 @@ redirect:      https://reitschuster.de/post/tausende-geisterstimmen-fuer-maskenp
 title:         reitschuster
 subtitle:      'Tausende "Geisterstimmen" für Maskenpflicht für Grundschüler'
 country:       DE
-categories:    [MSM, Schulen, Umfrage]
+categories:    [MSM, Umfrage, Schule]
 tags:          [maske, kind, manipulation]
 ---

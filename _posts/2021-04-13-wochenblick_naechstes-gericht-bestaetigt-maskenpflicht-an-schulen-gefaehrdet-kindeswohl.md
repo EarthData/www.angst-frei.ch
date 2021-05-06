@@ -4,6 +4,6 @@ redirect:      https://www.wochenblick.at/naechstes-gericht-bestaetigt-maskenpfl
 title:         Wochenblick
 subtitle:      'Nächstes Gericht bestätigt: Maskenpflicht an Schulen gefährdet Kindeswohl'
 country:       AT
-categories:    [Recht, Schulen]
+categories:    [Recht, Schule]
 tags:          [maske, kind, weilheim]
 ---

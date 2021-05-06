@@ -4,6 +4,6 @@ redirect:      https://2020news.de/sensationsurteil-aus-weimar-keine-masken-kein
 title:         2020 News
 subtitle:      'Sensationsurteil aus Weimar: keine Masken, kein Abstand, keine Tests mehr für Schüler'
 country:       DE
-categories:    [Recht, Schulen]
+categories:    [Recht, Schule]
 tags:          [kind, maske, weimar]
 ---

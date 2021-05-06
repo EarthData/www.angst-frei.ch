@@ -4,6 +4,6 @@ redirect:      https://tkp.at/2021/02/18/studie-der-universitaet-warwick-schulen
 title:         tp - Science & Technology
 subtitle:      'Studie der Universität Warwick: Schulen spielen keine Rolle bei Verbreitung von Corona'
 country:       AT
-categories:    [Studie, Schulen]
+categories:    [Studie, Schule]
 tags:          [kind]
 ---

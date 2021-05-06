@@ -4,6 +4,6 @@ redirect:      https://www.dieostschweiz.ch/artikel/die-maske-fuer-kinder-koennt
 title:         Die Ostschweiz
 subtitle:      'Die Maske für Kinder könnte der Wendepunkt sein'
 country:       CH
-categories:    [Schulen]
+categories:    [Schule]
 tags:          [maske, kind]
 ---

@@ -4,6 +4,6 @@ redirect:      https://www.wochenblick.at/die-eltern-muessen-aufstehen-und-sagen
 title:         Wochenblick
 subtitle:      '"Die Eltern müssen aufstehen und sagen, dass sie das nicht wollen“'
 country:       AT
-categories:    [Schulen, Widerstand]
+categories:    [Widerstand, Schule]
 tags:          [kind, massnahmen]
 ---

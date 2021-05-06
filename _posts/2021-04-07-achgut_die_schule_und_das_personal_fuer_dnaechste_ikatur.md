@@ -4,6 +4,6 @@ redirect:      https://www.achgut.com/artikel/die_schule_und_das_personal_fuer_d
 title:         Achgut.com
 subtitle:      'Die Schule und das Personal für die nächste Diktatur'
 country:       DE
-categories:    [Schulen, Mensch]
+categories:    [Mensch, Schule]
 tags:          [willkür]
 ---

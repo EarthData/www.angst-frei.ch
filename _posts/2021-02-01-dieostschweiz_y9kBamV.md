@@ -4,6 +4,6 @@ redirect:      https://www.dieostschweiz.ch/artikel/mit-zahlen-ohne-relationen-v
 title:         Die Ostschweiz
 subtitle:      '«Mit Zahlen ohne Relationen verbreitet man Angst und Panik»'
 country:       CH
-categories:    [Schulen, Zahlen]
+categories:    [Zahlen, Schule]
 tags:          [kind, maske]
 ---

@@ -4,6 +4,6 @@ redirect:      https://www.nachdenkseiten.de/?p=71880
 title:         NachDenkSeiten
 subtitle:      'Nase auf, Schule zu. Wie eine kranke Krisenpolitik die Zukunft unserer Kinder kaputt macht.'
 country:       DE
-categories:    [Mensch, Schulen]
+categories:    [Mensch, Schule]
 tags:          [kind, kollateralschäden]
 ---

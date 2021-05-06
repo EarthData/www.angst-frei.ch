@@ -4,6 +4,6 @@ redirect:      https://www.beobachter.ch/bildung/schule/schule-in-der-pandemie-d
 title:         Beobachter
 subtitle:      'Schule in der Pandemie: Das System ist an der Grenze'
 country:       CH
-categories:    [Schulen]
+categories:    [Schule]
 tags:          [beobachter, kind]
 ---

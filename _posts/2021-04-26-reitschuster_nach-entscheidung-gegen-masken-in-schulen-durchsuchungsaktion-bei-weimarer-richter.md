@@ -4,6 +4,6 @@ redirect:      https://reitschuster.de/post/nach-entscheidung-gegen-masken-in-sc
 title:         reitschuster
 subtitle:      'Nach Entscheidung gegen Masken in Schulen: Durchsuchungsaktion bei Weimarer Richter'
 country:       DE
-categories:    [Recht, Schulen]
+categories:    [Recht, Schule]
 tags:          [willkür, polizei, weimar]
 ---

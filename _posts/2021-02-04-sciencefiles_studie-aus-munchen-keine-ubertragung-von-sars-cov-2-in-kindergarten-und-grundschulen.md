@@ -4,6 +4,6 @@ redirect:      https://sciencefiles.org/2021/02/04/studie-aus-munchen-keine-uber
 title:         ScienceFiles
 subtitle:      'Studie aus München: KEINE Übertragung von SARS-CoV-2 in Kindergärten und Grundschulen'
 country:       DE
-categories:    [Studie, Schulen]
+categories:    [Studie, Schule]
 tags:          [kind, asymptomatisch]
 ---

@@ -4,6 +4,6 @@ redirect:      https://sciencefiles.org/2021/04/23/das-grose-geschaft-mit-den-nu
 title:         ScienceFiles
 subtitle:      'Das große Geschäft mit den (nutzlosen) Antigen-SARS-CoV-2 Schnelltests (in Kindertagesstätten, Schulen und Betrieben)'
 country:       DE
-categories:    [Schulen, Wirtschaft]
+categories:    [Wirtschaft, Schule]
 tags:          [selbsttest, kind, geld]
 ---

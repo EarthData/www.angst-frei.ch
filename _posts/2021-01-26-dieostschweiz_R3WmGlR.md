@@ -4,6 +4,6 @@ redirect:      https://www.dieostschweiz.ch/artikel/ciao-corona-auf-diesem-duenn
 title:         Die Ostschweiz
 subtitle:      '«Ciao Corona»: Auf diesem dünnen Eis steht die Maske für Schulkinder'
 country:       CH
-categories:    [Schulen]
+categories:    [Schule]
 tags:          [kind, maske]
 ---

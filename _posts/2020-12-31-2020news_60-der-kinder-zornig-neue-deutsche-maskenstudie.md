@@ -4,6 +4,6 @@ redirect:      https://2020news.de/60-der-kinder-zornig-neue-deutsche-maskenstud
 title:         2020 News
 subtitle:      '60% der Kinder zornig: neue deutsche Maskenstudie'
 country:       DE
-categories:    [Studie, Schulen]
+categories:    [Studie, Schule]
 tags:          [kind, maske]
 ---

@@ -4,6 +4,6 @@ redirect:      https://www.wochenblick.at/muenchner-studie-belegt-kindergaerten-
 title:         Wochenblick
 subtitle:      'Münchner Studie belegt: Kindergärten und Grundschulen grundlos geschlossen'
 country:       AT
-categories:    [Schulen, Studie]
+categories:    [Studie, Schule]
 tags:          [kind, asymptomatisch]
 ---

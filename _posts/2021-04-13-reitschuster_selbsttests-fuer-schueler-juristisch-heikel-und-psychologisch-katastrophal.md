@@ -4,6 +4,6 @@ redirect:      https://reitschuster.de/post/selbsttests-fuer-schueler-juristisch
 title:         reitschuster
 subtitle:      'Selbsttests für Schüler: "juristisch heikel und psychologisch katastrophal"'
 country:       DE
-categories:    [Recht, Schulen]
+categories:    [Recht, Schule]
 tags:          [kind, selbsttest]
 ---

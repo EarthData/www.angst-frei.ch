@@ -4,6 +4,6 @@ redirect:      https://tkp.at/2021/04/11/urteil-von-gericht-in-weimar-schuetzt-k
 title:         tp - Science & Technology
 subtitle:      'Urteil von Gericht in Weimar schützt Kinder vor Kindeswohlgefährdung'
 country:       AT
-categories:    [Recht, Schulen]
+categories:    [Recht, Schule]
 tags:          [kind, maske, weimar]
 ---

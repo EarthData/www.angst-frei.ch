@@ -4,6 +4,6 @@ redirect:      https://reitschuster.de/post/gebt-den-kindern-ihre-unschuld-zurue
 title:         reitschuster
 subtitle:      '"Gebt den Kindern ihre Unschuld zurück" – ein offener Hilferuf an eine Schulleiterin'
 country:       DE
-categories:    [Schulen, Widerstand, Mensch]
+categories:    [Widerstand, Mensch, Schule]
 tags:          [kind]
 ---

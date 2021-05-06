@@ -12,7 +12,7 @@ config = YAML.load_file("config.yml")
 tools = Tools.new
 
 files = Dir.glob("../_posts/*-tagesanzeiger_*.md")
-#files = Dir.glob("../_posts/*.md")
+files = Dir.glob("../_posts/*.md")
 
   task = "check_categories"
 #  task = "check_tags"
@@ -64,14 +64,15 @@ files.each do |filename|
   #  counter += 1
   #end
 
-  if meta_data['categories'].include?("Manipulation")
+  if meta_data['categories'].include?("Schulen")
     puts "File: #{filename} (#{counter})"
+    #puts meta_data['tag']
     puts meta_data['categories']
-    meta_data['categories'].delete_at(meta_data['categories'].index("Manipulation"))
+    meta_data['categories'].delete_at(meta_data['categories'].index("Schulen"))
+    #puts meta_data['tag']
     puts meta_data['categories']
-    puts meta_data['tags']
-    meta_data['tags'].push("manipulation")
-    puts meta_data['tags']
+    meta_data['categories'].push("Schule")
+    puts meta_data['categories']
     counter += 1
   end
 

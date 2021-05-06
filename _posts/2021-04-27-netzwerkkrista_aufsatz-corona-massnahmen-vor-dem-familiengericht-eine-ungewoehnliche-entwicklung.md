@@ -4,6 +4,6 @@ redirect:      https://netzwerkkrista.de/2021/04/27/aufsatz-corona-massnahmen-vo
 title:         NetzwerkKRiStA
 subtitle:      'Aufsatz: Corona-Maßnahmen vor dem Familiengericht – eine ungewöhnliche Entwicklung'
 country:       DE
-categories:    [Recht, Schulen]
+categories:    [Recht, Schule]
 tags:          [netzwerkkrista, weimar, weilheim, kind, maske]
 ---

@@ -4,6 +4,6 @@ redirect:      https://www.achgut.com/artikel/corona_schulurteil_was_eltern_jetz
 title:         Achgut.com
 subtitle:      'Corona-Schulurteil: Was Eltern jetzt tun können'
 country:       DE
-categories:    [Schulen, Recht, Widerstand]
+categories:    [Recht, Widerstand, Schule]
 tags:          [kind, maske, massentest]
 ---

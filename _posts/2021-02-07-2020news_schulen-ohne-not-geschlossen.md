@@ -4,6 +4,6 @@ redirect:      https://2020news.de/schulen-ohne-not-geschlossen/
 title:         2020 News
 subtitle:      'Schulen ohne Not geschlossen?'
 country:       DE
-categories:    [Schulen, Zahlen]
+categories:    [Zahlen, Schule]
 tags:          [kind]
 ---
