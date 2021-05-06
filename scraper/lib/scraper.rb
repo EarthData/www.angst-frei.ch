@@ -99,7 +99,7 @@ class Scraper
         description = description.match(/([^]*)/)[1]
       end
       if description.match(/…/)
-        description = description.match(/([^…]*)…/)[1].strip
+        description = description.match(/([^…]*…)/)[1].strip
       end
       puts "Description: #{description} (og)" if debug
     else 
