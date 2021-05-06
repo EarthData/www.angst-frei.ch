@@ -89,6 +89,9 @@ class Scraper
     # description
     if doc.at("meta[name='description']")
       description = doc.at("meta[name='description']")['content'].to_s.strip
+      if description.match(/<span.*<\/span>/)
+        description = description.match(/<span[^>]*>([^<]*)<\/span>/)[1]
+      end
       puts "Description: #{description} (meta)" if debug
     elsif doc.at("meta[property='og:description']")
       description = doc.at("meta[property='og:description']")['content'].to_s.strip
