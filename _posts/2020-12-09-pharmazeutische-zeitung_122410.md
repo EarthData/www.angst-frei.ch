@@ -5,5 +5,5 @@ title:         Pharmazeutische Zeitung
 subtitle:      'mRNA-Impfstoffe gegen Covid-19: Impfreaktionen können sehr heftig sein'
 country:       DE
 categories:    [Wissenschaft, Impfung]
-tags:          [pharmazeutische zeitung, impf-nebenwirkungen]
+tags:          [impf-nebenwirkungen]
 ---

@@ -5,6 +5,6 @@ title:         Corona Transition
 subtitle:      'Das SPARS-Manuskript — die Generalprobe für das Pandemie-Theater?'
 country:       CH
 persons:       [Gates Bill]
-categories:    [Mensch]
+categories:    [P(l)andemie]
 tags:          [event 201, who, spars]
 ---

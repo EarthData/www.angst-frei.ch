@@ -5,5 +5,5 @@ title:         Pharmazeutische Zeitung
 subtitle:      'Produkteigenschaften: Mehr Details zum Biontech-Impfstoff'
 country:       DE
 categories:    [Wissenschaft, Impfung]
-tags:          [pharmazeutische zeitung, biontech]
+tags:          [biontech]
 ---

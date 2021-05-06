@@ -4,6 +4,6 @@ redirect:      https://tkp.at/2021/02/21/der-kampf-gegen-die-verwendung-von-vita
 title:         tp - Science & Technology
 subtitle:      'Der Kampf gegen die Verwendung von Vitamin D'
 country:       AT
-categories:    [Studie, Medizin, Wissenschaft]
+categories:    [Studie, Gesundheit, Wissenschaft]
 tags:          [vitamin d]
 ---

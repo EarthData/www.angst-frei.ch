@@ -5,5 +5,5 @@ title:         Die Ostschweiz
 subtitle:      'Das Covid19-Gesetz und die Blanko-Vollmacht für den Bundesrat'
 country:       CH
 categories:    [Recht]
-tags:          [demokratie]
+tags:          [bundesrat, covid-19-gesetz]
 ---

@@ -4,6 +4,6 @@ redirect:      https://www.dieostschweiz.ch/artikel/den-teufel-mit-dem-beelzebub
 title:         Die Ostschweiz
 subtitle:      'Den Teufel mit dem Beelzebub austreiben?'
 country:       CH
-categories:    [Mensch]
-tags:          []
+categories:    [MSM, Mensch]
+tags:          [willkür, china]
 ---

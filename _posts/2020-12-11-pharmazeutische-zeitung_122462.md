@@ -5,5 +5,5 @@ title:         Pharmazeutische Zeitung
 subtitle:      'Biontech-Impfstoff: Mit diesen Nebenwirkungen ist zu rechnen'
 country:       DE
 categories:    [Wissenschaft, Impfung]
-tags:          [pharmazeutische zeitung, impf-nebenwirkungen, biontech]
+tags:          [impf-nebenwirkungen, biontech]
 ---

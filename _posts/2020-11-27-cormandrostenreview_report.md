@@ -7,5 +7,5 @@ country:       COM
 timeline:      Wissenschaft
 persons:       [Drosten Christian]
 categories:    [Wissenschaft]
-tags:          [cormandrostenreview, pcr-test]
+tags:          [pcr-test]
 ---

@@ -4,6 +4,6 @@ redirect:      https://www.srf.ch/news/schweiz/peinliche-beschaffungs-panne-vbs-
 title:         SRF
 subtitle:      'Peinliche Beschaffungs-Panne - VBS-Masken fallen im Qualitätstest durch'
 country:       CH
-categories:    [MSM, Wissenschaft]
+categories:    [MSM, Gesundheit]
 tags:          [maske]
 ---

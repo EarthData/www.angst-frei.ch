@@ -5,5 +5,5 @@ title:         Wochenblick
 subtitle:      'USA: 6 Tote während Pfizer-Imfpfstofftestungen, Warnung für Allergiker'
 country:       AT
 categories:    [Impfung]
-tags:          [mit oder an impfung gestorben, impf-nebenwirkungen]
+tags:          [mit oder an impfung gestorben, impf-nebenwirkungen, biontech, usa]
 ---

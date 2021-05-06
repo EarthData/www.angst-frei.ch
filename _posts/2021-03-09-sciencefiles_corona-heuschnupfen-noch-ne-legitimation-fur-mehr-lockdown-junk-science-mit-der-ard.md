@@ -5,5 +5,5 @@ title:         ScienceFiles
 subtitle:      'Corona-Heuschnupfen: Noch ne Legitimation für mehr Lockdown – Junk Science mit der ARD'
 country:       DE
 categories:    [MSM, Studie]
-tags:          [ard, lockdown, manipulation]
+tags:          [lockdown, manipulation]
 ---

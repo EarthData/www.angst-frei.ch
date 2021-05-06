@@ -4,6 +4,6 @@ redirect:      https://infekt.ch/2020/11/kinder-in-coronazeiten/
 title:         infekt.ch
 subtitle:      'Kinder in Coronazeiten'
 country:       CH
-categories:    [Wissenschaft]
+categories:    [Medizin, Mensch]
 tags:          [kind]
 ---

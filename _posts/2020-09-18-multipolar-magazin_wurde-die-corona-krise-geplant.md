@@ -5,6 +5,6 @@ title:         multipolar
 subtitle:      'Wurde die Corona-Krise geplant?'
 country:       DE
 persons:       [Gates Bill]
-categories:    [MSM, Politik]
+categories:    [P(l)andemie]
 tags:          [wef, event 201, manipulation]
 ---

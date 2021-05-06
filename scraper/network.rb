@@ -29,7 +29,7 @@ files.each do |filename|
   year = meta_data['date'].strftime("%Y").to_i
   month = meta_data['date'].strftime("%m").to_i
 
-  next if year > 2020 #or month > 10 
+  next if year < 2021 or month > 2
 
   puts "File: #{filename} (#{counter})"
   counter += 1

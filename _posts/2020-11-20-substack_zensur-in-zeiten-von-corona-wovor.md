@@ -5,6 +5,6 @@ title:         substack.com
 subtitle:      'Zensur in Zeiten von Corona: wovor hat man eigentlich solche Angst?'
 country:       COM
 persons:       [Matuschek Milosz]
-categories:    [Politik]
-tags:          [angst, zensur, manipulation]
+categories:    [Recht, Politik, MSM]
+tags:          [zensur, dialog]
 ---

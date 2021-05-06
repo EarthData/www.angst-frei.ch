@@ -5,5 +5,5 @@ title:         Achgut.com
 subtitle:      'Zitate erfunden? Das Schweigen des ZDF'
 country:       DE
 categories:    [MSM]
-tags:          [ard, zdf, manipulation]
+tags:          [manipulation]
 ---

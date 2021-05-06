@@ -4,6 +4,6 @@ redirect:      https://tkp.at/2020/12/28/raetselhafte-zahlen-bei-belegung-von-in
 title:         tp - Science & Technology
 subtitle:      'Rätselhafte Zahlen bei Belegung von Intensivstationen in Europa'
 country:       AT
-categories:    [Spital]
-tags:          []
+categories:    [Spital, Zahlen]
+tags:          [manipulation]
 ---

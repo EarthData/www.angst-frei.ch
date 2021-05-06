@@ -4,6 +4,6 @@ redirect:      https://www.pharmazeutische-zeitung.de/sinnvoll-nur-bei-richtiger
 title:         Pharmazeutische Zeitung
 subtitle:      'FFP2-Maskenpflicht: Sinnvoll nur bei richtiger Anwendung der Masken'
 country:       DE
-categories:    [Wissenschaft]
-tags:          [pharmazeutische zeitung, maske]
+categories:    [Gesundheit]
+tags:          [maske]
 ---

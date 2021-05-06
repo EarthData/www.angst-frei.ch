@@ -5,5 +5,5 @@ title:         Achgut.com
 subtitle:      'ARD- und ZDF-Faktenchecker erwischt: Die Schamlosen'
 country:       DE
 categories:    [MSM]
-tags:          [ard, zdf, manipulation]
+tags:          [manipulation]
 ---

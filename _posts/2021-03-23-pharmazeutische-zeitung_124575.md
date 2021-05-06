@@ -5,5 +5,5 @@ title:         Pharmazeutische Zeitung
 subtitle:      'Klinische Prüfung geplant: Schluckimpfung gegen Covid-19'
 country:       DE
 categories:    [Impfung, Medizin]
-tags:          [pharmazeutische zeitung]
+tags:          []
 ---

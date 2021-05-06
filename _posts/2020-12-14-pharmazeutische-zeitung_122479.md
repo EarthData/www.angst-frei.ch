@@ -5,5 +5,5 @@ title:         Pharmazeutische Zeitung
 subtitle:      'Australien: Covid-19-Impfstoffprojekt wegen Nebeneffekt gestoppt'
 country:       DE
 categories:    [Wissenschaft, Impfung]
-tags:          [pharmazeutische zeitung, australien, impf-nebenwirkungen]
+tags:          [australien, impf-nebenwirkungen]
 ---

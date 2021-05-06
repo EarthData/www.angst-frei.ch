@@ -5,5 +5,5 @@ title:         Pharmazeutische Zeitung
 subtitle:      'Fallbericht: PEG als ein Anaphylaxie-Auslöser nach Covid-Impfung bestätigt'
 country:       DE
 categories:    [Impfung]
-tags:          [pharmazeutische zeitung, impf-nebenwirkungen]
+tags:          [impf-nebenwirkungen]
 ---
