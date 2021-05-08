@@ -4,6 +4,12 @@ title:    Kritik
 subtitle: Schweiz
 ---
 
+## Aktionsbündnis Ostschweiz
+
+Für Verhältnismässigkeit, Wahrheit und Transparenz
+
+| {{ site.icons.globe }}    | [www.aktionsbuendnis-ostschweiz.ch](https://www.aktionsbuendnis-ostschweiz.ch/) |
+
 ## Corona Dialog
 
 Fachleute aus der Medizin, der Verwaltung oder der Wirtschaft treffen sich zur Diskussion. Sachbezogen, auf der Basis von Fakten.
