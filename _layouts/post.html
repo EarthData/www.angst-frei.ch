@@ -42,11 +42,11 @@ layout: base
       <article role="main" class="blog-post">
         {% if page.redirect %}
         <a href="{{ page.redirect | absolute_url }}">{{ page.redirect | absolute_url }}</a>
-        {% else %}
-          {{ content }}
-        {% endif %}
         {%- if page.description -%}
         <p>{{ page.description }}</p>
+        {% endif %}
+        {% else %}
+          {{ content }}
         {% endif %}
       </article>
 

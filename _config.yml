@@ -133,6 +133,9 @@ paginate_path: "/blog/page:num/"
 markdown: kramdown
 remote_theme: EarthData/beautiful-jekyll
 
+redcarpet:
+  extensions: ["no_intra_emphasis", "tables", "autolink", "strikethrough", "with_toc_data"]
+
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 mobile-theme-col: "#FFCD9E"
 navbar-col: "#FFE5CC"
