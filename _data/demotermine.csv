@@ -49,6 +49,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2600,CH,2021-05-12,18:00:00,2542,Pieterlen,Bahnhof,Spaziergang,,unknown,
 2738,DE,2021-05-12,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
 2941,DE,2021-05-12,18:00:00,09669,Frankenberg,Markt,Kundgebung,,unbeaknnt,
+3029,DE,2021-05-12,18:00:00,10557,Berlin,Bundeskanzleramt,Kundgebung,https://youtube.com/user/cheeta030,AfD Landesverband Brandenburg,
 2593,CH,2021-05-12,18:30:00,9470,Buchs / SG,Lokremise,Spaziergang,,unknown,
 2956,DE,2021-05-13,13:00:00,82481,Mittenwald,Festplatz / Rathaus,Kundgebung,,Freiheitsboten Oberland,https://www.freiheitsboten-oberland.de
 2453,DE,2021-05-13,15:00:00,84503,Altötting,Volksfestplatz,Versammlung,,Bayern steht zusammen e.V.,https://www.bayern-steht-zusammen.de/TERMINE/
@@ -67,6 +68,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3013,DE,2021-05-15,15:00:00,86152,Augsburg,Königsplatz,Revolte,,unbekannt,
 2691,AT,2021-05-16,14:00:00,6900,Bregenz,Kornmarktplatz,Kundgebung,,unbekannt,https://corona-demo.at/
 2648,CH,2021-05-16,14:00:00,9450,Altstätten / SG,Reformierte Kirche,Spaziergang,,unknown,
+3030,DE,2021-05-16,16:00:00,06682,Teuchern,Mühlstr. / RTS Platz,Spaziergang,,,
 2642,LI,2021-05-16,18:00:00,9490,Vaduz,Peter-Kaiser-Platz,Spaziergang,,unknown,
 3001,DE,2021-05-17,15:00:00,10177,Berlin,Brandenburger Tor,Kundgebung,https://www.facebook.com/Demokratievs1984,#ESREICHT,https://www.twitch.tv/demokratievs1984
 3002,DE,2021-05-17,15:00:00,10177,Berlin,Brandenburger Tor,Livestream,https://www.facebook.com/Demokratievs1984,#ESREICHT,https://www.twitch.tv/demokratievs1984
@@ -77,6 +79,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2675,DE,2021-05-17,18:00:00,06844,Dessau-Roßlau,Rathaus / Friedensglocke,Spaziergang,,Privat,https://t.me/MontagsMahnwache
 2899,DE,2021-05-17,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,unbekannt,
 2890,DE,2021-05-17,19:00:00,06682,Teuchern,RTS Platz Mühlstraße,Spaziergang,,unbekannt,
+3031,DE,2021-05-17,19:00:00,06682,Teuchern,Mühlstr. / RTS Platz,Spaziergang,,,
 2566,CH,2021-05-17,19:00:00,6004,Luzern,Schwanenplatz,Spaziergang,,unbekannt,
 2939,DE,2021-05-17,19:00:00,09661,Hainichen,Markt,Kundgebung,,unbekannt,
 2588,CH,2021-05-19,14:00:00,4410,Liestal,Bahnhof,Spaziergang,,unknown,
