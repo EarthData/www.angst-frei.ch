@@ -38,7 +38,7 @@ Die Strategie hinter der geplanten US-Sammelklage begleiten die schon aus dem Be
 
 ## klagePATEN
 
-Die KlagePATEN sind ein Verein mit jahrelanger Erfahrung in rechtlichen Auseinandersetzungen mit Behörden und Dienststellen. 
+Die KlagePATEN sind ein Verein mit jahrelanger Erfahrung in rechtlichen Auseinandersetzungen mit Behörden und Dienststellen.
 
 | {{ site.icons.globe }}    | [klagepaten.eu](https://klagepaten.eu/) |
 | {{ site.icons.globe }}    | [klagepaten.eu FAQ](https://klagepaten.eu/faq/) |
@@ -56,7 +56,7 @@ Das Netzwerk setzt sich kritisch mit den seit fast einem Jahr bestehenden Maßna
 
 ## Petition für eine ARD-Sondersendung "Wie gefährlich ist Corona?"
 
-Petition für eine ARD-Sondersendung "Wie gefährlich ist Corona?" 
+Petition für eine ARD-Sondersendung "Wie gefährlich ist Corona?"
 
 | {{ site.icons.globe }}    | [www.openpetition.de](https://www.openpetition.de/petition/online/ard-sondersendung-wie-gefaehrlich-ist-corona) |
 

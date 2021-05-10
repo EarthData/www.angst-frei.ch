@@ -69,6 +69,7 @@ sitename:
   n-tv: ntv
   nzz: NZZ
   nytimes: The New York Times
+  parlament: Das Schweizer Parlament
   pharmazeutische-zeitung: Pharmazeutische Zeitung
   reitschuster: reitschuster
   rnd: RND
@@ -101,13 +102,13 @@ tag:
   dgpi: dgpi
   ema: ema
   fm1today: fm1today
-  focus: focus
   infekt: infekt
   insideparadeplatz: inside-paradeplatz
   medinside: medinside
   meinbezirk: meinbezirk
   nature: nature
   orf: orf
+  parlament: parlament
   substack: substack
   derstandard: standard
   schweizermonat: schweizermonat

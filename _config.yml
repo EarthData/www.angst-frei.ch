@@ -128,13 +128,22 @@ icons:
 
 paginate: 15 
 paginate_path: "/blog/page:num/"
+permalink: "/:year/:month/:day/:title"
 
 # Build settings
+#markdown: CommonMarkGhPages
+#commonmark:
+#   options:
+#   - HARDBREAKS
+#   - SMART
+#   extensions:
+#   - autolink
+#   - table
 markdown: kramdown
-remote_theme: EarthData/beautiful-jekyll
+kramdown:
+  hard_wrap: true
 
-redcarpet:
-  extensions: ["no_intra_emphasis", "tables", "autolink", "strikethrough", "with_toc_data"]
+remote_theme: EarthData/beautiful-jekyll
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 mobile-theme-col: "#FFCD9E"

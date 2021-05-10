@@ -105,7 +105,7 @@ Mutigmacher möchte Menschen ermutigen, bisher unbekannte, aber für die Gesells
 
 ## Newsletter Eltern für Aufklärung und Freiheit
 
-Wir sind Eltern, Großeltern, Erzieher und Lehrer. Wir setzen uns für die freie Entfaltung unserer Kinder ein, frei von Zwangsmaßnahmen, die mit der derzeitigen Corona-Situation begründet werden. Wir wünschen uns mehr Entscheidungsfreiheit für alles, was unsere Kinder betrifft. 
+Wir sind Eltern, Großeltern, Erzieher und Lehrer. Wir setzen uns für die freie Entfaltung unserer Kinder ein, frei von Zwangsmaßnahmen, die mit der derzeitigen Corona-Situation begründet werden. Wir wünschen uns mehr Entscheidungsfreiheit für alles, was unsere Kinder betrifft.
 Wir haben uns zum Ziel gesetzt unsere Kinder vor staatlicher Willkür zu schützen.
 
 | {{ site.icons.telegram }} | [EfAuF_Newsletter](https://t.me/EfAuF_Newsletter) |

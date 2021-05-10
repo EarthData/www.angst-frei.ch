@@ -1,7 +1,7 @@
 ---
 layout:   page
 title:    Kritik
-subtitle: Österreich 
+subtitle: Österreich
 ---
 
 ## Corona Datencheck

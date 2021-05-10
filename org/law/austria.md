@@ -18,7 +18,7 @@ Wir haben uns als unabhängige, keiner politischen Partei oder Bewegung angehör
 
 | {{ site.icons.globe }}    | [www.afa-zone.at](https://www.afa-zone.at/) |
 
-## Volksbegehren „Wiedergutmachung der COVID-19-Massnahmen“ 
+## Volksbegehren „Wiedergutmachung der COVID-19-Massnahmen“
 
 Die vielen willkürlichen Vorschriften der Regierung haben massive menschliche, soziale und wirtschaftliche Schäden verursacht. Durch verfassungsgesetzliche Maßnahmen sollen alle Covid-19-Gesetze zurückgenommen, entsprechende Strafen aufgehoben, bezahlte Strafen refundiert und Schadenersatz nach dem bisherigen Epidemie-Gesetz anerkannt werden. Daten müssen privat bleiben, der Verfassungsgerichtshof soll Eilentscheidungen treffen und Amtshaftung auch bei verfassungswidrigen Gesetzen möglich sein.
 

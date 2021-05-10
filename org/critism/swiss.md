@@ -127,7 +127,7 @@ Unsere Landesregierung verfolgt offensichtlich eine Agenda, welche nichts mit Co
 
 ## Reiner Tisch
 
-Eine ausgewählte Sammlung interessanter Meinungen und Fakten zum Thema Corona. 
+Eine ausgewählte Sammlung interessanter Meinungen und Fakten zum Thema Corona.
 
 | {{ site.icons.globe }}    | [www.reinertisch.org](https://www.reinertisch.org/) |
 
