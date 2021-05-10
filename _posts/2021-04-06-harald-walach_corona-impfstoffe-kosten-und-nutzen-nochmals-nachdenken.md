@@ -5,5 +5,5 @@ title:         Prof. Harald Walach
 subtitle:      'Corona-Impfstoffe: Kosten und Nutzen – Nochmals nachdenken!'
 country:       DE
 categories:    [Impfung, Zahlen]
-tags:          [walach, impf-nebenwirkungen, ema]
+tags:          [impf-nebenwirkungen, ema]
 ---

@@ -93,7 +93,6 @@ tag:
   1bis19: 1bis19
   aargau-zuerich: aargau-zuerich
   admin: bundesrat
-  aerzteblatt: ärzteblatt
   bag: bundesrat
   bernerzeitung: bernerzeitung
   cducsu: cducsu
@@ -118,8 +117,6 @@ tag:
   nytimes: nytimes
   t-online: t-online
   tichyseinblick: tichyseinblick
-  vera-lengsfeld: vera-lengsfeld
-  harald-walach: walach
   zeitpunkt: zeitpunkt
 subtitle:
   2020news: last-
@@ -175,6 +172,7 @@ country:
   telegra: EU
   unser-mitteleuropa: EU
 filename:
+  rnd: ignoredowncase
   dieostschweiz: ignoredowncase
   kinder-maskenpetition: ignoredowncase
 category:

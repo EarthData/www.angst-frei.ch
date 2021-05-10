@@ -5,5 +5,5 @@ title:         Prof. Harald Walach
 subtitle:      'Corona-Faktencheck'
 country:       DE
 categories:    [Wissenschaft]
-tags:          [walach, maske, angst]
+tags:          [maske, angst]
 ---
