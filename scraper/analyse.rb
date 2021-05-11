@@ -11,7 +11,7 @@ counter = 1
 
 config = YAML.load_file("config.yml")
 
-files = Dir.glob("../_posts/*-reitschuster_*.md")
+files = Dir.glob("../_posts/*-linth24_*.md")
 #files = Dir.glob("../_posts/2021-04-29-nach*.md")
 #files = Dir.glob("../_posts/*.md")
 
@@ -47,6 +47,11 @@ files.each do |filename|
     puts "no redirect found"
     next
   end
+
+#  if !meta_data['description']
+#    puts "no description found"
+#  end
+#  next
 
 #  if meta_data['title'].match?(/reitschuster|Wochenblick|Tagesanzeiger|linth24|Die Ostschweiz|ScienceFiles|FM1 Today/)
 #    next
