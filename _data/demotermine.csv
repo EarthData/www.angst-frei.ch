@@ -1,5 +1,6 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
 3007,DE,2021-05-11,18:00:00,74906,Bad Rappenau,Kirchplatz,Kundgebung,,unbekannt,
+3067,DE,2021-05-11,18:30:00,79108,Freiburg,Flugplatz / Neues SC-Stadion,Autokorso,,unbekannt,
 3042,DE,2021-05-11,22:00:00,06108,Halle,Markt / Ostseite,Kundgebung,,Sven Liebich,https://t.me/InSvensWelt
 3011,DE,2021-05-12,13:00:00,10875,Berlin,Potsdamer Platz / Ebertstr.,Mahnwache,,unbekannt,
 2587,CH,2021-05-12,14:00:00,4410,Liestal,Bahnhof,Spaziergang,,unknown,
@@ -22,8 +23,10 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2742,DE,2021-05-13,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2612,CH,2021-05-13,19:00:00,9000,St. Gallen,Blumenmarkt,Spaziergang,,unknown,
 2618,CH,2021-05-13,19:00:00,6170,Schüpfheim,Bahnhof,Spaziergang,,unknown,
+3070,DE,2021-05-13,19:30:00,78467,Konstanz,Berchenplatz,Sport,,unbekannt,
 2606,CH,2021-05-13,20:00:00,8750,Glarus,Rathausplatz,Spaziergang,,unknown,
 3044,DE,2021-05-13,22:00:00,06108,Halle,Markt / Ostseite,Kundgebung,,Sven Liebich,https://t.me/InSvensWelt
+3066,DE,2021-05-14,15:00:00,77654,Offenburg,amand-goegg str,Aufzug,,unbekannt,
 3051,DE,2021-05-14,15:00:00,87616,Marktoberdorf,Schwabenstr. 11 / Schulamt,Kundgebung,,unbekannt,
 3056,DE,2021-05-14,17:30:00,02943,Weißwasser,Marktplatz,Autokorso,,Freiheitsvirus WSW,
 2966,DE,2021-05-14,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,grundrechte.jetzt,www.grundrechte.jetzt
@@ -38,8 +41,10 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3061,DE,2021-05-15,10:30:00,79271,St. Peter,Zähringer Eck / Rossweiher,Versammlung,,Schwarzwald Netzwerk,https://schwarzwald-netzwerk.de/
 2560,CH,2021-05-15,13:00:00,2000,Neuchâtel,Jeunes Rives,Kundgebung,,Stiller Protest,
 3046,DE,2021-05-15,13:00:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,Bürgerinitiative aufRECHT:FREIdenken,https://www.solidarnosch.de
+3069,DE,2021-05-15,14:00:00,78467,Konstanz,Radbrücke-Herosepark,Mahnwache,,unbekannt,
 3055,DE,2021-05-15,14:00:00,40211,Düsseldorf,Hofgarten,Kundgebung,,unbekannt,
 3064,DE,2021-05-15,15:00:00,90489,Nürnberg,Wöhrder Wiese,Kundgebung,,Querdenken,https://querdenken-911.com
+3065,DE,2021-05-15,15:00:00,48143,Münster,Aasee/Kugeln,Kundgebung,,Gemeinsam für Grundrechte,
 3058,DE,2021-05-15,15:00:00,07546,Gera,Industriestr.,Autokorso,,unbekannt,
 3013,DE,2021-05-15,15:00:00,86152,Augsburg,Königsplatz,Revolte,,unbekannt,
 3060,DE,2021-05-16,14:00:00,84137,Vilsbiburg,Stadthallenparkplatz,Kundgebung,,Gerhard Pettenkofer und Bayern steht zusammen e.V.,https://www.bayern-steht-zusammen.de/TERMINE/
@@ -52,6 +57,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2581,CH,2021-05-17,18:00:00,8636,Wald / ZH,Hallenbad / Windegg,Spaziergang,,unknown,
 2575,CH,2021-05-17,18:00:00,6362,Stansstad,Hafen,Spaziergang,,unknown,
 2284,DE,2021-05-17,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
+3071,DE,2021-05-17,18:00:00,78462,Konstanz,Marktstätte,Mahnwache,,unbekannt,
 2912,DE,2021-05-17,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,Privat,https://t.me/LichterspaziergangGT
 2675,DE,2021-05-17,18:00:00,06844,Dessau-Roßlau,Rathaus / Friedensglocke,Spaziergang,,Privat,https://t.me/MontagsMahnwache
 2899,DE,2021-05-17,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,unbekannt,
@@ -124,6 +130,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2289,DE,2021-06-21,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 2845,DE,2021-06-24,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 2290,DE,2021-06-28,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
+3068,DE,2021-07-03,15:00:00,44787,Bochum,Kirmesplatz,Demonstration,,Querdenken 234 - Bochum,https://querdenken-234.de
 2942,DE,2021-07-17,12:00:00,17207,Röbel Müritz,ZOB,Spaziergang,,Freie Kräfte MV,
 2271,DE,2021-10-04,14:30:00,06232,Speyer,Domplatz,Kundgebung,https://dlive.tv/Live-Reports-DUEW,Querdenken 6341,https://www.querdenken-6341.de
 1960,DE,2021-11-05,18:00:00,10117,Berlin,Pariser Platz / Brandenburger Tor,MillionMaskMarch,https://anonymous.support/live,Anonymous,https://anonymous.support
