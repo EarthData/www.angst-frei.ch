@@ -1,10 +1,12 @@
 toc:
   - title: Infos
     subfolderitems:
-      - page: Schweiz - Politisches
-        url: infos/swiss-politisches.html
+      - page: Politisches
+        url: infos/info-politisches.html
+      - page: Impfung
+        url: infos/info-impfung.html
       - page: Schweiz - Vorgehen Maske Kind
-        url: infos/swiss-vorgehen-maske-kind.html
+        url: infos/info-vorgehen-maske-kind.html
   - title: Medien
     subfolderitems:
       - page: Bücher

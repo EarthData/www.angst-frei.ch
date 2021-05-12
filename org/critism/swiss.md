@@ -54,6 +54,13 @@ Dem Wohl der Kinder verpflichtet.
 
 | {{ site.icons.globe }}    | [www.elternfuerkinder.ch](https://www.elternfuerkinder.ch/)
 
+## Freiheitstrychler
+
+Wir Freiheitstrychler pflegen ein altes schweizerisches Brauchtum und ziehen friedlich mit grossen Trychlen, durch die Strassen der Eidgenossenschaft. Wir stehen für Frieden, Freiheit und Demokratie. Wir sind die Stimme des Souveräns. 
+
+| {{ site.icons.globe }}    | [https://freiheitstrychler.ch/](https://freiheitstrychler.ch/) |
+| {{ site.icons.telegram }} | [Freiheitstrychler](https://t.me/freiheitstrychler) |
+
 ## FRIEDvolles Einstehen für unsere Grundrechte und Demokratie
 
 Wir gestalten ein GEMEINSAMES Vorgehen von kreativen und vor allem FRIEDvollen Aktionen und anderem, um unsere Antwort als Volk dem Bundesrat zu geben.

@@ -1,7 +1,7 @@
 ---
 layout:   page
 title:    Politik
-subtitle: Schweiz - Politisches
+subtitle: Politische Initiativen
 ---
 
 ## Inhalt
@@ -53,6 +53,10 @@ subtitle: Schweiz - Politisches
 
  * [Sofortige Offenlegung der Verträge mit dem Pharmakonzernen bezüglich Covid-19-Impfstoff-Kauf](https://act.campax.org/petitions/sofortige-offenlegung-der-vertrage-mit-den-pharmakonzernen-bezuglich-covid-19-impfstoff-kauf-1)
  * [Moratorium für RNA-Impfstoffe](https://swiss-freedom.ch/de)
+
+#### Deutschalnd
+
+ * [Keine Corona-Impfpflicht für Kinder](https://www.change.org/p/jens-spahn-keine-corona-impfpflicht-f%C3%BCr-kinder)
 
 #### Europa
 
