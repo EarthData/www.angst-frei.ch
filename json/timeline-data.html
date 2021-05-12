@@ -18,7 +18,7 @@ permalink: /json/timeline-data.json
   },
   "events": [
     {%- for post in site.posts -%}
-      {%- if post.timeline -%}
+      {%- if post.timeline and post.timeline == "P(l)andemie"-%}
         {%- capture year -%}{{ post.date | date: "%Y" }}{%- endcapture -%}
         {%- capture month -%}{{ post.date | date: "%-m" }}{%- endcapture -%}
         {%- capture day -%}{{ post.date | date: "%-d" }}{%- endcapture -%}

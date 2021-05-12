@@ -25,37 +25,7 @@ class Scraper
       clean_url = url.split('?')[url.split('?').length - 2]
     end
 
-    file = clean_url.split('/').last
-    document = File.basename(file,File.extname(file))
-
-    if config['article'][domain] == "last"
-      document = document.split('-').last
-    elsif config['article'][domain] == "last_"
-      document = document.split('_').last
-    elsif config['article'][domain] == "lastdot"
-      document = clean_url.split('.').last
-    elsif config['article'][domain] == "lastcomma"
-      document = document.split(',').last
-    elsif config['article'][domain] == "first"
-      document = document.split('-').first
-    elsif config['article'][domain] == "previous"
-      document = clean_url.split('/')[clean_url.split('/').length - 2]
-    elsif config['article'][domain] == "pprevious"
-      document = clean_url.split('/')[clean_url.split('/').length - 3]
-    elsif config['article'][domain] == "cMeta"
-      parameters = URI(url).query.split('&')
-      parameters.each do |parameter|
-        if parameter.match(/^cMeta=/)
-          document = parameter.split('=')
-        end
-      end
-    elsif config['article'][domain] == "page"
-      document = clean_url.split('/').last.split("=")[1]
-    end
-
-    if config['filename'][domain] != "ignoredowncase"
-      document.downcase!
-    end
+    document = tools.get_filename(url, domain, debug)
 
     puts "filename: #{document}" if debug
 

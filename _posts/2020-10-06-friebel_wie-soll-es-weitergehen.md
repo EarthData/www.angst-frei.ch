@@ -3,8 +3,8 @@ date:       2020-10-06
 layout:     post
 title:      Sebastian Friebel
 subtitle:   "Wie soll es weitergehen?"
-timeline:   "P(l)andemie"
-categories: [P(l)andemie, Politik]
+timeline:   Dokumentation
+categories: [Politik, P(l)andemie]
 tags:       [pdf, demokratie]
 link:       "/assets/files/events/Wie-soll-es-weitergehen.pdf"
 ---

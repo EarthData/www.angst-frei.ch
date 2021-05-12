@@ -3,10 +3,10 @@ require 'gastly'
 
 class Archive
 
-  def pdf(url, path, filename) 
+  def pdf(url, filename) 
     #  pdf
     kit = PDFKit.new(url)
-    kit.to_file("#{filename}.pdf")
+    kit.to_file("../assets/files/websites/#{filename}.pdf")
   end
 
   def screenshot(url, path, filename)

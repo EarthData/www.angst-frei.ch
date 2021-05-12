@@ -1,0 +1,61 @@
+---
+layout:
+title:
+permalink: /json/timeline-plandemie.json
+---
+
+{
+  "title": {
+    "media": {
+      "url": "//www.angst-frei.ch/assets/img/hope.jpg",
+      "caption": "Wenn Unrecht zu Recht wird, wird Widerstand zur Pflicht",
+      "credit": ""
+    },
+    "text": {
+      "headline": "Timeline",
+      "text": "Ein Zeitstrahl mit allen wichtigen Ereignissen zu Covid"
+    }
+  },
+  "events": [
+    {%- assign all_posts = site.posts | where: "timeline", "P(l)andemie" -%}
+    {%- for post in all_posts -%}
+      {% assign filename = post.url | replace_first: '/', '' | replace: '/', '-'  | append: '.pdf' %}
+      {%- capture year -%}{{ post.date | date: "%Y" }}{%- endcapture -%}
+       {%- capture month -%}{{ post.date | date: "%-m" }}{%- endcapture -%}
+       {%- capture day -%}{{ post.date | date: "%-d" }}{%- endcapture -%}
+       {
+         "background": {
+           "url": "/assets/img/timeline/{{ post.timeline }}.jpg"
+         },
+         "media": {
+           {%- if post.youtubeId -%}
+           "url": "https://www.youtu.be/{{ post.youtubeId }}",
+           {%- elsif post.bitchuteId -%}
+           "url": "<iframe src='https://www.bitchute.com/embed/{{ post.bitchuteId }}'/>",
+           {%- elsif post.vimeoId -%}
+           "url": "<iframe src='https://player.vimeo.com/video/{{ post.vimeoId }}?title=0&byline=0&portrait=0'/>",
+           {%- elsif post.arteId -%}
+           "url": "<iframe src='https://www.arte.tv/player/v5/index.php?json_url=https://api.arte.tv/api/player/v2/config/de/{{ post.arteId }}&lang=de&autoplay=true&mute=0'/>",
+           {%- elsif post.link -%}
+           "url": "{{ post.link }}",
+           {%- else -%}
+           "url": "/assets/files/websites/{{ filename }}",
+           "link": "{{ post.redirect }}",
+           {%- endif -%}
+           "caption": "{{ post.tags | join: ", " }}",
+           "credit": ""
+         },
+         "group": "{{ post.timeline }}",
+         "start_date": {
+           "month": {{ month }},
+           "day": {{ day }},
+           "year": {{ year }}
+         },
+         "text": {
+           "headline": "{{ post.subtitle | replace: '"', "'" }}",
+           "text": "{{ post.title | replace: '"', "'" }}"
+         }
+       }{%- unless forloop.last -%},{%- endunless -%}
+    {%- endfor -%}
+  ]
+}
