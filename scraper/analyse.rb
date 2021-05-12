@@ -11,7 +11,7 @@ counter = 1
 
 config = YAML.load_file("config.yml")
 
-files = Dir.glob("../_posts/*-heise_*.md")
+files = Dir.glob("../_posts/*-substack_*.md")
 #files = Dir.glob("../_posts/2021-04-29-nach*.md")
 #files = Dir.glob("../_posts/*.md")
 
@@ -39,7 +39,9 @@ files.each do |filename|
   end
 
 #  if !meta_data['description']
-#    puts "no description found"
+#     puts "File: #{filename} (#{counter})"
+#     puts "no description found"
+#     counter += 1
 #  end
 #  next
 
