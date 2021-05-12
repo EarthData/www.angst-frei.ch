@@ -243,6 +243,21 @@ class Scraper
       puts "Change title to: #{subtitle}" if debug
     end
 
+    if description.match(/Ã¤/)
+      puts "Converting from Windows-1252 to UTF-8"
+      description.encode!('Windows-1252', 'UTF-8')
+      puts "Change description to: #{description}" if debug
+    end
+
+    content = ''
+    if config['content'][domain] and config['content'][domain] == 'md'
+      content = URI.open("#{url}.md", "Accept-Encoding" => "plain").read
+      if content.match(//)
+        content.gsub!(//,"")
+      end
+    end
+
+    #title = '' if not (title.force_encoding("UTF-8").valid_encoding?)
     #title = '' if not (title.force_encoding("UTF-8").valid_encoding?)
     #title = title.chars.select(&:valid_encoding?).join
     #puts "Title: :" + title.delete!("^\u{0000}-\u{007F}") + ":"
@@ -261,6 +276,7 @@ class Scraper
     site_data['filename'] = filename
     site_data['domaintag'] = domaintag
     site_data['description'] = description.gsub(/'/, "’")
+    site_data['content'] = content
 
     return site_data
 

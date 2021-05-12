@@ -115,15 +115,17 @@ Das Mass ist voll. Holen wir unsere Freiheit zurück!
 | {{ site.icons.globe }}    | [www.mass-voll.ch](https://www.mass-voll.ch/) |
 | {{ site.icons.telegram }} | [MASS-VOLL!](https://t.me/massvoll) |
 
+## OHA-Glarus
+
+OHA Glarus setzt sich für eine Gesellschaft ein, die von den Werten Freiheit, gegenseitigem Respekt und Achtsamkeit geprägt ist. OHA Glarus fördert die qualifizierte Meinungsbildung und trägt zu einer vielfältigen Informationsvermittlung bei. Selbständiges Denken ist für uns immer die Voraussetzung für unser Handeln.
+
+| {{ site.icons.globe }}    | [oha-glarus.ch](https://oha-glarus.ch/) |
+
 ## REAKTION.ORG
 
 Unsere Landesregierung verfolgt offensichtlich eine Agenda, welche nichts mit Corona oder der Volksgesundheit zu tun hat. Viel mehr scheint sie Pläne für einen globalen wirtschaftlichen und gesellschaftlichen Umbruch hin zu einem zentralisierten und autoritären Superstaat aktiv zu unterstützen.
 
 | {{ site.icons.globe }}    | [www.reaktion.org](https://www.reaktion.org/) |
-
-## REAKTION.ORG
-
-Unsere Landesregierung verfolgt offensichtlich eine Agenda, welche nichts mit Corona oder der Volksgesundheit zu tun hat. Viel mehr scheint sie Pläne für einen globalen wirtschaftlichen und gesellschaftlichen Umbruch hin zu einem zentralisierten und autoritären Superstaat aktiv zu unterstützen.
 
 ## Reiner Tisch
 

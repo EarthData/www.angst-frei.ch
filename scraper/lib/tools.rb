@@ -56,11 +56,15 @@ class Tools
 
     content = %{---
 date:          #{site_data['date']}
-redirect:      #{site_data['redirect']}
-title:         #{site_data['title']}
+}
+    if site_data['content'] == ''
+      content += %{redirect:      #{site_data['redirect']}
+}
+    end
+    content += %{title:         #{site_data['title']}
 subtitle:      '#{site_data['subtitle']}'
 }
-    if site_data['description'] 
+    if site_data['description'] and site_data['content'] == ''
       content += %{description:   '#{site_data['description']}'
 }
     end
@@ -82,6 +86,10 @@ tags:          [#{tags}]
 
     if file_data
       content += file_data
+    end
+
+    if  site_data['content'] != ''
+      content += site_data['content']
     end
 
     if warn_on_existing

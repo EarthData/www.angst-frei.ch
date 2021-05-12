@@ -11,11 +11,11 @@ counter = 1
 
 config = YAML.load_file("config.yml")
 
-files = Dir.glob("../_posts/*-tichyseinblick_*.md")
+files = Dir.glob("../_posts/*-rubikon_*.md")
 #files = Dir.glob("../_posts/2021-04-29-nach*.md")
 #files = Dir.glob("../_posts/*.md")
 
-parameters = ['date', 'redirect', 'title', 'subtitle', 'description', 'timeline', 'country', 'persons', 'categories', 'tags', 'filename']
+parameters = ['date', 'redirect', 'title', 'subtitle', 'description', 'timeline', 'country', 'persons', 'categories', 'tags', 'filename', 'content']
 
 files.each do |filename|
 

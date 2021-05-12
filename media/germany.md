@@ -228,7 +228,7 @@ RT International gehört zu den renommiertesten Medien-Gruppen mit globaler Ausr
 Rubikon ist das Magazin für die kritische Masse. Sie berichten über das, was in den Massenmedien nicht zu finden ist.
 
 | {{ site.icons.globe }}    | [www.rubikon.news](https://www.rubikon.news/) |
-| {{ site.icons.bitchute }} | [Rubikon](https://www.bitchute.com/channel/xIZBezhe75U0/) |
+| {{ site.icons.bitchute }} | [Rubikon](https://www.bitchute.com/channel/rubikonmagazin/) |
 
 ## ![Telepolis-Logo](/assets/img/logos/telepolis.png){:class="logo"} Telepolis
 
