@@ -7,7 +7,8 @@ timeline:      P(l)andemie
 categories:    [P(l)andemie]
 tags:          [pcr-test]
 ---
-# TIB-Molbiol sendet PCR-Tests nach China
+
+# Zitat aus www.tagesspiegel.de vom 06.03.2020
 
 > TIB Molbiol hat kein Patent oder dergleichen auf diese Technologie. Mittlerweile stellen auch andere Firmen Test-Kits her, aber Landts Firma ist eben schnell und gründlich – und wahrscheinlich aktuell Berlins gefragteste Firma. Seit Januar hat sie nach seinen Angaben bereits drei Millionen Tests hergestellt und in mehr als 60 Länder versandt. Die ersten gingen bereits am 10. Januar per Luftpost nach Hongkong. Da war der Beipackzettel noch gar nicht fertig. „Den haben wir per Mail hinterhergeschickt“.
 
