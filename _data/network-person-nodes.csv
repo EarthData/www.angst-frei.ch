@@ -12,6 +12,7 @@ id,label,image,group
 207,"Jens Spahn","spahn.jpg","person"
 208,"Bill Gates","gates.jpg","person"
 209,"Neil Ferguson","ferguson.jpg","person"
+210,"Alain Berset","berset.jpg","person"
 301,"BRD","../flaggen/DE.png","country"
 302,"CH","../flaggen/CH.png","country"
 401,"Bill and Melinda Gates Foundation","BMG.webp","org"
@@ -25,3 +26,4 @@ id,label,image,group
 701,"AstraZeneca","astrazeneca.jpg","com"
 702,"ModernaTX","moderna.png","com"
 801,"Event 201","event-201.jpg","event"
+802,"WEF 2020","WEF-2020.jpg","event"
