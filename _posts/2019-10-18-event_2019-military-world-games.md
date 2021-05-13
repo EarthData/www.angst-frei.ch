@@ -3,6 +3,7 @@ layout:        post
 title:         Event
 subtitle:      '2019 Military World Games'
 date:          2019-10-18
+end-date:      2019-10-27
 timeline:      P(l)andemie
 categories:    [P(l)andemie]
 tags:          [wuhan]

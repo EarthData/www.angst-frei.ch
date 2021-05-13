@@ -21,8 +21,13 @@ permalink: /json/timeline-plandemie.json
     {%- for post in all_posts -%}
       {% assign filename = post.url | replace_first: '/', '' | replace: '/', '-'  | append: '.pdf' %}
       {%- capture year -%}{{ post.date | date: "%Y" }}{%- endcapture -%}
-       {%- capture month -%}{{ post.date | date: "%-m" }}{%- endcapture -%}
-       {%- capture day -%}{{ post.date | date: "%-d" }}{%- endcapture -%}
+      {%- capture month -%}{{ post.date | date: "%-m" }}{%- endcapture -%}
+      {%- capture day -%}{{ post.date | date: "%-d" }}{%- endcapture -%}
+      {%- if post.end-date -%}
+        {%- capture end-year -%}{{ post.end-date | date: "%Y" }}{%- endcapture -%}
+        {%- capture end-month -%}{{ post.end-date | date: "%-m" }}{%- endcapture -%}
+        {%- capture end-day -%}{{ post.end-date | date: "%-d" }}{%- endcapture -%}
+      {%- endif -%}
        {
          "background": {
            "url": "/assets/img/timeline/{{ post.timeline }}.jpg"
@@ -51,6 +56,13 @@ permalink: /json/timeline-plandemie.json
            "day": {{ day }},
            "year": {{ year }}
          },
+         {%- if post.end-date -%}
+         "end_date": {
+           "month": {{ end-month }},
+           "day": {{ end-day }},
+           "year": {{ end-year }}
+         },
+         {%- endif -%}
          "text": {
            "headline": "{{ post.subtitle | replace: '"', "'" }}",
            "text": "{{ post.title | replace: '"', "'" }}"
