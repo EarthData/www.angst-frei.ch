@@ -60,12 +60,14 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2675,DE,2021-05-17,18:00:00,06844,Dessau-Roßlau,Rathaus / Friedensglocke,Spaziergang,,Privat,https://t.me/MontagsMahnwache
 3101,DE,2021-05-17,18:00:00,02625,Bautzen,Kornmarkt,Mahnwache,,unbekannt,https://www.denkste-mit.de/#willkommen
 3075,DE,2021-05-17,18:30:00,29221,Celle,Stechbahn,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,keine
+3105,DE,2021-05-17,18:30:00,74336,Brackenheim,Rathaus,Lichterkette,,unbekannt,
 2899,DE,2021-05-17,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,unbekannt,
 2890,DE,2021-05-17,19:00:00,06682,Teuchern,RTS Platz Mühlstraße,Spaziergang,,unbekannt,
 3031,DE,2021-05-17,19:00:00,06682,Teuchern,Mühlstr. / RTS Platz,Spaziergang,,,
 2566,CH,2021-05-17,19:00:00,6004,Luzern,Schwanenplatz,Spaziergang,,unbekannt,
 3100,DE,2021-05-17,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,unbekannt,
 2939,DE,2021-05-17,19:00:00,09661,Hainichen,Markt,Kundgebung,,unbekannt,
+3104,DE,2021-05-18,19:00:00,55618,Simmertal,Dreieck,Spaziergang,,unbekannt,
 2588,CH,2021-05-19,14:00:00,4410,Liestal,Bahnhof,Spaziergang,,unknown,
 3009,DE,2021-05-19,17:30:00,32756,Detmold,Marktplatz,Meditation,,unbekannt,
 2601,CH,2021-05-19,18:00:00,2542,Pieterlen,Bahnhof,Spaziergang,,unknown,
@@ -89,6 +91,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2568,CH,2021-05-22,13:00:00,2503,Biel,Altstadt,Kundgebung,,unbekannt,
 2789,CH,2021-05-22,13:00:00,2502,Biel,Engelsbrunnen,Kundgebung,,unbekannt,
 3048,DE,2021-05-22,13:00:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,Bürgerinitiative aufRECHT:FREIdenken,https://www.solidarnosch.de
+3106,DE,2021-05-22,15:30:00,02943,Weißwasser,Fanmeile am Eisstadion,Kundgebung,,Eltern stehen auf aus Weißwasser,https://fb.me/e/VZ4BFgvI
 2649,CH,2021-05-23,14:00:00,9450,Altstätten / SG,Reformierte Kirche,Spaziergang,,unknown,
 2643,LI,2021-05-23,18:00:00,9490,Vaduz,Peter-Kaiser-Platz,Spaziergang,,unknown,
 3095,DE,2021-05-24,14:00:00,02763,Zittau,Markt,Kundgebung,,Freunde von PEGIDA,
