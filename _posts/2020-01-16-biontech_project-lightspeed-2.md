@@ -7,5 +7,7 @@ description:   'Aiming to address the global coronavirus pandemic: Project Light
 country:       DE
 timeline:      P(l)andemie
 categories:    [Impfung]
-tags:          [biontech]
+tags:          [biontech, pdf]
+link:          "/assets/files/science/ppt-erste-studie-sars-cov-2-impfstoff-en.pdf"
 ---
+<object data="{{ page.link }}" style='height:calc(100vh - 400px); width: 100%' type='application/pdf'></object>

@@ -7,13 +7,13 @@ permalink: /json/timeline-plandemie.json
 {
   "title": {
     "media": {
-      "url": "//www.angst-frei.ch/assets/img/hope.jpg",
-      "caption": "Wenn Unrecht zu Recht wird, wird Widerstand zur Pflicht",
+      "url": "/assets/img/timeline/P(l)andemie.jpg",
+      "caption": "Der Zeitstrahl mit allen wichtigen Ereignissen zur Covid-P(l)andemie",
       "credit": ""
     },
     "text": {
       "headline": "Timeline",
-      "text": "Ein Zeitstrahl mit allen wichtigen Ereignissen zu Covid"
+      "text": "P(l)andemie"
     }
   },
   "events": [
@@ -47,7 +47,7 @@ permalink: /json/timeline-plandemie.json
            "url": "/assets/files/websites/{{ filename }}",
            "link": "{{ post.redirect }}",
            {%- endif -%}
-           "caption": "{{ post.tags | join: ", " }}",
+           "caption": "{{ post.title | replace: '"', "'" }}",
            "credit": ""
          },
          "group": "{{ post.timeline }}",
@@ -65,7 +65,11 @@ permalink: /json/timeline-plandemie.json
          {%- endif -%}
          "text": {
            "headline": "{{ post.subtitle | replace: '"', "'" }}",
-           "text": "{{ post.title | replace: '"', "'" }}"
+           {%- if post.description -%}
+           "text": "{{ post.description | replace: '"', "'" }}"
+           {%- else -%}
+           "text": "{{ post.tags | join: ", " }}"
+           {%- endif -%}
          }
        }{%- unless forloop.last -%},{%- endunless -%}
     {%- endfor -%}
