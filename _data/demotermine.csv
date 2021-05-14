@@ -23,6 +23,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3073,DE,2021-05-15,14:00:00,64385,Reichelsheim,B38 / Ortseingang / Aldi,Zusammenkunft,,unbekannt,
 3069,DE,2021-05-15,14:00:00,78467,Konstanz,Radbrücke-Herosepark,Mahnwache,,unbekannt,
 3097,DE,2021-05-15,14:00:00,30169,Hannover,Maschsee / am Nordufer,Kundgebung,https://twitch.tv/demokratievs1984,ES REICHT! Hannover,
+3130,DE,2021-05-15,14:00:00,36037,Fulda,Universitätsplatz,Kundgebung,,unbekannt,
 3055,DE,2021-05-15,14:00:00,40211,Düsseldorf,Hofgarten,Kundgebung,,unbekannt,
 3078,CH,2021-05-15,14:00:00,9050,Appenzell,Brauereiplatz,Spaziergang,,unbekannt,keine
 3113,DE,2021-05-15,14:15:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,unbekannt,
@@ -38,6 +39,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3115,DE,2021-05-15,16:00:00,06249,Mücheln,Markt 1,Kundgebung,,Denk mal anders,
 3116,DE,2021-05-15,17:00:00,18546,Sassnitz,Auf dem Brückenplatz,Kundgebung,,unbekannt,
 3126,DE,2021-05-15,19:00:00,96052,Bamberg,Maxplatz,Kundgebung,,unbekannt,
+3129,DE,2021-05-16,13:00:00,83527,Haag in Oberbayern,Marktplatz,Kundgebung,,Bürger im Dialog,https://t.me/fuerfriedenufreiheit
 3060,DE,2021-05-16,14:00:00,84137,Vilsbiburg,Stadthallenparkplatz,Kundgebung,,Gerhard Pettenkofer und Bayern steht zusammen e.V.,https://www.bayern-steht-zusammen.de/TERMINE/
 3110,DE,2021-05-16,14:00:00,70372,Stuttgart,Mercedestrasse / Bad Cannstatt,Mahnwache,https://dlive.tv/ChrissysLivestrem,Mahnwache Mordanschlag Andreas Ziegler,https://www.youtube.com/watch?v=nW1DudyPoB8
 3123,DE,2021-05-16,14:00:00,90443,Nürnberg,Richard-Wagner-Platz,Schweigemarsch,,Schweigemarsch,
@@ -95,6 +97,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2789,CH,2021-05-22,13:00:00,2502,Biel,Engelsbrunnen,Kundgebung,,unbekannt,
 3048,DE,2021-05-22,13:00:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,Bürgerinitiative aufRECHT:FREIdenken,https://www.solidarnosch.de
 3106,DE,2021-05-22,15:30:00,02943,Weißwasser,Fanmeile am Eisstadion,Kundgebung,,Eltern stehen auf aus Weißwasser,https://fb.me/e/VZ4BFgvI
+3128,HU,2021-05-23,12:00:00,1146,Budapest,Hösök tere / Heldenplatz,Demonstration,,Orvosok a Tisztánlátásért,https://orvosokatisztanlatasert.hu/demonstracio-az-emberi-jogokert-es-a-normalis-eletert/
 2649,CH,2021-05-23,14:00:00,9450,Altstätten / SG,Reformierte Kirche,Spaziergang,,unknown,
 2643,LI,2021-05-23,18:00:00,9490,Vaduz,Peter-Kaiser-Platz,Spaziergang,,unknown,
 3095,DE,2021-05-24,14:00:00,02763,Zittau,Markt,Kundgebung,,Freunde von PEGIDA,
