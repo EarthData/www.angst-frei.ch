@@ -54,6 +54,12 @@ Forderung der Einsetzung einer ausserparlamentarischen unabhängigen Untersuchun
 
 | {{ site.icons.globe }}    | [lockdown-stop.ch](https://lockdown-stop.ch/) |
 
+## Vereinte Rechtshilfe
+
+Wir sind eine Gruppe von unabhängigen Menschen, die an der gerichtlichen Überprüfung der staatlichen Massnahmen auf allen möglichen Ebenen interessiert sind.
+
+| {{ site.icons.globe }}    | [vereinte-rechtshilfe.ch](https://vereinte-rechtshilfe.ch/) |
+
 ## Wer verordnet, der haftet (Petition)
 
 Schäden durch Masken in der Schule und deren Haftung.
