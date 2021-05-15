@@ -8,11 +8,11 @@ categories:    [P(l)andemie]
 tags:          [pcr-test]
 ---
 
-# Zitat aus www.tagesspiegel.de vom 06.03.2020
+## Zitat aus www.tagesspiegel.de vom 06.03.2020
 
 > TIB Molbiol hat kein Patent oder dergleichen auf diese Technologie. Mittlerweile stellen auch andere Firmen Test-Kits her, aber Landts Firma ist eben schnell und gründlich – und wahrscheinlich aktuell Berlins gefragteste Firma. Seit Januar hat sie nach seinen Angaben bereits drei Millionen Tests hergestellt und in mehr als 60 Länder versandt. Die ersten gingen bereits am 10. Januar per Luftpost nach Hongkong. Da war der Beipackzettel noch gar nicht fertig. „Den haben wir per Mail hinterhergeschickt“.
 
-# Zitate aus www.cash.ch vom 14.03.2020
+## Zitate aus www.cash.ch vom 14.03.2020
 
 > Der deutsche Unternehmer, der Tests für Krankheiten von der Schweinegrippe bis zu SARS entwickelt hat, witterte eine Chance - und eine neue Mission. In den nächsten Tagen befragte er Virologen der Berliner Charité und durchforstete das Internet nach weiteren Informationen über das, was bald als neuartiges Coronavirus bezeichnet wurde.
 
