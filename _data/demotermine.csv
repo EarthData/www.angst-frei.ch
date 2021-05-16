@@ -21,6 +21,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2284,DE,2021-05-17,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 3071,DE,2021-05-17,18:00:00,78462,Konstanz,Marktstätte,Mahnwache,,unbekannt,
 3142,DE,2021-05-17,18:00:00,07973,Greiz,Markt,Spaziergang,,unbekannt,
+3211,DE,2021-05-17,18:00:00,07973,Greiz,Markt,Spaziergang,,unbekannt,
 2912,DE,2021-05-17,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,Privat,https://t.me/LichterspaziergangGT
 2675,DE,2021-05-17,18:00:00,06844,Dessau-Roßlau,Rathaus / Friedensglocke,Spaziergang,,Privat,https://t.me/MontagsMahnwache
 3101,DE,2021-05-17,18:00:00,02625,Bautzen,Kornmarkt,Mahnwache,,unbekannt,https://www.denkste-mit.de/#willkommen
@@ -54,24 +55,43 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2613,CH,2021-05-20,19:00:00,9000,St. Gallen,Blumenmarkt,Spaziergang,,unknown,
 2619,CH,2021-05-20,19:00:00,6170,Schüpfheim,Bahnhof,Spaziergang,,unknown,
 2607,CH,2021-05-20,20:00:00,8750,Glarus,Rathausplatz,Spaziergang,,unknown,
+3159,DE,2021-05-21,12:00:00,13405,Berlin,Scharnweber Str.,Aufzug,,unbekannt,https://pfingsten-in-berlin.de/
 3108,DE,2021-05-21,15:00:00,10245,Berlin,Revaler Str. / FHain-XBerg,Demonstration,,Die Berliner Kunst und Kultur trifft sich,https://facebook.com/berlinerkunstundkultur/
 2967,DE,2021-05-21,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,grundrechte.jetzt,www.grundrechte.jetzt
+3154,DE,2021-05-21,17:30:00,14053,Berlin,Olympischer Platz,Autokorso,,unbekannt,https://pfingsten-in-berlin.de/
+3155,DE,2021-05-21,17:30:00,13189,Berlin,Am Feuchten Winkel / P+R Parkplatz,Kundgebung,,unbekannt,
+3156,DE,2021-05-21,17:30:00,12689,Berlin,Märkische Allee 414,Kundgebung,,unbekannt,https://pfingsten-in-berlin.de/
 2637,CH,2021-05-21,18:00:00,3186,Düdingen,Bahnhof,Spaziergang,,unknown,
+3153,DE,2021-05-21,18:00:00,12277,Berlin,Marienfelder Allee / B101,Autokorso,,unbekannt,https://pfingsten-in-berlin.de
 3135,DE,2021-05-21,18:30:00,02943,Weißwasser,Marktplatz,Autokorso,,unbekannt,
+3151,DE,2021-05-21,18:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 2625,CH,2021-05-21,19:00:00,7320,Sargans,Bahnhof,Spaziergang,,unknown,
 2917,DE,2021-05-21,19:00:00,26506,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,,unbekannt,
 2631,CH,2021-05-21,19:00:00,2503,Biel-Bienne,Bahnhof,Spaziergang,,unknown,
 3033,DE,2021-05-22,10:00:00,84405,Dorfen,Unterer Markt,Kundgebung,,Jennifer Voß,
 3088,DE,2021-05-22,11:00:00,10243,Berlin,Mercedes Benz Arena,Aufzug,,unbekannt,
+3157,DE,2021-05-22,12:00:00,14053,Berlin,Olympischer Platz,Aufzug,,unbekannt,https://pfingsten-in-berlin.de/
+3158,DE,2021-05-22,12:00:00,10243,Berlin,Mühlenstr. / am Ostbahnhof,Aufzug,,unbekannt,https://pfingsten-in-berlin.de/
+3160,DE,2021-05-22,12:00:00,12163,Berlin,Walther-Schreiber-Platz,Kundgebung,,unbekannt,https://pfingsten-in-berlin.de/
 2568,CH,2021-05-22,13:00:00,2503,Biel,Altstadt,Kundgebung,,unbekannt,
 2789,CH,2021-05-22,13:00:00,2502,Biel,Engelsbrunnen,Kundgebung,,unbekannt,
 3048,DE,2021-05-22,13:00:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,Bürgerinitiative aufRECHT:FREIdenken,https://www.solidarnosch.de
+3152,DE,2021-05-22,15:00:00,90402,Nürnberg,Jakobsplatz,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 3106,DE,2021-05-22,15:30:00,02943,Weißwasser,Fanmeile am Eisstadion,Kundgebung,,Eltern stehen auf aus Weißwasser,https://fb.me/e/VZ4BFgvI
 3128,HU,2021-05-23,12:00:00,1146,Budapest,Hösök tere / Heldenplatz,Demonstration,,Orvosok a Tisztánlátásért,https://orvosokatisztanlatasert.hu/demonstracio-az-emberi-jogokert-es-a-normalis-eletert/
+3161,DE,2021-05-23,13:00:00,10557,Berlin,Siegessäule,Kundgebung,,unbekannt,https://pfingsten-in-berlin.de/
+3162,DE,2021-05-23,13:00:00,10557,Berlin,Str. d. 17.Juni / Yitzhak-Rabin-Str.,Kundgebung,,unbekannt,https://pfingsten-in-berlin.de/
 2649,CH,2021-05-23,14:00:00,9450,Altstätten / SG,Reformierte Kirche,Spaziergang,,unknown,
 3138,DE,2021-05-23,15:00:00,73230,Kirchheim Teck,Ziegelwasen,Kundgebung,,Querdenken 702,
 2643,LI,2021-05-23,18:00:00,9490,Vaduz,Peter-Kaiser-Platz,Spaziergang,,unknown,
 3095,DE,2021-05-24,14:00:00,02763,Zittau,Markt,Kundgebung,,Freunde von PEGIDA,
+3163,DE,2021-05-24,14:00:00,14057,Berlin,Masurenallee 8-14,Kundgebung,,unbekannt,https://pfingsten-in-berlin.de/
+3164,DE,2021-05-24,14:00:00,13597,Berlin,Carl-Schurz-Str. 2/6,Kundgebung,,unbekannt,https://pfingsten-in-berlin.de/
+3165,DE,2021-05-24,14:00:00,13405,Berlin,Am Kurt-Schumacher-Platz,Kundgebung,,unbekannt,https://pfingsten-in-berlin.de/
+3166,DE,2021-05-24,14:00:00,13187,Berlin,Breite Str 17,Kundgebung,,unbekannt,https://pfingsten-in-berlin.de/
+3167,DE,2021-05-24,14:00:00,10437,Berlin,Mauerpark / Eingang /  Bernauer Str.,Kundgebung,,unbekannt,https://pfingsten-in-berlin.de/
+3168,DE,2021-05-24,14:00:00,10178,Berlin,Alexanderplatz,Versammlung,,unbekannt,https://pfingsten-in-berlin.de/
+3169,DE,2021-05-24,14:00:00,10785,Berlin,Potsdamer Platz 11,Versammlung,,unbekannt,https://pfingsten-in-berlin.de/
 3003,DE,2021-05-24,15:00:00,10117,Berlin,Brandenburger Tor,Kundgebung,https://www.twitch.tv/demokratievs1984,#ESREICHT,https://www.facebook.com/Demokratievs1984
 3004,DE,2021-05-24,15:00:00,10117,Berlin,Brandenburger Tor,Livestream,https://www.facebook.com/Demokratievs1984,#ESREICHT,https://www.twitch.tv/demokratievs1984
 2582,CH,2021-05-24,18:00:00,8636,Wald / ZH,Hallenbad/Windegg,Spaziergang,,unknown,
