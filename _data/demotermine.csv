@@ -6,7 +6,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3241,DE,2021-05-17,17:30:00,04758,Oschatz,Döllnitzsporthalle,Spaziergang,,unbekannt,
 3176,DE,2021-05-17,17:30:00,17033,Neubrandenburg,Marktplatz / Innenstadt,Aufzug,,unbekannt,
 3212,DE,2021-05-17,17:30:00,01909,Großharthau,Eisenbahnbrücke,Spaziergang,,unbekannt,
+3276,DE,2021-05-17,17:30:00,91522,Ansbach,Martin Luther Platz,Spaziergang,,Selbstdenker,
 3263,DE,2021-05-17,18:00:00,08297,Zwönitz,Markt,Spaziergang,,unbekannt,
+3269,DE,2021-05-17,18:00:00,08297,Zwönitz,Markt,Spaziergang,,unbekannt,
 3261,DE,2021-05-17,18:00:00,02763,Zittau,Stadtring,Spaziergang,,unbekannt,
 2581,CH,2021-05-17,18:00:00,8636,Wald / ZH,Hallenbad / Windegg,Spaziergang,,unknown,
 3259,DE,2021-05-17,18:00:00,04860,Torgau,Markt,Spaziergang,,unbekannt,
@@ -113,10 +115,12 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3187,DE,2021-05-17,19:00:00,08344,Beierfeld,Bernsbacher Strasse,Spaziergang,,unbekannt,
 3184,DE,2021-05-17,19:00:00,08280,Aue,Altmarkt,Spaziergang,,unbekannt,
 3183,DE,2021-05-17,19:00:00,09456,Annaberg,Markt,Spaziergang,,unbekannt,
+3270,DE,2021-05-17,22:00:00,06108,Halle,Markt / Ostseite,Kundgebung,,Sven Liebich,https://t.me/InSvensWelt
 3140,DE,2021-05-18,17:00:00,14471,Potsdam,P+R Bhf Pirschheide,Autokorso,,unbekannt,
 3266,DE,2021-05-18,18:30:00,79108,Freiburg,Flugplatz / Neues SC-Stadion,Autokorso,,unbekannt,
 3265,DE,2021-05-18,18:30:00,79215,Elzach,Nikolausplatz,Mahnwache,,unbekannt,
 3104,DE,2021-05-18,19:00:00,55618,Simmertal,Dreieck,Spaziergang,,unbekannt,
+3271,DE,2021-05-18,22:00:00,06108,Halle,Markt / Ostseite,Kundgebung,,Sven Liebich,https://t.me/InSvensWelt
 3132,DE,2021-05-19,13:00:00,10875,Berlin,Potsdamer Platz / Ebertstr.,Mahnwache,,unbekannt,
 2588,CH,2021-05-19,14:00:00,4410,Liestal,Bahnhof,Spaziergang,,unknown,
 3111,DE,2021-05-19,16:00:00,70184,Stuttgart,Dobelstr. / Hohenheimer Str.,Schilderwald,,Privat,
@@ -127,6 +131,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3010,DE,2021-05-19,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,unbekannt,
 3149,DE,2021-05-19,18:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 2595,CH,2021-05-19,18:30:00,9470,Buchs / SG,Lokremise,Spaziergang,,unknown,
+3272,DE,2021-05-19,22:00:00,06108,Halle,Markt / Ostseite,Kundgebung,,Sven Liebich,https://t.me/InSvensWelt
 3137,DE,2021-05-20,17:30:00,72622,Nürtingen,Ochsenbrunnen,Kundgebung,,Querdenken 702,
 2840,DE,2021-05-20,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 2993,DE,2021-05-20,18:00:00,76131,Karlsruhe,Schlossbezirk 3 / Bundesverfassungsgericht,Kundgebung,,unbekannt,
@@ -136,6 +141,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2619,CH,2021-05-20,19:00:00,6170,Schüpfheim,Bahnhof,Spaziergang,,unknown,
 3150,DE,2021-05-20,19:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 2607,CH,2021-05-20,20:00:00,8750,Glarus,Rathausplatz,Spaziergang,,unknown,
+3273,DE,2021-05-20,22:00:00,06108,Halle,Markt / Ostseite,Kundgebung,,Sven Liebich,https://t.me/InSvensWelt
 3159,DE,2021-05-21,12:00:00,13405,Berlin,Scharnweber Str.,Aufzug,,unbekannt,https://pfingsten-in-berlin.de/
 3108,DE,2021-05-21,15:00:00,10245,Berlin,Revaler Str. / FHain-XBerg,Demonstration,,Die Berliner Kunst und Kultur trifft sich,https://facebook.com/berlinerkunstundkultur/
 2967,DE,2021-05-21,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,grundrechte.jetzt,www.grundrechte.jetzt
@@ -150,6 +156,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2625,CH,2021-05-21,19:00:00,7320,Sargans,Bahnhof,Spaziergang,,unknown,
 2917,DE,2021-05-21,19:00:00,26506,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,,unbekannt,
 2631,CH,2021-05-21,19:00:00,2503,Biel-Bienne,Bahnhof,Spaziergang,,unknown,
+3274,DE,2021-05-21,22:00:00,06108,Halle,Markt / Ostseite,Kundgebung,https://www.twitch.tv/svenliebich,Sven Liebich,https://t.me/InSvensWelt
 3033,DE,2021-05-22,10:00:00,84405,Dorfen,Unterer Markt,Kundgebung,,Jennifer Voß,
 3088,DE,2021-05-22,11:00:00,10243,Berlin,Mercedes Benz Arena,Aufzug,,unbekannt,
 3157,DE,2021-05-22,12:00:00,14053,Berlin,Olympischer Platz,Aufzug,,unbekannt,https://pfingsten-in-berlin.de/
