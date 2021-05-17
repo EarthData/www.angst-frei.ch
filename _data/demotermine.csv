@@ -27,6 +27,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3230,DE,2021-05-17,18:00:00,09306,Milkau,Busplatz,Spaziergang,,unbekannt,
 2284,DE,2021-05-17,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 3071,DE,2021-05-17,18:00:00,78462,Konstanz,Marktstätte,Mahnwache,,unbekannt,
+3278,DE,2021-05-17,18:00:00,79199,Kirchzarten,Marktplatz,Mahnwache,,unbekannt,
 3220,DE,2021-05-17,18:00:00,08349,Johanngeorgenstadt,Platz des Bergmanns,Spaziergang,,unbekannt,
 3142,DE,2021-05-17,18:00:00,07973,Greiz,Markt,Spaziergang,,unbekannt,
 3211,DE,2021-05-17,18:00:00,07973,Greiz,Markt,Spaziergang,,unbekannt,
@@ -167,6 +168,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3152,DE,2021-05-22,15:00:00,90402,Nürnberg,Jakobsplatz,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 3180,DE,2021-05-22,15:00:00,91522,Ansbach,Inselwiese,Autokorso,,Selbstdenker,https://t.me/AutokorsoAnsbach2021
 3106,DE,2021-05-22,15:30:00,02943,Weißwasser,Fanmeile am Eisstadion,Kundgebung,,Eltern stehen auf aus Weißwasser,https://fb.me/e/VZ4BFgvI
+3279,DE,2021-05-22,19:00:00,74357,Bönnigheim,Hauptstr. / Schloss,Kundgebung,,unbekannt,
 3128,HU,2021-05-23,12:00:00,1146,Budapest,Hösök tere / Heldenplatz,Demonstration,,Orvosok a Tisztánlátásért,https://orvosokatisztanlatasert.hu/demonstracio-az-emberi-jogokert-es-a-normalis-eletert/
 3161,DE,2021-05-23,13:00:00,10557,Berlin,Siegessäule,Kundgebung,,unbekannt,https://pfingsten-in-berlin.de/
 3162,DE,2021-05-23,13:00:00,10557,Berlin,Str. d. 17.Juni / Yitzhak-Rabin-Str.,Kundgebung,,unbekannt,https://pfingsten-in-berlin.de/
