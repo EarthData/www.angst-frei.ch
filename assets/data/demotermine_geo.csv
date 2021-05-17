@@ -1,244 +1,244 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite,latitude,longitude,created
-3178,DE,2021-05-17,15:00:00,10117,Berlin,Brandenburger Tor,Mahnwache,https://demo.stream/kanal/embed/?id=18,Montagsmahnwache,,52.51628045,13.377701882994323,2021-05-17 14:39:10
-3001,DE,2021-05-17,15:00:00,10177,Berlin,Brandenburger Tor,Kundgebung,https://www.facebook.com/Demokratievs1984,#ESREICHT,https://www.twitch.tv/demokratievs1984,52.51628045,13.377701882994323,2021-05-17 14:39:10
-3002,DE,2021-05-17,15:00:00,10177,Berlin,Brandenburger Tor,Livestream,https://www.facebook.com/Demokratievs1984,#ESREICHT,https://www.twitch.tv/demokratievs1984,52.51628045,13.377701882994323,2021-05-17 14:39:10
-3223,DE,2021-05-17,17:00:00,23843,Bad Oldesloe,Bahnhofsvorplatz,Kundgebung,,unbekannt,,53.8052678,10.3822381,2021-05-17 14:39:10
-3241,DE,2021-05-17,17:30:00,4758,Oschatz,Döllnitzsporthalle,Spaziergang,,unbekannt,,51.3014254,13.11373833029537,2021-05-17 14:39:10
-3176,DE,2021-05-17,17:30:00,17033,Neubrandenburg,Marktplatz / Innenstadt,Aufzug,,unbekannt,,53.5560766,13.2629643,2021-05-17 14:39:10
-3212,DE,2021-05-17,17:30:00,1909,Großharthau,Eisenbahnbrücke,Spaziergang,,unbekannt,,,,2021-05-17 14:39:10
-3276,DE,2021-05-17,17:30:00,91522,Ansbach,Martin Luther Platz,Spaziergang,,Selbstdenker,,49.3028359,10.5725898,2021-05-17 14:39:10
-3269,DE,2021-05-17,18:00:00,8297,Zwönitz,Markt,Spaziergang,,unbekannt,,50.5762362,12.8694962,2021-05-17 14:39:10
-3261,DE,2021-05-17,18:00:00,2763,Zittau,Stadtring,Spaziergang,,unbekannt,,,,2021-05-17 14:39:10
-2581,CH,2021-05-17,18:00:00,8636,Wald / ZH,Hallenbad / Windegg,Spaziergang,,unknown,,47.2741418,8.9132553,2021-05-17 14:39:10
-3259,DE,2021-05-17,18:00:00,4860,Torgau,Markt,Spaziergang,,unbekannt,,51.5581883,13.0042755,2021-05-17 14:39:10
-3258,DE,2021-05-17,18:00:00,9419,Thun,Volkshaus,Spaziergang,,unbekannt,,,,2021-05-17 14:39:10
-3257,DE,2021-05-17,18:00:00,9380,Thalheim Erzgebirge,Rathaus,Spaziergang,,unbekannt,,50.702551299999996,12.851668952994503,2021-05-17 14:39:10
-3181,DE,2021-05-17,18:00:00,70173,Stuttgart,Schloßplatz,Spaziergang,,unbekannt,,48.7777586,9.1787394,2021-05-17 14:39:10
-2575,CH,2021-05-17,18:00:00,6362,Stansstad,Hafen,Spaziergang,,unknown,,46.97998,8.420751064137455,2021-05-17 14:39:10
-3096,DE,2021-05-17,18:00:00,92421,Schwandorf,Unterer Marktplatz,Kundgebung,,unbekannt,,49.3296022,12.1072358,2021-05-17 14:39:10
-3249,DE,2021-05-17,18:00:00,8468,Reichenbach Vogtland,Markt,Spaziergang,,unbekannt,,50.6195001,12.2634668,2021-05-17 14:39:10
-3248,DE,2021-05-17,18:00:00,8352,Raschau,Markt,Spaziergang,,unbekannt,,50.4152775,12.1714117,2021-05-17 14:39:10
-3109,DE,2021-05-17,18:00:00,14467,Potsdam,Platz zwischen Filmmuseum und,Kundgebung,,Fraktion Frieden / NW2021 / Demokratischer Widerstand,,52.4009309,13.0591397,2021-05-17 14:39:10
-3244,DE,2021-05-17,18:00:00,8525,Plauen,Wendedenkmal,Spaziergang,,unbekannt,,,,2021-05-17 14:39:10
-3143,DE,2021-05-17,18:00:00,33100,Paderborn,Weissdornweg / Kaukenb. / Parkpl.,Spaziergang,,Grundrechte-Paderborn,,51.71895955,8.764869778177559,2021-05-17 14:39:10
-3122,DE,2021-05-17,18:00:00,49074,Osnabrück,Rathaus,Demonstration,,unbekannt,,52.27739939999999,8.041210268889596,2021-05-17 14:39:10
-3240,DE,2021-05-17,18:00:00,9526,Olbernhau,Gessingplatz,Spaziergang,,unbekannt,,50.6577945,13.3380871,2021-05-17 14:39:10
-3232,DE,2021-05-17,18:00:00,2727,Neugersdorf,Markt,Spaziergang,,unbekannt,,53.6038436,9.945015,2021-05-17 14:39:10
-3230,DE,2021-05-17,18:00:00,9306,Milkau,Busplatz,Spaziergang,,unbekannt,,,,2021-05-17 14:39:10
-2284,DE,2021-05-17,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-05-17 14:39:10
-3071,DE,2021-05-17,18:00:00,78462,Konstanz,Marktstätte,Mahnwache,,unbekannt,,47.66036255,9.17576416240562,2021-05-17 14:39:10
-3220,DE,2021-05-17,18:00:00,8349,Johanngeorgenstadt,Platz des Bergmanns,Spaziergang,,unbekannt,,50.432661,12.7127616,2021-05-17 14:39:10
-3142,DE,2021-05-17,18:00:00,7973,Greiz,Markt,Spaziergang,,unbekannt,,50.8218038,11.9342488,2021-05-17 14:39:10
-3211,DE,2021-05-17,18:00:00,7973,Greiz,Markt,Spaziergang,,unbekannt,,50.8218038,11.9342488,2021-05-17 14:39:10
-3209,DE,2021-05-17,18:00:00,8371,Glauchau,Markt,Spaziergang,,unbekannt,,50.8176248,12.5413762,2021-05-17 14:39:10
-3208,DE,2021-05-17,18:00:00,9355,Gersdorf,Markt,Spaziergang,,unbekannt,,,,2021-05-17 14:39:10
-2912,DE,2021-05-17,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,Privat,https://t.me/LichterspaziergangGT,51.9063703,8.378309599962563,2021-05-17 14:39:10
-3199,DE,2021-05-17,18:00:00,9599,Freiberhg,Albertpark,Spaziergang,,unbekannt,,,,2021-05-17 14:39:10
-3206,DE,2021-05-17,18:00:00,8427,Fraureuth,Erich Glowatzky Sporthalle,Spaziergang,,unbekannt,,,,2021-05-17 14:39:10
-3204,DE,2021-05-17,18:00:00,9575,Eppendorf,Alte Schule,Spaziergang,,unbekannt,,,,2021-05-17 14:39:10
-3264,DE,2021-05-17,18:00:00,78655,Dunningen,Rathaus,Menschenkette,,Friede und freiheit,https://t.me/friede_und_freiheit/6427,48.2493112,8.4901865,2021-05-17 14:39:10
-3146,DE,2021-05-17,18:00:00,1067,Dresden,Altmarkt,Kundgebung,,unbekannt,,51.0501759,13.7371767,2021-05-17 14:39:10
-3194,DE,2021-05-17,18:00:00,1067,Dresden,Altmarkt,Spaziergang,,unbekannt,,51.0501759,13.7371767,2021-05-17 14:39:10
-2675,DE,2021-05-17,18:00:00,6844,Dessau-Roßlau,Rathaus / Friedensglocke,Spaziergang,,Privat,https://t.me/MontagsMahnwache,,,2021-05-17 14:39:10
-3189,DE,2021-05-17,18:00:00,9618,Brand-Erbisdorf,Markt,Spaziergang,,unbekannt,,50.8702616,13.3220436,2021-05-17 14:39:10
-3101,DE,2021-05-17,18:00:00,2625,Bautzen,Kornmarkt,Mahnwache,,unbekannt,https://www.denkste-mit.de/#willkommen,51.1804409,14.428698518867606,2021-05-17 14:39:10
-3186,DE,2021-05-17,18:00:00,2625,Bautzen,Kornmarkt,Spaziergang,,unbekannt,,51.1804409,14.428698518867606,2021-05-17 14:39:10
-3127,DE,2021-05-17,18:00:00,96052,Bamberg,Bahnhof / gegenüber,Spaziergang,,StayAwake Bamberg,https://www.stayawakebamberg.de,49.8916044,10.8868478,2021-05-17 14:39:10
-3177,DE,2021-05-17,18:00:00,72336,Balingen,Sparkassenarena,Autokorso,,Corona Aufklärer Zollernalb/Rottweil,,48.2737512,8.8557862,2021-05-17 14:39:10
-3185,DE,2021-05-17,18:00:00,9573,Augustusburg,Sommerrodelbahn,Spaziergang,,unbekannt,,50.8185441,13.0978209,2021-05-17 14:39:10
-3182,DE,2021-05-17,18:00:00,8626,Adorf,Markt,Spaziergang,,unbekannt,,50.3206061,12.2536384,2021-05-17 14:39:10
-3200,DE,2021-05-17,18:30:00,4808,Wurzen,Markt,Spaziergang,,unbekannt,,51.3700502,12.7356563,2021-05-17 14:39:10
-3237,DE,2021-05-17,18:30:00,9569,Oederan,Markt,Spaziergang,,unbekannt,,,,2021-05-17 14:39:10
-3233,DE,2021-05-17,18:30:00,1844,Neustadt,Markt,Spaziergang,,unbekannt,,52.1526046,9.9514245,2021-05-17 14:39:10
-3225,DE,2021-05-17,18:30:00,9212,Limbach-Oberfrohna,Rathausplatz,Spaziergang,,unbekannt,,50.8587656,12.7681227,2021-05-17 14:39:10
-3236,DE,2021-05-17,18:30:00,4567,Kitzscher,Busplatz,Spaziergang,,unbekannt,,,,2021-05-17 14:39:10
-3227,DE,2021-05-17,18:30:00,1936,Königsbrück,Markt,Spaziergang,,unbekannt,,51.2639539,13.9024567,2021-05-17 14:39:10
-3210,DE,2021-05-17,18:30:00,2826,Görlitz,Postplatz,Spaziergang,,unbekannt,,51.1515649,14.9848306,2021-05-17 14:39:10
-3075,DE,2021-05-17,18:30:00,29221,Celle,Stechbahn,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,keine,52.6238668,10.080043130610024,2021-05-17 14:39:10
-3105,DE,2021-05-17,18:30:00,74336,Brackenheim,Rathaus,Lichterkette,,unbekannt,,49.0787433,9.065254483513328,2021-05-17 14:39:10
-3260,DE,2021-05-17,19:00:00,8056,Zwickau,Hauptmarkt,Spaziergang,,unbekannt,,50.7174995,12.4959383,2021-05-17 14:39:10
-3262,DE,2021-05-17,19:00:00,9405,Zschopau,Markt,Spaziergang,,unbekannt,,,,2021-05-17 14:39:10
-2899,DE,2021-05-17,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,unbekannt,,53.5271438,8.1102415,2021-05-17 14:39:10
-2890,DE,2021-05-17,19:00:00,6682,Teuchern,RTS Platz Mühlstraße,Spaziergang,,unbekannt,,,,2021-05-17 14:39:10
-3031,DE,2021-05-17,19:00:00,6682,Teuchern,Mühlstr. / RTS Platz,Spaziergang,,,,,,2021-05-17 14:39:10
-3117,DE,2021-05-17,19:00:00,18439,Stralsund,Trelleborger Platz,Kundgebung,,unbekannt,,54.3280884,13.054738201739964,2021-05-17 14:39:10
-3256,DE,2021-05-17,19:00:00,1855,Sebnitz,Markt,Spaziergang,,unbekannt,,50.97289,14.2712723,2021-05-17 14:39:10
-3255,DE,2021-05-17,19:00:00,8340,Schwarzenberg,Markt,Spaziergang,,unbekannt,,50.53739,12.7831672,2021-05-17 14:39:10
-3254,DE,2021-05-17,19:00:00,8289,Schneeberg,Markt,Spaziergang,,unbekannt,,50.5946122,12.6428815,2021-05-17 14:39:10
-3253,DE,2021-05-17,19:00:00,8304,Schönheide,Bibliothek,Spaziergang,,unbekannt,,,,2021-05-17 14:39:10
-3252,DE,2021-05-17,19:00:00,4741,Rosswein,Markt,Spaziergang,,unbekannt,,51.0649286,13.1851149,2021-05-17 14:39:10
-3251,DE,2021-05-17,19:00:00,9306,Rochlitz,Markt,Spaziergang,,unbekannt,,51.0455208,12.7981051,2021-05-17 14:39:10
-3250,DE,2021-05-17,19:00:00,1589,Riesa,Rathausplatz,Spaziergang,,unbekannt,,51.3020102,13.3124063,2021-05-17 14:39:10
-3247,DE,2021-05-17,19:00:00,1445,Radebeul,Bahnhof Radebeul Ost,Spaziergang,,unbekannt,,51.0981418,13.6804487,2021-05-17 14:39:10
-3246,DE,2021-05-17,19:00:00,1454,Radeberg,Markt,Spaziergang,,unbekannt,,51.215299,13.7239184,2021-05-17 14:39:10
-3245,DE,2021-05-17,19:00:00,1796,Pirna,Markt,Spaziergang,,unbekannt,,50.0015082,8.2584657,2021-05-17 14:39:10
-3243,DE,2021-05-17,19:00:00,4523,Pegau,Markt,Spaziergang,,unbekannt,,51.1665506,12.2550029,2021-05-17 14:39:10
-3242,DE,2021-05-17,19:00:00,1458,Ottendorf-Okrilla,Rathaus,Spaziergang,,unbekannt,,51.18527225,13.825390707516334,2021-05-17 14:39:10
-3239,DE,2021-05-17,19:00:00,8606,Oelsnitz/Vogtland,Markt,Spaziergang,,unbekannt,,50.4152775,12.1714117,2021-05-17 14:39:10
-3238,DE,2021-05-17,19:00:00,9376,Oelsnitz/Erzgebirge,Markt,Spaziergang,,unbekannt,,50.7463162,12.7923512,2021-05-17 14:39:10
-3235,DE,2021-05-17,19:00:00,1683,Nossen,Markt,Spaziergang,,unbekannt,,51.0577872,13.2992335,2021-05-17 14:39:10
-3234,DE,2021-05-17,19:00:00,1844,Neukirchen / Erzgebirge,Penny Markt,Spaziergang,,unbekannt,,50.7784116,12.867095617316158,2021-05-17 14:39:10
-3148,DE,2021-05-17,19:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2021-05-17 14:39:10
-3231,DE,2021-05-17,19:00:00,9648,Mittweida,Markt,Spaziergang,,unbekannt,,50.9851911,12.9809137,2021-05-17 14:39:10
-3229,DE,2021-05-17,19:00:00,4720,Meißen,Festplatz / Elbe,Spaziergang,,unbekannt,,,,2021-05-17 14:39:10
-3228,DE,2021-05-17,19:00:00,3735,Marienberg,Markt,Spaziergang,,unbekannt,,50.6507661,13.1643718,2021-05-17 14:39:10
-2566,CH,2021-05-17,19:00:00,6004,Luzern,Schwanenplatz,Spaziergang,,unbekannt,,47.0536638,8.308789,2021-05-17 14:39:10
-3224,DE,2021-05-17,19:00:00,4703,Leisnig,Markt,Spaziergang,,unbekannt,,51.1594153,12.9264907,2021-05-17 14:39:10
-3196,DE,2021-05-17,19:00:00,4105,Leipzig,Naturkundemuseum,Spaziergang,,unbekannt,,51.3449841,12.370855792920313,2021-05-17 14:39:10
-3226,DE,2021-05-17,19:00:00,3771,Lößnitz,Markt,Spaziergang,,unbekannt,,49.2348339,7.0421985,2021-05-17 14:39:10
-3139,DE,2021-05-17,19:00:00,47906,Kempen,Kuhtor,Demonstration,,Privat,,51.3662505,6.4177893168652975,2021-05-17 14:39:10
-3222,DE,2021-05-17,19:00:00,9471,Königswalde,Parkanlage,Spaziergang,,unbekannt,,,,2021-05-17 14:39:10
-3100,DE,2021-05-17,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,unbekannt,,47.9127057,10.6354254,2021-05-17 14:39:10
-3221,DE,2021-05-17,19:00:00,9477,Jöhstadt,Markt,Spaziergang,,unbekannt,,50.514423,13.088739,2021-05-17 14:39:10
-3219,DE,2021-05-17,19:00:00,9387,Jahnsdorf,Nahkauf,Spaziergang,,unbekannt,,50.739939,12.8496685,2021-05-17 14:39:10
-3218,DE,2021-05-17,19:00:00,9337,Hohenstein-Ernstthal,Altmarkt,Spaziergang,,unbekannt,,50.803005,12.7062731,2021-05-17 14:39:10
-3217,DE,2021-05-17,19:00:00,1809,Heidenau,Rathaus,Spaziergang,,unbekannt,,50.9805958,13.8694775,2021-05-17 14:39:10
-3215,DE,2021-05-17,19:00:00,4746,Hartha,Markt,Spaziergang,,unbekannt,,51.0977709,12.9783947,2021-05-17 14:39:10
-3214,DE,2021-05-17,19:00:00,8118,Hartenstein,Markt,Spaziergang,,unbekannt,,,,2021-05-17 14:39:10
-3114,DE,2021-05-17,19:00:00,6108,Halle,Markt / Ostseite,Kundgebung,https://www.twitch.tv/svenliebich,Montagsdemo Halle,https://t.me/InSvensWelt,,,2021-05-17 14:39:10
-2939,DE,2021-05-17,19:00:00,9661,Hainichen,Markt,Kundgebung,,unbekannt,,50.9725438,13.1231612,2021-05-17 14:39:10
-3216,DE,2021-05-17,19:00:00,9661,Hainichen,Markt,Spaziergang,,unbekannt,,50.9725438,13.1231612,2021-05-17 14:39:10
-3213,DE,2021-05-17,19:00:00,1558,Großenhain,Markt,Spaziergang,,unbekannt,,49.4804509,9.3090416,2021-05-17 14:39:10
-3193,DE,2021-05-17,19:00:00,4668,Grimma,Markt,Spaziergang,,unbekannt,,51.2364649,12.7285243,2021-05-17 14:39:10
-3207,DE,2021-05-17,19:00:00,9326,Geringswalde,Markt,Spaziergang,,unbekannt,,51.0766262,12.9036776,2021-05-17 14:39:10
-3197,DE,2021-05-17,19:00:00,4643,Geithain,Markt,Spaziergang,,unbekannt,,51.0539791,12.6950664,2021-05-17 14:39:10
-3198,DE,2021-05-17,19:00:00,4657,Frohburg,Markt,Spaziergang,,unbekannt,,51.0564717,12.5592361,2021-05-17 14:39:10
-3205,DE,2021-05-17,19:00:00,9557,Flöha,Rathaus,Spaziergang,,unbekannt,,50.850001,13.078539671930475,2021-05-17 14:39:10
-3203,DE,2021-05-17,19:00:00,4838,Eilenburg,Markt,Spaziergang,,unbekannt,,50.7320108,8.0473764,2021-05-17 14:39:10
-3201,DE,2021-05-17,19:00:00,4509,Delitzsch,Markt,Spaziergang,,unbekannt,,51.5230355,12.3317434,2021-05-17 14:39:10
-3202,DE,2021-05-17,19:00:00,4720,Döbeln,Markt,Spaziergang,,unbekannt,,50.7763821,6.0845027,2021-05-17 14:39:10
-3192,DE,2021-05-17,19:00:00,4680,Colditz,Parkplatz Fleischerei Sogut,Spaziergang,,unbekannt,,,,2021-05-17 14:39:10
-3191,DE,2021-05-17,19:00:00,9111,Chemnitz,Neumarkt,Spaziergang,,unbekannt,,50.8327204,12.9201841,2021-05-17 14:39:10
-3190,DE,2021-05-17,19:00:00,8359,Breitenbrunn,Rathaus,Spaziergang,,unbekannt,,,,2021-05-17 14:39:10
-3188,DE,2021-05-17,19:00:00,8315,Bernsbach,Markt,Spaziergang,,unbekannt,,50.5600661,12.7401414,2021-05-17 14:39:10
-3187,DE,2021-05-17,19:00:00,8344,Beierfeld,Bernsbacher Strasse,Spaziergang,,unbekannt,,50.5643534,12.786342,2021-05-17 14:39:10
-3184,DE,2021-05-17,19:00:00,8280,Aue,Altmarkt,Spaziergang,,unbekannt,,50.4938127,12.1355645,2021-05-17 14:39:10
-3183,DE,2021-05-17,19:00:00,9456,Annaberg,Markt,Spaziergang,,unbekannt,,50.5800563,13.0016807,2021-05-17 14:39:10
-3270,DE,2021-05-17,22:00:00,6108,Halle,Markt / Ostseite,Kundgebung,,Sven Liebich,https://t.me/InSvensWelt,,,2021-05-17 14:39:10
-3140,DE,2021-05-18,17:00:00,14471,Potsdam,P+R Bhf Pirschheide,Autokorso,,unbekannt,,52.3743538,13.0120082,2021-05-17 14:39:10
-3266,DE,2021-05-18,18:30:00,79108,Freiburg,Flugplatz / Neues SC-Stadion,Autokorso,,unbekannt,,47.9960901,7.8494005,2021-05-17 14:39:10
-3265,DE,2021-05-18,18:30:00,79215,Elzach,Nikolausplatz,Mahnwache,,unbekannt,,48.1740027,8.070864,2021-05-17 14:39:10
-3104,DE,2021-05-18,19:00:00,55618,Simmertal,Dreieck,Spaziergang,,unbekannt,,49.8109034,7.5235018,2021-05-17 14:39:10
-3271,DE,2021-05-18,22:00:00,6108,Halle,Markt / Ostseite,Kundgebung,,Sven Liebich,https://t.me/InSvensWelt,,,2021-05-17 14:39:10
-3132,DE,2021-05-19,13:00:00,10875,Berlin,Potsdamer Platz / Ebertstr.,Mahnwache,,unbekannt,,,,2021-05-17 14:39:10
-2588,CH,2021-05-19,14:00:00,4410,Liestal,Bahnhof,Spaziergang,,unknown,,47.4846679,7.7321448,2021-05-17 14:39:10
-3111,DE,2021-05-19,16:00:00,70184,Stuttgart,Dobelstr. / Hohenheimer Str.,Schilderwald,,Privat,,48.7784485,9.1800132,2021-05-17 14:39:10
-3009,DE,2021-05-19,17:30:00,32756,Detmold,Marktplatz,Meditation,,unbekannt,,51.9353405,8.8784369,2021-05-17 14:39:10
-2601,CH,2021-05-19,18:00:00,2542,Pieterlen,Bahnhof,Spaziergang,,unknown,,47.174446,7.3383865,2021-05-17 14:39:10
-2739,DE,2021-05-19,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de,50.1329988,8.9180211,2021-05-17 14:39:10
-3268,DE,2021-05-19,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,https://hanau-steht-auf.de,50.1329988,8.9180211,2021-05-17 14:39:10
-3010,DE,2021-05-19,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,unbekannt,,51.9353405,8.8784369,2021-05-17 14:39:10
-3149,DE,2021-05-19,18:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2021-05-17 14:39:10
-2595,CH,2021-05-19,18:30:00,9470,Buchs / SG,Lokremise,Spaziergang,,unknown,,47.1627634,9.4764086,2021-05-17 14:39:10
-3272,DE,2021-05-19,22:00:00,6108,Halle,Markt / Ostseite,Kundgebung,,Sven Liebich,https://t.me/InSvensWelt,,,2021-05-17 14:39:10
-3137,DE,2021-05-20,17:30:00,72622,Nürtingen,Ochsenbrunnen,Kundgebung,,Querdenken 702,,48.6262998,9.339529299425072,2021-05-17 14:39:10
-2840,DE,2021-05-20,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-05-17 14:39:10
-2993,DE,2021-05-20,18:00:00,76131,Karlsruhe,Schlossbezirk 3 / Bundesverfassungsgericht,Kundgebung,,unbekannt,,49.0068705,8.4034195,2021-05-17 14:39:10
-3085,DE,2021-05-20,18:00:00,42579,Heiligenhaus,Rathausplatz,Spaziergang,,Coronakritik_Velbert Heiligenhaus,,51.326942450000004,6.971079735741307,2021-05-17 14:39:10
-2743,DE,2021-05-20,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de,50.1035627,8.9450186,2021-05-17 14:39:10
-2613,CH,2021-05-20,19:00:00,9000,St. Gallen,Blumenmarkt,Spaziergang,,unknown,,47.4258801,9.3745247,2021-05-17 14:39:10
-2619,CH,2021-05-20,19:00:00,6170,Schüpfheim,Bahnhof,Spaziergang,,unknown,,46.9505532,8.0154577,2021-05-17 14:39:10
-3150,DE,2021-05-20,19:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2021-05-17 14:39:10
-2607,CH,2021-05-20,20:00:00,8750,Glarus,Rathausplatz,Spaziergang,,unknown,,47.03994375,9.067726746969232,2021-05-17 14:39:10
-3273,DE,2021-05-20,22:00:00,6108,Halle,Markt / Ostseite,Kundgebung,,Sven Liebich,https://t.me/InSvensWelt,,,2021-05-17 14:39:10
-3159,DE,2021-05-21,12:00:00,13405,Berlin,Scharnweber Str.,Aufzug,,unbekannt,https://pfingsten-in-berlin.de/,52.5673425,13.3142805,2021-05-17 14:39:10
-3108,DE,2021-05-21,15:00:00,10245,Berlin,Revaler Str. / FHain-XBerg,Demonstration,,Die Berliner Kunst und Kultur trifft sich,https://facebook.com/berlinerkunstundkultur/,52.5170365,13.3888599,2021-05-17 14:39:10
-2967,DE,2021-05-21,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,grundrechte.jetzt,www.grundrechte.jetzt,49.0095065,8.4055133,2021-05-17 14:39:10
-3154,DE,2021-05-21,17:30:00,14053,Berlin,Olympischer Platz,Autokorso,,unbekannt,https://pfingsten-in-berlin.de/,52.5150901,13.2439604,2021-05-17 14:39:10
-3155,DE,2021-05-21,17:30:00,13189,Berlin,Am Feuchten Winkel / P+R Parkplatz,Kundgebung,,unbekannt,,52.5170365,13.3888599,2021-05-17 14:39:10
-3156,DE,2021-05-21,17:30:00,12689,Berlin,Märkische Allee 414,Kundgebung,,unbekannt,https://pfingsten-in-berlin.de/,52.5723062,13.5682111,2021-05-17 14:39:10
-2637,CH,2021-05-21,18:00:00,3186,Düdingen,Bahnhof,Spaziergang,,unknown,,46.8503367,7.192192,2021-05-17 14:39:10
-3153,DE,2021-05-21,18:00:00,12277,Berlin,Marienfelder Allee / B101,Autokorso,,unbekannt,https://pfingsten-in-berlin.de,52.4210731,13.3695445,2021-05-17 14:39:10
-3179,DE,2021-05-21,18:00:00,72336,Balingen,Marktplatz,Kundgebung,,Corona Aufklärer Zollernalb/Rottweil,,48.2731554,8.851081202434564,2021-05-17 14:39:10
-3135,DE,2021-05-21,18:30:00,2943,Weißwasser,Marktplatz,Autokorso,,unbekannt,,51.5047226,14.6460953,2021-05-17 14:39:10
-3151,DE,2021-05-21,18:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2021-05-17 14:39:10
-2625,CH,2021-05-21,19:00:00,7320,Sargans,Bahnhof,Spaziergang,,unknown,,47.046196,9.4452327,2021-05-17 14:39:10
-2917,DE,2021-05-21,19:00:00,26506,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,,unbekannt,,53.5942039,7.2067435,2021-05-17 14:39:10
-2631,CH,2021-05-21,19:00:00,2503,Biel-Bienne,Bahnhof,Spaziergang,,unknown,,47.1331603,7.2439677,2021-05-17 14:39:10
-3274,DE,2021-05-21,22:00:00,6108,Halle,Markt / Ostseite,Kundgebung,https://www.twitch.tv/svenliebich,Sven Liebich,https://t.me/InSvensWelt,,,2021-05-17 14:39:10
-3033,DE,2021-05-22,10:00:00,84405,Dorfen,Unterer Markt,Kundgebung,,Jennifer Voß,,48.2738641,12.1525626,2021-05-17 14:39:10
-3088,DE,2021-05-22,11:00:00,10243,Berlin,Mercedes Benz Arena,Aufzug,,unbekannt,,52.5063681,13.44376504486068,2021-05-17 14:39:10
-3157,DE,2021-05-22,12:00:00,14053,Berlin,Olympischer Platz,Aufzug,,unbekannt,https://pfingsten-in-berlin.de/,52.5150901,13.2439604,2021-05-17 14:39:10
-3158,DE,2021-05-22,12:00:00,10243,Berlin,Mühlenstr. / am Ostbahnhof,Aufzug,,unbekannt,https://pfingsten-in-berlin.de/,52.5170365,13.3888599,2021-05-17 14:39:10
-3160,DE,2021-05-22,12:00:00,12163,Berlin,Walther-Schreiber-Platz,Kundgebung,,unbekannt,https://pfingsten-in-berlin.de/,52.4648649,13.328508,2021-05-17 14:39:10
-2568,CH,2021-05-22,13:00:00,2503,Biel,Altstadt,Kundgebung,,unbekannt,,47.1402899,7.2452253,2021-05-17 14:39:10
-2789,CH,2021-05-22,13:00:00,2502,Biel,Engelsbrunnen,Kundgebung,,unbekannt,,47.1421571,7.2464735,2021-05-17 14:39:10
-3048,DE,2021-05-22,13:00:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,Bürgerinitiative aufRECHT:FREIdenken,https://www.solidarnosch.de,48.7580777,8.2415239,2021-05-17 14:39:10
-3152,DE,2021-05-22,15:00:00,90402,Nürnberg,Jakobsplatz,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4495647,11.0704212,2021-05-17 14:39:10
-3180,DE,2021-05-22,15:00:00,91522,Ansbach,Inselwiese,Autokorso,,Selbstdenker,https://t.me/AutokorsoAnsbach2021,49.302509,10.578965807345295,2021-05-17 14:39:10
-3106,DE,2021-05-22,15:30:00,2943,Weißwasser,Fanmeile am Eisstadion,Kundgebung,,Eltern stehen auf aus Weißwasser,https://fb.me/e/VZ4BFgvI,,,2021-05-17 14:39:10
-3128,HU,2021-05-23,12:00:00,1146,Budapest,Hösök tere / Heldenplatz,Demonstration,,Orvosok a Tisztánlátásért,https://orvosokatisztanlatasert.hu/demonstracio-az-emberi-jogokert-es-a-normalis-eletert/,47.5151514,19.0789567,2021-05-17 14:39:10
-3161,DE,2021-05-23,13:00:00,10557,Berlin,Siegessäule,Kundgebung,,unbekannt,https://pfingsten-in-berlin.de/,52.51450815,13.350110811262352,2021-05-17 14:39:10
-3162,DE,2021-05-23,13:00:00,10557,Berlin,Str. d. 17.Juni / Yitzhak-Rabin-Str.,Kundgebung,,unbekannt,https://pfingsten-in-berlin.de/,52.5170365,13.3888599,2021-05-17 14:39:10
-2649,CH,2021-05-23,14:00:00,9450,Altstätten / SG,Reformierte Kirche,Spaziergang,,unknown,,47.378923150000006,9.5417953,2021-05-17 14:39:10
-3138,DE,2021-05-23,15:00:00,73230,Kirchheim Teck,Ziegelwasen,Kundgebung,,Querdenken 702,,48.6514401,9.4482771,2021-05-17 14:39:10
-2643,LI,2021-05-23,18:00:00,9490,Vaduz,Peter-Kaiser-Platz,Spaziergang,,unknown,,47.1375893,9.5224706,2021-05-17 14:39:10
-3147,DE,2021-05-24,12:00:00,16868,Wusterhausen,Marktplatz,Zusammenkunft,,unbekannt,,52.8907235,12.461246782296659,2021-05-17 14:39:10
-3095,DE,2021-05-24,14:00:00,2763,Zittau,Markt,Kundgebung,,Freunde von PEGIDA,,50.8958774,14.8067754,2021-05-17 14:39:10
-3163,DE,2021-05-24,14:00:00,14057,Berlin,Masurenallee 8-14,Kundgebung,,unbekannt,https://pfingsten-in-berlin.de/,52.5091145,13.2755211,2021-05-17 14:39:10
-3164,DE,2021-05-24,14:00:00,13597,Berlin,Carl-Schurz-Str. 2/6,Kundgebung,,unbekannt,https://pfingsten-in-berlin.de/,52.5350717,13.200713651105087,2021-05-17 14:39:10
-3165,DE,2021-05-24,14:00:00,13405,Berlin,Am Kurt-Schumacher-Platz,Kundgebung,,unbekannt,https://pfingsten-in-berlin.de/,52.5641309,13.3274626,2021-05-17 14:39:10
-3166,DE,2021-05-24,14:00:00,13187,Berlin,Breite Str 17,Kundgebung,,unbekannt,https://pfingsten-in-berlin.de/,52.5692843,13.4014346,2021-05-17 14:39:10
-3167,DE,2021-05-24,14:00:00,10437,Berlin,Mauerpark / Eingang /  Bernauer Str.,Kundgebung,,unbekannt,https://pfingsten-in-berlin.de/,52.5170365,13.3888599,2021-05-17 14:39:10
-3168,DE,2021-05-24,14:00:00,10178,Berlin,Alexanderplatz,Versammlung,,unbekannt,https://pfingsten-in-berlin.de/,52.522417399999995,13.411526303385774,2021-05-17 14:39:10
-3169,DE,2021-05-24,14:00:00,10785,Berlin,Potsdamer Platz 11,Versammlung,,unbekannt,https://pfingsten-in-berlin.de/,52.5087448,13.3755017,2021-05-17 14:39:10
-3170,DE,2021-05-24,14:00:00,14169,Berlin,Clayallee 354,Versammlung,,unbekannt,https://pfingsten-in-berlin.de/,52.4355502,13.2610428,2021-05-17 14:39:10
-3171,DE,2021-05-24,14:00:00,10825,Berlin,John-F.-Kennedy-Platz,Versammlung,,unbekannt,https://pfingsten-in-berlin.de/,52.4846146,13.3449792,2021-05-17 14:39:10
-3172,DE,2021-05-24,14:00:00,10961,Berlin,Mehringdamm 22,Versammlung,,unbekannt,https://pfingsten-in-berlin.de/,52.4947491,13.3886299,2021-05-17 14:39:10
-3173,DE,2021-05-24,14:00:00,10367,Berlin,Möllendorfstraße 6,Versammlung,,unbekannt,https://pfingsten-in-berlin.de/,52.466061,13.8578491,2021-05-17 14:39:10
-3174,DE,2021-05-24,14:00:00,12055,Berlin,Richardplatz,Versammlung,,unbekannt,https://pfingsten-in-berlin.de/,52.4740797,13.4465102,2021-05-17 14:39:10
-3175,DE,2021-05-24,14:00:00,12627,Berlin,Alice-Salomon-Platz / Rathaus,Versammlung,,unbekannt,https://pfingsten-in-berlin.de/,52.5261884,13.6889259,2021-05-17 14:39:10
-3003,DE,2021-05-24,15:00:00,10117,Berlin,Brandenburger Tor,Kundgebung,https://www.twitch.tv/demokratievs1984,#ESREICHT,https://www.facebook.com/Demokratievs1984,52.51628045,13.377701882994323,2021-05-17 14:39:10
-3004,DE,2021-05-24,15:00:00,10117,Berlin,Brandenburger Tor,Livestream,https://www.facebook.com/Demokratievs1984,#ESREICHT,https://www.twitch.tv/demokratievs1984,52.51628045,13.377701882994323,2021-05-17 14:39:10
-2582,CH,2021-05-24,18:00:00,8636,Wald / ZH,Hallenbad/Windegg,Spaziergang,,unknown,,47.2741418,8.9132553,2021-05-17 14:39:10
-2576,CH,2021-05-24,18:00:00,6362,Stansstad,Hafen,Spaziergang,,unknown,,46.97998,8.420751064137455,2021-05-17 14:39:10
-2285,DE,2021-05-24,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-05-17 14:39:10
-2900,DE,2021-05-24,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,unbekannt,,53.5271438,8.1102415,2021-05-17 14:39:10
-2589,CH,2021-05-26,14:00:00,4410,Liestal,Bahnhof,Spaziergang,,unknown,,47.4846679,7.7321448,2021-05-17 14:39:10
-2602,CH,2021-05-26,18:00:00,2542,Pieterlen,Bahnhof,Spaziergang,,unknown,,47.174446,7.3383865,2021-05-17 14:39:10
-2740,DE,2021-05-26,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de,50.1329988,8.9180211,2021-05-17 14:39:10
-2596,CH,2021-05-26,18:30:00,9470,Buchs / SG,Lokremise,Spaziergang,,unknown,,47.1627634,9.4764086,2021-05-17 14:39:10
-2841,DE,2021-05-27,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-05-17 14:39:10
-3086,DE,2021-05-27,18:00:00,42579,Heiligenhaus,Rathausplatz,Spaziergang,,Coronakritik_Velbert Heiligenhaus,,51.326942450000004,6.971079735741307,2021-05-17 14:39:10
-2744,DE,2021-05-27,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de,50.1035627,8.9450186,2021-05-17 14:39:10
-2614,CH,2021-05-27,19:00:00,9000,St. Gallen,Blumenmarkt,Spaziergang,,unknown,,47.4258801,9.3745247,2021-05-17 14:39:10
-2620,CH,2021-05-27,19:00:00,6170,Schüpfheim,Bahnhof,Spaziergang,,unknown,,46.9505532,8.0154577,2021-05-17 14:39:10
-2608,CH,2021-05-27,20:00:00,8750,Glarus,Rathausplatz,Spaziergang,,unknown,,47.03994375,9.067726746969232,2021-05-17 14:39:10
-3077,DE,2021-05-28,17:00:00,84066,Mallersdorf-Pfaffenberg,Haus der Generationen,Kundgebung,,Eltern_Netzwerk u.a.,https://t.me/Eltern_Netzwerk,48.771501650000005,12.236172749999998,2021-05-17 14:39:10
-2968,DE,2021-05-28,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,grundrechte.jetzt,www.grundrechte.jetzt,49.0095065,8.4055133,2021-05-17 14:39:10
-2638,CH,2021-05-28,18:00:00,3186,Düdingen,Bahnhof,Spaziergang,,unknown,,46.8503367,7.192192,2021-05-17 14:39:10
-2626,CH,2021-05-28,19:00:00,7320,Sargans,Bahnhof,Spaziergang,,unknown,,47.046196,9.4452327,2021-05-17 14:39:10
-2918,DE,2021-05-28,19:00:00,26506,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,,unbekannt,,53.5942039,7.2067435,2021-05-17 14:39:10
-2632,CH,2021-05-28,19:00:00,2503,Biel-Bienne,Bahnhof,Spaziergang,,unknown,,47.1331603,7.2439677,2021-05-17 14:39:10
-3120,DE,2021-05-29,10:00:00,24568,Kaltenkirchen,Am Grünen Markt / Brunnen,Kundgebung,,Corona Forum Henstedt-Ulzburg,,53.8371714,9.9614889,2021-05-17 14:39:10
-3034,DE,2021-05-29,10:00:00,84405,Dorfen,Unterer Markt,Kundgebung,,Jennifer Voß,,48.2738641,12.1525626,2021-05-17 14:39:10
-3121,DE,2021-05-29,13:00:00,24558,Henstedt-Ulzburg,Am Bahnbogen / KfC,Schilderwald,,Corona Forum Henstedt-Ulzburg,,53.7988679,9.983188,2021-05-17 14:39:10
-3093,DE,2021-05-29,13:00:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,BI aufRECHT:FREIdenken,https://www.solidarnosch.de,48.7580777,8.2415239,2021-05-17 14:39:10
-2790,CH,2021-05-29,14:00:00,4500,Solothurn,Zeitglockenturm,Kundgebung,,unbekannt,,47.2075677,7.536918890850194,2021-05-17 14:39:10
-3012,DE,2021-05-29,15:00:00,86152,Augsburg,Jakobertor,Festival,,unbekannt,,48.370442749999995,10.908798278471462,2021-05-17 14:39:10
-3083,DE,2021-05-29,16:00:00,6217,Merseburg,An der Kliaplatte,Kundgebung,https://www.twitch.tv/svenliebich,AfD,https://afd-lsa.de/veranstaltungen/kundgebung-mit-bjoern-hoecke-am-29-05-2021-in-merseburg/,,,2021-05-17 14:39:10
-2650,CH,2021-05-30,14:00:00,9450,Altstätten / SG,Reformierte Kirche,Spaziergang,,unknown,,47.378923150000006,9.5417953,2021-05-17 14:39:10
-2644,LI,2021-05-30,18:00:00,9490,Vaduz,Peter-Kaiser-Platz,Spaziergang,,unknown,,47.1375893,9.5224706,2021-05-17 14:39:10
-2583,CH,2021-05-31,18:00:00,8636,Wald / ZH,Hallenbad/Windegg,Spaziergang,,unknown,,47.2741418,8.9132553,2021-05-17 14:39:10
-2577,CH,2021-05-31,18:00:00,6362,Stansstad,Hafen,Spaziergang,,unknown,,46.97998,8.420751064137455,2021-05-17 14:39:10
-2286,DE,2021-05-31,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-05-17 14:39:10
-3267,DE,2021-06-03,13:00:00,76133,Karlsruhe,Marktplatz,Aufzug,,Querdenken 721,,49.0089017,8.4038088,2021-05-17 14:39:10
-2842,DE,2021-06-03,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-05-17 14:39:10
-2791,CH,2021-06-05,13:30:00,9050,Appenzell,Landesgemeindeplatz,Kundgebung,,unbekannt,,47.3299558,9.4099556,2021-05-17 14:39:10
-2287,DE,2021-06-07,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-05-17 14:39:10
-2843,DE,2021-06-10,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-05-17 14:39:10
-2996,DE,2021-06-12,12:05:00,35037,Marburg,Stadthalle / davor,Kundgebung,,Weiterdenken Marburg,https://weiterdenken-marburg.de,50.8117327,8.7757742,2021-05-17 14:39:10
-2792,CH,2021-06-12,14:00:00,6004,Luzern,Kapellplatz,Kundgebung,,unbekannt,,47.05261445,8.307675324292452,2021-05-17 14:39:10
-2990,DE,2021-06-12,14:00:00,52062,Aachen,Elisenbrunnen,Festival,,Freie Bürger Aachen,,50.7741039,6.086867285507246,2021-05-17 14:39:10
-2288,DE,2021-06-14,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-05-17 14:39:10
-2844,DE,2021-06-17,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-05-17 14:39:10
-2823,DE,2021-06-19,12:00:00,34117,Kassel,Friedrichsplatz,Demonstration,,Freie Bürger Kassel. Corona Rebellen Kassel. Prayer of the Mothers Kassel.,,51.31388365,9.494732740210718,2021-05-17 14:39:10
-2289,DE,2021-06-21,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-05-17 14:39:10
-2845,DE,2021-06-24,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-05-17 14:39:10
-2290,DE,2021-06-28,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-05-17 14:39:10
-3068,DE,2021-07-03,15:00:00,44787,Bochum,Kirmesplatz,Demonstration,,Querdenken 234 - Bochum,https://querdenken-234.de,51.487366800000004,7.23353518711003,2021-05-17 14:39:10
-2942,DE,2021-07-17,12:00:00,17207,Röbel Müritz,ZOB,Spaziergang,,Freie Kräfte MV,,53.3731595,12.606159327005962,2021-05-17 14:39:10
-2271,DE,2021-10-04,14:30:00,6232,Speyer,Domplatz,Kundgebung,https://dlive.tv/Live-Reports-DUEW,Querdenken 6341,https://www.querdenken-6341.de,49.3149967,8.4424507,2021-05-17 14:39:10
-1960,DE,2021-11-05,18:00:00,10117,Berlin,Pariser Platz / Brandenburger Tor,MillionMaskMarch,https://anonymous.support/live,Anonymous,https://anonymous.support,52.5170365,13.3888599,2021-05-17 14:39:10
-1963,DE,2021-12-24,12:00:00,10178,Berlin,Weltzeituhr / Alexanderplatz,OpSafeWinter,https://anonymous.support/live,Anonymous,https://anonymous.support,52.5170365,13.3888599,2021-05-17 14:39:10
-1617,DE,2021-12-31,23:59:00,10117,Berlin,Brandenburger Tor,Event,,Welcome 2022,,52.51628045,13.377701882994323,2021-05-17 14:39:10
+3178,DE,2021-05-17,15:00:00,10117,Berlin,Brandenburger Tor,Mahnwache,https://demo.stream/kanal/embed/?id=18,Montagsmahnwache,,52.51628045,13.377701882994323,2021-05-17 15:39:09
+3001,DE,2021-05-17,15:00:00,10177,Berlin,Brandenburger Tor,Kundgebung,https://www.facebook.com/Demokratievs1984,#ESREICHT,https://www.twitch.tv/demokratievs1984,52.51628045,13.377701882994323,2021-05-17 15:39:09
+3002,DE,2021-05-17,15:00:00,10177,Berlin,Brandenburger Tor,Livestream,https://www.facebook.com/Demokratievs1984,#ESREICHT,https://www.twitch.tv/demokratievs1984,52.51628045,13.377701882994323,2021-05-17 15:39:09
+3223,DE,2021-05-17,17:00:00,23843,Bad Oldesloe,Bahnhofsvorplatz,Kundgebung,,unbekannt,,53.8052678,10.3822381,2021-05-17 15:39:09
+3241,DE,2021-05-17,17:30:00,4758,Oschatz,Döllnitzsporthalle,Spaziergang,,unbekannt,,51.3014254,13.11373833029537,2021-05-17 15:39:09
+3176,DE,2021-05-17,17:30:00,17033,Neubrandenburg,Marktplatz / Innenstadt,Aufzug,,unbekannt,,53.5560766,13.2629643,2021-05-17 15:39:09
+3212,DE,2021-05-17,17:30:00,1909,Großharthau,Eisenbahnbrücke,Spaziergang,,unbekannt,,,,2021-05-17 15:39:09
+3276,DE,2021-05-17,17:30:00,91522,Ansbach,Martin Luther Platz,Spaziergang,,Selbstdenker,,49.3028359,10.5725898,2021-05-17 15:39:09
+3269,DE,2021-05-17,18:00:00,8297,Zwönitz,Markt,Spaziergang,,unbekannt,,50.5762362,12.8694962,2021-05-17 15:39:09
+3261,DE,2021-05-17,18:00:00,2763,Zittau,Stadtring,Spaziergang,,unbekannt,,,,2021-05-17 15:39:09
+2581,CH,2021-05-17,18:00:00,8636,Wald / ZH,Hallenbad / Windegg,Spaziergang,,unknown,,47.2741418,8.9132553,2021-05-17 15:39:09
+3259,DE,2021-05-17,18:00:00,4860,Torgau,Markt,Spaziergang,,unbekannt,,51.5581883,13.0042755,2021-05-17 15:39:09
+3258,DE,2021-05-17,18:00:00,9419,Thun,Volkshaus,Spaziergang,,unbekannt,,,,2021-05-17 15:39:09
+3257,DE,2021-05-17,18:00:00,9380,Thalheim Erzgebirge,Rathaus,Spaziergang,,unbekannt,,50.702551299999996,12.851668952994503,2021-05-17 15:39:09
+3181,DE,2021-05-17,18:00:00,70173,Stuttgart,Schloßplatz,Spaziergang,,unbekannt,,48.7777586,9.1787394,2021-05-17 15:39:09
+2575,CH,2021-05-17,18:00:00,6362,Stansstad,Hafen,Spaziergang,,unknown,,46.97998,8.420751064137455,2021-05-17 15:39:09
+3096,DE,2021-05-17,18:00:00,92421,Schwandorf,Unterer Marktplatz,Kundgebung,,unbekannt,,49.3296022,12.1072358,2021-05-17 15:39:09
+3249,DE,2021-05-17,18:00:00,8468,Reichenbach Vogtland,Markt,Spaziergang,,unbekannt,,50.6195001,12.2634668,2021-05-17 15:39:09
+3248,DE,2021-05-17,18:00:00,8352,Raschau,Markt,Spaziergang,,unbekannt,,50.4152775,12.1714117,2021-05-17 15:39:09
+3109,DE,2021-05-17,18:00:00,14467,Potsdam,Platz zwischen Filmmuseum und,Kundgebung,,Fraktion Frieden / NW2021 / Demokratischer Widerstand,,52.4009309,13.0591397,2021-05-17 15:39:09
+3244,DE,2021-05-17,18:00:00,8525,Plauen,Wendedenkmal,Spaziergang,,unbekannt,,,,2021-05-17 15:39:09
+3143,DE,2021-05-17,18:00:00,33100,Paderborn,Weissdornweg / Kaukenb. / Parkpl.,Spaziergang,,Grundrechte-Paderborn,,51.71895955,8.764869778177559,2021-05-17 15:39:09
+3122,DE,2021-05-17,18:00:00,49074,Osnabrück,Rathaus,Demonstration,,unbekannt,,52.27739939999999,8.041210268889596,2021-05-17 15:39:09
+3240,DE,2021-05-17,18:00:00,9526,Olbernhau,Gessingplatz,Spaziergang,,unbekannt,,50.6577945,13.3380871,2021-05-17 15:39:09
+3232,DE,2021-05-17,18:00:00,2727,Neugersdorf,Markt,Spaziergang,,unbekannt,,53.6038436,9.945015,2021-05-17 15:39:09
+3230,DE,2021-05-17,18:00:00,9306,Milkau,Busplatz,Spaziergang,,unbekannt,,,,2021-05-17 15:39:09
+2284,DE,2021-05-17,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-05-17 15:39:09
+3071,DE,2021-05-17,18:00:00,78462,Konstanz,Marktstätte,Mahnwache,,unbekannt,,47.66036255,9.17576416240562,2021-05-17 15:39:09
+3220,DE,2021-05-17,18:00:00,8349,Johanngeorgenstadt,Platz des Bergmanns,Spaziergang,,unbekannt,,50.432661,12.7127616,2021-05-17 15:39:09
+3142,DE,2021-05-17,18:00:00,7973,Greiz,Markt,Spaziergang,,unbekannt,,50.8218038,11.9342488,2021-05-17 15:39:09
+3211,DE,2021-05-17,18:00:00,7973,Greiz,Markt,Spaziergang,,unbekannt,,50.8218038,11.9342488,2021-05-17 15:39:09
+3209,DE,2021-05-17,18:00:00,8371,Glauchau,Markt,Spaziergang,,unbekannt,,50.8176248,12.5413762,2021-05-17 15:39:09
+3208,DE,2021-05-17,18:00:00,9355,Gersdorf,Markt,Spaziergang,,unbekannt,,,,2021-05-17 15:39:09
+2912,DE,2021-05-17,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,Privat,https://t.me/LichterspaziergangGT,51.9063703,8.378309599962563,2021-05-17 15:39:09
+3199,DE,2021-05-17,18:00:00,9599,Freiberhg,Albertpark,Spaziergang,,unbekannt,,,,2021-05-17 15:39:09
+3206,DE,2021-05-17,18:00:00,8427,Fraureuth,Erich Glowatzky Sporthalle,Spaziergang,,unbekannt,,,,2021-05-17 15:39:09
+3204,DE,2021-05-17,18:00:00,9575,Eppendorf,Alte Schule,Spaziergang,,unbekannt,,,,2021-05-17 15:39:09
+3264,DE,2021-05-17,18:00:00,78655,Dunningen,Rathaus,Menschenkette,,Friede und freiheit,https://t.me/friede_und_freiheit/6427,48.2493112,8.4901865,2021-05-17 15:39:09
+3146,DE,2021-05-17,18:00:00,1067,Dresden,Altmarkt,Kundgebung,,unbekannt,,51.0501759,13.7371767,2021-05-17 15:39:09
+3194,DE,2021-05-17,18:00:00,1067,Dresden,Altmarkt,Spaziergang,,unbekannt,,51.0501759,13.7371767,2021-05-17 15:39:09
+2675,DE,2021-05-17,18:00:00,6844,Dessau-Roßlau,Rathaus / Friedensglocke,Spaziergang,,Privat,https://t.me/MontagsMahnwache,,,2021-05-17 15:39:09
+3189,DE,2021-05-17,18:00:00,9618,Brand-Erbisdorf,Markt,Spaziergang,,unbekannt,,50.8702616,13.3220436,2021-05-17 15:39:09
+3101,DE,2021-05-17,18:00:00,2625,Bautzen,Kornmarkt,Mahnwache,,unbekannt,https://www.denkste-mit.de/#willkommen,51.1804409,14.428698518867606,2021-05-17 15:39:09
+3186,DE,2021-05-17,18:00:00,2625,Bautzen,Kornmarkt,Spaziergang,,unbekannt,,51.1804409,14.428698518867606,2021-05-17 15:39:09
+3127,DE,2021-05-17,18:00:00,96052,Bamberg,Bahnhof / gegenüber,Spaziergang,,StayAwake Bamberg,https://www.stayawakebamberg.de,49.8916044,10.8868478,2021-05-17 15:39:09
+3177,DE,2021-05-17,18:00:00,72336,Balingen,Sparkassenarena,Autokorso,,Corona Aufklärer Zollernalb/Rottweil,,48.2737512,8.8557862,2021-05-17 15:39:09
+3185,DE,2021-05-17,18:00:00,9573,Augustusburg,Sommerrodelbahn,Spaziergang,,unbekannt,,50.8185441,13.0978209,2021-05-17 15:39:09
+3182,DE,2021-05-17,18:00:00,8626,Adorf,Markt,Spaziergang,,unbekannt,,50.3206061,12.2536384,2021-05-17 15:39:09
+3200,DE,2021-05-17,18:30:00,4808,Wurzen,Markt,Spaziergang,,unbekannt,,51.3700502,12.7356563,2021-05-17 15:39:09
+3237,DE,2021-05-17,18:30:00,9569,Oederan,Markt,Spaziergang,,unbekannt,,,,2021-05-17 15:39:09
+3233,DE,2021-05-17,18:30:00,1844,Neustadt,Markt,Spaziergang,,unbekannt,,52.1526046,9.9514245,2021-05-17 15:39:09
+3225,DE,2021-05-17,18:30:00,9212,Limbach-Oberfrohna,Rathausplatz,Spaziergang,,unbekannt,,50.8587656,12.7681227,2021-05-17 15:39:09
+3236,DE,2021-05-17,18:30:00,4567,Kitzscher,Busplatz,Spaziergang,,unbekannt,,,,2021-05-17 15:39:09
+3227,DE,2021-05-17,18:30:00,1936,Königsbrück,Markt,Spaziergang,,unbekannt,,51.2639539,13.9024567,2021-05-17 15:39:09
+3210,DE,2021-05-17,18:30:00,2826,Görlitz,Postplatz,Spaziergang,,unbekannt,,51.1515649,14.9848306,2021-05-17 15:39:09
+3075,DE,2021-05-17,18:30:00,29221,Celle,Stechbahn,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,keine,52.6238668,10.080043130610024,2021-05-17 15:39:09
+3105,DE,2021-05-17,18:30:00,74336,Brackenheim,Rathaus,Lichterkette,,unbekannt,,49.0787433,9.065254483513328,2021-05-17 15:39:09
+3260,DE,2021-05-17,19:00:00,8056,Zwickau,Hauptmarkt,Spaziergang,,unbekannt,,50.7174995,12.4959383,2021-05-17 15:39:09
+3262,DE,2021-05-17,19:00:00,9405,Zschopau,Markt,Spaziergang,,unbekannt,,,,2021-05-17 15:39:09
+2899,DE,2021-05-17,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,unbekannt,,53.5271438,8.1102415,2021-05-17 15:39:09
+2890,DE,2021-05-17,19:00:00,6682,Teuchern,RTS Platz Mühlstraße,Spaziergang,,unbekannt,,,,2021-05-17 15:39:09
+3031,DE,2021-05-17,19:00:00,6682,Teuchern,Mühlstr. / RTS Platz,Spaziergang,,,,,,2021-05-17 15:39:09
+3117,DE,2021-05-17,19:00:00,18439,Stralsund,Trelleborger Platz,Kundgebung,,unbekannt,,54.3280884,13.054738201739964,2021-05-17 15:39:09
+3256,DE,2021-05-17,19:00:00,1855,Sebnitz,Markt,Spaziergang,,unbekannt,,50.97289,14.2712723,2021-05-17 15:39:09
+3255,DE,2021-05-17,19:00:00,8340,Schwarzenberg,Markt,Spaziergang,,unbekannt,,50.53739,12.7831672,2021-05-17 15:39:09
+3254,DE,2021-05-17,19:00:00,8289,Schneeberg,Markt,Spaziergang,,unbekannt,,50.5946122,12.6428815,2021-05-17 15:39:09
+3253,DE,2021-05-17,19:00:00,8304,Schönheide,Bibliothek,Spaziergang,,unbekannt,,,,2021-05-17 15:39:09
+3252,DE,2021-05-17,19:00:00,4741,Rosswein,Markt,Spaziergang,,unbekannt,,51.0649286,13.1851149,2021-05-17 15:39:09
+3251,DE,2021-05-17,19:00:00,9306,Rochlitz,Markt,Spaziergang,,unbekannt,,51.0455208,12.7981051,2021-05-17 15:39:09
+3250,DE,2021-05-17,19:00:00,1589,Riesa,Rathausplatz,Spaziergang,,unbekannt,,51.3020102,13.3124063,2021-05-17 15:39:09
+3247,DE,2021-05-17,19:00:00,1445,Radebeul,Bahnhof Radebeul Ost,Spaziergang,,unbekannt,,51.0981418,13.6804487,2021-05-17 15:39:09
+3246,DE,2021-05-17,19:00:00,1454,Radeberg,Markt,Spaziergang,,unbekannt,,51.215299,13.7239184,2021-05-17 15:39:09
+3245,DE,2021-05-17,19:00:00,1796,Pirna,Markt,Spaziergang,,unbekannt,,50.0015082,8.2584657,2021-05-17 15:39:09
+3243,DE,2021-05-17,19:00:00,4523,Pegau,Markt,Spaziergang,,unbekannt,,51.1665506,12.2550029,2021-05-17 15:39:09
+3242,DE,2021-05-17,19:00:00,1458,Ottendorf-Okrilla,Rathaus,Spaziergang,,unbekannt,,51.18527225,13.825390707516334,2021-05-17 15:39:09
+3239,DE,2021-05-17,19:00:00,8606,Oelsnitz/Vogtland,Markt,Spaziergang,,unbekannt,,50.4152775,12.1714117,2021-05-17 15:39:09
+3238,DE,2021-05-17,19:00:00,9376,Oelsnitz/Erzgebirge,Markt,Spaziergang,,unbekannt,,50.7463162,12.7923512,2021-05-17 15:39:09
+3235,DE,2021-05-17,19:00:00,1683,Nossen,Markt,Spaziergang,,unbekannt,,51.0577872,13.2992335,2021-05-17 15:39:09
+3234,DE,2021-05-17,19:00:00,1844,Neukirchen / Erzgebirge,Penny Markt,Spaziergang,,unbekannt,,50.7784116,12.867095617316158,2021-05-17 15:39:09
+3148,DE,2021-05-17,19:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2021-05-17 15:39:09
+3231,DE,2021-05-17,19:00:00,9648,Mittweida,Markt,Spaziergang,,unbekannt,,50.9851911,12.9809137,2021-05-17 15:39:09
+3229,DE,2021-05-17,19:00:00,4720,Meißen,Festplatz / Elbe,Spaziergang,,unbekannt,,,,2021-05-17 15:39:09
+3228,DE,2021-05-17,19:00:00,3735,Marienberg,Markt,Spaziergang,,unbekannt,,50.6507661,13.1643718,2021-05-17 15:39:09
+2566,CH,2021-05-17,19:00:00,6004,Luzern,Schwanenplatz,Spaziergang,,unbekannt,,47.0536638,8.308789,2021-05-17 15:39:09
+3224,DE,2021-05-17,19:00:00,4703,Leisnig,Markt,Spaziergang,,unbekannt,,51.1594153,12.9264907,2021-05-17 15:39:09
+3196,DE,2021-05-17,19:00:00,4105,Leipzig,Naturkundemuseum,Spaziergang,,unbekannt,,51.3449841,12.370855792920313,2021-05-17 15:39:09
+3226,DE,2021-05-17,19:00:00,3771,Lößnitz,Markt,Spaziergang,,unbekannt,,49.2348339,7.0421985,2021-05-17 15:39:09
+3139,DE,2021-05-17,19:00:00,47906,Kempen,Kuhtor,Demonstration,,Privat,,51.3662505,6.4177893168652975,2021-05-17 15:39:09
+3222,DE,2021-05-17,19:00:00,9471,Königswalde,Parkanlage,Spaziergang,,unbekannt,,,,2021-05-17 15:39:09
+3100,DE,2021-05-17,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,unbekannt,,47.9127057,10.6354254,2021-05-17 15:39:09
+3221,DE,2021-05-17,19:00:00,9477,Jöhstadt,Markt,Spaziergang,,unbekannt,,50.514423,13.088739,2021-05-17 15:39:09
+3219,DE,2021-05-17,19:00:00,9387,Jahnsdorf,Nahkauf,Spaziergang,,unbekannt,,50.739939,12.8496685,2021-05-17 15:39:09
+3218,DE,2021-05-17,19:00:00,9337,Hohenstein-Ernstthal,Altmarkt,Spaziergang,,unbekannt,,50.803005,12.7062731,2021-05-17 15:39:09
+3217,DE,2021-05-17,19:00:00,1809,Heidenau,Rathaus,Spaziergang,,unbekannt,,50.9805958,13.8694775,2021-05-17 15:39:09
+3215,DE,2021-05-17,19:00:00,4746,Hartha,Markt,Spaziergang,,unbekannt,,51.0977709,12.9783947,2021-05-17 15:39:09
+3214,DE,2021-05-17,19:00:00,8118,Hartenstein,Markt,Spaziergang,,unbekannt,,,,2021-05-17 15:39:09
+3114,DE,2021-05-17,19:00:00,6108,Halle,Markt / Ostseite,Kundgebung,https://www.twitch.tv/svenliebich,Montagsdemo Halle,https://t.me/InSvensWelt,,,2021-05-17 15:39:09
+2939,DE,2021-05-17,19:00:00,9661,Hainichen,Markt,Kundgebung,,unbekannt,,50.9725438,13.1231612,2021-05-17 15:39:09
+3216,DE,2021-05-17,19:00:00,9661,Hainichen,Markt,Spaziergang,,unbekannt,,50.9725438,13.1231612,2021-05-17 15:39:09
+3213,DE,2021-05-17,19:00:00,1558,Großenhain,Markt,Spaziergang,,unbekannt,,49.4804509,9.3090416,2021-05-17 15:39:09
+3193,DE,2021-05-17,19:00:00,4668,Grimma,Markt,Spaziergang,,unbekannt,,51.2364649,12.7285243,2021-05-17 15:39:09
+3207,DE,2021-05-17,19:00:00,9326,Geringswalde,Markt,Spaziergang,,unbekannt,,51.0766262,12.9036776,2021-05-17 15:39:09
+3197,DE,2021-05-17,19:00:00,4643,Geithain,Markt,Spaziergang,,unbekannt,,51.0539791,12.6950664,2021-05-17 15:39:09
+3198,DE,2021-05-17,19:00:00,4657,Frohburg,Markt,Spaziergang,,unbekannt,,51.0564717,12.5592361,2021-05-17 15:39:09
+3205,DE,2021-05-17,19:00:00,9557,Flöha,Rathaus,Spaziergang,,unbekannt,,50.850001,13.078539671930475,2021-05-17 15:39:09
+3203,DE,2021-05-17,19:00:00,4838,Eilenburg,Markt,Spaziergang,,unbekannt,,50.7320108,8.0473764,2021-05-17 15:39:09
+3201,DE,2021-05-17,19:00:00,4509,Delitzsch,Markt,Spaziergang,,unbekannt,,51.5230355,12.3317434,2021-05-17 15:39:09
+3202,DE,2021-05-17,19:00:00,4720,Döbeln,Markt,Spaziergang,,unbekannt,,50.7763821,6.0845027,2021-05-17 15:39:09
+3192,DE,2021-05-17,19:00:00,4680,Colditz,Parkplatz Fleischerei Sogut,Spaziergang,,unbekannt,,,,2021-05-17 15:39:09
+3191,DE,2021-05-17,19:00:00,9111,Chemnitz,Neumarkt,Spaziergang,,unbekannt,,50.8327204,12.9201841,2021-05-17 15:39:09
+3190,DE,2021-05-17,19:00:00,8359,Breitenbrunn,Rathaus,Spaziergang,,unbekannt,,,,2021-05-17 15:39:09
+3188,DE,2021-05-17,19:00:00,8315,Bernsbach,Markt,Spaziergang,,unbekannt,,50.5600661,12.7401414,2021-05-17 15:39:09
+3187,DE,2021-05-17,19:00:00,8344,Beierfeld,Bernsbacher Strasse,Spaziergang,,unbekannt,,50.5643534,12.786342,2021-05-17 15:39:09
+3184,DE,2021-05-17,19:00:00,8280,Aue,Altmarkt,Spaziergang,,unbekannt,,50.4938127,12.1355645,2021-05-17 15:39:09
+3183,DE,2021-05-17,19:00:00,9456,Annaberg,Markt,Spaziergang,,unbekannt,,50.5800563,13.0016807,2021-05-17 15:39:09
+3270,DE,2021-05-17,22:00:00,6108,Halle,Markt / Ostseite,Kundgebung,,Sven Liebich,https://t.me/InSvensWelt,,,2021-05-17 15:39:09
+3140,DE,2021-05-18,17:00:00,14471,Potsdam,P+R Bhf Pirschheide,Autokorso,,unbekannt,,52.3743538,13.0120082,2021-05-17 15:39:09
+3266,DE,2021-05-18,18:30:00,79108,Freiburg,Flugplatz / Neues SC-Stadion,Autokorso,,unbekannt,,47.9960901,7.8494005,2021-05-17 15:39:09
+3265,DE,2021-05-18,18:30:00,79215,Elzach,Nikolausplatz,Mahnwache,,unbekannt,,48.1740027,8.070864,2021-05-17 15:39:09
+3104,DE,2021-05-18,19:00:00,55618,Simmertal,Dreieck,Spaziergang,,unbekannt,,49.8109034,7.5235018,2021-05-17 15:39:09
+3271,DE,2021-05-18,22:00:00,6108,Halle,Markt / Ostseite,Kundgebung,,Sven Liebich,https://t.me/InSvensWelt,,,2021-05-17 15:39:09
+3132,DE,2021-05-19,13:00:00,10875,Berlin,Potsdamer Platz / Ebertstr.,Mahnwache,,unbekannt,,,,2021-05-17 15:39:09
+2588,CH,2021-05-19,14:00:00,4410,Liestal,Bahnhof,Spaziergang,,unknown,,47.4846679,7.7321448,2021-05-17 15:39:09
+3111,DE,2021-05-19,16:00:00,70184,Stuttgart,Dobelstr. / Hohenheimer Str.,Schilderwald,,Privat,,48.7784485,9.1800132,2021-05-17 15:39:09
+3009,DE,2021-05-19,17:30:00,32756,Detmold,Marktplatz,Meditation,,unbekannt,,51.9353405,8.8784369,2021-05-17 15:39:09
+2601,CH,2021-05-19,18:00:00,2542,Pieterlen,Bahnhof,Spaziergang,,unknown,,47.174446,7.3383865,2021-05-17 15:39:09
+2739,DE,2021-05-19,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de,50.1329988,8.9180211,2021-05-17 15:39:09
+3268,DE,2021-05-19,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf,https://hanau-steht-auf.de,50.1329988,8.9180211,2021-05-17 15:39:09
+3010,DE,2021-05-19,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,unbekannt,,51.9353405,8.8784369,2021-05-17 15:39:09
+3149,DE,2021-05-19,18:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2021-05-17 15:39:09
+2595,CH,2021-05-19,18:30:00,9470,Buchs / SG,Lokremise,Spaziergang,,unknown,,47.1627634,9.4764086,2021-05-17 15:39:09
+3272,DE,2021-05-19,22:00:00,6108,Halle,Markt / Ostseite,Kundgebung,,Sven Liebich,https://t.me/InSvensWelt,,,2021-05-17 15:39:09
+3137,DE,2021-05-20,17:30:00,72622,Nürtingen,Ochsenbrunnen,Kundgebung,,Querdenken 702,,48.6262998,9.339529299425072,2021-05-17 15:39:09
+2840,DE,2021-05-20,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-05-17 15:39:09
+2993,DE,2021-05-20,18:00:00,76131,Karlsruhe,Schlossbezirk 3 / Bundesverfassungsgericht,Kundgebung,,unbekannt,,49.0068705,8.4034195,2021-05-17 15:39:09
+3085,DE,2021-05-20,18:00:00,42579,Heiligenhaus,Rathausplatz,Spaziergang,,Coronakritik_Velbert Heiligenhaus,,51.326942450000004,6.971079735741307,2021-05-17 15:39:09
+2743,DE,2021-05-20,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de,50.1035627,8.9450186,2021-05-17 15:39:09
+2613,CH,2021-05-20,19:00:00,9000,St. Gallen,Blumenmarkt,Spaziergang,,unknown,,47.4258801,9.3745247,2021-05-17 15:39:09
+2619,CH,2021-05-20,19:00:00,6170,Schüpfheim,Bahnhof,Spaziergang,,unknown,,46.9505532,8.0154577,2021-05-17 15:39:09
+3150,DE,2021-05-20,19:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2021-05-17 15:39:09
+2607,CH,2021-05-20,20:00:00,8750,Glarus,Rathausplatz,Spaziergang,,unknown,,47.03994375,9.067726746969232,2021-05-17 15:39:09
+3273,DE,2021-05-20,22:00:00,6108,Halle,Markt / Ostseite,Kundgebung,,Sven Liebich,https://t.me/InSvensWelt,,,2021-05-17 15:39:09
+3159,DE,2021-05-21,12:00:00,13405,Berlin,Scharnweber Str.,Aufzug,,unbekannt,https://pfingsten-in-berlin.de/,52.5673425,13.3142805,2021-05-17 15:39:09
+3108,DE,2021-05-21,15:00:00,10245,Berlin,Revaler Str. / FHain-XBerg,Demonstration,,Die Berliner Kunst und Kultur trifft sich,https://facebook.com/berlinerkunstundkultur/,52.5170365,13.3888599,2021-05-17 15:39:09
+2967,DE,2021-05-21,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,grundrechte.jetzt,www.grundrechte.jetzt,49.0095065,8.4055133,2021-05-17 15:39:09
+3154,DE,2021-05-21,17:30:00,14053,Berlin,Olympischer Platz,Autokorso,,unbekannt,https://pfingsten-in-berlin.de/,52.5150901,13.2439604,2021-05-17 15:39:09
+3155,DE,2021-05-21,17:30:00,13189,Berlin,Am Feuchten Winkel / P+R Parkplatz,Kundgebung,,unbekannt,,52.5170365,13.3888599,2021-05-17 15:39:09
+3156,DE,2021-05-21,17:30:00,12689,Berlin,Märkische Allee 414,Kundgebung,,unbekannt,https://pfingsten-in-berlin.de/,52.5723062,13.5682111,2021-05-17 15:39:09
+2637,CH,2021-05-21,18:00:00,3186,Düdingen,Bahnhof,Spaziergang,,unknown,,46.8503367,7.192192,2021-05-17 15:39:09
+3153,DE,2021-05-21,18:00:00,12277,Berlin,Marienfelder Allee / B101,Autokorso,,unbekannt,https://pfingsten-in-berlin.de,52.4210731,13.3695445,2021-05-17 15:39:09
+3179,DE,2021-05-21,18:00:00,72336,Balingen,Marktplatz,Kundgebung,,Corona Aufklärer Zollernalb/Rottweil,,48.2731554,8.851081202434564,2021-05-17 15:39:09
+3135,DE,2021-05-21,18:30:00,2943,Weißwasser,Marktplatz,Autokorso,,unbekannt,,51.5047226,14.6460953,2021-05-17 15:39:09
+3151,DE,2021-05-21,18:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2021-05-17 15:39:09
+2625,CH,2021-05-21,19:00:00,7320,Sargans,Bahnhof,Spaziergang,,unknown,,47.046196,9.4452327,2021-05-17 15:39:09
+2917,DE,2021-05-21,19:00:00,26506,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,,unbekannt,,53.5942039,7.2067435,2021-05-17 15:39:09
+2631,CH,2021-05-21,19:00:00,2503,Biel-Bienne,Bahnhof,Spaziergang,,unknown,,47.1331603,7.2439677,2021-05-17 15:39:09
+3274,DE,2021-05-21,22:00:00,6108,Halle,Markt / Ostseite,Kundgebung,https://www.twitch.tv/svenliebich,Sven Liebich,https://t.me/InSvensWelt,,,2021-05-17 15:39:09
+3033,DE,2021-05-22,10:00:00,84405,Dorfen,Unterer Markt,Kundgebung,,Jennifer Voß,,48.2738641,12.1525626,2021-05-17 15:39:09
+3088,DE,2021-05-22,11:00:00,10243,Berlin,Mercedes Benz Arena,Aufzug,,unbekannt,,52.5063681,13.44376504486068,2021-05-17 15:39:09
+3157,DE,2021-05-22,12:00:00,14053,Berlin,Olympischer Platz,Aufzug,,unbekannt,https://pfingsten-in-berlin.de/,52.5150901,13.2439604,2021-05-17 15:39:09
+3158,DE,2021-05-22,12:00:00,10243,Berlin,Mühlenstr. / am Ostbahnhof,Aufzug,,unbekannt,https://pfingsten-in-berlin.de/,52.5170365,13.3888599,2021-05-17 15:39:09
+3160,DE,2021-05-22,12:00:00,12163,Berlin,Walther-Schreiber-Platz,Kundgebung,,unbekannt,https://pfingsten-in-berlin.de/,52.4648649,13.328508,2021-05-17 15:39:09
+2568,CH,2021-05-22,13:00:00,2503,Biel,Altstadt,Kundgebung,,unbekannt,,47.1402899,7.2452253,2021-05-17 15:39:09
+2789,CH,2021-05-22,13:00:00,2502,Biel,Engelsbrunnen,Kundgebung,,unbekannt,,47.1421571,7.2464735,2021-05-17 15:39:09
+3048,DE,2021-05-22,13:00:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,Bürgerinitiative aufRECHT:FREIdenken,https://www.solidarnosch.de,48.7580777,8.2415239,2021-05-17 15:39:09
+3152,DE,2021-05-22,15:00:00,90402,Nürnberg,Jakobsplatz,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4495647,11.0704212,2021-05-17 15:39:09
+3180,DE,2021-05-22,15:00:00,91522,Ansbach,Inselwiese,Autokorso,,Selbstdenker,https://t.me/AutokorsoAnsbach2021,49.302509,10.578965807345295,2021-05-17 15:39:09
+3106,DE,2021-05-22,15:30:00,2943,Weißwasser,Fanmeile am Eisstadion,Kundgebung,,Eltern stehen auf aus Weißwasser,https://fb.me/e/VZ4BFgvI,,,2021-05-17 15:39:09
+3128,HU,2021-05-23,12:00:00,1146,Budapest,Hösök tere / Heldenplatz,Demonstration,,Orvosok a Tisztánlátásért,https://orvosokatisztanlatasert.hu/demonstracio-az-emberi-jogokert-es-a-normalis-eletert/,47.5151514,19.0789567,2021-05-17 15:39:09
+3161,DE,2021-05-23,13:00:00,10557,Berlin,Siegessäule,Kundgebung,,unbekannt,https://pfingsten-in-berlin.de/,52.51450815,13.350110811262352,2021-05-17 15:39:09
+3162,DE,2021-05-23,13:00:00,10557,Berlin,Str. d. 17.Juni / Yitzhak-Rabin-Str.,Kundgebung,,unbekannt,https://pfingsten-in-berlin.de/,52.5170365,13.3888599,2021-05-17 15:39:09
+2649,CH,2021-05-23,14:00:00,9450,Altstätten / SG,Reformierte Kirche,Spaziergang,,unknown,,47.378923150000006,9.5417953,2021-05-17 15:39:09
+3138,DE,2021-05-23,15:00:00,73230,Kirchheim Teck,Ziegelwasen,Kundgebung,,Querdenken 702,,48.6514401,9.4482771,2021-05-17 15:39:09
+2643,LI,2021-05-23,18:00:00,9490,Vaduz,Peter-Kaiser-Platz,Spaziergang,,unknown,,47.1375893,9.5224706,2021-05-17 15:39:09
+3147,DE,2021-05-24,12:00:00,16868,Wusterhausen,Marktplatz,Zusammenkunft,,unbekannt,,52.8907235,12.461246782296659,2021-05-17 15:39:09
+3095,DE,2021-05-24,14:00:00,2763,Zittau,Markt,Kundgebung,,Freunde von PEGIDA,,50.8958774,14.8067754,2021-05-17 15:39:09
+3163,DE,2021-05-24,14:00:00,14057,Berlin,Masurenallee 8-14,Kundgebung,,unbekannt,https://pfingsten-in-berlin.de/,52.5091145,13.2755211,2021-05-17 15:39:09
+3164,DE,2021-05-24,14:00:00,13597,Berlin,Carl-Schurz-Str. 2/6,Kundgebung,,unbekannt,https://pfingsten-in-berlin.de/,52.5350717,13.200713651105087,2021-05-17 15:39:09
+3165,DE,2021-05-24,14:00:00,13405,Berlin,Am Kurt-Schumacher-Platz,Kundgebung,,unbekannt,https://pfingsten-in-berlin.de/,52.5641309,13.3274626,2021-05-17 15:39:09
+3166,DE,2021-05-24,14:00:00,13187,Berlin,Breite Str 17,Kundgebung,,unbekannt,https://pfingsten-in-berlin.de/,52.5692843,13.4014346,2021-05-17 15:39:09
+3167,DE,2021-05-24,14:00:00,10437,Berlin,Mauerpark / Eingang /  Bernauer Str.,Kundgebung,,unbekannt,https://pfingsten-in-berlin.de/,52.5170365,13.3888599,2021-05-17 15:39:09
+3168,DE,2021-05-24,14:00:00,10178,Berlin,Alexanderplatz,Versammlung,,unbekannt,https://pfingsten-in-berlin.de/,52.522417399999995,13.411526303385774,2021-05-17 15:39:09
+3169,DE,2021-05-24,14:00:00,10785,Berlin,Potsdamer Platz 11,Versammlung,,unbekannt,https://pfingsten-in-berlin.de/,52.5087448,13.3755017,2021-05-17 15:39:09
+3170,DE,2021-05-24,14:00:00,14169,Berlin,Clayallee 354,Versammlung,,unbekannt,https://pfingsten-in-berlin.de/,52.4355502,13.2610428,2021-05-17 15:39:09
+3171,DE,2021-05-24,14:00:00,10825,Berlin,John-F.-Kennedy-Platz,Versammlung,,unbekannt,https://pfingsten-in-berlin.de/,52.4846146,13.3449792,2021-05-17 15:39:09
+3172,DE,2021-05-24,14:00:00,10961,Berlin,Mehringdamm 22,Versammlung,,unbekannt,https://pfingsten-in-berlin.de/,52.4947491,13.3886299,2021-05-17 15:39:09
+3173,DE,2021-05-24,14:00:00,10367,Berlin,Möllendorfstraße 6,Versammlung,,unbekannt,https://pfingsten-in-berlin.de/,52.466061,13.8578491,2021-05-17 15:39:09
+3174,DE,2021-05-24,14:00:00,12055,Berlin,Richardplatz,Versammlung,,unbekannt,https://pfingsten-in-berlin.de/,52.4740797,13.4465102,2021-05-17 15:39:09
+3175,DE,2021-05-24,14:00:00,12627,Berlin,Alice-Salomon-Platz / Rathaus,Versammlung,,unbekannt,https://pfingsten-in-berlin.de/,52.5261884,13.6889259,2021-05-17 15:39:09
+3003,DE,2021-05-24,15:00:00,10117,Berlin,Brandenburger Tor,Kundgebung,https://www.twitch.tv/demokratievs1984,#ESREICHT,https://www.facebook.com/Demokratievs1984,52.51628045,13.377701882994323,2021-05-17 15:39:09
+3004,DE,2021-05-24,15:00:00,10117,Berlin,Brandenburger Tor,Livestream,https://www.facebook.com/Demokratievs1984,#ESREICHT,https://www.twitch.tv/demokratievs1984,52.51628045,13.377701882994323,2021-05-17 15:39:09
+2582,CH,2021-05-24,18:00:00,8636,Wald / ZH,Hallenbad/Windegg,Spaziergang,,unknown,,47.2741418,8.9132553,2021-05-17 15:39:09
+2576,CH,2021-05-24,18:00:00,6362,Stansstad,Hafen,Spaziergang,,unknown,,46.97998,8.420751064137455,2021-05-17 15:39:09
+2285,DE,2021-05-24,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-05-17 15:39:09
+2900,DE,2021-05-24,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,unbekannt,,53.5271438,8.1102415,2021-05-17 15:39:09
+2589,CH,2021-05-26,14:00:00,4410,Liestal,Bahnhof,Spaziergang,,unknown,,47.4846679,7.7321448,2021-05-17 15:39:09
+2602,CH,2021-05-26,18:00:00,2542,Pieterlen,Bahnhof,Spaziergang,,unknown,,47.174446,7.3383865,2021-05-17 15:39:09
+2740,DE,2021-05-26,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de,50.1329988,8.9180211,2021-05-17 15:39:09
+2596,CH,2021-05-26,18:30:00,9470,Buchs / SG,Lokremise,Spaziergang,,unknown,,47.1627634,9.4764086,2021-05-17 15:39:09
+2841,DE,2021-05-27,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-05-17 15:39:09
+3086,DE,2021-05-27,18:00:00,42579,Heiligenhaus,Rathausplatz,Spaziergang,,Coronakritik_Velbert Heiligenhaus,,51.326942450000004,6.971079735741307,2021-05-17 15:39:09
+2744,DE,2021-05-27,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de,50.1035627,8.9450186,2021-05-17 15:39:09
+2614,CH,2021-05-27,19:00:00,9000,St. Gallen,Blumenmarkt,Spaziergang,,unknown,,47.4258801,9.3745247,2021-05-17 15:39:09
+2620,CH,2021-05-27,19:00:00,6170,Schüpfheim,Bahnhof,Spaziergang,,unknown,,46.9505532,8.0154577,2021-05-17 15:39:09
+2608,CH,2021-05-27,20:00:00,8750,Glarus,Rathausplatz,Spaziergang,,unknown,,47.03994375,9.067726746969232,2021-05-17 15:39:09
+3077,DE,2021-05-28,17:00:00,84066,Mallersdorf-Pfaffenberg,Haus der Generationen,Kundgebung,,Eltern_Netzwerk u.a.,https://t.me/Eltern_Netzwerk,48.771501650000005,12.236172749999998,2021-05-17 15:39:09
+2968,DE,2021-05-28,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,grundrechte.jetzt,www.grundrechte.jetzt,49.0095065,8.4055133,2021-05-17 15:39:09
+2638,CH,2021-05-28,18:00:00,3186,Düdingen,Bahnhof,Spaziergang,,unknown,,46.8503367,7.192192,2021-05-17 15:39:09
+2626,CH,2021-05-28,19:00:00,7320,Sargans,Bahnhof,Spaziergang,,unknown,,47.046196,9.4452327,2021-05-17 15:39:09
+2918,DE,2021-05-28,19:00:00,26506,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,,unbekannt,,53.5942039,7.2067435,2021-05-17 15:39:09
+2632,CH,2021-05-28,19:00:00,2503,Biel-Bienne,Bahnhof,Spaziergang,,unknown,,47.1331603,7.2439677,2021-05-17 15:39:09
+3120,DE,2021-05-29,10:00:00,24568,Kaltenkirchen,Am Grünen Markt / Brunnen,Kundgebung,,Corona Forum Henstedt-Ulzburg,,53.8371714,9.9614889,2021-05-17 15:39:09
+3034,DE,2021-05-29,10:00:00,84405,Dorfen,Unterer Markt,Kundgebung,,Jennifer Voß,,48.2738641,12.1525626,2021-05-17 15:39:09
+3121,DE,2021-05-29,13:00:00,24558,Henstedt-Ulzburg,Am Bahnbogen / KfC,Schilderwald,,Corona Forum Henstedt-Ulzburg,,53.7988679,9.983188,2021-05-17 15:39:09
+3093,DE,2021-05-29,13:00:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,BI aufRECHT:FREIdenken,https://www.solidarnosch.de,48.7580777,8.2415239,2021-05-17 15:39:09
+2790,CH,2021-05-29,14:00:00,4500,Solothurn,Zeitglockenturm,Kundgebung,,unbekannt,,47.2075677,7.536918890850194,2021-05-17 15:39:09
+3012,DE,2021-05-29,15:00:00,86152,Augsburg,Jakobertor,Festival,,unbekannt,,48.370442749999995,10.908798278471462,2021-05-17 15:39:09
+3083,DE,2021-05-29,16:00:00,6217,Merseburg,An der Kliaplatte,Kundgebung,https://www.twitch.tv/svenliebich,AfD,https://afd-lsa.de/veranstaltungen/kundgebung-mit-bjoern-hoecke-am-29-05-2021-in-merseburg/,,,2021-05-17 15:39:09
+2650,CH,2021-05-30,14:00:00,9450,Altstätten / SG,Reformierte Kirche,Spaziergang,,unknown,,47.378923150000006,9.5417953,2021-05-17 15:39:09
+2644,LI,2021-05-30,18:00:00,9490,Vaduz,Peter-Kaiser-Platz,Spaziergang,,unknown,,47.1375893,9.5224706,2021-05-17 15:39:09
+2583,CH,2021-05-31,18:00:00,8636,Wald / ZH,Hallenbad/Windegg,Spaziergang,,unknown,,47.2741418,8.9132553,2021-05-17 15:39:09
+2577,CH,2021-05-31,18:00:00,6362,Stansstad,Hafen,Spaziergang,,unknown,,46.97998,8.420751064137455,2021-05-17 15:39:09
+2286,DE,2021-05-31,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-05-17 15:39:09
+3267,DE,2021-06-03,13:00:00,76133,Karlsruhe,Marktplatz,Aufzug,,Querdenken 721,,49.0089017,8.4038088,2021-05-17 15:39:09
+2842,DE,2021-06-03,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-05-17 15:39:09
+2791,CH,2021-06-05,13:30:00,9050,Appenzell,Landesgemeindeplatz,Kundgebung,,unbekannt,,47.3299558,9.4099556,2021-05-17 15:39:09
+2287,DE,2021-06-07,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-05-17 15:39:09
+2843,DE,2021-06-10,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-05-17 15:39:09
+2996,DE,2021-06-12,12:05:00,35037,Marburg,Stadthalle / davor,Kundgebung,,Weiterdenken Marburg,https://weiterdenken-marburg.de,50.8117327,8.7757742,2021-05-17 15:39:09
+2792,CH,2021-06-12,14:00:00,6004,Luzern,Kapellplatz,Kundgebung,,unbekannt,,47.05261445,8.307675324292452,2021-05-17 15:39:09
+2990,DE,2021-06-12,14:00:00,52062,Aachen,Elisenbrunnen,Festival,,Freie Bürger Aachen,,50.7741039,6.086867285507246,2021-05-17 15:39:09
+2288,DE,2021-06-14,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-05-17 15:39:09
+2844,DE,2021-06-17,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-05-17 15:39:09
+2823,DE,2021-06-19,12:00:00,34117,Kassel,Friedrichsplatz,Demonstration,,Freie Bürger Kassel. Corona Rebellen Kassel. Prayer of the Mothers Kassel.,,51.31388365,9.494732740210718,2021-05-17 15:39:09
+2289,DE,2021-06-21,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-05-17 15:39:09
+2845,DE,2021-06-24,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-05-17 15:39:09
+2290,DE,2021-06-28,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-05-17 15:39:09
+3068,DE,2021-07-03,15:00:00,44787,Bochum,Kirmesplatz,Demonstration,,Querdenken 234 - Bochum,https://querdenken-234.de,51.487366800000004,7.23353518711003,2021-05-17 15:39:09
+2942,DE,2021-07-17,12:00:00,17207,Röbel Müritz,ZOB,Spaziergang,,Freie Kräfte MV,,53.3731595,12.606159327005962,2021-05-17 15:39:09
+2271,DE,2021-10-04,14:30:00,6232,Speyer,Domplatz,Kundgebung,https://dlive.tv/Live-Reports-DUEW,Querdenken 6341,https://www.querdenken-6341.de,49.3149967,8.4424507,2021-05-17 15:39:09
+1960,DE,2021-11-05,18:00:00,10117,Berlin,Pariser Platz / Brandenburger Tor,MillionMaskMarch,https://anonymous.support/live,Anonymous,https://anonymous.support,52.5170365,13.3888599,2021-05-17 15:39:09
+1963,DE,2021-12-24,12:00:00,10178,Berlin,Weltzeituhr / Alexanderplatz,OpSafeWinter,https://anonymous.support/live,Anonymous,https://anonymous.support,52.5170365,13.3888599,2021-05-17 15:39:09
+1617,DE,2021-12-31,23:59:00,10117,Berlin,Brandenburger Tor,Event,,Welcome 2022,,52.51628045,13.377701882994323,2021-05-17 15:39:09
