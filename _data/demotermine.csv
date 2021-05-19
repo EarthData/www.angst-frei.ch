@@ -9,11 +9,13 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3285,DE,2021-05-19,18:00:00,10115,Berlin,Bundeskanzleramt,Kundgebung,https://youtube.com/user/cheeta030,AfD Brandenburg,https://fb.me/e/4FprlPrav
 3149,DE,2021-05-19,18:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 2595,CH,2021-05-19,18:30:00,9470,Buchs / SG,Lokremise,Spaziergang,,unknown,
+3289,DE,2021-05-19,19:00:00,06108,Halle,Markt / Ostseite,Kundgebung,https://www.youtube.com/channel/UCuAklMNmcLV6dAg8j5HrKAA,Sven Liebich,https://t.me/InSvensWelt
 3272,DE,2021-05-19,22:00:00,06108,Halle,Markt / Ostseite,Kundgebung,,Sven Liebich,https://t.me/InSvensWelt
 3137,DE,2021-05-20,17:30:00,72622,Nürtingen,Ochsenbrunnen,Kundgebung,,Querdenken 702,
 2840,DE,2021-05-20,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 2993,DE,2021-05-20,18:00:00,76131,Karlsruhe,Schlossbezirk 3 / Bundesverfassungsgericht,Kundgebung,,unbekannt,
 3085,DE,2021-05-20,18:00:00,42579,Heiligenhaus,Rathausplatz,Spaziergang,,Coronakritik_Velbert Heiligenhaus,
+3286,DE,2021-05-20,18:00:00,93413,Cham,Volksfestplatz,Kundgebung,,unbekannt,
 2743,DE,2021-05-20,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 2613,CH,2021-05-20,19:00:00,9000,St. Gallen,Blumenmarkt,Spaziergang,,unknown,
 2619,CH,2021-05-20,19:00:00,6170,Schüpfheim,Bahnhof,Spaziergang,,unknown,
@@ -36,6 +38,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2631,CH,2021-05-21,19:00:00,2503,Biel-Bienne,Bahnhof,Spaziergang,,unknown,
 3274,DE,2021-05-21,22:00:00,06108,Halle,Markt / Ostseite,Kundgebung,https://www.twitch.tv/svenliebich,Sven Liebich,https://t.me/InSvensWelt
 3033,DE,2021-05-22,10:00:00,84405,Dorfen,Unterer Markt,Kundgebung,,Jennifer Voß,
+3290,DE,2021-05-22,10:30:00,79271,St. Peter,Zähringer Eck / Rossweiher,Versammlung,,Schwarzwald Netzwerk,https://schwarzwald-netzwerk.de/
 3088,DE,2021-05-22,11:00:00,10243,Berlin,Mercedes Benz Arena,Aufzug,,unbekannt,
 3157,DE,2021-05-22,12:00:00,14053,Berlin,Olympischer Platz,Aufzug,,unbekannt,https://pfingsten-in-berlin.de/
 3158,DE,2021-05-22,12:00:00,10243,Berlin,Mühlenstr. / am Ostbahnhof,Aufzug,,unbekannt,https://pfingsten-in-berlin.de/
@@ -43,6 +46,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2568,CH,2021-05-22,13:00:00,2503,Biel,Altstadt,Kundgebung,,unbekannt,
 2789,CH,2021-05-22,13:00:00,2502,Biel,Engelsbrunnen,Kundgebung,,unbekannt,
 3048,DE,2021-05-22,13:00:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,Bürgerinitiative aufRECHT:FREIdenken,https://www.solidarnosch.de
+3291,DE,2021-05-22,14:00:00,64385,Reichelsheim,B 38 Ortseingang Aldi,Zusammenkunft,,unbekannt,
+3288,DE,2021-05-22,14:00:00,56068,Koblenz,Jesuitenplatz,Mahnwache,,unbekannt,
 3283,DE,2021-05-22,14:30:00,26441,Jever,Sagenbrunnen,Demonstration,,Besorgte Bürger,
 3284,DE,2021-05-22,14:30:00,26441,Jever,Marktplatz,Demonstration,,unbekannt,
 3282,DE,2021-05-22,14:30:00,30169,Hannover,Schützenplatz,Autokorso,,Autocorso Hannover,
@@ -76,6 +81,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3004,DE,2021-05-24,15:00:00,10117,Berlin,Brandenburger Tor,Livestream,https://www.facebook.com/Demokratievs1984,#ESREICHT,https://www.twitch.tv/demokratievs1984
 2582,CH,2021-05-24,18:00:00,8636,Wald / ZH,Hallenbad/Windegg,Spaziergang,,unknown,
 2576,CH,2021-05-24,18:00:00,6362,Stansstad,Hafen,Spaziergang,,unknown,
+3287,DE,2021-05-24,18:00:00,92421,Schwandorf,Unterer Marktplatz,Kundgebung,,unbekannt,
 2285,DE,2021-05-24,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 3281,DE,2021-05-24,18:30:00,29221,Celle,Stechbahn,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,
 2900,DE,2021-05-24,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,unbekannt,
