@@ -5,5 +5,5 @@ title:         1bis19 – Magazin für demokratische Kultur
 subtitle:      'Tödliche Autoimmunerkrankung bei ca. 10% der mit AstraZeneca Geimpften'
 country:       DE
 categories:    [Impfung]
-tags:          [1bis19, mit oder an impfung gestorben, blutgerinnungsstörungen, astrazeneca]
+tags:          [mit oder an impfung gestorben, blutgerinnungsstörungen, astrazeneca]
 ---

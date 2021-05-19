@@ -5,5 +5,5 @@ title:         Verfassungsfreunde
 subtitle:      'Die Petition «Schützt die Kinder» wurde vor 10 Tagen versendet!'
 country:       CH
 categories:    [Recht, Politik, Widerstand]
-tags:          [kind, maske, petition, pinned]
+tags:          [kind, maske, petition]
 ---

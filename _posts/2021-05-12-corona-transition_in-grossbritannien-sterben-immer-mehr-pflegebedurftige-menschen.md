@@ -6,5 +6,5 @@ subtitle:      'In Grossbritannien sterben immer mehr pflegebedürftige Menschen
 description:   'Häusliche Pflege ist für Hunderttausende von Menschen in Grossbritannien lebenswichtig. Seit Beginn der «Pandemie» wurde sie jedoch stark (...)'
 country:       CH
 categories:    [Zahlen]
-tags:          [sterblichekit]
+tags:          [sterblichkeit]
 ---
