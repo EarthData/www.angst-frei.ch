@@ -6,5 +6,5 @@ subtitle:      'Übel: Verweigern Schüler den Corona-Test, droht Eltern der Kin
 description:   'Kommenden Montag beginnt in Österreich wieder der Vollbetrieb an Schulen. Dreimal Testen pro Woche wird zur Voraussetzung für die Teilnahme am Unterricht. Lassen sich Schüler nicht testen, droht den Eltern der Entzug der Kinder.'
 country:       AT
 categories:    [Recht]
-tags:          [kind, selbsttest, willkür]
+tags:          [kind, schnelltest, willkür]
 ---

@@ -184,6 +184,7 @@ siehe [Politisches > Kind]({{site.baseurl}}/infos/swiss-politisches.html#kind)
 
  * [Homeschooling in der Schweiz](https://swisshomeschoolfamily.org/)
  * [Homeschooling in der Schweiz - Gesetzliche Anforderungen](https://swisshomeschoolfamily.org/gesetzliche-anforderungen/)
+ * [Bestimmungen der einzelnen Kantone](https://www.wireltern.ch/artikel/bestimmungen-der-einzelnen-kantone)
  * [Mit diesen sechs Profi-Tricks klappt das Homeschooling](https://www.hellozurich.ch/de/aktuell/homeschooling-tipps.html)
  * [WIR - Homeschooling - Schweiz](https://t.me/wirhomeschoolingschweiz)
  * [Telegram-Gruppe: Homeschooling Unschooling Freilernen](https://t.me/homeschooling_chat_deutsch)
