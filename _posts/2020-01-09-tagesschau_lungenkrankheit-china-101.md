@@ -6,6 +6,7 @@ subtitle:      'Neuer Virustyp entdeckt'
 description:   'Die Tagesschau berichtet zum ersten Mal: Die rätselhaften Lungenerkrankungen in China gehen offenbar auf ein bisher unbekanntes Virus zurück. Derzeit werden fast 60 Menschen deswegen in der Metropole Wuhan behandelt.'
 country:       DE
 timeline:      P(l)andemie
+group:         Medien
 categories:    [Behörde]
 tags:          [virus-urpsrung, wuhan]
 ---

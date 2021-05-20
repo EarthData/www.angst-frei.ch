@@ -7,6 +7,7 @@ subtitle:      'World Economic Forum Annual Meeting Davos 2020'
 description:   'Fast 3.000 Politiker, Manager und Journalisten, darunter viele der mächtigsten Staats- und Konzernchefs, tagen in Davos'
 country:       ORG
 timeline:      P(l)andemie
+group:         Ereignis
 categories:    [P(l)andemie]
 tags:          [wef]
 ---

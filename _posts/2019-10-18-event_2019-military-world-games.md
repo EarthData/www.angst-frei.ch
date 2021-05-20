@@ -6,6 +6,7 @@ title:         Event
 subtitle:      'Sommer-Militärweltspiele 2019'
 description:   'Die VII. Sommer-Militärweltspiele (offiziell 7th CISM Military World Games, auch bekannt als Wuhan 2019) fanden vom 18. bis 27. Oktober 2019 in Wuhan in der Provinz Hubei in China statt.'
 timeline:      P(l)andemie
+group:         Ereignis
 categories:    [P(l)andemie]
 tags:          [wuhan]
 ---

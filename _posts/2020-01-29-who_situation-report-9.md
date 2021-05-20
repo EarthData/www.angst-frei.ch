@@ -6,6 +6,7 @@ subtitle:    'Situation Report - 9'
 description: 'A total of 6,065 confirmed 2019-nCoV cases have been reported globally<br/>132 deaths have been reported'
 country:     ORG
 timeline:    P(l)andemie
+group:       WHO
 categories:  [Zahlen]
 tags:        [pdf, who]
 link:        "/assets/files/science/20200129-sitrep-9-ncov-v2.pdf"

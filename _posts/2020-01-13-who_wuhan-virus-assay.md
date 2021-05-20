@@ -6,6 +6,7 @@ subtitle:    "Diagnostic detection of Wuhan coronavirus 2019 by real-time RT-PCR
 description: 'Die WHO akzeptiert das PCR-Testprotokoll Herrn Drostens als Gold-Standard.'
 country:     ORG
 timeline:    P(l)andemie
+group:       WHO
 persons:     [Drosten Christian]
 categories:  [Wissenschaft]
 tags:        [pdf, who, pcr-test]

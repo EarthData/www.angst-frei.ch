@@ -6,6 +6,7 @@ subtitle:      'Statement about nCoV and our pandemic exercise'
 description:   'To be clear, the Center for Health Security and partners did not make a prediction during our tabletop exercise.'
 country:       ORG
 timeline:      P(l)andemie
+group:         Ereignis
 categories:    [Gesundheit]
 tags:          [jhchs, event 201]
 ---

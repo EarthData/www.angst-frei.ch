@@ -6,6 +6,7 @@ subtitle:      'Email to alert WHO to possible danger of COVID-19'
 description:   'Possibility of human-to-human transmission of COVID-19'
 country:       TW
 timeline:      P(l)andemie
+group:         WHO
 categories:    [Wissenschaft]
 tags:          [who, wuhan]
 ---

@@ -50,7 +50,11 @@ permalink: /json/timeline-plandemie.json
            "caption": "{{ post.title | replace: '"', "'" }}",
            "credit": ""
          },
+         {%- if post.group -%}
+         "group": "{{ post.group }}",
+         {%- else -%}
          "group": "{{ post.timeline }}",
+         {%- endif -%}
          "start_date": {
            "month": {{ month }},
            "day": {{ day }},

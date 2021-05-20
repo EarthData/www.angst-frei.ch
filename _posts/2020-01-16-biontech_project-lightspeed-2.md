@@ -6,6 +6,7 @@ subtitle:      'Project Lightspeed'
 description:   'Aiming to address the global coronavirus pandemic: Project Lightspeed'
 country:       DE
 timeline:      P(l)andemie
+group:         Pharmaindustrie
 categories:    [Impfung]
 tags:          [biontech, pdf]
 link:          "/assets/files/science/ppt-erste-studie-sars-cov-2-impfstoff-en.pdf"

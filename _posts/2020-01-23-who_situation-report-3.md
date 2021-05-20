@@ -6,6 +6,7 @@ subtitle:    'Situation Report - 3'
 description: 'A total of 581 confirmed cases have been reported for novel coronavirus (2019-nCoV) globally<br/>17 deaths have been reported'
 country:     ORG
 timeline:    P(l)andemie
+group:       WHO
 categories:  [Zahlen]
 tags:        [pdf, who]
 link:        "/assets/files/science/20200123-sitrep-3-2019-ncov.pdf"

@@ -5,6 +5,7 @@ title:         Event
 subtitle:      'Repo-Zinssatz FED'
 description:   'Aus dem Nichts explodiert die US Dollar „Overnight Repo Rate“, der Zinssatz, zu dem sich Banken gegen Sicherheiten Geld leihen, auf 10% hoch, fünf mal höher als am Freitag davor.'
 timeline:      P(l)andemie
+group:         Ereignis
 categories:    [P(l)andemie]
 tags:          [geld, usa]
 ---

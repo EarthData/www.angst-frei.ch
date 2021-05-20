@@ -6,6 +6,7 @@ subtitle:      'WHO Director-General’s opening remarks at the media briefing o
 description:   'Pandemieerklärung: «Wir haben daher die Einschätzung getroffen, dass COVID-19 als Pandemie charakterisiert werden kann.»'
 country:       ORG
 timeline:      P(l)andemie
+group:         WHO
 categories:    [P(l)andemie]
 tags:          [who]
 ---

@@ -4,6 +4,7 @@ title:         Event
 subtitle:      'TIB-Molbiol sendet PCR-Tests nach China'
 date:          2020-01-10
 timeline:      P(l)andemie
+group:         Ereignis
 categories:    [P(l)andemie]
 tags:          [pcr-test]
 ---

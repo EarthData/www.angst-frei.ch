@@ -6,6 +6,7 @@ subtitle:      'Johns Hopkins Center for Health Security to host Event 201, a gl
 description:   'The Johns Hopkins Center for Health Security in partnership with the World Economic Forum and the Bill and Melinda Gates Foundation will host a global pandemic exercise called “Event 201” on Friday, October 18, 2019, in New York City.'
 country:       ORG
 timeline:      P(l)andemie
+group:         Ereignis
 categories:    [Gesundheit]
 tags:          [jhchs, event 201]
 ---

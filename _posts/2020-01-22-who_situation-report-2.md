@@ -6,6 +6,7 @@ subtitle:    'Situation Report - 2'
 description: 'As of 21 January 2020, a total of 314 confirmed cases have been reported for novel coronavirus (2019-nCoV) globally<br/>6 deaths have been reported'
 country:     ORG
 timeline:    P(l)andemie
+group:       WHO
 categories:  [Zahlen]
 tags:        [pdf, who]
 link:        "/assets/files/science/20200122-sitrep-2-2019-ncov.pdf"

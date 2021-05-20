@@ -6,6 +6,7 @@ subtitle:      'Scale of China’s Wuhan Shutdown Is Believed to Be Without Prec
 description:   'Mit der Abschottung einer Stadt mit 11 Millionen Einwohnern versucht China, einen Ausbruch des Coronavirus mithilfe einer Taktik mit einer komplizierten Geschichte ethischer Bedenken zu stoppen.'
 country:       COM
 timeline:      P(l)andemie
+group:         Medien
 categories:    [MSM]
 tags:          [lockdown, wuhan]
 ---

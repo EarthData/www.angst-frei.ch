@@ -5,6 +5,7 @@ title:         Ereigniss
 subtitle:      'Merkel besucht Wuhan'
 description:   'Bundeskanzlerin Angela Merkel besucht die Millionenmetropole Wuhan.'
 timeline:      P(l)andemie
+group:         Ereignis
 categories:    [P(l)andemie]
 tags:          [wuhan]
 ---
