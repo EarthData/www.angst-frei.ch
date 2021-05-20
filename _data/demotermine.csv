@@ -38,6 +38,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3291,DE,2021-05-22,14:00:00,64385,Reichelsheim,B 38 Ortseingang Aldi,Zusammenkunft,,unbekannt,
 3296,DE,2021-05-22,14:00:00,80339,München,Theresienwiese,Autokorso,,Autokorso München,https://t.me/s/AutoKorsoMuc
 3288,DE,2021-05-22,14:00:00,56068,Koblenz,Jesuitenplatz,Mahnwache,,unbekannt,
+3297,DE,2021-05-22,14:00:00,56068,Koblenz,Jesuitenplatz,Mahnwache,,unbekannt,
 3283,DE,2021-05-22,14:30:00,26441,Jever,Sagenbrunnen,Demonstration,,Besorgte Bürger,
 3284,DE,2021-05-22,14:30:00,26441,Jever,Marktplatz,Demonstration,,unbekannt,
 3282,DE,2021-05-22,14:30:00,30169,Hannover,Schützenplatz,Autokorso,,Autocorso Hannover,
@@ -47,6 +48,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3292,DE,2021-05-22,15:30:00,45127,Essen,Willy-Brandt-Platz,Kundgebung,,unbekannt,https://t.me/joinchat/Gr4v4tPxmF174Ikj
 3279,DE,2021-05-22,19:00:00,74357,Bönnigheim,Hauptstr. / Schloss,Kundgebung,,unbekannt,
 3280,DE,2021-05-23,10:45:00,75015,Bretten,Marktplatz,Meditation,,unbekannt,
+3298,DE,2021-05-23,11:00:00,71229,Leonberg,Marktplatz,Musik,,Horn For Hope,
 3128,HU,2021-05-23,12:00:00,1146,Budapest,Hösök tere / Heldenplatz,Demonstration,,Orvosok a Tisztánlátásért,https://orvosokatisztanlatasert.hu/demonstracio-az-emberi-jogokert-es-a-normalis-eletert/
 3161,DE,2021-05-23,13:00:00,10557,Berlin,Siegessäule,Kundgebung,,unbekannt,https://pfingsten-in-berlin.de/
 3162,DE,2021-05-23,13:00:00,10557,Berlin,Str. d. 17.Juni / Yitzhak-Rabin-Str.,Kundgebung,,unbekannt,https://pfingsten-in-berlin.de/
@@ -54,6 +56,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3138,DE,2021-05-23,15:00:00,73230,Kirchheim Teck,Ziegelwasen,Kundgebung,,Querdenken 702,
 2643,LI,2021-05-23,18:00:00,9490,Vaduz,Peter-Kaiser-Platz,Spaziergang,,unknown,
 3147,DE,2021-05-24,12:00:00,16868,Wusterhausen,Marktplatz,Zusammenkunft,,unbekannt,
+3299,DE,2021-05-24,13:00:00,49152,Bad Essen,Gewerbegebiet 2,Autokorso,,unbekannt,
 3095,DE,2021-05-24,14:00:00,02763,Zittau,Markt,Kundgebung,,Freunde von PEGIDA,
 3163,DE,2021-05-24,14:00:00,14057,Berlin,Masurenallee 8-14,Kundgebung,,unbekannt,https://pfingsten-in-berlin.de/
 3164,DE,2021-05-24,14:00:00,13597,Berlin,Carl-Schurz-Str. 2/6,Kundgebung,,unbekannt,https://pfingsten-in-berlin.de/
