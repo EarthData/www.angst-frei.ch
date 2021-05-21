@@ -4,7 +4,6 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3295,DE,2021-05-21,16:00:00,12629,Berlin,Alte Hellersdorfer Strasse,Autokorso,,Autokorso Berlin,https://t.me/AutokorsoBerlinInfo
 2967,DE,2021-05-21,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,grundrechte.jetzt,www.grundrechte.jetzt
 3154,DE,2021-05-21,17:30:00,14053,Berlin,Olympischer Platz,Autokorso,,unbekannt,https://pfingsten-in-berlin.de/
-3155,DE,2021-05-21,17:30:00,13189,Berlin,Am Feuchten Winkel / P+R Parkplatz,Kundgebung,,unbekannt,
 3156,DE,2021-05-21,17:30:00,12689,Berlin,Märkische Allee 414,Kundgebung,,unbekannt,https://pfingsten-in-berlin.de/
 2637,CH,2021-05-21,18:00:00,3186,Düdingen,Bahnhof,Spaziergang,,unknown,
 3153,DE,2021-05-21,18:00:00,12277,Berlin,Marienfelder Allee / B101,Autokorso,,unbekannt,https://pfingsten-in-berlin.de
@@ -35,6 +34,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3180,DE,2021-05-22,15:00:00,91522,Ansbach,Inselwiese,Autokorso,,Selbstdenker,https://t.me/AutokorsoAnsbach2021
 3106,DE,2021-05-22,15:30:00,02943,Weißwasser,Fanmeile am Eisstadion,Kundgebung,,Eltern stehen auf aus Weißwasser,https://fb.me/e/VZ4BFgvI
 3300,DE,2021-05-22,15:30:00,29525,Uelzen,Herzogenplatz,Kundgebung,,Private Initiative für Wiederherstellung der Grundrechte,
+3303,DE,2021-05-22,15:30:00,87600,Kaufbeuren,Obstmarkt / Fußgängerzone,Meditation,,unbekannt,
 3292,DE,2021-05-22,15:30:00,45127,Essen,Willy-Brandt-Platz,Kundgebung,,unbekannt,https://t.me/joinchat/Gr4v4tPxmF174Ikj
 3279,DE,2021-05-22,19:00:00,74357,Bönnigheim,Hauptstr. / Schloss,Kundgebung,,unbekannt,
 3280,DE,2021-05-23,10:45:00,75015,Bretten,Marktplatz,Meditation,,unbekannt,
@@ -44,6 +44,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3162,DE,2021-05-23,13:00:00,10557,Berlin,Str. d. 17.Juni / Yitzhak-Rabin-Str.,Kundgebung,,unbekannt,https://pfingsten-in-berlin.de/
 2649,CH,2021-05-23,14:00:00,9450,Altstätten / SG,Reformierte Kirche,Spaziergang,,unknown,
 3138,DE,2021-05-23,15:00:00,73230,Kirchheim Teck,Ziegelwasen,Kundgebung,,Querdenken 702,
+3306,DE,2021-05-23,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
 2643,LI,2021-05-23,18:00:00,9490,Vaduz,Peter-Kaiser-Platz,Spaziergang,,unknown,
 3147,DE,2021-05-24,12:00:00,16868,Wusterhausen,Marktplatz,Zusammenkunft,,unbekannt,
 3299,DE,2021-05-24,13:00:00,49152,Bad Essen,Gewerbegebiet 2,Autokorso,,unbekannt,
@@ -63,12 +64,15 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3175,DE,2021-05-24,14:00:00,12627,Berlin,Alice-Salomon-Platz / Rathaus,Versammlung,,unbekannt,https://pfingsten-in-berlin.de/
 3003,DE,2021-05-24,15:00:00,10117,Berlin,Brandenburger Tor,Kundgebung,https://www.twitch.tv/demokratievs1984,#ESREICHT,https://www.facebook.com/Demokratievs1984
 3004,DE,2021-05-24,15:00:00,10117,Berlin,Brandenburger Tor,Livestream,https://www.facebook.com/Demokratievs1984,#ESREICHT,https://www.twitch.tv/demokratievs1984
+3305,DE,2021-05-24,16:00:00,98574,Schmalkalden,Altmarkt,Kundgebung,,Der Neue Schmalkaldische Bund,https://www.viva-la-revolution.de
 2582,CH,2021-05-24,18:00:00,8636,Wald / ZH,Hallenbad/Windegg,Spaziergang,,unknown,
 2576,CH,2021-05-24,18:00:00,6362,Stansstad,Hafen,Spaziergang,,unknown,
 3287,DE,2021-05-24,18:00:00,92421,Schwandorf,Unterer Marktplatz,Kundgebung,,unbekannt,
 2285,DE,2021-05-24,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
+3301,DE,2021-05-24,18:00:00,33330,Gütersloh,Berliner Platz,Spaziergang,,Privat (zuletzt 142 Teilnehmer),https://t.me/LichterspaziergangGT
 3281,DE,2021-05-24,18:30:00,29221,Celle,Stechbahn,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,
 2900,DE,2021-05-24,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,unbekannt,
+3304,DE,2021-05-24,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,unbekannt,
 2589,CH,2021-05-26,14:00:00,4410,Liestal,Bahnhof,Spaziergang,,unknown,
 2602,CH,2021-05-26,18:00:00,2542,Pieterlen,Bahnhof,Spaziergang,,unknown,
 2740,DE,2021-05-26,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
@@ -97,6 +101,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2583,CH,2021-05-31,18:00:00,8636,Wald / ZH,Hallenbad/Windegg,Spaziergang,,unknown,
 2577,CH,2021-05-31,18:00:00,6362,Stansstad,Hafen,Spaziergang,,unknown,
 2286,DE,2021-05-31,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
+3302,DE,2021-05-31,18:00:00,33330,Gütersloh,Berliner Platz,Kundgebung,,Privat (zuletzt 142 Teilnehmer),https://t.me/LichterspaziergangGT
 3267,DE,2021-06-03,13:00:00,76133,Karlsruhe,Marktplatz,Aufzug,,Querdenken 721,
 2842,DE,2021-06-03,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 2791,CH,2021-06-05,13:30:00,9050,Appenzell,Landesgemeindeplatz,Kundgebung,,unbekannt,
