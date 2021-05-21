@@ -5,6 +5,7 @@ title:         World Health Organization
 subtitle:      'IHR Emergency Committee on Novel Coronavirus (2019-nCoV)'
 country:       ORG
 timeline:      P(l)andemie
+group:         WHO
 categories:    [P(l)andemie]
 tags:          [who]
 ---
