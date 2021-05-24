@@ -4,6 +4,7 @@ layout:        post
 title:         Event
 subtitle:      'TIB-Molbiol sendet PCR-Tests nach China'
 description:   'Die ersten Test-Kits gingen bereits am 10. Januar per Luftpost nach Hongkong. Da war der Beipackzettel noch gar nicht fertig. „Den haben wir per Mail hinterhergeschickt“.'
+credit:        https://www.tagesspiegel.de/berlin/tib-molbiol-berliner-firma-produziert-coronavirus-tests-fuer-die-ganze-welt/25602142.html
 timeline:      P(l)andemie
 group:         Ereignis
 categories:    [P(l)andemie]
