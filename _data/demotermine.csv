@@ -38,6 +38,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3325,DE,2021-05-24,19:00:00,04668,Grimma,Markt,Spaziergang,,keine,
 3321,DE,2021-05-25,18:00:00,74906,Bad Rappenau,Kirchplatz / Rathaus,Versammlung,,unbekannt,
 3335,DE,2021-05-25,19:00:00,55618,Simmertal,Alter Kerweplatz,Spaziergang,,unbekannt,
+3345,DE,2021-05-25,19:00:00,55618,Simmertal,Kerweplatz / Ortseingang,Spaziergang,,privat (keine Partei),
 3339,DE,2021-05-25,19:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 3317,DE,2021-05-26,13:00:00,10875,Berlin,Potsdamer Platz / Ebertstr.,Mahnwache,,unbekannt,
 2589,CH,2021-05-26,14:00:00,4410,Liestal,Bahnhof,Spaziergang,,unknown,
@@ -45,6 +46,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3318,DE,2021-05-26,17:30:00,32756,Detmold,Marktplatz,Meditation,,Lippe für Freiheit | Frieden und menschliches Miteinander.,
 3330,DE,2021-05-26,17:45:00,22111,Hamburg,Horner Landstr.,Autokorso,,Freiheitsfahrer Hamburg,
 2602,CH,2021-05-26,18:00:00,2542,Pieterlen,Bahnhof,Spaziergang,,unknown,
+3346,DE,2021-05-26,18:00:00,80539,München,Wittelsbacher Platz,Aufzug,,MünchenStehtAuf,
 2740,DE,2021-05-26,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
 3319,DE,2021-05-26,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander.,
 3340,DE,2021-05-26,18:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
@@ -65,7 +67,6 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2918,DE,2021-05-28,19:00:00,26506,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,,unbekannt,
 2632,CH,2021-05-28,19:00:00,2503,Biel-Bienne,Bahnhof,Spaziergang,,unknown,
 3120,DE,2021-05-29,10:00:00,24568,Kaltenkirchen,Am Grünen Markt / Brunnen,Kundgebung,,Corona Forum Henstedt-Ulzburg,
-3034,DE,2021-05-29,10:00:00,84405,Dorfen,Unterer Markt,Kundgebung,,Jennifer Voß,
 3121,DE,2021-05-29,13:00:00,24558,Henstedt-Ulzburg,Am Bahnbogen / KfC,Schilderwald,,Corona Forum Henstedt-Ulzburg,
 3093,DE,2021-05-29,13:00:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,BI aufRECHT:FREIdenken,https://www.solidarnosch.de
 2790,CH,2021-05-29,14:00:00,4500,Solothurn,Zeitglockenturm,Kundgebung,,unbekannt,
