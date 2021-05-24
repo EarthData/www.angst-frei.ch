@@ -49,9 +49,9 @@ permalink: /json/timeline-plandemie.json
            {%- endif -%}
            "caption": "{{ post.title | replace: '"', "'" }}",
            {%- if post.redirect -%}
-           "credit": "<a href='{{ post.redirect }}'>{{ post.redirect }}</a>"
+           "credit": "<a href='{{ post.redirect }}'>Quelle</a>"
            {%- elsif post.credit -%}
-           "credit": "<a href='{{ post.credit }}'>{{ post.credit }}</a>"
+           "credit": "<a href='{{ post.credit }}'>Quelle</a>"
            {%- else -%}
            "credit": ""
            {%- endif -%}
