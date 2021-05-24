@@ -15,6 +15,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3173,DE,2021-05-24,14:00:00,10367,Berlin,Möllendorfstraße 6,Versammlung,,unbekannt,https://pfingsten-in-berlin.de/
 3174,DE,2021-05-24,14:00:00,12055,Berlin,Richardplatz,Versammlung,,unbekannt,https://pfingsten-in-berlin.de/
 3175,DE,2021-05-24,14:00:00,12627,Berlin,Alice-Salomon-Platz / Rathaus,Versammlung,,unbekannt,https://pfingsten-in-berlin.de/
+3334,DE,2021-05-24,15:00:00,13403,Berlin,Brandenburger Tor,Mahnwache,https://dlive.tv/MariaGoetz?ref=mariagoetz,Montagsmahnwache (#Es Reicht),
 3003,DE,2021-05-24,15:00:00,10117,Berlin,Brandenburger Tor,Kundgebung,https://www.twitch.tv/demokratievs1984,#ESREICHT,https://www.facebook.com/Demokratievs1984
 3004,DE,2021-05-24,15:00:00,10117,Berlin,Brandenburger Tor,Livestream,https://www.facebook.com/Demokratievs1984,#ESREICHT,https://www.twitch.tv/demokratievs1984
 3305,DE,2021-05-24,16:00:00,98574,Schmalkalden,Altmarkt,Kundgebung,,Der Neue Schmalkaldische Bund,https://www.viva-la-revolution.de
@@ -50,6 +51,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2620,CH,2021-05-27,19:00:00,6170,Schüpfheim,Bahnhof,Spaziergang,,unknown,
 2608,CH,2021-05-27,20:00:00,8750,Glarus,Rathausplatz,Spaziergang,,unknown,
 3077,DE,2021-05-28,17:00:00,84066,Mallersdorf-Pfaffenberg,Haus der Generationen,Kundgebung,,Eltern_Netzwerk u.a.,https://t.me/Eltern_Netzwerk
+3333,DE,2021-05-28,17:30:00,02943,Weißwasser,Marktplatz,Autokorso,,Freiheitsvirus Weißwasser,
 2968,DE,2021-05-28,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,grundrechte.jetzt,www.grundrechte.jetzt
 2638,CH,2021-05-28,18:00:00,3186,Düdingen,Bahnhof,Spaziergang,,unknown,
 2626,CH,2021-05-28,19:00:00,7320,Sargans,Bahnhof,Spaziergang,,unknown,
