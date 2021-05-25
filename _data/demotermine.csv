@@ -9,12 +9,14 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3323,DE,2021-05-26,16:00:00,70184,Stuttgart,Dobelstr. / Hohenheimer Str.,Schilderwald,,Privat,
 3318,DE,2021-05-26,17:30:00,32756,Detmold,Marktplatz,Meditation,,Lippe für Freiheit | Frieden und menschliches Miteinander.,
 3330,DE,2021-05-26,17:45:00,22111,Hamburg,Horner Landstr.,Autokorso,,Freiheitsfahrer Hamburg,
+3353,DE,2021-05-26,18:00:00,78549,Spaichingen,Marktplatz,Kundgebung,,Friede und Freiheit,https://t.me/friede_und_freiheit/6689
 2602,CH,2021-05-26,18:00:00,2542,Pieterlen,Bahnhof,Spaziergang,,unknown,
 3346,DE,2021-05-26,18:00:00,80539,München,Wittelsbacher Platz,Aufzug,,MünchenStehtAuf,
 2740,DE,2021-05-26,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
 3319,DE,2021-05-26,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander.,
 3340,DE,2021-05-26,18:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 2596,CH,2021-05-26,18:30:00,9470,Buchs / SG,Lokremise,Spaziergang,,unknown,
+3352,DE,2021-05-27,17:30:00,72188,Wittershausen,Turn- und Festhalle,Autokorso,,unbekannt,
 2841,DE,2021-05-27,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 3086,DE,2021-05-27,18:00:00,42579,Heiligenhaus,Rathausplatz,Spaziergang,,Coronakritik_Velbert Heiligenhaus,
 2744,DE,2021-05-27,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
@@ -22,9 +24,11 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2620,CH,2021-05-27,19:00:00,6170,Schüpfheim,Bahnhof,Spaziergang,,unknown,
 3341,DE,2021-05-27,19:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 2608,CH,2021-05-27,20:00:00,8750,Glarus,Rathausplatz,Spaziergang,,unknown,
+3354,DE,2021-05-28,16:30:00,78713,Schramberg,Parkplatz am Schloss im Tal,Menschenkette,,Friede und Freiheit,https://t.me/friede_und_freiheit/6690
 3077,DE,2021-05-28,17:00:00,84066,Mallersdorf-Pfaffenberg,Haus der Generationen,Kundgebung,,Eltern_Netzwerk u.a.,https://t.me/Eltern_Netzwerk
 3333,DE,2021-05-28,17:30:00,02943,Weißwasser,Marktplatz,Autokorso,,Freiheitsvirus Weißwasser,
 2968,DE,2021-05-28,17:30:00,76131,Karlsruhe,Marktplatz,Kundgebung,,grundrechte.jetzt,www.grundrechte.jetzt
+3355,DE,2021-05-28,17:45:00,78713,Schramberg,HAU Parkplatz / HAU Firmenpark,Autokorso,,Friede und Freiheit,https://t.me/friede_und_freiheit/6690
 2638,CH,2021-05-28,18:00:00,3186,Düdingen,Bahnhof,Spaziergang,,unknown,
 3342,DE,2021-05-28,18:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 2626,CH,2021-05-28,19:00:00,7320,Sargans,Bahnhof,Spaziergang,,unknown,
@@ -38,6 +42,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3343,DE,2021-05-29,15:00:00,90402,Nürnberg,Jakobsplatz,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 3012,DE,2021-05-29,15:00:00,86152,Augsburg,Jakobertor,Festival,,unbekannt,
 3083,DE,2021-05-29,16:00:00,06217,Merseburg,An der Kliaplatte,Kundgebung,https://www.twitch.tv/svenliebich,AfD,https://afd-lsa.de/veranstaltungen/kundgebung-mit-bjoern-hoecke-am-29-05-2021-in-merseburg/
+3351,DE,2021-05-29,17:00:00,30169,Hannover,Schützenplatz,Autokorso,,Autocorso Hannover,Telegram
 2650,CH,2021-05-30,14:00:00,9450,Altstätten / SG,Reformierte Kirche,Spaziergang,,unknown,
 3338,DE,2021-05-30,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
 2644,LI,2021-05-30,18:00:00,9490,Vaduz,Peter-Kaiser-Platz,Spaziergang,,unknown,
