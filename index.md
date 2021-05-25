@@ -30,6 +30,8 @@ share-description: 'Übersicht und Aggregation von kritischen Stimmen zum aktuel
   </div>
 </form>
 
+[Angepasste Google-Suche](https://cse.google.com/cse?cx=a41494378e318bb73)
+
 Diese Seite dient der Übersicht und Aggregation von kritischen Stimmen zum aktuellen Covid19-Geschehen. Das Ziel ist die Möglichkeit einer differenzierten Betrachtung und Diskussion des Themas. Aus diesem Grund wird ein sehr grosses Spektrum an Meinungen abgedeckt, die sich nicht zwangsl&auml;ufig mit der Meinung der Seitenbetreiber decken muss. Es werden im wesentlichen folgende Ziele verfolgt:
 
 
