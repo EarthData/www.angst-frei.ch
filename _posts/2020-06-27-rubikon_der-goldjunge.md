@@ -8,3 +8,157 @@ persons:       [Drosten Christian]
 categories:    [Wissenschaft]
 tags:          [geld, manipulation]
 ---
+# Der Goldjunge
+
+Verbirgt sich hinter der Dampfplauderei des Herrn Drosten womöglich anderes als humanistische Philanthropie?
+
+von 
+   * Erik R. Fisch
+   * Jens Wernicke
+
+Die Antworten der Charité auf unsere Pressefragen sind da (1) und lassen die näheren Umstände der Entwicklung und Verbreitung des sogenannten Drosten-Tests immer dubioser erscheinen. Laut Auskunft der Charité hat Prof. Christian Drosten den SARS-CoV-2-Test im Auftrag der Charité in seiner Arbeitszeit entwickelt. Die Urheberrechte liegen gemäß Technologietransferrichtlinie somit bei der Charité. Die Charité will eine mögliche Patent- oder sonstige Schutzfähigkeit noch nicht einmal geprüft haben, weil eine „gewinnorientierte Betrachtungsweise im Zusammenhang mit der Pandemie aus (ihrer) Sicht (...) nicht geboten“ sei. Pikant hierbei: Drosten hat der Charité die abgeschlossene Entwicklung seines Tests, dessen Blaupause er blitzschnell bei der WHO einreichte, entgegen seiner Meldepflicht gemäß Arbeitnehmererfindungsgesetz gar nicht erst angezeigt.
+
+---
+
+*Die Charité lässt entgegen ihres angeblich rein humanitären Ansatzes dann aber zu, dass andere, wie insbesondere die auf Initiative von Prof. Drosten „von Beginn an“ auf reiner Vertrauensbasis — ohne Verschwiegenheitspflicht oder Wettbewerbsverbot — in die Entwicklung des SARS-CoV-2-Tests eingebundene „kleine“ Berliner Firma TIB Molbiol Syntheselabor GmbH mit einem Jahresgewinn vor Corona von circa 7,3 Millionen Euro sich eine goldene Nase verdient. Deren Geschäftsführer Olfert Landt lässt uns wissen, Prof. Drosten und er seien keine Busenfreunde, obgleich die beiden seit nunmehr 17 Jahren für jeden neuen Virus wie Vogelgrippe, Schweinegrippe, MERS, ZIKA et cetera immer als allererste mit einem neuen Test herausgekommen sind.*
+
+*Ein eingespieltes Doppelpack: Prof. Drosten als wissenschaftliches Sprachrohr seiner renommierten Arbeitgeber Bernhard-Nocht-Institut und Charité, TIB Molbiol als eilfertige Produzentin der jeweiligen Drosten-Testkits. Bei den SARS-CoV-2-Testkits durfte TIB Molbiol der Charité  sogar „sendetechnische Unterstützung“ bei Auslieferungen an Empfängerlabore in Thailand, Vietnam, Hongkong leisten, die Prof. Drosten persönlich ausgewählt hatte, also als erste Firma auf der Welt den Drosten-Test kostenlos versenden, ein diagnostisches Goody Bag sozusagen mit einem Empfehlungsschreiben aus dem wissenschaftlichen Olymp. Der Türöffner schlechthin.*
+
+*Nachbestellungen, so darf man vermuten, erfolgen nicht bei Prof. Drosten sondern direkt bei TIB Molbiol. Dadurch habe TIB Molbiol jedoch, wie die Charité  sich beeilt zu versichern, „keinen Wettbewerbsvorteil in Anspruch nehmen können“. Häh, noch nie was vom First-Mover-Vorteil gehört? Geht da was zwischen Prof. Drosten, Charité  und TIB Molbiol?*
+
+Herr Prof. Drosten, ich habe ein paar Fragen! Ursprünglich war es nur eine einzige Frage, eher ein Ausruf: Wow, wie schaffen Sie es nur, immer an vorderster Front bereit zu stehen, wenn ein neues Virus seinen Weg in die Reihen findet, quasi Gewehr oder vielmehr Kopf bei Fuß, die kleinen grauen Zellen ratternd, in genau dem gleichen Zeitintervall, den unsereiner benötigt, auf dem Sofa vor dem Fernseher sitzend nach seinem Bierglas zu greifen, einen neuen Test aus Ihrer Geisteskanone herausschleudernd, der quasi über Nacht die zielgerichtete Identifizierung des neuen Feindes ermöglicht?!
+
+Dies ist Ihnen ja nicht nur bei SARS und bei MERS gelungen, wie es geradezu sträflich schlampig recherchiert in Ihrem Wikipedia-Eintrag heißt (2). Warum ist hier nicht erwähnt, dass Sie die gleiche heroische Leistung schon viele weitere Male vollbracht haben? Insgesamt mindestens sieben Mal — und das sind möglicherweise nur die einer breiteren Öffentlichkeit bekannten Erfolge!
+
+All den nachstehenden Viren sind Sie mit ihren cleveren Tests seit 2003 immer als erster auf den Leib gerückt: SARS-CoV (2003), Vogelgrippe (2005), Schweinegrippe (2009), Chikungunya Virus (2009), MERS (2012), ZIKA (2016), Gelbfieber Brasilien (2017) und SARS-CoV 2 (2020) (3).
+
+Als ich das erkannte, dachte ich bei mir, dass Sie für diese wissenschaftliche Findigkeit eigentlich jedes Mal und nicht nur wie im Jahr 2005 für den SARS-CoV-Test das Bundesverdienstkreuz am Band (4) verdient hätten. Und zwar aufgewogen mit Ihrem Gewicht in Gold.
+
+Irgendwie bin ich aber dann genau darüber ins Grübeln gekommen, über diese Ihre erfinderischen Leistungen. Ein Patentanwalt, den ich in dieser Angelegenheit aus purer Neugier konsultiert habe, meinte, dass sich in Ihrem WHO-Testprotokoll grundsätzlich dem gewerblichen Rechtsschutz, insbesondere dem Patentrechtsschutz, zugängliches Gedankenwerk zeige. Und tatsächlich wurde zum Beispiel das im Jahr 2003 von Ihnen mitentwickelte SARS-CoV-Testkit unverzüglich für die artus GmbH (5), eine Ausgründung Ihres damaligen Arbeitgebers Bernhard-Nocht-Institut, patentiert (6).
+
+Die *Charité* teilt uns jetzt mit: 
+
+*„Professor Drosten hatte den Auftrag der Charité, den PCR-Test zu entwickeln. Er arbeitete daran während seiner Arbeitszeit an der Charité. Die Testentwicklung wurde mit Mitteln des Bundesministeriums für Bildung und Forschung und der Europäischen Union finanziert. Diese Mittel waren ausdrücklich für die Entwicklung von Tests neu aufkommender Viren vorgesehen.“*
+
+Gemäß Arbeitnehmererfindungsgesetz und der dieses für die *Charité* näher ausformulierenden Technologietransferrichtlinie liegt das Urheberrecht für Arbeitnehmererfindungen bei der *Charité*, sodass der Löwenanteil des Verwertungserlöses Ihrer erfinderischen Leistung der *Charité* zustünde. Als Hochschullehrer wären Sie an der Verwertung durch die *Charité* mit 30 Prozent beteiligt. Alternativ könnten Sie Ihre Erfindung in Absprache mit Ihrer Arbeitgeberin natürlich auch selbst verwerten, zum Beispiel im Rahmen einer Ausgründung, müssten dann aber eine Lizenzgebühr an die *Charité* zahlen (7).
+
+>Veröffentlichungen vor Stellung eines Patentantrags sind tödlich, weil die Erfindung dann nicht mehr als neu gilt. 
+
+Da muss man sich selbst beim weinseligen Prahlen gegenüber Zechgenossen am Tresen eines Bürstenvertreterhotels noch im Griff haben, sonst kann es schnell aus sein mit dem Erfinderglück.
+
+Vor diesem Hintergrund hatte ich mich gefragt, wie eigentlich der aktuelle Schutzstatus eben der schützbaren und schützenswerten Aspekte ihres jüngsten, so überaus wichtigen Drosten-Tests ist.
+
+Ist rechtzeitig vor der Einreichung des Testprotokolls bei der WHO eine Sicherung der gewerblichen Schutzrechte erfolgt, zum Beispiel durch Stellung eines Patentantrags oder durch Anmeldung eines Gebrauchsmusters, sodass sich all Ihr gedankliches Mühen, all Ihre wissenschaftliche Handwerkskunst auch für Sie persönlich und natürlich Ihre Arbeitgeberin *Charité* in klingelnder Münze niederschlagen konnte und kann? Und/oder hat sich die *Charité* durch eine rechtzeitige Sicherung der gewerblichen Schutzrechte womöglich sogar in die humanitär wertvolle Position gebracht, geldgierigen Synthesefirmen in die Suppe spucken zu können, indem sie diese verpflichtet, die auf Ihrer Blaupause entwickelten Testkits zu besonders günstigen Preisen, womöglich sogar zum Selbstkostenpreis abzugeben?
+
+Aktuell weiß man nicht, ob ein Patentantrag gestellt worden ist, von der *Charité* oder jemand anderem. Die *Charité* verneint dies und beim Patentamt ist bislang auch noch nichts zu sehen, allerdings müssen Patente auch erst nach Ablauf von 18 Monaten offengelegt werden.
+
+Auf unsere Frage nach Ihrer Zusammenarbeit, Herr Prof. Drosten, mit der „kleinen“ Berliner Firma *TIB Molbiol Syntheselabor GmbH* im Rahmen der Testentwicklung schreibt uns die *Charité*:
+
+*„Es gibt keine Abreden; es ist von keiner Seite beabsichtigt, Rechte zu reklamieren oder zu schützen. Die Zusammenarbeit erfolgt von beiden Seiten ausschließlich aus humanitären Gründen.“*
+
+Verzicht auf Rechtsschutz aus Humanität? Das wäre ja mal was. Aber die Humanität scheint da doch ziemlich einseitig auf Seiten der *Charité* zu liegen, wenn man sich die unverhohlene Freude von *TIB Molbiol* Geschäftsführer Olfert Landt über die millionenfach verkauften SARS-CoV-2-Testkits vor Augen führt. Sein Sohn klebe wegen der schier unglaublichen Anzahl an Bestellungen nunmehr 60 Stunden pro Woche die Etiketten auf die Verpackungen seiner Testkits, lässt uns der Miteinreicher des Drosten-Testprotokolls bei der WHO wissen (8). 
+
+Nun ja, es ist ja auch eine „kleine“ Firma, da darf man sich ja auch einmal ganz von Herzen freuen dürfen, wenn denn endlich der Rubel rollt. Wobei, „klein“ ist natürlich äußerst relativ, die Tempelhofer Firma machte in Vor-Corona-Zeiten bereits einen Umsatz von 16,5 Millionen Euro und mit ihren circa 40 Mitarbeitern einen Gewinn, man höre und staune, von etwa  7,3 Millionen Euro. Sie verfügt über thesaurierte, also einbehaltene Gewinne in der sensationellen Höhe von 55 Millionen Euro. Die „kleine“ Firma war offenbar schon vor Corona eine echte Cash Cow! Für 2020 rechnet Alleingesellschafter Olfert Landt nun mit einer Verzigfachung des Umsatzes (9), vorausgesetzt natürlich, die Corona-Welle schwappt noch etwas weiter vor sich hin. Nicht auszudenken, wie sich der Umsatz entwickeln könnte bei einem — diesmal dann aber richtigen — Corona-Tsunami zum Beispiel zum Herbst!
+
+Mit Olfert Landt arbeiten Sie, Herr Prof. Drosten, ja schon lange zusammen. Nicht nur haben Sie jeden Ihrer Tests in den letzten 17 Jahren mit ihm gemeinsam entwickelt, Sie publizieren auch fleißig mit ihm, mindestens 11 gemeinsame Publikationen sind über die Jahre entstanden. 
+
+Es macht mich irgendwie traurig, dass Olfert Landt es trotz dieser langen und überaus erfolgreichen Zusammenarbeit als nötig erachtet, zu betonen, dass Sie keine Busenfreunde seien und dass er Anfang Januar 2020 nur zufällig in der *Charité* gewesen sei, als Sie gerade an der Entwicklung des SARS-CoV-2-Tests saßen (10). Gottgewollte Fügung? Oder war das von Olfert Landt nur eine kleine Ausschmückung, um die trockene Story von einer Testentwicklung mit einem alten wissenschaftlichen Weggefährten etwas lebendiger zu gestalten?
+
+„Von Beginn an“, lautet demgegenüber die Antwort der *Charité* auf unsere Frage: 
+
+*„Zu welchem Zeitpunkt und aus welchen Gründen ist die Firma TIB Molbiol beziehungsweise ihr Geschäftsführer Olfert Landt von der Charité oder Herrn Prof. Drosten in die Testentwicklung miteinbezogen worden?“*
+
+Das klingt mehr nach gezielter Einbindung eines Profis in einen wichtigen Entwicklungsprozess. So wäre es ja auch zu wünschen gewesen, nach so vielen Jahren der produktiven Zusammenarbeit, dass da nicht nur der Zufall am Werke war.
+
+Aber nochmal zurück zur Patent- oder Rechteschutzfrage: Also die Firma *TIB Molbiol* macht jetzt Millionen und Sie gehen leer aus. Aber irgendwie geht da doch noch jemand anderer leer aus, ja, genau die *Charité* nämlich. Hat die denn die sofortige Veröffentlichung abgesegnet, hat sie die freigegeben? Warum kann die denn einfach so auf derartige Vermögenswerte verzichten?
+
+Die *Charité* ist eine Körperschaft öffentlichen Rechts und unterliegt gemäß § 10 ihrer Satzung der Verpflichtung zur guten Unternehmensführung (11) und natürlich auch den haushaltsrechtlichen Grundsätzen ordnungsgemäßer Führung ihrer Geschäfte. Wenn die *Charité* nun einfach ein Haus wegschenken würde, zum Beispiel an Olfert Landt, damit er mit seiner kleinen Firma endlich mal elegant am Puls der Zeit in Berlin-Mitte residieren kann, statt im schläfrigeren Tempelhof zu versauern, vermute ich, dass das zumindest beim Bundesrechnungshof nicht so schrecklich gut ankommen würde. Der Verzicht auf ein millionen- gegebenenfalls milliardenschweres Patent- oder sonstiges Schutzrecht fällt natürlich weniger auf als das Wegschenken eines Hauses, aber inhaltlich ist es das gleiche. Insoweit verstehe ich nicht so ganz, was die *Charité* uns sagen möchte, wenn sie wie folgt Stellung nimmt:
+
+Frage: 
+
+*„Ist der Einreichung des vorgenannten Test-Protokolls bei der WHO vorab zugestimmt worden?“ Antwort: „Die Frage unterstellt einen unzutreffenden Sachverhalt; es erfolgte keine entsprechende Einreichung.“*
+
+Frage: 
+
+*„Falls eine vorherige Freigabe erfolgte: Wer hat wem diese Freigabe erteilt? Ist vor der Freigabe geprüft worden, ob eine Einreichung/Veröffentlichung eine Patentierung durch die Charité  verhindern würde? Ist bei der Entscheidung über die Zustimmung berücksichtigt worden, dass die Charité sich insoweit gegebenenfalls eines großen Vermögenswertes begeben würde? Aus welchen Gründen ist ein Verzicht gegebenenfalls erfolgt?“*
+
+Antwort: 
+
+*„Hierzu waren die zeitlichen Voraussetzungen nicht gegeben, zumal von dem Verlust eines Vermögenswertes der Charité nicht auszugehen war und ist.“*
+
+Weitere Frage: 
+
+*„Wurde vorab geprüft, ob ein Verzicht auf ein Patent oder sonstige Rechte am ‚Drosten-Test‘ vereinbar ist mit dem Grundsatz der ‚guten Unternehmensführung‘ gemäß § 10 der Satzung der Charité? Was war das Ergebnis der Prüfung? Wurden weitere haushaltsrechtliche Vorgaben geprüft, die gegebenenfalls einem Verzicht auf ein Patent oder sonstige Rechte entgegenstehen? Wenn ja, welche haushaltsrechtlichen Vorgaben wurden geprüft? Mit welchem Ergebnis?“*
+
+Antwort: 
+
+*„Die von Ihnen abgefragte gewinnorientierte Betrachtungsweise im Zusammenhang mit der Bekämpfung der Pandemie war aus Sicht der Charité nicht geboten.“*
+
+Na, das überrascht jetzt aber schon ein bisschen. Natürlich musste hier alles schnell gehen und natürlich stand ein humanitärer Aspekt im Vordergrund. Der gleiche Aspekt hat ja aber bei SARS-CoV die *artus GmbH*, die *Bernhard-Nocht-Instituts*-Ausgründung, nicht daran gehindert, ein Patent anzumelden. Und Patentinhaberschaft heißt ja, hier sei es nochmal erwähnt, — rein rechtlich betrachtet — nicht automatisch Herauspressen möglichst hoher Erlöse. Patentinhaberschaft bedeutet in erster Linie Kontrolle über die Verwertung der Erfindung. Sie ermöglicht zum Beispiel auch die Auswahl seriöser Lizenzpartner und auch das humanitär motivierte Diktieren niedriger Preise.
+
+Könnte es bei der *Charité* außerhalb der uns bekannten Technologietransferrichtlinie eine weitere Richtlinie oder eine rechtlich abgesegnete gelebte Praxis geben, dass Erfindungen mit einem humanitären Aspekt nie unter dem Blickwinkel der Gewinnorientierung betrachtet werden dürfen? Allerdings dürfte nahezu jede Erfindung eines Wissenschaftlers im medizinischen Bereich irgendwie humanitäre Aspekte aufweisen. Sollte die Technologietransferrichtlinie der *Charité* also eigentlich gegenstandslos sein? Es ist kaum vorstellbar, aber wir werden in der Angelegenheit bei der *Charité* weiter nachhaken.
+
+Die *Charité* teilt uns vorliegend leider nicht mit, welche konkreten Personen für eine nichtgewinnorientierte Betrachtung der Angelegenheit votiert haben. Allerdings: Die *Charité* hatte angabegemäß vor Ihrer Blitz-Veröffentlichung bei der WHO gar keine Kenntnis von der abgeschlossenen Testentwicklung und Ihren Veröffentlichungsplänen, weil Sie, Herr Prof. Drosten, entgegen § 5 Abs. 2 Satz 1 und 3 ArbErfG Ihre Diensterfindung gar nicht angezeigt hatten.
+
+Frage: 
+
+*„Herr Prof. Drosten hat bei der WHO einen Test zur Evaluierung [eingereicht](https://www.who.int/docs/default-source/coronaviruse/whoinhouseassays.pdf?sfvrsn=de3a76aa_2). Wann und in welcher Form hat Herr Prof. Drosten der Charité die Entwicklung dieses Tests angezeigt?“*
+
+Antwort: 
+
+*„Es erfolgte keine entsprechende Anzeige.“*
+
+Aber halt, war das vielleicht gar kein fertiger Test, den Sie da entwickelt haben? Habe ich da etwas falsch verstanden? So könnte man diese Antwort der *Charité* jedenfalls deuten:
+
+Frage: 
+
+*„Hat die Charité in Bezug auf den sogenannten ‚Drosten-Test‘, in Bezug auf einzelne Bestandteile, Primer et cetera, oder sonst damit in Zusammenhang stehende Aspekte Patentschutz, Gebrauchsmusterschutz, Markenschutz oder ein sonstiges Schutzrecht beantragt oder ist an einer solchen Beantragung direkt oder mittelbar beteiligt?“*
+
+Antwort: 
+
+*„Nein. Herr Professor Drosten hat kein Testkit entwickelt, sondern die entscheidende Information für Labore, um einen Test durchzuführen, in Form eines Verfahrensprotokolls veröffentlicht. Firmen haben daraus Testkits entwickelt. Professor Drosten erzielt hieraus keinerlei Einkünfte.“*
+
+Okay, also angeblich kein Testkit. Aber eine Blaupause, eine ganz konkrete Anleitung für die Labore, ist das ja schon. Also ich weiß nicht so recht, das klingt so ein bisschen nach Umgehungstatbestand. Wenn ein Mitarbeiter bei VW die Bauanleitung für einen neuartigen Feinstaubfilter ins Internet stellen und dann der VW-Rechtsabteilung mitteilen würde, dass er da nichts erfunden oder entwickelt, sondern quasi nur ein Verfahrensprotokoll für die Herstellung eines Filters geschrieben habe, vielleicht gar noch aus humanitären Gründen, um die Welt vom Feinstaub zu befreien, dann würde das bei der Rechtsabteilung vermutlich nicht sonderlich gut ankommen. Im Fall vom SARS-CoV-2-Test enthält Ihre Verfahrensanleitung schon alles, was ein Labor wissen muss, um selbst Inhouse-Testkits herstellen und gegebenenfalls sogar an Dritte veräußern zu können.
+
+Die Darstellung, dass Sie es in Ihrer Entwicklung nur zu einem patentrechtlich unbeachtlichen Verfahrensprotokoll gebracht haben könnten, beißt sich auch mit der lediglich sendetechnischen Unterstützung der *TIB Molbiol* bei der Aussendung an die von Ihnen auserwählten Labore in Thailand, Vietnam und Hongkong — im weiteren Verlauf vielleicht auch noch an andere Orte? Offenbar lag hier ein bereits von Ihnen und Ihrem Team wissenschaftlich und technisch fertig entwickeltes Testkit vor, für das *TIB Molbiol* dann nur noch aus Praktikabilitätsgründen insbesondere zum Zwecke des Zeitgewinns den Versand übernommen hat.
+
+Die *Charité* schreibt uns insoweit: 
+
+*„Die sendetechnische Unterstützung der Firma TIB Molbiol wurde aus Gründen des Zeitgewinns in Anspruch genommen: Die Reagenzien lagen bei der Firma TIB Molbiol sendefertig vor und konnten mit Hilfe der dort vorhandenen Logistik verschickt werden; die Charité verfügt über keine entsprechende Logistik für die Abfüllung und Verpackung der Reagenzien. Jegliche Informationen zur Herstellung der Reagenzien wurden offengelegt und waren für andere Synthese-Firmen verfügbar, sodass die Firma TIB Molbiol keinen Wettbewerbsvorteil in Anspruch nehmen konnte.“*
+
+>Hm, anders als die Charité scheint Olfert Landt seine Poleposition selbst aber durchaus als Wettbewerbsvorteil zu sehen. Er hat es nicht nötig, Kundenakquise zu betreiben, er muss keine Anzeigen schalten, seine Firma sei einfach schnell und gründlich, wie uns der Tagesspiegel am 6. März 2020 wissen lässt. 
+
+Zu diesem Zeitpunkt hat *TIB Molbiol* laut Olfert Landt bereits drei Millionen Tests hergestellt und in mehr als 60 Länder versandt. Die ersten gingen bereits am 10. Januar per Luftpost nach Hongkong. Da war der Beipackzettel noch gar nicht fertig. „Den haben wir per Mail hinterhergeschickt“, wird Olfert Landt zitiert (12). „Schnell und gründlich“ waren ja aber eigentlich vor allem Sie, Herr Prof. Drosten, und bei der *TIB Molbiol* fragt sich, ob die von ihr laut *Charité* erbrachten Leistungen — *Lieferung von Spezialreagenzien bei der Entwicklung der Test-Technik, technische Vorvalidierung* — nicht ebenso gut von einem der hochprofessionellen Labore der *Charité* hätten erbracht werden können. Auf die Antwort der *Charité* auf unsere Nachfrage bin ich schon jetzt sehr gespannt. 
+
+Vielleicht verbindet Sie, Herr Prof. Drosten, mit Olfert Landt ja auch deshalb keine so enge Freundschaft, weil das für Sie ja immer so unglücklich gelaufen ist, dass Sie den Test entwickeln, ganz schnell und überaus uneigennützig gleich zur Verfügung stellen, beseelt von dem Wunsch zu helfen, und dann ist es immer wieder *TIB Molbiol*, die sich an Ihren Tests — äh eigentlich ja den Tests des *Bernhard-Nocht-Instituts* und der *Charité*  — gesund stößt. 
+
+Herr Prof. Drosten, da könnte man ja auch wirklich neidisch werden. Ich an Ihrer Stelle, das gebe ich ganz offen zu, hätte mir nach ein, zwei Mal einer solchen Erfahrung etwas anderes ausgedacht. Ich hätte eine Verwertungsgesellschaft gegründet oder meinen Arbeitgeber getreten, eine solche zu gründen. Und dann hätte ich entweder auf dem ganzen Weg zur Bank gelacht oder den Großteil der Erlöse einem guten Zweck gespendet. 
+
+Offen sind Sie bei der *TIB Molbiol* nicht beteiligt und ich wünsche mir von Herzen, dass es keine treuhänderischen oder sonstwie gearteten Abreden gibt. Ich schätze Sie in Ihrer Unabhängigkeit und, wie soll man das nennen, Geldferne oder vielleicht auch Naivität, die dazu führt, dass Sie jetzt mindestens acht Mal den gleichen „Fehler” gemacht haben, Ihre Erfindung so rasch auf den Markt zu werfen, dass Sie keine Chance mehr hatten, davon zu profitieren, sondern vielmehr zusehen müssen, wie die Kasse bei einem Ihrer Mitentwickler lautstark klingelt. Irgendwie ist das ja schon schräg für Sie, finde ich. Aber vielleicht bin ich da auch nur zu sehr in den Denkmustern des Old-Normal verhaftet und die rasante Anwendung Ihres Tests auf der ganzen Welt ist Ihnen schon Lohn genug.
+
+Allerdings ist es auch für die *Charité* ja schon ein sehr schräges Ergebnis, die hat ja mit so allerlei Missständen zu kämpfen. Laut Bericht des Bundesrechnungshofes kann sie jährlich Krankenhausleistungen im Gegenwert von 100 bis 300 Millionen Euro gegenüber den Krankenkassen nicht abrechnen, weil ihre MitarbeiterInnen Behandlungsverläufe nicht korrekt dokumentieren und die Abrechnung von den Kassen daher nicht akzeptiert werden (13). Stattdessen macht die *Charité* so komische Sachen wie Kostenträger erfinden und über Institute, die es gar nicht gibt, abrechnen (14). 
+
+Zudem pflegt sie ein langjährig eingespieltes, haushaltsrechtlich hoch problematisches System der Querfinanzierung ihres Krankenhausbetriebes aus Forschungsmitteltöpfen des *Berliner Instituts für Gesundheitsforschung*, beanstandet vom Bundesrechnungshof und wohlwollend geduldet vom Bundesfinanzministerium (15). Da stellt sie beispielsweise ihren WissenschaftlerInnen auch gerne mal überproportional hohe Stromkosten in Rechnung durch anteiliges Umlegen von Krankenhausstromkosten auf spärlich beleuchtete wissenschaftliche Denkklausen.
+
+Kann man nur hoffen, dass die Charité in all dem buchhalterischen Kuddelmuddel nicht unbemerkt insolvenzbedroht ist, sonst wäre ein Verzicht auf einen üppigen Vermögenswert wie ein Patent für den SARS-CoV-2-Test ja unter Umständen sogar noch als Gläuberbenachteiligung zu werten.
+
+---
+**Quellen und Anmerkungen:**
+
+(1)	http://schlussjetzt.org/Antwortschreiben%20Charite%20auf%20Pressefragen%20Jens%20Wernicke%20vom%2018.06.2020.pdf
+(2)	https://de.wikipedia.org/wiki/Christian_Drosten#Wissenschaftliche_Laufbahn
+(3)	http://www.corodok.de/drosten-landt-connection-1/, http://www.corodok.de/drosten-landt-connection-2/, http://www.corodok.de/drosten-landt-connection-3/
+(4)	https://de.wikipedia.org/wiki/Christian_Drosten#Ehrungen
+(5)	http://www.corodok.de/wirtschaftliche-interessen-des-prof-drosten/
+(6)	https://patents.google.com/patent/DE20315159U1/de
+(7)	https://technologietransfer.charite.de/fileadmin/user_upload/microsites/sonstige/technologietransfer/RiLiCharité-TT-Fassung_28-01-2016.pdf
+(8)	https://taz.de/Produzent-von-Corona-Tests/!5671485/
+(9)	https://www.deutschlandfunk.de/coronakrise-virentester-tib-molbiol-coronatests-fuer-die.1197.de.html?dram:article_id=477239
+(10) https://www.sueddeutsche.de/wissen/coronavirus-covid-19-test-jens-spahn-1.4865919?reduced=true
+(11) https://www.tagesspiegel.de/berlin/tib-molbiol-berliner-firma-produziert-coronavirus-tests-fuer-die-ganze-welt/25602142.html
+(12) https://frauenbeauftragte.charite.de/fileadmin/user_upload/microsites/beauftragte/frauenbeauftragte/Gleichstellung/Gesetze/Satzung_der_Charite_Lesefassung_2019-12-18.pdf
+(13) https://www.morgenpost.de/berlin/article216725117/Abrechnungsprobleme-setzen-Charite-finanziell-unter-Druck.html
+(14) https://www.morgenpost.de/berlin/article216654635/Erfundene-Charite-Institute-Senat-schaltet-Innenrevison-ein.html
+(15) https://www.bundesrechnungshof.de/de/veroeffentlichungen/produkte/beratungsberichte/langfassungen/langfassungen-2019/2019-bericht-risiken-einer-integration-des-berliner-instituts-fuer-gesundheitsforschung-in-die-charite-pdf/view
+
+

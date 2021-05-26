@@ -11,7 +11,7 @@ counter = 1
 
 config = YAML.load_file("config.yml")
 
-files = Dir.glob("../_posts/*-n-tv_*.md")
+files = Dir.glob("../_posts/*-rubikon_*.md")
 #files = Dir.glob("../_posts/2021-04-29-nach*.md")
 #files = Dir.glob("../_posts/*.md")
 
@@ -45,10 +45,10 @@ files.each do |filename|
 #  end
 #  next
 
-  if file_data != ""
-    puts "File has data: #{file_data}"
-    next
-  end
+#  if file_data != ""
+#    puts "File has data: #{file_data}"
+#    next
+#  end
   
   if !meta_data['redirect']
     puts "no redirect found"
@@ -98,6 +98,15 @@ files.each do |filename|
       puts "ignoring subtitle"
     elsif parameter == 'persons' and !meta_data[parameter]
       #puts "no persons"
+    #elsif parameter == 'content' and file_data and site_data[parameter] != ""
+    elsif parameter == 'content'
+      if site_data[parameter] != "" and file_data != ""
+        puts "Cannot overwrite exising file-content #{meta_data[parameter]}"
+        new_file[parameter] = file_data
+      else
+        puts "adding content :#{site_data[parameter]}:"
+        new_file[parameter] = site_data[parameter]
+      end
     elsif parameter == 'persons' and meta_data[parameter]
       if !meta_data[parameter].kind_of?(Array)
         puts "Changing persons to array"

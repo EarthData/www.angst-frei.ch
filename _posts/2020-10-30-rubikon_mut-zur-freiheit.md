@@ -7,3 +7,79 @@ country:       DE
 categories:    [Mensch, Widerstand]
 tags:          [angst]
 ---
+# Mut zur Freiheit
+
+In Anbetracht der jüngsten Fehlleistungen der etablierten Politik muss der Ruf nach einer herrschaftsfreien Welt wieder laut werden.
+
+von 
+   * Ronja Kolompar
+
+Warum dulden Menschen die Unfreiheit? Warum nehmen sie Einschränkungen ihrer Selbstentfaltungsmöglichkeiten durch Regierungen hin, wie wir sie jetzt seit Beginn der Coronakrise, aber auch schon vorher erlebt haben? Die gewöhnliche Antwort auf diese Frage ist: Die Menschen wären gern frei, trauen sich aber nicht, gegen eine überlegene Obrigkeit aufzubegehren. Was aber, wenn schon der Wunsch nach Freiheit bei den meisten Menschen nur schwach ausgeprägt wäre? Erich Fromm legt diesen Gedanken in seinem Buch „Die Furcht vor der Freiheit“ nahe. Seine Erklärung: Die Menschen scheuen die Verantwortung, die mit selbstbestimmtem Handeln verbunden ist. Wir sehen aber gerade in diesen Tagen, wie falsch es ist, allein auf „Repräsentanten“ zu vertrauen, die den Willen der Bevölkerung gar nicht mehr repräsentieren, die ihnen entscheidende Informationen vorenthalten und sie systematisch von Teilhabe ausschließen. Wir brauchen eine Neuordnung demokratischer Prozesse, die vielen Menschen die Chance gibt, an Einzelentscheidungen zu partizipieren. Wir brauchen vor allem mehr Mut, die mit Freiheit verbundene existenzielle Unsicherheit auszuhalten und aktiv zu gestalten.
+
+---
+
+# Selbstsicherheit und die daraus resultierenden Möglichkeiten
+Etliche Philosophen, Psychologen und Psychoanalytiker sind davon überzeugt, dass der Mensch Angst vor der eigenen Freiheit hat, darunter auch Søren Aabye Kierkegaard und Erich Fromm. Daher ist es nicht verwunderlich, dass eine Idee Emma Goldmans so wenig Gehör findet. Geschweige denn weiter diskutiert wird. Goldman beschreibt eine Wirklichkeit, in der der Mensch frei ist und aus seiner Freiheit heraus eine harmonische Gesellschaftsordnung lebt. Emma Goldman nennt dies Anarchismus und eine „Philosophie von der Souveränität des Individuums“ (1). 
+
+# Alte Gewissheiten und ein neuer Ansatz
+
+In dieser Theorie geht Goldman, wie sie in ihrem 1910 erschienenen Essay „Anarchism: What It Really Stands For“ — Anarchismus: Wofür er wirklich steht — beschreibt, davon aus, dass der Mensch „nur in Freiheit […] seine wahre Größe entfalten“ kann(2). Ein Standpunkt, dem auch Erich Fromm 1941 in seinem Buch „Die Furcht vor der Freiheit“, vollkommen zustimmt: „wir wissen, […] da[ss] alles, was der Freiheit dient und was den Mut und die Kraft fordert, wir selbst zu sein, lebensfördernd ist“ (3). Dass eine solche Freiheit nur möglich ist durch Abwesenheit von Gewalt — ganz gleich in welcher Form — ist für beide eine Selbstverständlichkeit.
+
+Allerdings führt diese Freiheit und die mit ihr verbundene Eigenverantwortung bei vielen Menschen zu einer solchen Angst, dass sie sich lieber bereitwillig allen möglichen irrationalen Autoritäten unterordnen. Eine Welt, in der sich der Einzelne gar nicht mehr vorstellen kann, dass sie auch anders aussehen könnte.
+
+Den Ansatz, den Emma Goldman und andere Anarchisten vertreten, jede Form der Regierung sei abzuschaffen, da sie auf Gewalt beruht, mag auf den ersten Blick radikal erscheinen, aber vielleicht sollten wir uns einem neuen Verständnis von Regierung öffnen. Dieses neue Verständnis begreift Regierung nicht als regulierendes Kontrollorgan, sondern als Plattform, auf der Entscheidungsprozesse — öffentlich und für jeden zugänglich — verlaufen.
+
+# Wer wird da reguliert und kontrolliert
+Stattdessen nehmen wir eine Regierung hin, die wichtige Informationen über Entscheidungsprozesse mit dem Verweis, sie seien „vertraulich“, geheim hält. Diese Tatsache wirft die Frage auf: Wen repräsentiert eigentlich die Regierung?
+
+Eine Frage, die sich auch bei jeder Entscheidung aufdrängt, die im EU-Parlament getroffen werden soll. Gemeint ist aktuell die Entscheidung über eine gesetzliche Verpflichtung zur Steuertransparenz für alle in der EU tätigen internationalen Unternehmen mit einem Umsatz, der 750 Millionen Euro übersteigt. Die Bundesregierung spricht sich dagegen aus, liefert aber keinerlei Informationen darüber, warum sie sich gegen eine jährliche Steuereinnahme von schätzungsweise 70 Milliarden Euro für die Staatskassen der EU-Länder entscheidet (4).
+
+Selbstverständlich für die Bundesregierung ist allerdings, dass einem durchschnittlichen Arbeitnehmer in Deutschland, laut einer OECD-Studie aus dem Jahr 2018, nach den Abzügen von Sozialabgaben und Steuern nur noch 60 Prozent seines Lohnes zum Leben übrig bleiben. Von diesen 60 Prozent gehen dann noch ganz selbstverständlich indirekte Steuern an den Staat ab, wie zum Beispiel Mehrwertsteuer, Kfz-Steuer oder CO2-Steuer (5). Dank Big Pharma und Corona soll der Sozialversicherungsbeitrag 2021 sogar weiter steigen (6).
+
+Noch augenscheinlicher tritt die Frage nach den innerhalb der Regierung vertretenen Interessen auf bei der menschenverachtenden Tatsache, dass die Bundesregierung im Jahr 2019 Rüstungsgüter im Wert von offiziell 7,2 Milliarden Euro genehmigt (7) und gleichzeitig rund 45 Milliarden Euro für das eigene Militär ausgegeben hat (8). Tendenz steigend (9).
+
+# Es könnte gefährlich werden
+Emma Goldman war damals zudem der Auffassung, dass die Regierung nicht die Interessen des arbeitenden Volkes vertritt sondern die von profitgierigen Investoren. Aufgrund dieser Auffassung wurde Goldman Anfang des 20. Jahrhunderts zur Feindin der amerikanischen Regierung erklärt und vom ersten FBI-Direktor „die gefährlichste Frau von Amerika“ genannt (10).
+
+Unbestritten haben sich die Arbeitsbedienungen in den vergangenen hundert Jahren verbessert, aber an dem zwanghaften Charakter der Lohnarbeit und dem ungleichen Verhältnis zwischen Regierung und Regierten hat sich kaum etwas geändert. 
+
+Daher sollten wir auch die Frage stellen: Welchen Vorteil bringt den Menschen eine solche Regierung? Oder sähe ihr Leben nicht besser aus, wenn sie einen radikal anderen Ansatz wählten, der die beschriebenen Probleme der Repräsentation an den Wurzeln verändern könnte?
+ 
+Versuche dazu hat es schon einige gegeben. Einer der größten fand zwischen 1936 und 1939 in Spanien statt. In dieser Zeit hatte die Arbeiterbewegung in Katalonien eine soziale Revolution in Gang gesetzt, um die Gesellschaft völlig neu zu ordnen. Sie organisierte fast die gesamte Agrarproduktion, Schwerindustrie und das öffentliche Verkehrssystem selbst. In der Agrarproduktion und der Schwerindustrie hatte dies eine starke Produktionssteigerung zu Folge. Außerdem war die Grundnahrungsmittelversorgung der gesamten Bevölkerung von Katalonien gewährleistet (11).
+
+Dieser erfolgreiche Versuch, an dem etwa 1,5 Millionen Menschen beteiligt waren, ist nicht gescheitert, er wurde zerschlagen. Ein Grund mehr, die dezentrale Selbstverwaltung als Ansatz wieder in Betracht zu ziehen.
+
+# Unverständliche Stille
+Aber statt radikal andere Ansätze in Betracht zu ziehen, nehmen wir eine Welt hin, in der die Regierung ein System unterstützt, in dem jeder Bürger für seine bloße Existenz zahlen muss. Ein System, in dem der Zugang zu Bildung an ein konformistisches Bewertungssystem und an den Fluss finanzieller Mitten gebunden ist. Ein System, das den Menschen zur Eindimensionalität zwingt. Ein System, in dem Spontanität und Vielfalt immer mehr zurückgedrängt werden.
+
+Goldman war der Ansicht, dass die Regierung „allen Menschen ein einheitliches Lebensmodell [aufzwingt], dabei aber individuelle und gesellschaftliche Variationen außer Acht“ (12) lässt. In der Zentralisierung von Macht und Produktion sieht sie die „Totenglocke der Freiheit“ (13), wodurch die Regierung, ihrer Meinung nach, das Leben selbst negiert. Auch mit dieser Einstellung scheint sie mit Erich Fromm übereinzustimmen, denn für ihn scheint klar zu sein: „Wenn man seine Spontanität und seine Individualität aufgibt, so führt das zu einer Vereitlung des Lebens“ (14).
+
+# Neue Schule
+Diese Trägheit kann nur daher kommen, weil die institutionelle Bildung schon ihren Teil zu einer konformistischen und unkritischen Masse beigetragen hat. Dabei bräuchte es Stätten der Bildung und Liebe nach dem Vorbild der Escuela Moderna — der Modernen Schule, deren Ziel es war, „lebende, reaktionsfähige Gehirne hervorzubringen, und dass die Intelligenz ihrer Studenten sie zu Todfeinden von Vorurteilen macht und sie in die Lage versetzt, eigene, begründete Überzeugungen zu bilden, und zwar bezüglich allem, was Gegenstand des Denkens ist“ (15). 
+
+Der Begründer dieser Schulen war Francisco Ferrer. Er wollte, dass die jungen Menschen in seinen Schulen freiheitlich lernen, körperlich und geistig, und so zu selbstständigen und freien Frauen und Männern werden. Bis zu seinem Tod im Jahr 1909 hat Ferrer in Spanien 109 Schulen nach seiner Vorstellung gegründet. Laut Goldman folgten 308 weitere Schulen dem Leitgedanken der Escuela Moderna. 1909 wurde Francisco Ferrer im Zuge der anarchistischen Aufstände in Barcelona hingerichtet und seine Schulen wurden in Spanien verboten.
+
+Diese Entwicklung ist mehr als bedauerlich, denn genau diese selbstständigen und freien Frauen und Männer könnten ein neues Verständnis einer Regierung entwickeln. Sie würden verstehen, dass Regierung auch anders aussehen kann, und dass ein radikal anderer Ansatz manchmal nicht nur ein guter Weg, sondern der einzige ist. Sie würden verstehen, dass Regierung nie Herrschaft sein sollte, sondern eine Plattform, auf der sich freie Menschen treffen und ihren Interessen entsprechend bei Entscheidungen einen Konsens oder einen Kompromiss aushandeln können.
+
+In einer digitalen Welt ist es problemlos möglich, Entscheidungsprozesse so zu organisieren, dass alle von der Entscheidung betroffenen Menschen Zugang zu allen relevanten Informationen erhalten und dementsprechend gleichermaßen stimmberechtigt sind. So beschränkten sich die Aufgaben einer repräsentativen Regierung auf die Verwaltung der Plattform, das Ausarbeiten von Zusammenhängen und die Bereitstellung von Informationen.
+
+---
+**Quellen und Anmerkungen:**
+
+(1) Emma Goldman, „Anarchismus und andere Essays“,1910, englische Version: https://theanarchistlibrary.org/library/emma-goldman-anarchism-and-other-essays.pdf
+(2) Ebd
+(3) Erich Fromm „Die Furcht vor der Freiheit“, 2000, S.192
+(4) http://www.zeit.de/wirtschaft/2020-09/europaeische-union-steuervermeidung-konzerne-transparenz-eu-gesetz-bundesregierung/komplettansicht
+(5) http://www.oecd.org/newsroom/workers-in-oecd-countries-pay-one-quarter-of-wages-in-taxes.htm
+(6) https://www.epochtimes.de/politik/deutschland/gesetzliche-krankenkassen-ab-2021-werden-die-beitraege-erhoeht-werden-a3123100.html
+(7) http://de.statista.com/statistik/daten/studie/800025/umfrage/wert-der-deutschen-ruestungsexporte-in-einzelne-ziellaender/
+(8) http://de.statista.com/statistik/daten/studie/183064/umfrage/militaerausgaben-von-deutschland/
+(9) https://www.n-tv.de/politik/Rechentrick-mit-Folgen-Deutschland-bei-Militaerausgaben-fast-am-Nato-Ziel-article21806623.html
+(10) http://www.rbth.com/history/332283-red-emma-most-dangerous-america
+(11) http://de.wikipedia.org/wiki/Anarchosyndikalismus
+(12) Emma Goldman, „Anarchismus und andere Essays“,1910
+(13) Ebd.
+(14) Erich Fromm „Die Furcht vor der Freiheit“, 2000, S.184
+(15) http://www.fondation-besnard.org/IMG/pdf/Ferrer_i_Guardia_Escuela_Moderna.pdf S.14
+
+

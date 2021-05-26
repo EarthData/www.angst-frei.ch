@@ -142,15 +142,22 @@ tags:          [#{tags}]
     File.write("#{site_data['filename']}.md", content)
 
     if !warn_on_existing
-      file_diff1 = YAML.load_file("#{site_data['filename']}.md")
-      file_diff2 = YAML.load_file("../_posts/#{site_data['filename']}.md")
-      if file_diff1 == file_diff2
+      yaml_data1 = YAML.load_file("#{site_data['filename']}.md")
+      yaml_data2 = YAML.load_file("../_posts/#{site_data['filename']}.md")
+
+      file1 = File.open("#{site_data['filename']}.md")
+      file_data1 = file1.read
+      file_data1 = file_data1.gsub!(/\A---(.|\n)*?---/, '')
+      file_data1 = file_data1.gsub(/\n+|\r+/, "\n").squeeze("\n").strip
+
+      file2 = File.open("../_posts/#{site_data['filename']}.md")
+      file_data2 = file2.read
+      file_data2 = file_data2.gsub!(/\A---(.|\n)*?---/, '')
+      file_data2 = file_data2.gsub(/\n+|\r+/, "\n").squeeze("\n").strip
+
+      if yaml_data1 == yaml_data2 and file_data1 == file_data2
         #puts "Files #{site_data['filename']}.md are identical, deleting local copy"
         File.delete("#{site_data['filename']}.md")
-      else
-        puts "Diff:"
-        puts file_diff1.to_a - file_diff2.to_a
-        puts file_diff2.to_a - file_diff1.to_a
       end
     end
   end

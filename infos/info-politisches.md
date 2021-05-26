@@ -40,6 +40,7 @@ subtitle: Politische Initiativen
 #### Zürich
 
  * [Schluss mit dem Maskentragen für Schülerinnen und Schüler unter 12 Jahren!](https://www.kinder-maskenpetition.ch/)
+ * [Stopp der Maskenpflicht und der Massentests für Kinder und Jugendliche unter 17 Jahren in Zürich.](https://www.openpetition.de/petition/online/stopp-der-maskenpflicht-und-der-massentests-fuer-kinder-und-jugendliche-unter-17-jahren-in-zuerich)
 
 #### Europa
 
