@@ -103,12 +103,8 @@ class Tools
 
     content = %{---
 date:          #{site_data['date']}
-}
-    if site_data['content'] == ''
-      content += %{redirect:      #{site_data['redirect']}
-}
-    end
-    content += %{title:         #{site_data['title']}
+redirect:      #{site_data['redirect']}
+title:         #{site_data['title']}
 subtitle:      '#{site_data['subtitle']}'
 }
     if site_data['description'] and site_data['content'] == ''

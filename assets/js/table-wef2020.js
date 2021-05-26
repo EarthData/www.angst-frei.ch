@@ -1,3 +1,3 @@
 $(document).ready( function () {
-    $('#mytable').DataTable();
+    $('#wef2020').DataTable();
 } );
