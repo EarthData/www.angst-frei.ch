@@ -10,4 +10,6 @@ timeline:      P(l)andemie
 group:         Ereignis
 categories:    [P(l)andemie]
 tags:          [wef]
+srfId:         "08b7280d-1e94-411c-87a4-48e7b850bce2"
 ---
+{% include srfPlayer.html id=page.srfId %}
