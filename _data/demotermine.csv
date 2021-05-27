@@ -19,14 +19,18 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2918,DE,2021-05-28,19:00:00,26506,Norden,Marktplatz / ggü. Teemuseum,Mahnwache,,unbekannt,
 2632,CH,2021-05-28,19:00:00,2503,Biel-Bienne,Bahnhof,Spaziergang,,unknown,
 3120,DE,2021-05-29,10:00:00,24568,Kaltenkirchen,Am Grünen Markt / Brunnen,Kundgebung,,Corona Forum Henstedt-Ulzburg,
+3373,DE,2021-05-29,10:30:00,79271,St. Peter,Zähringer Eck / Rossweiher,Versammlung,,Schwarzwald Netzwerk,https://schwarzwald-netzwerk.de/
 3121,DE,2021-05-29,13:00:00,24558,Henstedt-Ulzburg,Am Bahnbogen / KfC,Schilderwald,,Corona Forum Henstedt-Ulzburg,
 3093,DE,2021-05-29,13:00:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,BI aufRECHT:FREIdenken,https://www.solidarnosch.de
 2790,CH,2021-05-29,14:00:00,4500,Solothurn,Zeitglockenturm,Kundgebung,,unbekannt,
+3372,DE,2021-05-29,14:00:00,80339,München,Theresienwiese,Autokorso,,Autokorso München,https://t.me/s/AutoKorsoMuc
 3363,DE,2021-05-29,14:00:00,56068,Koblenz,Jesuitenplatz,Mahnwache,,unbekannt,
 3347,CH,2021-05-29,14:00:00,1200,Genf,Plaine de Plainpalais,Kundgebung,,Freunde der Verfassung,
 3357,DE,2021-05-29,14:00:00,79098,Freiburg,Holzmarkt,Aufzug,,Für freie Impfentscheidung,
 3343,DE,2021-05-29,15:00:00,90402,Nürnberg,Jakobsplatz,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
+3371,DE,2021-05-29,15:00:00,40212,Düsseldorf,Corneliusplatz,Spaziergang,,,
 3012,DE,2021-05-29,15:00:00,86152,Augsburg,Jakobertor,Festival,,unbekannt,
+3369,DE,2021-05-29,15:30:00,85049,Ingolstadt,Theatervorplatz,Kundgebung,,unbekannt,
 3365,DE,2021-05-29,15:30:00,45127,Essen,Willy-Brandt-Platz,Kundgebung,,Für den Erhalt der Freiheit,https://t.me/joinchat/Gr4v4tPxmF174Ikj
 3083,DE,2021-05-29,16:00:00,06217,Merseburg,An der Kliaplatte,Kundgebung,https://www.twitch.tv/svenliebich,AfD,https://afd-lsa.de/veranstaltungen/kundgebung-mit-bjoern-hoecke-am-29-05-2021-in-merseburg/
 3351,DE,2021-05-29,17:00:00,30169,Hannover,Schützenplatz,Autokorso,,Autocorso Hannover,Telegram
@@ -44,13 +48,16 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3302,DE,2021-05-31,18:00:00,33330,Gütersloh,Berliner Platz,Kundgebung,,Privat (zuletzt 142 Teilnehmer),https://t.me/LichterspaziergangGT
 3308,DE,2021-05-31,18:00:00,06844,Dessau-Roßlau,Rathaus / Friedensglocke,Kundgebung,,Privat,https://t.me/MontagsMahnwache
 3364,DE,2021-05-31,18:30:00,29221,Celle,Stechbahn,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,
+3375,DE,2021-05-31,19:00:00,17033,Neubrandenburg,Marktplatz / Innenstadt,Aufzug,,unbekannt,
 3366,DE,2021-05-31,19:00:00,47906,Kempen,Kuhtor,Spaziergang,,Privat,
+3370,DE,2021-05-31,19:00:00,06108,Halle,Markt / Ostseite,Kundgebung,https://www.youtube.com/channel/UCuAklMNmcLV6dAg8j5HrKAA,Montagsdemo Halle,https://t.me/InSvensWelt
 3267,DE,2021-06-03,13:00:00,76133,Karlsruhe,Marktplatz,Aufzug,,Querdenken 721,
 2842,DE,2021-06-03,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 3324,DE,2021-06-04,17:00:00,70372,Stuttgart / Bad Cannstatt,Cannstatter Wasen / Parkpl. P10,Autokorso,,Privat,
 3367,DE,2021-06-05,13:15:00,21029,Hamburg-Bergedorf,Frascati-Platz,Autokorso,,Freiheitsfahrer Hamburg,
 3350,DE,2021-06-05,13:30:00,26789,Leer,Denkmalplatz,Demonstration,,Besorgte Eltern (Corona | Impfungen),
 2791,CH,2021-06-05,13:30:00,9050,Appenzell,Landesgemeindeplatz,Kundgebung,,unbekannt,
+3374,DE,2021-06-05,14:00:00,13088,Berlin,Buschallee 52,Aufzug,,unbekannt,http://von-mensch-zu-mensch-aktionen.de/
 2287,DE,2021-06-07,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 3309,DE,2021-06-07,18:00:00,06844,Dessau-Roßlau,Rathaus / Friedensglocke,Kundgebung,,Privat,https://t.me/MontagsMahnwache
 2843,DE,2021-06-10,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
