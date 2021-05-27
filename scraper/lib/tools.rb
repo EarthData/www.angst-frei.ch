@@ -82,6 +82,8 @@ class Tools
       domain = URI(url).hostname.split('.').first
     elsif config['uri'][uri] and  config['uri'][uri] == "second"
       domain = URI(url).hostname.split('.')[1]
+    elsif config['uri'][uri] and  config['uri'][uri] == "secondtolast"
+      domain = URI(url).hostname.split('.').last(2).join('-')
     else
       domain = URI(url).hostname.split('.').last(2).first
     end

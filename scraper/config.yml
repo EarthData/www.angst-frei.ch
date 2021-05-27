@@ -1,4 +1,5 @@
 article:
+  aargauerzeitung: lastdot
   aerzteblatt: previous
   aerztezeitung: last
   admin: last
@@ -15,6 +16,7 @@ article:
   focus: last_
   fm1today: last
   fr: last
+  gov-in: page
   heise: last
   meinbezirk: last_
   nordkurier: last
@@ -56,6 +58,7 @@ sitename:
   focus: Focus Online
   fr: Frankfurter Rundschau
   gesundheitstipp: Gesundheitstipp
+  gov-in: Government of India
   heise: Telepolis
   infosperber: INFOsperber
   insideparadeplatz: In$ide Paradeplatz
@@ -144,6 +147,7 @@ subtitle:
   weltwoche-daily: last-
   zeitpunkt: h2
 uri:
+  pib.gov.in: secondtolast
   fassadenkratzer.wordpress.com: first
   www.bag.admin.ch: second
   pubmed.ncbi.nlm.nih.gov: first
