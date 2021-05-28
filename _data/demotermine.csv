@@ -20,6 +20,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3347,CH,2021-05-29,14:00:00,1200,Genf,Plaine de Plainpalais,Kundgebung,,Freunde der Verfassung,
 3357,DE,2021-05-29,14:00:00,79098,Freiburg,Holzmarkt,Aufzug,,Für freie Impfentscheidung,
 3343,DE,2021-05-29,15:00:00,90402,Nürnberg,Jakobsplatz,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
+3387,DE,2021-05-29,15:00:00,48143,Münster,Aasee / Kugeln,Kundgebung,,Gemeinsam für Grundrechte,
 3371,DE,2021-05-29,15:00:00,40212,Düsseldorf,Corneliusplatz,Spaziergang,,,
 3376,DE,2021-05-29,15:00:00,40212,Düsseldorf,Corneliusplatz,Spaziergang,,unbekannt,
 3012,DE,2021-05-29,15:00:00,86152,Augsburg,Jakobertor,Festival,,unbekannt,
@@ -59,6 +60,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3380,DE,2021-06-07,17:00:00,17166,Teterow,Marktplatz,Kundgebung,https://dlive.tv/MV1,Es reicht...,
 2287,DE,2021-06-07,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 3309,DE,2021-06-07,18:00:00,06844,Dessau-Roßlau,Rathaus / Friedensglocke,Kundgebung,,Privat,https://t.me/MontagsMahnwache
+3388,DE,2021-06-09,17:30:00,32756,Detmold,Marktplatz,Meditation,,Lippe für Freiheit | Frieden und menschliches Miteinander,
+3392,DE,2021-06-09,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander,
 2843,DE,2021-06-10,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 2996,DE,2021-06-12,12:05:00,35037,Marburg,Stadthalle / davor,Kundgebung,,Weiterdenken Marburg,https://weiterdenken-marburg.de
 2792,CH,2021-06-12,14:00:00,6004,Luzern,Kapellplatz,Kundgebung,,unbekannt,
@@ -69,14 +72,20 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3378,DE,2021-06-12,15:00:00,40212,Düsseldorf,Corneliusplatz,Spaziergang,,unbekannt,
 2288,DE,2021-06-14,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 3310,DE,2021-06-14,18:00:00,06844,Dessau-Roßlau,Rathaus / Friedensglocke,Kundgebung,,Privat,https://t.me/MontagsMahnwache
+3389,DE,2021-06-16,17:30:00,32756,Detmold,Marktplatz,Meditation,,Lippe für Freiheit | Frieden und menschliches Miteinander,
+3393,DE,2021-06-16,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander,
 2844,DE,2021-06-17,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 2823,DE,2021-06-19,12:00:00,34117,Kassel,Friedrichsplatz,Demonstration,,Freie Bürger Kassel. Corona Rebellen Kassel. Prayer of the Mothers Kassel.,
 2289,DE,2021-06-21,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 3311,DE,2021-06-21,18:00:00,06844,Dessau-Roßlau,Rathaus / Friedensglocke,Kundgebung,,Privat,https://t.me/MontagsMahnwache
+3390,DE,2021-06-23,17:30:00,32756,Detmold,Marktplatz,Meditation,,Lippe für Freiheit | Frieden und menschliches Miteinander,
+3394,DE,2021-06-23,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander,
 2845,DE,2021-06-24,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 3368,DE,2021-06-28,14:00:00,12101,Berlin,Platz der Luftbrücke 6,Kundgebung,,Alle aufs Maul hauen,
 2290,DE,2021-06-28,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 3312,DE,2021-06-28,18:00:00,06844,Dessau-Roßlau,Rathaus / Friedensglocke,Kundgebung,,Privat,https://t.me/MontagsMahnwache
+3391,DE,2021-06-30,17:30:00,32756,Detmold,Marktplatz,Meditation,,Lippe für Freiheit | Frieden und menschliches Miteinander,
+3395,DE,2021-06-30,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander,
 3068,DE,2021-07-03,15:00:00,44787,Bochum,Kirmesplatz,Demonstration,,Querdenken 234 - Bochum,https://querdenken-234.de
 3313,DE,2021-07-05,18:00:00,06844,Dessau-Roßlau,Rathaus / Friedensglocke,Kundgebung,,Privat,https://t.me/MontagsMahnwache
 2942,DE,2021-07-17,12:00:00,17207,Röbel Müritz,ZOB,Spaziergang,,Freie Kräfte MV,
