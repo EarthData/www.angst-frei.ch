@@ -8,6 +8,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3372,DE,2021-05-29,14:00:00,80339,München,Theresienwiese,Autokorso,,Autokorso München,https://t.me/s/AutoKorsoMuc
 3363,DE,2021-05-29,14:00:00,56068,Koblenz,Jesuitenplatz,Mahnwache,,unbekannt,
 3347,CH,2021-05-29,14:00:00,1200,Genf,Plaine de Plainpalais,Kundgebung,,Freunde der Verfassung,
+3402,DE,2021-05-29,14:00:00,36037,Fulda,Universitätsplatz,Kundgebung,,unbekannt,
 3357,DE,2021-05-29,14:00:00,79098,Freiburg,Holzmarkt,Aufzug,,Für freie Impfentscheidung,
 3343,DE,2021-05-29,15:00:00,90402,Nürnberg,Jakobsplatz,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 3387,DE,2021-05-29,15:00:00,48143,Münster,Aasee / Kugeln,Kundgebung,,Gemeinsam für Grundrechte,
@@ -61,6 +62,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2996,DE,2021-06-12,12:05:00,35037,Marburg,Stadthalle / davor,Kundgebung,,Weiterdenken Marburg,https://weiterdenken-marburg.de
 2792,CH,2021-06-12,14:00:00,6004,Luzern,Kapellplatz,Kundgebung,,unbekannt,
 3356,DE,2021-06-12,14:00:00,52062,Aachen,Elisengarten,Event,,Querdenken 234 - Bochum,https://querdenken-234.de
+3404,DE,2021-06-12,14:00:00,52062,Aachen,Münsterplatz,Demonstration,,QUERDENKEN-235,
 2990,DE,2021-06-12,14:00:00,52062,Aachen,Elisenbrunnen,Festival,,Freie Bürger Aachen,
 3316,DE,2021-06-12,14:00:00,52062,Aachen,Marktplatz,Event,https://dlive.tv/edy.skynet,Freie Bürger Düren,
 3322,DE,2021-06-12,14:00:00,52062,Aachen,Holzgraben Platz,Event,https://dlive.tv/front_Wolf2020,Freie Bürger Recklinghausen,
