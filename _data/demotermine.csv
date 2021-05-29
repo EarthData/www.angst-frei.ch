@@ -24,6 +24,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3381,DE,2021-05-30,10:45:00,75015,Bretten,Stadtpark,Meditation,,unbekannt,
 3360,DE,2021-05-30,13:00:00,83527,Haag / Oberbayern,Marktplatz,Kundgebung,,Bürger im Dialog,https://t.me/fuerfriedenufreiheit
 3407,DE,2021-05-30,14:00:00,54516,Wittlich,Platz an der Lieser,Demonstration,,unbekannt,
+3415,DE,2021-05-30,14:00:00,69231,Rauenberg,Rathausplatz,Kundgebung,,unbekannt,
 2650,CH,2021-05-30,14:00:00,9450,Altstätten / SG,Reformierte Kirche,Spaziergang,,unknown,
 3338,DE,2021-05-30,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
 3406,DE,2021-05-30,18:00:00,69190,Walldorf,Marktplatz,Mahnwache,,unbekannt,
@@ -31,6 +32,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3358,DE,2021-05-31,17:00:00,17166,Teterow,Marktplatz,Kundgebung,https://dlive.tv/MV1,Es reicht...,
 3329,DE,2021-05-31,17:00:00,72810,Gomaringen,Hechinger Str. / Am Parkhaus,Schilderwald,,unbekannt,https://wirwerdenaktiv.de
 3408,DE,2021-05-31,17:00:00,23843,Bad Oldesloe,Bahnhofsvorplatz,Kundgebung,,unbekannt,
+3410,DE,2021-05-31,17:59:00,07973,Greiz,Markt,Spaziergang,,unbekannt,
 2583,CH,2021-05-31,18:00:00,8636,Wald / ZH,Hallenbad/Windegg,Spaziergang,,unknown,
 2577,CH,2021-05-31,18:00:00,6362,Stansstad,Hafen,Spaziergang,,unknown,
 3349,DE,2021-05-31,18:00:00,92421,Schwandorf,Unterer Marktplatz,Kundgebung,,unbekannt,
@@ -41,6 +43,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3308,DE,2021-05-31,18:00:00,06844,Dessau-Roßlau,Rathaus / Friedensglocke,Kundgebung,,Privat,https://t.me/MontagsMahnwache
 3385,DE,2021-05-31,18:00:00,02625,Bautzen,Kornmarkt,Mahnwache,,unbekannt,https://www.denkste-mit.de/#willkommen
 3409,DE,2021-05-31,18:00:00,96052,Bamberg,Bahnhof / ggü.,Spaziergang,,unbekannt,https://stayawakebamberg.de
+3414,DE,2021-05-31,18:30:00,90402,Nürnberg,Jakobsplatz,Aufzug,,unbekannt,
 3364,DE,2021-05-31,18:30:00,29221,Celle,Stechbahn,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,
 3399,DE,2021-05-31,19:00:00,08056,Zwickau,Hauptmarkt,Kundgebung,,unbekannt,
 3375,DE,2021-05-31,19:00:00,17033,Neubrandenburg,Marktplatz / Innenstadt,Aufzug,,unbekannt,
@@ -56,9 +59,11 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3367,DE,2021-06-05,13:15:00,21029,Hamburg-Bergedorf,Frascati-Platz,Autokorso,,Freiheitsfahrer Hamburg,
 3350,DE,2021-06-05,13:30:00,26789,Leer,Denkmalplatz,Demonstration,,Besorgte Eltern (Corona | Impfungen),
 2791,CH,2021-06-05,13:30:00,9050,Appenzell,Landesgemeindeplatz,Kundgebung,,unbekannt,
+3416,DE,2021-06-05,14:00:00,68723,Schwetzingen,Neuer Messplatz / Kolpingstr.,Aufzug,,Offene Gesellschaft Kurpfalz,http://offene-gesellschaft-kurpfalz.de/?p=161
 3374,DE,2021-06-05,14:00:00,13088,Berlin,Buschallee 52,Aufzug,,unbekannt,http://von-mensch-zu-mensch-aktionen.de/
 3377,DE,2021-06-05,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Kundgebung,,unbekannt,
 3380,DE,2021-06-07,17:00:00,17166,Teterow,Marktplatz,Kundgebung,https://dlive.tv/MV1,Es reicht...,
+3411,DE,2021-06-07,17:59:00,07973,Greiz,Markt,Spaziergang,,unbekannt,
 2287,DE,2021-06-07,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 3309,DE,2021-06-07,18:00:00,06844,Dessau-Roßlau,Rathaus / Friedensglocke,Kundgebung,,Privat,https://t.me/MontagsMahnwache
 3388,DE,2021-06-09,17:30:00,32756,Detmold,Marktplatz,Meditation,,Lippe für Freiheit | Frieden und menschliches Miteinander,
@@ -72,7 +77,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3316,DE,2021-06-12,14:00:00,52062,Aachen,Marktplatz,Event,https://dlive.tv/edy.skynet,Freie Bürger Düren,
 3322,DE,2021-06-12,14:00:00,52062,Aachen,Holzgraben Platz,Event,https://dlive.tv/front_Wolf2020,Freie Bürger Recklinghausen,
 3378,DE,2021-06-12,15:00:00,40212,Düsseldorf,Corneliusplatz,Spaziergang,,unbekannt,
+3412,DE,2021-06-13,14:00:00,07973,Greiz,Markt,Schweigemarsch,,unbekannt,
 2288,DE,2021-06-14,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
+3413,DE,2021-06-14,18:00:00,07973,Greiz,Markt,Spaziergang,,unbekannt,
 3310,DE,2021-06-14,18:00:00,06844,Dessau-Roßlau,Rathaus / Friedensglocke,Kundgebung,,Privat,https://t.me/MontagsMahnwache
 3389,DE,2021-06-16,17:30:00,32756,Detmold,Marktplatz,Meditation,,Lippe für Freiheit | Frieden und menschliches Miteinander,
 3393,DE,2021-06-16,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander,
