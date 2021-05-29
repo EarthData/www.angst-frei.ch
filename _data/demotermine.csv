@@ -23,12 +23,14 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3351,DE,2021-05-29,17:00:00,30169,Hannover,Schützenplatz,Autokorso,,Autocorso Hannover,Telegram
 3381,DE,2021-05-30,10:45:00,75015,Bretten,Stadtpark,Meditation,,unbekannt,
 3360,DE,2021-05-30,13:00:00,83527,Haag / Oberbayern,Marktplatz,Kundgebung,,Bürger im Dialog,https://t.me/fuerfriedenufreiheit
+3407,DE,2021-05-30,14:00:00,54516,Wittlich,Platz an der Lieser,Demonstration,,unbekannt,
 2650,CH,2021-05-30,14:00:00,9450,Altstätten / SG,Reformierte Kirche,Spaziergang,,unknown,
 3338,DE,2021-05-30,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
 3406,DE,2021-05-30,18:00:00,69190,Walldorf,Marktplatz,Mahnwache,,unbekannt,
 2644,LI,2021-05-30,18:00:00,9490,Vaduz,Peter-Kaiser-Platz,Spaziergang,,unknown,
 3358,DE,2021-05-31,17:00:00,17166,Teterow,Marktplatz,Kundgebung,https://dlive.tv/MV1,Es reicht...,
 3329,DE,2021-05-31,17:00:00,72810,Gomaringen,Hechinger Str. / Am Parkhaus,Schilderwald,,unbekannt,https://wirwerdenaktiv.de
+3408,DE,2021-05-31,17:00:00,23843,Bad Oldesloe,Bahnhofsvorplatz,Kundgebung,,unbekannt,
 2583,CH,2021-05-31,18:00:00,8636,Wald / ZH,Hallenbad/Windegg,Spaziergang,,unknown,
 2577,CH,2021-05-31,18:00:00,6362,Stansstad,Hafen,Spaziergang,,unknown,
 3349,DE,2021-05-31,18:00:00,92421,Schwandorf,Unterer Marktplatz,Kundgebung,,unbekannt,
@@ -38,6 +40,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3302,DE,2021-05-31,18:00:00,33330,Gütersloh,Berliner Platz,Kundgebung,,Privat (zuletzt 142 Teilnehmer),https://t.me/LichterspaziergangGT
 3308,DE,2021-05-31,18:00:00,06844,Dessau-Roßlau,Rathaus / Friedensglocke,Kundgebung,,Privat,https://t.me/MontagsMahnwache
 3385,DE,2021-05-31,18:00:00,02625,Bautzen,Kornmarkt,Mahnwache,,unbekannt,https://www.denkste-mit.de/#willkommen
+3409,DE,2021-05-31,18:00:00,96052,Bamberg,Bahnhof / ggü.,Spaziergang,,unbekannt,https://stayawakebamberg.de
 3364,DE,2021-05-31,18:30:00,29221,Celle,Stechbahn,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,
 3399,DE,2021-05-31,19:00:00,08056,Zwickau,Hauptmarkt,Kundgebung,,unbekannt,
 3375,DE,2021-05-31,19:00:00,17033,Neubrandenburg,Marktplatz / Innenstadt,Aufzug,,unbekannt,
