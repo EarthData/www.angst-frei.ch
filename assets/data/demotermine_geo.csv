@@ -1,107 +1,77 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite,latitude,longitude,created
-3358,DE,2021-05-31,17:00:00,17166,Teterow,Marktplatz,Kundgebung,https://dlive.tv/MV1,Es reicht...,,53.7735478,12.5754575,2021-05-31 23:19:29
-3438,DE,2021-05-31,17:00:00,18055,Rostock,Am Strande / Parkplatz,Aufzug,,unbekannt,,54.0909925,12.1512028,2021-05-31 23:19:29
-3329,DE,2021-05-31,17:00:00,72810,Gomaringen,Hechinger Str. / Am Parkhaus,Schilderwald,,unbekannt,https://wirwerdenaktiv.de,48.4535917,9.0985587,2021-05-31 23:19:29
-3408,DE,2021-05-31,17:00:00,23843,Bad Oldesloe,Bahnhofsvorplatz,Kundgebung,,unbekannt,,53.8052678,10.3822381,2021-05-31 23:19:29
-3410,DE,2021-05-31,17:59:00,7973,Greiz,Markt,Spaziergang,,unbekannt,,50.8218038,11.9342488,2021-05-31 23:19:29
-2583,CH,2021-05-31,18:00:00,8636,Wald / ZH,Hallenbad/Windegg,Spaziergang,,unknown,,47.2741418,8.9132553,2021-05-31 23:19:29
-2577,CH,2021-05-31,18:00:00,6362,Stansstad,Hafen,Spaziergang,,unknown,,46.97998,8.420751064137455,2021-05-31 23:19:29
-3349,DE,2021-05-31,18:00:00,92421,Schwandorf,Unterer Marktplatz,Kundgebung,,unbekannt,,49.3296022,12.1072358,2021-05-31 23:19:29
-3361,DE,2021-05-31,18:00:00,92421,Schwandorf,Unterer Marktplatz,Kundgebung,,unbekannt,,49.3296022,12.1072358,2021-05-31 23:19:29
-3439,DE,2021-05-31,18:00:00,18055,Rostock,Neuer Markt,Mahnwache,,unbekannt,,54.0889851,12.140552,2021-05-31 23:19:29
-3440,DE,2021-05-31,18:00:00,18055,Rostock,Neuer Markt,Aufzug,,unbekannt,,54.0889851,12.140552,2021-05-31 23:19:29
-3424,DE,2021-05-31,18:00:00,14467,Potsdam,Platz zwischen Filmmuseum und,Kundgebung,,Fraktion Frieden | NW2021 | Demokratischer Widerstand,,52.4009309,13.0591397,2021-05-31 23:19:29
-3398,DE,2021-05-31,18:00:00,49074,Osnabrück,Rathaus,Demonstration,,unbekannt,,52.27739939999999,8.041210268889596,2021-05-31 23:19:29
-2286,DE,2021-05-31,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-05-31 23:19:29
-3435,DE,2021-05-31,18:00:00,79199,Kirchzarten,Marktplatz,Mahnwache,,unbekannt,,47.963653,7.954331674216792,2021-05-31 23:19:29
-3302,DE,2021-05-31,18:00:00,33330,Gütersloh,Berliner Platz,Kundgebung,,Privat (zuletzt 142 Teilnehmer),https://t.me/LichterspaziergangGT,51.9063703,8.378309599962563,2021-05-31 23:19:29
-3308,DE,2021-05-31,18:00:00,6844,Dessau-Roßlau,Rathaus / Friedensglocke,Kundgebung,,Privat,https://t.me/MontagsMahnwache,,,2021-05-31 23:19:29
-3385,DE,2021-05-31,18:00:00,2625,Bautzen,Kornmarkt,Mahnwache,,unbekannt,https://www.denkste-mit.de/#willkommen,51.1804409,14.428698518867606,2021-05-31 23:19:29
-3409,DE,2021-05-31,18:00:00,96052,Bamberg,Bahnhof / ggü.,Spaziergang,,unbekannt,https://stayawakebamberg.de,49.8916044,10.8868478,2021-05-31 23:19:29
-3444,DE,2021-05-31,18:00:00,67098,Bad Dürkheim,Wurstmarktplatz / am großen Fass,Kundgebung,,unbekannt,,49.4632944,8.1705063,2021-05-31 23:19:29
-3436,DE,2021-05-31,18:30:00,79576,Weil am Rhein,Kiesparkplatz am LGS-Gelände,Autokorso,,unbekannt,,47.6048182,7.6094052,2021-05-31 23:19:29
-3414,DE,2021-05-31,18:30:00,90402,Nürnberg,Jakobsplatz,Aufzug,,unbekannt,,49.4495647,11.0704212,2021-05-31 23:19:29
-3364,DE,2021-05-31,18:30:00,29221,Celle,Stechbahn,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,,52.6238668,10.080043130610024,2021-05-31 23:19:29
-3427,DE,2021-05-31,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,unbekannt,,51.52088485,6.9255365117204075,2021-05-31 23:19:29
-3399,DE,2021-05-31,19:00:00,8056,Zwickau,Hauptmarkt,Kundgebung,,unbekannt,,50.7174995,12.4959383,2021-05-31 23:19:29
-3431,DE,2021-05-31,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,unbekannt,,53.5271438,8.1102415,2021-05-31 23:19:29
-3426,DE,2021-05-31,19:00:00,18439,Stralsund,Trelleborger Platz,Kundgebung,,unbekannt,,54.3280884,13.054738201739964,2021-05-31 23:19:29
-3375,DE,2021-05-31,19:00:00,17033,Neubrandenburg,Marktplatz / Innenstadt,Aufzug,,unbekannt,,53.5560766,13.2629643,2021-05-31 23:19:29
-3366,DE,2021-05-31,19:00:00,47906,Kempen,Kuhtor,Spaziergang,,Privat,,51.3662505,6.4177893168652975,2021-05-31 23:19:29
-3370,DE,2021-05-31,19:00:00,6108,Halle,Markt / Ostseite,Kundgebung,https://www.youtube.com/channel/UCuAklMNmcLV6dAg8j5HrKAA,Montagsdemo Halle,https://t.me/InSvensWelt,,,2021-05-31 23:19:29
-3400,DE,2021-06-01,18:00:00,7616,Bürgel,In den Satteln / Gewerbegebiet,Spaziergang,,unbekannt,https://buergel-ist-laut-fuer-kinderrechte.jimdosite.com/,,,2021-05-31 23:19:29
-3437,DE,2021-06-01,18:30:00,79108,Freiburg,Neues SC-Stadion / Flugplatz,Autokorso,,unbekannt,https://www.zukunft-fr.de,47.9960901,7.8494005,2021-05-31 23:19:29
-3430,DE,2021-06-01,19:00:00,55618,Simmertal,Heyde Brigg / Wanderparkplatz,Spaziergang,,privat (keine Partei),,49.8109034,7.5235018,2021-05-31 23:19:29
-3445,DE,2021-06-01,19:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2021-05-31 23:19:29
-3425,DE,2021-06-02,13:00:00,10785,Berlin,Potsdamer Platz /  Ebertstr.,Mahnwache,,unbekannt,,52.5099483,13.3755647,2021-05-31 23:19:29
-3423,DE,2021-06-02,16:00:00,70184,Stuttgart,Dobelstr. / Hohenheimer Str.,Schilderwald,,Privat,,48.7784485,9.1800132,2021-05-31 23:19:29
-3396,DE,2021-06-02,17:30:00,32756,Detmold,Marktplatz,Meditation,,Lippe für Freiheit | Frieden und menschliches Miteinander,,51.9353405,8.8784369,2021-05-31 23:19:29
-3447,DE,2021-06-02,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2021-05-31 23:19:29
-3397,DE,2021-06-02,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander,,51.9353405,8.8784369,2021-05-31 23:19:29
-3418,DE,2021-06-02,18:30:00,91781,Weißenburg,Martin Luther Platz,Versammlung,,Privat Bürgerstammtisch,,49.0315326,10.9700403,2021-05-31 23:19:29
-3429,DE,2021-06-03,11:00:00,78136,Schonach,Kurpark Pavillon,Versammlung,,unbekannt,,48.1427148,8.1974937,2021-05-31 23:19:29
-3267,DE,2021-06-03,13:00:00,76133,Karlsruhe,Marktplatz,Aufzug,,Querdenken 721,,49.0089017,8.4038088,2021-05-31 23:19:29
-2842,DE,2021-06-03,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-05-31 23:19:29
-3405,DE,2021-06-03,18:00:00,93413,Cham,Volksfestplatz,Kundgebung,,unbekannt,,49.22441515,12.671315509513473,2021-05-31 23:19:29
-3324,DE,2021-06-04,17:00:00,70372,Stuttgart / Bad Cannstatt,Cannstatter Wasen / Parkpl. P10,Autokorso,,Privat,,48.8039711846184,9.222169948364485,2021-05-31 23:19:29
-3443,DE,2021-06-04,17:30:00,72622,Nürtingen,Schillerplatz / Ochsenbrunnen,Kundgebung,,Querdenken 702,,48.6265854,9.3365463,2021-05-31 23:19:29
-3448,DE,2021-06-04,19:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2021-05-31 23:19:29
-3367,DE,2021-06-05,13:15:00,21029,Hamburg-Bergedorf,Frascati-Platz,Autokorso,,Freiheitsfahrer Hamburg,,53.483631349999996,10.210543153919701,2021-05-31 23:19:29
-3350,DE,2021-06-05,13:30:00,26789,Leer,Denkmalplatz,Demonstration,,Besorgte Eltern (Corona | Impfungen),,53.2351376,7.454035544392916,2021-05-31 23:19:29
-2791,CH,2021-06-05,13:30:00,9050,Appenzell,Landesgemeindeplatz,Kundgebung,,unbekannt,,47.3299558,9.4099556,2021-05-31 23:19:29
-3416,DE,2021-06-05,14:00:00,68723,Schwetzingen,Neuer Messplatz / Kolpingstr.,Aufzug,,Offene Gesellschaft Kurpfalz,http://offene-gesellschaft-kurpfalz.de/?p=161,49.3832919,8.5735135,2021-05-31 23:19:29
-3374,DE,2021-06-05,14:00:00,13088,Berlin,Buschallee 52,Aufzug,,unbekannt,http://von-mensch-zu-mensch-aktionen.de/,52.552797,13.4841268,2021-05-31 23:19:29
-3449,DE,2021-06-05,15:00:00,90402,Nürnberg,Jakobsplatz,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4495647,11.0704212,2021-05-31 23:19:29
-3441,DE,2021-06-05,15:00:00,50678,Köln,Heumarkt,Demonstration,,Koeln ist aktiv,https://koelnistaktiv.de,50.9347245,6.9600517,2021-05-31 23:19:29
-3377,DE,2021-06-05,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Kundgebung,,unbekannt,,51.219092200000006,6.767028235140621,2021-05-31 23:19:29
-3446,DE,2021-06-05,15:00:00,40212,Düsseldorf,Johannes-Rau-Platz,Spaziergang,,unbekannt,,51.219092200000006,6.767028235140621,2021-05-31 23:19:29
-3442,DE,2021-06-05,16:30:00,50678,Köln,Heumarkt,Aufzug,,Koeln ist aktiv,https://koelnistaktiv.de,50.9347245,6.9600517,2021-05-31 23:19:29
-3428,DE,2021-06-06,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,,53.862379399999995,8.69838907329424,2021-05-31 23:19:29
-3380,DE,2021-06-07,17:00:00,17166,Teterow,Marktplatz,Kundgebung,https://dlive.tv/MV1,Es reicht...,,53.7735478,12.5754575,2021-05-31 23:19:29
-3411,DE,2021-06-07,17:59:00,7973,Greiz,Markt,Spaziergang,,unbekannt,,50.8218038,11.9342488,2021-05-31 23:19:29
-2287,DE,2021-06-07,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-05-31 23:19:29
-3309,DE,2021-06-07,18:00:00,6844,Dessau-Roßlau,Rathaus / Friedensglocke,Kundgebung,,Privat,https://t.me/MontagsMahnwache,,,2021-05-31 23:19:29
-3432,DE,2021-06-07,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,unbekannt,,53.5271438,8.1102415,2021-05-31 23:19:29
-3417,DE,2021-06-08,18:00:00,64720,Michelstadt,Bienenmarkt-Platz,Autokorso,,unbekannt,,49.6790742,9.0028838,2021-05-31 23:19:29
-3388,DE,2021-06-09,17:30:00,32756,Detmold,Marktplatz,Meditation,,Lippe für Freiheit | Frieden und menschliches Miteinander,,51.9353405,8.8784369,2021-05-31 23:19:29
-3392,DE,2021-06-09,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander,,51.9353405,8.8784369,2021-05-31 23:19:29
-2843,DE,2021-06-10,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-05-31 23:19:29
-2996,DE,2021-06-12,12:05:00,35037,Marburg,Stadthalle / davor,Kundgebung,,Weiterdenken Marburg,https://weiterdenken-marburg.de,50.8117327,8.7757742,2021-05-31 23:19:29
-2792,CH,2021-06-12,14:00:00,6004,Luzern,Kapellplatz,Kundgebung,,unbekannt,,47.05261445,8.307675324292452,2021-05-31 23:19:29
-3356,DE,2021-06-12,14:00:00,52062,Aachen,Elisengarten,Event,,Querdenken 234 - Bochum,https://querdenken-234.de,50.774268,6.0851638,2021-05-31 23:19:29
-3404,DE,2021-06-12,14:00:00,52062,Aachen,Münsterplatz,Demonstration,,QUERDENKEN-235,,50.7745516,6.0850449,2021-05-31 23:19:29
-2990,DE,2021-06-12,14:00:00,52062,Aachen,Elisenbrunnen,Festival,,Freie Bürger Aachen,,50.7741039,6.086867285507246,2021-05-31 23:19:29
-3316,DE,2021-06-12,14:00:00,52062,Aachen,Marktplatz,Event,https://dlive.tv/edy.skynet,Freie Bürger Düren,,50.77630405,6.083694444083968,2021-05-31 23:19:29
-3322,DE,2021-06-12,14:00:00,52062,Aachen,Holzgraben Platz,Event,https://dlive.tv/front_Wolf2020,Freie Bürger Recklinghausen,,50.7752297,6.087539901707064,2021-05-31 23:19:29
-3378,DE,2021-06-12,15:00:00,40212,Düsseldorf,Corneliusplatz,Spaziergang,,unbekannt,,51.2258298,6.779199226884687,2021-05-31 23:19:29
-3412,DE,2021-06-13,14:00:00,7973,Greiz,Markt,Schweigemarsch,,unbekannt,,50.8218038,11.9342488,2021-05-31 23:19:29
-2288,DE,2021-06-14,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-05-31 23:19:29
-3413,DE,2021-06-14,18:00:00,7973,Greiz,Markt,Spaziergang,,unbekannt,,50.8218038,11.9342488,2021-05-31 23:19:29
-3310,DE,2021-06-14,18:00:00,6844,Dessau-Roßlau,Rathaus / Friedensglocke,Kundgebung,,Privat,https://t.me/MontagsMahnwache,,,2021-05-31 23:19:29
-3433,DE,2021-06-14,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,unbekannt,,53.5271438,8.1102415,2021-05-31 23:19:29
-3389,DE,2021-06-16,17:30:00,32756,Detmold,Marktplatz,Meditation,,Lippe für Freiheit | Frieden und menschliches Miteinander,,51.9353405,8.8784369,2021-05-31 23:19:29
-3393,DE,2021-06-16,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander,,51.9353405,8.8784369,2021-05-31 23:19:29
-2844,DE,2021-06-17,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-05-31 23:19:29
-2823,DE,2021-06-19,12:00:00,34117,Kassel,Friedrichsplatz,Demonstration,,Freie Bürger Kassel. Corona Rebellen Kassel. Prayer of the Mothers Kassel.,,51.31388365,9.494732740210718,2021-05-31 23:19:29
-2289,DE,2021-06-21,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-05-31 23:19:29
-3311,DE,2021-06-21,18:00:00,6844,Dessau-Roßlau,Rathaus / Friedensglocke,Kundgebung,,Privat,https://t.me/MontagsMahnwache,,,2021-05-31 23:19:29
-3434,DE,2021-06-21,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,unbekannt,,53.5271438,8.1102415,2021-05-31 23:19:29
-3390,DE,2021-06-23,17:30:00,32756,Detmold,Marktplatz,Meditation,,Lippe für Freiheit | Frieden und menschliches Miteinander,,51.9353405,8.8784369,2021-05-31 23:19:29
-3394,DE,2021-06-23,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander,,51.9353405,8.8784369,2021-05-31 23:19:29
-2845,DE,2021-06-24,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-05-31 23:19:29
-3368,DE,2021-06-28,14:00:00,12101,Berlin,Platz der Luftbrücke 6,Kundgebung,,Alle aufs Maul hauen,,52.4829728,13.3871677,2021-05-31 23:19:29
-2290,DE,2021-06-28,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-05-31 23:19:29
-3312,DE,2021-06-28,18:00:00,6844,Dessau-Roßlau,Rathaus / Friedensglocke,Kundgebung,,Privat,https://t.me/MontagsMahnwache,,,2021-05-31 23:19:29
-3391,DE,2021-06-30,17:30:00,32756,Detmold,Marktplatz,Meditation,,Lippe für Freiheit | Frieden und menschliches Miteinander,,51.9353405,8.8784369,2021-05-31 23:19:29
-3395,DE,2021-06-30,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander,,51.9353405,8.8784369,2021-05-31 23:19:29
-3068,DE,2021-07-03,15:00:00,44787,Bochum,Kirmesplatz,Demonstration,,Querdenken 234 - Bochum,https://querdenken-234.de,51.487366800000004,7.23353518711003,2021-05-31 23:19:29
-3419,DE,2021-07-05,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-05-31 23:19:29
-3313,DE,2021-07-05,18:00:00,6844,Dessau-Roßlau,Rathaus / Friedensglocke,Kundgebung,,Privat,https://t.me/MontagsMahnwache,,,2021-05-31 23:19:29
-3420,DE,2021-07-12,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-05-31 23:19:29
-2942,DE,2021-07-17,12:00:00,17207,Röbel Müritz,ZOB,Spaziergang,,Freie Kräfte MV,,53.3731595,12.606159327005962,2021-05-31 23:19:29
-3421,DE,2021-07-19,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-05-31 23:19:29
-3422,DE,2021-07-26,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-05-31 23:19:29
-2271,DE,2021-10-04,14:30:00,6232,Speyer,Domplatz,Kundgebung,https://dlive.tv/Live-Reports-DUEW,Querdenken 6341,https://www.querdenken-6341.de,49.3149967,8.4424507,2021-05-31 23:19:29
-1960,DE,2021-11-05,18:00:00,10117,Berlin,Pariser Platz / Brandenburger Tor,MillionMaskMarch,https://anonymous.support/live,Anonymous,https://anonymous.support,52.5170365,13.3888599,2021-05-31 23:19:29
-1963,DE,2021-12-24,12:00:00,10178,Berlin,Weltzeituhr / Alexanderplatz,OpSafeWinter,https://anonymous.support/live,Anonymous,https://anonymous.support,52.5170365,13.3888599,2021-05-31 23:19:29
-1617,DE,2021-12-31,23:59:00,10117,Berlin,Brandenburger Tor,Event,,Welcome 2022,,52.51628045,13.377701882994323,2021-05-31 23:19:29
+3400,DE,2021-06-01,18:00:00,7616,Bürgel,In den Satteln / Gewerbegebiet,Spaziergang,,unbekannt,https://buergel-ist-laut-fuer-kinderrechte.jimdosite.com/,,,2021-06-01 00:15:23
+3437,DE,2021-06-01,18:30:00,79108,Freiburg,Neues SC-Stadion / Flugplatz,Autokorso,,unbekannt,https://www.zukunft-fr.de,47.9960901,7.8494005,2021-06-01 00:15:23
+3430,DE,2021-06-01,19:00:00,55618,Simmertal,Heyde Brigg / Wanderparkplatz,Spaziergang,,privat (keine Partei),,49.8109034,7.5235018,2021-06-01 00:15:23
+3445,DE,2021-06-01,19:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2021-06-01 00:15:23
+3425,DE,2021-06-02,13:00:00,10785,Berlin,Potsdamer Platz /  Ebertstr.,Mahnwache,,unbekannt,,52.5099483,13.3755647,2021-06-01 00:15:23
+3423,DE,2021-06-02,16:00:00,70184,Stuttgart,Dobelstr. / Hohenheimer Str.,Schilderwald,,Privat,,48.7784485,9.1800132,2021-06-01 00:15:23
+3396,DE,2021-06-02,17:30:00,32756,Detmold,Marktplatz,Meditation,,Lippe für Freiheit | Frieden und menschliches Miteinander,,51.9353405,8.8784369,2021-06-01 00:15:23
+3447,DE,2021-06-02,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2021-06-01 00:15:23
+3397,DE,2021-06-02,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander,,51.9353405,8.8784369,2021-06-01 00:15:23
+3418,DE,2021-06-02,18:30:00,91781,Weißenburg,Martin Luther Platz,Versammlung,,Privat Bürgerstammtisch,,49.0315326,10.9700403,2021-06-01 00:15:23
+3429,DE,2021-06-03,11:00:00,78136,Schonach,Kurpark Pavillon,Versammlung,,unbekannt,,48.1427148,8.1974937,2021-06-01 00:15:23
+3267,DE,2021-06-03,13:00:00,76133,Karlsruhe,Marktplatz,Aufzug,,Querdenken 721,,49.0089017,8.4038088,2021-06-01 00:15:23
+2842,DE,2021-06-03,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-06-01 00:15:23
+3405,DE,2021-06-03,18:00:00,93413,Cham,Volksfestplatz,Kundgebung,,unbekannt,,49.22441515,12.671315509513473,2021-06-01 00:15:23
+3324,DE,2021-06-04,17:00:00,70372,Stuttgart / Bad Cannstatt,Cannstatter Wasen / Parkpl. P10,Autokorso,,Privat,,48.8039711846184,9.222169948364485,2021-06-01 00:15:23
+3443,DE,2021-06-04,17:30:00,72622,Nürtingen,Schillerplatz / Ochsenbrunnen,Kundgebung,,Querdenken 702,,48.6265854,9.3365463,2021-06-01 00:15:23
+3448,DE,2021-06-04,19:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2021-06-01 00:15:23
+3367,DE,2021-06-05,13:15:00,21029,Hamburg-Bergedorf,Frascati-Platz,Autokorso,,Freiheitsfahrer Hamburg,,53.483631349999996,10.210543153919701,2021-06-01 00:15:23
+3350,DE,2021-06-05,13:30:00,26789,Leer,Denkmalplatz,Demonstration,,Besorgte Eltern (Corona | Impfungen),,53.2351376,7.454035544392916,2021-06-01 00:15:23
+2791,CH,2021-06-05,13:30:00,9050,Appenzell,Landesgemeindeplatz,Kundgebung,,unbekannt,,47.3299558,9.4099556,2021-06-01 00:15:23
+3416,DE,2021-06-05,14:00:00,68723,Schwetzingen,Neuer Messplatz / Kolpingstr.,Aufzug,,Offene Gesellschaft Kurpfalz,http://offene-gesellschaft-kurpfalz.de/?p=161,49.3832919,8.5735135,2021-06-01 00:15:23
+3374,DE,2021-06-05,14:00:00,13088,Berlin,Buschallee 52,Aufzug,,unbekannt,http://von-mensch-zu-mensch-aktionen.de/,52.552797,13.4841268,2021-06-01 00:15:23
+3449,DE,2021-06-05,15:00:00,90402,Nürnberg,Jakobsplatz,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4495647,11.0704212,2021-06-01 00:15:23
+3441,DE,2021-06-05,15:00:00,50678,Köln,Heumarkt,Demonstration,,Koeln ist aktiv,https://koelnistaktiv.de,50.9347245,6.9600517,2021-06-01 00:15:23
+3377,DE,2021-06-05,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Kundgebung,,unbekannt,,51.219092200000006,6.767028235140621,2021-06-01 00:15:23
+3446,DE,2021-06-05,15:00:00,40212,Düsseldorf,Johannes-Rau-Platz,Spaziergang,,unbekannt,,51.219092200000006,6.767028235140621,2021-06-01 00:15:23
+3442,DE,2021-06-05,16:30:00,50678,Köln,Heumarkt,Aufzug,,Koeln ist aktiv,https://koelnistaktiv.de,50.9347245,6.9600517,2021-06-01 00:15:23
+3428,DE,2021-06-06,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,,53.862379399999995,8.69838907329424,2021-06-01 00:15:23
+3380,DE,2021-06-07,17:00:00,17166,Teterow,Marktplatz,Kundgebung,https://dlive.tv/MV1,Es reicht...,,53.7735478,12.5754575,2021-06-01 00:15:23
+3411,DE,2021-06-07,17:59:00,7973,Greiz,Markt,Spaziergang,,unbekannt,,50.8218038,11.9342488,2021-06-01 00:15:23
+2287,DE,2021-06-07,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-06-01 00:15:23
+3309,DE,2021-06-07,18:00:00,6844,Dessau-Roßlau,Rathaus / Friedensglocke,Kundgebung,,Privat,https://t.me/MontagsMahnwache,,,2021-06-01 00:15:23
+3432,DE,2021-06-07,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,unbekannt,,53.5271438,8.1102415,2021-06-01 00:15:23
+3417,DE,2021-06-08,18:00:00,64720,Michelstadt,Bienenmarkt-Platz,Autokorso,,unbekannt,,49.6790742,9.0028838,2021-06-01 00:15:23
+3388,DE,2021-06-09,17:30:00,32756,Detmold,Marktplatz,Meditation,,Lippe für Freiheit | Frieden und menschliches Miteinander,,51.9353405,8.8784369,2021-06-01 00:15:23
+3392,DE,2021-06-09,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander,,51.9353405,8.8784369,2021-06-01 00:15:23
+2843,DE,2021-06-10,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-06-01 00:15:23
+2996,DE,2021-06-12,12:05:00,35037,Marburg,Stadthalle / davor,Kundgebung,,Weiterdenken Marburg,https://weiterdenken-marburg.de,50.8117327,8.7757742,2021-06-01 00:15:23
+2792,CH,2021-06-12,14:00:00,6004,Luzern,Kapellplatz,Kundgebung,,unbekannt,,47.05261445,8.307675324292452,2021-06-01 00:15:23
+3356,DE,2021-06-12,14:00:00,52062,Aachen,Elisengarten,Event,,Querdenken 234 - Bochum,https://querdenken-234.de,50.774268,6.0851638,2021-06-01 00:15:23
+3404,DE,2021-06-12,14:00:00,52062,Aachen,Münsterplatz,Demonstration,,QUERDENKEN-235,,50.7745516,6.0850449,2021-06-01 00:15:23
+2990,DE,2021-06-12,14:00:00,52062,Aachen,Elisenbrunnen,Festival,,Freie Bürger Aachen,,50.7741039,6.086867285507246,2021-06-01 00:15:23
+3316,DE,2021-06-12,14:00:00,52062,Aachen,Marktplatz,Event,https://dlive.tv/edy.skynet,Freie Bürger Düren,,50.77630405,6.083694444083968,2021-06-01 00:15:23
+3322,DE,2021-06-12,14:00:00,52062,Aachen,Holzgraben Platz,Event,https://dlive.tv/front_Wolf2020,Freie Bürger Recklinghausen,,50.7752297,6.087539901707064,2021-06-01 00:15:23
+3378,DE,2021-06-12,15:00:00,40212,Düsseldorf,Corneliusplatz,Spaziergang,,unbekannt,,51.2258298,6.779199226884687,2021-06-01 00:15:23
+3412,DE,2021-06-13,14:00:00,7973,Greiz,Markt,Schweigemarsch,,unbekannt,,50.8218038,11.9342488,2021-06-01 00:15:23
+2288,DE,2021-06-14,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-06-01 00:15:23
+3413,DE,2021-06-14,18:00:00,7973,Greiz,Markt,Spaziergang,,unbekannt,,50.8218038,11.9342488,2021-06-01 00:15:23
+3310,DE,2021-06-14,18:00:00,6844,Dessau-Roßlau,Rathaus / Friedensglocke,Kundgebung,,Privat,https://t.me/MontagsMahnwache,,,2021-06-01 00:15:23
+3433,DE,2021-06-14,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,unbekannt,,53.5271438,8.1102415,2021-06-01 00:15:23
+3389,DE,2021-06-16,17:30:00,32756,Detmold,Marktplatz,Meditation,,Lippe für Freiheit | Frieden und menschliches Miteinander,,51.9353405,8.8784369,2021-06-01 00:15:23
+3393,DE,2021-06-16,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander,,51.9353405,8.8784369,2021-06-01 00:15:23
+2844,DE,2021-06-17,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-06-01 00:15:23
+2823,DE,2021-06-19,12:00:00,34117,Kassel,Friedrichsplatz,Demonstration,,Freie Bürger Kassel. Corona Rebellen Kassel. Prayer of the Mothers Kassel.,,51.31388365,9.494732740210718,2021-06-01 00:15:23
+2289,DE,2021-06-21,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-06-01 00:15:23
+3311,DE,2021-06-21,18:00:00,6844,Dessau-Roßlau,Rathaus / Friedensglocke,Kundgebung,,Privat,https://t.me/MontagsMahnwache,,,2021-06-01 00:15:23
+3434,DE,2021-06-21,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,unbekannt,,53.5271438,8.1102415,2021-06-01 00:15:23
+3390,DE,2021-06-23,17:30:00,32756,Detmold,Marktplatz,Meditation,,Lippe für Freiheit | Frieden und menschliches Miteinander,,51.9353405,8.8784369,2021-06-01 00:15:23
+3394,DE,2021-06-23,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander,,51.9353405,8.8784369,2021-06-01 00:15:23
+2845,DE,2021-06-24,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-06-01 00:15:23
+3368,DE,2021-06-28,14:00:00,12101,Berlin,Platz der Luftbrücke 6,Kundgebung,,Alle aufs Maul hauen,,52.4829728,13.3871677,2021-06-01 00:15:23
+2290,DE,2021-06-28,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-06-01 00:15:23
+3312,DE,2021-06-28,18:00:00,6844,Dessau-Roßlau,Rathaus / Friedensglocke,Kundgebung,,Privat,https://t.me/MontagsMahnwache,,,2021-06-01 00:15:23
+3391,DE,2021-06-30,17:30:00,32756,Detmold,Marktplatz,Meditation,,Lippe für Freiheit | Frieden und menschliches Miteinander,,51.9353405,8.8784369,2021-06-01 00:15:23
+3395,DE,2021-06-30,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander,,51.9353405,8.8784369,2021-06-01 00:15:23
+3068,DE,2021-07-03,15:00:00,44787,Bochum,Kirmesplatz,Demonstration,,Querdenken 234 - Bochum,https://querdenken-234.de,51.487366800000004,7.23353518711003,2021-06-01 00:15:23
+3419,DE,2021-07-05,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-06-01 00:15:23
+3313,DE,2021-07-05,18:00:00,6844,Dessau-Roßlau,Rathaus / Friedensglocke,Kundgebung,,Privat,https://t.me/MontagsMahnwache,,,2021-06-01 00:15:23
+3420,DE,2021-07-12,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-06-01 00:15:23
+2942,DE,2021-07-17,12:00:00,17207,Röbel Müritz,ZOB,Spaziergang,,Freie Kräfte MV,,53.3731595,12.606159327005962,2021-06-01 00:15:23
+3421,DE,2021-07-19,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-06-01 00:15:23
+3422,DE,2021-07-26,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-06-01 00:15:23
+2271,DE,2021-10-04,14:30:00,6232,Speyer,Domplatz,Kundgebung,https://dlive.tv/Live-Reports-DUEW,Querdenken 6341,https://www.querdenken-6341.de,49.3149967,8.4424507,2021-06-01 00:15:23
+1960,DE,2021-11-05,18:00:00,10117,Berlin,Pariser Platz / Brandenburger Tor,MillionMaskMarch,https://anonymous.support/live,Anonymous,https://anonymous.support,52.5170365,13.3888599,2021-06-01 00:15:23
+1963,DE,2021-12-24,12:00:00,10178,Berlin,Weltzeituhr / Alexanderplatz,OpSafeWinter,https://anonymous.support/live,Anonymous,https://anonymous.support,52.5170365,13.3888599,2021-06-01 00:15:23
+1617,DE,2021-12-31,23:59:00,10117,Berlin,Brandenburger Tor,Event,,Welcome 2022,,52.51628045,13.377701882994323,2021-06-01 00:15:23
