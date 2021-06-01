@@ -20,7 +20,7 @@ edges_count = 1
 
 files.each do |filename|
 
-  break if counter > 1545
+  #break if counter > 1545
 
   meta_data = YAML.load_file(filename)
 
@@ -29,7 +29,7 @@ files.each do |filename|
   year = meta_data['date'].strftime("%Y").to_i
   month = meta_data['date'].strftime("%m").to_i
 
-  next if year < 2021 or month > 2
+  #next if year < 2021 or month > 2
 
   puts "File: #{filename} (#{counter})"
   counter += 1
@@ -44,6 +44,7 @@ files.each do |filename|
     network_nodes[file_name]['id'] = node_count
     network_nodes[file_name]['value'] = 1
     network_nodes[file_name]['title'] = meta_data['subtitle']
+    network_nodes[file_name]['linkname'] = meta_data['title']
     #network_nodes[file_name]['title'] = "<a href=\"#{meta_data['redirect']}\">#{meta_data['subtitle']}</a>"
     network_nodes[file_name]['group'] = meta_data['title']
     article_id = node_count
@@ -56,7 +57,7 @@ files.each do |filename|
       if network_nodes[category]
         #puts "#{category} already exists"
         network_nodes[category]['value'] += 1
-        network_edges <<  { "source" => network_nodes[category]['id'], "target" => article_id, "value" => 5 }
+        network_edges <<  { "source" => network_nodes[category]['id'], "target" => article_id, "title" => network_nodes[category]['linkname'], "value" => 2 }
         edges_count += 1
       else
         network_nodes[category] = Hash.new
@@ -64,7 +65,7 @@ files.each do |filename|
         network_nodes[category]['title'] = category
         network_nodes[category]['value'] = 1
         network_nodes[category]['group'] = category
-        network_edges <<  { "source" => node_count, "target" => article_id, "value" => 5 }
+        network_edges <<  { "source" => node_count, "target" => article_id, "title" => network_nodes[category]['linkname'], "value" => 2 }
         node_count += 1
       end
     end

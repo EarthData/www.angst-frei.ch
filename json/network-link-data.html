@@ -16,11 +16,13 @@ permalink: /json/network-link-data.json
     {%unless forloop.last %},{%endunless%}
     {%- endfor -%}
   ],
-  "edges": [
+  "links": [
     {%- for edge in site.data.network-link-edges -%}
     {
-      "from": "{{ edge.from }}",
-      "to": "{{ edge.to }}"
+      "source": "{{ edge.from }}",
+      "target": "{{ edge.to }}",
+      "title": "{{ edge.title }}",
+      "value": "{{ edge.value }}"
     }
     {%unless forloop.last %},{%endunless%}
     {%- endfor -%}

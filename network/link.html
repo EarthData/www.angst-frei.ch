@@ -1,14 +1,20 @@
----
-layout:    page
-title:     Beziehungen
-ext-js:    ["//code.jquery.com/jquery-3.5.1.min.js", "//unpkg.com/vis-network/standalone/umd/vis-network.min.js"]
-css:       ["/assets/css/link-graph.css"]
-js:        ["/assets/js/link-graph.js"]
----
+<head>
+  <style> body { margin: 0; } </style>
+  <script src="//unpkg.com/3d-force-graph"></script>
+</head>
 
-<div id="mynetwork"></div>
+<body>
+  <div id="3d-graph"></div>
 
-<div id="config"></div>
+  <script type="module">
 
-<p id="selection"></p>
-
+    const Graph = ForceGraph3D()
+      (document.getElementById('3d-graph'))
+        .jsonUrl('/json/network-link-data.json')
+        .nodeLabel('title')
+        .nodeVal('value')
+        .nodeAutoColorBy('group')
+        .linkWidth('value')
+        .linkLabel('title');
+  </script>
+<body>
