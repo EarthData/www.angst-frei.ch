@@ -44,7 +44,6 @@ files.each do |filename|
     network_nodes[file_name]['id'] = node_count
     network_nodes[file_name]['value'] = 1
     network_nodes[file_name]['title'] = meta_data['subtitle']
-    network_nodes[file_name]['linkname'] = meta_data['title']
     #network_nodes[file_name]['title'] = "<a href=\"#{meta_data['redirect']}\">#{meta_data['subtitle']}</a>"
     network_nodes[file_name]['group'] = meta_data['title']
     article_id = node_count
@@ -57,7 +56,7 @@ files.each do |filename|
       if network_nodes[category]
         #puts "#{category} already exists"
         network_nodes[category]['value'] += 1
-        network_edges <<  { "source" => network_nodes[category]['id'], "target" => article_id, "title" => network_nodes[category]['linkname'], "value" => 2 }
+        network_edges <<  { "source" => network_nodes[category]['id'], "target" => article_id, "title" => meta_data['title'], "value" => 2 }
         edges_count += 1
       else
         network_nodes[category] = Hash.new
@@ -65,7 +64,7 @@ files.each do |filename|
         network_nodes[category]['title'] = category
         network_nodes[category]['value'] = 1
         network_nodes[category]['group'] = category
-        network_edges <<  { "source" => node_count, "target" => article_id, "title" => network_nodes[category]['linkname'], "value" => 2 }
+        network_edges <<  { "source" => node_count, "target" => article_id, "title" => meta_data['title'], "value" => 2 }
         node_count += 1
       end
     end
@@ -77,7 +76,7 @@ files.each do |filename|
       if network_nodes[tag]
         #puts "#{tag} already exists"
         network_nodes[tag]['value'] += 1
-        network_edges <<  { "source" => network_nodes[tag]['id'], "target" => article_id, "value" => 1 }
+        network_edges <<  { "source" => network_nodes[tag]['id'], "target" => article_id, "title" => meta_data['title'], "value" => 1 }
         edges_count += 1
       else
         network_nodes[tag] = Hash.new
@@ -85,7 +84,7 @@ files.each do |filename|
         network_nodes[tag]['title'] = tag
         network_nodes[tag]['value'] = 1
         network_nodes[tag]['group'] = tag
-        network_edges <<  { "source" => node_count, "target" => article_id, "value" => 1 }
+        network_edges <<  { "source" => node_count, "target" => article_id, "title" => meta_data['title'], "value" => 1 }
         node_count += 1
       end
     end
@@ -102,9 +101,9 @@ CSV.open("../_data/network-link-nodes.csv", "wb", { :force_quotes => true }) do 
 end  
 
 CSV.open("../_data/network-link-edges.csv", "wb") do |csv|  
-  csv << ["from", "to", "value"]
+  csv << ["from", "to", "title", "value"]
   network_edges.each do |edge|
-    csv << [edge['source'], edge['target'], edge['value']]  
+    csv << [edge['source'], edge['target'], edge['title'], edge['value']]  
   end
 end  
 
