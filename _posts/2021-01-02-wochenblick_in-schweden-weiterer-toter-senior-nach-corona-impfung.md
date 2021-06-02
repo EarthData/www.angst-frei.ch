@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/in-schweden-weiterer-toter-senior-nach
 title:         Wochenblick
 subtitle:      'In Schweden: Weiterer toter Senior nach Corona-Impfung'
 description:   'Ein weiterer Todesfall wurde bekannt. Inzwischen ergibt sich ein Muster - es handelt sich stets um Senioren mit ernsten Vorerkrankungen.'
-country:       AT
+country:       SE
 categories:    [Impfung]
-tags:          [schweden, mit oder an impfung gestorben]
+tags:          [mit oder an impfung gestorben]
 ---

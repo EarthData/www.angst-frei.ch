@@ -4,7 +4,7 @@ redirect:      https://tkp.at/2021/04/26/schwedische-gesundheitsbehoerde-pcr-tes
 title:         tp - Science & Technology
 subtitle:      'Schwedische Gesundheitsbehörde: PCR Test ungeeignet zur Feststellung von Infektiosität'
 description:   'Das was seriöse Wissenschaftler immer schon gesagt haben, bestätigt auch die Gesundheitsbehörde in Schweden. Auf der Webseite von Folkhälsomyndigheten findet sich eine aktuelle Definition, was der PCR Test kann und was nicht und wofür er verwendet werden soll und wofür nicht. Hier eine Übersetzung des Textes auf der Webseite (Hervorhebungen von mir): Die Gesundheitsbehörde hat …'
-country:       AT
+country:       SE
 categories:    [Behörde]
-tags:          [pcr-test, schweden]
+tags:          [pcr-test]
 ---

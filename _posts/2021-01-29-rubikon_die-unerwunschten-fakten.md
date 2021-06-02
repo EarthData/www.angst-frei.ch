@@ -3,9 +3,9 @@ date:          2021-01-29
 redirect:      https://www.rubikon.news/artikel/die-unerwunschten-fakten
 title:         Rubikon
 subtitle:      'Die unerwünschten Fakten'
-country:       DE
+country:       SE
 categories:    [Zahlen]
-tags:          [schweden, immunität]
+tags:          [immunität]
 ---
 # Die unerwünschten Fakten
 
