@@ -5,5 +5,5 @@ title:         Berliner Zeitung
 subtitle:      'Keine Übersterblichkeit durch Covid-19: Chef von Gesundheitsamt vergleicht Corona mit Grippe und Hitzewellen'
 country:       DE
 categories:    [MSM, Medizin, Zahlen]
-tags:          [gottschalk, sterblichkeit]
+tags:          [sterblichkeit]
 ---

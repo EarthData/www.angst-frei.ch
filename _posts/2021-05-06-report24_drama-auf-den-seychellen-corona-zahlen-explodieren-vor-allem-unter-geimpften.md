@@ -4,7 +4,7 @@ redirect:      https://report24.news/drama-auf-den-seychellen-corona-zahlen-expl
 title:         Report24
 subtitle:      'Drama auf den Seychellen: Corona-Zahlen explodieren - vor allem unter Geimpften'
 description:   'Einen großen Teil der rasant gestiegenen Corona-Fälle auf den Seychellen machen ausgerechnet vollständig geimpfte Personen aus.'
-country:       AT
+country:       SC
 categories:    [Impfung, Zahlen]
-tags:          [immunität, seychellen]
+tags:          [immunität]
 ---
