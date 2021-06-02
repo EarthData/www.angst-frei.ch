@@ -28,17 +28,20 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3458,DE,2021-06-05,15:00:00,06108,Halle,Markt / Ostseite,Kundgebung,https://www.twitch.tv/svenliebich,Sven Liebich,https://t.me/InSvensWelt
 3377,DE,2021-06-05,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Kundgebung,,unbekannt,
 3446,DE,2021-06-05,15:00:00,40212,Düsseldorf,Johannes-Rau-Platz,Spaziergang,,unbekannt,
+3467,DE,2021-06-05,15:00:00,44787,Bochum,Dr.-Ruer-Platz,Demonstration,,Querdenken 234 - Bochum,https://querdenken-234.de
 3442,DE,2021-06-05,16:30:00,50678,Köln,Heumarkt,Aufzug,,Koeln ist aktiv,https://koelnistaktiv.de
 3450,DE,2021-06-06,10:45:00,75015,Bretten,Stadtpark / Alter Friedhof,Meditation,,unbekannt,
 3460,DE,2021-06-06,11:00:00,70173,Stuttgart,Schillerplatz,Musik,,Horn For Hope,
 3428,DE,2021-06-06,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
 3454,DE,2021-06-06,15:00:00,29221,Celle,Schloß / Rasenfläche,Zusammenkunft,,Das Volk geht spazieren für die Freiheit!,
+3464,DE,2021-06-06,16:00:00,06682,Teuchern,RTS Platz / Mühlstr.,Spaziergang,,unbekannt,
 3380,DE,2021-06-07,17:00:00,17166,Teterow,Marktplatz,Kundgebung,https://dlive.tv/MV1,Es reicht...,
 3411,DE,2021-06-07,17:59:00,07973,Greiz,Markt,Spaziergang,,unbekannt,
 2287,DE,2021-06-07,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 3309,DE,2021-06-07,18:00:00,06844,Dessau-Roßlau,Rathaus / Friedensglocke,Kundgebung,,Privat,https://t.me/MontagsMahnwache
 3453,DE,2021-06-07,18:30:00,29221,Celle,Stechbahn,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,
 3432,DE,2021-06-07,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,unbekannt,
+3465,DE,2021-06-07,19:00:00,06682,Teuchern,RTS Platz / Mühlstr.,Spaziergang,,unbekannt,
 3417,DE,2021-06-08,18:00:00,64720,Michelstadt,Bienenmarkt-Platz,Autokorso,,unbekannt,
 3388,DE,2021-06-09,17:30:00,32756,Detmold,Marktplatz,Meditation,,Lippe für Freiheit | Frieden und menschliches Miteinander,
 3461,DE,2021-06-09,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de
@@ -48,6 +51,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2792,CH,2021-06-12,14:00:00,6004,Luzern,Kapellplatz,Kundgebung,,unbekannt,
 3356,DE,2021-06-12,14:00:00,52062,Aachen,Elisengarten,Event,,Querdenken 234 - Bochum,https://querdenken-234.de
 3404,DE,2021-06-12,14:00:00,52062,Aachen,Münsterplatz,Demonstration,,QUERDENKEN-235,
+3466,DE,2021-06-12,14:00:00,52062,Aachen,Elisengarten,Event,,Querdenken 234 - Bochum,https://querdenken-234.de
 2990,DE,2021-06-12,14:00:00,52062,Aachen,Elisenbrunnen,Festival,,Freie Bürger Aachen,
 3316,DE,2021-06-12,14:00:00,52062,Aachen,Marktplatz,Event,https://dlive.tv/edy.skynet,Freie Bürger Düren,
 3322,DE,2021-06-12,14:00:00,52062,Aachen,Holzgraben Platz,Event,https://dlive.tv/front_Wolf2020,Freie Bürger Recklinghausen,
