@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/israel-aus-sterbestatistik-verschwunde
 title:         Wochenblick
 subtitle:      'Israel aus Sterbestatistik verschwunden: Technikfehler oder Vertuschung?'
 description:   'Zahlen und Grafiken dazu konnte man bis vor Kurzem auf EuroMomo einsehen. Dem ist für Israel jetzt nicht mehr so.'
-country:       AT
+country:       IL
 categories:    [Impfung, Zahlen]
-tags:          [israel, mit oder an impfung gestorben, sterblichkeit]
+tags:          [mit oder an impfung gestorben, sterblichkeit]
 ---

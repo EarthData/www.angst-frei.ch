@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/ueberraschung-fuer-israel-trotz-impfun
 title:         Wochenblick
 subtitle:      'Überraschung für Israel: Trotz Impfung Corona-Positive und vier Todesfälle'
 description:   'Vier Todesfälle, Nebenwirkungen bei einem unter Tausend, kein Komplettschutz. Israel soll bereits eine Million Menschen geimpft haben.'
-country:       AT
+country:       IL
 categories:    [Impfung]
-tags:          [mit oder an impfung gestorben, biontech, israel]
+tags:          [mit oder an impfung gestorben, biontech]
 ---

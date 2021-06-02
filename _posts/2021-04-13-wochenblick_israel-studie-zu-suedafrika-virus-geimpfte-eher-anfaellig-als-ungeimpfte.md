@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/israel-studie-zu-suedafrika-virus-geim
 title:         Wochenblick
 subtitle:      'Israel-Studie zu Südafrika-Virus: Geimpfte eher anfällig als Ungeimpfte'
 description:   'Offenbar betrifft die südafrikanische Corona-Variante mehr Menschen, die eine Pfizer-Impfung erhielten, als nicht-geimpfte Personen.'
-country:       AT
+country:       IL
 categories:    [Impfung]
-tags:          [immunität, virus-mutation, israel]
+tags:          [immunität, virus-mutation]
 ---

@@ -4,7 +4,7 @@ redirect:      https://unser-mitteleuropa.com/besorgniserregendes-aus-israel-vir
 title:         Unser Mitteleuropa
 subtitle:      'Besorgniserregendes aus Israel: Virus-Mutation für Geimpfte ansteckender als für Ungeimpfte'
 description:   'Wer den Worten der Politiker die uns weißmachen wollen, dass alles so früher weitergehet, wenn die Bevölkerung „duchgeimpft“ sein wird, Glauben geschenkt hat, wird durch eine Studie aus Israel jetzt eines Besseren belehrt. Und einmal mehr bewahrheitet sich eine „Verschwörungstheorie“, nämlich, dass am Ende des Tages die Geimpften die Leittragenden dieses ganzen Corona-Irrsinns werden könnten. […]'
-country:       EU
+country:       IL
 categories:    [Impfung]
-tags:          [virus-mutation, immunität, israel]
+tags:          [virus-mutation, immunität]
 ---

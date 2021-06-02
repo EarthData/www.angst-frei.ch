@@ -4,7 +4,7 @@ redirect:      https://corona-transition.org/anwalte-bezichtigen-die-israelische
 title:         Corona Transition
 subtitle:      'Anwälte bezichtigen die israelische Regierung der „Verbrechen gegen die Menschlichkeit“'
 description:   'Die Anwälte Ruth Makhacholovsky und Aryeh Suchowolski haben letzte Woche beim Internationalen Strafgerichtshof in Den Haag eine Klage gegen die (...)'
-country:       CH
+country:       IL
 categories:    [Recht, Widerstand]
-tags:          [israel]
+tags:          []
 ---

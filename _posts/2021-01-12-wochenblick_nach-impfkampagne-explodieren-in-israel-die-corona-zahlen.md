@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/nach-impfkampagne-explodieren-in-israe
 title:         Wochenblick
 subtitle:      'Nach Impfkampagne explodieren in Israel die Corona-Zahlen'
 description:   'Bereits 1,8 Millionen Israelis wurden mit dem mRNA-Impfstoff gegen Corona geimpft. Trotzdem scheinen die Infektionszahlen zu explodieren...'
-country:       AT
+country:       IL
 categories:    [Zahlen, Impfung]
-tags:          [israel]
+tags:          []
 ---
