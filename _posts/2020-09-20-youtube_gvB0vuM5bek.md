@@ -5,7 +5,7 @@ subtitle:      "Exklusiv-Interview: Gigantische Klage gegen Prof. Christian Dros
 date:          2020-09-20
 persons:       [Drosten Christian, Füllmich Reiner]
 categories:    [Video, Recht]
-tags:          [geld, youtube]
+tags:          [geld]
 youtubeId:     "gvB0vuM5bek"
 ---
 

@@ -8,7 +8,7 @@ timeline:      P(l)andemie
 group:         Ereignis
 country:       VA
 categories:    [P(l)andemie]
-tags:          [vatican]
+tags:          []
 link:          "/assets/files/events/Atti completi_PAV_2020.pdf"
 ---
 <object data="{{ page.link }}" style='height:calc(100vh - 400px); width: 100%' type='application/pdf'></object>

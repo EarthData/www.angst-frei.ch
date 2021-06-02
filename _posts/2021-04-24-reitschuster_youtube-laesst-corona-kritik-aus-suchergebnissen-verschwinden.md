@@ -5,6 +5,6 @@ title:         reitschuster
 subtitle:      'Youtube lässt Corona-Kritik aus Suchergebnissen verschwinden'
 description:   'Die Videos der Schauspieler-Initiative #allesdichtmachen sind nach 10 Millionen Aufrufen bei Youtube aus den Suchergebnissen verschwunden. Ein dreister, manipulativer Eingriff des faktischen Monopolisten in die Meinungsfreiheit.'
 country:       DE
-categories:    [Widerstand]
-tags:          [kultur, zensur, youtube, allesdichtmachen, manipulation]
+categories:    [MSM, Widerstand]
+tags:          [kultur, zensur, allesdichtmachen, manipulation]
 ---

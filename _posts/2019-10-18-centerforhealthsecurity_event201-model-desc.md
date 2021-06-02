@@ -6,8 +6,8 @@ description: 'Event 201 war eine von der Bill & Melinda Gates Stiftung, dem Welt
 credit:       https://centerforhealthsecurity.org/event201/
 timeline:    P(l)andemie
 group:       Ereignis
-categories:  [Gesundheit]
-tags:        [jhchs, pdf, youtube, event 201]
+categories:  [Gesundheit, Video]
+tags:        [jhchs, pdf, event 201]
 link:        "/assets/files/events/event201-model-desc.pdf"
 youtubeId:   "AoLw-Q8X174"
 ---

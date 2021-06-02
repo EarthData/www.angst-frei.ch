@@ -5,7 +5,7 @@ title:      "Honk for Hope"
 subtitle:   "Verfassungsgerichtshof: Lockdown-'Nachfolge-Verordnungen' verfassungswidrig!"
 country:    AT
 categories: [Video, Recht]
-tags:       [youtube, lockdown]
+tags:       [lockdown]
 youtubeId:  "Pq_q0RedfYg"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}

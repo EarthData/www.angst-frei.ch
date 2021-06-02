@@ -6,7 +6,7 @@ subtitle:      'Im Gespräch: Flo Osrainik („Das Corona-Dossier")'
 description:   'Flo Osrainik ist Münchener, Publizist, und hat sich, wie viele Menschen während der „Corona-Zeit“, von einigen Freunden trennen müssen. Wer […]'
 country:       DE
 categories:    [Video, Recht, Widerstand, Mensch]
-tags:          [peertube]
+tags:          []
 peertubeId:    "1a2d8479-4697-4b0c-96ed-a3fe9aa45290"
 peertubeUrl:   "tube.kenfm.de"
 ---

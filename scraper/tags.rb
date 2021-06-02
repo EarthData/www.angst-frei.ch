@@ -66,18 +66,18 @@ files.each do |filename|
   #  counter += 1
   #end
 
-  if meta_data['tags'].include?("schweden")
+  if meta_data['tags'].include?("israel")
   #if meta_data['categories'].include?("Schulen")
     puts "File: #{filename} (#{counter})"
     puts meta_data['tags']
     #puts meta_data['categories']
-    meta_data['tags'].delete_at(meta_data['tags'].index("schweden"))
+    meta_data['tags'].delete_at(meta_data['tags'].index("israel"))
     #meta_data['categories'].delete_at(meta_data['categories'].index("Schulen"))
     puts meta_data['tags']
     #puts meta_data['categories']
     #meta_data['tags'].push("schnelltest")
     #meta_data['categories'].push("Schule")
-    meta_data['country'] = "SE"
+    meta_data['country'] = "IL"
     #puts meta_data['tags']
     #puts meta_data['categories']
     counter += 1
