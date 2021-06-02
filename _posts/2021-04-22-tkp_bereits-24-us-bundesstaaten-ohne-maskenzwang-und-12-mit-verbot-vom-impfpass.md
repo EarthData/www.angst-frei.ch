@@ -4,7 +4,7 @@ redirect:      https://tkp.at/2021/04/22/bereits-24-us-bundesstaaten-ohne-masken
 title:         tp - Science & Technology
 subtitle:      'Bereits 24 US-Bundesstaaten ohne Maskenzwang und 12 mit Verbot vom Impfpass'
 description:   'Es werden immer mehr – nun kamen zwei weitere  mit Alabama und New Hampshire dazu. Die positiven und erfolgreichen Beispiele der Bundesstaaten, die den Maskenzwang aufgehoben haben, machen offenbar Schule. Nicht zuletzt auch deshalb, weil sich allen Unkenrufen zum Trotz gerade diese Staaten besser entwickelt haben, als die mit strikten Maßnahmen inklusive Maskenpflicht. Florida hatte …'
-country:       AT
+country:       US
 categories:    [Politik]
-tags:          [maske, lockdown, impfpass, usa]
+tags:          [maske, lockdown, impfpass]
 ---

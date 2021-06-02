@@ -4,7 +4,7 @@ redirect:      https://corona-transition.org/gouverneur-von-south-carolina-verbi
 title:         Corona Transition
 subtitle:      'Gouverneur von South Carolina verbietet Maskenpflicht'
 description:   'Der Gouverneur von South Carolina, Henry McMaster, hat am Dienstag eine Anordnung erlassen, die es Schulen und lokalen Regierungen verbietet, (...)'
-country:       CH
+country:       US
 categories:    [Recht]
-tags:          [maske, usa]
+tags:          [maske]
 ---

@@ -4,7 +4,7 @@ redirect:      https://www.tichyseinblick.de/kolumnen/aus-aller-welt/lockdownfre
 title:         Tichys Einblick
 subtitle:      'Lockdownfreie US-Bundesstaaten stehen besser da'
 description:   'Die Arbeitslosigkeit ist in US-Bundesstaaten, die einen Lockdown verhängten deutlich angestiegen. Staaten, die auf einen Lockdown verzichteten, stehen deutlich besser da - die Corona-Zahlen sind hingegen bei beiden Gruppen vergleichbar.'
-country:       DE
+country:       US
 categories:    [Zahlen]
-tags:          [lockdown, usa]
+tags:          [lockdown]
 ---
