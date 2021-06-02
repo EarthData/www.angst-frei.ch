@@ -73,7 +73,7 @@ files.each do |filename|
 
   if graph_tags
     meta_data['tags'].each do |tag|
-      next if tag.match(/^(paywall|pdf)$/)
+      next if tag.match(/^(paywall|pdf|pinned|intern)$/)
       if network_nodes[tag]
         #puts "#{tag} already exists"
         network_nodes[tag]['value'] += 1

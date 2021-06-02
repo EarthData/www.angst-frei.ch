@@ -5,6 +5,6 @@ title:         telegra.ph
 subtitle:      'Masken als Todesursache'
 country:       DE
 timeline:      Medizin
-categories:    [Wissenschaft]
-tags:          [schiffmann, maske]
+categories:    [Medizin]
+tags:          [maske]
 ---
