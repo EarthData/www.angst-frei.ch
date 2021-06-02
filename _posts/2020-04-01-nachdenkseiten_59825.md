@@ -7,5 +7,5 @@ description:   'Die ARD-Tagesschau und andere Medien weltweit zitieren die Johns
 country:       US
 persons:       [Gates Bill]
 categories:    [P(l)andemie]
-tags:          [event 201]
+tags:          [jhchs, event 201]
 ---

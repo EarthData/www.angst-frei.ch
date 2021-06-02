@@ -6,5 +6,5 @@ subtitle:      'Anwältin reicht beim Internationalen Strafgerichtshof Klage geg
 description:   'Schon viele mutige Anwälte auf der ganzen Welt haben damit begonnen, rechtliche Schritte gegen diejenigen einzuleiten, die für all das (...)'
 country:       CH
 categories:    [Recht, Widerstand]
-tags:          [spanien]
+tags:          [massnahmen]
 ---

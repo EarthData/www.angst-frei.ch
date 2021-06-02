@@ -4,7 +4,7 @@ redirect:      https://www.reitschuster.de/post/portugiesisches-berufungsgericht
 title:         reitschuster
 subtitle:      'Portugiesisches Berufungsgericht hält PCR-Test für unzuverlässig'
 description:   'Richter in dem EU-Staat haben eine richtungsweisende Entscheidung gefällt: Sie hoben eine Quarantäne durch das Gesundheitsamt auf, wegen grundlegender Zweifel an den Corona-Tests.'
-country:       DE
+country:       PT
 categories:    [Recht]
-tags:          [pcr-test, portugal]
+tags:          [pcr-test]
 ---

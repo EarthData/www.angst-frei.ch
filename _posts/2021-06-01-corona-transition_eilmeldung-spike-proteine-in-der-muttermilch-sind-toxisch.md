@@ -6,5 +6,5 @@ subtitle:      'EILMELDUNG: «Spike-Proteine in der Muttermilch sind toxisch»'
 description:   'Dr. Byram Bridle ist Professor für Virologie und Immunologie an der kanadischen University of Guelph. Vor wenigen Tagen hat sich Bridle mit einer (...)'
 country:       CH
 categories:    [Impfung, Wissenschaft]
-tags:          [impf-nebenwirkungen, kind]
+tags:          [spike-protein, impf-nebenwirkungen, kind]
 ---
