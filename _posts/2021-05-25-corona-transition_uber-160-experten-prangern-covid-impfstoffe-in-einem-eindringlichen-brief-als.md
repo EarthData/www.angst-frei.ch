@@ -6,5 +6,5 @@ subtitle:      'Über 160 Experten prangern Covid-Impfstoffe in einem eindringli
 description:   'Übersetzung eines am 19. Mai 2021 veröffentlichten Artikels von LifeSiteNews Dutzende medizinische Experten gaben diesen Monat eine Warnung über (...)'
 country:       CH
 categories:    [Medizin, Widerstand, Impfung]
-tags:          [impfstopp]
+tags:          [impf-stopp]
 ---

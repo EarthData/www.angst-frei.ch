@@ -6,5 +6,5 @@ subtitle:      'Mut-Lehrer legt Ehrenurkunde zurück: "Mache bei diesem Krieg ni
 description:   'Ein starkes Statement! Der mutige Lehrer aus Vorarlberg, der vor zwei Monaten gekündigt wurde, weil er selbst keine Maske tragen konnte und auch seine Schüler nicht dazu gezwungen hat, fordert nun in einem Brief an das Innenministerium, aus einer Liste von Geehrten gestrichen zu werden.'
 country:       AT
 categories:    [Widerstand, Schule]
-tags:          [knid, maske]
+tags:          [kind, maske]
 ---

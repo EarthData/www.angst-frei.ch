@@ -6,7 +6,7 @@ date:       2020-11-11
 timeline:   Medizin
 persons:    [Janzen Eugen]
 categories: [Video, Medizin]
-tags:       [bitchute, kind, maske]
+tags:       [kind, maske]
 bitchuteId: "mVY9caGYwYTN"
 ---
 

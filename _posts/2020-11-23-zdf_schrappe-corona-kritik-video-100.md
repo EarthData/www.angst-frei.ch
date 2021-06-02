@@ -5,5 +5,5 @@ title:         ZDF
 subtitle:      'Medizinprofessor Schrappe: Zahlen des RKI sind "nichts wert"'
 country:       DE
 categories:    [MSM, Video, Zahlen]
-tags:          [zdf]
+tags:          [manipulation]
 ---

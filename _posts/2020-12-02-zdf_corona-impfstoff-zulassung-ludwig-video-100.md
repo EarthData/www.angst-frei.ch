@@ -5,5 +5,5 @@ title:         ZDF
 subtitle:      '"Können Langzeitsicherheit nicht beurteilen"'
 country:       DE
 categories:    [Video, Impfung]
-tags:          [zdf, impf-nebenwirkungen]
+tags:          [impf-nebenwirkungen]
 ---

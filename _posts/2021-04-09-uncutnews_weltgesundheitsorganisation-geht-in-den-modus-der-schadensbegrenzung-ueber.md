@@ -5,5 +5,5 @@ title:         Uncut-News
 subtitle:      'Weltgesundheitsorganisation geht in den Modus der Schadensbegrenzung über'
 country:       CH
 categories:    [Wissenschaft, Recht]
-tags:          [uncut-news, virus-ursprung, who, manipulation]
+tags:          [virus-ursprung, who, manipulation]
 ---

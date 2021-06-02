@@ -5,5 +5,5 @@ title:         ZDF
 subtitle:      'Zulassung von Corona-Impfstoff in der Kritik'
 country:       DE
 categories:    [Video, Impfung, Politik]
-tags:          [zdf, impf-nebenwirkungen]
+tags:          [impf-nebenwirkungen]
 ---

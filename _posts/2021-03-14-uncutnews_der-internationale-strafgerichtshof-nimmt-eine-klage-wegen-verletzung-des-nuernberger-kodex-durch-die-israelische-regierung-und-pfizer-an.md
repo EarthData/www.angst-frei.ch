@@ -5,5 +5,5 @@ title:         Uncut-News
 subtitle:      'Der Internationale Strafgerichtshof nimmt eine Klage wegen Verletzung des Nürnberger Kodex durch die israelische Regierung und Pfizer an.'
 country:       CH
 categories:    [Recht]
-tags:          [uncut-news, israel]
+tags:          [israel]
 ---

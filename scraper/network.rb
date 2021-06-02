@@ -25,6 +25,7 @@ files.each do |filename|
   meta_data = YAML.load_file(filename)
 
   next if meta_data['published'] = false
+  #next if meta_data['tags'].match(/^(intern)$/)
 
   year = meta_data['date'].strftime("%Y").to_i
   month = meta_data['date'].strftime("%m").to_i
@@ -52,11 +53,11 @@ files.each do |filename|
   
   if graph_categories
     meta_data['categories'].each do |category|
-      next if category.match(/^(MSM)$/)
+      next if category.match(/^(MSM|Video)$/)
       if network_nodes[category]
         #puts "#{category} already exists"
         network_nodes[category]['value'] += 1
-        network_edges <<  { "source" => network_nodes[category]['id'], "target" => article_id, "title" => meta_data['title'], "value" => 2 }
+        network_edges <<  { "source" => network_nodes[category]['id'], "target" => article_id, "title" => meta_data['title'], "group" => category, "value" => 2 }
         edges_count += 1
       else
         network_nodes[category] = Hash.new
@@ -64,7 +65,7 @@ files.each do |filename|
         network_nodes[category]['title'] = category
         network_nodes[category]['value'] = 1
         network_nodes[category]['group'] = category
-        network_edges <<  { "source" => node_count, "target" => article_id, "title" => meta_data['title'], "value" => 2 }
+        network_edges <<  { "source" => node_count, "target" => article_id, "title" => meta_data['title'], "group" => category, "value" => 2 }
         node_count += 1
       end
     end
@@ -72,11 +73,11 @@ files.each do |filename|
 
   if graph_tags
     meta_data['tags'].each do |tag|
-      next if tag.match(/^(paywall)$/)
+      next if tag.match(/^(paywall|pdf)$/)
       if network_nodes[tag]
         #puts "#{tag} already exists"
         network_nodes[tag]['value'] += 1
-        network_edges <<  { "source" => network_nodes[tag]['id'], "target" => article_id, "title" => meta_data['title'], "value" => 1 }
+        network_edges <<  { "source" => network_nodes[tag]['id'], "target" => article_id, "title" => meta_data['title'], "group" => tag, "value" => 1 }
         edges_count += 1
       else
         network_nodes[tag] = Hash.new
@@ -84,7 +85,7 @@ files.each do |filename|
         network_nodes[tag]['title'] = tag
         network_nodes[tag]['value'] = 1
         network_nodes[tag]['group'] = tag
-        network_edges <<  { "source" => node_count, "target" => article_id, "title" => meta_data['title'], "value" => 1 }
+        network_edges <<  { "source" => node_count, "target" => article_id, "title" => meta_data['title'], "group" => tag, "value" => 1 }
         node_count += 1
       end
     end
@@ -101,9 +102,9 @@ CSV.open("../_data/network-link-nodes.csv", "wb", { :force_quotes => true }) do 
 end  
 
 CSV.open("../_data/network-link-edges.csv", "wb") do |csv|  
-  csv << ["from", "to", "title", "value"]
+  csv << ["from", "to", "title", "group", "value"]
   network_edges.each do |edge|
-    csv << [edge['source'], edge['target'], edge['title'], edge['value']]  
+    csv << [edge['source'], edge['target'], edge['title'], edge['group'], edge['value']]  
   end
 end  
 

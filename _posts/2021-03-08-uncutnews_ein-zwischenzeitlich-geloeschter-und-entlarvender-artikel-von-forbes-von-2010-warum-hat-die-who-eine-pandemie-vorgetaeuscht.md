@@ -5,5 +5,5 @@ title:         Uncut-News
 subtitle:      'Ein inzwischen gelöschter und entlarvender Artikel von Forbes im 2010 über die WHO: "Warum wurde eine Pandemie vorgetäuscht?"'
 country:       CH
 categories:    [MSM]
-tags:          [uncut-news, who, manipulation]
+tags:          [who, manipulation]
 ---

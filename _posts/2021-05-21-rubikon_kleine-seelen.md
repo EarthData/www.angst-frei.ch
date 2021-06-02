@@ -5,7 +5,7 @@ title:         Rubikon
 subtitle:      'Kleine Seelen'
 country:       DE
 categories:    [Mensch]
-tags:          [kind, massnahmen, kollateralschaden]
+tags:          [kind, massnahmen, kollateralschäden]
 ---
 # Kleine Seelen
 

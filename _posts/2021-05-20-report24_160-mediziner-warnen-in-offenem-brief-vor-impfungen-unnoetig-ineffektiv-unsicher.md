@@ -6,5 +6,5 @@ subtitle:      '160 Mediziner warnen in offenem Brief vor Impfungen: "Unnötig, 
 description:   'Experten aus aller Welt haben Hintergründe und Datenlage der Covid-Impfstoffe analysiert - und ein verheerendes Fazit gezogen.'
 country:       AT
 categories:    [Impfung, Medizin, Widerstand]
-tags:          [impfstopp]
+tags:          [impf-stopp]
 ---

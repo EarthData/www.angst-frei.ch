@@ -6,5 +6,5 @@ subtitle:      'Corona-Patienten belegten 2020 durchschnittlich nur 4 Prozent de
 description:   'Eine neue Studie im Auftrag des Bundesgesundheitsministeriums über die Lage auf den Intensivstationen 2020 gibt Entwarnung - so nah war Deutschland der ominösen "Triage" scheinbar nie.'
 country:       DE
 categories:    [Spital, Zahlen, Studie]
-tags:          [tichyseinblick, manipulation]
+tags:          [manipulation]
 ---

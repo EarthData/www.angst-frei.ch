@@ -6,5 +6,5 @@ subtitle:      'Die GAVI Alliance ist die Quelle von Lockdown-Terror und Impfzwa
 country:       CH
 persons:       [Gates Bill]
 categories:    [Impfung, Recht]
-tags:          [uncut-news, gavi, who, impfzwang]
+tags:          [gavi, who, impfzwang]
 ---

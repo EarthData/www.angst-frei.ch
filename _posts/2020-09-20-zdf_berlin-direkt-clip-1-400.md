@@ -5,5 +5,5 @@ title:         ZDF
 subtitle:      'Raus aus dem Panik-Modus?'
 country:       DE
 categories:    [MSM, Video, Mensch]
-tags:          [zdf, angst]
+tags:          [angst]
 ---

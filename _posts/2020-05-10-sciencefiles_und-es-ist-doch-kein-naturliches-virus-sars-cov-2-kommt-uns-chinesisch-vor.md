@@ -6,5 +6,5 @@ subtitle:      'Und es ist doch kein natürliches Virus? SARS-CoV-2 kommt uns ch
 description:   'Die Aufgabe von Wissenschaft besteht darin, mutige Antizipationen aufzustellen und zu prüfen. Sir Karl Raimund Popper hat es gesagt. Erkenntnis gewinnt man nicht dadurch, dass man Groschenromanforschung betreibt, wie wir das an mehreren Beispielen bereits dargestellt haben, sondern dadurch, Neues zu denken und das Neue zu prüfen, ohne Rücksicht auf politische Empfindlichkeiten, Ideologie und Ismen…'
 country:       DE
 categories:    [Wissenschaft]
-tags:          [virus-urpsrung]
+tags:          [virus-ursprung]
 ---

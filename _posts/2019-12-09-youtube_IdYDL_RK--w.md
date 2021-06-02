@@ -7,7 +7,7 @@ description: 'Auf die Frage von Racaniello, was man gegen Coronaviren tun könne
 timeline:    P(l)andemie
 group:       Wissenschaft
 categories:  [Video, Wissenschaft]
-tags:        [wuhan, virus-urpsrung]
+tags:        [wuhan, virus-ursprung]
 youtubeId:   "IdYDL_RK--w"
 ---
 {% include youtubePlayer.html id=page.youtubeId %}

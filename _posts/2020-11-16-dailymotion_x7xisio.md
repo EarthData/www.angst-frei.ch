@@ -5,7 +5,7 @@ title:         KenFM
 subtitle:      "KenFM am Set: Dr. Wolfgang Wodarg (Corona und der PCR-Test)"
 persons:       [Wodarg Wolfgang]
 categories:    [Video, Medizin]
-tags:          [dailymotion, pcr-test]
+tags:          [pcr-test]
 dailymotionId: "x7xisio"
 ---
 {% include dailymotionPlayer.html id=page.dailymotionId %}

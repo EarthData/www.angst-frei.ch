@@ -7,4 +7,3 @@ tags:          [gottschalk]
 link:          "/assets/files/health/Aerzteblatt-Die_Covid-19-Pandemie-bisherige_Erkenntnisse.pdf"
 ---
 <object data="{{ page.link }}" style='height:calc(100vh - 400px); width: 100%' type='application/pdf'></object>
----

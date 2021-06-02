@@ -5,5 +5,5 @@ title:         Uncut-News
 subtitle:      'Nach der Corona-Impfung sterben die Niederländer in Scharen'
 country:       CH
 categories:    [Impfung]
-tags:          [uncut-news,  mit oder an impfung gestorben]
+tags:          [mit oder an impfung gestorben]
 ---
