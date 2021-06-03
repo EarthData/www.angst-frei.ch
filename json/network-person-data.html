@@ -9,19 +9,24 @@ permalink: /json/network-person-data.json
     {% for node in site.data.network-person-nodes %}
     {
       "id": "{{ node.id }}",
-      "label": "{{ node.label }}",
+      "title": "{{ node.title }}",
       "image": "/assets/img/graph/{{ node.image }}",
       "group": "{{ node.group }}"
     }
     {%unless forloop.last %},{%endunless%}
     {% endfor %}
   ],
-  "edges": [
+  "links": [
     {% for edge in site.data.network-person-edges %}
     {
-      "from": "{{ edge.from }}",
-      "to": "{{ edge.to }}",
-      "title": "{{ edge.title }}"
+      "source": "{{ edge.source }}",
+      "target": "{{ edge.target }}",
+      {%- if edge.title != "" -%}
+      "title": "{{ edge.title }}",
+      {%- else -%}
+      "title": "{{ edge.group }}",
+      {%- endif -%}
+      "group": "{{ edge.group }}"
     }
     {%unless forloop.last %},{%endunless%}
     {% endfor %}

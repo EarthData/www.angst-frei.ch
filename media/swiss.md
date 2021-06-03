@@ -20,13 +20,12 @@ Corona Transition macht auf öffentlich zugängliche, aber von Entscheidungsträ
 
 | {{ site.icons.globe }}    | [corona-transition.org](https://corona-transition.org) |
 | {{ site.icons.telegram }} | [CoronaTransition](https://t.me/CoronaTransition) |
-| {{ site.icons.forward }}  | [Beiträge]({{ site.baseurl }}/tags.html#corona transition) |
 
 ## CWL Media Group
 
 Crosswise Life Media Group
 
-| {{ site.icons.youtube }}  | [CWL Media Group](https://www.youtube.com/c/CWLMediaGroup) |
+| {{ site.icons.globe }}    | [Crosswise Life Media Group](https://cwl-live.ch/) |
 
 ## ExpressZeitung
 

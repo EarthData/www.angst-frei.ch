@@ -4,6 +4,15 @@ $.getJSON('/json/network-person-data.json', function(data) {
     nodes:{
       borderWidth: 0,
       shape: 'circularImage',
+    },
+    edges: {
+      smooth: {
+        forceDirection: "none"
+      }
+    },
+    physics: {
+      minVelocity: 0.75,
+      solver: "forceAtlas2Based"
     }
   };
 

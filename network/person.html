@@ -1,9 +1,28 @@
----
-layout:    page
-title:     Beziehungen
-ext-js:    ["//code.jquery.com/jquery-3.5.1.min.js", "//unpkg.com/vis-network/standalone/umd/vis-network.min.js"]
-css:       ["/assets/css/person-graph.css"]
-js:        ["/assets/js/person-graph.js"]
----
+<head>
+  <style> body { margin: 0; } </style>
+  <script src="//unpkg.com/three"></script>
+  <script src="//unpkg.com/3d-force-graph"></script>
+</head>
 
-<div id="mynetwork"></div>
+<body>
+  <div id="3d-graph"></div>
+
+  <script type="module">
+
+    const Graph = ForceGraph3D()
+      (document.getElementById('3d-graph'))
+        .nodeThreeObject(node => {
+          const imgTexture = new THREE.TextureLoader().load(`${node.image}`);
+          const material = new THREE.SpriteMaterial({ map: imgTexture });
+          const sprite = new THREE.Sprite(material);
+          sprite.scale.set(12, 12);
+          return sprite;
+        })
+        .jsonUrl('/json/network-person-data.json')
+        .nodeLabel('title')
+        .nodeAutoColorBy('group')
+        .linkLabel('title')
+        .linkWidth(1)
+        .linkAutoColorBy('group')
+  </script>
+<body>

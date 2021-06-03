@@ -35,17 +35,18 @@ language: "de"
 navbar-links:
   Meldungen: 
     - Ticker: /blog/index.html
-    - Timeline: /timeline/index.html
     - Kategorien: /categories.html
     - Menschen: /persons.html
     - Tags: /tags.html
     - Archiv: /news-archive.html
-    - Impfung: /timeline/impfung.html
   Events: /events.html
   Infos: /infos.html
-  Netzwerk: 
+  Timeline:
+    - Die Anfänge: /timeline/plandemie.html
+    - Impfung: /timeline/impfung.html
+  Netzwerk:
     - Personen: /network/person.html
-    - News: /network/link.html
+    - Meldungen: /network/link.html
 
 # --- Logo --- #
 
