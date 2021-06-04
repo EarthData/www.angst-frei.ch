@@ -18,13 +18,11 @@ id,label,image,group
 404,"Gavi","gavi.png","org"
 405,"CEPI","cepi.jpg","org"
 501,"Goethe-Universität","goethe.png","edu"
-502,"Johns Hopkins Center for Health Security","hopkins.png","edu"
 503,"Imperial College London","imperial.jpg","edu"
 601,"Spiegel","spiegel.jpg","media"
 701,"AstraZeneca","astrazeneca.jpg","com"
 702,"ModernaTX","moderna.png","com"
 703,"BionTech","biontech.png","com"
-801,"Event 201","event-201.jpg","event"
 
 
 
@@ -34,4 +32,6 @@ id,label,image,group
 208,"Bill Gates","gates.jpg","person"
 203,"Tedros Adhanom Ghebreyesus","ghebreyesus.jpg","person"
 802,"WEF 2020","WEF-2020.jpg","event"
+502,"Johns Hopkins Center for Health Security","hopkins.png","edu"
+801,"Event 201","event-201.jpg","event"
 
