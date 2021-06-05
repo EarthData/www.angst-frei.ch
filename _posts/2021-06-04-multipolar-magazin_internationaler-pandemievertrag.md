@@ -5,6 +5,6 @@ title:         multipolar
 subtitle:      'Internationaler Pandemievertrag: Ein globaler Automatismus wird installiert'
 description:   'Entscheidungen über den Umgang mit Epidemien werden dem demokratischen Prozess entzogen.'
 country:       DE
-categories:    [Politik]
+categories:    [Politik, P(l)andemie]
 tags:          [wef, who]
 ---
