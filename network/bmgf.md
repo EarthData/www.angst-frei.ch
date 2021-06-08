@@ -20,33 +20,29 @@ css:       ["/assets/css/table-bmgf.css"]
       <tr>
         <th>ID</th>
         <th>Grantee</th>
-        <th>Purpose</th>
         <th>Division</th>
         <th>Date</th>
         <th>Duration</th>
         <th>Amount</th>
         <th>City/State/Country</th>
         <th>Region</th>
-        <th>Topic</th>
       </tr>
     </thead>
     <tbody>
     {% for grant in site.data.bmgf %}
       <tr>
-        <td>{{ grant.id }}</td>
+        <td><a href="https://www.gatesfoundation.org/about/committed-grants/{{ grant.date | replace: '-', '/' }}/{{ grant.id | replace: '-', '' | downcase }}">{{ grant.id }}</a></td>
     {%- if grant.website -%}
         <td><a href="{{ grant.website }}">{{ grant.grantee }}</a></td>
     {%- else -%}
         <td>{{ grant.grantee }}</td>
     {%- endif -%}
-        <td>{{ grant.purpose }}</td>
         <td>{{ grant.divison }}</td>
         <td>{{ grant.date }}</td>
         <td>{{ grant.duration }}</td>
         <td>{{ grant.amount }}</td>
         <td>{{ grant.city }}/{{ grant.state }}/{{ grant.country }}</td>
         <td>{{ grant.region }}</td>
-        <td>{{ grant.topic }}</td>
       </tr>
     {% endfor %}
     </tbody>

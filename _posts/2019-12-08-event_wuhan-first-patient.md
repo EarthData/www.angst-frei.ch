@@ -10,6 +10,6 @@ categories:    [P(l)andemie]
 tags:          [wuhan, who]
 ---
 
-## Zizat aus edition.cnn.com vom 23.5.2021
+## Zitat aus edition.cnn.com vom 23.5.2021
 
 > A State Department fact sheet released by the Trump administration in January said that the researchers had gotten sick in autumn 2019 but did not go as far as to say they had been hospitalized. China reported to the World Health Organization that the first patient with Covid-like symptoms was recorded in Wuhan on December 8, 2019.
