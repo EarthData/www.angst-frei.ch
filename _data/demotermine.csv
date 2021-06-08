@@ -1,6 +1,7 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
 3417,DE,2021-06-08,18:00:00,64720,Michelstadt,Bienenmarkt-Platz,Autokorso,,unbekannt,
 3494,DE,2021-06-08,18:00:00,74906,Bad Rappenau,Kirchplatz / Rathaus,Versammlung,,unbekannt,
+3525,DE,2021-06-08,18:30:00,79108,Freiburg,Neues SC-Stadion / Flugplatz,Autokorso,,Autokorso Freiburg,
 3519,DE,2021-06-08,19:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 3501,DE,2021-06-09,16:00:00,70184,Stuttgart,Dobelstr. / Hohenheimer Str.,Schilderwald,,Privat,
 3388,DE,2021-06-09,17:30:00,32756,Detmold,Marktplatz,Meditation,,Lippe für Freiheit | Frieden und menschliches Miteinander,
@@ -8,6 +9,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3513,DE,2021-06-09,18:00:00,80539,München,Wittelsbacher Platz,Aufzug,,Münchenstehtauf,
 3461,DE,2021-06-09,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de
 3392,DE,2021-06-09,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander,
+3526,DE,2021-06-09,18:00:00,10115,Berlin,Bundeskanzleramt,Kundgebung,https://www.twitch.tv/videos/701194942,AfD - Landesverband Brandenburg,https://www.twitch.tv/MariaGoetz
 2843,DE,2021-06-10,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 3516,DE,2021-06-10,18:00:00,93413,Cham,Volksfestplatz,Kundgebung,,unbekannt,
 3472,DE,2021-06-10,18:30:00,24105,Kiel,Bernhard-Harms-Weg,Spaziergang,,unbekannt,
