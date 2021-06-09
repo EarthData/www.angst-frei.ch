@@ -9,6 +9,7 @@ article:
   bernerzeitung: last
   br: lastcomma
   comm4u: page
+  dailymail: previous
   deutschlandfunk: page
   derstandard: previous
   dieostschweiz: last
@@ -147,6 +148,7 @@ subtitle:
   weltwoche-daily: last-
   zeitpunkt: h2
 uri:
+  www.dailymail.co.uk: second
   pib.gov.in: secondtolast
   fassadenkratzer.wordpress.com: first
   www.bag.admin.ch: second

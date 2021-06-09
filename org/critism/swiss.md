@@ -48,6 +48,12 @@ In dieser Gruppe wollen Eltern und Lehrpersonen konstruktive Ideen austauschen, 
 | {{ site.icons.telegram }} | [Überblick aller Gruppen](https://t.me/infokanaleus/69) |
 | {{ site.icons.telegram }} | [Infokanal](https://t.me/infokanaleus) |
 
+## Eltern für Freiheit
+
+Der Verein «Eltern für Freiheit» gibt unseren Kindern eine Stimme und wir sehen uns als Verein in der Pflicht, unsere Kinder vor den aktuell ständig neu erlassenen An- und Verordnungen zu schützen, sofern diese das Kindeswohl, Ihre freien Entwicklungspotentiale, bzw. das Recht auf Unversehrtheit, gefährden.
+
+| {{ site.icons.globe }}    | [www.elternfuerfreiheit.ch](https://www.elternfuerfreiheit.ch/)
+
 ## Eltern für Kinder
 
 Dem Wohl der Kinder verpflichtet.

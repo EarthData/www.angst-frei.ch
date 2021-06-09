@@ -7,5 +7,5 @@ description:   'Neue veröffentlichte E-Mails beweisen: Anthony Faucis Behörde 
 persons:       [Fauci Anthony]
 country:       US
 categories:    [Wissenschaft]
-tags:          []
+tags:          [manipulation, geld, wuhan]
 ---
