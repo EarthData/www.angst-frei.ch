@@ -1,7 +1,7 @@
 ---
 date:          2019-09-07
 title:         Die Bundesregierung
-subtitle:      'Merkel besucht Wuhan'
+subtitle:      'Kanzlerin wirbt für Multilateralismus'
 description:   'Bundeskanzlerin Angela Merkel besuchte im September 2019 die Millionenmetropole Wuhan.'
 credit:        https://www.bundesregierung.de/breg-de/aktuelles/merkel-besucht-china-1667802
 country:       DE
