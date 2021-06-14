@@ -16,13 +16,17 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3560,DE,2021-06-14,19:00:00,06682,Teuchern,RTS Platz Mühlstraße,Spaziergang,,unbekannt,
 3545,DE,2021-06-14,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,,Neubrandenburger Spaziergang,
 3549,DE,2021-06-14,19:00:00,99974,Mühlhausen / Thüringen,Untermarkt,Spaziergang,,unbekannt,
+3581,DE,2021-06-14,19:00:00,99974,Mühlhausen,Obermarkt,Spaziergang,,unbekannt,
 3553,DE,2021-06-14,19:00:00,47906,Kempen,Kuhtor,Spaziergang,,Privat,
 3556,DE,2021-06-14,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Spaziergang,,unbekannt,
 3565,DE,2021-06-14,19:00:00,06108,Halle,Markt / Ostseite,Kundgebung,https://vk.com/halle_leaks,Montagsdemo Halle,https://t.me/InSvensWelt
 3567,DE,2021-06-14,19:15:00,01067,Dresden,Altmarkt,Spaziergang,https://www.twitch.tv/MariaGoetz,PEGIDA,https://www.pegida.de
 3568,DE,2021-06-16,16:00:00,70184,Stuttgart,Dobelstr. / Hohenheimer Str.,Schilderwald,,Privat,
 3389,DE,2021-06-16,17:30:00,32756,Detmold,Marktplatz,Meditation,,Lippe für Freiheit | Frieden und menschliches Miteinander,
+3578,DE,2021-06-16,18:00:00,80539,München,Wittelsbacher Platz,Aufzug,,Münchenstehtauf,
 3393,DE,2021-06-16,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander,
+3584,DE,2021-06-16,19:00:00,83022,Rosenheim,Schönfeldstr. 19 / Ichikawa-Platz,Mahnwache,,unbekannt,https://zukunftsrunde.de/tag/mahnwache-rosenheim/
+3579,DE,2021-06-17,17:30:00,72622,Nürtingen,Ochsenbrunnen,Kundgebung,,Querdenken 702,
 2844,DE,2021-06-17,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 3530,DE,2021-06-17,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 3558,DE,2021-06-19,10:00:00,10117,Berlin,Reichstag,Zusammenkunft,https://t.me/Berlin19Juni2021,Wir Menschen gemeinsam,http://es-reicht-2021.de/
@@ -34,6 +38,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3543,DE,2021-06-19,13:30:00,18439,Stralsund,Langenstr. / Tribseer Str.,Aufzug,,Bürgerbewegung Stralsund,
 3566,DE,2021-06-19,15:00:00,06108,Halle,Markt / Ostseite,Kundgebung,https://vk.com/halle_leaks,Montagsdemo Halle,https://t.me/InSvensWelt
 3544,DE,2021-06-19,16:00:00,18439,Stralsund,Hansawiese,Kundgebung,,unbekannt,
+3583,DE,2021-06-19,16:00:00,83043,Bad Aibling,Ausstellungshalle Viehhalle,Kundgebung,,Elterninitiative Gemeinsam stark,https://www.elterninitiative-gemeinsam-stark.de
 3574,DE,2021-06-20,11:00:00,21514,Siebeneichen,Dorfplatz,Musik,,unbekannt,
 3487,DE,2021-06-20,13:00:00,46485,Wesel,Niederrheinhalle,Demonstration,,unbekannt,
 3571,DE,2021-06-20,13:00:00,46485,Wesel,Niederrheinhalle,Demonstration,,Demo für unsere Freiheit und unsere Rechte,
@@ -43,9 +48,11 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3311,DE,2021-06-21,18:00:00,06844,Dessau-Roßlau,Rathaus / Friedensglocke,Kundgebung,,Privat,https://t.me/MontagsMahnwache
 3434,DE,2021-06-21,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,unbekannt,
 3550,DE,2021-06-21,19:00:00,99974,Mühlhausen / Thüringen,Untermarkt,Spaziergang,,unbekannt,
+3582,DE,2021-06-21,19:00:00,99974,Mühlhausen,Obermarkt,Spaziergang,,unbekannt,
 3390,DE,2021-06-23,17:30:00,32756,Detmold,Marktplatz,Meditation,,Lippe für Freiheit | Frieden und menschliches Miteinander,
 3462,DE,2021-06-23,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de
 3394,DE,2021-06-23,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander,
+3585,DE,2021-06-23,19:00:00,83022,Rosenheim,Schönfeldstr. 19 / Ichikawa-Platz,Mahnwache,,unbekannt,https://zukunftsrunde.de/tag/mahnwache-rosenheim/
 2845,DE,2021-06-24,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 3531,DE,2021-06-24,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 3486,DE,2021-06-26,12:30:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,BI aufRECHT:FREIdenken,https://www.solidarnosch.de
@@ -55,8 +62,10 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3551,DE,2021-06-28,19:00:00,99974,Mühlhausen / Thüringen,Untermarkt,Spaziergang,,unbekannt,
 3391,DE,2021-06-30,17:30:00,32756,Detmold,Marktplatz,Meditation,,Lippe für Freiheit | Frieden und menschliches Miteinander,
 3395,DE,2021-06-30,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander,
+3586,DE,2021-06-30,19:00:00,83022,Rosenheim,Schönfeldstr. 19 / Ichikawa-Platz,Mahnwache,,unbekannt,https://zukunftsrunde.de/tag/mahnwache-rosenheim/
 3569,DE,2021-07-03,03:00:00,63571,Gelnhausen,Müllerwiese,Kundgebung,,Querdenken-6051 + Allianz pro Grundgesetz,https://www.allianz-pro-grundgesetz.de
 3068,DE,2021-07-03,15:00:00,44787,Bochum,Kirmesplatz,Demonstration,,Querdenken 234 - Bochum,https://querdenken-234.de
+3580,DE,2021-07-03,15:00:00,44791,Bochum,Kirmesplatz,Kundgebung,,Querdenken 234 Bochum |�Kraft der Rose,
 3419,DE,2021-07-05,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 3313,DE,2021-07-05,18:00:00,06844,Dessau-Roßlau,Rathaus / Friedensglocke,Kundgebung,,Privat,https://t.me/MontagsMahnwache
 3420,DE,2021-07-12,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
