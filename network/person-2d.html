@@ -1,0 +1,59 @@
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <title>Beziehungen</title>
+
+  <meta name="author" content="Jörg Roth">
+  <meta name="description" content="Beziehungen">
+
+  <style> body { margin: 0; } </style>
+  <script src="//unpkg.com/force-graph"></script>
+
+  <meta property="og:site_name" content="angst-frei.ch">
+  <meta property="og:title" content="angst-frei.ch">
+  <meta property="og:description" content="Beziehungen">
+  <meta property="og:image" content="https:///www.angst-frei.ch/assets/img/sun.png">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https:///www.angst-frei.ch/network/person-2d.html">
+
+  <link rel="canonical" href="https://www.angst-frei.ch/network/person-2d.html">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@">
+  <meta name="twitter:creator" content="@">
+  <meta property="twitter:title" content="angst-frei.ch">
+  <meta property="twitter:description" content="Beziehungen">
+  <meta name="twitter:image" content="https://www.angst-frei.ch/assets/img/sun.png">
+
+</head>
+
+<body>
+  <div id="2d-graph"></div>
+
+  <script type="module">
+
+    fetch('/json/network-person-data.json').then(res => res.json()).then(data => {
+      const Graph = ForceGraph()
+        (document.getElementById('2d-graph'))
+        .nodeCanvasObject((node, ctx) => {
+          const size = 12;
+          const img = new Image();
+          img.src = `..${node.image}`;
+          ctx.drawImage(img, node.x - size / 2, node.y - size / 2, size, size);
+        })
+        .nodePointerAreaPaint((node, color, ctx) => {
+          const size = 12;
+          ctx.fillStyle = color;
+          ctx.fillRect(node.x - size / 2, node.y - size / 2, size, size); // draw square as pointer trap
+        })
+        .nodeLabel('title')
+        .nodeAutoColorBy('group')
+        .linkLabel('title')
+        .linkWidth(1)
+        .linkAutoColorBy('group')
+        .graphData(data);
+    });
+  </script>
+<body>

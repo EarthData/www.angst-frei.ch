@@ -42,7 +42,7 @@ navbar-links:
   Events: /events.html
   Infos: /infos.html
   Timeline:
-    - Die Anfänge: /timeline/plandemie.html
+    - Plandemie: /timeline/plandemie.html
     - Impfung: /timeline/impfung.html
   Netzwerk:
     - Personen: /network/person.html
