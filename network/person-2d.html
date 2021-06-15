@@ -40,7 +40,7 @@
         .nodeCanvasObject((node, ctx) => {
           const size = 12;
           const img = new Image();
-          img.src = `..${node.image}`;
+          img.src = node.image;
           ctx.drawImage(img, node.x - size / 2, node.y - size / 2, size, size);
         })
         .nodePointerAreaPaint((node, color, ctx) => {
