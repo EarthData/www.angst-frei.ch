@@ -37,22 +37,17 @@
     fetch('/json/network-person-data.json').then(res => res.json()).then(data => {
       const Graph = ForceGraph()
         (document.getElementById('2d-graph'))
-        .nodeCanvasObject((node, ctx) => {
+        .nodeCanvasObject(({ image, x, y }, ctx) => {
           const size = 12;
           const img = new Image();
-          img.src = node.image;
-          ctx.drawImage(img, node.x - size / 2, node.y - size / 2, size, size);
+          img.src = image;
+          ctx.drawImage(img, x - size / 2, y - size / 2, size, size);
         })
         .nodePointerAreaPaint((node, color, ctx) => {
           const size = 12;
           ctx.fillStyle = color;
           ctx.fillRect(node.x - size / 2, node.y - size / 2, size, size); // draw square as pointer trap
         })
-        .nodeLabel('title')
-        .nodeAutoColorBy('group')
-        .linkLabel('title')
-        .linkWidth(1)
-        .linkAutoColorBy('group')
         .graphData(data);
     });
   </script>
