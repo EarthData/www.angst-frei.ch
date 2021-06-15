@@ -11,6 +11,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2844,DE,2021-06-17,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 3530,DE,2021-06-17,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 3590,DE,2021-06-17,19:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
+3596,DE,2021-06-18,18:00:00,72336,Balingen,Marktplatz,Kundgebung,,Corona Aufklärer Zollernalb/Rottweil,
 3591,DE,2021-06-18,19:00:00,90402,Nürnberg,Jakobsplatz,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 3558,DE,2021-06-19,10:00:00,10117,Berlin,Reichstag,Zusammenkunft,https://t.me/Berlin19Juni2021,Wir Menschen gemeinsam,http://es-reicht-2021.de/
 3541,DE,2021-06-19,11:00:00,18439,Stralsund,Mahnkesche Wiese,Autokorso,,Bürgerbewegung Stralsund,
@@ -24,6 +25,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3595,DE,2021-06-19,15:00:00,48143,Münster,Aasee / Kugeln,Kundgebung,,Gemeinsam für Grundrechte,https://grundrechte-ms.de
 3566,DE,2021-06-19,15:00:00,06108,Halle,Markt / Ostseite,Kundgebung,https://vk.com/halle_leaks,Montagsdemo Halle,https://t.me/InSvensWelt
 3594,DE,2021-06-19,15:30:00,29525,Uelzen,Herzogenplatz,Kundgebung,,unbekannt,
+3597,DE,2021-06-19,15:30:00,87600,Kaufbeuren,Obstmarkt / Fußgängerzone,Meditation,,unbekannt,
 3544,DE,2021-06-19,16:00:00,18439,Stralsund,Hansawiese,Kundgebung,,unbekannt,
 3583,DE,2021-06-19,16:00:00,83043,Bad Aibling,Ausstellungshalle Viehhalle,Kundgebung,,Elterninitiative Gemeinsam stark,https://www.elterninitiative-gemeinsam-stark.de
 3574,DE,2021-06-20,11:00:00,21514,Siebeneichen,Dorfplatz,Musik,,unbekannt,
@@ -36,6 +38,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3434,DE,2021-06-21,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,unbekannt,
 3550,DE,2021-06-21,19:00:00,99974,Mühlhausen / Thüringen,Untermarkt,Spaziergang,,unbekannt,
 3582,DE,2021-06-21,19:00:00,99974,Mühlhausen,Obermarkt,Spaziergang,,unbekannt,
+3598,DE,2021-06-21,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Spaziergang,,unbekannt,
 3390,DE,2021-06-23,17:30:00,32756,Detmold,Marktplatz,Meditation,,Lippe für Freiheit | Frieden und menschliches Miteinander,
 3462,DE,2021-06-23,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de
 3394,DE,2021-06-23,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander,
