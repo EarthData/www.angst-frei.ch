@@ -1,4 +1,5 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
+3593,DE,2021-06-15,18:30:00,79108,Freiburg,Neues SC-Stadion / Flugplatz,Autokorso,,unbekannt,
 3588,DE,2021-06-15,19:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 3568,DE,2021-06-16,16:00:00,70184,Stuttgart,Dobelstr. / Hohenheimer Str.,Schilderwald,,Privat,
 3389,DE,2021-06-16,17:30:00,32756,Detmold,Marktplatz,Meditation,,Lippe für Freiheit | Frieden und menschliches Miteinander,
@@ -20,7 +21,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3543,DE,2021-06-19,13:30:00,18439,Stralsund,Langenstr. / Tribseer Str.,Aufzug,,Bürgerbewegung Stralsund,
 3587,DE,2021-06-19,14:00:00,68723,Schwetzingen,Bahnhofsanlage,Kundgebung,,Offene Gesellschaft Kurpfalz - Bilanz der SARS-CoV-2-Bekämpfung - Expertenrunde,http://offene-gesellschaft-kurpfalz.de/?p=208
 3592,DE,2021-06-19,15:00:00,90402,Nürnberg,Jakobsplatz,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
+3595,DE,2021-06-19,15:00:00,48143,Münster,Aasee / Kugeln,Kundgebung,,Gemeinsam für Grundrechte,https://grundrechte-ms.de
 3566,DE,2021-06-19,15:00:00,06108,Halle,Markt / Ostseite,Kundgebung,https://vk.com/halle_leaks,Montagsdemo Halle,https://t.me/InSvensWelt
+3594,DE,2021-06-19,15:30:00,29525,Uelzen,Herzogenplatz,Kundgebung,,unbekannt,
 3544,DE,2021-06-19,16:00:00,18439,Stralsund,Hansawiese,Kundgebung,,unbekannt,
 3583,DE,2021-06-19,16:00:00,83043,Bad Aibling,Ausstellungshalle Viehhalle,Kundgebung,,Elterninitiative Gemeinsam stark,https://www.elterninitiative-gemeinsam-stark.de
 3574,DE,2021-06-20,11:00:00,21514,Siebeneichen,Dorfplatz,Musik,,unbekannt,
