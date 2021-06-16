@@ -122,6 +122,14 @@ h1, h2, h3, h4 {
 }
 
 .remove-all-styles {
-  all: initial;
+  all: unset;
 }
 
+.gsc-control-cse {
+  padding: 0em !important;
+  font-size: 1rem !important;
+}
+
+table.gsc-search-box td:first-of-type {
+  width: auto  !important;
+}

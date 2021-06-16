@@ -1,5 +1,5 @@
 ---
-date:          2011-06-10
+date:          2021-06-10
 redirect:      https://www.dieostschweiz.ch/artikel/schicksalstag-fuer-die-freiheit-NYowlAz
 title:         Die Ostschweiz
 subtitle:      'Schicksalstag für die Freiheit'

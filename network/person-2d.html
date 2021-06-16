@@ -48,6 +48,20 @@
           ctx.fillStyle = color;
           ctx.fillRect(node.x - size / 2, node.y - size / 2, size, size); // draw square as pointer trap
         })
+        .onNodeClick(node => {
+          // Center/zoom on node
+          Graph.centerAt(node.x, node.y, 1000);
+          Graph.zoom(8, 2000);
+        })
+        .onNodeDragEnd(node => {
+          node.fx = node.x;
+          node.fy = node.y;
+        })
+        .nodeLabel('title')
+        .nodeAutoColorBy('group')
+        .linkLabel('title')
+        .linkAutoColorBy('group')
+        .linkWidth(1)
         .graphData(data);
     });
   </script>
