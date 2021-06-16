@@ -4,6 +4,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3589,DE,2021-06-16,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 3578,DE,2021-06-16,18:00:00,80539,München,Wittelsbacher Platz,Aufzug,,München steht auf,
 3393,DE,2021-06-16,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander,
+3601,DE,2021-06-16,18:00:00,10115,Berlin,Bundeskanzleramt,Kundgebung,https://www.twitch.tv/MariaGoetz,AfD Brandenburg,https://www.facebook.com/MERKELMUSSWEGMITTWOCHAKTUELL/
+3605,DE,2021-06-16,18:00:00,10115,Berlin,Bundeskanzleramt,Kundgebung,https://youtube.com/user/cheeta030,AfD,
 3584,DE,2021-06-16,19:00:00,83022,Rosenheim,Schönfeldstr. 19 / Ichikawa-Platz,Mahnwache,,unbekannt,https://zukunftsrunde.de/tag/mahnwache-rosenheim/
 3579,DE,2021-06-17,17:30:00,72622,Nürtingen,Ochsenbrunnen,Kundgebung,,Querdenken 702,
 2844,DE,2021-06-17,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
@@ -12,6 +14,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3599,DE,2021-06-18,18:00:00,13089,Berlin,Am Feuchten Winkel 15 / P+R,Autokorso,,Autokorso Berlin,https://t.me/AutoKorsoBerlinInfo
 3596,DE,2021-06-18,18:00:00,72336,Balingen,Marktplatz,Kundgebung,,Corona Aufklärer Zollernalb/Rottweil,
 3591,DE,2021-06-18,19:00:00,90402,Nürnberg,Jakobsplatz,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
+3600,DE,2021-06-19,10:00:00,78628,Rottweil,Landratsamt,Menschenkette,,Friede und Freiheit,https://t.me/friede_und_freiheit/7375
 3558,DE,2021-06-19,10:00:00,10117,Berlin,Regierungsviertel umzingeln,Zusammenkunft,https://t.me/Berlin19Juni2021,Wir Menschen gemeinsam,http://es-reicht-2021.de/
 3541,DE,2021-06-19,11:00:00,18439,Stralsund,Mahnkesche Wiese,Autokorso,,Bürgerbewegung Stralsund,
 2823,DE,2021-06-19,12:00:00,34117,Kassel,Friedrichsplatz,Demonstration,,Freie Bürger Kassel. Corona Rebellen Kassel. Prayer of the Mothers Kassel.,
@@ -20,6 +23,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3542,DE,2021-06-19,13:00:00,18439,Stralsund,Hansawiese,Kundgebung,,Bürgerbewegung Stralsund,
 3543,DE,2021-06-19,13:30:00,18439,Stralsund,Langenstr. / Tribseer Str.,Aufzug,,Bürgerbewegung Stralsund,
 3587,DE,2021-06-19,14:00:00,68723,Schwetzingen,Bahnhofsanlage,Kundgebung,,Offene Gesellschaft Kurpfalz - Bilanz der SARS-CoV-2-Bekämpfung - Expertenrunde,http://offene-gesellschaft-kurpfalz.de/?p=208
+3604,DE,2021-06-19,14:00:00,56068,Koblenz,Jesuitenplatz,Mahnwache,,unbekannt,
+3602,DE,2021-06-19,14:30:00,30169,Hannover,Ritter-Brüning-Straße / Parking,Autokorso,,Autocorso Hannover,
 3592,DE,2021-06-19,15:00:00,90402,Nürnberg,Jakobsplatz,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 3595,DE,2021-06-19,15:00:00,48143,Münster,Aasee / Kugeln,Kundgebung,,Gemeinsam für Grundrechte,https://grundrechte-ms.de
 3566,DE,2021-06-19,15:00:00,06108,Halle,Markt / Ostseite,Kundgebung,https://vk.com/halle_leaks,Montagsdemo Halle,https://t.me/InSvensWelt
@@ -28,6 +33,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3544,DE,2021-06-19,16:00:00,18439,Stralsund,Hansawiese,Kundgebung,,unbekannt,
 3583,DE,2021-06-19,16:00:00,83043,Bad Aibling,Ausstellungshalle Viehhalle,Kundgebung,,Elterninitiative Gemeinsam stark,https://www.elterninitiative-gemeinsam-stark.de
 3574,DE,2021-06-20,11:00:00,21514,Siebeneichen,Dorfplatz,Musik,,unbekannt,
+3603,DE,2021-06-20,11:00:00,73655,Plüderhausen,Marktplatz,Musik,,Horn For Hope,
 3487,DE,2021-06-20,13:00:00,46485,Wesel,Niederrheinhalle,Demonstration,,unbekannt,
 3571,DE,2021-06-20,13:00:00,46485,Wesel,Niederrheinhalle,Demonstration,,Demo für unsere Freiheit und unsere Rechte,
 3559,AT,2021-06-20,14:00:00,5020,Salzburg,Kapitelplatz,Demonstration,,Salzburg wacht auf,
