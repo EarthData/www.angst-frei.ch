@@ -36,6 +36,28 @@
 
   <script type="module">
 
+  fetch('/json/network-person-data.json').then(res => res.json()).then(gData => {
+
+    gData.links.forEach(link => {
+      console.log(link.source);
+      console.log(link.target);
+      const a = gData.nodes[link.source];
+      const b = gData.nodes[link.target];
+      !a.neighbors && (a.neighbors = []);
+      !b.neighbors && (b.neighbors = []);
+      a.neighbors.push(b);
+      b.neighbors.push(a);
+
+      !a.links && (a.links = []);
+      !b.links && (b.links = []);
+      a.links.push(link);
+      b.links.push(link);
+    });
+
+    const highlightNodes = new Set();
+    const highlightLinks = new Set();
+    let hoverNode = null;
+
     const Graph = ForceGraph3D()
       (document.getElementById('3d-graph'))
       .nodeThreeObject(node => {
@@ -45,11 +67,42 @@
         sprite.scale.set(12, 12);
         return sprite;
       })
-      .jsonUrl('/json/network-person-data.json')
+      .graphData(gData)
       .nodeLabel('title')
       .nodeAutoColorBy('group')
       .linkLabel('title')
-      .linkWidth(1)
+      //.linkWidth(link => link.state == "current" ? 1 : 0.5)
+      .linkWidth(link => highlightLinks.has(link) ? 1 : 0.5)
+      .linkDirectionalParticles(link => highlightLinks.has(link) ? 2 : 0)
+      .linkDirectionalParticleWidth(1)
+      .onNodeHover(node => {
+        // no state change
+        if ((!node && !highlightNodes.size) || (node && hoverNode === node)) return;
+
+        highlightNodes.clear();
+        highlightLinks.clear();
+        if (node) {
+          highlightNodes.add(node);
+          node.neighbors.forEach(neighbor => highlightNodes.add(neighbor));
+          node.links.forEach(link => highlightLinks.add(link));
+        }
+
+        hoverNode = node || null;
+
+        updateHighlight();
+      })
+      .onLinkHover(link => {
+        highlightNodes.clear();
+        highlightLinks.clear();
+
+        if (link) {
+          highlightLinks.add(link);
+          highlightNodes.add(link.source);
+          highlightNodes.add(link.target);
+        }
+
+        updateHighlight();
+      })
       .linkOpacity(0.4)
       .linkAutoColorBy('group')
       .onNodeClick(node => {
@@ -102,6 +155,15 @@
       linkForce.distance(link => link.state == "current" ? settings.current : settings.passed);
       Graph.numDimensions(3); // Re-heat simulation
     }
+
+    function updateHighlight() {
+    // trigger update of highlighted objects in scene
+    Graph
+      .linkWidth(Graph.linkWidth())
+      .linkDirectionalParticles(Graph.linkDirectionalParticles());
+    }
+
+  });
 
   </script>
 <body>
