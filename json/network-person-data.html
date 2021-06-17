@@ -11,6 +11,7 @@ permalink: /json/network-person-data.json
       "id": "{{ node.id }}",
       "title": "{{ node.title }}",
       "image": "/assets/img/graph/{{ node.image }}",
+      "link":  "{{ node.link }}",
       "group": "{{ node.group }}"
     }
     {%unless forloop.last %},{%endunless%}
@@ -21,11 +22,15 @@ permalink: /json/network-person-data.json
     {
       "source": "{{ edge.source }}",
       "target": "{{ edge.target }}",
-      {%- if edge.title != "" -%}
-      "title": "{{ edge.title }}",
-      {%- else -%}
       "title": "{{ edge.group }}",
+      {%- if edge.current == "1" -%}
+      "opacity": 0.5,
+      "state": "current",
+      {%- else -%}
+      "opacity": 0.2,
+      "state": "passed",
       {%- endif -%}
+      "link":  "{{ edge.link }}",
       "group": "{{ edge.group }}"
     }
     {%unless forloop.last %},{%endunless%}

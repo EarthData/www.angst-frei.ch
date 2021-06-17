@@ -9,6 +9,7 @@
   <meta name="description" content="Beziehungen">
 
   <style> body { margin: 0; } </style>
+  <script src="//unpkg.com/dat.gui"></script>
   <script src="//unpkg.com/three"></script>
   <script src="//unpkg.com/3d-force-graph"></script>
 
@@ -52,6 +53,12 @@
       .linkOpacity(0.4)
       .linkAutoColorBy('group')
       .onNodeClick(node => {
+        if (node.link.length) {
+          window.open(node.link);
+          window.focus();
+        }
+      })
+      .onNodeRightClick(node => {
         // Aim at node from outside it
         const distance = 40;
         const distRatio = 1 + distance/Math.hypot(node.x, node.y, node.z);
@@ -60,13 +67,41 @@
           node, // lookAt ({ x, y, z })
           3000  // ms transition duration
         );
-        window.open("https://www.angst-frei.ch");
-        window.focus();
       })
       .onNodeDragEnd(node => {
         node.fx = node.x;
         node.fy = node.y;
         node.fz = node.z;
+      })
+      .onLinkClick(link => {
+        if (link.link.length) {
+          window.open(link.link);
+          window.focus();
+        }
       });
+
+    const linkForce = Graph
+      .d3Force('link')
+      .distance(link => link.state == "current" ? settings.current : settings.passed);
+
+    const Settings = function() {
+      this.current = 10;
+      this.passed = 20;
+    };
+
+    const settings = new Settings();
+    const gui = new dat.GUI();
+
+    const controllerOne = gui.add(settings, 'current', 0, 100);
+    const controllerTwo = gui.add(settings, 'passed', 0, 100);
+
+    controllerOne.onChange(updateLinkDistance);
+    controllerTwo.onChange(updateLinkDistance);
+
+    function updateLinkDistance() {
+      linkForce.distance(link => link.state == "current" ? settings.current : settings.passed);
+      Graph.numDimensions(3); // Re-heat simulation
+    }
+
   </script>
 <body>

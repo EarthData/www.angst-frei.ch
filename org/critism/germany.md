@@ -97,6 +97,12 @@ Anlaufstelle für Lehrer, Schüler und Eltern in "Corona"-Zeiten
 
 | {{ site.icons.globe }}       | [lehrer-fuer-aufklaerung.de](https://lehrer-fuer-aufklaerung.de/) |
 
+## Mind of Heart
+
+Wir brauchen erwachsene Nüchternheit, um das System zu durchschauen & kindliche Kreativität, um ein neues Prinzip zu kreieren.
+
+| {{ site.icons.globe }}       | [mindofheart.de](https://mindofheart.de) |
+
 ## Mutigmacher e.V.
 
 Mutigmacher möchte Menschen ermutigen, bisher unbekannte, aber für die Gesellschaft hoch relevante Informationen an die Öffentlichkeit zu bringen, auch wenn sie dadurch negative Konsequenzen zu erwarten haben.
