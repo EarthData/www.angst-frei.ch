@@ -39,8 +39,6 @@
   fetch('/json/network-person-data.json').then(res => res.json()).then(gData => {
 
     gData.links.forEach(link => {
-      console.log(link.source);
-      console.log(link.target);
       const a = gData.nodes[link.source];
       const b = gData.nodes[link.target];
       !a.neighbors && (a.neighbors = []);
