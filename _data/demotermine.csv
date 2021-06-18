@@ -24,6 +24,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3566,DE,2021-06-19,15:00:00,06108,Halle,Markt / Ostseite,Kundgebung,https://vk.com/halle_leaks,Montagsdemo Halle,https://t.me/InSvensWelt
 3594,DE,2021-06-19,15:30:00,29525,Uelzen,Herzogenplatz,Kundgebung,,unbekannt,
 3597,DE,2021-06-19,15:30:00,87600,Kaufbeuren,Obstmarkt / Fußgängerzone,Meditation,,unbekannt,
+3621,DE,2021-06-19,15:30:00,21073,Hamburg-Harburg,Museumsplatz 1 / am Brunnen,Meditation,,unbekannt,
 3544,DE,2021-06-19,16:00:00,18439,Stralsund,Hansawiese,Kundgebung,,unbekannt,
 3583,DE,2021-06-19,16:00:00,83043,Bad Aibling,Ausstellungshalle Viehhalle,Kundgebung,,Elterninitiative Gemeinsam stark,https://www.elterninitiative-gemeinsam-stark.de
 3610,DE,2021-06-20,10:00:00,02763,Zittau,B 96,Menschenkette,,unbekannt,
@@ -34,6 +35,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3559,AT,2021-06-20,14:00:00,5020,Salzburg,Kapitelplatz,Demonstration,,Salzburg wacht auf,
 3576,DE,2021-06-20,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
 2289,DE,2021-06-21,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
+3620,DE,2021-06-21,18:00:00,78462,Konstanz,Marktstätte,Mahnwache,,unbekannt,
 3311,DE,2021-06-21,18:00:00,06844,Dessau-Roßlau,Rathaus / Friedensglocke,Kundgebung,,Privat,https://t.me/MontagsMahnwache
 3609,DE,2021-06-21,18:30:00,02763,Zittau,Markt,Spaziergang,,Freunde von PEGIDA,
 3434,DE,2021-06-21,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,unbekannt,
@@ -48,6 +50,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2845,DE,2021-06-24,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 3531,DE,2021-06-24,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 3486,DE,2021-06-26,12:30:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,BI aufRECHT:FREIdenken,https://www.solidarnosch.de
+3622,DE,2021-06-26,13:15:00,22419,Hamburg,Oehlekerring,Autokorso,,Freiheitsfahrer Hamburg,
+3619,DE,2021-06-27,11:00:00,79215,Elzach,Schulhof,Mahnwache,,Corona und die Folgen!,
 3368,DE,2021-06-28,14:00:00,12101,Berlin,Platz der Luftbrücke 6,Kundgebung,,Alle aufs Maul hauen,
 2290,DE,2021-06-28,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 3312,DE,2021-06-28,18:00:00,06844,Dessau-Roßlau,Rathaus / Friedensglocke,Kundgebung,,Privat,https://t.me/MontagsMahnwache
@@ -57,6 +61,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3586,DE,2021-06-30,19:00:00,83022,Rosenheim,Schönfeldstr. 19 / Ichikawa-Platz,Mahnwache,,unbekannt,https://zukunftsrunde.de/tag/mahnwache-rosenheim/
 3569,DE,2021-07-03,03:00:00,63571,Gelnhausen,Müllerwiese,Kundgebung,,Querdenken-6051 + Allianz pro Grundgesetz,https://www.allianz-pro-grundgesetz.de
 3611,DE,2021-07-03,12:00:00,10117,Berlin,Platz des 18. März,Spaziergang,,Eric Graziany,
+3618,DE,2021-07-03,12:00:00,10117,Berlin,Platz des 18 März,Demonstration,,Eric Graziany,
 3068,DE,2021-07-03,15:00:00,44787,Bochum,Kirmesplatz,Demonstration,,Querdenken 234 - Bochum,https://querdenken-234.de
 3580,DE,2021-07-03,15:00:00,44791,Bochum,Kirmesplatz,Kundgebung,,Querdenken 234 Bochum |�Kraft der Rose,
 3419,DE,2021-07-05,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
