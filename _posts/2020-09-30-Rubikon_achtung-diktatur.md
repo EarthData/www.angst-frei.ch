@@ -5,7 +5,7 @@ title:         Rubikon
 subtitle:      'Achtung, Diktatur!'
 country:       DE
 categories:    [Politik]
-tags:          [wef, manipulation]
+tags:          [wef, id2020, manipulation]
 ---
 # Achtung, Diktatur!
 

@@ -7,5 +7,5 @@ description:   'Mails von Anthony Fauci zeigen, dass an der Aufklärung des Coro
 country:       US
 persons:       [Fauci Anthony]
 categories:    [Wissenschaft]
-tags:          [virus-urpsrung, wuhan, manipulation]
+tags:          [virus-ursprung, wuhan, manipulation]
 ---

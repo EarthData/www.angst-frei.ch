@@ -6,5 +6,5 @@ subtitle:      'Das Ei, Corona und ein paar Neuigkeiten zu Impfungen'
 description:   'Vor einem Jahr erschien ein bemerkenswerter Artikel im British Medical Journal. Ich habe darüber ausführlicher in meiner Kolumne im Karger Kompass …'
 country:       DE
 categories:    [Impfung, Wissenschaft]
-tags:          [asymptomatisch, impf-nebenwirkugen, massentest]
+tags:          [asymptomatisch, impf-nebenwirkungen, massentest]
 ---

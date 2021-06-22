@@ -4,8 +4,9 @@ redirect:      https://www.rubikon.news/artikel/der-betrug-mit-zahlen
 title:         Rubikon
 subtitle:      'Der Betrug mit Zahlen'
 country:       DE
+persons:       [Yeadon Michael]
 categories:    [Zahlen]
-tags:          [pcr-test]
+tags:          [pcr-test, welle2]
 ---
 # Der Betrug mit Zahlen
 

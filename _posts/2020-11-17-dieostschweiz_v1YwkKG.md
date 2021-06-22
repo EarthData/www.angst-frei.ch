@@ -6,5 +6,5 @@ subtitle:      'Den Teufel mit dem Beelzebub austreiben?'
 description:   'Ein theologisch-ethischer Kommentar zur zunehmenden Forderung autoritärer Mittel der Corona-Bekämpfung. Ein Gastbeitrag von Benjamin Kilchör, ordentlicher Professor für Altes Testament.'
 country:       CH
 categories:    [MSM, Mensch]
-tags:          [willkür, china]
+tags:          [willkür]
 ---

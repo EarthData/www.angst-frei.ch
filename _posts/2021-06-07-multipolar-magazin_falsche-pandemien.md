@@ -6,6 +6,6 @@ subtitle:      'Falsche Pandemien'
 description:   'Ein Auszug aus dem neuen Buch von Wolfgang Wodarg'
 country:       DE
 persons:       [Wodarg Wolfgang]
-categories:    [P/l)andemie]
+categories:    [P(l)andemie]
 tags:          [manipulation]
 ---

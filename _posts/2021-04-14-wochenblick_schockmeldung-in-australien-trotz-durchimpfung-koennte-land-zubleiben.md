@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/schockmeldung-in-australien-trotz-durc
 title:         Wochenblick
 subtitle:      'Schockmeldung in Australien: Trotz Durchimpfung könnte Land zubleiben'
 description:   'Auch wenn die Australier durchgeimpft sind, könnten die Landesgrenzen weiterhin geschlossen bleiben, gab Gesundheitsminister Greg Hunt zu.'
-country:       AT
+country:       AU
 categories:    [Impfung]
-tags:          [massnahmen, australien]
+tags:          [massnahmen]
 ---
