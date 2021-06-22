@@ -9,11 +9,14 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3462,DE,2021-06-23,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de
 3394,DE,2021-06-23,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander,
 3585,DE,2021-06-23,19:00:00,83022,Rosenheim,Schönfeldstr. 19 / Ichikawa-Platz,Mahnwache,,unbekannt,https://zukunftsrunde.de/tag/mahnwache-rosenheim/
+3659,DE,2021-06-24,16:30:00,80539,München,Odeonsplatz 3,Kundgebung,,Volksbegehren Landtag abberufen,https://buendnis-landtag-abberufen.de/
 2845,DE,2021-06-24,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 3643,DE,2021-06-24,18:00:00,42579,Heiligenhaus,Rathausplatz,Spaziergang,,Coronakritik_Velbert Heiligenhaus,
 3531,DE,2021-06-24,18:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf,https://www.hanau-steht-auf.de
 3640,DE,2021-06-24,19:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
+3656,DE,2021-06-25,17:00:00,84066,Mallersdorf-Pfaffenberg,Haus der Generationen,Kundgebung,,#ichmachdanichtmit und Miteinander statt gegeneinander,
 3653,DE,2021-06-25,18:00:00,70173,Stuttgart,Königstr. 78 / Jack Wolfskin,Kundgebung,,Privatpersonen,
+3657,DE,2021-06-25,18:00:00,12619,Berlin,Parkplatz bei Gärten der Welt,Autokorso,,Autokorso Berlin,
 3641,DE,2021-06-25,19:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 3637,DE,2021-06-26,11:00:00,11011,Berlin,Platz der Republik / Reichstag,Kundgebung,,Staatendoof,
 3486,DE,2021-06-26,12:30:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,BI aufRECHT:FREIdenken,https://www.solidarnosch.de
@@ -41,6 +44,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3419,DE,2021-07-05,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 3313,DE,2021-07-05,18:00:00,06844,Dessau-Roßlau,Rathaus / Friedensglocke,Kundgebung,,Privat,https://t.me/MontagsMahnwache
 3647,DE,2021-07-05,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Der Souverän,
+3658,DE,2021-07-09,17:00:00,84066,Mallersdorf-Pfaffenberg,Haus der Generationen,Kundgebung,,#ichmachdanichtmit und Miteinander statt gegeneinander,
+3655,DE,2021-07-10,17:00:00,80802,München,Münchner Freiheit,Kundgebung,,Freiheitsversammlung München,http://freiheitsversammlung-muenchen.de/
 3420,DE,2021-07-12,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 3648,DE,2021-07-12,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Der Souverän,
 2942,DE,2021-07-17,12:00:00,17207,Röbel Müritz,ZOB,Spaziergang,,Freie Kräfte MV,
