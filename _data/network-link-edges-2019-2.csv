@@ -1,0 +1,50 @@
+from,to,title,group,value
+2,1,The Pirbright Institute,Impfung,2
+4,3,National Institute of Allergy and Infectious Diseases,P(l)andemie,2
+2,3,National Institute of Allergy and Infectious Diseases,Impfung,2
+5,3,National Institute of Allergy and Infectious Diseases,niaid,1
+6,3,National Institute of Allergy and Infectious Diseases,moderna,1
+8,7,Journal of Virology,Wissenschaft,2
+2,7,Journal of Virology,Impfung,2
+4,9,Netflix,P(l)andemie,2
+8,10,Taiwan Centers for Disease Control,Wissenschaft,2
+11,10,Taiwan Centers for Disease Control,who,1
+12,10,Taiwan Centers for Disease Control,wuhan,1
+4,13,Die Bundesregierung,P(l)andemie,2
+12,13,Die Bundesregierung,wuhan,1
+15,14,Johns Hopkins Center for Health Security,Gesundheit,2
+16,14,Johns Hopkins Center for Health Security,jhchs,1
+17,14,Johns Hopkins Center for Health Security,event 201,1
+2,18,BioNTech,Impfung,2
+19,18,BioNTech,biontech,1
+20,18,BioNTech,geld,1
+8,21,Vincent Racaniello - TWiV 615,Wissenschaft,2
+12,21,Vincent Racaniello - TWiV 615,wuhan,1
+22,21,Vincent Racaniello - TWiV 615,virus-ursprung,1
+8,23,Ereignis,Wissenschaft,2
+24,23,Ereignis,pcr-test,1
+4,25,Event,P(l)andemie,2
+12,25,Event,wuhan,1
+4,26,World Health Organization,P(l)andemie,2
+11,26,World Health Organization,who,1
+12,26,World Health Organization,wuhan,1
+2,27,BioNTech,Impfung,2
+19,27,BioNTech,biontech,1
+20,27,BioNTech,geld,1
+29,28,In$ide Paradeplatz,Wirtschaft,2
+20,28,In$ide Paradeplatz,geld,1
+4,30,Global Preparedness Monitoring Board,P(l)andemie,2
+11,30,Global Preparedness Monitoring Board,who,1
+2,31,BioNTech,Impfung,2
+19,31,BioNTech,biontech,1
+20,31,BioNTech,geld,1
+8,32,The Pirbright Institute,Wissenschaft,2
+20,32,The Pirbright Institute,geld,1
+4,33,Ereignis,P(l)andemie,2
+20,33,Ereignis,geld,1
+15,34,The Johns Hopkins Center for Health Security,Gesundheit,2
+16,34,The Johns Hopkins Center for Health Security,jhchs,1
+17,34,The Johns Hopkins Center for Health Security,event 201,1
+4,35,Ereignis,P(l)andemie,2
+12,35,Ereignis,wuhan,1
+11,35,Ereignis,who,1

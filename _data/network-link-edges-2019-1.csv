@@ -1,0 +1,11 @@
+from,to,title,group,value
+2,1,Ereignis,P(l)andemie,2
+3,1,Ereignis,kultur,1
+5,4,CDU/CSU,Politik,2
+6,4,CDU/CSU,Gesundheit,2
+7,4,CDU/CSU,who,1
+2,8,Ereignis,P(l)andemie,2
+3,8,Ereignis,kultur,1
+2,9,World Economic Forum,P(l)andemie,2
+10,9,World Economic Forum,wef,1
+11,9,World Economic Forum,agenda2030,1

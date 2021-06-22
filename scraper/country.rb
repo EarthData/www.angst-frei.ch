@@ -37,10 +37,12 @@ files.each do |filename|
 
   parameters.each do |parameter|
     if parameter == 'country'
+      puts new_file[parameter]
       if !new_file[parameter].kind_of?(Array)
         puts "Changing country to array"
-        new_file[parameter] = [new_file[parameter]]
+        new_file[parameter] = [new_file[parameter].to_s].to_s.gsub('"', '')
       end
+      puts new_file[parameter]
     elsif parameter == 'content'
       new_file[parameter] = file_data
     end

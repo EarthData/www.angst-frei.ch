@@ -1,0 +1,220 @@
+from,to,title,group,value
+2,1,Achgut.com,Studie,2
+3,1,Achgut.com,Wissenschaft,2
+4,1,Achgut.com,bundesrat,1
+5,1,Achgut.com,lockdown,1
+6,1,Achgut.com,massnahmen,1
+8,7,ArcGIS,Zahlen,2
+9,7,ArcGIS,jhchs,1
+11,10,Deutsches Ärzteblatt,Medizin,2
+5,10,Deutsches Ärzteblatt,lockdown,1
+13,12,Telepolis,Politik,2
+14,12,Telepolis,immunität,1
+16,15,World Economic Forum,P(l)andemie,2
+17,15,World Economic Forum,wef,1
+16,18,World Health Organization,P(l)andemie,2
+19,18,World Health Organization,who,1
+11,20,linth24,Medizin,2
+21,20,linth24,angst,1
+23,22,Focus Online,Mensch,2
+6,22,Focus Online,massnahmen,1
+24,22,Focus Online,kollateralschäden,1
+3,25,Rubikon,Wissenschaft,2
+26,25,Rubikon,pcr-test,1
+8,27,World Health Organization,Zahlen,2
+19,27,World Health Organization,who,1
+29,28,Tagesanzeiger,Behörde,2
+30,28,Tagesanzeiger,wuhan,1
+31,28,Tagesanzeiger,virus-ursprung,1
+8,32,World Health Organization,Zahlen,2
+19,32,World Health Organization,who,1
+30,33,SRF,wuhan,1
+8,34,World Health Organization,Zahlen,2
+19,34,World Health Organization,who,1
+13,35,Das Schweizer Parlament,Politik,2
+36,35,Das Schweizer Parlament,Recht,2
+37,35,Das Schweizer Parlament,parlament,1
+4,35,Das Schweizer Parlament,bundesrat,1
+6,35,Das Schweizer Parlament,massnahmen,1
+38,35,Das Schweizer Parlament,curia vista,1
+8,39,World Health Organization,Zahlen,2
+19,39,World Health Organization,who,1
+16,40,The New York Times,P(l)andemie,2
+30,40,The New York Times,wuhan,1
+3,41,ZE!TPUNKT,Wissenschaft,2
+42,41,ZE!TPUNKT,Impfung,2
+43,41,ZE!TPUNKT,geld,1
+3,44,The Lancet,Wissenschaft,2
+45,44,The Lancet,the lancet,1
+13,46,NZZ,Politik,2
+47,46,NZZ,demokratie,1
+16,48,World Health Organization,P(l)andemie,2
+19,48,World Health Organization,who,1
+50,49,BAG,BAG,2
+5,49,BAG,lockdown,1
+4,49,BAG,bundesrat,1
+3,51,Deutsches Zentrum für Infektionsforschung,Wissenschaft,2
+26,51,Deutsches Zentrum für Infektionsforschung,pcr-test,1
+8,52,Beobachter,Zahlen,2
+53,52,Beobachter,sterblichkeit,1
+26,52,Beobachter,pcr-test,1
+3,54,World Health Organization,Wissenschaft,2
+19,54,World Health Organization,who,1
+30,54,World Health Organization,wuhan,1
+8,55,World Health Organization,Zahlen,2
+19,55,World Health Organization,who,1
+57,56,Ktipp,Gesundheit,2
+58,56,Ktipp,maske,1
+8,59,World Health Organization,Zahlen,2
+19,59,World Health Organization,who,1
+23,60,NZZ,Mensch,2
+61,60,NZZ,dialog,1
+47,60,NZZ,demokratie,1
+8,62,INFOsperber,Zahlen,2
+63,62,INFOsperber,manipulation,1
+3,64,Monitor,Wissenschaft,2
+65,64,Monitor,beatmung,1
+3,66,Rubikon,Wissenschaft,2
+43,66,Rubikon,geld,1
+63,66,Rubikon,manipulation,1
+42,67,BioNTech,Impfung,2
+68,67,BioNTech,biontech,1
+16,69,Global Research Collaboration for Infectious Disease Preparedness,P(l)andemie,2
+16,70,Bill & Melinda Gates Foundation,P(l)andemie,2
+43,70,Bill & Melinda Gates Foundation,geld,1
+30,71,The Washington Times,wuhan,1
+31,71,The Washington Times,virus-ursprung,1
+3,72,The Lancet,Wissenschaft,2
+31,72,The Lancet,virus-ursprung,1
+30,72,The Lancet,wuhan,1
+3,73,ScienceFiles,Wissenschaft,2
+31,73,ScienceFiles,virus-ursprung,1
+36,74,In$ide Paradeplatz,Recht,2
+13,74,In$ide Paradeplatz,Politik,2
+4,74,In$ide Paradeplatz,bundesrat,1
+42,75,BioNTech,Impfung,2
+68,75,BioNTech,biontech,1
+3,76,SWR,Wissenschaft,2
+6,76,SWR,massnahmen,1
+13,77,Corona Transition,Politik,2
+36,77,Corona Transition,Recht,2
+78,77,Corona Transition,Widerstand,2
+4,77,Corona Transition,bundesrat,1
+79,77,Corona Transition,grundrechte,1
+29,80,Aargauer Zeitung,Behörde,2
+31,80,Aargauer Zeitung,virus-ursprung,1
+30,80,Aargauer Zeitung,wuhan,1
+3,81,New England Journal of Medicine,Wissenschaft,2
+82,81,New England Journal of Medicine,asymptomatisch,1
+3,83,World Health Organization,Wissenschaft,2
+19,83,World Health Organization,who,1
+26,83,World Health Organization,pcr-test,1
+57,84,Johns Hopkins Center for Health Security,Gesundheit,2
+9,84,Johns Hopkins Center for Health Security,jhchs,1
+85,84,Johns Hopkins Center for Health Security,event 201,1
+13,86,Tagesanzeiger,Politik,2
+17,86,Tagesanzeiger,wef,1
+4,86,Tagesanzeiger,bundesrat,1
+5,87,The New York Times,lockdown,1
+30,87,The New York Times,wuhan,1
+13,88,Corona Transition,Politik,2
+89,88,Corona Transition,Schule,2
+90,88,Corona Transition,kind,1
+58,88,Corona Transition,maske,1
+92,91,SRF,Spital,2
+93,91,SRF,Wirtschaft,2
+8,94,INFOsperber,Zahlen,2
+50,94,INFOsperber,BAG,2
+63,94,INFOsperber,manipulation,1
+8,95,World Health Organization,Zahlen,2
+19,95,World Health Organization,who,1
+13,96,Swissmedic,Politik,2
+97,96,Swissmedic,swissmedic,1
+43,96,Swissmedic,geld,1
+50,98,BAG,BAG,2
+42,98,BAG,Impfung,2
+4,98,BAG,bundesrat,1
+99,98,BAG,gavi,1
+3,100,Eurosurveillance,Wissenschaft,2
+26,100,Eurosurveillance,pcr-test,1
+16,101,World Health Organization,P(l)andemie,2
+19,101,World Health Organization,who,1
+16,102,World Health Organization,P(l)andemie,2
+19,102,World Health Organization,who,1
+3,103,Virological,Wissenschaft,2
+30,103,Virological,wuhan,1
+16,104,Event,P(l)andemie,2
+19,104,Event,who,1
+11,105,Die Welt,Medizin,2
+65,105,Die Welt,beatmung,1
+3,106,medinside.ch,Wissenschaft,2
+13,106,medinside.ch,Politik,2
+107,106,medinside.ch,taskforce,1
+11,108,Tagesanzeiger,Medizin,2
+31,108,Tagesanzeiger,virus-ursprung,1
+13,109,Swissmedic,Politik,2
+97,109,Swissmedic,swissmedic,1
+43,109,Swissmedic,geld,1
+16,110,Pontifical Academy for Life,P(l)andemie,2
+16,111,World Health Organization,P(l)andemie,2
+19,111,World Health Organization,who,1
+30,112,SRF,wuhan,1
+57,113,RT DE,Gesundheit,2
+63,113,RT DE,manipulation,1
+43,113,RT DE,geld,1
+99,113,RT DE,gavi,1
+16,114,Rubikon,P(l)andemie,2
+85,114,Rubikon,event 201,1
+42,115,The Pirbright Institute,Impfung,2
+3,115,The Pirbright Institute,Wissenschaft,2
+2,116,Nature Medicine,Studie,2
+3,116,Nature Medicine,Wissenschaft,2
+117,116,Nature Medicine,nature,1
+31,116,Nature Medicine,virus-ursprung,1
+16,118,Event,P(l)andemie,2
+26,118,Event,pcr-test,1
+16,119,World Health Organization,P(l)andemie,2
+19,119,World Health Organization,who,1
+57,120,Johns Hopkins Center for Health Security,Gesundheit,2
+9,120,Johns Hopkins Center for Health Security,jhchs,1
+85,120,Johns Hopkins Center for Health Security,event 201,1
+42,121,Corona Transition,Impfung,2
+8,121,Corona Transition,Zahlen,2
+122,121,Corona Transition,impf-nebenwirkungen,1
+123,121,Corona Transition,mit oder an impfung gestorben,1
+3,124,Eurosurveillance,Wissenschaft,2
+26,124,Eurosurveillance,pcr-test,1
+2,125,ScienceFiles,Studie,2
+3,125,ScienceFiles,Wissenschaft,2
+31,125,ScienceFiles,virus-ursprung,1
+57,126,Tagesanzeiger,Gesundheit,2
+3,126,Tagesanzeiger,Wissenschaft,2
+30,126,Tagesanzeiger,wuhan,1
+3,127,New England Journal of Medicine,Wissenschaft,2
+45,127,New England Journal of Medicine,the lancet,1
+50,128,BAG,BAG,2
+4,128,BAG,bundesrat,1
+26,128,BAG,pcr-test,1
+16,129,NachDenkSeiten,P(l)andemie,2
+9,129,NachDenkSeiten,jhchs,1
+85,129,NachDenkSeiten,event 201,1
+63,130,INFOsperber,manipulation,1
+131,130,INFOsperber,zensur,1
+43,130,INFOsperber,geld,1
+8,132,World Health Organization,Zahlen,2
+19,132,World Health Organization,who,1
+3,133,The Australian,Wissenschaft,2
+42,133,The Australian,Impfung,2
+42,134,Bill & Melinda Gates Foundation,Impfung,2
+43,134,Bill & Melinda Gates Foundation,geld,1
+8,135,World Health Organization,Zahlen,2
+19,135,World Health Organization,who,1
+42,136,Berliner Zeitung,Impfung,2
+3,136,Berliner Zeitung,Wissenschaft,2
+137,136,Berliner Zeitung,impfplan,1
+8,138,World Health Organization,Zahlen,2
+19,138,World Health Organization,who,1
+57,139,Nau,Gesundheit,2
+140,139,Nau,uno,1
+141,139,Nau,menschenrechte,1
+6,139,Nau,massnahmen,1

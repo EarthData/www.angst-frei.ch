@@ -1,0 +1,1404 @@
+from,to,title,group,value
+2,1,Wochenblick,Politik,2
+3,1,Wochenblick,lockdown2,1
+4,1,Wochenblick,willkür,1
+5,1,Wochenblick,niederlande,1
+7,6,Naturstoff Medizin,Medizin,2
+8,6,Naturstoff Medizin,Widerstand,2
+9,6,Naturstoff Medizin,zensur,1
+10,6,Naturstoff Medizin,kollateralschäden,1
+11,6,Naturstoff Medizin,massnahmen,1
+13,12,Die Ostschweiz,Gesundheit,2
+14,12,Die Ostschweiz,Mensch,2
+15,12,Die Ostschweiz,dialog,1
+17,16,Wochenblick,Wissenschaft,2
+18,16,Wochenblick,pcr-test,1
+19,16,Wochenblick,infektion,1
+17,20,Hessisches Ärzteblatt,Wissenschaft,2
+21,20,Hessisches Ärzteblatt,Impfung,2
+2,22,meinbezirk.at,Politik,2
+17,22,meinbezirk.at,Wissenschaft,2
+23,22,meinbezirk.at,lockdown,1
+24,22,meinbezirk.at,covidiot,1
+26,25,RT DE,Zahlen,2
+27,25,RT DE,sterblichkeit,1
+7,28,reitschuster,Medizin,2
+29,28,reitschuster,kind,1
+30,28,reitschuster,maske,1
+14,31,Die Welt,Mensch,2
+8,31,Die Welt,Widerstand,2
+3,31,Die Welt,lockdown2,1
+13,32,Ktipp,Gesundheit,2
+30,32,Ktipp,maske,1
+26,33,INFOsperber,Zahlen,2
+34,33,INFOsperber,manipulation,1
+2,35,In$ide Paradeplatz,Politik,2
+36,35,In$ide Paradeplatz,bundesrat,1
+37,35,In$ide Paradeplatz,welle2,1
+21,38,Telepolis,Impfung,2
+39,38,Telepolis,impf-nebenwirkungen,1
+40,38,Telepolis,spike-protein,1
+21,41,Youtube,Impfung,2
+14,42,Telepolis,Mensch,2
+23,42,Telepolis,lockdown,1
+10,42,Telepolis,kollateralschäden,1
+21,43,In$ide Paradeplatz,Impfung,2
+44,43,In$ide Paradeplatz,Recht,2
+36,43,In$ide Paradeplatz,bundesrat,1
+45,43,In$ide Paradeplatz,impfzwang,1
+46,43,In$ide Paradeplatz,covid-19-gesetz,1
+48,47,INFOsperber,Spital,2
+49,47,INFOsperber,angst,1
+2,50,NZZ,Politik,2
+51,50,NZZ,quarantäne,1
+36,50,NZZ,bundesrat,1
+34,50,NZZ,manipulation,1
+26,52,Die Ostschweiz,Zahlen,2
+18,52,Die Ostschweiz,pcr-test,1
+11,53,linth24,massnahmen,1
+54,53,linth24,taskforce,1
+17,55,Deutsche Apotheker Zeitung,Wissenschaft,2
+30,55,Deutsche Apotheker Zeitung,maske,1
+2,56,linth24,Politik,2
+36,56,linth24,bundesrat,1
+11,56,linth24,massnahmen,1
+21,57,Schweizer Ärztezeitung,Impfung,2
+2,58,substack.com,Politik,2
+59,58,substack.com,wef,1
+34,58,substack.com,manipulation,1
+2,60,Weltwoche daily,Politik,2
+11,60,Weltwoche daily,massnahmen,1
+4,60,Weltwoche daily,willkür,1
+34,60,Weltwoche daily,manipulation,1
+62,61,Focus Online,Schule,2
+29,61,Focus Online,kind,1
+8,63,substack.com,Widerstand,2
+59,63,substack.com,wef,1
+11,63,substack.com,massnahmen,1
+21,64,Telepolis,Impfung,2
+26,64,Telepolis,Zahlen,2
+18,64,Telepolis,pcr-test,1
+66,65,Demokratischer Widerstand,P(l)andemie,2
+67,65,Demokratischer Widerstand,great reset,1
+59,65,Demokratischer Widerstand,wef,1
+68,65,Demokratischer Widerstand,who,1
+21,69,reitschuster,Impfung,2
+68,69,reitschuster,who,1
+70,69,reitschuster,immunität,1
+26,71,Telepolis,Zahlen,2
+3,71,Telepolis,lockdown2,1
+14,72,Die Welt,Mensch,2
+11,72,Die Welt,massnahmen,1
+10,72,Die Welt,kollateralschäden,1
+2,73,Die Ostschweiz,Politik,2
+11,73,Die Ostschweiz,massnahmen,1
+34,73,Die Ostschweiz,manipulation,1
+21,74,Tagesanzeiger,Impfung,2
+8,74,Tagesanzeiger,Widerstand,2
+37,74,Tagesanzeiger,welle2,1
+44,75,Die Ostschweiz,Recht,2
+36,75,Die Ostschweiz,bundesrat,1
+46,75,Die Ostschweiz,covid-19-gesetz,1
+26,76,Die Ostschweiz,Zahlen,2
+3,76,Die Ostschweiz,lockdown2,1
+2,77,ZE!TPUNKT,Politik,2
+44,77,ZE!TPUNKT,Recht,2
+11,77,ZE!TPUNKT,massnahmen,1
+37,78,ARD,welle2,1
+7,79,EbM Netzwerk,Medizin,2
+21,79,EbM Netzwerk,Impfung,2
+18,79,EbM Netzwerk,pcr-test,1
+80,79,EbM Netzwerk,evidenz,1
+2,81,reitschuster,Politik,2
+82,81,reitschuster,Wirtschaft,2
+83,81,reitschuster,rki,1
+18,81,reitschuster,pcr-test,1
+34,81,reitschuster,manipulation,1
+48,84,NZZ,Spital,2
+26,84,NZZ,Zahlen,2
+19,84,NZZ,infektion,1
+44,85,Langemann Medien,Recht,2
+86,85,Langemann Medien,geld,1
+7,87,Wochenblick,Medizin,2
+21,87,Wochenblick,Impfung,2
+39,87,Wochenblick,impf-nebenwirkungen,1
+7,88,ZE!TPUNKT,Medizin,2
+30,88,ZE!TPUNKT,maske,1
+90,89,ScienceFiles,Studie,2
+91,89,ScienceFiles,nature,1
+92,89,ScienceFiles,asymptomatisch,1
+19,89,ScienceFiles,infektion,1
+3,93,Die Welt,lockdown2,1
+68,93,Die Welt,who,1
+90,94,RT DE,Studie,2
+30,94,RT DE,maske,1
+7,95,SRF,Medizin,2
+30,95,SRF,maske,1
+7,96,Deutsches Ärzteblatt,Medizin,2
+29,96,Deutsches Ärzteblatt,kind,1
+70,96,Deutsches Ärzteblatt,immunität,1
+8,97,Epoch Times,Widerstand,2
+7,97,Epoch Times,Medizin,2
+11,97,Epoch Times,massnahmen,1
+8,98,Rubikon,Widerstand,2
+44,98,Rubikon,Recht,2
+99,98,Rubikon,grundrechte,1
+21,100,NachDenkSeiten,Impfung,2
+39,100,NachDenkSeiten,impf-nebenwirkungen,1
+86,100,NachDenkSeiten,geld,1
+26,101,Berliner Zeitung,Zahlen,2
+68,101,Berliner Zeitung,who,1
+27,101,Berliner Zeitung,sterblichkeit,1
+21,102,Wochenblick,Impfung,2
+14,102,Wochenblick,Mensch,2
+44,103,substack.com,Recht,2
+2,103,substack.com,Politik,2
+9,103,substack.com,zensur,1
+15,103,substack.com,dialog,1
+66,104,Corona Transition,P(l)andemie,2
+9,104,Corona Transition,zensur,1
+34,104,Corona Transition,manipulation,1
+90,105,tp - Science & Technology,Studie,2
+21,105,tp - Science & Technology,Impfung,2
+70,105,tp - Science & Technology,immunität,1
+19,105,tp - Science & Technology,infektion,1
+90,106,RT DE,Studie,2
+17,106,RT DE,Wissenschaft,2
+18,106,RT DE,pcr-test,1
+17,107,2020 News,Wissenschaft,2
+26,107,2020 News,Zahlen,2
+11,107,2020 News,massnahmen,1
+51,107,2020 News,quarantäne,1
+14,108,Die Ostschweiz,Mensch,2
+44,109,Langemann Medien,Recht,2
+86,109,Langemann Medien,geld,1
+44,110,Honk for Hope,Recht,2
+23,110,Honk for Hope,lockdown,1
+66,111,substack.com,P(l)andemie,2
+34,111,substack.com,manipulation,1
+2,112,Rubikon,Politik,2
+44,112,Rubikon,Recht,2
+11,112,Rubikon,massnahmen,1
+113,112,Rubikon,demokratie,1
+26,114,Die Ostschweiz,Zahlen,2
+48,114,Die Ostschweiz,Spital,2
+54,114,Die Ostschweiz,taskforce,1
+11,114,Die Ostschweiz,massnahmen,1
+7,115,Focus Online,Medizin,2
+49,115,Focus Online,angst,1
+26,116,INFOsperber,Zahlen,2
+117,116,INFOsperber,r-wert,1
+8,118,SRF,Widerstand,2
+21,118,SRF,Impfung,2
+14,119,Epoch Times,Mensch,2
+8,119,Epoch Times,Widerstand,2
+30,119,Epoch Times,maske,1
+82,120,medinside.ch,Wirtschaft,2
+18,120,medinside.ch,pcr-test,1
+86,120,medinside.ch,geld,1
+14,121,Rubikon,Mensch,2
+59,121,Rubikon,wef,1
+67,121,Rubikon,great reset,1
+17,122,Achgut.com,Wissenschaft,2
+123,122,Achgut.com,leopoldina,1
+113,122,Achgut.com,demokratie,1
+26,124,Weltwoche,Zahlen,2
+34,124,Weltwoche,manipulation,1
+17,125,PubMed,Wissenschaft,2
+21,125,PubMed,Impfung,2
+39,125,PubMed,impf-nebenwirkungen,1
+21,126,ZDF,Impfung,2
+39,126,ZDF,impf-nebenwirkungen,1
+2,127,NachDenkSeiten,Politik,2
+90,127,NachDenkSeiten,Studie,2
+11,127,NachDenkSeiten,massnahmen,1
+10,127,NachDenkSeiten,kollateralschäden,1
+7,128,Jouwatch,Medizin,2
+8,128,Jouwatch,Widerstand,2
+27,128,Jouwatch,sterblichkeit,1
+11,128,Jouwatch,massnahmen,1
+49,128,Jouwatch,angst,1
+17,129,berthub.eu,Wissenschaft,2
+21,129,berthub.eu,Impfung,2
+130,129,berthub.eu,biontech,1
+17,131,Pharmazeutische Zeitung,Wissenschaft,2
+21,131,Pharmazeutische Zeitung,Impfung,2
+130,131,Pharmazeutische Zeitung,biontech,1
+14,132,Rubikon,Mensch,2
+8,132,Rubikon,Widerstand,2
+49,132,Rubikon,angst,1
+49,133,tagesschau.de,angst,1
+34,133,tagesschau.de,manipulation,1
+17,134,Hessisches Ärzteblatt,Wissenschaft,2
+26,134,Hessisches Ärzteblatt,Zahlen,2
+49,134,Hessisches Ärzteblatt,angst,1
+2,135,medinside.ch,Politik,2
+8,135,medinside.ch,Widerstand,2
+11,135,medinside.ch,massnahmen,1
+36,135,medinside.ch,bundesrat,1
+54,135,medinside.ch,taskforce,1
+17,136,Tagesanzeiger,Wissenschaft,2
+30,136,Tagesanzeiger,maske,1
+68,136,Tagesanzeiger,who,1
+17,137,RT DE,Wissenschaft,2
+37,137,RT DE,welle2,1
+18,137,RT DE,pcr-test,1
+34,137,RT DE,manipulation,1
+26,138,SRF,Zahlen,2
+27,138,SRF,sterblichkeit,1
+140,139,Weltwoche,BAG,2
+54,139,Weltwoche,taskforce,1
+11,139,Weltwoche,massnahmen,1
+17,141,WHO,Wissenschaft,2
+68,141,WHO,who,1
+70,141,WHO,immunität,1
+21,142,2020 News,Impfung,2
+39,142,2020 News,impf-nebenwirkungen,1
+17,143,Nordkurier,Wissenschaft,2
+18,143,Nordkurier,pcr-test,1
+83,143,Nordkurier,rki,1
+8,144,NachDenkSeiten,Widerstand,2
+11,144,NachDenkSeiten,massnahmen,1
+17,145,2020 News,Wissenschaft,2
+68,145,2020 News,who,1
+70,145,2020 News,immunität,1
+29,146,NachDenkSeiten,kind,1
+34,146,NachDenkSeiten,manipulation,1
+13,147,SRF,Gesundheit,2
+30,147,SRF,maske,1
+26,148,Die Welt,Zahlen,2
+27,148,Die Welt,sterblichkeit,1
+8,149,World Freedom Alliance,Widerstand,2
+44,149,World Freedom Alliance,Recht,2
+14,150,SRF,Mensch,2
+30,150,SRF,maske,1
+29,150,SRF,kind,1
+10,150,SRF,kollateralschäden,1
+8,151,multipolar,Widerstand,2
+30,151,multipolar,maske,1
+26,152,Telepolis,Zahlen,2
+49,152,Telepolis,angst,1
+26,153,INFOsperber,Zahlen,2
+37,153,INFOsperber,welle2,1
+34,153,INFOsperber,manipulation,1
+26,154,Rubikon,Zahlen,2
+21,154,Rubikon,Impfung,2
+18,154,Rubikon,pcr-test,1
+27,154,Rubikon,sterblichkeit,1
+8,155,Berliner Zeitung,Widerstand,2
+7,155,Berliner Zeitung,Medizin,2
+4,155,Berliner Zeitung,willkür,1
+7,156,Unzensuriert,Medizin,2
+44,156,Unzensuriert,Recht,2
+8,156,Unzensuriert,Widerstand,2
+4,156,Unzensuriert,willkür,1
+44,157,Youtube,Recht,2
+82,157,Youtube,Wirtschaft,2
+86,157,Youtube,geld,1
+8,158,linth24,Widerstand,2
+14,158,linth24,Mensch,2
+11,158,linth24,massnahmen,1
+11,159,NachDenkSeiten,massnahmen,1
+113,159,NachDenkSeiten,demokratie,1
+26,160,Telepolis,Zahlen,2
+34,160,Telepolis,manipulation,1
+2,161,Rubikon,Politik,2
+30,161,Rubikon,maske,1
+29,161,Rubikon,kind,1
+2,162,reitschuster,Politik,2
+18,162,reitschuster,pcr-test,1
+21,163,Wochenblick,Impfung,2
+164,163,Wochenblick,mit oder an impfung gestorben,1
+39,163,Wochenblick,impf-nebenwirkungen,1
+130,163,Wochenblick,biontech,1
+48,165,linth24,Spital,2
+26,165,linth24,Zahlen,2
+37,165,linth24,welle2,1
+7,166,Vimeo,Medizin,2
+30,166,Vimeo,maske,1
+18,166,Vimeo,pcr-test,1
+11,166,Vimeo,massnahmen,1
+62,167,Beobachter,Schule,2
+29,167,Beobachter,kind,1
+14,168,Die Ostschweiz,Mensch,2
+49,168,Die Ostschweiz,angst,1
+29,168,Die Ostschweiz,kind,1
+7,169,Deutsches Ärzteblatt,Medizin,2
+80,169,Deutsches Ärzteblatt,evidenz,1
+19,169,Deutsches Ärzteblatt,infektion,1
+21,170,INFOsperber,Impfung,2
+11,170,INFOsperber,massnahmen,1
+21,171,ZE!TPUNKT,Impfung,2
+39,171,ZE!TPUNKT,impf-nebenwirkungen,1
+44,172,multipolar,Recht,2
+8,172,multipolar,Widerstand,2
+83,172,multipolar,rki,1
+11,172,multipolar,massnahmen,1
+2,173,Sebastian Friebel,Politik,2
+66,173,Sebastian Friebel,P(l)andemie,2
+113,173,Sebastian Friebel,demokratie,1
+48,174,Rubikon,Spital,2
+49,174,Rubikon,angst,1
+17,175,medinside.ch,Wissenschaft,2
+11,175,medinside.ch,massnahmen,1
+7,176,Youtube,Medizin,2
+18,176,Youtube,pcr-test,1
+7,177,bitchute,Medizin,2
+29,177,bitchute,kind,1
+30,177,bitchute,maske,1
+48,178,RT DE,Spital,2
+26,178,RT DE,Zahlen,2
+34,178,RT DE,manipulation,1
+7,179,bitchute,Medizin,2
+30,179,bitchute,maske,1
+29,179,bitchute,kind,1
+14,180,Berner Zeitung,Mensch,2
+49,180,Berner Zeitung,angst,1
+17,181,Achgut.com,Wissenschaft,2
+182,181,Achgut.com,virus-mutation,1
+70,181,Achgut.com,immunität,1
+27,181,Achgut.com,sterblichkeit,1
+44,183,Focus Online,Recht,2
+99,183,Focus Online,grundrechte,1
+2,184,2020 News,Politik,2
+21,184,2020 News,Impfung,2
+185,184,2020 News,petition,1
+186,184,2020 News,ema,1
+90,187,2020 News,Studie,2
+17,187,2020 News,Wissenschaft,2
+18,187,2020 News,pcr-test,1
+14,188,Die Ostschweiz,Mensch,2
+49,188,Die Ostschweiz,angst,1
+8,189,tagblatt.ch,Widerstand,2
+21,189,tagblatt.ch,Impfung,2
+190,189,tagblatt.ch,kultur,1
+192,191,reitschuster,polizei,1
+34,191,reitschuster,manipulation,1
+9,191,reitschuster,zensur,1
+8,193,RT DE,Widerstand,2
+185,193,RT DE,petition,1
+44,194,reitschuster,Recht,2
+18,194,reitschuster,pcr-test,1
+82,195,Rubikon,Wirtschaft,2
+18,195,Rubikon,pcr-test,1
+17,196,Wochenblick,Wissenschaft,2
+30,196,Wochenblick,maske,1
+140,197,Beobachter,BAG,2
+21,197,Beobachter,Impfung,2
+86,197,Beobachter,geld,1
+48,198,medinside.ch,Spital,2
+26,198,medinside.ch,Zahlen,2
+62,199,Jouwatch,Schule,2
+30,199,Jouwatch,maske,1
+29,199,Jouwatch,kind,1
+26,200,Rubikon,Zahlen,2
+68,200,Rubikon,who,1
+27,200,Rubikon,sterblichkeit,1
+34,200,Rubikon,manipulation,1
+14,201,bitchute,Mensch,2
+27,201,bitchute,sterblichkeit,1
+2,202,NZZ,Politik,2
+24,202,NZZ,covidiot,1
+113,202,NZZ,demokratie,1
+7,203,Focus Online,Medizin,2
+204,203,Focus Online,beatmung,1
+90,205,RT DE,Studie,2
+14,205,RT DE,Mensch,2
+23,205,RT DE,lockdown,1
+10,205,RT DE,kollateralschäden,1
+26,206,Die Ostschweiz,Zahlen,2
+11,206,Die Ostschweiz,massnahmen,1
+140,207,BAG,BAG,2
+36,207,BAG,bundesrat,1
+11,207,BAG,massnahmen,1
+26,208,meinbezirk.at,Zahlen,2
+3,208,meinbezirk.at,lockdown2,1
+21,209,RT DE,Impfung,2
+164,209,RT DE,mit oder an impfung gestorben,1
+130,209,RT DE,biontech,1
+8,210,Die Ostschweiz,Widerstand,2
+24,210,Die Ostschweiz,covidiot,1
+44,211,Epoch Times,Recht,2
+8,211,Epoch Times,Widerstand,2
+51,211,Epoch Times,quarantäne,1
+82,212,kenFM,Wirtschaft,2
+23,212,kenFM,lockdown,1
+26,213,Die Ostschweiz,Zahlen,2
+49,213,Die Ostschweiz,angst,1
+48,214,INFOsperber,Spital,2
+26,214,INFOsperber,Zahlen,2
+215,214,INFOsperber,Behörde,2
+27,214,INFOsperber,sterblichkeit,1
+34,214,INFOsperber,manipulation,1
+21,216,reitschuster,Impfung,2
+7,216,reitschuster,Medizin,2
+48,217,tp - Science & Technology,Spital,2
+26,217,tp - Science & Technology,Zahlen,2
+34,217,tp - Science & Technology,manipulation,1
+44,218,Weltwoche,Recht,2
+2,218,Weltwoche,Politik,2
+215,218,Weltwoche,Behörde,2
+30,218,Weltwoche,maske,1
+4,218,Weltwoche,willkür,1
+26,219,Telepolis,Zahlen,2
+34,219,Telepolis,manipulation,1
+140,220,BAG,BAG,2
+21,220,BAG,Impfung,2
+36,220,BAG,bundesrat,1
+86,220,BAG,geld,1
+130,220,BAG,biontech,1
+2,221,Die Ostschweiz,Politik,2
+36,221,Die Ostschweiz,bundesrat,1
+11,221,Die Ostschweiz,massnahmen,1
+21,222,Wochenblick,Impfung,2
+39,222,Wochenblick,impf-nebenwirkungen,1
+26,223,Rubikon,Zahlen,2
+83,223,Rubikon,rki,1
+37,223,Rubikon,welle2,1
+34,223,Rubikon,manipulation,1
+21,224,RT DE,Impfung,2
+164,224,RT DE,mit oder an impfung gestorben,1
+17,225,RT DE,Wissenschaft,2
+90,225,RT DE,Studie,2
+18,225,RT DE,pcr-test,1
+7,226,Focus Online,Medizin,2
+3,226,Focus Online,lockdown2,1
+2,227,Rubikon,Politik,2
+49,227,Rubikon,angst,1
+113,227,Rubikon,demokratie,1
+7,228,infekt.ch,Medizin,2
+70,228,infekt.ch,immunität,1
+8,229,Epoch Times,Widerstand,2
+7,229,Epoch Times,Medizin,2
+44,229,Epoch Times,Recht,2
+62,229,Epoch Times,Schule,2
+29,229,Epoch Times,kind,1
+30,229,Epoch Times,maske,1
+140,230,Tagesanzeiger,BAG,2
+51,230,Tagesanzeiger,quarantäne,1
+34,230,Tagesanzeiger,manipulation,1
+90,231,reitschuster,Studie,2
+26,231,reitschuster,Zahlen,2
+204,231,reitschuster,beatmung,1
+44,232,NZZ,Recht,2
+99,232,NZZ,grundrechte,1
+8,233,Wochenblick,Widerstand,2
+192,233,Wochenblick,polizei,1
+2,234,reitschuster,Politik,2
+26,234,reitschuster,Zahlen,2
+3,234,reitschuster,lockdown2,1
+21,235,Epoch Times,Impfung,2
+70,235,Epoch Times,immunität,1
+39,235,Epoch Times,impf-nebenwirkungen,1
+26,236,Tagesanzeiger,Zahlen,2
+117,236,Tagesanzeiger,r-wert,1
+2,237,Die Ostschweiz,Politik,2
+82,237,Die Ostschweiz,Wirtschaft,2
+48,237,Die Ostschweiz,Spital,2
+54,237,Die Ostschweiz,taskforce,1
+11,237,Die Ostschweiz,massnahmen,1
+34,237,Die Ostschweiz,manipulation,1
+17,238,Achgut.com,Wissenschaft,2
+182,238,Achgut.com,virus-mutation,1
+66,239,Sebastian Friebel,P(l)andemie,2
+2,239,Sebastian Friebel,Politik,2
+113,239,Sebastian Friebel,demokratie,1
+48,240,linth24,Spital,2
+241,240,linth24,st.gallen,1
+7,242,DerStandard,Medizin,2
+8,242,DerStandard,Widerstand,2
+30,242,DerStandard,maske,1
+14,243,Telepolis,Mensch,2
+11,243,Telepolis,massnahmen,1
+44,244,kenFM,Recht,2
+17,245,Vera Lengsfeld,Wissenschaft,2
+8,245,Vera Lengsfeld,Widerstand,2
+11,245,Vera Lengsfeld,massnahmen,1
+90,246,ntv,Studie,2
+68,246,ntv,who,1
+27,246,ntv,sterblichkeit,1
+8,247,multipolar,Widerstand,2
+24,247,multipolar,covidiot,1
+17,248,NachDenkSeiten,Wissenschaft,2
+34,248,NachDenkSeiten,manipulation,1
+14,249,NZZ,Mensch,2
+113,249,NZZ,demokratie,1
+99,249,NZZ,grundrechte,1
+90,250,reitschuster,Studie,2
+30,250,reitschuster,maske,1
+215,251,Weltwoche daily,Behörde,2
+11,251,Weltwoche daily,massnahmen,1
+54,251,Weltwoche daily,taskforce,1
+34,251,Weltwoche daily,manipulation,1
+17,252,2020 News,Wissenschaft,2
+21,252,2020 News,Impfung,2
+185,252,2020 News,petition,1
+26,253,RT DE,Zahlen,2
+48,253,RT DE,Spital,2
+204,253,RT DE,beatmung,1
+34,253,RT DE,manipulation,1
+7,254,RT DE,Medizin,2
+11,254,RT DE,massnahmen,1
+26,255,Telepolis,Zahlen,2
+11,255,Telepolis,massnahmen,1
+17,256,Prof. Harald Walach,Wissenschaft,2
+30,256,Prof. Harald Walach,maske,1
+49,256,Prof. Harald Walach,angst,1
+48,257,Corona Transition,Spital,2
+3,257,Corona Transition,lockdown2,1
+34,257,Corona Transition,manipulation,1
+14,258,kinderzeit,Mensch,2
+29,258,kinderzeit,kind,1
+30,258,kinderzeit,maske,1
+49,259,linth24,angst,1
+34,259,linth24,manipulation,1
+14,260,NachDenkSeiten,Mensch,2
+29,260,NachDenkSeiten,kind,1
+17,261,Wochenblick,Wissenschaft,2
+18,261,Wochenblick,pcr-test,1
+262,261,Wochenblick,massentest,1
+34,261,Wochenblick,manipulation,1
+26,263,reitschuster,Zahlen,2
+27,263,reitschuster,sterblichkeit,1
+34,263,reitschuster,manipulation,1
+14,264,Rubikon,Mensch,2
+49,264,Rubikon,angst,1
+7,265,infekt.ch,Medizin,2
+70,265,infekt.ch,immunität,1
+48,266,RT DE,Spital,2
+34,266,RT DE,manipulation,1
+8,267,In$ide Paradeplatz,Widerstand,2
+113,267,In$ide Paradeplatz,demokratie,1
+14,268,odysee,Mensch,2
+29,268,odysee,kind,1
+10,268,odysee,kollateralschäden,1
+7,269,bitchute,Medizin,2
+30,269,bitchute,maske,1
+8,270,comm4u,Widerstand,2
+7,270,comm4u,Medizin,2
+49,270,comm4u,angst,1
+7,271,infekt.ch,Medizin,2
+14,271,infekt.ch,Mensch,2
+29,271,infekt.ch,kind,1
+66,272,WIR - Wissen ist relevant,P(l)andemie,2
+59,272,WIR - Wissen ist relevant,wef,1
+273,272,WIR - Wissen ist relevant,event 201,1
+2,274,reitschuster,Politik,2
+18,274,reitschuster,pcr-test,1
+34,274,reitschuster,manipulation,1
+140,275,Corona Transition,BAG,2
+83,275,Corona Transition,rki,1
+18,275,Corona Transition,pcr-test,1
+19,275,Corona Transition,infektion,1
+21,276,ZE!TPUNKT,Impfung,2
+164,276,ZE!TPUNKT,mit oder an impfung gestorben,1
+130,276,ZE!TPUNKT,biontech,1
+7,277,medinside.ch,Medizin,2
+18,277,medinside.ch,pcr-test,1
+90,278,ScienceFiles,Studie,2
+23,278,ScienceFiles,lockdown,1
+8,279,Schweizerisch-Deutsch-Österreichischen Expertengruppe,Widerstand,2
+26,279,Schweizerisch-Deutsch-Österreichischen Expertengruppe,Zahlen,2
+7,280,bitchute,Medizin,2
+30,280,bitchute,maske,1
+29,280,bitchute,kind,1
+26,281,INFOsperber,Zahlen,2
+48,281,INFOsperber,Spital,2
+34,281,INFOsperber,manipulation,1
+17,282,Wochenblick,Wissenschaft,2
+18,282,Wochenblick,pcr-test,1
+17,283,2020 News,Wissenschaft,2
+18,283,2020 News,pcr-test,1
+123,283,2020 News,leopoldina,1
+2,284,Wochenblick,Politik,2
+11,284,Wochenblick,massnahmen,1
+140,285,ZE!TPUNKT,BAG,2
+11,285,ZE!TPUNKT,massnahmen,1
+34,285,ZE!TPUNKT,manipulation,1
+2,286,SWR,Politik,2
+11,286,SWR,massnahmen,1
+7,287,Schweizer Ärztezeitung,Medizin,2
+8,287,Schweizer Ärztezeitung,Widerstand,2
+49,287,Schweizer Ärztezeitung,angst,1
+14,288,Telepolis,Mensch,2
+8,288,Telepolis,Widerstand,2
+2,288,Telepolis,Politik,2
+289,288,Telepolis,menschenrechte,1
+7,290,Jouwatch,Medizin,2
+34,290,Jouwatch,manipulation,1
+2,291,Bundesrat,Politik,2
+21,291,Bundesrat,Impfung,2
+36,291,Bundesrat,bundesrat,1
+86,291,Bundesrat,geld,1
+26,292,Rubikon,Zahlen,2
+18,292,Rubikon,pcr-test,1
+37,292,Rubikon,welle2,1
+8,293,linth24,Widerstand,2
+24,293,linth24,covidiot,1
+44,294,2020 News,Recht,2
+8,294,2020 News,Widerstand,2
+7,295,Achgut.com,Medizin,2
+296,295,Achgut.com,virus-ursprung,1
+21,297,ZDF,Impfung,2
+2,297,ZDF,Politik,2
+39,297,ZDF,impf-nebenwirkungen,1
+27,298,reitschuster,sterblichkeit,1
+34,298,reitschuster,manipulation,1
+300,299,tagesschau.de,schnelltest,1
+44,301,Epoch Times,Recht,2
+99,301,Epoch Times,grundrechte,1
+17,302,2020 News,Wissenschaft,2
+18,302,2020 News,pcr-test,1
+44,303,RT DE,Recht,2
+18,303,RT DE,pcr-test,1
+305,304,NachDenkSeiten,Umfrage,2
+9,304,NachDenkSeiten,zensur,1
+14,306,Die Ostschweiz,Mensch,2
+4,306,Die Ostschweiz,willkür,1
+21,307,reitschuster,Impfung,2
+14,307,reitschuster,Mensch,2
+26,308,INFOsperber,Zahlen,2
+27,308,INFOsperber,sterblichkeit,1
+21,309,Wochenblick,Impfung,2
+130,309,Wochenblick,biontech,1
+26,310,Jouwatch,Zahlen,2
+7,310,Jouwatch,Medizin,2
+27,310,Jouwatch,sterblichkeit,1
+14,311,NZZ,Mensch,2
+11,311,NZZ,massnahmen,1
+8,312,linth24,Widerstand,2
+11,312,linth24,massnahmen,1
+44,313,INFOsperber,Recht,2
+18,313,INFOsperber,pcr-test,1
+7,314,Deutsches Ärzteblatt,Medizin,2
+262,314,Deutsches Ärzteblatt,massentest,1
+21,315,RT DE,Impfung,2
+82,315,RT DE,Wirtschaft,2
+86,315,RT DE,geld,1
+130,315,RT DE,biontech,1
+7,316,NZZ,Medizin,2
+30,316,NZZ,maske,1
+2,317,Die Ostschweiz,Politik,2
+36,317,Die Ostschweiz,bundesrat,1
+80,317,Die Ostschweiz,evidenz,1
+11,317,Die Ostschweiz,massnahmen,1
+14,318,SRF,Mensch,2
+49,318,SRF,angst,1
+27,318,SRF,sterblichkeit,1
+140,319,BAG,BAG,2
+36,319,BAG,bundesrat,1
+11,319,BAG,massnahmen,1
+2,320,NachDenkSeiten,Politik,2
+11,320,NachDenkSeiten,massnahmen,1
+29,320,NachDenkSeiten,kind,1
+17,321,RT DE,Wissenschaft,2
+8,321,RT DE,Widerstand,2
+18,321,RT DE,pcr-test,1
+17,322,2020 News,Wissenschaft,2
+3,322,2020 News,lockdown2,1
+123,322,2020 News,leopoldina,1
+62,323,Telepolis,Schule,2
+29,323,Telepolis,kind,1
+30,323,Telepolis,maske,1
+17,324,WHO,Wissenschaft,2
+68,324,WHO,who,1
+70,324,WHO,immunität,1
+8,325,NachDenkSeiten,Widerstand,2
+7,325,NachDenkSeiten,Medizin,2
+4,325,NachDenkSeiten,willkür,1
+7,326,KenFM,Medizin,2
+18,326,KenFM,pcr-test,1
+44,327,substack.com,Recht,2
+2,327,substack.com,Politik,2
+11,327,substack.com,massnahmen,1
+34,327,substack.com,manipulation,1
+90,328,In$ide Paradeplatz,Studie,2
+140,328,In$ide Paradeplatz,BAG,2
+68,328,In$ide Paradeplatz,who,1
+27,328,In$ide Paradeplatz,sterblichkeit,1
+44,329,Wochenblick,Recht,2
+21,329,Wochenblick,Impfung,2
+262,329,Wochenblick,massentest,1
+7,330,medinside.ch,Medizin,2
+11,330,medinside.ch,massnahmen,1
+17,331,Pharmazeutische Zeitung,Wissenschaft,2
+21,331,Pharmazeutische Zeitung,Impfung,2
+39,331,Pharmazeutische Zeitung,impf-nebenwirkungen,1
+90,332,SRF,Studie,2
+30,332,SRF,maske,1
+29,332,SRF,kind,1
+2,333,multipolar,Politik,2
+26,333,multipolar,Zahlen,2
+11,333,multipolar,massnahmen,1
+34,333,multipolar,manipulation,1
+14,334,SRF,Mensch,2
+29,334,SRF,kind,1
+10,334,SRF,kollateralschäden,1
+7,335,tagblatt.ch,Medizin,2
+37,335,tagblatt.ch,welle2,1
+17,336,Wochenblick,Wissenschaft,2
+18,336,Wochenblick,pcr-test,1
+37,336,Wochenblick,welle2,1
+34,336,Wochenblick,manipulation,1
+140,337,Die Ostschweiz,BAG,2
+18,337,Die Ostschweiz,pcr-test,1
+48,338,Die Ostschweiz,Spital,2
+11,338,Die Ostschweiz,massnahmen,1
+90,339,2020 News,Studie,2
+62,339,2020 News,Schule,2
+29,339,2020 News,kind,1
+30,339,2020 News,maske,1
+8,340,Die Ostschweiz,Widerstand,2
+49,340,Die Ostschweiz,angst,1
+7,341,bitchute,Medizin,2
+29,341,bitchute,kind,1
+30,341,bitchute,maske,1
+8,342,linth24,Widerstand,2
+24,342,linth24,covidiot,1
+14,343,Die Ostschweiz,Mensch,2
+2,343,Die Ostschweiz,Politik,2
+49,343,Die Ostschweiz,angst,1
+17,344,Achgut.com,Wissenschaft,2
+11,344,Achgut.com,massnahmen,1
+123,344,Achgut.com,leopoldina,1
+34,344,Achgut.com,manipulation,1
+48,345,Die Welt,Spital,2
+26,345,Die Welt,Zahlen,2
+48,346,INFOsperber,Spital,2
+26,346,INFOsperber,Zahlen,2
+51,346,INFOsperber,quarantäne,1
+21,347,ntv,Impfung,2
+44,347,ntv,Recht,2
+45,347,ntv,impfzwang,1
+8,348,Die Ostschweiz,Widerstand,2
+190,348,Die Ostschweiz,kultur,1
+90,349,NZZ,Studie,2
+70,349,NZZ,immunität,1
+66,350,NachDenkSeiten,P(l)andemie,2
+34,350,NachDenkSeiten,manipulation,1
+273,350,NachDenkSeiten,event 201,1
+14,351,NachDenkSeiten,Mensch,2
+11,351,NachDenkSeiten,massnahmen,1
+10,351,NachDenkSeiten,kollateralschäden,1
+17,352,reitschuster,Wissenschaft,2
+30,352,reitschuster,maske,1
+8,353,tagblatt.ch,Widerstand,2
+29,353,tagblatt.ch,kind,1
+51,353,tagblatt.ch,quarantäne,1
+14,354,RT DE,Mensch,2
+29,354,RT DE,kind,1
+17,355,Pharmazeutische Zeitung,Wissenschaft,2
+21,355,Pharmazeutische Zeitung,Impfung,2
+39,355,Pharmazeutische Zeitung,impf-nebenwirkungen,1
+130,355,Pharmazeutische Zeitung,biontech,1
+7,356,Epoch Times,Medizin,2
+70,356,Epoch Times,immunität,1
+8,357,comm4u,Widerstand,2
+7,357,comm4u,Medizin,2
+30,357,comm4u,maske,1
+7,358,tagblatt.ch,Medizin,2
+8,358,tagblatt.ch,Widerstand,2
+30,358,tagblatt.ch,maske,1
+34,359,In$ide Paradeplatz,manipulation,1
+90,360,tagblatt.ch,Studie,2
+62,360,tagblatt.ch,Schule,2
+29,360,tagblatt.ch,kind,1
+26,361,Die Ostschweiz,Zahlen,2
+140,361,Die Ostschweiz,BAG,2
+51,361,Die Ostschweiz,quarantäne,1
+34,361,Die Ostschweiz,manipulation,1
+44,362,2020 News,Recht,2
+18,362,2020 News,pcr-test,1
+14,363,Berliner Zeitung,Mensch,2
+10,363,Berliner Zeitung,kollateralschäden,1
+26,364,INFOsperber,Zahlen,2
+18,364,INFOsperber,pcr-test,1
+300,364,INFOsperber,schnelltest,1
+34,364,INFOsperber,manipulation,1
+44,365,Die Welt,Recht,2
+3,365,Die Welt,lockdown2,1
+7,366,bitchute,Medizin,2
+2,367,AUF,Politik,2
+8,367,AUF,Widerstand,2
+192,367,AUF,polizei,1
+90,368,Jouwatch,Studie,2
+11,368,Jouwatch,massnahmen,1
+21,369,LifeSiteNews,Impfung,2
+70,369,LifeSiteNews,immunität,1
+17,370,World Health Organization,Wissenschaft,2
+68,370,World Health Organization,who,1
+70,370,World Health Organization,immunität,1
+44,371,Wochenblick,Recht,2
+18,371,Wochenblick,pcr-test,1
+48,372,Die Ostschweiz,Spital,2
+11,372,Die Ostschweiz,massnahmen,1
+7,373,Focus Online,Medizin,2
+8,373,Focus Online,Widerstand,2
+11,373,Focus Online,massnahmen,1
+26,374,Telepolis,Zahlen,2
+11,374,Telepolis,massnahmen,1
+14,375,NZZ,Mensch,2
+11,375,NZZ,massnahmen,1
+376,375,NZZ,jugend,1
+26,377,Achgut.com,Zahlen,2
+68,377,Achgut.com,who,1
+27,377,Achgut.com,sterblichkeit,1
+8,378,Wochenblick,Widerstand,2
+11,378,Wochenblick,massnahmen,1
+190,378,Wochenblick,kultur,1
+90,379,Achgut.com,Studie,2
+30,379,Achgut.com,maske,1
+17,380,Rubikon,Wissenschaft,2
+11,380,Rubikon,massnahmen,1
+82,381,Die Ostschweiz,Wirtschaft,2
+54,381,Die Ostschweiz,taskforce,1
+3,381,Die Ostschweiz,lockdown2,1
+7,382,Rubikon,Medizin,2
+27,382,Rubikon,sterblichkeit,1
+383,382,Rubikon,therapeutikum,1
+26,384,tagblatt.ch,Zahlen,2
+19,384,tagblatt.ch,infektion,1
+140,385,BAG,BAG,2
+36,385,BAG,bundesrat,1
+30,385,BAG,maske,1
+11,385,BAG,massnahmen,1
+140,386,INFOsperber,BAG,2
+17,386,INFOsperber,Wissenschaft,2
+51,386,INFOsperber,quarantäne,1
+18,386,INFOsperber,pcr-test,1
+21,387,RT DE,Impfung,2
+70,387,RT DE,immunität,1
+26,388,Wochenblick,Zahlen,2
+27,388,Wochenblick,sterblichkeit,1
+17,389,Rubikon,Wissenschaft,2
+23,389,Rubikon,lockdown,1
+30,390,ARD-Mediathek,maske,1
+11,390,ARD-Mediathek,massnahmen,1
+44,391,Deutsches Ärzteblatt,Recht,2
+21,391,Deutsches Ärzteblatt,Impfung,2
+86,391,Deutsches Ärzteblatt,geld,1
+2,392,NZZ,Politik,2
+190,392,NZZ,kultur,1
+34,392,NZZ,manipulation,1
+21,393,Die Ostschweiz,Impfung,2
+27,393,Die Ostschweiz,sterblichkeit,1
+14,394,Youtube,Mensch,2
+67,394,Youtube,great reset,1
+14,395,reitschuster,Mensch,2
+29,395,reitschuster,kind,1
+10,395,reitschuster,kollateralschäden,1
+21,396,RT DE,Impfung,2
+39,396,RT DE,impf-nebenwirkungen,1
+9,396,RT DE,zensur,1
+34,396,RT DE,manipulation,1
+26,397,infosperber,Zahlen,2
+44,398,linth24,Recht,2
+30,398,linth24,maske,1
+26,399,Die Ostschweiz,Zahlen,2
+27,399,Die Ostschweiz,sterblichkeit,1
+21,400,Wochenblick,Impfung,2
+164,400,Wochenblick,mit oder an impfung gestorben,1
+130,400,Wochenblick,biontech,1
+14,401,Nau,Mensch,2
+13,401,Nau,Gesundheit,2
+29,401,Nau,kind,1
+30,401,Nau,maske,1
+10,401,Nau,kollateralschäden,1
+7,402,Rubikon,Medizin,2
+8,402,Rubikon,Widerstand,2
+11,402,Rubikon,massnahmen,1
+17,403,Pharmazeutische Zeitung,Wissenschaft,2
+21,403,Pharmazeutische Zeitung,Impfung,2
+39,403,Pharmazeutische Zeitung,impf-nebenwirkungen,1
+26,404,Corona Transition,Zahlen,2
+34,404,Corona Transition,manipulation,1
+21,405,Telepolis,Impfung,2
+14,406,linth24,Mensch,2
+49,406,linth24,angst,1
+8,407,NZZ,Widerstand,2
+24,407,NZZ,covidiot,1
+7,408,mediarebell,Medizin,2
+30,408,mediarebell,maske,1
+21,409,INFOsperber,Impfung,2
+14,409,INFOsperber,Mensch,2
+410,409,INFOsperber,impfpass,1
+411,409,INFOsperber,id2020,1
+21,412,SRF,Impfung,2
+45,412,SRF,impfzwang,1
+17,413,NZZ,Wissenschaft,2
+13,413,NZZ,Gesundheit,2
+414,413,NZZ,vitamin d,1
+8,415,Wochenblick,Widerstand,2
+9,415,Wochenblick,zensur,1
+34,415,Wochenblick,manipulation,1
+21,416,ntv,Impfung,2
+164,416,ntv,mit oder an impfung gestorben,1
+130,416,ntv,biontech,1
+7,417,Tips,Medizin,2
+37,417,Tips,welle2,1
+17,418,Epoch Times,Wissenschaft,2
+8,418,Epoch Times,Widerstand,2
+18,418,Epoch Times,pcr-test,1
+2,419,Die Ostschweiz,Politik,2
+36,419,Die Ostschweiz,bundesrat,1
+18,419,Die Ostschweiz,pcr-test,1
+21,420,RT DE,Impfung,2
+164,420,RT DE,mit oder an impfung gestorben,1
+130,420,RT DE,biontech,1
+7,421,reitschuster,Medizin,2
+30,421,reitschuster,maske,1
+2,422,substack.com,Politik,2
+59,422,substack.com,wef,1
+11,422,substack.com,massnahmen,1
+17,423,Nature Medicine,Wissenschaft,2
+90,423,Nature Medicine,Studie,2
+91,423,Nature Medicine,nature,1
+92,423,Nature Medicine,asymptomatisch,1
+19,423,Nature Medicine,infektion,1
+17,424,Die Ostschweiz,Wissenschaft,2
+54,424,Die Ostschweiz,taskforce,1
+3,424,Die Ostschweiz,lockdown2,1
+34,424,Die Ostschweiz,manipulation,1
+7,425,Tagesanzeiger,Medizin,2
+2,425,Tagesanzeiger,Politik,2
+51,425,Tagesanzeiger,quarantäne,1
+34,425,Tagesanzeiger,manipulation,1
+7,426,ntv,Medizin,2
+8,426,ntv,Widerstand,2
+11,426,ntv,massnahmen,1
+44,427,RT DE,Recht,2
+8,427,RT DE,Widerstand,2
+34,427,RT DE,manipulation,1
+13,428,RT DE,Gesundheit,2
+18,428,RT DE,pcr-test,1
+34,428,RT DE,manipulation,1
+7,429,medinside.ch,Medizin,2
+13,429,medinside.ch,Gesundheit,2
+19,429,medinside.ch,infektion,1
+7,430,substack.com,Medizin,2
+15,431,substack.com,dialog,1
+34,431,substack.com,manipulation,1
+48,432,medinside.ch,Spital,2
+26,432,medinside.ch,Zahlen,2
+140,432,medinside.ch,BAG,2
+433,432,medinside.ch,sgi,1
+34,434,tagesschau.de,manipulation,1
+21,435,Handelsblatt,Impfung,2
+164,435,Handelsblatt,mit oder an impfung gestorben,1
+436,435,Handelsblatt,astrazeneca,1
+14,437,Verborgene Wahrheit,Mensch,2
+62,437,Verborgene Wahrheit,Schule,2
+29,437,Verborgene Wahrheit,kind,1
+140,438,Corona Transition,BAG,2
+18,438,Corona Transition,pcr-test,1
+44,439,substack.com,Recht,2
+7,440,Unzensuriert,Medizin,2
+8,440,Unzensuriert,Widerstand,2
+44,440,Unzensuriert,Recht,2
+4,440,Unzensuriert,willkür,1
+90,441,RT DE,Studie,2
+30,441,RT DE,maske,1
+2,442,Swissmedic,Politik,2
+443,442,Swissmedic,swissmedic,1
+36,442,Swissmedic,bundesrat,1
+383,442,Swissmedic,therapeutikum,1
+14,444,RT DE,Mensch,2
+11,444,RT DE,massnahmen,1
+10,444,RT DE,kollateralschäden,1
+2,445,Rubikon,Politik,2
+59,445,Rubikon,wef,1
+411,445,Rubikon,id2020,1
+34,445,Rubikon,manipulation,1
+8,446,InsideCorona,Widerstand,2
+11,446,InsideCorona,massnahmen,1
+44,447,linth24,Recht,2
+30,447,linth24,maske,1
+90,448,2020 News,Studie,2
+62,448,2020 News,Schule,2
+30,448,2020 News,maske,1
+29,448,2020 News,kind,1
+17,449,RT DE,Wissenschaft,2
+18,449,RT DE,pcr-test,1
+21,450,2020 News,Impfung,2
+44,450,2020 News,Recht,2
+26,451,Epoch Times,Zahlen,2
+27,451,Epoch Times,sterblichkeit,1
+90,452,2020 News,Studie,2
+17,452,2020 News,Wissenschaft,2
+21,452,2020 News,Impfung,2
+39,452,2020 News,impf-nebenwirkungen,1
+453,452,2020 News,immunsystem,1
+2,454,Weltwoche daily,Politik,2
+11,454,Weltwoche daily,massnahmen,1
+7,455,ORF,Medizin,2
+49,455,ORF,angst,1
+82,456,Wochenblick,Wirtschaft,2
+86,456,Wochenblick,geld,1
+17,457,WHO,Wissenschaft,2
+68,457,WHO,who,1
+18,457,WHO,pcr-test,1
+7,458,Bärnerbär,Medizin,2
+70,458,Bärnerbär,immunität,1
+90,459,NDR,Studie,2
+29,459,NDR,kind,1
+11,459,NDR,massnahmen,1
+14,460,Die Ostschweiz,Mensch,2
+2,460,Die Ostschweiz,Politik,2
+49,460,Die Ostschweiz,angst,1
+34,460,Die Ostschweiz,manipulation,1
+26,461,RT DE,Zahlen,2
+23,461,RT DE,lockdown,1
+7,462,Swiss Policy Research,Medizin,2
+383,462,Swiss Policy Research,therapeutikum,1
+90,463,Achgut.com,Studie,2
+18,463,Achgut.com,pcr-test,1
+17,464,infekt.ch,Wissenschaft,2
+23,464,infekt.ch,lockdown,1
+90,465,ScienceFiles,Studie,2
+92,465,ScienceFiles,asymptomatisch,1
+14,466,reitschuster,Mensch,2
+113,466,reitschuster,demokratie,1
+90,467,reitschuster,Studie,2
+30,467,reitschuster,maske,1
+27,467,reitschuster,sterblichkeit,1
+7,468,Youtube,Medizin,2
+68,468,Youtube,who,1
+7,469,bitchute,Medizin,2
+44,469,bitchute,Recht,2
+8,469,bitchute,Widerstand,2
+29,469,bitchute,kind,1
+30,469,bitchute,maske,1
+44,470,Nordkurier,Recht,2
+8,470,Nordkurier,Widerstand,2
+2,470,Nordkurier,Politik,2
+192,470,Nordkurier,polizei,1
+26,471,reitschuster,Zahlen,2
+48,471,reitschuster,Spital,2
+204,471,reitschuster,beatmung,1
+21,472,2020 News,Impfung,2
+39,472,2020 News,impf-nebenwirkungen,1
+17,473,infekt.ch,Wissenschaft,2
+18,473,infekt.ch,pcr-test,1
+26,474,INFOsperber,Zahlen,2
+48,474,INFOsperber,Spital,2
+34,474,INFOsperber,manipulation,1
+82,475,Epoch Times,Wirtschaft,2
+67,475,Epoch Times,great reset,1
+23,475,Epoch Times,lockdown,1
+7,476,telegra.ph,Medizin,2
+30,476,telegra.ph,maske,1
+2,477,linth24,Politik,2
+11,477,linth24,massnahmen,1
+2,478,Berliner Zeitung,Politik,2
+18,478,Berliner Zeitung,pcr-test,1
+14,479,Epoch Times,Mensch,2
+10,479,Epoch Times,kollateralschäden,1
+26,480,NachDenkSeiten,Zahlen,2
+34,480,NachDenkSeiten,manipulation,1
+14,481,ZE!TPUNKT,Mensch,2
+15,481,ZE!TPUNKT,dialog,1
+21,482,Focus Online,Impfung,2
+17,482,Focus Online,Wissenschaft,2
+39,482,Focus Online,impf-nebenwirkungen,1
+130,482,Focus Online,biontech,1
+48,483,RND,Spital,2
+26,483,RND,Zahlen,2
+34,483,RND,manipulation,1
+2,484,RT DE,Politik,2
+21,484,RT DE,Impfung,2
+4,484,RT DE,willkür,1
+26,485,ZDF,Zahlen,2
+34,485,ZDF,manipulation,1
+2,486,arte,Politik,2
+14,486,arte,Mensch,2
+11,486,arte,massnahmen,1
+7,487,Epoch Times,Medizin,2
+8,487,Epoch Times,Widerstand,2
+30,487,Epoch Times,maske,1
+140,488,Weltwoche,BAG,2
+26,488,Weltwoche,Zahlen,2
+18,488,Weltwoche,pcr-test,1
+49,488,Weltwoche,angst,1
+44,489,NZZ,Recht,2
+99,489,NZZ,grundrechte,1
+90,490,NachDenkSeiten,Studie,2
+23,490,NachDenkSeiten,lockdown,1
+27,490,NachDenkSeiten,sterblichkeit,1
+21,491,SNA,Impfung,2
+44,491,SNA,Recht,2
+39,491,SNA,impf-nebenwirkungen,1
+21,492,Wochenblick,Impfung,2
+130,492,Wochenblick,biontech,1
+86,492,Wochenblick,geld,1
+13,493,INFOsperber,Gesundheit,2
+18,493,INFOsperber,pcr-test,1
+34,493,INFOsperber,manipulation,1
+8,494,World Freedom Alliance,Widerstand,2
+44,494,World Freedom Alliance,Recht,2
+8,495,Wochenblick,Widerstand,2
+192,495,Wochenblick,polizei,1
+140,496,BAG,BAG,2
+21,496,BAG,Impfung,2
+36,496,BAG,bundesrat,1
+436,496,BAG,astrazeneca,1
+215,497,BR24,Behörde,2
+2,497,BR24,Politik,2
+8,497,BR24,Widerstand,2
+30,497,BR24,maske,1
+29,497,BR24,kind,1
+17,498,RT DE,Wissenschaft,2
+80,498,RT DE,evidenz,1
+23,498,RT DE,lockdown,1
+14,499,Rubikon,Mensch,2
+49,499,Rubikon,angst,1
+17,500,Telepolis,Wissenschaft,2
+90,500,Telepolis,Studie,2
+26,500,Telepolis,Zahlen,2
+23,500,Telepolis,lockdown,1
+7,501,The New York Times,Medizin,2
+17,501,The New York Times,Wissenschaft,2
+18,501,The New York Times,pcr-test,1
+2,502,Die Ostschweiz,Politik,2
+113,502,Die Ostschweiz,demokratie,1
+11,502,Die Ostschweiz,massnahmen,1
+14,503,NZZ,Mensch,2
+49,503,NZZ,angst,1
+66,504,multipolar,P(l)andemie,2
+59,504,multipolar,wef,1
+273,504,multipolar,event 201,1
+34,504,multipolar,manipulation,1
+34,505,RT DE,manipulation,1
+8,506,Rubikon,Widerstand,2
+29,506,Rubikon,kind,1
+21,507,Brighteon,Impfung,2
+8,507,Brighteon,Widerstand,2
+39,507,Brighteon,impf-nebenwirkungen,1
+90,508,Wochenblick,Studie,2
+51,508,Wochenblick,quarantäne,1
+92,508,Wochenblick,asymptomatisch,1
+2,509,Wochenblick,Politik,2
+26,509,Wochenblick,Zahlen,2
+48,510,Re-Check,Spital,2
+26,510,Re-Check,Zahlen,2
+140,510,Re-Check,BAG,2
+36,510,Re-Check,bundesrat,1
+49,510,Re-Check,angst,1
+34,510,Re-Check,manipulation,1
+44,511,2020 News,Recht,2
+26,512,Telepolis,Zahlen,2
+117,512,Telepolis,r-wert,1
+83,512,Telepolis,rki,1
+7,513,Die Ostschweiz,Medizin,2
+29,513,Die Ostschweiz,kind,1
+30,513,Die Ostschweiz,maske,1
+7,514,linth24,Medizin,2
+453,514,linth24,immunsystem,1
+18,515,Wochenblick,pcr-test,1
+3,515,Wochenblick,lockdown2,1
+34,515,Wochenblick,manipulation,1
+7,516,Deutsche Apotheker Zeitung,Medizin,2
+18,516,Deutsche Apotheker Zeitung,pcr-test,1
+21,517,Wochenblick,Impfung,2
+39,517,Wochenblick,impf-nebenwirkungen,1
+130,517,Wochenblick,biontech,1
+26,518,Die Welt,Zahlen,2
+14,518,Die Welt,Mensch,2
+21,519,Wochenblick,Impfung,2
+44,519,Wochenblick,Recht,2
+39,519,Wochenblick,impf-nebenwirkungen,1
+7,520,linth24,Medizin,2
+18,520,linth24,pcr-test,1
+66,521,multipolar,P(l)andemie,2
+2,521,multipolar,Politik,2
+83,521,multipolar,rki,1
+21,522,Rubikon,Impfung,2
+26,523,Die Welt,Zahlen,2
+83,523,Die Welt,rki,1
+68,523,Die Welt,who,1
+27,523,Die Welt,sterblichkeit,1
+14,524,Berliner Zeitung,Mensch,2
+34,524,Berliner Zeitung,manipulation,1
+8,525,NZZ,Widerstand,2
+82,525,NZZ,Wirtschaft,2
+30,525,NZZ,maske,1
+14,526,Telepolis,Mensch,2
+11,526,Telepolis,massnahmen,1
+49,526,Telepolis,angst,1
+14,527,FPÖ TV,Mensch,2
+29,527,FPÖ TV,kind,1
+30,527,FPÖ TV,maske,1
+17,528,Deutsches Ärzteblatt,Wissenschaft,2
+83,528,Deutsches Ärzteblatt,rki,1
+18,528,Deutsches Ärzteblatt,pcr-test,1
+27,528,Deutsches Ärzteblatt,sterblichkeit,1
+14,529,Telepolis,Mensch,2
+30,529,Telepolis,maske,1
+21,530,Swissmedic,Impfung,2
+443,530,Swissmedic,swissmedic,1
+26,531,Berliner Zeitung,Zahlen,2
+34,531,Berliner Zeitung,manipulation,1
+26,532,INFOsperber,Zahlen,2
+34,532,INFOsperber,manipulation,1
+49,532,INFOsperber,angst,1
+140,533,Die Ostschweiz,BAG,2
+4,533,Die Ostschweiz,willkür,1
+26,534,Epoch Times,Zahlen,2
+19,534,Epoch Times,infektion,1
+3,534,Epoch Times,lockdown2,1
+7,535,Epoch Times,Medizin,2
+8,535,Epoch Times,Widerstand,2
+11,535,Epoch Times,massnahmen,1
+7,536,Tagesanzeiger,Medizin,2
+262,536,Tagesanzeiger,massentest,1
+62,537,Die Welt,Schule,2
+29,537,Die Welt,kind,1
+7,538,Deutsches Ärzteblatt,Medizin,2
+14,538,Deutsches Ärzteblatt,Mensch,2
+11,538,Deutsches Ärzteblatt,massnahmen,1
+44,539,KenFM,Recht,2
+18,539,KenFM,pcr-test,1
+140,540,Bundesrat,BAG,2
+21,540,Bundesrat,Impfung,2
+36,540,Bundesrat,bundesrat,1
+86,540,Bundesrat,geld,1
+541,540,Bundesrat,covax,1
+542,540,Bundesrat,gavi,1
+26,543,Die Ostschweiz,Zahlen,2
+90,544,Epoch Times,Studie,2
+82,544,Epoch Times,Wirtschaft,2
+86,544,Epoch Times,geld,1
+21,545,Telepolis,Impfung,2
+39,545,Telepolis,impf-nebenwirkungen,1
+44,546,Youtube,Recht,2
+86,546,Youtube,geld,1
+7,547,Unzensuriert,Medizin,2
+8,547,Unzensuriert,Widerstand,2
+11,547,Unzensuriert,massnahmen,1
+7,548,Corona Transition,Medizin,2
+21,548,Corona Transition,Impfung,2
+4,548,Corona Transition,willkür,1
+34,548,Corona Transition,manipulation,1
+17,549,Corona Transition,Wissenschaft,2
+18,549,Corona Transition,pcr-test,1
+14,550,Schweizer Monat,Mensch,2
+49,550,Schweizer Monat,angst,1
+113,550,Schweizer Monat,demokratie,1
+90,551,tp - Science & Technology,Studie,2
+92,551,tp - Science & Technology,asymptomatisch,1
+21,552,RT DE,Impfung,2
+17,552,RT DE,Wissenschaft,2
+70,552,RT DE,immunität,1
+26,553,Focus Online,Zahlen,2
+11,553,Focus Online,massnahmen,1
+14,554,ZDF,Mensch,2
+49,554,ZDF,angst,1
+17,555,Youtube,Wissenschaft,2
+18,555,Youtube,pcr-test,1
+140,556,BAG,BAG,2
+21,556,BAG,Impfung,2
+36,556,BAG,bundesrat,1
+557,556,BAG,moderna,1
+26,558,comm4u,Zahlen,2
+34,558,comm4u,manipulation,1
+14,559,Telepolis,Mensch,2
+30,559,Telepolis,maske,1
+10,559,Telepolis,kollateralschäden,1
+26,560,In$ide Paradeplatz,Zahlen,2
+117,560,In$ide Paradeplatz,r-wert,1
+11,560,In$ide Paradeplatz,massnahmen,1
+2,561,Die Welt,Politik,2
+44,561,Die Welt,Recht,2
+11,561,Die Welt,massnahmen,1
+90,562,RT DE,Studie,2
+18,562,RT DE,pcr-test,1
+7,563,Deutsches Ärzteblatt,Medizin,2
+18,563,Deutsches Ärzteblatt,pcr-test,1
+7,564,medinside.ch,Medizin,2
+44,564,medinside.ch,Recht,2
+4,564,medinside.ch,willkür,1
+2,565,Focus Online,Politik,2
+24,565,Focus Online,covidiot,1
+17,566,Youtube,Wissenschaft,2
+14,566,Youtube,Mensch,2
+29,566,Youtube,kind,1
+11,566,Youtube,massnahmen,1
+21,567,Schweizer Ärztezeitung,Impfung,2
+7,567,Schweizer Ärztezeitung,Medizin,2
+39,567,Schweizer Ärztezeitung,impf-nebenwirkungen,1
+2,568,ZE!TPUNKT,Politik,2
+215,568,ZE!TPUNKT,Behörde,2
+17,568,ZE!TPUNKT,Wissenschaft,2
+18,568,ZE!TPUNKT,pcr-test,1
+26,569,Telepolis,Zahlen,2
+11,569,Telepolis,massnahmen,1
+17,570,Die Ostschweiz,Wissenschaft,2
+82,570,Die Ostschweiz,Wirtschaft,2
+18,570,Die Ostschweiz,pcr-test,1
+21,571,NachDenkSeiten,Impfung,2
+572,571,NachDenkSeiten,impfplan,1
+140,573,BAG,BAG,2
+36,573,BAG,bundesrat,1
+574,573,BAG,molecular partners,1
+383,573,BAG,therapeutikum,1
+21,575,Tagesanzeiger,Impfung,2
+39,575,Tagesanzeiger,impf-nebenwirkungen,1
+436,575,Tagesanzeiger,astrazeneca,1
+48,576,tagesschau.de,Spital,2
+86,576,tagesschau.de,geld,1
+26,577,ntv,Zahlen,2
+37,577,ntv,welle2,1
+11,577,ntv,massnahmen,1
+2,578,Epoch Times,Politik,2
+68,578,Epoch Times,who,1
+3,578,Epoch Times,lockdown2,1
+580,579,ntv,welle1,1
+68,579,ntv,who,1
+34,579,ntv,manipulation,1
+21,581,Swissmedic,Impfung,2
+443,581,Swissmedic,swissmedic,1
+130,581,Swissmedic,biontech,1
+7,582,Berliner Zeitung,Medizin,2
+26,582,Berliner Zeitung,Zahlen,2
+27,582,Berliner Zeitung,sterblichkeit,1
+2,583,Bundesrat,Politik,2
+36,583,Bundesrat,bundesrat,1
+11,583,Bundesrat,massnahmen,1
+7,584,Schweizer Ärztezeitung,Medizin,2
+18,584,Schweizer Ärztezeitung,pcr-test,1
+44,585,Youtube,Recht,2
+29,585,Youtube,kind,1
+11,585,Youtube,massnahmen,1
+90,586,Thieme,Studie,2
+7,586,Thieme,Medizin,2
+587,586,Thieme,thieme,1
+83,586,Thieme,rki,1
+30,586,Thieme,maske,1
+17,588,Medizinische Universität Innsbruck,Wissenschaft,2
+70,588,Medizinische Universität Innsbruck,immunität,1
+17,589,Handelsblatt,Wissenschaft,2
+49,589,Handelsblatt,angst,1
+590,589,Handelsblatt,diehm,1
+44,591,Wochenblick,Recht,2
+18,591,Wochenblick,pcr-test,1
+21,592,Berliner Zeitung,Impfung,2
+44,592,Berliner Zeitung,Recht,2
+45,592,Berliner Zeitung,impfzwang,1
+17,593,Corman-Drosten,Wissenschaft,2
+18,593,Corman-Drosten,pcr-test,1
+11,594,reitschuster,massnahmen,1
+34,594,reitschuster,manipulation,1
+2,595,linth24,Politik,2
+11,595,linth24,massnahmen,1
+48,596,medinside.ch,Spital,2
+2,596,medinside.ch,Politik,2
+2,597,Bundesrat,Politik,2
+21,597,Bundesrat,Impfung,2
+36,597,Bundesrat,bundesrat,1
+86,597,Bundesrat,geld,1
+48,598,INFOsperber,Spital,2
+26,598,INFOsperber,Zahlen,2
+140,598,INFOsperber,BAG,2
+86,598,INFOsperber,geld,1
+34,598,INFOsperber,manipulation,1
+7,599,Deutsches Ärzteblatt,Medizin,2
+19,599,Deutsches Ärzteblatt,infektion,1
