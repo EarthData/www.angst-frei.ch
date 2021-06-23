@@ -15,10 +15,13 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3656,DE,2021-06-25,17:00:00,84066,Mallersdorf-Pfaffenberg,Haus der Generationen,Kundgebung,,#ichmachdanichtmit und Miteinander statt gegeneinander,
 3653,DE,2021-06-25,18:00:00,70173,Stuttgart,Königstr. 78 / Jack Wolfskin,Kundgebung,,Privatpersonen,
 3657,DE,2021-06-25,18:00:00,12619,Berlin,Parkplatz bei Gärten der Welt,Autokorso,,Autokorso Berlin,
+3666,DE,2021-06-25,18:00:00,96052,Bamberg,Fuchsparkstadion,Autokorso,,StayAwake Bamberg,https://www.stayawakebamberg.de
 3641,DE,2021-06-25,19:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 3637,DE,2021-06-26,11:00:00,11011,Berlin,Platz der Republik / Reichstag,Kundgebung,,Staatendoof,
 3486,DE,2021-06-26,12:30:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,BI aufRECHT:FREIdenken,https://www.solidarnosch.de
 3622,DE,2021-06-26,13:15:00,22419,Hamburg,Oehleckerring,Autokorso,,Freiheitsfahrer Hamburg,
+3664,DE,2021-06-26,14:00:00,56068,Koblenz,Jesuitenplatz,Mahnwache,,unbekannt,
+3665,DE,2021-06-26,14:30:00,30169,Hannover,Ritter-Brüning-Str. / Parking,Autokorso,,Autocorso Hannover,
 3663,DE,2021-06-26,14:30:00,26603,Aurich,Marktplatz,Demonstration,,Corona ist nicht das Problem,
 3662,DE,2021-06-26,15:00:00,40213,Düsseldorf,Corneliusplatz,Spaziergang,,unbekannt,
 3652,DE,2021-06-26,15:30:00,45127,Essen,Willy-Brandt-Platz,Kundgebung,,Für den Erhalt der Freiheit,https://t.me/joinchat/Gr4v4tPxmF174Ikj
@@ -42,6 +45,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3618,DE,2021-07-03,12:00:00,10117,Berlin,Platz des 18 März,Demonstration,,Eric Graziany,
 3068,DE,2021-07-03,15:00:00,44787,Bochum,Kirmesplatz,Demonstration,,Querdenken 234 - Bochum,https://querdenken-234.de
 3580,DE,2021-07-03,15:00:00,44791,Bochum,Kirmesplatz,Kundgebung,,Querdenken 234 Bochum - Kraft der Rose,
+3667,DE,2021-07-04,14:00:00,66879,Steinwenden,StoppRamstein Camp,Festival,,Ramstein-Kampagne,https://ramstein-kampagne.eu
 3419,DE,2021-07-05,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 3313,DE,2021-07-05,18:00:00,06844,Dessau-Roßlau,Rathaus / Friedensglocke,Kundgebung,,Privat,https://t.me/MontagsMahnwache
 3647,DE,2021-07-05,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Der Souverän,
