@@ -14,14 +14,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: www.angst-frei.ch
-
 author: Jörg Roth
+
 social-network-links:
   email: "info@angst-frei.ch"
   github: EarthData/www.angst-frei.ch
 
 twitter:
   username: EarthAndData
+
+# Add a search button to the navbar
+post_search: false
 
 description: >- # this means to ignore newlines until "baseurl:"
   Kritische Informationen rund um das Thema Covid19, Recht und Gesundheit

@@ -1,12 +1,12 @@
 ---
 layout:
 title:
-permalink: /json/network-link-data.json
+permalink: /json/network-title-data.json
 ---
 
 {
   "nodes": [
-    {%- for node in site.data.network-link-nodes -%}
+    {%- for node in site.data.network-title-nodes -%}
     {
       "id": "{{ node.id }}",
       "value": "{{ node.value }}",
@@ -18,7 +18,7 @@ permalink: /json/network-link-data.json
     {%- endfor -%}
   ],
   "links": [
-    {%- for edge in site.data.network-link-edges -%}
+    {%- for edge in site.data.network-title-edges -%}
     {
       "source": "{{ edge.from }}",
       "target": "{{ edge.to }}",

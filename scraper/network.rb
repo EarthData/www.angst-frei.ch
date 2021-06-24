@@ -1,7 +1,6 @@
 #!/usr/bin/env ruby
 
 require 'yaml'
-require 'csv'
 
 require File.join(__dir__, 'lib/tools')
 
@@ -44,6 +43,13 @@ def build_network(files, year, part, month, all)
       network_nodes[file_name]['value'] = 1
       network_nodes[file_name]['title'] = meta_data['subtitle']
       #network_nodes[file_name]['title'] = "<a href=\"#{meta_data['redirect']}\">#{meta_data['subtitle']}</a>"
+      if meta_data['redirect']
+        network_nodes[file_name]['link'] = meta_data['redirect']
+      elsif meta_data['credit']
+        network_nodes[file_name]['link'] = meta_data['credit']
+      else
+        network_nodes[file_name]['link'] = ""
+      end
       network_nodes[file_name]['group'] = meta_data['title']
       article_id = node_count
       node_count += 1
@@ -62,6 +68,7 @@ def build_network(files, year, part, month, all)
           network_nodes[category]['id'] = node_count
           network_nodes[category]['title'] = category
           network_nodes[category]['value'] = 1
+          network_nodes[category]['link'] = "" 
           network_nodes[category]['group'] = category
           network_edges <<  { "source" => node_count, "target" => article_id, "title" => meta_data['title'], "group" => category, "value" => 2 }
           node_count += 1
@@ -82,6 +89,7 @@ def build_network(files, year, part, month, all)
           network_nodes[tag]['id'] = node_count
           network_nodes[tag]['title'] = tag
           network_nodes[tag]['value'] = 1
+          network_nodes[tag]['link'] = "" 
           network_nodes[tag]['group'] = tag
           network_edges <<  { "source" => node_count, "target" => article_id, "title" => meta_data['title'], "group" => tag, "value" => 1 }
           node_count += 1
@@ -94,19 +102,7 @@ def build_network(files, year, part, month, all)
   all ? node_file_name = "../_data/network-link-nodes.csv" : node_file_name = "../_data/network-link-nodes-#{year}-#{part}.csv"
   all ? edge_file_name = "../_data/network-link-edges.csv" : edge_file_name = "../_data/network-link-edges-#{year}-#{part}.csv"
 
-  CSV.open(node_file_name, "wb", { :force_quotes => true }) do |csv|  
-    csv << ["id", "title", "value", "group"]
-    network_nodes.each do |node, values|
-      csv << [values['id'], values['title'], values['value'], values['group']]  
-    end
-  end  
-
-  CSV.open(edge_file_name, "wb") do |csv|  
-    csv << ["from", "to", "title", "group", "value"]
-    network_edges.each do |edge|
-      csv << [edge['source'], edge['target'], edge['title'], edge['group'], edge['value']]  
-    end
-  end  
+  Tools.new.write_csv(network_nodes, network_edges, node_file_name, edge_file_name)
 
 end
 
@@ -117,9 +113,6 @@ end
     else 
       part = 2
     end
-    puts year
-    puts part
-    puts month
     build_network(files, year, part, month, false)
   end
 end

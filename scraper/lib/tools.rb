@@ -1,6 +1,7 @@
 
 require 'open-uri'
 require 'yaml'
+require 'csv'
 
 class String
   def strip_control_characters()
@@ -162,5 +163,23 @@ tags:          [#{tags}]
         File.delete("#{site_data['filename']}.md")
       end
     end
+  end
+
+  def write_csv(network_nodes, network_edges, node_file_name, edge_file_name)
+
+    CSV.open(node_file_name, "wb", { :force_quotes => true }) do |csv|
+      csv << ["id", "title", "value", "link", "group"]
+      network_nodes.each do |node, values|
+        csv << [values['id'], values['title'], values['value'], values['link'], values['group']]
+      end
+    end
+
+    CSV.open(edge_file_name, "wb") do |csv|
+      csv << ["from", "to", "title", "group", "value"]
+      network_edges.each do |edge|
+        csv << [edge['source'], edge['target'], edge['title'], edge['group'], edge['value']]
+      end
+    end
+
   end
 end

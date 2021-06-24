@@ -1,0 +1,4883 @@
+from,to,title,group,value
+2,1,ScienceFiles,ScienceFiles,2
+3,1,ScienceFiles,2021,2
+2,4,ScienceFiles,ScienceFiles,2
+3,4,ScienceFiles,2021,2
+6,5,tp - Science & Technology,tp - Science & Technology,2
+3,5,tp - Science & Technology,2021,2
+8,7,RT DE,RT DE,2
+3,7,RT DE,2021,2
+10,9,Wochenblick,Wochenblick,2
+11,9,Wochenblick,2020,2
+8,12,RT DE,RT DE,2
+3,12,RT DE,2021,2
+14,13,Rubikon,Rubikon,2
+3,13,Rubikon,2021,2
+16,15,Epoch Times,Epoch Times,2
+3,15,Epoch Times,2021,2
+18,17,Achgut.com,Achgut.com,2
+3,17,Achgut.com,2021,2
+14,19,Rubikon,Rubikon,2
+3,19,Rubikon,2021,2
+21,20,Tagesanzeiger,Tagesanzeiger,2
+3,20,Tagesanzeiger,2021,2
+23,22,Naturstoff Medizin,Naturstoff Medizin,2
+11,22,Naturstoff Medizin,2020,2
+25,24,Die Ostschweiz,Die Ostschweiz,2
+11,24,Die Ostschweiz,2020,2
+25,26,Die Ostschweiz,Die Ostschweiz,2
+3,26,Die Ostschweiz,2021,2
+28,27,NachDenkSeiten,NachDenkSeiten,2
+3,27,NachDenkSeiten,2021,2
+6,29,tp - Science & Technology,tp - Science & Technology,2
+3,29,tp - Science & Technology,2021,2
+25,30,Die Ostschweiz,Die Ostschweiz,2
+3,30,Die Ostschweiz,2021,2
+25,31,Die Ostschweiz,Die Ostschweiz,2
+3,31,Die Ostschweiz,2021,2
+8,32,RT DE,RT DE,2
+3,32,RT DE,2021,2
+10,33,Wochenblick,Wochenblick,2
+11,33,Wochenblick,2020,2
+35,34,Corona Transition,Corona Transition,2
+3,34,Corona Transition,2021,2
+37,36,multipolar,multipolar,2
+3,36,multipolar,2021,2
+39,38,Report24,Report24,2
+3,38,Report24,2021,2
+41,40,medinside.ch,medinside.ch,2
+3,40,medinside.ch,2021,2
+25,42,Die Ostschweiz,Die Ostschweiz,2
+3,42,Die Ostschweiz,2021,2
+44,43,NZZ,NZZ,2
+3,43,NZZ,2021,2
+35,45,Corona Transition,Corona Transition,2
+3,45,Corona Transition,2021,2
+47,46,reitschuster,reitschuster,2
+3,46,reitschuster,2021,2
+49,48,Hessisches Ärzteblatt,Hessisches Ärzteblatt,2
+11,48,Hessisches Ärzteblatt,2020,2
+25,50,Die Ostschweiz,Die Ostschweiz,2
+3,50,Die Ostschweiz,2021,2
+52,51,Tichys Einblick,Tichys Einblick,2
+3,51,Tichys Einblick,2021,2
+14,53,Rubikon,Rubikon,2
+3,53,Rubikon,2021,2
+8,54,RT DE,RT DE,2
+3,54,RT DE,2021,2
+56,55,meinbezirk.at,meinbezirk.at,2
+11,55,meinbezirk.at,2020,2
+44,57,NZZ,NZZ,2
+3,57,NZZ,2021,2
+6,58,tp - Science & Technology,tp - Science & Technology,2
+3,58,tp - Science & Technology,2021,2
+60,59,cochrane,cochrane,2
+3,59,cochrane,2021,2
+8,61,RT DE,RT DE,2
+11,61,RT DE,2020,2
+47,62,reitschuster,reitschuster,2
+3,62,reitschuster,2021,2
+47,63,reitschuster,reitschuster,2
+11,63,reitschuster,2020,2
+65,64,ResearchGate,ResearchGate,2
+3,64,ResearchGate,2021,2
+67,66,Die Welt,Die Welt,2
+11,66,Die Welt,2020,2
+37,68,multipolar,multipolar,2
+3,68,multipolar,2021,2
+8,69,RT DE,RT DE,2
+3,69,RT DE,2021,2
+71,70,Ktipp,Ktipp,2
+11,70,Ktipp,2020,2
+73,72,INFOsperber,INFOsperber,2
+11,72,INFOsperber,2020,2
+75,74,In$ide Paradeplatz,In$ide Paradeplatz,2
+11,74,In$ide Paradeplatz,2020,2
+77,76,2020 News,2020 News,2
+3,76,2020 News,2021,2
+10,78,Wochenblick,Wochenblick,2
+3,78,Wochenblick,2021,2
+2,79,ScienceFiles,ScienceFiles,2
+3,79,ScienceFiles,2021,2
+81,80,persoenlich.com,persoenlich.com,2
+3,80,persoenlich.com,2021,2
+10,82,Wochenblick,Wochenblick,2
+3,82,Wochenblick,2021,2
+16,83,Epoch Times,Epoch Times,2
+3,83,Epoch Times,2021,2
+85,84,Focus Online,Focus Online,2
+3,84,Focus Online,2021,2
+87,86,substack.com,substack.com,2
+3,86,substack.com,2021,2
+8,88,RT DE,RT DE,2
+3,88,RT DE,2021,2
+10,89,Wochenblick,Wochenblick,2
+3,89,Wochenblick,2021,2
+39,90,Report24,Report24,2
+3,90,Report24,2021,2
+92,91,Telepolis,Telepolis,2
+11,91,Telepolis,2020,2
+6,93,tp - Science & Technology,tp - Science & Technology,2
+3,93,tp - Science & Technology,2021,2
+95,94,Youtube,Youtube,2
+11,94,Youtube,2020,2
+92,96,Telepolis,Telepolis,2
+11,96,Telepolis,2020,2
+6,97,tp - Science & Technology,tp - Science & Technology,2
+3,97,tp - Science & Technology,2021,2
+99,98,Berliner Zeitung,Berliner Zeitung,2
+3,98,Berliner Zeitung,2021,2
+85,100,Focus Online,Focus Online,2
+3,100,Focus Online,2021,2
+35,101,Corona Transition,Corona Transition,2
+3,101,Corona Transition,2021,2
+39,102,Report24,Report24,2
+3,102,Report24,2021,2
+52,103,Tichys Einblick,Tichys Einblick,2
+3,103,Tichys Einblick,2021,2
+75,104,In$ide Paradeplatz,In$ide Paradeplatz,2
+11,104,In$ide Paradeplatz,2020,2
+16,105,Epoch Times,Epoch Times,2
+3,105,Epoch Times,2021,2
+73,106,INFOsperber,INFOsperber,2
+11,106,INFOsperber,2020,2
+35,107,Corona Transition,Corona Transition,2
+3,107,Corona Transition,2021,2
+6,108,tp - Science & Technology,tp - Science & Technology,2
+3,108,tp - Science & Technology,2021,2
+110,109,Unser Mitteleuropa,Unser Mitteleuropa,2
+3,109,Unser Mitteleuropa,2021,2
+77,111,2020 News,2020 News,2
+3,111,2020 News,2021,2
+44,112,NZZ,NZZ,2
+11,112,NZZ,2020,2
+6,113,tp - Science & Technology,tp - Science & Technology,2
+3,113,tp - Science & Technology,2021,2
+16,114,Epoch Times,Epoch Times,2
+3,114,Epoch Times,2021,2
+52,115,Tichys Einblick,Tichys Einblick,2
+3,115,Tichys Einblick,2021,2
+16,116,Epoch Times,Epoch Times,2
+3,116,Epoch Times,2021,2
+47,117,reitschuster,reitschuster,2
+3,117,reitschuster,2021,2
+25,118,Die Ostschweiz,Die Ostschweiz,2
+11,118,Die Ostschweiz,2020,2
+120,119,linth24,linth24,2
+11,119,linth24,2020,2
+122,121,Deutsche Apotheker Zeitung,Deutsche Apotheker Zeitung,2
+11,121,Deutsche Apotheker Zeitung,2020,2
+73,123,INFOsperber,INFOsperber,2
+3,123,INFOsperber,2021,2
+14,124,Rubikon,Rubikon,2
+3,124,Rubikon,2021,2
+47,125,reitschuster,reitschuster,2
+3,125,reitschuster,2021,2
+10,126,Wochenblick,Wochenblick,2
+3,126,Wochenblick,2021,2
+10,127,Wochenblick,Wochenblick,2
+3,127,Wochenblick,2021,2
+10,128,Wochenblick,Wochenblick,2
+3,128,Wochenblick,2021,2
+16,129,Epoch Times,Epoch Times,2
+3,129,Epoch Times,2021,2
+131,130,Nordkurier,Nordkurier,2
+3,130,Nordkurier,2021,2
+120,132,linth24,linth24,2
+11,132,linth24,2020,2
+134,133,Schweizer Ärztezeitung,Schweizer Ärztezeitung,2
+11,133,Schweizer Ärztezeitung,2020,2
+10,135,Wochenblick,Wochenblick,2
+3,135,Wochenblick,2021,2
+39,136,Report24,Report24,2
+3,136,Report24,2021,2
+71,137,Ktipp,Ktipp,2
+3,137,Ktipp,2021,2
+139,138,PNAS,PNAS,2
+3,138,PNAS,2021,2
+28,140,NachDenkSeiten,NachDenkSeiten,2
+3,140,NachDenkSeiten,2021,2
+85,141,Focus Online,Focus Online,2
+3,141,Focus Online,2021,2
+35,142,Corona Transition,Corona Transition,2
+3,142,Corona Transition,2021,2
+87,143,substack.com,substack.com,2
+11,143,substack.com,2020,2
+145,144,Weltwoche daily,Weltwoche daily,2
+11,144,Weltwoche daily,2020,2
+73,146,INFOsperber,INFOsperber,2
+3,146,INFOsperber,2021,2
+2,147,ScienceFiles,ScienceFiles,2
+3,147,ScienceFiles,2021,2
+10,148,Wochenblick,Wochenblick,2
+3,148,Wochenblick,2021,2
+10,149,Wochenblick,Wochenblick,2
+3,149,Wochenblick,2021,2
+35,150,Corona Transition,Corona Transition,2
+3,150,Corona Transition,2021,2
+77,151,2020 News,2020 News,2
+3,151,2020 News,2021,2
+85,152,Focus Online,Focus Online,2
+11,152,Focus Online,2020,2
+10,153,Wochenblick,Wochenblick,2
+3,153,Wochenblick,2021,2
+10,154,Wochenblick,Wochenblick,2
+3,154,Wochenblick,2021,2
+156,155,Universität Duisburg-Essen,Universität Duisburg-Essen,2
+3,155,Universität Duisburg-Essen,2021,2
+92,157,Telepolis,Telepolis,2
+3,157,Telepolis,2021,2
+6,158,tp - Science & Technology,tp - Science & Technology,2
+3,158,tp - Science & Technology,2021,2
+87,159,substack.com,substack.com,2
+11,159,substack.com,2020,2
+2,160,ScienceFiles,ScienceFiles,2
+3,160,ScienceFiles,2021,2
+10,161,Wochenblick,Wochenblick,2
+3,161,Wochenblick,2021,2
+10,162,Wochenblick,Wochenblick,2
+3,162,Wochenblick,2021,2
+92,163,Telepolis,Telepolis,2
+11,163,Telepolis,2020,2
+120,164,linth24,linth24,2
+3,164,linth24,2021,2
+166,165,Demokratischer Widerstand,Demokratischer Widerstand,2
+11,165,Demokratischer Widerstand,2020,2
+168,167,corona-blog.net,corona-blog.net,2
+3,167,corona-blog.net,2021,2
+8,169,RT DE,RT DE,2
+3,169,RT DE,2021,2
+18,170,Achgut.com,Achgut.com,2
+3,170,Achgut.com,2021,2
+75,171,In$ide Paradeplatz,In$ide Paradeplatz,2
+3,171,In$ide Paradeplatz,2021,2
+6,172,tp - Science & Technology,tp - Science & Technology,2
+3,172,tp - Science & Technology,2021,2
+47,173,reitschuster,reitschuster,2
+11,173,reitschuster,2020,2
+175,174,Timeline,Timeline,2
+3,174,Timeline,2021,2
+52,176,Tichys Einblick,Tichys Einblick,2
+3,176,Tichys Einblick,2021,2
+6,177,tp - Science & Technology,tp - Science & Technology,2
+3,177,tp - Science & Technology,2021,2
+44,178,NZZ,NZZ,2
+3,178,NZZ,2021,2
+44,179,NZZ,NZZ,2
+3,179,NZZ,2021,2
+16,180,Epoch Times,Epoch Times,2
+3,180,Epoch Times,2021,2
+92,181,Telepolis,Telepolis,2
+11,181,Telepolis,2020,2
+77,182,2020 News,2020 News,2
+3,182,2020 News,2021,2
+67,183,Die Welt,Die Welt,2
+11,183,Die Welt,2020,2
+2,184,ScienceFiles,ScienceFiles,2
+3,184,ScienceFiles,2021,2
+25,185,Die Ostschweiz,Die Ostschweiz,2
+11,185,Die Ostschweiz,2020,2
+10,186,Wochenblick,Wochenblick,2
+3,186,Wochenblick,2021,2
+188,187,NetzwerkKRiStA,NetzwerkKRiStA,2
+3,187,NetzwerkKRiStA,2021,2
+39,189,Report24,Report24,2
+3,189,Report24,2021,2
+6,190,tp - Science & Technology,tp - Science & Technology,2
+3,190,tp - Science & Technology,2021,2
+10,191,Wochenblick,Wochenblick,2
+3,191,Wochenblick,2021,2
+18,192,Achgut.com,Achgut.com,2
+3,192,Achgut.com,2021,2
+44,193,NZZ,NZZ,2
+3,193,NZZ,2021,2
+67,194,Die Welt,Die Welt,2
+3,194,Die Welt,2021,2
+21,195,Tagesanzeiger,Tagesanzeiger,2
+11,195,Tagesanzeiger,2020,2
+25,196,Die Ostschweiz,Die Ostschweiz,2
+11,196,Die Ostschweiz,2020,2
+75,197,In$ide Paradeplatz,In$ide Paradeplatz,2
+3,197,In$ide Paradeplatz,2021,2
+25,198,Die Ostschweiz,Die Ostschweiz,2
+11,198,Die Ostschweiz,2020,2
+39,199,Report24,Report24,2
+3,199,Report24,2021,2
+201,200,ZE!TPUNKT,ZE!TPUNKT,2
+11,200,ZE!TPUNKT,2020,2
+39,202,Report24,Report24,2
+3,202,Report24,2021,2
+25,203,Die Ostschweiz,Die Ostschweiz,2
+3,203,Die Ostschweiz,2021,2
+99,204,Berliner Zeitung,Berliner Zeitung,2
+3,204,Berliner Zeitung,2021,2
+16,205,Epoch Times,Epoch Times,2
+3,205,Epoch Times,2021,2
+35,206,Corona Transition,Corona Transition,2
+3,206,Corona Transition,2021,2
+16,207,Epoch Times,Epoch Times,2
+3,207,Epoch Times,2021,2
+209,208,ARD,ARD,2
+11,208,ARD,2020,2
+47,210,reitschuster,reitschuster,2
+3,210,reitschuster,2021,2
+16,211,Epoch Times,Epoch Times,2
+3,211,Epoch Times,2021,2
+6,212,tp - Science & Technology,tp - Science & Technology,2
+3,212,tp - Science & Technology,2021,2
+35,213,Corona Transition,Corona Transition,2
+3,213,Corona Transition,2021,2
+16,214,Epoch Times,Epoch Times,2
+3,214,Epoch Times,2021,2
+39,215,Report24,Report24,2
+3,215,Report24,2021,2
+37,216,multipolar,multipolar,2
+3,216,multipolar,2021,2
+10,217,Wochenblick,Wochenblick,2
+3,217,Wochenblick,2021,2
+120,218,linth24,linth24,2
+3,218,linth24,2021,2
+110,219,Unser Mitteleuropa,Unser Mitteleuropa,2
+3,219,Unser Mitteleuropa,2021,2
+221,220,EbM Netzwerk,EbM Netzwerk,2
+11,220,EbM Netzwerk,2020,2
+8,222,RT DE,RT DE,2
+3,222,RT DE,2021,2
+35,223,Corona Transition,Corona Transition,2
+3,223,Corona Transition,2021,2
+225,224,NDR,NDR,2
+3,224,NDR,2021,2
+47,226,reitschuster,reitschuster,2
+11,226,reitschuster,2020,2
+2,227,ScienceFiles,ScienceFiles,2
+3,227,ScienceFiles,2021,2
+18,228,Achgut.com,Achgut.com,2
+3,228,Achgut.com,2021,2
+25,229,Die Ostschweiz,Die Ostschweiz,2
+3,229,Die Ostschweiz,2021,2
+18,230,Achgut.com,Achgut.com,2
+11,230,Achgut.com,2020,2
+10,231,Wochenblick,Wochenblick,2
+3,231,Wochenblick,2021,2
+44,232,NZZ,NZZ,2
+11,232,NZZ,2020,2
+234,233,Langemann Medien,Langemann Medien,2
+11,233,Langemann Medien,2020,2
+236,235,Uncut-News,Uncut-News,2
+3,235,Uncut-News,2021,2
+10,237,Wochenblick,Wochenblick,2
+11,237,Wochenblick,2020,2
+239,238,SRF,SRF,2
+3,238,SRF,2021,2
+201,240,ZE!TPUNKT,ZE!TPUNKT,2
+11,240,ZE!TPUNKT,2020,2
+131,241,Nordkurier,Nordkurier,2
+3,241,Nordkurier,2021,2
+243,242,Swiss Policy Research,Swiss Policy Research,2
+3,242,Swiss Policy Research,2021,2
+10,244,Wochenblick,Wochenblick,2
+3,244,Wochenblick,2021,2
+35,245,Corona Transition,Corona Transition,2
+3,245,Corona Transition,2021,2
+35,246,Corona Transition,Corona Transition,2
+3,246,Corona Transition,2021,2
+6,247,tp - Science & Technology,tp - Science & Technology,2
+3,247,tp - Science & Technology,2021,2
+67,248,Die Welt,Die Welt,2
+3,248,Die Welt,2021,2
+2,249,ScienceFiles,ScienceFiles,2
+11,249,ScienceFiles,2020,2
+67,250,Die Welt,Die Welt,2
+11,250,Die Welt,2020,2
+8,251,RT DE,RT DE,2
+11,251,RT DE,2020,2
+8,252,RT DE,RT DE,2
+3,252,RT DE,2021,2
+201,253,ZE!TPUNKT,ZE!TPUNKT,2
+3,253,ZE!TPUNKT,2021,2
+239,254,SRF,SRF,2
+11,254,SRF,2020,2
+256,255,Swissmedic,Swissmedic,2
+3,255,Swissmedic,2021,2
+258,257,Deutsches Ärzteblatt,Deutsches Ärzteblatt,2
+11,257,Deutsches Ärzteblatt,2020,2
+52,259,Tichys Einblick,Tichys Einblick,2
+3,259,Tichys Einblick,2021,2
+35,260,Corona Transition,Corona Transition,2
+3,260,Corona Transition,2021,2
+262,261,ArcGIS,ArcGIS,2
+11,261,ArcGIS,2020,2
+264,263,mdr,mdr,2
+3,263,mdr,2021,2
+120,265,linth24,linth24,2
+3,265,linth24,2021,2
+47,266,reitschuster,reitschuster,2
+3,266,reitschuster,2021,2
+16,267,Epoch Times,Epoch Times,2
+11,267,Epoch Times,2020,2
+47,268,reitschuster,reitschuster,2
+3,268,reitschuster,2021,2
+16,269,Epoch Times,Epoch Times,2
+3,269,Epoch Times,2021,2
+6,270,tp - Science & Technology,tp - Science & Technology,2
+3,270,tp - Science & Technology,2021,2
+14,271,Rubikon,Rubikon,2
+11,271,Rubikon,2020,2
+28,272,NachDenkSeiten,NachDenkSeiten,2
+11,272,NachDenkSeiten,2020,2
+25,273,Die Ostschweiz,Die Ostschweiz,2
+3,273,Die Ostschweiz,2021,2
+99,274,Berliner Zeitung,Berliner Zeitung,2
+11,274,Berliner Zeitung,2020,2
+276,275,The Pirbright Institute,The Pirbright Institute,2
+277,275,The Pirbright Institute,2019,2
+35,278,Corona Transition,Corona Transition,2
+3,278,Corona Transition,2021,2
+16,279,Epoch Times,Epoch Times,2
+3,279,Epoch Times,2021,2
+10,280,Wochenblick,Wochenblick,2
+11,280,Wochenblick,2020,2
+236,281,Uncut-News,Uncut-News,2
+3,281,Uncut-News,2021,2
+283,282,tagblatt.ch,tagblatt.ch,2
+3,282,tagblatt.ch,2021,2
+77,284,2020 News,2020 News,2
+3,284,2020 News,2021,2
+87,285,substack.com,substack.com,2
+11,285,substack.com,2020,2
+25,286,Die Ostschweiz,Die Ostschweiz,2
+3,286,Die Ostschweiz,2021,2
+16,287,Epoch Times,Epoch Times,2
+3,287,Epoch Times,2021,2
+85,288,Focus Online,Focus Online,2
+3,288,Focus Online,2021,2
+35,289,Corona Transition,Corona Transition,2
+11,289,Corona Transition,2020,2
+10,290,Wochenblick,Wochenblick,2
+3,290,Wochenblick,2021,2
+6,291,tp - Science & Technology,tp - Science & Technology,2
+11,291,tp - Science & Technology,2020,2
+47,292,reitschuster,reitschuster,2
+3,292,reitschuster,2021,2
+294,293,AerzteZeitung,AerzteZeitung,2
+3,293,AerzteZeitung,2021,2
+296,295,SWR,SWR,2
+3,295,SWR,2021,2
+120,297,linth24,linth24,2
+3,297,linth24,2021,2
+8,298,RT DE,RT DE,2
+11,298,RT DE,2020,2
+16,299,Epoch Times,Epoch Times,2
+3,299,Epoch Times,2021,2
+35,300,Corona Transition,Corona Transition,2
+3,300,Corona Transition,2021,2
+52,301,Tichys Einblick,Tichys Einblick,2
+3,301,Tichys Einblick,2021,2
+77,302,2020 News,2020 News,2
+11,302,2020 News,2020,2
+25,303,Die Ostschweiz,Die Ostschweiz,2
+11,303,Die Ostschweiz,2020,2
+10,304,Wochenblick,Wochenblick,2
+3,304,Wochenblick,2021,2
+85,305,Focus Online,Focus Online,2
+3,305,Focus Online,2021,2
+294,306,AerzteZeitung,AerzteZeitung,2
+3,306,AerzteZeitung,2021,2
+234,307,Langemann Medien,Langemann Medien,2
+11,307,Langemann Medien,2020,2
+67,308,Die Welt,Die Welt,2
+3,308,Die Welt,2021,2
+310,309,Honk for Hope,Honk for Hope,2
+11,309,Honk for Hope,2020,2
+14,311,Rubikon,Rubikon,2
+3,311,Rubikon,2021,2
+87,312,substack.com,substack.com,2
+11,312,substack.com,2020,2
+314,313,kenFM,kenFM,2
+3,313,kenFM,2021,2
+14,315,Rubikon,Rubikon,2
+11,315,Rubikon,2020,2
+16,316,Epoch Times,Epoch Times,2
+3,316,Epoch Times,2021,2
+8,317,RT DE,RT DE,2
+3,317,RT DE,2021,2
+25,318,Die Ostschweiz,Die Ostschweiz,2
+11,318,Die Ostschweiz,2020,2
+75,319,In$ide Paradeplatz,In$ide Paradeplatz,2
+3,319,In$ide Paradeplatz,2021,2
+110,320,Unser Mitteleuropa,Unser Mitteleuropa,2
+3,320,Unser Mitteleuropa,2021,2
+322,321,Jouwatch,Jouwatch,2
+3,321,Jouwatch,2021,2
+92,323,Telepolis,Telepolis,2
+3,323,Telepolis,2021,2
+8,324,RT DE,RT DE,2
+3,324,RT DE,2021,2
+110,325,Unser Mitteleuropa,Unser Mitteleuropa,2
+3,325,Unser Mitteleuropa,2021,2
+92,326,Telepolis,Telepolis,2
+3,326,Telepolis,2021,2
+18,327,Achgut.com,Achgut.com,2
+3,327,Achgut.com,2021,2
+2,328,ScienceFiles,ScienceFiles,2
+3,328,ScienceFiles,2021,2
+47,329,reitschuster,reitschuster,2
+3,329,reitschuster,2021,2
+85,330,Focus Online,Focus Online,2
+11,330,Focus Online,2020,2
+332,331,odysee,odysee,2
+3,331,odysee,2021,2
+6,333,tp - Science & Technology,tp - Science & Technology,2
+3,333,tp - Science & Technology,2021,2
+52,334,Tichys Einblick,Tichys Einblick,2
+3,334,Tichys Einblick,2021,2
+85,335,Focus Online,Focus Online,2
+3,335,Focus Online,2021,2
+258,336,Deutsches Ärzteblatt,Deutsches Ärzteblatt,2
+11,336,Deutsches Ärzteblatt,2020,2
+168,337,corona-blog.net,corona-blog.net,2
+3,337,corona-blog.net,2021,2
+339,338,Vera Lengsfeld,Vera Lengsfeld,2
+3,338,Vera Lengsfeld,2021,2
+92,340,Telepolis,Telepolis,2
+11,340,Telepolis,2020,2
+73,341,INFOsperber,INFOsperber,2
+11,341,INFOsperber,2020,2
+239,342,SRF,SRF,2
+11,342,SRF,2020,2
+52,343,Tichys Einblick,Tichys Einblick,2
+3,343,Tichys Einblick,2021,2
+14,344,Rubikon,Rubikon,2
+3,344,Rubikon,2021,2
+16,345,Epoch Times,Epoch Times,2
+11,345,Epoch Times,2020,2
+14,346,Rubikon,Rubikon,2
+3,346,Rubikon,2021,2
+6,347,tp - Science & Technology,tp - Science & Technology,2
+3,347,tp - Science & Technology,2021,2
+41,348,medinside.ch,medinside.ch,2
+11,348,medinside.ch,2020,2
+18,349,Achgut.com,Achgut.com,2
+3,349,Achgut.com,2021,2
+14,350,Rubikon,Rubikon,2
+11,350,Rubikon,2020,2
+16,351,Epoch Times,Epoch Times,2
+3,351,Epoch Times,2021,2
+2,352,ScienceFiles,ScienceFiles,2
+3,352,ScienceFiles,2021,2
+25,353,Die Ostschweiz,Die Ostschweiz,2
+3,353,Die Ostschweiz,2021,2
+16,354,Epoch Times,Epoch Times,2
+3,354,Epoch Times,2021,2
+18,355,Achgut.com,Achgut.com,2
+11,355,Achgut.com,2020,2
+10,356,Wochenblick,Wochenblick,2
+3,356,Wochenblick,2021,2
+47,357,reitschuster,reitschuster,2
+3,357,reitschuster,2021,2
+8,358,RT DE,RT DE,2
+3,358,RT DE,2021,2
+360,359,Weltwoche,Weltwoche,2
+11,359,Weltwoche,2020,2
+10,361,Wochenblick,Wochenblick,2
+3,361,Wochenblick,2021,2
+363,362,World Economic Forum,World Economic Forum,2
+11,362,World Economic Forum,2020,2
+365,364,RND,RND,2
+3,364,RND,2021,2
+258,366,Deutsches Ärzteblatt,Deutsches Ärzteblatt,2
+3,366,Deutsches Ärzteblatt,2021,2
+8,367,RT DE,RT DE,2
+3,367,RT DE,2021,2
+73,368,INFOsperber,INFOsperber,2
+3,368,INFOsperber,2021,2
+25,369,Die Ostschweiz,Die Ostschweiz,2
+3,369,Die Ostschweiz,2021,2
+6,370,tp - Science & Technology,tp - Science & Technology,2
+3,370,tp - Science & Technology,2021,2
+77,371,2020 News,2020 News,2
+3,371,2020 News,2021,2
+373,372,PubMed,PubMed,2
+11,372,PubMed,2020,2
+47,374,reitschuster,reitschuster,2
+3,374,reitschuster,2021,2
+16,375,Epoch Times,Epoch Times,2
+3,375,Epoch Times,2021,2
+39,376,Report24,Report24,2
+3,376,Report24,2021,2
+77,377,2020 News,2020 News,2
+3,377,2020 News,2021,2
+77,378,2020 News,2020 News,2
+3,378,2020 News,2021,2
+8,379,RT DE,RT DE,2
+3,379,RT DE,2021,2
+10,380,Wochenblick,Wochenblick,2
+3,380,Wochenblick,2021,2
+382,381,ZDF,ZDF,2
+11,381,ZDF,2020,2
+28,383,NachDenkSeiten,NachDenkSeiten,2
+11,383,NachDenkSeiten,2020,2
+2,384,ScienceFiles,ScienceFiles,2
+3,384,ScienceFiles,2021,2
+2,385,ScienceFiles,ScienceFiles,2
+3,385,ScienceFiles,2021,2
+131,386,Nordkurier,Nordkurier,2
+3,386,Nordkurier,2021,2
+10,387,Wochenblick,Wochenblick,2
+3,387,Wochenblick,2021,2
+2,388,ScienceFiles,ScienceFiles,2
+3,388,ScienceFiles,2021,2
+322,389,Jouwatch,Jouwatch,2
+11,389,Jouwatch,2020,2
+391,390,berthub.eu,berthub.eu,2
+11,390,berthub.eu,2020,2
+44,392,NZZ,NZZ,2
+3,392,NZZ,2021,2
+16,393,Epoch Times,Epoch Times,2
+3,393,Epoch Times,2021,2
+10,394,Wochenblick,Wochenblick,2
+3,394,Wochenblick,2021,2
+10,395,Wochenblick,Wochenblick,2
+3,395,Wochenblick,2021,2
+397,396,Pharmazeutische Zeitung,Pharmazeutische Zeitung,2
+11,396,Pharmazeutische Zeitung,2020,2
+35,398,Corona Transition,Corona Transition,2
+3,398,Corona Transition,2021,2
+35,399,Corona Transition,Corona Transition,2
+3,399,Corona Transition,2021,2
+8,400,RT DE,RT DE,2
+3,400,RT DE,2021,2
+25,401,Die Ostschweiz,Die Ostschweiz,2
+3,401,Die Ostschweiz,2021,2
+14,402,Rubikon,Rubikon,2
+11,402,Rubikon,2020,2
+77,403,2020 News,2020 News,2
+3,403,2020 News,2021,2
+6,404,tp - Science & Technology,tp - Science & Technology,2
+3,404,tp - Science & Technology,2021,2
+10,405,Wochenblick,Wochenblick,2
+3,405,Wochenblick,2021,2
+407,406,Deutschlandfunk,Deutschlandfunk,2
+3,406,Deutschlandfunk,2021,2
+6,408,tp - Science & Technology,tp - Science & Technology,2
+3,408,tp - Science & Technology,2021,2
+6,409,tp - Science & Technology,tp - Science & Technology,2
+3,409,tp - Science & Technology,2021,2
+411,410,tagesschau.de,tagesschau.de,2
+11,410,tagesschau.de,2020,2
+16,412,Epoch Times,Epoch Times,2
+3,412,Epoch Times,2021,2
+10,413,Wochenblick,Wochenblick,2
+3,413,Wochenblick,2021,2
+16,414,Epoch Times,Epoch Times,2
+3,414,Epoch Times,2021,2
+39,415,Report24,Report24,2
+3,415,Report24,2021,2
+67,416,Die Welt,Die Welt,2
+3,416,Die Welt,2021,2
+35,417,Corona Transition,Corona Transition,2
+3,417,Corona Transition,2021,2
+49,418,Hessisches Ärzteblatt,Hessisches Ärzteblatt,2
+11,418,Hessisches Ärzteblatt,2020,2
+420,419,Nau,Nau,2
+3,419,Nau,2021,2
+41,421,medinside.ch,medinside.ch,2
+11,421,medinside.ch,2020,2
+25,422,Die Ostschweiz,Die Ostschweiz,2
+3,422,Die Ostschweiz,2021,2
+10,423,Wochenblick,Wochenblick,2
+3,423,Wochenblick,2021,2
+10,424,Wochenblick,Wochenblick,2
+3,424,Wochenblick,2021,2
+47,425,reitschuster,reitschuster,2
+3,425,reitschuster,2021,2
+10,426,Wochenblick,Wochenblick,2
+3,426,Wochenblick,2021,2
+44,427,NZZ,NZZ,2
+3,427,NZZ,2021,2
+41,428,medinside.ch,medinside.ch,2
+3,428,medinside.ch,2021,2
+21,429,Tagesanzeiger,Tagesanzeiger,2
+11,429,Tagesanzeiger,2020,2
+47,430,reitschuster,reitschuster,2
+3,430,reitschuster,2021,2
+16,431,Epoch Times,Epoch Times,2
+3,431,Epoch Times,2021,2
+47,432,reitschuster,reitschuster,2
+3,432,reitschuster,2021,2
+47,433,reitschuster,reitschuster,2
+3,433,reitschuster,2021,2
+35,434,Corona Transition,Corona Transition,2
+3,434,Corona Transition,2021,2
+77,435,2020 News,2020 News,2
+3,435,2020 News,2021,2
+85,436,Focus Online,Focus Online,2
+3,436,Focus Online,2021,2
+8,437,RT DE,RT DE,2
+11,437,RT DE,2020,2
+239,438,SRF,SRF,2
+11,438,SRF,2020,2
+360,439,Weltwoche,Weltwoche,2
+11,439,Weltwoche,2020,2
+52,440,Tichys Einblick,Tichys Einblick,2
+3,440,Tichys Einblick,2021,2
+35,441,Corona Transition,Corona Transition,2
+3,441,Corona Transition,2021,2
+25,442,Die Ostschweiz,Die Ostschweiz,2
+3,442,Die Ostschweiz,2021,2
+444,443,WHO,WHO,2
+11,443,WHO,2020,2
+35,445,Corona Transition,Corona Transition,2
+3,445,Corona Transition,2021,2
+25,446,Die Ostschweiz,Die Ostschweiz,2
+3,446,Die Ostschweiz,2021,2
+77,447,2020 News,2020 News,2
+11,447,2020 News,2020,2
+25,448,Die Ostschweiz,Die Ostschweiz,2
+3,448,Die Ostschweiz,2021,2
+450,449,World Health Organization,World Health Organization,2
+11,449,World Health Organization,2020,2
+120,451,linth24,linth24,2
+3,451,linth24,2021,2
+120,452,linth24,linth24,2
+11,452,linth24,2020,2
+454,453,infekt.ch,infekt.ch,2
+3,453,infekt.ch,2021,2
+92,455,Telepolis,Telepolis,2
+3,455,Telepolis,2021,2
+92,456,Telepolis,Telepolis,2
+3,456,Telepolis,2021,2
+131,457,Nordkurier,Nordkurier,2
+11,457,Nordkurier,2020,2
+28,458,NachDenkSeiten,NachDenkSeiten,2
+11,458,NachDenkSeiten,2020,2
+77,459,2020 News,2020 News,2
+11,459,2020 News,2020,2
+10,460,Wochenblick,Wochenblick,2
+3,460,Wochenblick,2021,2
+462,461,ntv,ntv,2
+3,461,ntv,2021,2
+2,463,ScienceFiles,ScienceFiles,2
+3,463,ScienceFiles,2021,2
+2,464,ScienceFiles,ScienceFiles,2
+3,464,ScienceFiles,2021,2
+256,465,Swissmedic,Swissmedic,2
+3,465,Swissmedic,2021,2
+110,466,Unser Mitteleuropa,Unser Mitteleuropa,2
+3,466,Unser Mitteleuropa,2021,2
+37,467,multipolar,multipolar,2
+3,467,multipolar,2021,2
+283,468,tagblatt.ch,tagblatt.ch,2
+3,468,tagblatt.ch,2021,2
+25,469,Die Ostschweiz,Die Ostschweiz,2
+3,469,Die Ostschweiz,2021,2
+35,470,Corona Transition,Corona Transition,2
+3,470,Corona Transition,2021,2
+16,471,Epoch Times,Epoch Times,2
+3,471,Epoch Times,2021,2
+28,472,NachDenkSeiten,NachDenkSeiten,2
+11,472,NachDenkSeiten,2020,2
+6,473,tp - Science & Technology,tp - Science & Technology,2
+3,473,tp - Science & Technology,2021,2
+6,474,tp - Science & Technology,tp - Science & Technology,2
+3,474,tp - Science & Technology,2021,2
+10,475,Wochenblick,Wochenblick,2
+3,475,Wochenblick,2021,2
+6,476,tp - Science & Technology,tp - Science & Technology,2
+3,476,tp - Science & Technology,2021,2
+6,477,tp - Science & Technology,tp - Science & Technology,2
+3,477,tp - Science & Technology,2021,2
+145,478,Weltwoche daily,Weltwoche daily,2
+3,478,Weltwoche daily,2021,2
+8,479,RT DE,RT DE,2
+3,479,RT DE,2021,2
+47,480,reitschuster,reitschuster,2
+3,480,reitschuster,2021,2
+6,481,tp - Science & Technology,tp - Science & Technology,2
+3,481,tp - Science & Technology,2021,2
+35,482,Corona Transition,Corona Transition,2
+3,482,Corona Transition,2021,2
+47,483,reitschuster,reitschuster,2
+3,483,reitschuster,2021,2
+87,484,substack.com,substack.com,2
+3,484,substack.com,2021,2
+8,485,RT DE,RT DE,2
+3,485,RT DE,2021,2
+239,486,SRF,SRF,2
+11,486,SRF,2020,2
+239,487,SRF,SRF,2
+3,487,SRF,2021,2
+462,488,ntv,ntv,2
+3,488,ntv,2021,2
+10,489,Wochenblick,Wochenblick,2
+3,489,Wochenblick,2021,2
+462,490,ntv,ntv,2
+3,490,ntv,2021,2
+67,491,Die Welt,Die Welt,2
+3,491,Die Welt,2021,2
+16,492,Epoch Times,Epoch Times,2
+3,492,Epoch Times,2021,2
+16,493,Epoch Times,Epoch Times,2
+3,493,Epoch Times,2021,2
+8,494,RT DE,RT DE,2
+3,494,RT DE,2021,2
+67,495,Die Welt,Die Welt,2
+11,495,Die Welt,2020,2
+67,496,Die Welt,Die Welt,2
+3,496,Die Welt,2021,2
+168,497,corona-blog.net,corona-blog.net,2
+3,497,corona-blog.net,2021,2
+39,498,Report24,Report24,2
+3,498,Report24,2021,2
+462,499,ntv,ntv,2
+3,499,ntv,2021,2
+501,500,World Freedom Alliance,World Freedom Alliance,2
+11,500,World Freedom Alliance,2020,2
+10,502,Wochenblick,Wochenblick,2
+3,502,Wochenblick,2021,2
+10,503,Wochenblick,Wochenblick,2
+3,503,Wochenblick,2021,2
+145,504,Weltwoche daily,Weltwoche daily,2
+3,504,Weltwoche daily,2021,2
+454,505,infekt.ch,infekt.ch,2
+3,505,infekt.ch,2021,2
+507,506,Research Square,Research Square,2
+3,506,Research Square,2021,2
+120,508,linth24,linth24,2
+3,508,linth24,2021,2
+258,509,Deutsches Ärzteblatt,Deutsches Ärzteblatt,2
+3,509,Deutsches Ärzteblatt,2021,2
+47,510,reitschuster,reitschuster,2
+3,510,reitschuster,2021,2
+512,511,Marty McKay,Marty McKay,2
+3,511,Marty McKay,2021,2
+99,513,Berliner Zeitung,Berliner Zeitung,2
+3,513,Berliner Zeitung,2021,2
+515,514,National Institute of Allergy and Infectious Diseases,National Institute of Allergy and Infectious Diseases,2
+277,514,National Institute of Allergy and Infectious Diseases,2019,2
+239,516,SRF,SRF,2
+11,516,SRF,2020,2
+75,517,In$ide Paradeplatz,In$ide Paradeplatz,2
+3,517,In$ide Paradeplatz,2021,2
+37,518,multipolar,multipolar,2
+11,518,multipolar,2020,2
+10,519,Wochenblick,Wochenblick,2
+3,519,Wochenblick,2021,2
+85,520,Focus Online,Focus Online,2
+11,520,Focus Online,2020,2
+21,521,Tagesanzeiger,Tagesanzeiger,2
+3,521,Tagesanzeiger,2021,2
+28,522,NachDenkSeiten,NachDenkSeiten,2
+3,522,NachDenkSeiten,2021,2
+14,523,Rubikon,Rubikon,2
+11,523,Rubikon,2020,2
+47,524,reitschuster,reitschuster,2
+3,524,reitschuster,2021,2
+92,525,Telepolis,Telepolis,2
+11,525,Telepolis,2020,2
+35,526,Corona Transition,Corona Transition,2
+3,526,Corona Transition,2021,2
+450,527,World Health Organization,World Health Organization,2
+11,527,World Health Organization,2020,2
+73,528,INFOsperber,INFOsperber,2
+11,528,INFOsperber,2020,2
+14,529,Rubikon,Rubikon,2
+11,529,Rubikon,2020,2
+25,530,Die Ostschweiz,Die Ostschweiz,2
+3,530,Die Ostschweiz,2021,2
+21,531,Tagesanzeiger,Tagesanzeiger,2
+3,531,Tagesanzeiger,2021,2
+25,532,Die Ostschweiz,Die Ostschweiz,2
+3,532,Die Ostschweiz,2021,2
+99,533,Berliner Zeitung,Berliner Zeitung,2
+11,533,Berliner Zeitung,2020,2
+10,534,Wochenblick,Wochenblick,2
+3,534,Wochenblick,2021,2
+536,535,Unzensuriert,Unzensuriert,2
+11,535,Unzensuriert,2020,2
+25,537,Die Ostschweiz,Die Ostschweiz,2
+3,537,Die Ostschweiz,2021,2
+407,538,Deutschlandfunk,Deutschlandfunk,2
+3,538,Deutschlandfunk,2021,2
+6,539,tp - Science & Technology,tp - Science & Technology,2
+3,539,tp - Science & Technology,2021,2
+99,540,Berliner Zeitung,Berliner Zeitung,2
+3,540,Berliner Zeitung,2021,2
+16,541,Epoch Times,Epoch Times,2
+3,541,Epoch Times,2021,2
+14,542,Rubikon,Rubikon,2
+3,542,Rubikon,2021,2
+28,543,NachDenkSeiten,NachDenkSeiten,2
+3,543,NachDenkSeiten,2021,2
+16,544,Epoch Times,Epoch Times,2
+3,544,Epoch Times,2021,2
+8,545,RT DE,RT DE,2
+3,545,RT DE,2021,2
+6,546,tp - Science & Technology,tp - Science & Technology,2
+3,546,tp - Science & Technology,2021,2
+95,547,Youtube,Youtube,2
+11,547,Youtube,2020,2
+10,548,Wochenblick,Wochenblick,2
+3,548,Wochenblick,2021,2
+52,549,Tichys Einblick,Tichys Einblick,2
+3,549,Tichys Einblick,2021,2
+120,550,linth24,linth24,2
+11,550,linth24,2020,2
+16,551,Epoch Times,Epoch Times,2
+3,551,Epoch Times,2021,2
+10,552,Wochenblick,Wochenblick,2
+3,552,Wochenblick,2021,2
+462,553,ntv,ntv,2
+3,553,ntv,2021,2
+110,554,Unser Mitteleuropa,Unser Mitteleuropa,2
+3,554,Unser Mitteleuropa,2021,2
+10,555,Wochenblick,Wochenblick,2
+3,555,Wochenblick,2021,2
+16,556,Epoch Times,Epoch Times,2
+3,556,Epoch Times,2021,2
+10,557,Wochenblick,Wochenblick,2
+3,557,Wochenblick,2021,2
+99,558,Berliner Zeitung,Berliner Zeitung,2
+3,558,Berliner Zeitung,2021,2
+47,559,reitschuster,reitschuster,2
+3,559,reitschuster,2021,2
+561,560,Kinder-Maskenpetition,Kinder-Maskenpetition,2
+3,560,Kinder-Maskenpetition,2021,2
+25,562,Die Ostschweiz,Die Ostschweiz,2
+3,562,Die Ostschweiz,2021,2
+6,563,tp - Science & Technology,tp - Science & Technology,2
+3,563,tp - Science & Technology,2021,2
+73,564,INFOsperber,INFOsperber,2
+3,564,INFOsperber,2021,2
+28,565,NachDenkSeiten,NachDenkSeiten,2
+11,565,NachDenkSeiten,2020,2
+21,566,Tagesanzeiger,Tagesanzeiger,2
+11,566,Tagesanzeiger,2020,2
+25,567,Die Ostschweiz,Die Ostschweiz,2
+3,567,Die Ostschweiz,2021,2
+6,568,tp - Science & Technology,tp - Science & Technology,2
+3,568,tp - Science & Technology,2021,2
+92,569,Telepolis,Telepolis,2
+11,569,Telepolis,2020,2
+450,570,World Health Organization,World Health Organization,2
+11,570,World Health Organization,2020,2
+6,571,tp - Science & Technology,tp - Science & Technology,2
+3,571,tp - Science & Technology,2021,2
+462,572,ntv,ntv,2
+3,572,ntv,2021,2
+239,573,SRF,SRF,2
+11,573,SRF,2020,2
+35,574,Corona Transition,Corona Transition,2
+3,574,Corona Transition,2021,2
+14,575,Rubikon,Rubikon,2
+11,575,Rubikon,2020,2
+10,576,Wochenblick,Wochenblick,2
+3,576,Wochenblick,2021,2
+47,577,reitschuster,reitschuster,2
+3,577,reitschuster,2021,2
+67,578,Die Welt,Die Welt,2
+3,578,Die Welt,2021,2
+580,579,Das Schweizer Parlament,Das Schweizer Parlament,2
+3,579,Das Schweizer Parlament,2021,2
+120,581,linth24,linth24,2
+3,581,linth24,2021,2
+583,582,SVP Kanton Zürich,SVP Kanton Zürich,2
+3,582,SVP Kanton Zürich,2021,2
+47,584,reitschuster,reitschuster,2
+11,584,reitschuster,2020,2
+420,585,Nau,Nau,2
+3,585,Nau,2021,2
+37,586,multipolar,multipolar,2
+3,586,multipolar,2021,2
+588,587,Journal of Virology,Journal of Virology,2
+277,587,Journal of Virology,2019,2
+10,589,Wochenblick,Wochenblick,2
+11,589,Wochenblick,2020,2
+8,590,RT DE,RT DE,2
+3,590,RT DE,2021,2
+39,591,Report24,Report24,2
+3,591,Report24,2021,2
+16,592,Epoch Times,Epoch Times,2
+3,592,Epoch Times,2021,2
+10,593,Wochenblick,Wochenblick,2
+3,593,Wochenblick,2021,2
+18,594,Achgut.com,Achgut.com,2
+3,594,Achgut.com,2021,2
+120,595,linth24,linth24,2
+11,595,linth24,2020,2
+18,596,Achgut.com,Achgut.com,2
+3,596,Achgut.com,2021,2
+39,597,Report24,Report24,2
+3,597,Report24,2021,2
+599,598,Vimeo,Vimeo,2
+11,598,Vimeo,2020,2
+10,600,Wochenblick,Wochenblick,2
+3,600,Wochenblick,2021,2
+602,601,SVP Schweiz,SVP Schweiz,2
+3,601,SVP Schweiz,2021,2
+145,603,Weltwoche daily,Weltwoche daily,2
+3,603,Weltwoche daily,2021,2
+605,604,Beobachter,Beobachter,2
+11,604,Beobachter,2020,2
+35,606,Corona Transition,Corona Transition,2
+3,606,Corona Transition,2021,2
+10,607,Wochenblick,Wochenblick,2
+3,607,Wochenblick,2021,2
+25,608,Die Ostschweiz,Die Ostschweiz,2
+11,608,Die Ostschweiz,2020,2
+258,609,Deutsches Ärzteblatt,Deutsches Ärzteblatt,2
+11,609,Deutsches Ärzteblatt,2020,2
+8,610,RT DE,RT DE,2
+3,610,RT DE,2021,2
+75,611,In$ide Paradeplatz,In$ide Paradeplatz,2
+3,611,In$ide Paradeplatz,2021,2
+25,612,Die Ostschweiz,Die Ostschweiz,2
+3,612,Die Ostschweiz,2021,2
+73,613,INFOsperber,INFOsperber,2
+11,613,INFOsperber,2020,2
+35,614,Corona Transition,Corona Transition,2
+3,614,Corona Transition,2021,2
+2,615,ScienceFiles,ScienceFiles,2
+3,615,ScienceFiles,2021,2
+85,616,Focus Online,Focus Online,2
+3,616,Focus Online,2021,2
+39,617,Report24,Report24,2
+3,617,Report24,2021,2
+14,618,Rubikon,Rubikon,2
+3,618,Rubikon,2021,2
+201,619,ZE!TPUNKT,ZE!TPUNKT,2
+11,619,ZE!TPUNKT,2020,2
+2,620,ScienceFiles,ScienceFiles,2
+3,620,ScienceFiles,2021,2
+16,621,Epoch Times,Epoch Times,2
+3,621,Epoch Times,2021,2
+37,622,multipolar,multipolar,2
+11,622,multipolar,2020,2
+283,623,tagblatt.ch,tagblatt.ch,2
+3,623,tagblatt.ch,2021,2
+28,624,NachDenkSeiten,NachDenkSeiten,2
+3,624,NachDenkSeiten,2021,2
+39,625,Report24,Report24,2
+3,625,Report24,2021,2
+6,626,tp - Science & Technology,tp - Science & Technology,2
+3,626,tp - Science & Technology,2021,2
+628,627,Sebastian Friebel,Sebastian Friebel,2
+11,627,Sebastian Friebel,2020,2
+35,629,Corona Transition,Corona Transition,2
+3,629,Corona Transition,2021,2
+6,630,tp - Science & Technology,tp - Science & Technology,2
+3,630,tp - Science & Technology,2021,2
+25,631,Die Ostschweiz,Die Ostschweiz,2
+3,631,Die Ostschweiz,2021,2
+14,632,Rubikon,Rubikon,2
+11,632,Rubikon,2020,2
+41,633,medinside.ch,medinside.ch,2
+11,633,medinside.ch,2020,2
+85,634,Focus Online,Focus Online,2
+3,634,Focus Online,2021,2
+6,635,tp - Science & Technology,tp - Science & Technology,2
+3,635,tp - Science & Technology,2021,2
+2,636,ScienceFiles,ScienceFiles,2
+3,636,ScienceFiles,2021,2
+16,637,Epoch Times,Epoch Times,2
+3,637,Epoch Times,2021,2
+2,638,ScienceFiles,ScienceFiles,2
+3,638,ScienceFiles,2021,2
+95,639,Youtube,Youtube,2
+11,639,Youtube,2020,2
+462,640,ntv,ntv,2
+3,640,ntv,2021,2
+44,641,NZZ,NZZ,2
+3,641,NZZ,2021,2
+16,642,Epoch Times,Epoch Times,2
+3,642,Epoch Times,2021,2
+47,643,reitschuster,reitschuster,2
+3,643,reitschuster,2021,2
+645,644,bitchute,bitchute,2
+11,644,bitchute,2020,2
+6,646,tp - Science & Technology,tp - Science & Technology,2
+3,646,tp - Science & Technology,2021,2
+648,647,Netflix,Netflix,2
+277,647,Netflix,2019,2
+18,649,Achgut.com,Achgut.com,2
+3,649,Achgut.com,2021,2
+25,650,Die Ostschweiz,Die Ostschweiz,2
+3,650,Die Ostschweiz,2021,2
+8,651,RT DE,RT DE,2
+11,651,RT DE,2020,2
+450,652,World Health Organization,World Health Organization,2
+11,652,World Health Organization,2020,2
+2,653,ScienceFiles,ScienceFiles,2
+3,653,ScienceFiles,2021,2
+10,654,Wochenblick,Wochenblick,2
+3,654,Wochenblick,2021,2
+44,655,NZZ,NZZ,2
+3,655,NZZ,2021,2
+110,656,Unser Mitteleuropa,Unser Mitteleuropa,2
+3,656,Unser Mitteleuropa,2021,2
+462,657,ntv,ntv,2
+3,657,ntv,2021,2
+645,658,bitchute,bitchute,2
+11,658,bitchute,2020,2
+35,659,Corona Transition,Corona Transition,2
+3,659,Corona Transition,2021,2
+52,660,Tichys Einblick,Tichys Einblick,2
+3,660,Tichys Einblick,2021,2
+662,661,Berner Zeitung,Berner Zeitung,2
+11,661,Berner Zeitung,2020,2
+35,663,Corona Transition,Corona Transition,2
+3,663,Corona Transition,2021,2
+18,664,Achgut.com,Achgut.com,2
+11,664,Achgut.com,2020,2
+47,665,reitschuster,reitschuster,2
+3,665,reitschuster,2021,2
+6,666,tp - Science & Technology,tp - Science & Technology,2
+3,666,tp - Science & Technology,2021,2
+10,667,Wochenblick,Wochenblick,2
+3,667,Wochenblick,2021,2
+25,668,Die Ostschweiz,Die Ostschweiz,2
+3,668,Die Ostschweiz,2021,2
+21,669,Tagesanzeiger,Tagesanzeiger,2
+3,669,Tagesanzeiger,2021,2
+580,670,Das Schweizer Parlament,Das Schweizer Parlament,2
+11,670,Das Schweizer Parlament,2020,2
+85,671,Focus Online,Focus Online,2
+11,671,Focus Online,2020,2
+35,672,Corona Transition,Corona Transition,2
+3,672,Corona Transition,2021,2
+8,673,RT DE,RT DE,2
+3,673,RT DE,2021,2
+25,674,Die Ostschweiz,Die Ostschweiz,2
+3,674,Die Ostschweiz,2021,2
+77,675,2020 News,2020 News,2
+11,675,2020 News,2020,2
+677,676,Kanton Zürich - Bildungsdirektiona - Verfügung,Kanton Zürich - Bildungsdirektiona - Verfügung,2
+3,676,Kanton Zürich - Bildungsdirektiona - Verfügung,2021,2
+382,678,ZDF,ZDF,2
+3,678,ZDF,2021,2
+41,679,medinside.ch,medinside.ch,2
+3,679,medinside.ch,2021,2
+8,680,RT DE,RT DE,2
+3,680,RT DE,2021,2
+77,681,2020 News,2020 News,2
+11,681,2020 News,2020,2
+2,682,ScienceFiles,ScienceFiles,2
+3,682,ScienceFiles,2021,2
+10,683,Wochenblick,Wochenblick,2
+3,683,Wochenblick,2021,2
+14,684,Rubikon,Rubikon,2
+3,684,Rubikon,2021,2
+450,685,World Health Organization,World Health Organization,2
+11,685,World Health Organization,2020,2
+25,686,Die Ostschweiz,Die Ostschweiz,2
+11,686,Die Ostschweiz,2020,2
+35,687,Corona Transition,Corona Transition,2
+3,687,Corona Transition,2021,2
+689,688,Global Research,Global Research,2
+3,688,Global Research,2021,2
+283,690,tagblatt.ch,tagblatt.ch,2
+11,690,tagblatt.ch,2020,2
+47,691,reitschuster,reitschuster,2
+11,691,reitschuster,2020,2
+10,692,Wochenblick,Wochenblick,2
+3,692,Wochenblick,2021,2
+8,693,RT DE,RT DE,2
+11,693,RT DE,2020,2
+47,694,reitschuster,reitschuster,2
+11,694,reitschuster,2020,2
+16,695,Epoch Times,Epoch Times,2
+3,695,Epoch Times,2021,2
+25,696,Die Ostschweiz,Die Ostschweiz,2
+3,696,Die Ostschweiz,2021,2
+10,697,Wochenblick,Wochenblick,2
+3,697,Wochenblick,2021,2
+699,698,Initiative Corona Info,Initiative Corona Info,2
+3,698,Initiative Corona Info,2021,2
+10,700,Wochenblick,Wochenblick,2
+3,700,Wochenblick,2021,2
+77,701,2020 News,2020 News,2
+3,701,2020 News,2021,2
+2,702,ScienceFiles,ScienceFiles,2
+3,702,ScienceFiles,2021,2
+39,703,Report24,Report24,2
+3,703,Report24,2021,2
+14,704,Rubikon,Rubikon,2
+11,704,Rubikon,2020,2
+10,705,Wochenblick,Wochenblick,2
+11,705,Wochenblick,2020,2
+420,706,Nau,Nau,2
+3,706,Nau,2021,2
+605,707,Beobachter,Beobachter,2
+11,707,Beobachter,2020,2
+41,708,medinside.ch,medinside.ch,2
+11,708,medinside.ch,2020,2
+67,709,Die Welt,Die Welt,2
+3,709,Die Welt,2021,2
+322,710,Jouwatch,Jouwatch,2
+11,710,Jouwatch,2020,2
+10,711,Wochenblick,Wochenblick,2
+3,711,Wochenblick,2021,2
+47,712,reitschuster,reitschuster,2
+3,712,reitschuster,2021,2
+14,713,Rubikon,Rubikon,2
+11,713,Rubikon,2020,2
+645,714,bitchute,bitchute,2
+11,714,bitchute,2020,2
+131,715,Nordkurier,Nordkurier,2
+3,715,Nordkurier,2021,2
+35,716,Corona Transition,Corona Transition,2
+3,716,Corona Transition,2021,2
+25,717,Die Ostschweiz,Die Ostschweiz,2
+3,717,Die Ostschweiz,2021,2
+44,718,NZZ,NZZ,2
+11,718,NZZ,2020,2
+35,719,Corona Transition,Corona Transition,2
+3,719,Corona Transition,2021,2
+2,720,ScienceFiles,ScienceFiles,2
+3,720,ScienceFiles,2021,2
+35,721,Corona Transition,Corona Transition,2
+3,721,Corona Transition,2021,2
+723,722,Gesundheitstipp,Gesundheitstipp,2
+3,722,Gesundheitstipp,2021,2
+75,724,In$ide Paradeplatz,In$ide Paradeplatz,2
+3,724,In$ide Paradeplatz,2021,2
+52,725,Tichys Einblick,Tichys Einblick,2
+3,725,Tichys Einblick,2021,2
+168,726,corona-blog.net,corona-blog.net,2
+3,726,corona-blog.net,2021,2
+131,727,Nordkurier,Nordkurier,2
+3,727,Nordkurier,2021,2
+85,728,Focus Online,Focus Online,2
+11,728,Focus Online,2020,2
+6,729,tp - Science & Technology,tp - Science & Technology,2
+3,729,tp - Science & Technology,2021,2
+10,730,Wochenblick,Wochenblick,2
+3,730,Wochenblick,2021,2
+10,731,Wochenblick,Wochenblick,2
+3,731,Wochenblick,2021,2
+25,732,Die Ostschweiz,Die Ostschweiz,2
+3,732,Die Ostschweiz,2021,2
+8,733,RT DE,RT DE,2
+11,733,RT DE,2020,2
+35,734,Corona Transition,Corona Transition,2
+3,734,Corona Transition,2021,2
+283,735,tagblatt.ch,tagblatt.ch,2
+3,735,tagblatt.ch,2021,2
+737,736,FM1 Today,FM1 Today,2
+3,736,FM1 Today,2021,2
+25,738,Die Ostschweiz,Die Ostschweiz,2
+11,738,Die Ostschweiz,2020,2
+47,739,reitschuster,reitschuster,2
+3,739,reitschuster,2021,2
+10,740,Wochenblick,Wochenblick,2
+3,740,Wochenblick,2021,2
+47,741,reitschuster,reitschuster,2
+3,741,reitschuster,2021,2
+743,742,BAG,BAG,2
+11,742,BAG,2020,2
+35,744,Corona Transition,Corona Transition,2
+3,744,Corona Transition,2021,2
+99,745,Berliner Zeitung,Berliner Zeitung,2
+3,745,Berliner Zeitung,2021,2
+77,746,2020 News,2020 News,2
+3,746,2020 News,2021,2
+56,747,meinbezirk.at,meinbezirk.at,2
+11,747,meinbezirk.at,2020,2
+462,748,ntv,ntv,2
+3,748,ntv,2021,2
+2,749,ScienceFiles,ScienceFiles,2
+3,749,ScienceFiles,2021,2
+8,750,RT DE,RT DE,2
+11,750,RT DE,2020,2
+236,751,Uncut-News,Uncut-News,2
+3,751,Uncut-News,2021,2
+25,752,Die Ostschweiz,Die Ostschweiz,2
+11,752,Die Ostschweiz,2020,2
+16,753,Epoch Times,Epoch Times,2
+3,753,Epoch Times,2021,2
+16,754,Epoch Times,Epoch Times,2
+3,754,Epoch Times,2021,2
+16,755,Epoch Times,Epoch Times,2
+11,755,Epoch Times,2020,2
+10,756,Wochenblick,Wochenblick,2
+3,756,Wochenblick,2021,2
+314,757,kenFM,kenFM,2
+11,757,kenFM,2020,2
+10,758,Wochenblick,Wochenblick,2
+3,758,Wochenblick,2021,2
+47,759,reitschuster,reitschuster,2
+3,759,reitschuster,2021,2
+6,760,tp - Science & Technology,tp - Science & Technology,2
+3,760,tp - Science & Technology,2021,2
+762,761,The New York Times,The New York Times,2
+11,761,The New York Times,2020,2
+25,763,Die Ostschweiz,Die Ostschweiz,2
+11,763,Die Ostschweiz,2020,2
+120,764,linth24,linth24,2
+3,764,linth24,2021,2
+10,765,Wochenblick,Wochenblick,2
+3,765,Wochenblick,2021,2
+25,766,Die Ostschweiz,Die Ostschweiz,2
+3,766,Die Ostschweiz,2021,2
+10,767,Wochenblick,Wochenblick,2
+3,767,Wochenblick,2021,2
+10,768,Wochenblick,Wochenblick,2
+3,768,Wochenblick,2021,2
+770,769,SNA,SNA,2
+3,769,SNA,2021,2
+73,771,INFOsperber,INFOsperber,2
+11,771,INFOsperber,2020,2
+47,772,reitschuster,reitschuster,2
+3,772,reitschuster,2021,2
+10,773,Wochenblick,Wochenblick,2
+3,773,Wochenblick,2021,2
+47,774,reitschuster,reitschuster,2
+11,774,reitschuster,2020,2
+16,775,Epoch Times,Epoch Times,2
+3,775,Epoch Times,2021,2
+6,776,tp - Science & Technology,tp - Science & Technology,2
+11,776,tp - Science & Technology,2020,2
+209,777,ARD,ARD,2
+3,777,ARD,2021,2
+360,778,Weltwoche,Weltwoche,2
+11,778,Weltwoche,2020,2
+47,779,reitschuster,reitschuster,2
+3,779,reitschuster,2021,2
+92,780,Telepolis,Telepolis,2
+11,780,Telepolis,2020,2
+6,781,tp - Science & Technology,tp - Science & Technology,2
+3,781,tp - Science & Technology,2021,2
+743,782,BAG,BAG,2
+11,782,BAG,2020,2
+35,783,Corona Transition,Corona Transition,2
+3,783,Corona Transition,2021,2
+10,784,Wochenblick,Wochenblick,2
+3,784,Wochenblick,2021,2
+10,785,Wochenblick,Wochenblick,2
+3,785,Wochenblick,2021,2
+25,786,Die Ostschweiz,Die Ostschweiz,2
+11,786,Die Ostschweiz,2020,2
+10,787,Wochenblick,Wochenblick,2
+3,787,Wochenblick,2021,2
+10,788,Wochenblick,Wochenblick,2
+3,788,Wochenblick,2021,2
+6,789,tp - Science & Technology,tp - Science & Technology,2
+3,789,tp - Science & Technology,2021,2
+10,790,Wochenblick,Wochenblick,2
+11,790,Wochenblick,2020,2
+73,791,INFOsperber,INFOsperber,2
+3,791,INFOsperber,2021,2
+6,792,tp - Science & Technology,tp - Science & Technology,2
+3,792,tp - Science & Technology,2021,2
+35,793,Corona Transition,Corona Transition,2
+3,793,Corona Transition,2021,2
+67,794,Die Welt,Die Welt,2
+3,794,Die Welt,2021,2
+225,795,NDR,NDR,2
+3,795,NDR,2021,2
+462,796,ntv,ntv,2
+3,796,ntv,2021,2
+243,797,Swiss Policy Research,Swiss Policy Research,2
+3,797,Swiss Policy Research,2021,2
+14,798,Rubikon,Rubikon,2
+11,798,Rubikon,2020,2
+8,799,RT DE,RT DE,2
+11,799,RT DE,2020,2
+201,800,ZE!TPUNKT,ZE!TPUNKT,2
+11,800,ZE!TPUNKT,2020,2
+8,801,RT DE,RT DE,2
+11,801,RT DE,2020,2
+25,802,Die Ostschweiz,Die Ostschweiz,2
+3,802,Die Ostschweiz,2021,2
+85,803,Focus Online,Focus Online,2
+11,803,Focus Online,2020,2
+6,804,tp - Science & Technology,tp - Science & Technology,2
+3,804,tp - Science & Technology,2021,2
+99,805,Berliner Zeitung,Berliner Zeitung,2
+3,805,Berliner Zeitung,2021,2
+807,806,The Lancet,The Lancet,2
+11,806,The Lancet,2020,2
+120,808,linth24,linth24,2
+3,808,linth24,2021,2
+18,809,Achgut.com,Achgut.com,2
+3,809,Achgut.com,2021,2
+743,810,BAG,BAG,2
+3,810,BAG,2021,2
+168,811,corona-blog.net,corona-blog.net,2
+3,811,corona-blog.net,2021,2
+10,812,Wochenblick,Wochenblick,2
+3,812,Wochenblick,2021,2
+47,813,reitschuster,reitschuster,2
+3,813,reitschuster,2021,2
+462,814,ntv,ntv,2
+3,814,ntv,2021,2
+25,815,Die Ostschweiz,Die Ostschweiz,2
+3,815,Die Ostschweiz,2021,2
+14,816,Rubikon,Rubikon,2
+11,816,Rubikon,2020,2
+454,817,infekt.ch,infekt.ch,2
+11,817,infekt.ch,2020,2
+28,818,NachDenkSeiten,NachDenkSeiten,2
+3,818,NachDenkSeiten,2021,2
+16,819,Epoch Times,Epoch Times,2
+11,819,Epoch Times,2020,2
+10,820,Wochenblick,Wochenblick,2
+3,820,Wochenblick,2021,2
+8,821,RT DE,RT DE,2
+3,821,RT DE,2021,2
+8,822,RT DE,RT DE,2
+3,822,RT DE,2021,2
+21,823,Tagesanzeiger,Tagesanzeiger,2
+11,823,Tagesanzeiger,2020,2
+10,824,Wochenblick,Wochenblick,2
+3,824,Wochenblick,2021,2
+236,825,Uncut-News,Uncut-News,2
+3,825,Uncut-News,2021,2
+25,826,Die Ostschweiz,Die Ostschweiz,2
+3,826,Die Ostschweiz,2021,2
+10,827,Wochenblick,Wochenblick,2
+3,827,Wochenblick,2021,2
+47,828,reitschuster,reitschuster,2
+3,828,reitschuster,2021,2
+73,829,INFOsperber,INFOsperber,2
+3,829,INFOsperber,2021,2
+10,830,Wochenblick,Wochenblick,2
+3,830,Wochenblick,2021,2
+16,831,Epoch Times,Epoch Times,2
+3,831,Epoch Times,2021,2
+47,832,reitschuster,reitschuster,2
+11,832,reitschuster,2020,2
+10,833,Wochenblick,Wochenblick,2
+3,833,Wochenblick,2021,2
+10,834,Wochenblick,Wochenblick,2
+3,834,Wochenblick,2021,2
+16,835,Epoch Times,Epoch Times,2
+3,835,Epoch Times,2021,2
+44,836,NZZ,NZZ,2
+11,836,NZZ,2020,2
+44,837,NZZ,NZZ,2
+11,837,NZZ,2020,2
+35,838,Corona Transition,Corona Transition,2
+3,838,Corona Transition,2021,2
+8,839,RT DE,RT DE,2
+3,839,RT DE,2021,2
+25,840,Die Ostschweiz,Die Ostschweiz,2
+3,840,Die Ostschweiz,2021,2
+10,841,Wochenblick,Wochenblick,2
+11,841,Wochenblick,2020,2
+47,842,reitschuster,reitschuster,2
+11,842,reitschuster,2020,2
+16,843,Epoch Times,Epoch Times,2
+11,843,Epoch Times,2020,2
+35,844,Corona Transition,Corona Transition,2
+3,844,Corona Transition,2021,2
+10,845,Wochenblick,Wochenblick,2
+3,845,Wochenblick,2021,2
+6,846,tp - Science & Technology,tp - Science & Technology,2
+3,846,tp - Science & Technology,2021,2
+2,847,ScienceFiles,ScienceFiles,2
+3,847,ScienceFiles,2021,2
+322,848,Jouwatch,Jouwatch,2
+3,848,Jouwatch,2021,2
+21,849,Tagesanzeiger,Tagesanzeiger,2
+11,849,Tagesanzeiger,2020,2
+10,850,Wochenblick,Wochenblick,2
+3,850,Wochenblick,2021,2
+450,851,World Health Organization,World Health Organization,2
+11,851,World Health Organization,2020,2
+25,852,Die Ostschweiz,Die Ostschweiz,2
+11,852,Die Ostschweiz,2020,2
+35,853,Corona Transition,Corona Transition,2
+3,853,Corona Transition,2021,2
+67,854,Die Welt,Die Welt,2
+3,854,Die Welt,2021,2
+145,855,Weltwoche daily,Weltwoche daily,2
+3,855,Weltwoche daily,2021,2
+236,856,Uncut-News,Uncut-News,2
+3,856,Uncut-News,2021,2
+35,857,Corona Transition,Corona Transition,2
+3,857,Corona Transition,2021,2
+77,858,2020 News,2020 News,2
+3,858,2020 News,2021,2
+16,859,Epoch Times,Epoch Times,2
+3,859,Epoch Times,2021,2
+52,860,Tichys Einblick,Tichys Einblick,2
+3,860,Tichys Einblick,2021,2
+75,861,In$ide Paradeplatz,In$ide Paradeplatz,2
+3,861,In$ide Paradeplatz,2021,2
+73,862,INFOsperber,INFOsperber,2
+3,862,INFOsperber,2021,2
+2,863,ScienceFiles,ScienceFiles,2
+3,863,ScienceFiles,2021,2
+18,864,Achgut.com,Achgut.com,2
+11,864,Achgut.com,2020,2
+628,865,Sebastian Friebel,Sebastian Friebel,2
+11,865,Sebastian Friebel,2020,2
+8,866,RT DE,RT DE,2
+3,866,RT DE,2021,2
+8,867,RT DE,RT DE,2
+3,867,RT DE,2021,2
+35,868,Corona Transition,Corona Transition,2
+3,868,Corona Transition,2021,2
+47,869,reitschuster,reitschuster,2
+3,869,reitschuster,2021,2
+6,870,tp - Science & Technology,tp - Science & Technology,2
+3,870,tp - Science & Technology,2021,2
+10,871,Wochenblick,Wochenblick,2
+3,871,Wochenblick,2021,2
+168,872,corona-blog.net,corona-blog.net,2
+3,872,corona-blog.net,2021,2
+16,873,Epoch Times,Epoch Times,2
+3,873,Epoch Times,2021,2
+16,874,Epoch Times,Epoch Times,2
+3,874,Epoch Times,2021,2
+120,875,linth24,linth24,2
+11,875,linth24,2020,2
+10,876,Wochenblick,Wochenblick,2
+3,876,Wochenblick,2021,2
+168,877,corona-blog.net,corona-blog.net,2
+3,877,corona-blog.net,2021,2
+37,878,multipolar,multipolar,2
+3,878,multipolar,2021,2
+10,879,Wochenblick,Wochenblick,2
+3,879,Wochenblick,2021,2
+10,880,Wochenblick,Wochenblick,2
+3,880,Wochenblick,2021,2
+35,881,Corona Transition,Corona Transition,2
+3,881,Corona Transition,2021,2
+41,882,medinside.ch,medinside.ch,2
+3,882,medinside.ch,2021,2
+884,883,DerStandard,DerStandard,2
+11,883,DerStandard,2020,2
+47,885,reitschuster,reitschuster,2
+3,885,reitschuster,2021,2
+47,886,reitschuster,reitschuster,2
+3,886,reitschuster,2021,2
+92,887,Telepolis,Telepolis,2
+11,887,Telepolis,2020,2
+314,888,kenFM,kenFM,2
+11,888,kenFM,2020,2
+47,889,reitschuster,reitschuster,2
+3,889,reitschuster,2021,2
+10,890,Wochenblick,Wochenblick,2
+3,890,Wochenblick,2021,2
+743,891,BAG,BAG,2
+11,891,BAG,2020,2
+339,892,Vera Lengsfeld,Vera Lengsfeld,2
+11,892,Vera Lengsfeld,2020,2
+16,893,Epoch Times,Epoch Times,2
+3,893,Epoch Times,2021,2
+35,894,Corona Transition,Corona Transition,2
+3,894,Corona Transition,2021,2
+8,895,RT DE,RT DE,2
+3,895,RT DE,2021,2
+10,896,Wochenblick,Wochenblick,2
+3,896,Wochenblick,2021,2
+21,897,Tagesanzeiger,Tagesanzeiger,2
+3,897,Tagesanzeiger,2021,2
+77,898,2020 News,2020 News,2
+3,898,2020 News,2021,2
+382,899,ZDF,ZDF,2
+3,899,ZDF,2021,2
+73,900,INFOsperber,INFOsperber,2
+3,900,INFOsperber,2021,2
+25,901,Die Ostschweiz,Die Ostschweiz,2
+3,901,Die Ostschweiz,2021,2
+85,902,Focus Online,Focus Online,2
+3,902,Focus Online,2021,2
+462,903,ntv,ntv,2
+11,903,ntv,2020,2
+21,904,Tagesanzeiger,Tagesanzeiger,2
+3,904,Tagesanzeiger,2021,2
+420,905,Nau,Nau,2
+3,905,Nau,2021,2
+243,906,Swiss Policy Research,Swiss Policy Research,2
+3,906,Swiss Policy Research,2021,2
+37,907,multipolar,multipolar,2
+11,907,multipolar,2020,2
+21,908,Tagesanzeiger,Tagesanzeiger,2
+3,908,Tagesanzeiger,2021,2
+44,909,NZZ,NZZ,2
+3,909,NZZ,2021,2
+6,910,tp - Science & Technology,tp - Science & Technology,2
+3,910,tp - Science & Technology,2021,2
+28,911,NachDenkSeiten,NachDenkSeiten,2
+11,911,NachDenkSeiten,2020,2
+6,912,tp - Science & Technology,tp - Science & Technology,2
+3,912,tp - Science & Technology,2021,2
+10,913,Wochenblick,Wochenblick,2
+3,913,Wochenblick,2021,2
+915,914,Deutsches Zentrum für Infektionsforschung,Deutsches Zentrum für Infektionsforschung,2
+11,914,Deutsches Zentrum für Infektionsforschung,2020,2
+44,916,NZZ,NZZ,2
+11,916,NZZ,2020,2
+2,917,ScienceFiles,ScienceFiles,2
+3,917,ScienceFiles,2021,2
+25,918,Die Ostschweiz,Die Ostschweiz,2
+3,918,Die Ostschweiz,2021,2
+47,919,reitschuster,reitschuster,2
+3,919,reitschuster,2021,2
+47,920,reitschuster,reitschuster,2
+11,920,reitschuster,2020,2
+110,921,Unser Mitteleuropa,Unser Mitteleuropa,2
+3,921,Unser Mitteleuropa,2021,2
+256,922,Swissmedic,Swissmedic,2
+3,922,Swissmedic,2021,2
+16,923,Epoch Times,Epoch Times,2
+3,923,Epoch Times,2021,2
+16,924,Epoch Times,Epoch Times,2
+3,924,Epoch Times,2021,2
+2,925,ScienceFiles,ScienceFiles,2
+3,925,ScienceFiles,2021,2
+67,926,Die Welt,Die Welt,2
+3,926,Die Welt,2021,2
+10,927,Wochenblick,Wochenblick,2
+3,927,Wochenblick,2021,2
+8,928,RT DE,RT DE,2
+3,928,RT DE,2021,2
+67,929,Die Welt,Die Welt,2
+3,929,Die Welt,2021,2
+14,930,Rubikon,Rubikon,2
+3,930,Rubikon,2021,2
+145,931,Weltwoche daily,Weltwoche daily,2
+11,931,Weltwoche daily,2020,2
+16,932,Epoch Times,Epoch Times,2
+3,932,Epoch Times,2021,2
+77,933,2020 News,2020 News,2
+3,933,2020 News,2021,2
+35,934,Corona Transition,Corona Transition,2
+3,934,Corona Transition,2021,2
+314,935,kenFM,kenFM,2
+3,935,kenFM,2021,2
+6,936,tp - Science & Technology,tp - Science & Technology,2
+3,936,tp - Science & Technology,2021,2
+77,937,2020 News,2020 News,2
+11,937,2020 News,2020,2
+462,938,ntv,ntv,2
+3,938,ntv,2021,2
+14,939,Rubikon,Rubikon,2
+3,939,Rubikon,2021,2
+16,940,Epoch Times,Epoch Times,2
+3,940,Epoch Times,2021,2
+35,941,Corona Transition,Corona Transition,2
+3,941,Corona Transition,2021,2
+6,942,tp - Science & Technology,tp - Science & Technology,2
+3,942,tp - Science & Technology,2021,2
+8,943,RT DE,RT DE,2
+3,943,RT DE,2021,2
+2,944,ScienceFiles,ScienceFiles,2
+3,944,ScienceFiles,2021,2
+25,945,Die Ostschweiz,Die Ostschweiz,2
+3,945,Die Ostschweiz,2021,2
+8,946,RT DE,RT DE,2
+11,946,RT DE,2020,2
+18,947,Achgut.com,Achgut.com,2
+3,947,Achgut.com,2021,2
+2,948,ScienceFiles,ScienceFiles,2
+3,948,ScienceFiles,2021,2
+77,949,2020 News,2020 News,2
+3,949,2020 News,2021,2
+35,950,Corona Transition,Corona Transition,2
+3,950,Corona Transition,2021,2
+168,951,corona-blog.net,corona-blog.net,2
+3,951,corona-blog.net,2021,2
+77,952,2020 News,2020 News,2
+3,952,2020 News,2021,2
+10,953,Wochenblick,Wochenblick,2
+3,953,Wochenblick,2021,2
+8,954,RT DE,RT DE,2
+11,954,RT DE,2020,2
+75,955,In$ide Paradeplatz,In$ide Paradeplatz,2
+3,955,In$ide Paradeplatz,2021,2
+35,956,Corona Transition,Corona Transition,2
+3,956,Corona Transition,2021,2
+92,957,Telepolis,Telepolis,2
+11,957,Telepolis,2020,2
+16,958,Epoch Times,Epoch Times,2
+3,958,Epoch Times,2021,2
+16,959,Epoch Times,Epoch Times,2
+3,959,Epoch Times,2021,2
+2,960,ScienceFiles,ScienceFiles,2
+3,960,ScienceFiles,2021,2
+962,961,Prof. Harald Walach,Prof. Harald Walach,2
+11,961,Prof. Harald Walach,2020,2
+120,963,linth24,linth24,2
+3,963,linth24,2021,2
+2,964,ScienceFiles,ScienceFiles,2
+3,964,ScienceFiles,2021,2
+605,965,Beobachter,Beobachter,2
+11,965,Beobachter,2020,2
+14,966,Rubikon,Rubikon,2
+3,966,Rubikon,2021,2
+10,967,Wochenblick,Wochenblick,2
+3,967,Wochenblick,2021,2
+16,968,Epoch Times,Epoch Times,2
+3,968,Epoch Times,2021,2
+16,969,Epoch Times,Epoch Times,2
+3,969,Epoch Times,2021,2
+35,970,Corona Transition,Corona Transition,2
+3,970,Corona Transition,2021,2
+35,971,Corona Transition,Corona Transition,2
+3,971,Corona Transition,2021,2
+35,972,Corona Transition,Corona Transition,2
+11,972,Corona Transition,2020,2
+974,973,kinderzeit,kinderzeit,2
+11,973,kinderzeit,2020,2
+6,975,tp - Science & Technology,tp - Science & Technology,2
+3,975,tp - Science & Technology,2021,2
+450,976,World Health Organization,World Health Organization,2
+11,976,World Health Organization,2020,2
+120,977,linth24,linth24,2
+11,977,linth24,2020,2
+28,978,NachDenkSeiten,NachDenkSeiten,2
+11,978,NachDenkSeiten,2020,2
+75,979,In$ide Paradeplatz,In$ide Paradeplatz,2
+3,979,In$ide Paradeplatz,2021,2
+47,980,reitschuster,reitschuster,2
+3,980,reitschuster,2021,2
+2,981,ScienceFiles,ScienceFiles,2
+3,981,ScienceFiles,2021,2
+462,982,ntv,ntv,2
+3,982,ntv,2021,2
+16,983,Epoch Times,Epoch Times,2
+3,983,Epoch Times,2021,2
+985,984,Club der klaren Worte,Club der klaren Worte,2
+3,984,Club der klaren Worte,2021,2
+283,986,tagblatt.ch,tagblatt.ch,2
+3,986,tagblatt.ch,2021,2
+16,987,Epoch Times,Epoch Times,2
+3,987,Epoch Times,2021,2
+10,988,Wochenblick,Wochenblick,2
+11,988,Wochenblick,2020,2
+35,989,Corona Transition,Corona Transition,2
+3,989,Corona Transition,2021,2
+25,990,Die Ostschweiz,Die Ostschweiz,2
+3,990,Die Ostschweiz,2021,2
+110,991,Unser Mitteleuropa,Unser Mitteleuropa,2
+3,991,Unser Mitteleuropa,2021,2
+47,992,reitschuster,reitschuster,2
+11,992,reitschuster,2020,2
+52,993,Tichys Einblick,Tichys Einblick,2
+3,993,Tichys Einblick,2021,2
+14,994,Rubikon,Rubikon,2
+11,994,Rubikon,2020,2
+131,995,Nordkurier,Nordkurier,2
+3,995,Nordkurier,2021,2
+454,996,infekt.ch,infekt.ch,2
+11,996,infekt.ch,2020,2
+8,997,RT DE,RT DE,2
+11,997,RT DE,2020,2
+75,998,In$ide Paradeplatz,In$ide Paradeplatz,2
+11,998,In$ide Paradeplatz,2020,2
+35,999,Corona Transition,Corona Transition,2
+3,999,Corona Transition,2021,2
+16,1000,Epoch Times,Epoch Times,2
+3,1000,Epoch Times,2021,2
+67,1001,Die Welt,Die Welt,2
+3,1001,Die Welt,2021,2
+1003,1002,Frankfurter Rundschau,Frankfurter Rundschau,2
+3,1002,Frankfurter Rundschau,2021,2
+47,1004,reitschuster,reitschuster,2
+3,1004,reitschuster,2021,2
+10,1005,Wochenblick,Wochenblick,2
+3,1005,Wochenblick,2021,2
+28,1006,NachDenkSeiten,NachDenkSeiten,2
+3,1006,NachDenkSeiten,2021,2
+16,1007,Epoch Times,Epoch Times,2
+3,1007,Epoch Times,2021,2
+73,1008,INFOsperber,INFOsperber,2
+3,1008,INFOsperber,2021,2
+8,1009,RT DE,RT DE,2
+3,1009,RT DE,2021,2
+16,1010,Epoch Times,Epoch Times,2
+3,1010,Epoch Times,2021,2
+332,1011,odysee,odysee,2
+11,1011,odysee,2020,2
+16,1012,Epoch Times,Epoch Times,2
+3,1012,Epoch Times,2021,2
+10,1013,Wochenblick,Wochenblick,2
+3,1013,Wochenblick,2021,2
+14,1014,Rubikon,Rubikon,2
+3,1014,Rubikon,2021,2
+420,1015,Nau,Nau,2
+3,1015,Nau,2021,2
+8,1016,RT DE,RT DE,2
+3,1016,RT DE,2021,2
+645,1017,bitchute,bitchute,2
+11,1017,bitchute,2020,2
+6,1018,tp - Science & Technology,tp - Science & Technology,2
+3,1018,tp - Science & Technology,2021,2
+37,1019,multipolar,multipolar,2
+3,1019,multipolar,2021,2
+689,1020,Global Research,Global Research,2
+3,1020,Global Research,2021,2
+2,1021,ScienceFiles,ScienceFiles,2
+3,1021,ScienceFiles,2021,2
+25,1022,Die Ostschweiz,Die Ostschweiz,2
+3,1022,Die Ostschweiz,2021,2
+1024,1023,comm4u,comm4u,2
+11,1023,comm4u,2020,2
+8,1025,RT DE,RT DE,2
+3,1025,RT DE,2021,2
+454,1026,infekt.ch,infekt.ch,2
+11,1026,infekt.ch,2020,2
+1028,1027,Verfassungsfreunde,Verfassungsfreunde,2
+3,1027,Verfassungsfreunde,2021,2
+16,1029,Epoch Times,Epoch Times,2
+3,1029,Epoch Times,2021,2
+10,1030,Wochenblick,Wochenblick,2
+3,1030,Wochenblick,2021,2
+35,1031,Corona Transition,Corona Transition,2
+3,1031,Corona Transition,2021,2
+1033,1032,Ereignis,Ereignis,2
+277,1032,Ereignis,2019,2
+1035,1034,WIR - Wissen ist relevant,WIR - Wissen ist relevant,2
+11,1034,WIR - Wissen ist relevant,2020,2
+450,1036,World Health Organization,World Health Organization,2
+11,1036,World Health Organization,2020,2
+8,1037,RT DE,RT DE,2
+3,1037,RT DE,2021,2
+168,1038,corona-blog.net,corona-blog.net,2
+3,1038,corona-blog.net,2021,2
+35,1039,Corona Transition,Corona Transition,2
+3,1039,Corona Transition,2021,2
+73,1040,INFOsperber,INFOsperber,2
+3,1040,INFOsperber,2021,2
+44,1041,NZZ,NZZ,2
+3,1041,NZZ,2021,2
+71,1042,Ktipp,Ktipp,2
+11,1042,Ktipp,2020,2
+462,1043,ntv,ntv,2
+3,1043,ntv,2021,2
+258,1044,Deutsches Ärzteblatt,Deutsches Ärzteblatt,2
+3,1044,Deutsches Ärzteblatt,2021,2
+39,1045,Report24,Report24,2
+3,1045,Report24,2021,2
+47,1046,reitschuster,reitschuster,2
+11,1046,reitschuster,2020,2
+47,1047,reitschuster,reitschuster,2
+3,1047,reitschuster,2021,2
+6,1048,tp - Science & Technology,tp - Science & Technology,2
+3,1048,tp - Science & Technology,2021,2
+35,1049,Corona Transition,Corona Transition,2
+11,1049,Corona Transition,2020,2
+201,1050,ZE!TPUNKT,ZE!TPUNKT,2
+11,1050,ZE!TPUNKT,2020,2
+67,1051,Die Welt,Die Welt,2
+3,1051,Die Welt,2021,2
+16,1052,Epoch Times,Epoch Times,2
+3,1052,Epoch Times,2021,2
+41,1053,medinside.ch,medinside.ch,2
+11,1053,medinside.ch,2020,2
+8,1054,RT DE,RT DE,2
+3,1054,RT DE,2021,2
+120,1055,linth24,linth24,2
+3,1055,linth24,2021,2
+2,1056,ScienceFiles,ScienceFiles,2
+3,1056,ScienceFiles,2021,2
+2,1057,ScienceFiles,ScienceFiles,2
+11,1057,ScienceFiles,2020,2
+99,1058,Berliner Zeitung,Berliner Zeitung,2
+3,1058,Berliner Zeitung,2021,2
+8,1059,RT DE,RT DE,2
+3,1059,RT DE,2021,2
+10,1060,Wochenblick,Wochenblick,2
+3,1060,Wochenblick,2021,2
+73,1061,INFOsperber,INFOsperber,2
+3,1061,INFOsperber,2021,2
+462,1062,ntv,ntv,2
+3,1062,ntv,2021,2
+1064,1063,Schweizerisch-Deutsch-Österreichischen Expertengruppe,Schweizerisch-Deutsch-Österreichischen Expertengruppe,2
+11,1063,Schweizerisch-Deutsch-Österreichischen Expertengruppe,2020,2
+16,1065,Epoch Times,Epoch Times,2
+3,1065,Epoch Times,2021,2
+645,1066,bitchute,bitchute,2
+11,1066,bitchute,2020,2
+67,1067,Die Welt,Die Welt,2
+3,1067,Die Welt,2021,2
+73,1068,INFOsperber,INFOsperber,2
+11,1068,INFOsperber,2020,2
+450,1069,World Health Organization,World Health Organization,2
+11,1069,World Health Organization,2020,2
+256,1070,Swissmedic,Swissmedic,2
+3,1070,Swissmedic,2021,2
+6,1071,tp - Science & Technology,tp - Science & Technology,2
+3,1071,tp - Science & Technology,2021,2
+75,1072,In$ide Paradeplatz,In$ide Paradeplatz,2
+3,1072,In$ide Paradeplatz,2021,2
+10,1073,Wochenblick,Wochenblick,2
+11,1073,Wochenblick,2020,2
+77,1074,2020 News,2020 News,2
+11,1074,2020 News,2020,2
+16,1075,Epoch Times,Epoch Times,2
+3,1075,Epoch Times,2021,2
+296,1076,SWR,SWR,2
+3,1076,SWR,2021,2
+47,1077,reitschuster,reitschuster,2
+3,1077,reitschuster,2021,2
+35,1078,Corona Transition,Corona Transition,2
+3,1078,Corona Transition,2021,2
+44,1079,NZZ,NZZ,2
+11,1079,NZZ,2020,2
+75,1080,In$ide Paradeplatz,In$ide Paradeplatz,2
+3,1080,In$ide Paradeplatz,2021,2
+10,1081,Wochenblick,Wochenblick,2
+11,1081,Wochenblick,2020,2
+16,1082,Epoch Times,Epoch Times,2
+3,1082,Epoch Times,2021,2
+201,1083,ZE!TPUNKT,ZE!TPUNKT,2
+11,1083,ZE!TPUNKT,2020,2
+296,1084,SWR,SWR,2
+11,1084,SWR,2020,2
+6,1085,tp - Science & Technology,tp - Science & Technology,2
+3,1085,tp - Science & Technology,2021,2
+134,1086,Schweizer Ärztezeitung,Schweizer Ärztezeitung,2
+11,1086,Schweizer Ärztezeitung,2020,2
+92,1087,Telepolis,Telepolis,2
+11,1087,Telepolis,2020,2
+28,1088,NachDenkSeiten,NachDenkSeiten,2
+3,1088,NachDenkSeiten,2021,2
+73,1089,INFOsperber,INFOsperber,2
+11,1089,INFOsperber,2020,2
+2,1090,ScienceFiles,ScienceFiles,2
+3,1090,ScienceFiles,2021,2
+6,1091,tp - Science & Technology,tp - Science & Technology,2
+3,1091,tp - Science & Technology,2021,2
+1093,1092,Taiwan Centers for Disease Control,Taiwan Centers for Disease Control,2
+277,1092,Taiwan Centers for Disease Control,2019,2
+16,1094,Epoch Times,Epoch Times,2
+3,1094,Epoch Times,2021,2
+1096,1095,Daniele Ganser,Daniele Ganser,2
+3,1095,Daniele Ganser,2021,2
+1098,1097,1bis19 – Magazin für demokratische Kultur,1bis19 – Magazin für demokratische Kultur,2
+3,1097,1bis19 – Magazin für demokratische Kultur,2021,2
+18,1099,Achgut.com,Achgut.com,2
+3,1099,Achgut.com,2021,2
+35,1100,Corona Transition,Corona Transition,2
+3,1100,Corona Transition,2021,2
+1102,1101,Die Bundesregierung,Die Bundesregierung,2
+277,1101,Die Bundesregierung,2019,2
+35,1103,Corona Transition,Corona Transition,2
+3,1103,Corona Transition,2021,2
+44,1104,NZZ,NZZ,2
+3,1104,NZZ,2021,2
+2,1105,ScienceFiles,ScienceFiles,2
+3,1105,ScienceFiles,2021,2
+322,1106,Jouwatch,Jouwatch,2
+11,1106,Jouwatch,2020,2
+6,1107,tp - Science & Technology,tp - Science & Technology,2
+3,1107,tp - Science & Technology,2021,2
+1109,1108,FASSADENKRATZER,FASSADENKRATZER,2
+3,1108,FASSADENKRATZER,2021,2
+39,1110,Report24,Report24,2
+3,1110,Report24,2021,2
+10,1111,Wochenblick,Wochenblick,2
+3,1111,Wochenblick,2021,2
+411,1112,tagesschau.de,tagesschau.de,2
+3,1112,tagesschau.de,2021,2
+67,1113,Die Welt,Die Welt,2
+3,1113,Die Welt,2021,2
+47,1114,reitschuster,reitschuster,2
+3,1114,reitschuster,2021,2
+1116,1115,Bundesrat,Bundesrat,2
+11,1115,Bundesrat,2020,2
+99,1117,Berliner Zeitung,Berliner Zeitung,2
+3,1117,Berliner Zeitung,2021,2
+21,1118,Tagesanzeiger,Tagesanzeiger,2
+3,1118,Tagesanzeiger,2021,2
+14,1119,Rubikon,Rubikon,2
+11,1119,Rubikon,2020,2
+120,1120,linth24,linth24,2
+11,1120,linth24,2020,2
+770,1121,SNA,SNA,2
+3,1121,SNA,2021,2
+16,1122,Epoch Times,Epoch Times,2
+3,1122,Epoch Times,2021,2
+67,1123,Die Welt,Die Welt,2
+3,1123,Die Welt,2021,2
+6,1124,tp - Science & Technology,tp - Science & Technology,2
+3,1124,tp - Science & Technology,2021,2
+41,1125,medinside.ch,medinside.ch,2
+3,1125,medinside.ch,2021,2
+10,1126,Wochenblick,Wochenblick,2
+3,1126,Wochenblick,2021,2
+462,1127,ntv,ntv,2
+3,1127,ntv,2021,2
+2,1128,ScienceFiles,ScienceFiles,2
+3,1128,ScienceFiles,2021,2
+6,1129,tp - Science & Technology,tp - Science & Technology,2
+3,1129,tp - Science & Technology,2021,2
+77,1130,2020 News,2020 News,2
+11,1130,2020 News,2020,2
+6,1131,tp - Science & Technology,tp - Science & Technology,2
+3,1131,tp - Science & Technology,2021,2
+85,1132,Focus Online,Focus Online,2
+3,1132,Focus Online,2021,2
+10,1133,Wochenblick,Wochenblick,2
+3,1133,Wochenblick,2021,2
+110,1134,Unser Mitteleuropa,Unser Mitteleuropa,2
+3,1134,Unser Mitteleuropa,2021,2
+85,1135,Focus Online,Focus Online,2
+3,1135,Focus Online,2021,2
+2,1136,ScienceFiles,ScienceFiles,2
+3,1136,ScienceFiles,2021,2
+25,1137,Die Ostschweiz,Die Ostschweiz,2
+3,1137,Die Ostschweiz,2021,2
+8,1138,RT DE,RT DE,2
+3,1138,RT DE,2021,2
+18,1139,Achgut.com,Achgut.com,2
+11,1139,Achgut.com,2020,2
+47,1140,reitschuster,reitschuster,2
+3,1140,reitschuster,2021,2
+8,1141,RT DE,RT DE,2
+3,1141,RT DE,2021,2
+8,1142,RT DE,RT DE,2
+3,1142,RT DE,2021,2
+382,1143,ZDF,ZDF,2
+11,1143,ZDF,2020,2
+25,1144,Die Ostschweiz,Die Ostschweiz,2
+3,1144,Die Ostschweiz,2021,2
+6,1145,tp - Science & Technology,tp - Science & Technology,2
+3,1145,tp - Science & Technology,2021,2
+16,1146,Epoch Times,Epoch Times,2
+3,1146,Epoch Times,2021,2
+47,1147,reitschuster,reitschuster,2
+11,1147,reitschuster,2020,2
+411,1148,tagesschau.de,tagesschau.de,2
+11,1148,tagesschau.de,2020,2
+35,1149,Corona Transition,Corona Transition,2
+3,1149,Corona Transition,2021,2
+8,1150,RT DE,RT DE,2
+3,1150,RT DE,2021,2
+16,1151,Epoch Times,Epoch Times,2
+11,1151,Epoch Times,2020,2
+10,1152,Wochenblick,Wochenblick,2
+3,1152,Wochenblick,2021,2
+6,1153,tp - Science & Technology,tp - Science & Technology,2
+3,1153,tp - Science & Technology,2021,2
+85,1154,Focus Online,Focus Online,2
+3,1154,Focus Online,2021,2
+99,1155,Berliner Zeitung,Berliner Zeitung,2
+3,1155,Berliner Zeitung,2021,2
+77,1156,2020 News,2020 News,2
+11,1156,2020 News,2020,2
+6,1157,tp - Science & Technology,tp - Science & Technology,2
+3,1157,tp - Science & Technology,2021,2
+35,1158,Corona Transition,Corona Transition,2
+3,1158,Corona Transition,2021,2
+10,1159,Wochenblick,Wochenblick,2
+3,1159,Wochenblick,2021,2
+10,1160,Wochenblick,Wochenblick,2
+3,1160,Wochenblick,2021,2
+73,1161,INFOsperber,INFOsperber,2
+3,1161,INFOsperber,2021,2
+420,1162,Nau,Nau,2
+3,1162,Nau,2021,2
+8,1163,RT DE,RT DE,2
+3,1163,RT DE,2021,2
+35,1164,Corona Transition,Corona Transition,2
+3,1164,Corona Transition,2021,2
+10,1165,Wochenblick,Wochenblick,2
+3,1165,Wochenblick,2021,2
+16,1166,Epoch Times,Epoch Times,2
+3,1166,Epoch Times,2021,2
+52,1167,Tichys Einblick,Tichys Einblick,2
+3,1167,Tichys Einblick,2021,2
+1028,1168,Verfassungsfreunde,Verfassungsfreunde,2
+3,1168,Verfassungsfreunde,2021,2
+77,1169,2020 News,2020 News,2
+3,1169,2020 News,2021,2
+25,1170,Die Ostschweiz,Die Ostschweiz,2
+3,1170,Die Ostschweiz,2021,2
+168,1171,corona-blog.net,corona-blog.net,2
+3,1171,corona-blog.net,2021,2
+1028,1172,Verfassungsfreunde,Verfassungsfreunde,2
+3,1172,Verfassungsfreunde,2021,2
+8,1173,RT DE,RT DE,2
+3,1173,RT DE,2021,2
+8,1174,RT DE,RT DE,2
+11,1174,RT DE,2020,2
+1176,1175,Monitor,Monitor,2
+11,1175,Monitor,2020,2
+256,1177,Swissmedic,Swissmedic,2
+3,1177,Swissmedic,2021,2
+10,1178,Wochenblick,Wochenblick,2
+3,1178,Wochenblick,2021,2
+10,1179,Wochenblick,Wochenblick,2
+3,1179,Wochenblick,2021,2
+87,1180,substack.com,substack.com,2
+3,1180,substack.com,2021,2
+28,1181,NachDenkSeiten,NachDenkSeiten,2
+11,1181,NachDenkSeiten,2020,2
+14,1182,Rubikon,Rubikon,2
+11,1182,Rubikon,2020,2
+6,1183,tp - Science & Technology,tp - Science & Technology,2
+3,1183,tp - Science & Technology,2021,2
+25,1184,Die Ostschweiz,Die Ostschweiz,2
+3,1184,Die Ostschweiz,2021,2
+25,1185,Die Ostschweiz,Die Ostschweiz,2
+11,1185,Die Ostschweiz,2020,2
+6,1186,tp - Science & Technology,tp - Science & Technology,2
+3,1186,tp - Science & Technology,2021,2
+21,1187,Tagesanzeiger,Tagesanzeiger,2
+3,1187,Tagesanzeiger,2021,2
+52,1188,Tichys Einblick,Tichys Einblick,2
+3,1188,Tichys Einblick,2021,2
+236,1189,Uncut-News,Uncut-News,2
+3,1189,Uncut-News,2021,2
+37,1190,multipolar,multipolar,2
+3,1190,multipolar,2021,2
+47,1191,reitschuster,reitschuster,2
+11,1191,reitschuster,2020,2
+1193,1192,BioNTech,BioNTech,2
+11,1192,BioNTech,2020,2
+28,1194,NachDenkSeiten,NachDenkSeiten,2
+3,1194,NachDenkSeiten,2021,2
+47,1195,reitschuster,reitschuster,2
+3,1195,reitschuster,2021,2
+14,1196,Rubikon,Rubikon,2
+3,1196,Rubikon,2021,2
+2,1197,ScienceFiles,ScienceFiles,2
+3,1197,ScienceFiles,2021,2
+77,1198,2020 News,2020 News,2
+3,1198,2020 News,2021,2
+35,1199,Corona Transition,Corona Transition,2
+3,1199,Corona Transition,2021,2
+2,1200,ScienceFiles,ScienceFiles,2
+3,1200,ScienceFiles,2021,2
+73,1201,INFOsperber,INFOsperber,2
+11,1201,INFOsperber,2020,2
+39,1202,Report24,Report24,2
+3,1202,Report24,2021,2
+10,1203,Wochenblick,Wochenblick,2
+3,1203,Wochenblick,2021,2
+73,1204,INFOsperber,INFOsperber,2
+3,1204,INFOsperber,2021,2
+397,1205,Pharmazeutische Zeitung,Pharmazeutische Zeitung,2
+3,1205,Pharmazeutische Zeitung,2021,2
+10,1206,Wochenblick,Wochenblick,2
+3,1206,Wochenblick,2021,2
+411,1207,tagesschau.de,tagesschau.de,2
+3,1207,tagesschau.de,2021,2
+6,1208,tp - Science & Technology,tp - Science & Technology,2
+3,1208,tp - Science & Technology,2021,2
+28,1209,NachDenkSeiten,NachDenkSeiten,2
+3,1209,NachDenkSeiten,2021,2
+10,1210,Wochenblick,Wochenblick,2
+11,1210,Wochenblick,2020,2
+25,1211,Die Ostschweiz,Die Ostschweiz,2
+3,1211,Die Ostschweiz,2021,2
+8,1212,RT DE,RT DE,2
+3,1212,RT DE,2021,2
+322,1213,Jouwatch,Jouwatch,2
+11,1213,Jouwatch,2020,2
+44,1214,NZZ,NZZ,2
+11,1214,NZZ,2020,2
+92,1215,Telepolis,Telepolis,2
+3,1215,Telepolis,2021,2
+743,1216,BAG,BAG,2
+3,1216,BAG,2021,2
+462,1217,ntv,ntv,2
+3,1217,ntv,2021,2
+77,1218,2020 News,2020 News,2
+3,1218,2020 News,2021,2
+145,1219,Weltwoche daily,Weltwoche daily,2
+3,1219,Weltwoche daily,2021,2
+120,1220,linth24,linth24,2
+11,1220,linth24,2020,2
+77,1221,2020 News,2020 News,2
+3,1221,2020 News,2021,2
+1003,1222,Frankfurter Rundschau,Frankfurter Rundschau,2
+3,1222,Frankfurter Rundschau,2021,2
+120,1223,linth24,linth24,2
+3,1223,linth24,2021,2
+8,1224,RT DE,RT DE,2
+3,1224,RT DE,2021,2
+8,1225,RT DE,RT DE,2
+3,1225,RT DE,2021,2
+6,1226,tp - Science & Technology,tp - Science & Technology,2
+3,1226,tp - Science & Technology,2021,2
+6,1227,tp - Science & Technology,tp - Science & Technology,2
+3,1227,tp - Science & Technology,2021,2
+10,1228,Wochenblick,Wochenblick,2
+3,1228,Wochenblick,2021,2
+35,1229,Corona Transition,Corona Transition,2
+3,1229,Corona Transition,2021,2
+73,1230,INFOsperber,INFOsperber,2
+11,1230,INFOsperber,2020,2
+258,1231,Deutsches Ärzteblatt,Deutsches Ärzteblatt,2
+11,1231,Deutsches Ärzteblatt,2020,2
+6,1232,tp - Science & Technology,tp - Science & Technology,2
+3,1232,tp - Science & Technology,2021,2
+8,1233,RT DE,RT DE,2
+11,1233,RT DE,2020,2
+131,1234,Nordkurier,Nordkurier,2
+3,1234,Nordkurier,2021,2
+168,1235,corona-blog.net,corona-blog.net,2
+3,1235,corona-blog.net,2021,2
+168,1236,corona-blog.net,corona-blog.net,2
+3,1236,corona-blog.net,2021,2
+6,1237,tp - Science & Technology,tp - Science & Technology,2
+3,1237,tp - Science & Technology,2021,2
+120,1238,linth24,linth24,2
+3,1238,linth24,2021,2
+16,1239,Epoch Times,Epoch Times,2
+3,1239,Epoch Times,2021,2
+39,1240,Report24,Report24,2
+3,1240,Report24,2021,2
+6,1241,tp - Science & Technology,tp - Science & Technology,2
+3,1241,tp - Science & Technology,2021,2
+1243,1242,Global Research Collaboration for Infectious Disease Preparedness,Global Research Collaboration for Infectious Disease Preparedness,2
+11,1242,Global Research Collaboration for Infectious Disease Preparedness,2020,2
+120,1244,linth24,linth24,2
+3,1244,linth24,2021,2
+25,1245,Die Ostschweiz,Die Ostschweiz,2
+3,1245,Die Ostschweiz,2021,2
+6,1246,tp - Science & Technology,tp - Science & Technology,2
+3,1246,tp - Science & Technology,2021,2
+18,1247,Achgut.com,Achgut.com,2
+3,1247,Achgut.com,2021,2
+52,1248,Tichys Einblick,Tichys Einblick,2
+3,1248,Tichys Einblick,2021,2
+44,1249,NZZ,NZZ,2
+11,1249,NZZ,2020,2
+16,1250,Epoch Times,Epoch Times,2
+3,1250,Epoch Times,2021,2
+25,1251,Die Ostschweiz,Die Ostschweiz,2
+11,1251,Die Ostschweiz,2020,2
+168,1252,corona-blog.net,corona-blog.net,2
+3,1252,corona-blog.net,2021,2
+8,1253,RT DE,RT DE,2
+3,1253,RT DE,2021,2
+16,1254,Epoch Times,Epoch Times,2
+3,1254,Epoch Times,2021,2
+16,1255,Epoch Times,Epoch Times,2
+3,1255,Epoch Times,2021,2
+10,1256,Wochenblick,Wochenblick,2
+3,1256,Wochenblick,2021,2
+462,1257,ntv,ntv,2
+3,1257,ntv,2021,2
+35,1258,Corona Transition,Corona Transition,2
+3,1258,Corona Transition,2021,2
+2,1259,ScienceFiles,ScienceFiles,2
+3,1259,ScienceFiles,2021,2
+16,1260,Epoch Times,Epoch Times,2
+3,1260,Epoch Times,2021,2
+1028,1261,Verfassungsfreunde,Verfassungsfreunde,2
+3,1261,Verfassungsfreunde,2021,2
+16,1262,Epoch Times,Epoch Times,2
+3,1262,Epoch Times,2021,2
+85,1263,Focus Online,Focus Online,2
+3,1263,Focus Online,2021,2
+35,1264,Corona Transition,Corona Transition,2
+3,1264,Corona Transition,2021,2
+47,1265,reitschuster,reitschuster,2
+3,1265,reitschuster,2021,2
+35,1266,Corona Transition,Corona Transition,2
+3,1266,Corona Transition,2021,2
+239,1267,SRF,SRF,2
+11,1267,SRF,2020,2
+743,1268,BAG,BAG,2
+11,1268,BAG,2020,2
+25,1269,Die Ostschweiz,Die Ostschweiz,2
+3,1269,Die Ostschweiz,2021,2
+10,1270,Wochenblick,Wochenblick,2
+3,1270,Wochenblick,2021,2
+85,1271,Focus Online,Focus Online,2
+3,1271,Focus Online,2021,2
+47,1272,reitschuster,reitschuster,2
+3,1272,reitschuster,2021,2
+28,1273,NachDenkSeiten,NachDenkSeiten,2
+11,1273,NachDenkSeiten,2020,2
+8,1274,RT DE,RT DE,2
+11,1274,RT DE,2020,2
+16,1275,Epoch Times,Epoch Times,2
+3,1275,Epoch Times,2021,2
+25,1276,Die Ostschweiz,Die Ostschweiz,2
+3,1276,Die Ostschweiz,2021,2
+77,1277,2020 News,2020 News,2
+11,1277,2020 News,2020,2
+92,1278,Telepolis,Telepolis,2
+11,1278,Telepolis,2020,2
+444,1279,WHO,WHO,2
+11,1279,WHO,2020,2
+47,1280,reitschuster,reitschuster,2
+3,1280,reitschuster,2021,2
+16,1281,Epoch Times,Epoch Times,2
+3,1281,Epoch Times,2021,2
+1283,1282,eingeSCHENKt.tv,eingeSCHENKt.tv,2
+3,1282,eingeSCHENKt.tv,2021,2
+85,1284,Focus Online,Focus Online,2
+3,1284,Focus Online,2021,2
+243,1285,Swiss Policy Research,Swiss Policy Research,2
+3,1285,Swiss Policy Research,2021,2
+1287,1286,Bill & Melinda Gates Foundation,Bill & Melinda Gates Foundation,2
+11,1286,Bill & Melinda Gates Foundation,2020,2
+47,1288,reitschuster,reitschuster,2
+3,1288,reitschuster,2021,2
+8,1289,RT DE,RT DE,2
+3,1289,RT DE,2021,2
+1109,1290,FASSADENKRATZER,FASSADENKRATZER,2
+3,1290,FASSADENKRATZER,2021,2
+99,1291,Berliner Zeitung,Berliner Zeitung,2
+3,1291,Berliner Zeitung,2021,2
+28,1292,NachDenkSeiten,NachDenkSeiten,2
+11,1292,NachDenkSeiten,2020,2
+1294,1293,The Washington Times,The Washington Times,2
+11,1293,The Washington Times,2020,2
+16,1295,Epoch Times,Epoch Times,2
+3,1295,Epoch Times,2021,2
+6,1296,tp - Science & Technology,tp - Science & Technology,2
+3,1296,tp - Science & Technology,2021,2
+1298,1297,KenFM,KenFM,2
+11,1297,KenFM,2020,2
+87,1299,substack.com,substack.com,2
+11,1299,substack.com,2020,2
+168,1300,corona-blog.net,corona-blog.net,2
+3,1300,corona-blog.net,2021,2
+16,1301,Epoch Times,Epoch Times,2
+3,1301,Epoch Times,2021,2
+8,1302,RT DE,RT DE,2
+3,1302,RT DE,2021,2
+75,1303,In$ide Paradeplatz,In$ide Paradeplatz,2
+11,1303,In$ide Paradeplatz,2020,2
+16,1304,Epoch Times,Epoch Times,2
+3,1304,Epoch Times,2021,2
+122,1305,Deutsche Apotheker Zeitung,Deutsche Apotheker Zeitung,2
+1306,1305,Deutsche Apotheker Zeitung,2015,2
+10,1307,Wochenblick,Wochenblick,2
+3,1307,Wochenblick,2021,2
+10,1308,Wochenblick,Wochenblick,2
+11,1308,Wochenblick,2020,2
+8,1309,RT DE,RT DE,2
+3,1309,RT DE,2021,2
+6,1310,tp - Science & Technology,tp - Science & Technology,2
+3,1310,tp - Science & Technology,2021,2
+168,1311,corona-blog.net,corona-blog.net,2
+3,1311,corona-blog.net,2021,2
+807,1312,The Lancet,The Lancet,2
+11,1312,The Lancet,2020,2
+10,1313,Wochenblick,Wochenblick,2
+3,1313,Wochenblick,2021,2
+8,1314,RT DE,RT DE,2
+3,1314,RT DE,2021,2
+16,1315,Epoch Times,Epoch Times,2
+3,1315,Epoch Times,2021,2
+602,1316,SVP Schweiz,SVP Schweiz,2
+3,1316,SVP Schweiz,2021,2
+41,1317,medinside.ch,medinside.ch,2
+11,1317,medinside.ch,2020,2
+44,1318,NZZ,NZZ,2
+3,1318,NZZ,2021,2
+120,1319,linth24,linth24,2
+3,1319,linth24,2021,2
+39,1320,Report24,Report24,2
+3,1320,Report24,2021,2
+397,1321,Pharmazeutische Zeitung,Pharmazeutische Zeitung,2
+11,1321,Pharmazeutische Zeitung,2020,2
+35,1322,Corona Transition,Corona Transition,2
+3,1322,Corona Transition,2021,2
+239,1323,SRF,SRF,2
+11,1323,SRF,2020,2
+75,1324,In$ide Paradeplatz,In$ide Paradeplatz,2
+3,1324,In$ide Paradeplatz,2021,2
+1326,1325,European Medicines Agency,European Medicines Agency,2
+3,1325,European Medicines Agency,2021,2
+18,1327,Achgut.com,Achgut.com,2
+3,1327,Achgut.com,2021,2
+420,1328,Nau,Nau,2
+3,1328,Nau,2021,2
+407,1329,Deutschlandfunk,Deutschlandfunk,2
+3,1329,Deutschlandfunk,2021,2
+339,1330,Vera Lengsfeld,Vera Lengsfeld,2
+3,1330,Vera Lengsfeld,2021,2
+2,1331,ScienceFiles,ScienceFiles,2
+11,1331,ScienceFiles,2020,2
+35,1332,Corona Transition,Corona Transition,2
+3,1332,Corona Transition,2021,2
+1334,1333,arte,arte,2
+3,1333,arte,2021,2
+16,1335,Epoch Times,Epoch Times,2
+3,1335,Epoch Times,2021,2
+35,1336,Corona Transition,Corona Transition,2
+3,1336,Corona Transition,2021,2
+14,1337,Rubikon,Rubikon,2
+3,1337,Rubikon,2021,2
+47,1338,reitschuster,reitschuster,2
+3,1338,reitschuster,2021,2
+77,1339,2020 News,2020 News,2
+3,1339,2020 News,2021,2
+120,1340,linth24,linth24,2
+3,1340,linth24,2021,2
+37,1341,multipolar,multipolar,2
+11,1341,multipolar,2020,2
+25,1342,Die Ostschweiz,Die Ostschweiz,2
+3,1342,Die Ostschweiz,2021,2
+6,1343,tp - Science & Technology,tp - Science & Technology,2
+3,1343,tp - Science & Technology,2021,2
+47,1344,reitschuster,reitschuster,2
+3,1344,reitschuster,2021,2
+239,1345,SRF,SRF,2
+11,1345,SRF,2020,2
+35,1346,Corona Transition,Corona Transition,2
+3,1346,Corona Transition,2021,2
+77,1347,2020 News,2020 News,2
+3,1347,2020 News,2021,2
+35,1348,Corona Transition,Corona Transition,2
+3,1348,Corona Transition,2021,2
+44,1349,NZZ,NZZ,2
+3,1349,NZZ,2021,2
+10,1350,Wochenblick,Wochenblick,2
+3,1350,Wochenblick,2021,2
+283,1351,tagblatt.ch,tagblatt.ch,2
+11,1351,tagblatt.ch,2020,2
+16,1352,Epoch Times,Epoch Times,2
+3,1352,Epoch Times,2021,2
+10,1353,Wochenblick,Wochenblick,2
+11,1353,Wochenblick,2020,2
+25,1354,Die Ostschweiz,Die Ostschweiz,2
+11,1354,Die Ostschweiz,2020,2
+41,1355,medinside.ch,medinside.ch,2
+3,1355,medinside.ch,2021,2
+41,1356,medinside.ch,medinside.ch,2
+3,1356,medinside.ch,2021,2
+6,1357,tp - Science & Technology,tp - Science & Technology,2
+3,1357,tp - Science & Technology,2021,2
+8,1358,RT DE,RT DE,2
+3,1358,RT DE,2021,2
+145,1359,Weltwoche daily,Weltwoche daily,2
+3,1359,Weltwoche daily,2021,2
+145,1360,Weltwoche daily,Weltwoche daily,2
+3,1360,Weltwoche daily,2021,2
+16,1361,Epoch Times,Epoch Times,2
+3,1361,Epoch Times,2021,2
+25,1362,Die Ostschweiz,Die Ostschweiz,2
+11,1362,Die Ostschweiz,2020,2
+10,1363,Wochenblick,Wochenblick,2
+3,1363,Wochenblick,2021,2
+77,1364,2020 News,2020 News,2
+3,1364,2020 News,2021,2
+77,1365,2020 News,2020 News,2
+11,1365,2020 News,2020,2
+47,1366,reitschuster,reitschuster,2
+3,1366,reitschuster,2021,2
+8,1367,RT DE,RT DE,2
+3,1367,RT DE,2021,2
+25,1368,Die Ostschweiz,Die Ostschweiz,2
+3,1368,Die Ostschweiz,2021,2
+6,1369,tp - Science & Technology,tp - Science & Technology,2
+3,1369,tp - Science & Technology,2021,2
+14,1370,Rubikon,Rubikon,2
+3,1370,Rubikon,2021,2
+1372,1371,Universität Hamburg,Universität Hamburg,2
+3,1371,Universität Hamburg,2021,2
+18,1373,Achgut.com,Achgut.com,2
+3,1373,Achgut.com,2021,2
+8,1374,RT DE,RT DE,2
+3,1374,RT DE,2021,2
+75,1375,In$ide Paradeplatz,In$ide Paradeplatz,2
+11,1375,In$ide Paradeplatz,2020,2
+47,1376,reitschuster,reitschuster,2
+3,1376,reitschuster,2021,2
+35,1377,Corona Transition,Corona Transition,2
+3,1377,Corona Transition,2021,2
+25,1378,Die Ostschweiz,Die Ostschweiz,2
+11,1378,Die Ostschweiz,2020,2
+35,1379,Corona Transition,Corona Transition,2
+3,1379,Corona Transition,2021,2
+1381,1380,MDPI,MDPI,2
+3,1380,MDPI,2021,2
+25,1382,Die Ostschweiz,Die Ostschweiz,2
+3,1382,Die Ostschweiz,2021,2
+52,1383,Tichys Einblick,Tichys Einblick,2
+3,1383,Tichys Einblick,2021,2
+39,1384,Report24,Report24,2
+3,1384,Report24,2021,2
+67,1385,Die Welt,Die Welt,2
+3,1385,Die Welt,2021,2
+645,1386,bitchute,bitchute,2
+11,1386,bitchute,2020,2
+561,1387,Kinder-Maskenpetition,Kinder-Maskenpetition,2
+3,1387,Kinder-Maskenpetition,2021,2
+16,1388,Epoch Times,Epoch Times,2
+3,1388,Epoch Times,2021,2
+8,1389,RT DE,RT DE,2
+3,1389,RT DE,2021,2
+2,1390,ScienceFiles,ScienceFiles,2
+3,1390,ScienceFiles,2021,2
+8,1391,RT DE,RT DE,2
+3,1391,RT DE,2021,2
+168,1392,corona-blog.net,corona-blog.net,2
+3,1392,corona-blog.net,2021,2
+75,1393,In$ide Paradeplatz,In$ide Paradeplatz,2
+3,1393,In$ide Paradeplatz,2021,2
+8,1394,RT DE,RT DE,2
+3,1394,RT DE,2021,2
+120,1395,linth24,linth24,2
+11,1395,linth24,2020,2
+25,1396,Die Ostschweiz,Die Ostschweiz,2
+11,1396,Die Ostschweiz,2020,2
+35,1397,Corona Transition,Corona Transition,2
+3,1397,Corona Transition,2021,2
+16,1398,Epoch Times,Epoch Times,2
+3,1398,Epoch Times,2021,2
+8,1399,RT DE,RT DE,2
+3,1399,RT DE,2021,2
+35,1400,Corona Transition,Corona Transition,2
+3,1400,Corona Transition,2021,2
+47,1401,reitschuster,reitschuster,2
+3,1401,reitschuster,2021,2
+18,1402,Achgut.com,Achgut.com,2
+11,1402,Achgut.com,2020,2
+67,1403,Die Welt,Die Welt,2
+11,1403,Die Welt,2020,2
+25,1404,Die Ostschweiz,Die Ostschweiz,2
+3,1404,Die Ostschweiz,2021,2
+73,1405,INFOsperber,INFOsperber,2
+11,1405,INFOsperber,2020,2
+314,1406,kenFM,kenFM,2
+3,1406,kenFM,2021,2
+25,1407,Die Ostschweiz,Die Ostschweiz,2
+3,1407,Die Ostschweiz,2021,2
+25,1408,Die Ostschweiz,Die Ostschweiz,2
+3,1408,Die Ostschweiz,2021,2
+120,1409,linth24,linth24,2
+3,1409,linth24,2021,2
+462,1410,ntv,ntv,2
+11,1410,ntv,2020,2
+6,1411,tp - Science & Technology,tp - Science & Technology,2
+3,1411,tp - Science & Technology,2021,2
+1413,1412,züriost,züriost,2
+3,1412,züriost,2021,2
+25,1414,Die Ostschweiz,Die Ostschweiz,2
+3,1414,Die Ostschweiz,2021,2
+35,1415,Corona Transition,Corona Transition,2
+3,1415,Corona Transition,2021,2
+236,1416,Uncut-News,Uncut-News,2
+3,1416,Uncut-News,2021,2
+25,1417,Die Ostschweiz,Die Ostschweiz,2
+11,1417,Die Ostschweiz,2020,2
+16,1418,Epoch Times,Epoch Times,2
+3,1418,Epoch Times,2021,2
+44,1419,NZZ,NZZ,2
+11,1419,NZZ,2020,2
+6,1420,tp - Science & Technology,tp - Science & Technology,2
+3,1420,tp - Science & Technology,2021,2
+16,1421,Epoch Times,Epoch Times,2
+3,1421,Epoch Times,2021,2
+39,1422,Report24,Report24,2
+3,1422,Report24,2021,2
+10,1423,Wochenblick,Wochenblick,2
+3,1423,Wochenblick,2021,2
+28,1424,NachDenkSeiten,NachDenkSeiten,2
+11,1424,NachDenkSeiten,2020,2
+462,1425,ntv,ntv,2
+3,1425,ntv,2021,2
+99,1426,Berliner Zeitung,Berliner Zeitung,2
+3,1426,Berliner Zeitung,2021,2
+28,1427,NachDenkSeiten,NachDenkSeiten,2
+11,1427,NachDenkSeiten,2020,2
+16,1428,Epoch Times,Epoch Times,2
+3,1428,Epoch Times,2021,2
+10,1429,Wochenblick,Wochenblick,2
+3,1429,Wochenblick,2021,2
+1028,1430,Verfassungsfreunde,Verfassungsfreunde,2
+3,1430,Verfassungsfreunde,2021,2
+47,1431,reitschuster,reitschuster,2
+11,1431,reitschuster,2020,2
+16,1432,Epoch Times,Epoch Times,2
+3,1432,Epoch Times,2021,2
+962,1433,Prof. Harald Walach,Prof. Harald Walach,2
+3,1433,Prof. Harald Walach,2021,2
+283,1434,tagblatt.ch,tagblatt.ch,2
+11,1434,tagblatt.ch,2020,2
+1436,1435,Johns Hopkins Center for Health Security,Johns Hopkins Center for Health Security,2
+277,1435,Johns Hopkins Center for Health Security,2019,2
+6,1437,tp - Science & Technology,tp - Science & Technology,2
+3,1437,tp - Science & Technology,2021,2
+8,1438,RT DE,RT DE,2
+11,1438,RT DE,2020,2
+10,1439,Wochenblick,Wochenblick,2
+3,1439,Wochenblick,2021,2
+67,1440,Die Welt,Die Welt,2
+3,1440,Die Welt,2021,2
+397,1441,Pharmazeutische Zeitung,Pharmazeutische Zeitung,2
+11,1441,Pharmazeutische Zeitung,2020,2
+47,1442,reitschuster,reitschuster,2
+3,1442,reitschuster,2021,2
+1193,1443,BioNTech,BioNTech,2
+277,1443,BioNTech,2019,2
+16,1444,Epoch Times,Epoch Times,2
+11,1444,Epoch Times,2020,2
+1024,1445,comm4u,comm4u,2
+11,1445,comm4u,2020,2
+25,1446,Die Ostschweiz,Die Ostschweiz,2
+3,1446,Die Ostschweiz,2021,2
+67,1447,Die Welt,Die Welt,2
+3,1447,Die Welt,2021,2
+10,1448,Wochenblick,Wochenblick,2
+3,1448,Wochenblick,2021,2
+47,1449,reitschuster,reitschuster,2
+3,1449,reitschuster,2021,2
+10,1450,Wochenblick,Wochenblick,2
+3,1450,Wochenblick,2021,2
+6,1451,tp - Science & Technology,tp - Science & Technology,2
+3,1451,tp - Science & Technology,2021,2
+85,1452,Focus Online,Focus Online,2
+3,1452,Focus Online,2021,2
+332,1453,odysee,odysee,2
+3,1453,odysee,2021,2
+1455,1454,aargau-zuerich.ch,aargau-zuerich.ch,2
+3,1454,aargau-zuerich.ch,2021,2
+283,1456,tagblatt.ch,tagblatt.ch,2
+11,1456,tagblatt.ch,2020,2
+75,1457,In$ide Paradeplatz,In$ide Paradeplatz,2
+11,1457,In$ide Paradeplatz,2020,2
+1193,1458,BioNTech,BioNTech,2
+11,1458,BioNTech,2020,2
+283,1459,tagblatt.ch,tagblatt.ch,2
+11,1459,tagblatt.ch,2020,2
+39,1460,Report24,Report24,2
+3,1460,Report24,2021,2
+25,1461,Die Ostschweiz,Die Ostschweiz,2
+11,1461,Die Ostschweiz,2020,2
+10,1462,Wochenblick,Wochenblick,2
+3,1462,Wochenblick,2021,2
+8,1463,RT DE,RT DE,2
+3,1463,RT DE,2021,2
+75,1464,In$ide Paradeplatz,In$ide Paradeplatz,2
+3,1464,In$ide Paradeplatz,2021,2
+25,1465,Die Ostschweiz,Die Ostschweiz,2
+3,1465,Die Ostschweiz,2021,2
+6,1466,tp - Science & Technology,tp - Science & Technology,2
+3,1466,tp - Science & Technology,2021,2
+77,1467,2020 News,2020 News,2
+11,1467,2020 News,2020,2
+2,1468,ScienceFiles,ScienceFiles,2
+3,1468,ScienceFiles,2021,2
+99,1469,Berliner Zeitung,Berliner Zeitung,2
+11,1469,Berliner Zeitung,2020,2
+2,1470,ScienceFiles,ScienceFiles,2
+3,1470,ScienceFiles,2021,2
+73,1471,INFOsperber,INFOsperber,2
+3,1471,INFOsperber,2021,2
+47,1472,reitschuster,reitschuster,2
+3,1472,reitschuster,2021,2
+92,1473,Telepolis,Telepolis,2
+3,1473,Telepolis,2021,2
+296,1474,SWR,SWR,2
+11,1474,SWR,2020,2
+25,1475,Die Ostschweiz,Die Ostschweiz,2
+3,1475,Die Ostschweiz,2021,2
+39,1476,Report24,Report24,2
+3,1476,Report24,2021,2
+73,1477,INFOsperber,INFOsperber,2
+11,1477,INFOsperber,2020,2
+1479,1478,phoenix,phoenix,2
+3,1478,phoenix,2021,2
+10,1480,Wochenblick,Wochenblick,2
+3,1480,Wochenblick,2021,2
+35,1481,Corona Transition,Corona Transition,2
+3,1481,Corona Transition,2021,2
+256,1482,Swissmedic,Swissmedic,2
+3,1482,Swissmedic,2021,2
+47,1483,reitschuster,reitschuster,2
+3,1483,reitschuster,2021,2
+44,1484,NZZ,NZZ,2
+3,1484,NZZ,2021,2
+47,1485,reitschuster,reitschuster,2
+3,1485,reitschuster,2021,2
+35,1486,Corona Transition,Corona Transition,2
+3,1486,Corona Transition,2021,2
+67,1487,Die Welt,Die Welt,2
+11,1487,Die Welt,2020,2
+6,1488,tp - Science & Technology,tp - Science & Technology,2
+3,1488,tp - Science & Technology,2021,2
+645,1489,bitchute,bitchute,2
+11,1489,bitchute,2020,2
+47,1490,reitschuster,reitschuster,2
+3,1490,reitschuster,2021,2
+39,1491,Report24,Report24,2
+3,1491,Report24,2021,2
+1109,1492,FASSADENKRATZER,FASSADENKRATZER,2
+3,1492,FASSADENKRATZER,2021,2
+35,1493,Corona Transition,Corona Transition,2
+11,1493,Corona Transition,2020,2
+1495,1494,AUF,AUF,2
+11,1494,AUF,2020,2
+99,1496,Berliner Zeitung,Berliner Zeitung,2
+3,1496,Berliner Zeitung,2021,2
+1498,1497,Aargauer Zeitung,Aargauer Zeitung,2
+11,1497,Aargauer Zeitung,2020,2
+8,1499,RT DE,RT DE,2
+3,1499,RT DE,2021,2
+47,1500,reitschuster,reitschuster,2
+3,1500,reitschuster,2021,2
+322,1501,Jouwatch,Jouwatch,2
+11,1501,Jouwatch,2020,2
+225,1502,NDR,NDR,2
+3,1502,NDR,2021,2
+67,1503,Die Welt,Die Welt,2
+3,1503,Die Welt,2021,2
+1505,1504,LifeSiteNews,LifeSiteNews,2
+11,1504,LifeSiteNews,2020,2
+6,1506,tp - Science & Technology,tp - Science & Technology,2
+3,1506,tp - Science & Technology,2021,2
+145,1507,Weltwoche daily,Weltwoche daily,2
+3,1507,Weltwoche daily,2021,2
+16,1508,Epoch Times,Epoch Times,2
+3,1508,Epoch Times,2021,2
+168,1509,corona-blog.net,corona-blog.net,2
+3,1509,corona-blog.net,2021,2
+1511,1510,Deutsche Gesellschaft für Kinder- und Jugendmedizin e.V.,Deutsche Gesellschaft für Kinder- und Jugendmedizin e.V.,2
+3,1510,Deutsche Gesellschaft für Kinder- und Jugendmedizin e.V.,2021,2
+450,1512,World Health Organization,World Health Organization,2
+11,1512,World Health Organization,2020,2
+67,1513,Die Welt,Die Welt,2
+3,1513,Die Welt,2021,2
+75,1514,In$ide Paradeplatz,In$ide Paradeplatz,2
+3,1514,In$ide Paradeplatz,2021,2
+44,1515,NZZ,NZZ,2
+3,1515,NZZ,2021,2
+10,1516,Wochenblick,Wochenblick,2
+11,1516,Wochenblick,2020,2
+25,1517,Die Ostschweiz,Die Ostschweiz,2
+11,1517,Die Ostschweiz,2020,2
+16,1518,Epoch Times,Epoch Times,2
+3,1518,Epoch Times,2021,2
+120,1519,linth24,linth24,2
+3,1519,linth24,2021,2
+8,1520,RT DE,RT DE,2
+3,1520,RT DE,2021,2
+47,1521,reitschuster,reitschuster,2
+3,1521,reitschuster,2021,2
+35,1522,Corona Transition,Corona Transition,2
+3,1522,Corona Transition,2021,2
+294,1523,AerzteZeitung,AerzteZeitung,2
+3,1523,AerzteZeitung,2021,2
+85,1524,Focus Online,Focus Online,2
+11,1524,Focus Online,2020,2
+462,1525,ntv,ntv,2
+3,1525,ntv,2021,2
+256,1526,Swissmedic,Swissmedic,2
+3,1526,Swissmedic,2021,2
+1528,1527,New England Journal of Medicine,New England Journal of Medicine,2
+11,1527,New England Journal of Medicine,2020,2
+10,1529,Wochenblick,Wochenblick,2
+3,1529,Wochenblick,2021,2
+14,1530,Rubikon,Rubikon,2
+3,1530,Rubikon,2021,2
+6,1531,tp - Science & Technology,tp - Science & Technology,2
+3,1531,tp - Science & Technology,2021,2
+16,1532,Epoch Times,Epoch Times,2
+3,1532,Epoch Times,2021,2
+10,1533,Wochenblick,Wochenblick,2
+3,1533,Wochenblick,2021,2
+92,1534,Telepolis,Telepolis,2
+11,1534,Telepolis,2020,2
+18,1535,Achgut.com,Achgut.com,2
+3,1535,Achgut.com,2021,2
+44,1536,NZZ,NZZ,2
+11,1536,NZZ,2020,2
+18,1537,Achgut.com,Achgut.com,2
+11,1537,Achgut.com,2020,2
+8,1538,RT DE,RT DE,2
+3,1538,RT DE,2021,2
+47,1539,reitschuster,reitschuster,2
+3,1539,reitschuster,2021,2
+2,1540,ScienceFiles,ScienceFiles,2
+3,1540,ScienceFiles,2021,2
+8,1541,RT DE,RT DE,2
+3,1541,RT DE,2021,2
+85,1542,Focus Online,Focus Online,2
+3,1542,Focus Online,2021,2
+10,1543,Wochenblick,Wochenblick,2
+11,1543,Wochenblick,2020,2
+1545,1544,Re-Check,Re-Check,2
+3,1544,Re-Check,2021,2
+25,1546,Die Ostschweiz,Die Ostschweiz,2
+3,1546,Die Ostschweiz,2021,2
+18,1547,Achgut.com,Achgut.com,2
+11,1547,Achgut.com,2020,2
+10,1548,Wochenblick,Wochenblick,2
+3,1548,Wochenblick,2021,2
+145,1549,Weltwoche daily,Weltwoche daily,2
+3,1549,Weltwoche daily,2021,2
+16,1550,Epoch Times,Epoch Times,2
+3,1550,Epoch Times,2021,2
+16,1551,Epoch Times,Epoch Times,2
+3,1551,Epoch Times,2021,2
+462,1552,ntv,ntv,2
+3,1552,ntv,2021,2
+25,1553,Die Ostschweiz,Die Ostschweiz,2
+3,1553,Die Ostschweiz,2021,2
+14,1554,Rubikon,Rubikon,2
+11,1554,Rubikon,2020,2
+1545,1555,Re-Check,Re-Check,2
+3,1555,Re-Check,2021,2
+25,1556,Die Ostschweiz,Die Ostschweiz,2
+11,1556,Die Ostschweiz,2020,2
+39,1557,Report24,Report24,2
+3,1557,Report24,2021,2
+47,1558,reitschuster,reitschuster,2
+3,1558,reitschuster,2021,2
+25,1559,Die Ostschweiz,Die Ostschweiz,2
+3,1559,Die Ostschweiz,2021,2
+10,1560,Wochenblick,Wochenblick,2
+3,1560,Wochenblick,2021,2
+25,1561,Die Ostschweiz,Die Ostschweiz,2
+3,1561,Die Ostschweiz,2021,2
+258,1562,Deutsches Ärzteblatt,Deutsches Ärzteblatt,2
+3,1562,Deutsches Ärzteblatt,2021,2
+10,1563,Wochenblick,Wochenblick,2
+3,1563,Wochenblick,2021,2
+14,1564,Rubikon,Rubikon,2
+11,1564,Rubikon,2020,2
+175,1565,Timeline,Timeline,2
+3,1565,Timeline,2021,2
+8,1566,RT DE,RT DE,2
+3,1566,RT DE,2021,2
+1568,1567,Vincent Racaniello - TWiV 615,Vincent Racaniello - TWiV 615,2
+277,1567,Vincent Racaniello - TWiV 615,2019,2
+1116,1569,Bundesrat,Bundesrat,2
+3,1569,Bundesrat,2021,2
+283,1570,tagblatt.ch,tagblatt.ch,2
+11,1570,tagblatt.ch,2020,2
+420,1571,Nau,Nau,2
+3,1571,Nau,2021,2
+743,1572,BAG,BAG,2
+11,1572,BAG,2020,2
+85,1573,Focus Online,Focus Online,2
+3,1573,Focus Online,2021,2
+6,1574,tp - Science & Technology,tp - Science & Technology,2
+3,1574,tp - Science & Technology,2021,2
+73,1575,INFOsperber,INFOsperber,2
+11,1575,INFOsperber,2020,2
+39,1576,Report24,Report24,2
+3,1576,Report24,2021,2
+75,1577,In$ide Paradeplatz,In$ide Paradeplatz,2
+3,1577,In$ide Paradeplatz,2021,2
+168,1578,corona-blog.net,corona-blog.net,2
+3,1578,corona-blog.net,2021,2
+8,1579,RT DE,RT DE,2
+3,1579,RT DE,2021,2
+10,1580,Wochenblick,Wochenblick,2
+3,1580,Wochenblick,2021,2
+77,1581,2020 News,2020 News,2
+3,1581,2020 News,2021,2
+8,1582,RT DE,RT DE,2
+11,1582,RT DE,2020,2
+85,1583,Focus Online,Focus Online,2
+3,1583,Focus Online,2021,2
+10,1584,Wochenblick,Wochenblick,2
+11,1584,Wochenblick,2020,2
+39,1585,Report24,Report24,2
+3,1585,Report24,2021,2
+10,1586,Wochenblick,Wochenblick,2
+3,1586,Wochenblick,2021,2
+14,1587,Rubikon,Rubikon,2
+3,1587,Rubikon,2021,2
+10,1588,Wochenblick,Wochenblick,2
+3,1588,Wochenblick,2021,2
+14,1589,Rubikon,Rubikon,2
+11,1589,Rubikon,2020,2
+73,1590,INFOsperber,INFOsperber,2
+3,1590,INFOsperber,2021,2
+8,1591,RT DE,RT DE,2
+3,1591,RT DE,2021,2
+1593,1592,ARD-Mediathek,ARD-Mediathek,2
+11,1592,ARD-Mediathek,2020,2
+16,1594,Epoch Times,Epoch Times,2
+3,1594,Epoch Times,2021,2
+1596,1595,stgallen24,stgallen24,2
+3,1595,stgallen24,2021,2
+10,1597,Wochenblick,Wochenblick,2
+3,1597,Wochenblick,2021,2
+10,1598,Wochenblick,Wochenblick,2
+3,1598,Wochenblick,2021,2
+258,1599,Deutsches Ärzteblatt,Deutsches Ärzteblatt,2
+11,1599,Deutsches Ärzteblatt,2020,2
+47,1600,reitschuster,reitschuster,2
+3,1600,reitschuster,2021,2
+16,1601,Epoch Times,Epoch Times,2
+3,1601,Epoch Times,2021,2
+16,1602,Epoch Times,Epoch Times,2
+3,1602,Epoch Times,2021,2
+44,1603,NZZ,NZZ,2
+11,1603,NZZ,2020,2
+6,1604,tp - Science & Technology,tp - Science & Technology,2
+3,1604,tp - Science & Technology,2021,2
+28,1605,NachDenkSeiten,NachDenkSeiten,2
+3,1605,NachDenkSeiten,2021,2
+110,1606,Unser Mitteleuropa,Unser Mitteleuropa,2
+3,1606,Unser Mitteleuropa,2021,2
+47,1607,reitschuster,reitschuster,2
+3,1607,reitschuster,2021,2
+168,1608,corona-blog.net,corona-blog.net,2
+3,1608,corona-blog.net,2021,2
+10,1609,Wochenblick,Wochenblick,2
+3,1609,Wochenblick,2021,2
+10,1610,Wochenblick,Wochenblick,2
+3,1610,Wochenblick,2021,2
+67,1611,Die Welt,Die Welt,2
+3,1611,Die Welt,2021,2
+67,1612,Die Welt,Die Welt,2
+3,1612,Die Welt,2021,2
+10,1613,Wochenblick,Wochenblick,2
+3,1613,Wochenblick,2021,2
+25,1614,Die Ostschweiz,Die Ostschweiz,2
+11,1614,Die Ostschweiz,2020,2
+67,1615,Die Welt,Die Welt,2
+3,1615,Die Welt,2021,2
+95,1616,Youtube,Youtube,2
+3,1616,Youtube,2021,2
+16,1617,Epoch Times,Epoch Times,2
+3,1617,Epoch Times,2021,2
+47,1618,reitschuster,reitschuster,2
+3,1618,reitschuster,2021,2
+14,1619,Rubikon,Rubikon,2
+3,1619,Rubikon,2021,2
+47,1620,reitschuster,reitschuster,2
+3,1620,reitschuster,2021,2
+25,1621,Die Ostschweiz,Die Ostschweiz,2
+3,1621,Die Ostschweiz,2021,2
+6,1622,tp - Science & Technology,tp - Science & Technology,2
+3,1622,tp - Science & Technology,2021,2
+2,1623,ScienceFiles,ScienceFiles,2
+3,1623,ScienceFiles,2021,2
+236,1624,Uncut-News,Uncut-News,2
+3,1624,Uncut-News,2021,2
+95,1625,Youtube,Youtube,2
+11,1625,Youtube,2020,2
+25,1626,Die Ostschweiz,Die Ostschweiz,2
+3,1626,Die Ostschweiz,2021,2
+450,1627,World Health Organization,World Health Organization,2
+11,1627,World Health Organization,2020,2
+47,1628,reitschuster,reitschuster,2
+11,1628,reitschuster,2020,2
+1436,1629,Johns Hopkins Center for Health Security,Johns Hopkins Center for Health Security,2
+11,1629,Johns Hopkins Center for Health Security,2020,2
+322,1630,Jouwatch,Jouwatch,2
+3,1630,Jouwatch,2021,2
+462,1631,ntv,ntv,2
+3,1631,ntv,2021,2
+1633,1632,Government of India,Government of India,2
+3,1632,Government of India,2021,2
+1033,1634,Ereignis,Ereignis,2
+277,1634,Ereignis,2019,2
+77,1635,2020 News,2020 News,2
+3,1635,2020 News,2021,2
+47,1636,reitschuster,reitschuster,2
+3,1636,reitschuster,2021,2
+8,1637,RT DE,RT DE,2
+3,1637,RT DE,2021,2
+8,1638,RT DE,RT DE,2
+11,1638,RT DE,2020,2
+462,1639,ntv,ntv,2
+3,1639,ntv,2021,2
+1641,1640,infosperber,infosperber,2
+11,1640,infosperber,2020,2
+14,1642,Rubikon,Rubikon,2
+3,1642,Rubikon,2021,2
+120,1643,linth24,linth24,2
+11,1643,linth24,2020,2
+25,1644,Die Ostschweiz,Die Ostschweiz,2
+11,1644,Die Ostschweiz,2020,2
+25,1645,Die Ostschweiz,Die Ostschweiz,2
+3,1645,Die Ostschweiz,2021,2
+28,1646,NachDenkSeiten,NachDenkSeiten,2
+3,1646,NachDenkSeiten,2021,2
+10,1647,Wochenblick,Wochenblick,2
+3,1647,Wochenblick,2021,2
+47,1648,reitschuster,reitschuster,2
+3,1648,reitschuster,2021,2
+21,1649,Tagesanzeiger,Tagesanzeiger,2
+11,1649,Tagesanzeiger,2020,2
+1003,1650,Frankfurter Rundschau,Frankfurter Rundschau,2
+3,1650,Frankfurter Rundschau,2021,2
+10,1651,Wochenblick,Wochenblick,2
+11,1651,Wochenblick,2020,2
+145,1652,Weltwoche daily,Weltwoche daily,2
+3,1652,Weltwoche daily,2021,2
+35,1653,Corona Transition,Corona Transition,2
+3,1653,Corona Transition,2021,2
+420,1654,Nau,Nau,2
+11,1654,Nau,2020,2
+14,1655,Rubikon,Rubikon,2
+3,1655,Rubikon,2021,2
+14,1656,Rubikon,Rubikon,2
+11,1656,Rubikon,2020,2
+397,1657,Pharmazeutische Zeitung,Pharmazeutische Zeitung,2
+11,1657,Pharmazeutische Zeitung,2020,2
+10,1658,Wochenblick,Wochenblick,2
+3,1658,Wochenblick,2021,2
+25,1659,Die Ostschweiz,Die Ostschweiz,2
+3,1659,Die Ostschweiz,2021,2
+8,1660,RT DE,RT DE,2
+3,1660,RT DE,2021,2
+35,1661,Corona Transition,Corona Transition,2
+11,1661,Corona Transition,2020,2
+6,1662,tp - Science & Technology,tp - Science & Technology,2
+3,1662,tp - Science & Technology,2021,2
+92,1663,Telepolis,Telepolis,2
+11,1663,Telepolis,2020,2
+52,1664,Tichys Einblick,Tichys Einblick,2
+3,1664,Tichys Einblick,2021,2
+762,1665,The New York Times,The New York Times,2
+11,1665,The New York Times,2020,2
+1667,1666,Event,Event,2
+277,1666,Event,2019,2
+35,1668,Corona Transition,Corona Transition,2
+3,1668,Corona Transition,2021,2
+6,1669,tp - Science & Technology,tp - Science & Technology,2
+3,1669,tp - Science & Technology,2021,2
+225,1670,NDR,NDR,2
+3,1670,NDR,2021,2
+120,1671,linth24,linth24,2
+11,1671,linth24,2020,2
+44,1672,NZZ,NZZ,2
+11,1672,NZZ,2020,2
+47,1673,reitschuster,reitschuster,2
+3,1673,reitschuster,2021,2
+2,1674,ScienceFiles,ScienceFiles,2
+3,1674,ScienceFiles,2021,2
+2,1675,ScienceFiles,ScienceFiles,2
+3,1675,ScienceFiles,2021,2
+1677,1676,mediarebell,mediarebell,2
+11,1676,mediarebell,2020,2
+120,1678,linth24,linth24,2
+3,1678,linth24,2021,2
+47,1679,reitschuster,reitschuster,2
+3,1679,reitschuster,2021,2
+168,1680,corona-blog.net,corona-blog.net,2
+3,1680,corona-blog.net,2021,2
+131,1681,Nordkurier,Nordkurier,2
+3,1681,Nordkurier,2021,2
+35,1682,Corona Transition,Corona Transition,2
+3,1682,Corona Transition,2021,2
+6,1683,tp - Science & Technology,tp - Science & Technology,2
+3,1683,tp - Science & Technology,2021,2
+8,1684,RT DE,RT DE,2
+3,1684,RT DE,2021,2
+35,1685,Corona Transition,Corona Transition,2
+11,1685,Corona Transition,2020,2
+85,1686,Focus Online,Focus Online,2
+3,1686,Focus Online,2021,2
+73,1687,INFOsperber,INFOsperber,2
+11,1687,INFOsperber,2020,2
+16,1688,Epoch Times,Epoch Times,2
+3,1688,Epoch Times,2021,2
+239,1689,SRF,SRF,2
+11,1689,SRF,2020,2
+450,1690,World Health Organization,World Health Organization,2
+277,1690,World Health Organization,2019,2
+44,1691,NZZ,NZZ,2
+11,1691,NZZ,2020,2
+10,1692,Wochenblick,Wochenblick,2
+11,1692,Wochenblick,2020,2
+47,1693,reitschuster,reitschuster,2
+3,1693,reitschuster,2021,2
+120,1694,linth24,linth24,2
+3,1694,linth24,2021,2
+6,1695,tp - Science & Technology,tp - Science & Technology,2
+3,1695,tp - Science & Technology,2021,2
+35,1696,Corona Transition,Corona Transition,2
+3,1696,Corona Transition,2021,2
+21,1697,Tagesanzeiger,Tagesanzeiger,2
+3,1697,Tagesanzeiger,2021,2
+73,1698,INFOsperber,INFOsperber,2
+3,1698,INFOsperber,2021,2
+462,1699,ntv,ntv,2
+3,1699,ntv,2021,2
+25,1700,Die Ostschweiz,Die Ostschweiz,2
+3,1700,Die Ostschweiz,2021,2
+35,1701,Corona Transition,Corona Transition,2
+3,1701,Corona Transition,2021,2
+8,1702,RT DE,RT DE,2
+3,1702,RT DE,2021,2
+8,1703,RT DE,RT DE,2
+3,1703,RT DE,2021,2
+8,1704,RT DE,RT DE,2
+3,1704,RT DE,2021,2
+420,1705,Nau,Nau,2
+3,1705,Nau,2021,2
+25,1706,Die Ostschweiz,Die Ostschweiz,2
+3,1706,Die Ostschweiz,2021,2
+462,1707,ntv,ntv,2
+11,1707,ntv,2020,2
+77,1708,2020 News,2020 News,2
+3,1708,2020 News,2021,2
+10,1709,Wochenblick,Wochenblick,2
+3,1709,Wochenblick,2021,2
+16,1710,Epoch Times,Epoch Times,2
+3,1710,Epoch Times,2021,2
+397,1711,Pharmazeutische Zeitung,Pharmazeutische Zeitung,2
+3,1711,Pharmazeutische Zeitung,2021,2
+10,1712,Wochenblick,Wochenblick,2
+3,1712,Wochenblick,2021,2
+1714,1713,Tips,Tips,2
+11,1713,Tips,2020,2
+10,1715,Wochenblick,Wochenblick,2
+3,1715,Wochenblick,2021,2
+10,1716,Wochenblick,Wochenblick,2
+3,1716,Wochenblick,2021,2
+25,1717,Die Ostschweiz,Die Ostschweiz,2
+3,1717,Die Ostschweiz,2021,2
+239,1718,SRF,SRF,2
+11,1718,SRF,2020,2
+2,1719,ScienceFiles,ScienceFiles,2
+3,1719,ScienceFiles,2021,2
+16,1720,Epoch Times,Epoch Times,2
+11,1720,Epoch Times,2020,2
+73,1721,INFOsperber,INFOsperber,2
+3,1721,INFOsperber,2021,2
+37,1722,multipolar,multipolar,2
+3,1722,multipolar,2021,2
+35,1723,Corona Transition,Corona Transition,2
+3,1723,Corona Transition,2021,2
+8,1724,RT DE,RT DE,2
+3,1724,RT DE,2021,2
+8,1725,RT DE,RT DE,2
+3,1725,RT DE,2021,2
+16,1726,Epoch Times,Epoch Times,2
+3,1726,Epoch Times,2021,2
+120,1727,linth24,linth24,2
+3,1727,linth24,2021,2
+25,1728,Die Ostschweiz,Die Ostschweiz,2
+3,1728,Die Ostschweiz,2021,2
+25,1729,Die Ostschweiz,Die Ostschweiz,2
+11,1729,Die Ostschweiz,2020,2
+1731,1730,Peds Ansichten,Peds Ansichten,2
+3,1730,Peds Ansichten,2021,2
+35,1732,Corona Transition,Corona Transition,2
+3,1732,Corona Transition,2021,2
+8,1733,RT DE,RT DE,2
+3,1733,RT DE,2021,2
+67,1734,Die Welt,Die Welt,2
+3,1734,Die Welt,2021,2
+168,1735,corona-blog.net,corona-blog.net,2
+3,1735,corona-blog.net,2021,2
+580,1736,Das Schweizer Parlament,Das Schweizer Parlament,2
+3,1736,Das Schweizer Parlament,2021,2
+382,1737,ZDF,ZDF,2
+3,1737,ZDF,2021,2
+47,1738,reitschuster,reitschuster,2
+3,1738,reitschuster,2021,2
+8,1739,RT DE,RT DE,2
+11,1739,RT DE,2020,2
+16,1740,Epoch Times,Epoch Times,2
+3,1740,Epoch Times,2021,2
+16,1741,Epoch Times,Epoch Times,2
+3,1741,Epoch Times,2021,2
+8,1742,RT DE,RT DE,2
+3,1742,RT DE,2021,2
+8,1743,RT DE,RT DE,2
+3,1743,RT DE,2021,2
+131,1744,Nordkurier,Nordkurier,2
+3,1744,Nordkurier,2021,2
+397,1745,Pharmazeutische Zeitung,Pharmazeutische Zeitung,2
+3,1745,Pharmazeutische Zeitung,2021,2
+73,1746,INFOsperber,INFOsperber,2
+11,1746,INFOsperber,2020,2
+35,1747,Corona Transition,Corona Transition,2
+3,1747,Corona Transition,2021,2
+120,1748,linth24,linth24,2
+3,1748,linth24,2021,2
+67,1749,Die Welt,Die Welt,2
+3,1749,Die Welt,2021,2
+71,1750,Ktipp,Ktipp,2
+3,1750,Ktipp,2021,2
+35,1751,Corona Transition,Corona Transition,2
+3,1751,Corona Transition,2021,2
+1193,1752,BioNTech,BioNTech,2
+277,1752,BioNTech,2019,2
+41,1753,medinside.ch,medinside.ch,2
+3,1753,medinside.ch,2021,2
+47,1754,reitschuster,reitschuster,2
+3,1754,reitschuster,2021,2
+47,1755,reitschuster,reitschuster,2
+11,1755,reitschuster,2020,2
+450,1756,World Health Organization,World Health Organization,2
+11,1756,World Health Organization,2020,2
+44,1757,NZZ,NZZ,2
+3,1757,NZZ,2021,2
+35,1758,Corona Transition,Corona Transition,2
+3,1758,Corona Transition,2021,2
+87,1759,substack.com,substack.com,2
+11,1759,substack.com,2020,2
+8,1760,RT DE,RT DE,2
+3,1760,RT DE,2021,2
+6,1761,tp - Science & Technology,tp - Science & Technology,2
+3,1761,tp - Science & Technology,2021,2
+283,1762,tagblatt.ch,tagblatt.ch,2
+3,1762,tagblatt.ch,2021,2
+6,1763,tp - Science & Technology,tp - Science & Technology,2
+3,1763,tp - Science & Technology,2021,2
+16,1764,Epoch Times,Epoch Times,2
+3,1764,Epoch Times,2021,2
+1766,1765,Nature Medicine,Nature Medicine,2
+11,1765,Nature Medicine,2020,2
+25,1767,Die Ostschweiz,Die Ostschweiz,2
+3,1767,Die Ostschweiz,2021,2
+25,1768,Die Ostschweiz,Die Ostschweiz,2
+11,1768,Die Ostschweiz,2020,2
+77,1769,2020 News,2020 News,2
+3,1769,2020 News,2021,2
+256,1770,Swissmedic,Swissmedic,2
+11,1770,Swissmedic,2020,2
+16,1771,Epoch Times,Epoch Times,2
+3,1771,Epoch Times,2021,2
+75,1772,In$ide Paradeplatz,In$ide Paradeplatz,2
+3,1772,In$ide Paradeplatz,2021,2
+21,1773,Tagesanzeiger,Tagesanzeiger,2
+11,1773,Tagesanzeiger,2020,2
+35,1774,Corona Transition,Corona Transition,2
+3,1774,Corona Transition,2021,2
+10,1775,Wochenblick,Wochenblick,2
+3,1775,Wochenblick,2021,2
+16,1776,Epoch Times,Epoch Times,2
+3,1776,Epoch Times,2021,2
+25,1777,Die Ostschweiz,Die Ostschweiz,2
+3,1777,Die Ostschweiz,2021,2
+18,1778,Achgut.com,Achgut.com,2
+3,1778,Achgut.com,2021,2
+37,1779,multipolar,multipolar,2
+3,1779,multipolar,2021,2
+14,1780,Rubikon,Rubikon,2
+3,1780,Rubikon,2021,2
+8,1781,RT DE,RT DE,2
+3,1781,RT DE,2021,2
+6,1782,tp - Science & Technology,tp - Science & Technology,2
+3,1782,tp - Science & Technology,2021,2
+743,1783,BAG,BAG,2
+11,1783,BAG,2020,2
+16,1784,Epoch Times,Epoch Times,2
+3,1784,Epoch Times,2021,2
+47,1785,reitschuster,reitschuster,2
+3,1785,reitschuster,2021,2
+462,1786,ntv,ntv,2
+11,1786,ntv,2020,2
+8,1787,RT DE,RT DE,2
+11,1787,RT DE,2020,2
+8,1788,RT DE,RT DE,2
+3,1788,RT DE,2021,2
+145,1789,Weltwoche daily,Weltwoche daily,2
+3,1789,Weltwoche daily,2021,2
+8,1790,RT DE,RT DE,2
+11,1790,RT DE,2020,2
+1792,1791,Eurosurveillance,Eurosurveillance,2
+11,1791,Eurosurveillance,2020,2
+35,1793,Corona Transition,Corona Transition,2
+3,1793,Corona Transition,2021,2
+35,1794,Corona Transition,Corona Transition,2
+3,1794,Corona Transition,2021,2
+41,1795,medinside.ch,medinside.ch,2
+11,1795,medinside.ch,2020,2
+25,1796,Die Ostschweiz,Die Ostschweiz,2
+3,1796,Die Ostschweiz,2021,2
+16,1797,Epoch Times,Epoch Times,2
+3,1797,Epoch Times,2021,2
+87,1798,substack.com,substack.com,2
+11,1798,substack.com,2020,2
+16,1799,Epoch Times,Epoch Times,2
+3,1799,Epoch Times,2021,2
+87,1800,substack.com,substack.com,2
+11,1800,substack.com,2020,2
+16,1801,Epoch Times,Epoch Times,2
+3,1801,Epoch Times,2021,2
+6,1802,tp - Science & Technology,tp - Science & Technology,2
+3,1802,tp - Science & Technology,2021,2
+561,1803,Kinder-Maskenpetition,Kinder-Maskenpetition,2
+3,1803,Kinder-Maskenpetition,2021,2
+8,1804,RT DE,RT DE,2
+3,1804,RT DE,2021,2
+18,1805,Achgut.com,Achgut.com,2
+3,1805,Achgut.com,2021,2
+256,1806,Swissmedic,Swissmedic,2
+3,1806,Swissmedic,2021,2
+41,1807,medinside.ch,medinside.ch,2
+11,1807,medinside.ch,2020,2
+18,1808,Achgut.com,Achgut.com,2
+3,1808,Achgut.com,2021,2
+462,1809,ntv,ntv,2
+3,1809,ntv,2021,2
+411,1810,tagesschau.de,tagesschau.de,2
+11,1810,tagesschau.de,2020,2
+47,1811,reitschuster,reitschuster,2
+3,1811,reitschuster,2021,2
+120,1812,linth24,linth24,2
+3,1812,linth24,2021,2
+99,1813,Berliner Zeitung,Berliner Zeitung,2
+3,1813,Berliner Zeitung,2021,2
+25,1814,Die Ostschweiz,Die Ostschweiz,2
+3,1814,Die Ostschweiz,2021,2
+168,1815,corona-blog.net,corona-blog.net,2
+3,1815,corona-blog.net,2021,2
+10,1816,Wochenblick,Wochenblick,2
+3,1816,Wochenblick,2021,2
+239,1817,SRF,SRF,2
+3,1817,SRF,2021,2
+131,1818,Nordkurier,Nordkurier,2
+3,1818,Nordkurier,2021,2
+258,1819,Deutsches Ärzteblatt,Deutsches Ärzteblatt,2
+3,1819,Deutsches Ärzteblatt,2021,2
+52,1820,Tichys Einblick,Tichys Einblick,2
+3,1820,Tichys Einblick,2021,2
+92,1821,Telepolis,Telepolis,2
+3,1821,Telepolis,2021,2
+145,1822,Weltwoche daily,Weltwoche daily,2
+3,1822,Weltwoche daily,2021,2
+47,1823,reitschuster,reitschuster,2
+3,1823,reitschuster,2021,2
+16,1824,Epoch Times,Epoch Times,2
+3,1824,Epoch Times,2021,2
+25,1825,Die Ostschweiz,Die Ostschweiz,2
+3,1825,Die Ostschweiz,2021,2
+131,1826,Nordkurier,Nordkurier,2
+3,1826,Nordkurier,2021,2
+1828,1827,Handelsblatt,Handelsblatt,2
+11,1827,Handelsblatt,2020,2
+1109,1829,FASSADENKRATZER,FASSADENKRATZER,2
+3,1829,FASSADENKRATZER,2021,2
+47,1830,reitschuster,reitschuster,2
+3,1830,reitschuster,2021,2
+1832,1831,Verborgene Wahrheit,Verborgene Wahrheit,2
+11,1831,Verborgene Wahrheit,2020,2
+47,1833,reitschuster,reitschuster,2
+3,1833,reitschuster,2021,2
+35,1834,Corona Transition,Corona Transition,2
+11,1834,Corona Transition,2020,2
+450,1835,World Health Organization,World Health Organization,2
+11,1835,World Health Organization,2020,2
+420,1836,Nau,Nau,2
+3,1836,Nau,2021,2
+201,1837,ZE!TPUNKT,ZE!TPUNKT,2
+3,1837,ZE!TPUNKT,2021,2
+87,1838,substack.com,substack.com,2
+11,1838,substack.com,2020,2
+8,1839,RT DE,RT DE,2
+3,1839,RT DE,2021,2
+110,1840,Unser Mitteleuropa,Unser Mitteleuropa,2
+3,1840,Unser Mitteleuropa,2021,2
+77,1841,2020 News,2020 News,2
+3,1841,2020 News,2021,2
+1843,1842,heise,heise,2
+3,1842,heise,2021,2
+44,1844,NZZ,NZZ,2
+3,1844,NZZ,2021,2
+52,1845,Tichys Einblick,Tichys Einblick,2
+3,1845,Tichys Einblick,2021,2
+47,1846,reitschuster,reitschuster,2
+3,1846,reitschuster,2021,2
+39,1847,Report24,Report24,2
+3,1847,Report24,2021,2
+8,1848,RT DE,RT DE,2
+3,1848,RT DE,2021,2
+16,1849,Epoch Times,Epoch Times,2
+3,1849,Epoch Times,2021,2
+962,1850,Prof. Harald Walach,Prof. Harald Walach,2
+3,1850,Prof. Harald Walach,2021,2
+536,1851,Unzensuriert,Unzensuriert,2
+11,1851,Unzensuriert,2020,2
+8,1852,RT DE,RT DE,2
+11,1852,RT DE,2020,2
+10,1853,Wochenblick,Wochenblick,2
+3,1853,Wochenblick,2021,2
+21,1854,Tagesanzeiger,Tagesanzeiger,2
+3,1854,Tagesanzeiger,2021,2
+35,1855,Corona Transition,Corona Transition,2
+3,1855,Corona Transition,2021,2
+75,1856,In$ide Paradeplatz,In$ide Paradeplatz,2
+3,1856,In$ide Paradeplatz,2021,2
+10,1857,Wochenblick,Wochenblick,2
+3,1857,Wochenblick,2021,2
+256,1858,Swissmedic,Swissmedic,2
+11,1858,Swissmedic,2020,2
+365,1859,RND,RND,2
+3,1859,RND,2021,2
+168,1860,corona-blog.net,corona-blog.net,2
+3,1860,corona-blog.net,2021,2
+1862,1861,Bärnerbär,Bärnerbär,2
+3,1861,Bärnerbär,2021,2
+8,1863,RT DE,RT DE,2
+3,1863,RT DE,2021,2
+1028,1864,Verfassungsfreunde,Verfassungsfreunde,2
+3,1864,Verfassungsfreunde,2021,2
+110,1865,Unser Mitteleuropa,Unser Mitteleuropa,2
+3,1865,Unser Mitteleuropa,2021,2
+85,1866,Focus Online,Focus Online,2
+3,1866,Focus Online,2021,2
+450,1867,World Health Organization,World Health Organization,2
+11,1867,World Health Organization,2020,2
+1869,1868,CDU/CSU,CDU/CSU,2
+277,1868,CDU/CSU,2019,2
+8,1870,RT DE,RT DE,2
+3,1870,RT DE,2021,2
+25,1871,Die Ostschweiz,Die Ostschweiz,2
+3,1871,Die Ostschweiz,2021,2
+52,1872,Tichys Einblick,Tichys Einblick,2
+3,1872,Tichys Einblick,2021,2
+41,1873,medinside.ch,medinside.ch,2
+3,1873,medinside.ch,2021,2
+8,1874,RT DE,RT DE,2
+11,1874,RT DE,2020,2
+2,1875,ScienceFiles,ScienceFiles,2
+3,1875,ScienceFiles,2021,2
+14,1876,Rubikon,Rubikon,2
+11,1876,Rubikon,2020,2
+77,1877,2020 News,2020 News,2
+3,1877,2020 News,2021,2
+92,1878,Telepolis,Telepolis,2
+3,1878,Telepolis,2021,2
+6,1879,tp - Science & Technology,tp - Science & Technology,2
+3,1879,tp - Science & Technology,2021,2
+1881,1880,InsideCorona,InsideCorona,2
+11,1880,InsideCorona,2020,2
+120,1882,linth24,linth24,2
+11,1882,linth24,2020,2
+77,1883,2020 News,2020 News,2
+11,1883,2020 News,2020,2
+382,1884,ZDF,ZDF,2
+3,1884,ZDF,2021,2
+8,1885,RT DE,RT DE,2
+11,1885,RT DE,2020,2
+18,1886,Achgut.com,Achgut.com,2
+3,1886,Achgut.com,2021,2
+35,1887,Corona Transition,Corona Transition,2
+3,1887,Corona Transition,2021,2
+6,1888,tp - Science & Technology,tp - Science & Technology,2
+3,1888,tp - Science & Technology,2021,2
+77,1889,2020 News,2020 News,2
+11,1889,2020 News,2020,2
+16,1890,Epoch Times,Epoch Times,2
+11,1890,Epoch Times,2020,2
+2,1891,ScienceFiles,ScienceFiles,2
+3,1891,ScienceFiles,2021,2
+10,1892,Wochenblick,Wochenblick,2
+3,1892,Wochenblick,2021,2
+168,1893,corona-blog.net,corona-blog.net,2
+3,1893,corona-blog.net,2021,2
+16,1894,Epoch Times,Epoch Times,2
+3,1894,Epoch Times,2021,2
+10,1895,Wochenblick,Wochenblick,2
+3,1895,Wochenblick,2021,2
+8,1896,RT DE,RT DE,2
+3,1896,RT DE,2021,2
+77,1897,2020 News,2020 News,2
+3,1897,2020 News,2021,2
+77,1898,2020 News,2020 News,2
+11,1898,2020 News,2020,2
+99,1899,Berliner Zeitung,Berliner Zeitung,2
+3,1899,Berliner Zeitung,2021,2
+28,1900,NachDenkSeiten,NachDenkSeiten,2
+3,1900,NachDenkSeiten,2021,2
+16,1901,Epoch Times,Epoch Times,2
+3,1901,Epoch Times,2021,2
+1903,1902,Virological,Virological,2
+11,1902,Virological,2020,2
+10,1904,Wochenblick,Wochenblick,2
+3,1904,Wochenblick,2021,2
+10,1905,Wochenblick,Wochenblick,2
+3,1905,Wochenblick,2021,2
+14,1906,Rubikon,Rubikon,2
+3,1906,Rubikon,2021,2
+236,1907,Uncut-News,Uncut-News,2
+3,1907,Uncut-News,2021,2
+145,1908,Weltwoche daily,Weltwoche daily,2
+11,1908,Weltwoche daily,2020,2
+1910,1909,ORF,ORF,2
+11,1909,ORF,2020,2
+16,1911,Epoch Times,Epoch Times,2
+3,1911,Epoch Times,2021,2
+462,1912,ntv,ntv,2
+3,1912,ntv,2021,2
+1334,1913,arte,arte,2
+3,1913,arte,2021,2
+2,1914,ScienceFiles,ScienceFiles,2
+3,1914,ScienceFiles,2021,2
+8,1915,RT DE,RT DE,2
+3,1915,RT DE,2021,2
+25,1916,Die Ostschweiz,Die Ostschweiz,2
+3,1916,Die Ostschweiz,2021,2
+10,1917,Wochenblick,Wochenblick,2
+3,1917,Wochenblick,2021,2
+2,1918,ScienceFiles,ScienceFiles,2
+3,1918,ScienceFiles,2021,2
+25,1919,Die Ostschweiz,Die Ostschweiz,2
+3,1919,Die Ostschweiz,2021,2
+14,1920,Rubikon,Rubikon,2
+3,1920,Rubikon,2021,2
+16,1921,Epoch Times,Epoch Times,2
+3,1921,Epoch Times,2021,2
+10,1922,Wochenblick,Wochenblick,2
+11,1922,Wochenblick,2020,2
+25,1923,Die Ostschweiz,Die Ostschweiz,2
+3,1923,Die Ostschweiz,2021,2
+1843,1924,heise,heise,2
+3,1924,heise,2021,2
+67,1925,Die Welt,Die Welt,2
+3,1925,Die Welt,2021,2
+10,1926,Wochenblick,Wochenblick,2
+3,1926,Wochenblick,2021,2
+8,1927,RT DE,RT DE,2
+3,1927,RT DE,2021,2
+10,1928,Wochenblick,Wochenblick,2
+3,1928,Wochenblick,2021,2
+1116,1929,Bundesrat,Bundesrat,2
+3,1929,Bundesrat,2021,2
+444,1930,WHO,WHO,2
+11,1930,WHO,2020,2
+1862,1931,Bärnerbär,Bärnerbär,2
+11,1931,Bärnerbär,2020,2
+6,1932,tp - Science & Technology,tp - Science & Technology,2
+3,1932,tp - Science & Technology,2021,2
+25,1933,Die Ostschweiz,Die Ostschweiz,2
+3,1933,Die Ostschweiz,2021,2
+6,1934,tp - Science & Technology,tp - Science & Technology,2
+3,1934,tp - Science & Technology,2021,2
+1109,1935,FASSADENKRATZER,FASSADENKRATZER,2
+3,1935,FASSADENKRATZER,2021,2
+47,1936,reitschuster,reitschuster,2
+3,1936,reitschuster,2021,2
+145,1937,Weltwoche daily,Weltwoche daily,2
+3,1937,Weltwoche daily,2021,2
+21,1938,Tagesanzeiger,Tagesanzeiger,2
+3,1938,Tagesanzeiger,2021,2
+225,1939,NDR,NDR,2
+11,1939,NDR,2020,2
+35,1940,Corona Transition,Corona Transition,2
+3,1940,Corona Transition,2021,2
+8,1941,RT DE,RT DE,2
+3,1941,RT DE,2021,2
+67,1942,Die Welt,Die Welt,2
+3,1942,Die Welt,2021,2
+37,1943,multipolar,multipolar,2
+3,1943,multipolar,2021,2
+6,1944,tp - Science & Technology,tp - Science & Technology,2
+3,1944,tp - Science & Technology,2021,2
+8,1945,RT DE,RT DE,2
+3,1945,RT DE,2021,2
+462,1946,ntv,ntv,2
+3,1946,ntv,2021,2
+1948,1947,Deutsche Gesellschaft für Pädiatrische Infektiologie,Deutsche Gesellschaft für Pädiatrische Infektiologie,2
+3,1947,Deutsche Gesellschaft für Pädiatrische Infektiologie,2021,2
+87,1949,substack.com,substack.com,2
+3,1949,substack.com,2021,2
+25,1950,Die Ostschweiz,Die Ostschweiz,2
+3,1950,Die Ostschweiz,2021,2
+6,1951,tp - Science & Technology,tp - Science & Technology,2
+3,1951,tp - Science & Technology,2021,2
+41,1952,medinside.ch,medinside.ch,2
+3,1952,medinside.ch,2021,2
+2,1953,ScienceFiles,ScienceFiles,2
+3,1953,ScienceFiles,2021,2
+25,1954,Die Ostschweiz,Die Ostschweiz,2
+11,1954,Die Ostschweiz,2020,2
+8,1955,RT DE,RT DE,2
+11,1955,RT DE,2020,2
+10,1956,Wochenblick,Wochenblick,2
+3,1956,Wochenblick,2021,2
+77,1957,2020 News,2020 News,2
+3,1957,2020 News,2021,2
+77,1958,2020 News,2020 News,2
+3,1958,2020 News,2021,2
+243,1959,Swiss Policy Research,Swiss Policy Research,2
+11,1959,Swiss Policy Research,2020,2
+18,1960,Achgut.com,Achgut.com,2
+11,1960,Achgut.com,2020,2
+67,1961,Die Welt,Die Welt,2
+3,1961,Die Welt,2021,2
+16,1962,Epoch Times,Epoch Times,2
+3,1962,Epoch Times,2021,2
+454,1963,infekt.ch,infekt.ch,2
+11,1963,infekt.ch,2020,2
+6,1964,tp - Science & Technology,tp - Science & Technology,2
+3,1964,tp - Science & Technology,2021,2
+2,1965,ScienceFiles,ScienceFiles,2
+3,1965,ScienceFiles,2021,2
+77,1966,2020 News,2020 News,2
+3,1966,2020 News,2021,2
+420,1967,Nau,Nau,2
+3,1967,Nau,2021,2
+16,1968,Epoch Times,Epoch Times,2
+3,1968,Epoch Times,2021,2
+2,1969,ScienceFiles,ScienceFiles,2
+3,1969,ScienceFiles,2021,2
+2,1970,ScienceFiles,ScienceFiles,2
+11,1970,ScienceFiles,2020,2
+87,1971,substack.com,substack.com,2
+3,1971,substack.com,2021,2
+10,1972,Wochenblick,Wochenblick,2
+3,1972,Wochenblick,2021,2
+8,1973,RT DE,RT DE,2
+3,1973,RT DE,2021,2
+25,1974,Die Ostschweiz,Die Ostschweiz,2
+3,1974,Die Ostschweiz,2021,2
+44,1975,NZZ,NZZ,2
+3,1975,NZZ,2021,2
+1667,1976,Event,Event,2
+11,1976,Event,2020,2
+47,1977,reitschuster,reitschuster,2
+11,1977,reitschuster,2020,2
+884,1978,DerStandard,DerStandard,2
+3,1978,DerStandard,2021,2
+236,1979,Uncut-News,Uncut-News,2
+3,1979,Uncut-News,2021,2
+10,1980,Wochenblick,Wochenblick,2
+3,1980,Wochenblick,2021,2
+10,1981,Wochenblick,Wochenblick,2
+3,1981,Wochenblick,2021,2
+39,1982,Report24,Report24,2
+3,1982,Report24,2021,2
+25,1983,Die Ostschweiz,Die Ostschweiz,2
+3,1983,Die Ostschweiz,2021,2
+67,1984,Die Welt,Die Welt,2
+11,1984,Die Welt,2020,2
+444,1985,WHO,WHO,2
+3,1985,WHO,2021,2
+21,1986,Tagesanzeiger,Tagesanzeiger,2
+3,1986,Tagesanzeiger,2021,2
+168,1987,corona-blog.net,corona-blog.net,2
+3,1987,corona-blog.net,2021,2
+8,1988,RT DE,RT DE,2
+3,1988,RT DE,2021,2
+47,1989,reitschuster,reitschuster,2
+11,1989,reitschuster,2020,2
+95,1990,Youtube,Youtube,2
+11,1990,Youtube,2020,2
+6,1991,tp - Science & Technology,tp - Science & Technology,2
+3,1991,tp - Science & Technology,2021,2
+41,1992,medinside.ch,medinside.ch,2
+11,1992,medinside.ch,2020,2
+10,1993,Wochenblick,Wochenblick,2
+3,1993,Wochenblick,2021,2
+645,1994,bitchute,bitchute,2
+11,1994,bitchute,2020,2
+283,1995,tagblatt.ch,tagblatt.ch,2
+3,1995,tagblatt.ch,2021,2
+87,1996,substack.com,substack.com,2
+3,1996,substack.com,2021,2
+25,1997,Die Ostschweiz,Die Ostschweiz,2
+3,1997,Die Ostschweiz,2021,2
+14,1998,Rubikon,Rubikon,2
+3,1998,Rubikon,2021,2
+14,1999,Rubikon,Rubikon,2
+3,1999,Rubikon,2021,2
+8,2000,RT DE,RT DE,2
+3,2000,RT DE,2021,2
+239,2001,SRF,SRF,2
+3,2001,SRF,2021,2
+77,2002,2020 News,2020 News,2
+3,2002,2020 News,2021,2
+131,2003,Nordkurier,Nordkurier,2
+11,2003,Nordkurier,2020,2
+47,2004,reitschuster,reitschuster,2
+3,2004,reitschuster,2021,2
+47,2005,reitschuster,reitschuster,2
+11,2005,reitschuster,2020,2
+21,2006,Tagesanzeiger,Tagesanzeiger,2
+11,2006,Tagesanzeiger,2020,2
+420,2007,Nau,Nau,2
+3,2007,Nau,2021,2
+71,2008,Ktipp,Ktipp,2
+3,2008,Ktipp,2021,2
+25,2009,Die Ostschweiz,Die Ostschweiz,2
+3,2009,Die Ostschweiz,2021,2
+77,2010,2020 News,2020 News,2
+11,2010,2020 News,2020,2
+16,2011,Epoch Times,Epoch Times,2
+3,2011,Epoch Times,2021,2
+85,2012,Focus Online,Focus Online,2
+3,2012,Focus Online,2021,2
+454,2013,infekt.ch,infekt.ch,2
+11,2013,infekt.ch,2020,2
+365,2014,RND,RND,2
+3,2014,RND,2021,2
+25,2015,Die Ostschweiz,Die Ostschweiz,2
+3,2015,Die Ostschweiz,2021,2
+52,2016,Tichys Einblick,Tichys Einblick,2
+3,2016,Tichys Einblick,2021,2
+10,2017,Wochenblick,Wochenblick,2
+3,2017,Wochenblick,2021,2
+10,2018,Wochenblick,Wochenblick,2
+3,2018,Wochenblick,2021,2
+10,2019,Wochenblick,Wochenblick,2
+3,2019,Wochenblick,2021,2
+2,2020,ScienceFiles,ScienceFiles,2
+3,2020,ScienceFiles,2021,2
+256,2021,Swissmedic,Swissmedic,2
+11,2021,Swissmedic,2020,2
+67,2022,Die Welt,Die Welt,2
+3,2022,Die Welt,2021,2
+10,2023,Wochenblick,Wochenblick,2
+3,2023,Wochenblick,2021,2
+73,2024,INFOsperber,INFOsperber,2
+11,2024,INFOsperber,2020,2
+1455,2025,aargau-zuerich.ch,aargau-zuerich.ch,2
+3,2025,aargau-zuerich.ch,2021,2
+10,2026,Wochenblick,Wochenblick,2
+3,2026,Wochenblick,2021,2
+2,2027,ScienceFiles,ScienceFiles,2
+3,2027,ScienceFiles,2021,2
+8,2028,RT DE,RT DE,2
+3,2028,RT DE,2021,2
+18,2029,Achgut.com,Achgut.com,2
+3,2029,Achgut.com,2021,2
+770,2030,SNA,SNA,2
+3,2030,SNA,2021,2
+18,2031,Achgut.com,Achgut.com,2
+3,2031,Achgut.com,2021,2
+16,2032,Epoch Times,Epoch Times,2
+3,2032,Epoch Times,2021,2
+10,2033,Wochenblick,Wochenblick,2
+3,2033,Wochenblick,2021,2
+77,2034,2020 News,2020 News,2
+3,2034,2020 News,2021,2
+10,2035,Wochenblick,Wochenblick,2
+3,2035,Wochenblick,2021,2
+131,2036,Nordkurier,Nordkurier,2
+3,2036,Nordkurier,2021,2
+16,2037,Epoch Times,Epoch Times,2
+11,2037,Epoch Times,2020,2
+2039,2038,telegra.ph,telegra.ph,2
+11,2038,telegra.ph,2020,2
+120,2040,linth24,linth24,2
+11,2040,linth24,2020,2
+2042,2041,Pontifical Academy for Life,Pontifical Academy for Life,2
+11,2041,Pontifical Academy for Life,2020,2
+99,2043,Berliner Zeitung,Berliner Zeitung,2
+11,2043,Berliner Zeitung,2020,2
+18,2044,Achgut.com,Achgut.com,2
+3,2044,Achgut.com,2021,2
+75,2045,In$ide Paradeplatz,In$ide Paradeplatz,2
+3,2045,In$ide Paradeplatz,2021,2
+16,2046,Epoch Times,Epoch Times,2
+11,2046,Epoch Times,2020,2
+10,2047,Wochenblick,Wochenblick,2
+3,2047,Wochenblick,2021,2
+47,2048,reitschuster,reitschuster,2
+3,2048,reitschuster,2021,2
+689,2049,Global Research,Global Research,2
+3,2049,Global Research,2021,2
+450,2050,World Health Organization,World Health Organization,2
+11,2050,World Health Organization,2020,2
+28,2051,NachDenkSeiten,NachDenkSeiten,2
+11,2051,NachDenkSeiten,2020,2
+365,2052,RND,RND,2
+3,2052,RND,2021,2
+10,2053,Wochenblick,Wochenblick,2
+3,2053,Wochenblick,2021,2
+1731,2054,Peds Ansichten,Peds Ansichten,2
+3,2054,Peds Ansichten,2021,2
+201,2055,ZE!TPUNKT,ZE!TPUNKT,2
+11,2055,ZE!TPUNKT,2020,2
+314,2056,kenFM,kenFM,2
+3,2056,kenFM,2021,2
+47,2057,reitschuster,reitschuster,2
+3,2057,reitschuster,2021,2
+239,2058,SRF,SRF,2
+3,2058,SRF,2021,2
+47,2059,reitschuster,reitschuster,2
+3,2059,reitschuster,2021,2
+85,2060,Focus Online,Focus Online,2
+11,2060,Focus Online,2020,2
+8,2061,RT DE,RT DE,2
+3,2061,RT DE,2021,2
+6,2062,tp - Science & Technology,tp - Science & Technology,2
+3,2062,tp - Science & Technology,2021,2
+10,2063,Wochenblick,Wochenblick,2
+3,2063,Wochenblick,2021,2
+18,2064,Achgut.com,Achgut.com,2
+3,2064,Achgut.com,2021,2
+10,2065,Wochenblick,Wochenblick,2
+3,2065,Wochenblick,2021,2
+8,2066,RT DE,RT DE,2
+3,2066,RT DE,2021,2
+365,2067,RND,RND,2
+11,2067,RND,2020,2
+47,2068,reitschuster,reitschuster,2
+3,2068,reitschuster,2021,2
+743,2069,BAG,BAG,2
+3,2069,BAG,2021,2
+10,2070,Wochenblick,Wochenblick,2
+3,2070,Wochenblick,2021,2
+35,2071,Corona Transition,Corona Transition,2
+3,2071,Corona Transition,2021,2
+16,2072,Epoch Times,Epoch Times,2
+3,2072,Epoch Times,2021,2
+18,2073,Achgut.com,Achgut.com,2
+3,2073,Achgut.com,2021,2
+322,2074,Jouwatch,Jouwatch,2
+3,2074,Jouwatch,2021,2
+16,2075,Epoch Times,Epoch Times,2
+3,2075,Epoch Times,2021,2
+2,2076,ScienceFiles,ScienceFiles,2
+3,2076,ScienceFiles,2021,2
+85,2077,Focus Online,Focus Online,2
+3,2077,Focus Online,2021,2
+8,2078,RT DE,RT DE,2
+11,2078,RT DE,2020,2
+47,2079,reitschuster,reitschuster,2
+3,2079,reitschuster,2021,2
+47,2080,reitschuster,reitschuster,2
+3,2080,reitschuster,2021,2
+18,2081,Achgut.com,Achgut.com,2
+3,2081,Achgut.com,2021,2
+6,2082,tp - Science & Technology,tp - Science & Technology,2
+3,2082,tp - Science & Technology,2021,2
+21,2083,Tagesanzeiger,Tagesanzeiger,2
+3,2083,Tagesanzeiger,2021,2
+382,2084,ZDF,ZDF,2
+11,2084,ZDF,2020,2
+16,2085,Epoch Times,Epoch Times,2
+3,2085,Epoch Times,2021,2
+67,2086,Die Welt,Die Welt,2
+3,2086,Die Welt,2021,2
+39,2087,Report24,Report24,2
+3,2087,Report24,2021,2
+47,2088,reitschuster,reitschuster,2
+3,2088,reitschuster,2021,2
+168,2089,corona-blog.net,corona-blog.net,2
+3,2089,corona-blog.net,2021,2
+16,2090,Epoch Times,Epoch Times,2
+3,2090,Epoch Times,2021,2
+6,2091,tp - Science & Technology,tp - Science & Technology,2
+3,2091,tp - Science & Technology,2021,2
+10,2092,Wochenblick,Wochenblick,2
+3,2092,Wochenblick,2021,2
+10,2093,Wochenblick,Wochenblick,2
+3,2093,Wochenblick,2021,2
+6,2094,tp - Science & Technology,tp - Science & Technology,2
+3,2094,tp - Science & Technology,2021,2
+1766,2095,Nature Medicine,Nature Medicine,2
+3,2095,Nature Medicine,2021,2
+6,2096,tp - Science & Technology,tp - Science & Technology,2
+3,2096,tp - Science & Technology,2021,2
+1334,2097,arte,arte,2
+11,2097,arte,2020,2
+462,2098,ntv,ntv,2
+3,2098,ntv,2021,2
+16,2099,Epoch Times,Epoch Times,2
+3,2099,Epoch Times,2021,2
+16,2100,Epoch Times,Epoch Times,2
+3,2100,Epoch Times,2021,2
+6,2101,tp - Science & Technology,tp - Science & Technology,2
+3,2101,tp - Science & Technology,2021,2
+16,2102,Epoch Times,Epoch Times,2
+11,2102,Epoch Times,2020,2
+16,2103,Epoch Times,Epoch Times,2
+3,2103,Epoch Times,2021,2
+360,2104,Weltwoche,Weltwoche,2
+11,2104,Weltwoche,2020,2
+322,2105,Jouwatch,Jouwatch,2
+3,2105,Jouwatch,2021,2
+462,2106,ntv,ntv,2
+3,2106,ntv,2021,2
+39,2107,Report24,Report24,2
+3,2107,Report24,2021,2
+8,2108,RT DE,RT DE,2
+3,2108,RT DE,2021,2
+6,2109,tp - Science & Technology,tp - Science & Technology,2
+3,2109,tp - Science & Technology,2021,2
+44,2110,NZZ,NZZ,2
+11,2110,NZZ,2020,2
+256,2111,Swissmedic,Swissmedic,2
+3,2111,Swissmedic,2021,2
+28,2112,NachDenkSeiten,NachDenkSeiten,2
+11,2112,NachDenkSeiten,2020,2
+25,2113,Die Ostschweiz,Die Ostschweiz,2
+3,2113,Die Ostschweiz,2021,2
+92,2114,Telepolis,Telepolis,2
+3,2114,Telepolis,2021,2
+14,2115,Rubikon,Rubikon,2
+3,2115,Rubikon,2021,2
+10,2116,Wochenblick,Wochenblick,2
+3,2116,Wochenblick,2021,2
+770,2117,SNA,SNA,2
+11,2117,SNA,2020,2
+10,2118,Wochenblick,Wochenblick,2
+3,2118,Wochenblick,2021,2
+168,2119,corona-blog.net,corona-blog.net,2
+3,2119,corona-blog.net,2021,2
+16,2120,Epoch Times,Epoch Times,2
+3,2120,Epoch Times,2021,2
+16,2121,Epoch Times,Epoch Times,2
+3,2121,Epoch Times,2021,2
+16,2122,Epoch Times,Epoch Times,2
+3,2122,Epoch Times,2021,2
+67,2123,Die Welt,Die Welt,2
+3,2123,Die Welt,2021,2
+10,2124,Wochenblick,Wochenblick,2
+3,2124,Wochenblick,2021,2
+8,2125,RT DE,RT DE,2
+3,2125,RT DE,2021,2
+10,2126,Wochenblick,Wochenblick,2
+11,2126,Wochenblick,2020,2
+47,2127,reitschuster,reitschuster,2
+3,2127,reitschuster,2021,2
+73,2128,INFOsperber,INFOsperber,2
+3,2128,INFOsperber,2021,2
+73,2129,INFOsperber,INFOsperber,2
+11,2129,INFOsperber,2020,2
+501,2130,World Freedom Alliance,World Freedom Alliance,2
+11,2130,World Freedom Alliance,2020,2
+67,2131,Die Welt,Die Welt,2
+3,2131,Die Welt,2021,2
+10,2132,Wochenblick,Wochenblick,2
+11,2132,Wochenblick,2020,2
+73,2133,INFOsperber,INFOsperber,2
+3,2133,INFOsperber,2021,2
+743,2134,BAG,BAG,2
+11,2134,BAG,2020,2
+8,2135,RT DE,RT DE,2
+3,2135,RT DE,2021,2
+44,2136,NZZ,NZZ,2
+3,2136,NZZ,2021,2
+47,2137,reitschuster,reitschuster,2
+3,2137,reitschuster,2021,2
+25,2138,Die Ostschweiz,Die Ostschweiz,2
+3,2138,Die Ostschweiz,2021,2
+16,2139,Epoch Times,Epoch Times,2
+3,2139,Epoch Times,2021,2
+35,2140,Corona Transition,Corona Transition,2
+3,2140,Corona Transition,2021,2
+52,2141,Tichys Einblick,Tichys Einblick,2
+3,2141,Tichys Einblick,2021,2
+580,2142,Das Schweizer Parlament,Das Schweizer Parlament,2
+3,2142,Das Schweizer Parlament,2021,2
+14,2143,Rubikon,Rubikon,2
+3,2143,Rubikon,2021,2
+2145,2144,BR24,BR24,2
+11,2144,BR24,2020,2
+8,2146,RT DE,RT DE,2
+3,2146,RT DE,2021,2
+39,2147,Report24,Report24,2
+3,2147,Report24,2021,2
+8,2148,RT DE,RT DE,2
+11,2148,RT DE,2020,2
+110,2149,Unser Mitteleuropa,Unser Mitteleuropa,2
+3,2149,Unser Mitteleuropa,2021,2
+2151,2150,Servus TV,Servus TV,2
+3,2150,Servus TV,2021,2
+2,2152,ScienceFiles,ScienceFiles,2
+3,2152,ScienceFiles,2021,2
+85,2153,Focus Online,Focus Online,2
+3,2153,Focus Online,2021,2
+99,2154,Berliner Zeitung,Berliner Zeitung,2
+3,2154,Berliner Zeitung,2021,2
+41,2155,medinside.ch,medinside.ch,2
+3,2155,medinside.ch,2021,2
+67,2156,Die Welt,Die Welt,2
+3,2156,Die Welt,2021,2
+28,2157,NachDenkSeiten,NachDenkSeiten,2
+3,2157,NachDenkSeiten,2021,2
+2159,2158,Universität Witten Herdecke,Universität Witten Herdecke,2
+3,2158,Universität Witten Herdecke,2021,2
+239,2160,SRF,SRF,2
+11,2160,SRF,2020,2
+8,2161,RT DE,RT DE,2
+11,2161,RT DE,2020,2
+8,2162,RT DE,RT DE,2
+3,2162,RT DE,2021,2
+14,2163,Rubikon,Rubikon,2
+11,2163,Rubikon,2020,2
+85,2164,Focus Online,Focus Online,2
+3,2164,Focus Online,2021,2
+39,2165,Report24,Report24,2
+3,2165,Report24,2021,2
+14,2166,Rubikon,Rubikon,2
+11,2166,Rubikon,2020,2
+8,2167,RT DE,RT DE,2
+3,2167,RT DE,2021,2
+92,2168,Telepolis,Telepolis,2
+11,2168,Telepolis,2020,2
+762,2169,The New York Times,The New York Times,2
+11,2169,The New York Times,2020,2
+276,2170,The Pirbright Institute,The Pirbright Institute,2
+11,2170,The Pirbright Institute,2020,2
+25,2171,Die Ostschweiz,Die Ostschweiz,2
+11,2171,Die Ostschweiz,2020,2
+75,2172,In$ide Paradeplatz,In$ide Paradeplatz,2
+277,2172,In$ide Paradeplatz,2019,2
+16,2173,Epoch Times,Epoch Times,2
+3,2173,Epoch Times,2021,2
+99,2174,Berliner Zeitung,Berliner Zeitung,2
+3,2174,Berliner Zeitung,2021,2
+44,2175,NZZ,NZZ,2
+11,2175,NZZ,2020,2
+25,2176,Die Ostschweiz,Die Ostschweiz,2
+3,2176,Die Ostschweiz,2021,2
+77,2177,2020 News,2020 News,2
+3,2177,2020 News,2021,2
+1766,2178,Nature Medicine,Nature Medicine,2
+11,2178,Nature Medicine,2020,2
+6,2179,tp - Science & Technology,tp - Science & Technology,2
+3,2179,tp - Science & Technology,2021,2
+14,2180,Rubikon,Rubikon,2
+3,2180,Rubikon,2021,2
+67,2181,Die Welt,Die Welt,2
+3,2181,Die Welt,2021,2
+131,2182,Nordkurier,Nordkurier,2
+3,2182,Nordkurier,2021,2
+8,2183,RT DE,RT DE,2
+3,2183,RT DE,2021,2
+47,2184,reitschuster,reitschuster,2
+3,2184,reitschuster,2021,2
+87,2185,substack.com,substack.com,2
+3,2185,substack.com,2021,2
+35,2186,Corona Transition,Corona Transition,2
+3,2186,Corona Transition,2021,2
+6,2187,tp - Science & Technology,tp - Science & Technology,2
+3,2187,tp - Science & Technology,2021,2
+365,2188,RND,RND,2
+3,2188,RND,2021,2
+2,2189,ScienceFiles,ScienceFiles,2
+3,2189,ScienceFiles,2021,2
+120,2190,linth24,linth24,2
+3,2190,linth24,2021,2
+73,2191,INFOsperber,INFOsperber,2
+3,2191,INFOsperber,2021,2
+18,2192,Achgut.com,Achgut.com,2
+3,2192,Achgut.com,2021,2
+110,2193,Unser Mitteleuropa,Unser Mitteleuropa,2
+3,2193,Unser Mitteleuropa,2021,2
+37,2194,multipolar,multipolar,2
+11,2194,multipolar,2020,2
+264,2195,mdr,mdr,2
+3,2195,mdr,2021,2
+8,2196,RT DE,RT DE,2
+11,2196,RT DE,2020,2
+14,2197,Rubikon,Rubikon,2
+11,2197,Rubikon,2020,2
+10,2198,Wochenblick,Wochenblick,2
+3,2198,Wochenblick,2021,2
+16,2199,Epoch Times,Epoch Times,2
+3,2199,Epoch Times,2021,2
+10,2200,Wochenblick,Wochenblick,2
+3,2200,Wochenblick,2021,2
+10,2201,Wochenblick,Wochenblick,2
+3,2201,Wochenblick,2021,2
+28,2202,NachDenkSeiten,NachDenkSeiten,2
+3,2202,NachDenkSeiten,2021,2
+2204,2203,Brighteon,Brighteon,2
+11,2203,Brighteon,2020,2
+16,2205,Epoch Times,Epoch Times,2
+3,2205,Epoch Times,2021,2
+10,2206,Wochenblick,Wochenblick,2
+3,2206,Wochenblick,2021,2
+39,2207,Report24,Report24,2
+3,2207,Report24,2021,2
+47,2208,reitschuster,reitschuster,2
+3,2208,reitschuster,2021,2
+16,2209,Epoch Times,Epoch Times,2
+3,2209,Epoch Times,2021,2
+77,2210,2020 News,2020 News,2
+3,2210,2020 News,2021,2
+6,2211,tp - Science & Technology,tp - Science & Technology,2
+3,2211,tp - Science & Technology,2021,2
+2,2212,ScienceFiles,ScienceFiles,2
+3,2212,ScienceFiles,2021,2
+462,2213,ntv,ntv,2
+3,2213,ntv,2021,2
+73,2214,INFOsperber,INFOsperber,2
+3,2214,INFOsperber,2021,2
+10,2215,Wochenblick,Wochenblick,2
+11,2215,Wochenblick,2020,2
+41,2216,medinside.ch,medinside.ch,2
+3,2216,medinside.ch,2021,2
+2218,2217,Global Preparedness Monitoring Board,Global Preparedness Monitoring Board,2
+277,2217,Global Preparedness Monitoring Board,2019,2
+10,2219,Wochenblick,Wochenblick,2
+11,2219,Wochenblick,2020,2
+6,2220,tp - Science & Technology,tp - Science & Technology,2
+3,2220,tp - Science & Technology,2021,2
+8,2221,RT DE,RT DE,2
+3,2221,RT DE,2021,2
+25,2222,Die Ostschweiz,Die Ostschweiz,2
+3,2222,Die Ostschweiz,2021,2
+35,2223,Corona Transition,Corona Transition,2
+3,2223,Corona Transition,2021,2
+1667,2224,Event,Event,2
+11,2224,Event,2020,2
+2,2225,ScienceFiles,ScienceFiles,2
+3,2225,ScienceFiles,2021,2
+73,2226,INFOsperber,INFOsperber,2
+3,2226,INFOsperber,2021,2
+2,2227,ScienceFiles,ScienceFiles,2
+3,2227,ScienceFiles,2021,2
+16,2228,Epoch Times,Epoch Times,2
+3,2228,Epoch Times,2021,2
+16,2229,Epoch Times,Epoch Times,2
+3,2229,Epoch Times,2021,2
+6,2230,tp - Science & Technology,tp - Science & Technology,2
+3,2230,tp - Science & Technology,2021,2
+10,2231,Wochenblick,Wochenblick,2
+3,2231,Wochenblick,2021,2
+47,2232,reitschuster,reitschuster,2
+3,2232,reitschuster,2021,2
+37,2233,multipolar,multipolar,2
+3,2233,multipolar,2021,2
+365,2234,RND,RND,2
+3,2234,RND,2021,2
+6,2235,tp - Science & Technology,tp - Science & Technology,2
+3,2235,tp - Science & Technology,2021,2
+47,2236,reitschuster,reitschuster,2
+3,2236,reitschuster,2021,2
+77,2237,2020 News,2020 News,2
+3,2237,2020 News,2021,2
+67,2238,Die Welt,Die Welt,2
+3,2238,Die Welt,2021,2
+6,2239,tp - Science & Technology,tp - Science & Technology,2
+3,2239,tp - Science & Technology,2021,2
+16,2240,Epoch Times,Epoch Times,2
+3,2240,Epoch Times,2021,2
+77,2241,2020 News,2020 News,2
+3,2241,2020 News,2021,2
+6,2242,tp - Science & Technology,tp - Science & Technology,2
+3,2242,tp - Science & Technology,2021,2
+1545,2243,Re-Check,Re-Check,2
+11,2243,Re-Check,2020,2
+8,2244,RT DE,RT DE,2
+3,2244,RT DE,2021,2
+14,2245,Rubikon,Rubikon,2
+3,2245,Rubikon,2021,2
+450,2246,World Health Organization,World Health Organization,2
+11,2246,World Health Organization,2020,2
+6,2247,tp - Science & Technology,tp - Science & Technology,2
+3,2247,tp - Science & Technology,2021,2
+77,2248,2020 News,2020 News,2
+11,2248,2020 News,2020,2
+6,2249,tp - Science & Technology,tp - Science & Technology,2
+3,2249,tp - Science & Technology,2021,2
+47,2250,reitschuster,reitschuster,2
+3,2250,reitschuster,2021,2
+92,2251,Telepolis,Telepolis,2
+11,2251,Telepolis,2020,2
+25,2252,Die Ostschweiz,Die Ostschweiz,2
+11,2252,Die Ostschweiz,2020,2
+120,2253,linth24,linth24,2
+11,2253,linth24,2020,2
+35,2254,Corona Transition,Corona Transition,2
+3,2254,Corona Transition,2021,2
+6,2255,tp - Science & Technology,tp - Science & Technology,2
+3,2255,tp - Science & Technology,2021,2
+44,2256,NZZ,NZZ,2
+3,2256,NZZ,2021,2
+85,2257,Focus Online,Focus Online,2
+3,2257,Focus Online,2021,2
+16,2258,Epoch Times,Epoch Times,2
+3,2258,Epoch Times,2021,2
+10,2259,Wochenblick,Wochenblick,2
+3,2259,Wochenblick,2021,2
+743,2260,BAG,BAG,2
+3,2260,BAG,2021,2
+10,2261,Wochenblick,Wochenblick,2
+11,2261,Wochenblick,2020,2
+122,2262,Deutsche Apotheker Zeitung,Deutsche Apotheker Zeitung,2
+11,2262,Deutsche Apotheker Zeitung,2020,2
+1436,2263,Johns Hopkins Center for Health Security,Johns Hopkins Center for Health Security,2
+11,2263,Johns Hopkins Center for Health Security,2020,2
+16,2264,Epoch Times,Epoch Times,2
+3,2264,Epoch Times,2021,2
+10,2265,Wochenblick,Wochenblick,2
+11,2265,Wochenblick,2020,2
+35,2266,Corona Transition,Corona Transition,2
+11,2266,Corona Transition,2020,2
+10,2267,Wochenblick,Wochenblick,2
+3,2267,Wochenblick,2021,2
+1792,2268,Eurosurveillance,Eurosurveillance,2
+11,2268,Eurosurveillance,2020,2
+145,2269,Weltwoche daily,Weltwoche daily,2
+3,2269,Weltwoche daily,2021,2
+145,2270,Weltwoche daily,Weltwoche daily,2
+3,2270,Weltwoche daily,2021,2
+47,2271,reitschuster,reitschuster,2
+3,2271,reitschuster,2021,2
+131,2272,Nordkurier,Nordkurier,2
+3,2272,Nordkurier,2021,2
+6,2273,tp - Science & Technology,tp - Science & Technology,2
+3,2273,tp - Science & Technology,2021,2
+2,2274,ScienceFiles,ScienceFiles,2
+11,2274,ScienceFiles,2020,2
+8,2275,RT DE,RT DE,2
+3,2275,RT DE,2021,2
+8,2276,RT DE,RT DE,2
+3,2276,RT DE,2021,2
+25,2277,Die Ostschweiz,Die Ostschweiz,2
+3,2277,Die Ostschweiz,2021,2
+47,2278,reitschuster,reitschuster,2
+3,2278,reitschuster,2021,2
+6,2279,tp - Science & Technology,tp - Science & Technology,2
+3,2279,tp - Science & Technology,2021,2
+67,2280,Die Welt,Die Welt,2
+11,2280,Die Welt,2020,2
+39,2281,Report24,Report24,2
+3,2281,Report24,2021,2
+35,2282,Corona Transition,Corona Transition,2
+3,2282,Corona Transition,2021,2
+10,2283,Wochenblick,Wochenblick,2
+11,2283,Wochenblick,2020,2
+75,2284,In$ide Paradeplatz,In$ide Paradeplatz,2
+3,2284,In$ide Paradeplatz,2021,2
+25,2285,Die Ostschweiz,Die Ostschweiz,2
+3,2285,Die Ostschweiz,2021,2
+120,2286,linth24,linth24,2
+11,2286,linth24,2020,2
+73,2287,INFOsperber,INFOsperber,2
+3,2287,INFOsperber,2021,2
+47,2288,reitschuster,reitschuster,2
+3,2288,reitschuster,2021,2
+10,2289,Wochenblick,Wochenblick,2
+3,2289,Wochenblick,2021,2
+21,2290,Tagesanzeiger,Tagesanzeiger,2
+11,2290,Tagesanzeiger,2020,2
+120,2291,linth24,linth24,2
+3,2291,linth24,2021,2
+110,2292,Unser Mitteleuropa,Unser Mitteleuropa,2
+3,2292,Unser Mitteleuropa,2021,2
+10,2293,Wochenblick,Wochenblick,2
+3,2293,Wochenblick,2021,2
+256,2294,Swissmedic,Swissmedic,2
+3,2294,Swissmedic,2021,2
+37,2295,multipolar,multipolar,2
+11,2295,multipolar,2020,2
+10,2296,Wochenblick,Wochenblick,2
+3,2296,Wochenblick,2021,2
+14,2297,Rubikon,Rubikon,2
+11,2297,Rubikon,2020,2
+67,2298,Die Welt,Die Welt,2
+11,2298,Die Welt,2020,2
+10,2299,Wochenblick,Wochenblick,2
+3,2299,Wochenblick,2021,2
+47,2300,reitschuster,reitschuster,2
+3,2300,reitschuster,2021,2
+16,2301,Epoch Times,Epoch Times,2
+3,2301,Epoch Times,2021,2
+85,2302,Focus Online,Focus Online,2
+3,2302,Focus Online,2021,2
+99,2303,Berliner Zeitung,Berliner Zeitung,2
+11,2303,Berliner Zeitung,2020,2
+8,2304,RT DE,RT DE,2
+3,2304,RT DE,2021,2
+39,2305,Report24,Report24,2
+3,2305,Report24,2021,2
+10,2306,Wochenblick,Wochenblick,2
+3,2306,Wochenblick,2021,2
+35,2307,Corona Transition,Corona Transition,2
+3,2307,Corona Transition,2021,2
+35,2308,Corona Transition,Corona Transition,2
+3,2308,Corona Transition,2021,2
+44,2309,NZZ,NZZ,2
+11,2309,NZZ,2020,2
+92,2310,Telepolis,Telepolis,2
+11,2310,Telepolis,2020,2
+2312,2311,FPÖ TV,FPÖ TV,2
+11,2311,FPÖ TV,2020,2
+10,2313,Wochenblick,Wochenblick,2
+3,2313,Wochenblick,2021,2
+35,2314,Corona Transition,Corona Transition,2
+3,2314,Corona Transition,2021,2
+16,2315,Epoch Times,Epoch Times,2
+3,2315,Epoch Times,2021,2
+67,2316,Die Welt,Die Welt,2
+3,2316,Die Welt,2021,2
+35,2317,Corona Transition,Corona Transition,2
+3,2317,Corona Transition,2021,2
+1033,2318,Ereignis,Ereignis,2
+277,2318,Ereignis,2019,2
+258,2319,Deutsches Ärzteblatt,Deutsches Ärzteblatt,2
+11,2319,Deutsches Ärzteblatt,2020,2
+99,2320,Berliner Zeitung,Berliner Zeitung,2
+3,2320,Berliner Zeitung,2021,2
+8,2321,RT DE,RT DE,2
+3,2321,RT DE,2021,2
+35,2322,Corona Transition,Corona Transition,2
+3,2322,Corona Transition,2021,2
+47,2323,reitschuster,reitschuster,2
+3,2323,reitschuster,2021,2
+44,2324,NZZ,NZZ,2
+3,2324,NZZ,2021,2
+39,2325,Report24,Report24,2
+3,2325,Report24,2021,2
+25,2326,Die Ostschweiz,Die Ostschweiz,2
+3,2326,Die Ostschweiz,2021,2
+92,2327,Telepolis,Telepolis,2
+3,2327,Telepolis,2021,2
+2,2328,ScienceFiles,ScienceFiles,2
+3,2328,ScienceFiles,2021,2
+10,2329,Wochenblick,Wochenblick,2
+3,2329,Wochenblick,2021,2
+6,2330,tp - Science & Technology,tp - Science & Technology,2
+3,2330,tp - Science & Technology,2021,2
+92,2331,Telepolis,Telepolis,2
+11,2331,Telepolis,2020,2
+10,2332,Wochenblick,Wochenblick,2
+3,2332,Wochenblick,2021,2
+25,2333,Die Ostschweiz,Die Ostschweiz,2
+3,2333,Die Ostschweiz,2021,2
+35,2334,Corona Transition,Corona Transition,2
+3,2334,Corona Transition,2021,2
+35,2335,Corona Transition,Corona Transition,2
+3,2335,Corona Transition,2021,2
+14,2336,Rubikon,Rubikon,2
+3,2336,Rubikon,2021,2
+67,2337,Die Welt,Die Welt,2
+3,2337,Die Welt,2021,2
+8,2338,RT DE,RT DE,2
+3,2338,RT DE,2021,2
+256,2339,Swissmedic,Swissmedic,2
+11,2339,Swissmedic,2020,2
+168,2340,corona-blog.net,corona-blog.net,2
+3,2340,corona-blog.net,2021,2
+8,2341,RT DE,RT DE,2
+3,2341,RT DE,2021,2
+120,2342,linth24,linth24,2
+3,2342,linth24,2021,2
+35,2343,Corona Transition,Corona Transition,2
+3,2343,Corona Transition,2021,2
+47,2344,reitschuster,reitschuster,2
+3,2344,reitschuster,2021,2
+37,2345,multipolar,multipolar,2
+3,2345,multipolar,2021,2
+25,2346,Die Ostschweiz,Die Ostschweiz,2
+3,2346,Die Ostschweiz,2021,2
+25,2347,Die Ostschweiz,Die Ostschweiz,2
+3,2347,Die Ostschweiz,2021,2
+258,2348,Deutsches Ärzteblatt,Deutsches Ärzteblatt,2
+3,2348,Deutsches Ärzteblatt,2021,2
+120,2349,linth24,linth24,2
+3,2349,linth24,2021,2
+99,2350,Berliner Zeitung,Berliner Zeitung,2
+11,2350,Berliner Zeitung,2020,2
+605,2351,Beobachter,Beobachter,2
+3,2351,Beobachter,2021,2
+73,2352,INFOsperber,INFOsperber,2
+11,2352,INFOsperber,2020,2
+8,2353,RT DE,RT DE,2
+3,2353,RT DE,2021,2
+8,2354,RT DE,RT DE,2
+3,2354,RT DE,2021,2
+8,2355,RT DE,RT DE,2
+3,2355,RT DE,2021,2
+25,2356,Die Ostschweiz,Die Ostschweiz,2
+11,2356,Die Ostschweiz,2020,2
+363,2357,World Economic Forum,World Economic Forum,2
+277,2357,World Economic Forum,2019,2
+120,2358,linth24,linth24,2
+3,2358,linth24,2021,2
+16,2359,Epoch Times,Epoch Times,2
+3,2359,Epoch Times,2021,2
+6,2360,tp - Science & Technology,tp - Science & Technology,2
+3,2360,tp - Science & Technology,2021,2
+25,2361,Die Ostschweiz,Die Ostschweiz,2
+3,2361,Die Ostschweiz,2021,2
+67,2362,Die Welt,Die Welt,2
+3,2362,Die Welt,2021,2
+10,2363,Wochenblick,Wochenblick,2
+3,2363,Wochenblick,2021,2
+314,2364,kenFM,kenFM,2
+3,2364,kenFM,2021,2
+462,2365,ntv,ntv,2
+3,2365,ntv,2021,2
+16,2366,Epoch Times,Epoch Times,2
+11,2366,Epoch Times,2020,2
+47,2367,reitschuster,reitschuster,2
+3,2367,reitschuster,2021,2
+16,2368,Epoch Times,Epoch Times,2
+11,2368,Epoch Times,2020,2
+10,2369,Wochenblick,Wochenblick,2
+3,2369,Wochenblick,2021,2
+10,2370,Wochenblick,Wochenblick,2
+3,2370,Wochenblick,2021,2
+8,2371,RT DE,RT DE,2
+3,2371,RT DE,2021,2
+6,2372,tp - Science & Technology,tp - Science & Technology,2
+3,2372,tp - Science & Technology,2021,2
+8,2373,RT DE,RT DE,2
+3,2373,RT DE,2021,2
+168,2374,corona-blog.net,corona-blog.net,2
+3,2374,corona-blog.net,2021,2
+8,2375,RT DE,RT DE,2
+3,2375,RT DE,2021,2
+21,2376,Tagesanzeiger,Tagesanzeiger,2
+11,2376,Tagesanzeiger,2020,2
+8,2377,RT DE,RT DE,2
+3,2377,RT DE,2021,2
+8,2378,RT DE,RT DE,2
+3,2378,RT DE,2021,2
+462,2379,ntv,ntv,2
+3,2379,ntv,2021,2
+67,2380,Die Welt,Die Welt,2
+11,2380,Die Welt,2020,2
+258,2381,Deutsches Ärzteblatt,Deutsches Ärzteblatt,2
+11,2381,Deutsches Ärzteblatt,2020,2
+47,2382,reitschuster,reitschuster,2
+3,2382,reitschuster,2021,2
+6,2383,tp - Science & Technology,tp - Science & Technology,2
+3,2383,tp - Science & Technology,2021,2
+1528,2384,New England Journal of Medicine,New England Journal of Medicine,2
+11,2384,New England Journal of Medicine,2020,2
+73,2385,INFOsperber,INFOsperber,2
+3,2385,INFOsperber,2021,2
+1193,2386,BioNTech,BioNTech,2
+277,2386,BioNTech,2019,2
+75,2387,In$ide Paradeplatz,In$ide Paradeplatz,2
+3,2387,In$ide Paradeplatz,2021,2
+110,2388,Unser Mitteleuropa,Unser Mitteleuropa,2
+3,2388,Unser Mitteleuropa,2021,2
+1298,2389,KenFM,KenFM,2
+11,2389,KenFM,2020,2
+743,2390,BAG,BAG,2
+11,2390,BAG,2020,2
+8,2391,RT DE,RT DE,2
+3,2391,RT DE,2021,2
+1116,2392,Bundesrat,Bundesrat,2
+11,2392,Bundesrat,2020,2
+168,2393,corona-blog.net,corona-blog.net,2
+3,2393,corona-blog.net,2021,2
+75,2394,In$ide Paradeplatz,In$ide Paradeplatz,2
+3,2394,In$ide Paradeplatz,2021,2
+16,2395,Epoch Times,Epoch Times,2
+3,2395,Epoch Times,2021,2
+39,2396,Report24,Report24,2
+3,2396,Report24,2021,2
+25,2397,Die Ostschweiz,Die Ostschweiz,2
+11,2397,Die Ostschweiz,2020,2
+16,2398,Epoch Times,Epoch Times,2
+11,2398,Epoch Times,2020,2
+10,2399,Wochenblick,Wochenblick,2
+3,2399,Wochenblick,2021,2
+6,2400,tp - Science & Technology,tp - Science & Technology,2
+3,2400,tp - Science & Technology,2021,2
+8,2401,RT DE,RT DE,2
+3,2401,RT DE,2021,2
+6,2402,tp - Science & Technology,tp - Science & Technology,2
+3,2402,tp - Science & Technology,2021,2
+382,2403,ZDF,ZDF,2
+3,2403,ZDF,2021,2
+25,2404,Die Ostschweiz,Die Ostschweiz,2
+3,2404,Die Ostschweiz,2021,2
+110,2405,Unser Mitteleuropa,Unser Mitteleuropa,2
+3,2405,Unser Mitteleuropa,2021,2
+2,2406,ScienceFiles,ScienceFiles,2
+3,2406,ScienceFiles,2021,2
+360,2407,Weltwoche,Weltwoche,2
+3,2407,Weltwoche,2021,2
+1116,2408,Bundesrat,Bundesrat,2
+3,2408,Bundesrat,2021,2
+92,2409,Telepolis,Telepolis,2
+11,2409,Telepolis,2020,2
+6,2410,tp - Science & Technology,tp - Science & Technology,2
+3,2410,tp - Science & Technology,2021,2
+770,2411,SNA,SNA,2
+3,2411,SNA,2021,2
+95,2412,Youtube,Youtube,2
+11,2412,Youtube,2020,2
+85,2413,Focus Online,Focus Online,2
+3,2413,Focus Online,2021,2
+28,2414,NachDenkSeiten,NachDenkSeiten,2
+3,2414,NachDenkSeiten,2021,2
+168,2415,corona-blog.net,corona-blog.net,2
+3,2415,corona-blog.net,2021,2
+536,2416,Unzensuriert,Unzensuriert,2
+11,2416,Unzensuriert,2020,2
+35,2417,Corona Transition,Corona Transition,2
+11,2417,Corona Transition,2020,2
+1003,2418,Frankfurter Rundschau,Frankfurter Rundschau,2
+3,2418,Frankfurter Rundschau,2021,2
+71,2419,Ktipp,Ktipp,2
+3,2419,Ktipp,2021,2
+962,2420,Prof. Harald Walach,Prof. Harald Walach,2
+3,2420,Prof. Harald Walach,2021,2
+35,2421,Corona Transition,Corona Transition,2
+11,2421,Corona Transition,2020,2
+120,2422,linth24,linth24,2
+3,2422,linth24,2021,2
+2424,2423,Schweizer Monat,Schweizer Monat,2
+11,2423,Schweizer Monat,2020,2
+6,2425,tp - Science & Technology,tp - Science & Technology,2
+11,2425,tp - Science & Technology,2020,2
+28,2426,NachDenkSeiten,NachDenkSeiten,2
+11,2426,NachDenkSeiten,2020,2
+8,2427,RT DE,RT DE,2
+11,2427,RT DE,2020,2
+99,2428,Berliner Zeitung,Berliner Zeitung,2
+3,2428,Berliner Zeitung,2021,2
+73,2429,INFOsperber,INFOsperber,2
+3,2429,INFOsperber,2021,2
+168,2430,corona-blog.net,corona-blog.net,2
+3,2430,corona-blog.net,2021,2
+85,2431,Focus Online,Focus Online,2
+11,2431,Focus Online,2020,2
+25,2432,Die Ostschweiz,Die Ostschweiz,2
+3,2432,Die Ostschweiz,2021,2
+382,2433,ZDF,ZDF,2
+11,2433,ZDF,2020,2
+95,2434,Youtube,Youtube,2
+11,2434,Youtube,2020,2
+47,2435,reitschuster,reitschuster,2
+3,2435,reitschuster,2021,2
+47,2436,reitschuster,reitschuster,2
+3,2436,reitschuster,2021,2
+276,2437,The Pirbright Institute,The Pirbright Institute,2
+277,2437,The Pirbright Institute,2019,2
+10,2438,Wochenblick,Wochenblick,2
+3,2438,Wochenblick,2021,2
+16,2439,Epoch Times,Epoch Times,2
+3,2439,Epoch Times,2021,2
+168,2440,corona-blog.net,corona-blog.net,2
+3,2440,corona-blog.net,2021,2
+243,2441,Swiss Policy Research,Swiss Policy Research,2
+3,2441,Swiss Policy Research,2021,2
+1455,2442,aargau-zuerich.ch,aargau-zuerich.ch,2
+3,2442,aargau-zuerich.ch,2021,2
+743,2443,BAG,BAG,2
+11,2443,BAG,2020,2
+10,2444,Wochenblick,Wochenblick,2
+3,2444,Wochenblick,2021,2
+47,2445,reitschuster,reitschuster,2
+3,2445,reitschuster,2021,2
+16,2446,Epoch Times,Epoch Times,2
+3,2446,Epoch Times,2021,2
+21,2447,Tagesanzeiger,Tagesanzeiger,2
+3,2447,Tagesanzeiger,2021,2
+1024,2448,comm4u,comm4u,2
+11,2448,comm4u,2020,2
+2,2449,ScienceFiles,ScienceFiles,2
+3,2449,ScienceFiles,2021,2
+47,2450,reitschuster,reitschuster,2
+3,2450,reitschuster,2021,2
+92,2451,Telepolis,Telepolis,2
+11,2451,Telepolis,2020,2
+8,2452,RT DE,RT DE,2
+3,2452,RT DE,2021,2
+1033,2453,Ereignis,Ereignis,2
+277,2453,Ereignis,2019,2
+44,2454,NZZ,NZZ,2
+3,2454,NZZ,2021,2
+75,2455,In$ide Paradeplatz,In$ide Paradeplatz,2
+11,2455,In$ide Paradeplatz,2020,2
+2457,2456,Aletheia,Aletheia,2
+3,2456,Aletheia,2021,2
+110,2458,Unser Mitteleuropa,Unser Mitteleuropa,2
+3,2458,Unser Mitteleuropa,2021,2
+236,2459,Uncut-News,Uncut-News,2
+3,2459,Uncut-News,2021,2
+35,2460,Corona Transition,Corona Transition,2
+3,2460,Corona Transition,2021,2
+39,2461,Report24,Report24,2
+3,2461,Report24,2021,2
+67,2462,Die Welt,Die Welt,2
+11,2462,Die Welt,2020,2
+145,2463,Weltwoche daily,Weltwoche daily,2
+3,2463,Weltwoche daily,2021,2
+47,2464,reitschuster,reitschuster,2
+3,2464,reitschuster,2021,2
+16,2465,Epoch Times,Epoch Times,2
+3,2465,Epoch Times,2021,2
+168,2466,corona-blog.net,corona-blog.net,2
+3,2466,corona-blog.net,2021,2
+41,2467,medinside.ch,medinside.ch,2
+3,2467,medinside.ch,2021,2
+25,2468,Die Ostschweiz,Die Ostschweiz,2
+3,2468,Die Ostschweiz,2021,2
+8,2469,RT DE,RT DE,2
+11,2469,RT DE,2020,2
+258,2470,Deutsches Ärzteblatt,Deutsches Ärzteblatt,2
+11,2470,Deutsches Ärzteblatt,2020,2
+35,2471,Corona Transition,Corona Transition,2
+3,2471,Corona Transition,2021,2
+16,2472,Epoch Times,Epoch Times,2
+3,2472,Epoch Times,2021,2
+35,2473,Corona Transition,Corona Transition,2
+3,2473,Corona Transition,2021,2
+6,2474,tp - Science & Technology,tp - Science & Technology,2
+3,2474,tp - Science & Technology,2021,2
+73,2475,INFOsperber,INFOsperber,2
+11,2475,INFOsperber,2020,2
+35,2476,Corona Transition,Corona Transition,2
+3,2476,Corona Transition,2021,2
+35,2477,Corona Transition,Corona Transition,2
+3,2477,Corona Transition,2021,2
+16,2478,Epoch Times,Epoch Times,2
+3,2478,Epoch Times,2021,2
+41,2479,medinside.ch,medinside.ch,2
+11,2479,medinside.ch,2020,2
+85,2480,Focus Online,Focus Online,2
+11,2480,Focus Online,2020,2
+47,2481,reitschuster,reitschuster,2
+3,2481,reitschuster,2021,2
+52,2482,Tichys Einblick,Tichys Einblick,2
+3,2482,Tichys Einblick,2021,2
+67,2483,Die Welt,Die Welt,2
+3,2483,Die Welt,2021,2
+16,2484,Epoch Times,Epoch Times,2
+3,2484,Epoch Times,2021,2
+6,2485,tp - Science & Technology,tp - Science & Technology,2
+3,2485,tp - Science & Technology,2021,2
+47,2486,reitschuster,reitschuster,2
+3,2486,reitschuster,2021,2
+47,2487,reitschuster,reitschuster,2
+3,2487,reitschuster,2021,2
+6,2488,tp - Science & Technology,tp - Science & Technology,2
+3,2488,tp - Science & Technology,2021,2
+314,2489,kenFM,kenFM,2
+3,2489,kenFM,2021,2
+2,2490,ScienceFiles,ScienceFiles,2
+3,2490,ScienceFiles,2021,2
+99,2491,Berliner Zeitung,Berliner Zeitung,2
+3,2491,Berliner Zeitung,2021,2
+10,2492,Wochenblick,Wochenblick,2
+3,2492,Wochenblick,2021,2
+14,2493,Rubikon,Rubikon,2
+3,2493,Rubikon,2021,2
+95,2494,Youtube,Youtube,2
+11,2494,Youtube,2020,2
+47,2495,reitschuster,reitschuster,2
+3,2495,reitschuster,2021,2
+134,2496,Schweizer Ärztezeitung,Schweizer Ärztezeitung,2
+11,2496,Schweizer Ärztezeitung,2020,2
+201,2497,ZE!TPUNKT,ZE!TPUNKT,2
+11,2497,ZE!TPUNKT,2020,2
+47,2498,reitschuster,reitschuster,2
+3,2498,reitschuster,2021,2
+18,2499,Achgut.com,Achgut.com,2
+3,2499,Achgut.com,2021,2
+450,2500,World Health Organization,World Health Organization,2
+11,2500,World Health Organization,2020,2
+92,2501,Telepolis,Telepolis,2
+11,2501,Telepolis,2020,2
+25,2502,Die Ostschweiz,Die Ostschweiz,2
+11,2502,Die Ostschweiz,2020,2
+39,2503,Report24,Report24,2
+3,2503,Report24,2021,2
+28,2504,NachDenkSeiten,NachDenkSeiten,2
+11,2504,NachDenkSeiten,2020,2
+743,2505,BAG,BAG,2
+11,2505,BAG,2020,2
+16,2506,Epoch Times,Epoch Times,2
+3,2506,Epoch Times,2021,2
+8,2507,RT DE,RT DE,2
+3,2507,RT DE,2021,2
+6,2508,tp - Science & Technology,tp - Science & Technology,2
+3,2508,tp - Science & Technology,2021,2
+47,2509,reitschuster,reitschuster,2
+3,2509,reitschuster,2021,2
+8,2510,RT DE,RT DE,2
+3,2510,RT DE,2021,2
+2512,2511,The Johns Hopkins Center for Health Security,The Johns Hopkins Center for Health Security,2
+277,2511,The Johns Hopkins Center for Health Security,2019,2
+2514,2513,The Australian,The Australian,2
+11,2513,The Australian,2020,2
+21,2515,Tagesanzeiger,Tagesanzeiger,2
+11,2515,Tagesanzeiger,2020,2
+1033,2516,Ereignis,Ereignis,2
+277,2516,Ereignis,2019,2
+47,2517,reitschuster,reitschuster,2
+3,2517,reitschuster,2021,2
+47,2518,reitschuster,reitschuster,2
+3,2518,reitschuster,2021,2
+6,2519,tp - Science & Technology,tp - Science & Technology,2
+3,2519,tp - Science & Technology,2021,2
+411,2520,tagesschau.de,tagesschau.de,2
+11,2520,tagesschau.de,2020,2
+1287,2521,Bill & Melinda Gates Foundation,Bill & Melinda Gates Foundation,2
+11,2521,Bill & Melinda Gates Foundation,2020,2
+25,2522,Die Ostschweiz,Die Ostschweiz,2
+3,2522,Die Ostschweiz,2021,2
+462,2523,ntv,ntv,2
+3,2523,ntv,2021,2
+10,2524,Wochenblick,Wochenblick,2
+3,2524,Wochenblick,2021,2
+10,2525,Wochenblick,Wochenblick,2
+3,2525,Wochenblick,2021,2
+168,2526,corona-blog.net,corona-blog.net,2
+3,2526,corona-blog.net,2021,2
+411,2527,tagesschau.de,tagesschau.de,2
+3,2527,tagesschau.de,2021,2
+168,2528,corona-blog.net,corona-blog.net,2
+3,2528,corona-blog.net,2021,2
+85,2529,Focus Online,Focus Online,2
+3,2529,Focus Online,2021,2
+6,2530,tp - Science & Technology,tp - Science & Technology,2
+3,2530,tp - Science & Technology,2021,2
+10,2531,Wochenblick,Wochenblick,2
+3,2531,Wochenblick,2021,2
+462,2532,ntv,ntv,2
+11,2532,ntv,2020,2
+16,2533,Epoch Times,Epoch Times,2
+11,2533,Epoch Times,2020,2
+35,2534,Corona Transition,Corona Transition,2
+3,2534,Corona Transition,2021,2
+225,2535,NDR,NDR,2
+3,2535,NDR,2021,2
+462,2536,ntv,ntv,2
+11,2536,ntv,2020,2
+6,2537,tp - Science & Technology,tp - Science & Technology,2
+3,2537,tp - Science & Technology,2021,2
+2,2538,ScienceFiles,ScienceFiles,2
+3,2538,ScienceFiles,2021,2
+35,2539,Corona Transition,Corona Transition,2
+3,2539,Corona Transition,2021,2
+6,2540,tp - Science & Technology,tp - Science & Technology,2
+3,2540,tp - Science & Technology,2021,2
+47,2541,reitschuster,reitschuster,2
+3,2541,reitschuster,2021,2
+8,2542,RT DE,RT DE,2
+3,2542,RT DE,2021,2
+47,2543,reitschuster,reitschuster,2
+3,2543,reitschuster,2021,2
+256,2544,Swissmedic,Swissmedic,2
+11,2544,Swissmedic,2020,2
+99,2545,Berliner Zeitung,Berliner Zeitung,2
+11,2545,Berliner Zeitung,2020,2
+1116,2546,Bundesrat,Bundesrat,2
+11,2546,Bundesrat,2020,2
+99,2547,Berliner Zeitung,Berliner Zeitung,2
+3,2547,Berliner Zeitung,2021,2
+145,2548,Weltwoche daily,Weltwoche daily,2
+3,2548,Weltwoche daily,2021,2
+450,2549,World Health Organization,World Health Organization,2
+11,2549,World Health Organization,2020,2
+18,2550,Achgut.com,Achgut.com,2
+3,2550,Achgut.com,2021,2
+52,2551,Tichys Einblick,Tichys Einblick,2
+3,2551,Tichys Einblick,2021,2
+8,2552,RT DE,RT DE,2
+3,2552,RT DE,2021,2
+99,2553,Berliner Zeitung,Berliner Zeitung,2
+3,2553,Berliner Zeitung,2021,2
+16,2554,Epoch Times,Epoch Times,2
+3,2554,Epoch Times,2021,2
+225,2555,NDR,NDR,2
+3,2555,NDR,2021,2
+420,2556,Nau,Nau,2
+3,2556,Nau,2021,2
+8,2557,RT DE,RT DE,2
+3,2557,RT DE,2021,2
+2,2558,ScienceFiles,ScienceFiles,2
+3,2558,ScienceFiles,2021,2
+134,2559,Schweizer Ärztezeitung,Schweizer Ärztezeitung,2
+11,2559,Schweizer Ärztezeitung,2020,2
+67,2560,Die Welt,Die Welt,2
+3,2560,Die Welt,2021,2
+145,2561,Weltwoche daily,Weltwoche daily,2
+3,2561,Weltwoche daily,2021,2
+2563,2562,südostschweiz,südostschweiz,2
+3,2562,südostschweiz,2021,2
+1116,2564,Bundesrat,Bundesrat,2
+3,2564,Bundesrat,2021,2
+95,2565,Youtube,Youtube,2
+11,2565,Youtube,2020,2
+77,2566,2020 News,2020 News,2
+3,2566,2020 News,2021,2
+10,2567,Wochenblick,Wochenblick,2
+3,2567,Wochenblick,2021,2
+16,2568,Epoch Times,Epoch Times,2
+3,2568,Epoch Times,2021,2
+6,2569,tp - Science & Technology,tp - Science & Technology,2
+3,2569,tp - Science & Technology,2021,2
+67,2570,Die Welt,Die Welt,2
+3,2570,Die Welt,2021,2
+2572,2571,Thieme,Thieme,2
+11,2571,Thieme,2020,2
+8,2573,RT DE,RT DE,2
+3,2573,RT DE,2021,2
+67,2574,Die Welt,Die Welt,2
+3,2574,Die Welt,2021,2
+2576,2575,Medizinische Universität Innsbruck,Medizinische Universität Innsbruck,2
+11,2575,Medizinische Universität Innsbruck,2020,2
+6,2577,tp - Science & Technology,tp - Science & Technology,2
+3,2577,tp - Science & Technology,2021,2
+16,2578,Epoch Times,Epoch Times,2
+3,2578,Epoch Times,2021,2
+8,2579,RT DE,RT DE,2
+3,2579,RT DE,2021,2
+75,2580,In$ide Paradeplatz,In$ide Paradeplatz,2
+3,2580,In$ide Paradeplatz,2021,2
+85,2581,Focus Online,Focus Online,2
+3,2581,Focus Online,2021,2
+16,2582,Epoch Times,Epoch Times,2
+3,2582,Epoch Times,2021,2
+67,2583,Die Welt,Die Welt,2
+3,2583,Die Welt,2021,2
+99,2584,Berliner Zeitung,Berliner Zeitung,2
+11,2584,Berliner Zeitung,2020,2
+47,2585,reitschuster,reitschuster,2
+3,2585,reitschuster,2021,2
+1828,2586,Handelsblatt,Handelsblatt,2
+11,2586,Handelsblatt,2020,2
+450,2587,World Health Organization,World Health Organization,2
+11,2587,World Health Organization,2020,2
+10,2588,Wochenblick,Wochenblick,2
+11,2588,Wochenblick,2020,2
+8,2589,RT DE,RT DE,2
+3,2589,RT DE,2021,2
+420,2590,Nau,Nau,2
+11,2590,Nau,2020,2
+256,2591,Swissmedic,Swissmedic,2
+3,2591,Swissmedic,2021,2
+99,2592,Berliner Zeitung,Berliner Zeitung,2
+11,2592,Berliner Zeitung,2020,2
+21,2593,Tagesanzeiger,Tagesanzeiger,2
+3,2593,Tagesanzeiger,2021,2
+2,2594,ScienceFiles,ScienceFiles,2
+3,2594,ScienceFiles,2021,2
+2596,2595,Corman-Drosten,Corman-Drosten,2
+11,2595,Corman-Drosten,2020,2
+25,2597,Die Ostschweiz,Die Ostschweiz,2
+3,2597,Die Ostschweiz,2021,2
+47,2598,reitschuster,reitschuster,2
+11,2598,reitschuster,2020,2
+67,2599,Die Welt,Die Welt,2
+3,2599,Die Welt,2021,2
+16,2600,Epoch Times,Epoch Times,2
+3,2600,Epoch Times,2021,2
+120,2601,linth24,linth24,2
+11,2601,linth24,2020,2
+44,2602,NZZ,NZZ,2
+3,2602,NZZ,2021,2
+6,2603,tp - Science & Technology,tp - Science & Technology,2
+3,2603,tp - Science & Technology,2021,2
+25,2604,Die Ostschweiz,Die Ostschweiz,2
+3,2604,Die Ostschweiz,2021,2
+1505,2605,LifeSiteNews,LifeSiteNews,2
+3,2605,LifeSiteNews,2021,2
+10,2606,Wochenblick,Wochenblick,2
+3,2606,Wochenblick,2021,2
+25,2607,Die Ostschweiz,Die Ostschweiz,2
+3,2607,Die Ostschweiz,2021,2
+25,2608,Die Ostschweiz,Die Ostschweiz,2
+3,2608,Die Ostschweiz,2021,2
+225,2609,NDR,NDR,2
+3,2609,NDR,2021,2
+35,2610,Corona Transition,Corona Transition,2
+3,2610,Corona Transition,2021,2
+16,2611,Epoch Times,Epoch Times,2
+3,2611,Epoch Times,2021,2
+35,2612,Corona Transition,Corona Transition,2
+3,2612,Corona Transition,2021,2
+10,2613,Wochenblick,Wochenblick,2
+3,2613,Wochenblick,2021,2
+41,2614,medinside.ch,medinside.ch,2
+11,2614,medinside.ch,2020,2
+6,2615,tp - Science & Technology,tp - Science & Technology,2
+3,2615,tp - Science & Technology,2021,2
+87,2616,substack.com,substack.com,2
+3,2616,substack.com,2021,2
+1116,2617,Bundesrat,Bundesrat,2
+11,2617,Bundesrat,2020,2
+168,2618,corona-blog.net,corona-blog.net,2
+3,2618,corona-blog.net,2021,2
+25,2619,Die Ostschweiz,Die Ostschweiz,2
+3,2619,Die Ostschweiz,2021,2
+73,2620,INFOsperber,INFOsperber,2
+11,2620,INFOsperber,2020,2
+6,2621,tp - Science & Technology,tp - Science & Technology,2
+3,2621,tp - Science & Technology,2021,2
+16,2622,Epoch Times,Epoch Times,2
+3,2622,Epoch Times,2021,2
+131,2623,Nordkurier,Nordkurier,2
+3,2623,Nordkurier,2021,2
+258,2624,Deutsches Ärzteblatt,Deutsches Ärzteblatt,2
+11,2624,Deutsches Ärzteblatt,2020,2
