@@ -4,6 +4,7 @@ redirect:      https://harald-walach.de/2021/04/06/corona-impfstoffe-kosten-und-
 title:         Prof. Harald Walach
 subtitle:      'Corona-Impfstoffe: Kosten und Nutzen – Nochmals nachdenken!'
 country:       DE
+people:        [Walach Harald]
 categories:    [Impfung, Zahlen]
 tags:          [impf-nebenwirkungen, ema]
 ---
