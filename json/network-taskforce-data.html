@@ -1,0 +1,39 @@
+---
+layout:
+title:
+permalink: /json/network-taskforce-data.json
+---
+
+{
+  "nodes": [
+    {% for node in site.data.network-taskforce-nodes %}
+    {
+      "id": "{{ node.id }}",
+      "title": "{{ node.title }}",
+      "image": "/assets/img/taskforce/{{ node.image }}",
+      "link":  "{{ node.link }}",
+      "group": "{{ node.group }}"
+    }
+    {%unless forloop.last %},{%endunless%}
+    {% endfor %}
+  ],
+  "links": [
+    {% for edge in site.data.network-taskforce-edges %}
+    {
+      "source": "{{ edge.source }}",
+      "target": "{{ edge.target }}",
+      "title": "{{ edge.group }}",
+      {%- if edge.current == "1" -%}
+      "opacity": 0.5,
+      "state": "current",
+      {%- else -%}
+      "opacity": 0.2,
+      "state": "passed",
+      {%- endif -%}
+      "link":  "{{ edge.link }}",
+      "group": "{{ edge.group }}"
+    }
+    {%unless forloop.last %},{%endunless%}
+    {% endfor %}
+  ]
+}
