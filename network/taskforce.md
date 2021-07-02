@@ -33,7 +33,7 @@ fetch('/json/network-taskforce-data.json').then(res => res.json()).then(gData =>
     (document.getElementById('graph'))
     .nodeThreeObject(node => {
       const imgTexture = new THREE.TextureLoader().load(`${node.image}`);
-      const material = new THREE.SpriteMaterial({ map: imgTexture });
+      const material = new THREE.SpriteMaterial({ map: imgTexture, opacity: node.opacity });
       const sprite = new THREE.Sprite(material);
       sprite.scale.set(12, 12);
       return sprite;

@@ -11,6 +11,11 @@ permalink: /json/network-taskforce-data.json
       "id": "{{ node.id }}",
       "title": "{{ node.title }}",
       "image": "/assets/img/taskforce/{{ node.image }}",
+      {%- if node.current == "1" -%}
+      "opacity": 1,
+      {%- else -%}
+      "opacity": 0.5,
+      {%- endif -%}
       "link":  "{{ node.link }}",
       "group": "{{ node.group }}"
     }
@@ -24,10 +29,8 @@ permalink: /json/network-taskforce-data.json
       "target": "{{ edge.target }}",
       "title": "{{ edge.group }}",
       {%- if edge.current == "1" -%}
-      "opacity": 0.5,
       "state": "current",
       {%- else -%}
-      "opacity": 0.2,
       "state": "passed",
       {%- endif -%}
       "link":  "{{ edge.link }}",
