@@ -4,16 +4,28 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3779,DE,2021-07-06,18:30:00,79117,Freiburg,Neues SC-Stadion / Flugplatz,Autokorso,,unbekannt,
 3760,DE,2021-07-07,16:00:00,70184,Stuttgart,Dobelstr. / Hohenheimer Str.,Schilderwald,,Privat,
 3759,DE,2021-07-07,17:30:00,32756,Detmold,Marktplatz,Meditation,,Lippe für Freiheit | Frieden und menschliches Miteinander,
+3775,DE,2021-07-07,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 3691,DE,2021-07-07,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
 3758,DE,2021-07-07,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander,
 3764,DE,2021-07-07,18:00:00,10115,Berlin,Bundeskanzleramt,Kundgebung,https://youtube.com/user/cheeta030,AfD Landesverband Brandenburg,https://www.facebook.com/MERKELMUSSWEGMITTWOCHAKTUELL/
-3698,DE,2021-07-08,18:30:00,63457,Großauheim,Main �Pilgerstr. / Leinpfad,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
+3698,DE,2021-07-08,18:30:00,63457,Großauheim,Main Pilgerstr. / Leinpfad,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
+3776,DE,2021-07-08,19:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 3762,DE,2021-07-09,17:00:00,70190,Stuttgart,Neckarstr. 230 / SWR Funkhaus,Kundgebung,https://www.facebook.com/michael.honda.16906,Demo gegen die GEZ,https://www.facebook.com/groups/DemoTermine/posts/1619275218282352
+3773,DE,2021-07-09,17:00:00,70190,Stuttgart,Neckarstr. 230 / SWR Funkhaus,Kundgebung,https://dlive.tv/MichaelHonda,Von Mensch zu Mensch,https://www.facebook.com/groups/DemoTermine/posts/1619275218282352
 3658,DE,2021-07-09,17:00:00,84066,Mallersdorf-Pfaffenberg,Haus der Generationen,Kundgebung,,#ichmachdanichtmit und Miteinander statt gegeneinander,
+3777,DE,2021-07-09,19:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 3745,DE,2021-07-10,14:00:00,12555,Berlin,Gehsener Str. 12,Kundgebung,,von Mensch zu Mensch Aktionen,http://von-mensch-zu-mensch-aktionen.de/
+3767,DE,2021-07-10,15:00:00,72764,Reutlingen,Tübinger Tor,Flashmob,,Flashmob Kaffeezeit,
+3770,DE,2021-07-10,15:30:00,21073,Hamburg-Harburg,Museumsplatz 1 / am Brunnen,Meditation,,unbekannt,
 3717,DE,2021-07-10,16:00:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,BI aufRECHT:FREIdenken,https://www.solidarnosch.de
 3655,DE,2021-07-10,17:00:00,80802,München,Münchner Freiheit,Kundgebung,,Freiheitsversammlung München,http://freiheitsversammlung-muenchen.de/
+3765,DE,2021-07-10,18:00:00,72764,Reutlingen,Marktplatz,Kundgebung,,Friedensboten Reutlingen,
+3778,DE,2021-07-10,18:00:00,90402,Nürnberg,Jakobsplatz,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
+3766,DE,2021-07-10,18:30:00,72764,Reutlingen,Marktplatz,Aufzug,,Friedensboten Reutlingen,
+3769,DE,2021-07-10,19:00:00,72764,Reutlingen,Vorplatz Stadthalle,Kundgebung,,unbekannt,
+3771,DE,2021-07-11,10:45:00,75015,Bretten,Stadtpark / Alter Friedhof,Meditation,,unbekannt,
 3761,DE,2021-07-11,14:00:00,69231,Rauenberg,Rathausplatz,Kundgebung,https://fb.me/e/1D8cI7FLB,Grundgesetz Guerilla,
+3772,DE,2021-07-11,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
 3420,DE,2021-07-12,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 3648,DE,2021-07-12,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Der Souverän,
 3699,DE,2021-07-15,18:30:00,63457,Großauheim,Main �Pilgerstr. / Leinpfad,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
@@ -31,6 +43,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3701,DE,2021-07-29,18:30:00,63457,Großauheim,Main �Pilgerstr. / Leinpfad,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
 3675,DE,2021-08-02,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 3676,DE,2021-08-09,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
+3780,DE,2021-08-14,15:00:00,39104,Magdeburg,Domplatz,Demonstration,,unbekannt,
 3677,DE,2021-08-16,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 3678,DE,2021-08-23,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 3679,DE,2021-08-30,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
