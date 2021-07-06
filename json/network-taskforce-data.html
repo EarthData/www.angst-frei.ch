@@ -11,16 +11,15 @@ permalink: /json/network-taskforce-data.json
       "id": "{{ node.id }}",
       "title": "{{ node.title }}",
       "image": "/assets/img/taskforce/{{ node.image }}",
-      {%- if node.current == "1" -%}
+      {% if node.current == "1" %}
       "opacity": 1,
-      {%- else -%}
+      {% else %}
       "opacity": 0.5,
-      {%- endif -%}
+      {% endif %}
       "link":  "{{ node.link }}",
       "group": "{{ node.group }}"
-    }
-    {%unless forloop.last %},{%endunless%}
-    {% endfor %}
+    }{%- unless forloop.last -%},{%- endunless -%}
+    {%- endfor -%}
   ],
   "links": [
     {% for edge in site.data.network-taskforce-edges %}
@@ -28,15 +27,15 @@ permalink: /json/network-taskforce-data.json
       "source": "{{ edge.source }}",
       "target": "{{ edge.target }}",
       "title": "{{ edge.group }}",
-      {%- if edge.current == "1" -%}
+      {% if edge.current == "1" %}
       "state": "current",
-      {%- else -%}
+      {% else %}
       "state": "passed",
-      {%- endif -%}
+      {% endif %}
       "link":  "{{ edge.link }}",
       "group": "{{ edge.group }}"
     }
     {%unless forloop.last %},{%endunless%}
-    {% endfor %}
+    {%- endfor -%}
   ]
 }
