@@ -6,6 +6,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3758,DE,2021-07-07,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander,
 3764,DE,2021-07-07,18:00:00,10115,Berlin,Bundeskanzleramt,Kundgebung,https://youtube.com/user/cheeta030,AfD Landesverband Brandenburg,https://www.facebook.com/MERKELMUSSWEGMITTWOCHAKTUELL/
 3784,DE,2021-07-07,18:00:00,10115,Berlin,Bundeskanzleramt,Kundgebung,https://www.twitch.tv/MariaGoetz,AfD - Landesverband Brandenburg,https://www.facebook.com/merkelmusswegmittwochmitfranzwiese/
+3791,DE,2021-07-08,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 3698,DE,2021-07-08,18:30:00,63457,Großauheim,Main Pilgerstr. / Leinpfad,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
 3776,DE,2021-07-08,19:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 3762,DE,2021-07-09,17:00:00,70190,Stuttgart,Neckarstr. 230 / SWR Funkhaus,Kundgebung,https://www.facebook.com/michael.honda.16906,Demo gegen die GEZ,https://www.facebook.com/groups/DemoTermine/posts/1619275218282352
@@ -15,6 +16,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3783,DE,2021-07-10,14:00:00,64385,Reichelsheim,B 38 Ortseingang Aldi,Zusammenkunft,,unbekannt,
 3745,DE,2021-07-10,14:00:00,12555,Berlin,Gehsener Str. 12,Kundgebung,,von Mensch zu Mensch Aktionen,http://von-mensch-zu-mensch-aktionen.de/
 3767,DE,2021-07-10,15:00:00,72764,Reutlingen,Tübinger Tor,Flashmob,,Flashmob Kaffeezeit,
+3789,DE,2021-07-10,15:30:00,87600,Kaufbeuren,Obstmarkt / Fußgängerzone,Meditation,,unbekannt,
 3770,DE,2021-07-10,15:30:00,21073,Hamburg-Harburg,Museumsplatz 1 / am Brunnen,Meditation,,unbekannt,
 3717,DE,2021-07-10,16:00:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,BI aufRECHT:FREIdenken,https://www.solidarnosch.de
 3655,DE,2021-07-10,17:00:00,80802,München,Münchner Freiheit,Kundgebung,,Freiheitsversammlung München,http://freiheitsversammlung-muenchen.de/
@@ -26,7 +28,12 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3761,DE,2021-07-11,14:00:00,69231,Rauenberg,Rathausplatz,Kundgebung,https://fb.me/e/1D8cI7FLB,Grundgesetz Guerilla,
 3772,DE,2021-07-11,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
 3420,DE,2021-07-12,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
+3785,DE,2021-07-12,18:30:00,29221,Celle,Stechbahn / Schloß,Spaziergang,,Das Volk geht spazieren für die Freiheit!,
+3787,DE,2021-07-12,19:00:00,08056,Zwickau,Domhof,Kundgebung,,unbekannt,
 3648,DE,2021-07-12,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Der Souverän,
+3790,DE,2021-07-12,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,unbekannt,
+3788,DE,2021-07-12,19:30:00,08056,Zwickau,Cafe u. Bar Schickeria,Vortrag,,unbekannt,https://gemeinwohllobby.de
+3792,DE,2021-07-15,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 3699,DE,2021-07-15,18:30:00,63457,Großauheim,Main Pilgerstr. / Leinpfad,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
 3756,DE,2021-07-16,17:00:00,26954,Nordenham,Marktplatz Nordenham-Zentrum,Autokorso,,privat,
 3782,DE,2021-07-17,11:00:00,24558,Henstedt-Ulzburg,Am Bahnbogen 2 / Vor KFC,Schilderwald,,unbekannt,
@@ -34,23 +41,48 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3718,DE,2021-07-17,16:00:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,BI aufRECHT:FREIdenken,https://www.solidarnosch.de
 3421,DE,2021-07-19,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 3649,DE,2021-07-19,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Der Souverän,
+3786,DE,2021-07-21,12:18:00,06108,Halle,An der Schleuse / Würfelwiese,Kundgebung,,DHV Ortsgruppe Halle-Saalekreis, drobs Halle | HS Merseburg | Tierschutzallianz | Piraten LSA,
 3692,DE,2021-07-21,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
+3793,DE,2021-07-22,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 3700,DE,2021-07-22,18:30:00,63457,Großauheim,Main Pilgerstr. / Leinpfad,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
 3757,DE,2021-07-24,14:00:00,74889,Sinsheim,P9 und P10 Parkplatz,Kundgebung,,Querdenken7261,
 3719,DE,2021-07-24,16:00:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,BI aufRECHT:FREIdenken,https://www.solidarnosch.de
 3422,DE,2021-07-26,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 3650,DE,2021-07-26,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Der Souverän,
+3794,DE,2021-07-29,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 3701,DE,2021-07-29,18:30:00,63457,Großauheim,Main Pilgerstr. / Leinpfad,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
 3675,DE,2021-08-02,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
+3795,DE,2021-08-05,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 3676,DE,2021-08-09,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
+3796,DE,2021-08-12,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 3780,DE,2021-08-14,15:00:00,39104,Magdeburg,Domplatz,Demonstration,,unbekannt,
 3677,DE,2021-08-16,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
+3797,DE,2021-08-19,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 3678,DE,2021-08-23,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
+3798,DE,2021-08-26,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 3679,DE,2021-08-30,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
+3799,DE,2021-09-02,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 3680,DE,2021-09-06,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
+3800,DE,2021-09-09,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 3681,DE,2021-09-13,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
+3801,DE,2021-09-16,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 3682,DE,2021-09-20,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
+3802,DE,2021-09-23,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
+3803,DE,2021-09-30,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 2271,DE,2021-10-04,14:30:00,06232,Speyer,Domplatz,Kundgebung,https://dlive.tv/Live-Reports-DUEW,Querdenken 6341,https://www.querdenken-6341.de
+3804,DE,2021-10-07,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
+3805,DE,2021-10-14,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
+3806,DE,2021-10-21,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
+3807,DE,2021-10-28,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
+3808,DE,2021-11-04,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 1960,DE,2021-11-05,18:00:00,10117,Berlin,Pariser Platz / Brandenburger Tor,MillionMaskMarch,https://anonymous.support/live,Anonymous,https://anonymous.support
+3809,DE,2021-11-11,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
+3810,DE,2021-11-18,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
+3811,DE,2021-11-25,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
+3812,DE,2021-12-02,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
+3813,DE,2021-12-09,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
+3814,DE,2021-12-16,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
+3815,DE,2021-12-23,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 1963,DE,2021-12-24,12:00:00,10178,Berlin,Weltzeituhr / Alexanderplatz,OpSafeWinter,https://anonymous.support/live,Anonymous,https://anonymous.support
+3816,DE,2021-12-30,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 1617,DE,2021-12-31,23:59:00,10117,Berlin,Brandenburger Tor,Event,,Welcome 2022,
