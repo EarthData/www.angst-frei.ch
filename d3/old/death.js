@@ -44,6 +44,7 @@ const graph = async (year) => {
   cum_data['corona_data'] = await load_corona();
 
   var death_data = cum_data['death_data']
+  console.log(death_data);
 
   if (cum_data['corona_data'][year]) {
     var corona_data = cum_data['corona_data'][year]
@@ -451,5 +452,5 @@ const build = async (year) => {
   await graph(year);
 }
 
-build(2021);
+build(2020);
 

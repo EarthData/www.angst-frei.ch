@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<style>
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+#main {
+  width: 960px;
+}
+.axis .domain {
+  display: none;
+}
+</style>
+
+<head>
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="death.js"></script>
+</head>
+
+<body class="d3-graph">
+  <h1>Wöchtenliche Todesfälle Schweiz</h1>
+
+  <p>Quellen:<br/>
+  <a href="https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung/geburten-todesfaelle/todesfaelle.html">Todesfälle nach Fünf-Jahres-Altersgruppe, Geschlecht, Woche und Kanton (CSV-Datei)</a>
+  <br/>
+  <a href="https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_CH_total_v2.csv">COVID19_Fallzahlen_CH_total_v2.csv</a>
+  </p>
+
+  <!-- Add 2 buttons -->
+  <button onclick="graph(2019)">2019</button>
+  <button onclick="graph(2020)">2020</button>
+</body>
+
+</html>

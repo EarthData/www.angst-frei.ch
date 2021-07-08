@@ -68,7 +68,7 @@ var legendClicked; //to control legend selections
 var legendClassArray = []; //store legend classes to select bars in plotSingle()
 var y_orig; //to store original y-posn
 
-d3.csv("data_processed/death_2021.csv", function(error, data) {
+d3.csv("death_2020.csv", function(error, data) {
   if (error) throw error;
 
   color.domain(d3.keys(data[0]).filter(function(key) { return key !== "week"; }));
@@ -86,7 +86,7 @@ d3.csv("data_processed/death_2021.csv", function(error, data) {
 
   x.domain(data.map(function(d) { return d.week; }));
   //y.domain([0, d3.max(data, function(d) { return d.total; })]);
-  y.domain([0, 2400]);
+  y.domain([0, 2500]);
 
   svg.append("g")
       .attr("class", "x axis")
