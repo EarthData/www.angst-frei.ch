@@ -1,7 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-3791,DE,2021-07-08,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
-3698,DE,2021-07-08,18:30:00,63457,Großauheim,Main Pilgerstr. / Leinpfad,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
-3776,DE,2021-07-08,19:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 3762,DE,2021-07-09,17:00:00,70190,Stuttgart,Neckarstr. 230 / SWR Funkhaus,Kundgebung,https://www.facebook.com/michael.honda.16906,Demo gegen die GEZ,https://www.facebook.com/groups/DemoTermine/posts/1619275218282352
 3773,DE,2021-07-09,17:00:00,70190,Stuttgart,Neckarstr. 230 / SWR Funkhaus,Kundgebung,https://dlive.tv/MichaelHonda,Von Mensch zu Mensch,https://www.facebook.com/groups/DemoTermine/posts/1619275218282352
 3658,DE,2021-07-09,17:00:00,84066,Mallersdorf-Pfaffenberg,Haus der Generationen,Kundgebung,,#ichmachdanichtmit und Miteinander statt gegeneinander,
@@ -14,8 +11,10 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3821,DE,2021-07-10,14:30:00,30449,Hannover,Ritter-Brüning-Str. / Parkplatz,Autokorso,,Autocorso Hannover,
 3767,DE,2021-07-10,15:00:00,72764,Reutlingen,Tübinger Tor,Flashmob,,Flashmob Kaffeezeit,
 3822,DE,2021-07-10,15:00:00,48143,Münster,Neubrückentor / Breul,Kundgebung,,Gemeinsam für Grundrechte,https://grundrechte-ms.de
+3825,DE,2021-07-10,15:00:00,40213,Düsseldorf,Burgplatz,Spaziergang,,unbekannt,
 3789,DE,2021-07-10,15:30:00,87600,Kaufbeuren,Obstmarkt / Fußgängerzone,Meditation,,unbekannt,
 3770,DE,2021-07-10,15:30:00,21073,Hamburg-Harburg,Museumsplatz 1 / am Brunnen,Meditation,,unbekannt,
+3824,DE,2021-07-10,15:30:00,45127,Essen,Willy-Brandt-Platz,Kundgebung,,Für den Erhalt der Freiheit,
 3823,DE,2021-07-10,15:30:00,26721,Emden,Stadtgarten,Demonstration,,(Ost)friesland Gemeinsam,
 3717,DE,2021-07-10,16:00:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,BI aufRECHT:FREIdenken,https://www.solidarnosch.de
 3655,DE,2021-07-10,17:00:00,80802,München,Münchner Freiheit,Kundgebung,,Freiheitsversammlung München,http://freiheitsversammlung-muenchen.de/
@@ -51,6 +50,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3650,DE,2021-07-26,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Der Souverän,
 3794,DE,2021-07-29,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 3701,DE,2021-07-29,18:30:00,63457,Großauheim,Main Pilgerstr. / Leinpfad,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
+3826,DE,2021-08-01,11:30:00,10117,Berlin,Unter den Linden / Friedrichstr.,Spaziergang,,Verschiedene Initiativen,
 3675,DE,2021-08-02,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 3795,DE,2021-08-05,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 3676,DE,2021-08-09,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
