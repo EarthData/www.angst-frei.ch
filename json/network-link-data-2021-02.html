@@ -1,0 +1,32 @@
+---
+layout:
+title:
+permalink: /json/network-link-data-2021-02.json
+---
+
+{
+  "nodes": [
+    {%- for node in site.data.network-link-nodes-2021-2 -%}
+    {
+      "id": "{{ node.id }}",
+      "value": "{{ node.value }}",
+      "title": "{{ node.title | replace: '"', "'" }}",
+      "link": "{{ node.link }}",
+      "group": "{{ node.group }}"
+    }
+    {%unless forloop.last %},{%endunless%}
+    {%- endfor -%}
+  ],
+  "links": [
+    {%- for edge in site.data.network-link-edges-2021-2 -%}
+    {
+      "source": "{{ edge.from }}",
+      "target": "{{ edge.to }}",
+      "title": "{{ edge.title }}",
+      "group": "{{ edge.group }}",
+      "value": "{{ edge.value }}"
+    }
+    {%unless forloop.last %},{%endunless%}
+    {%- endfor -%}
+  ]
+}

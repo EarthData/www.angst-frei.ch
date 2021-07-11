@@ -44,12 +44,7 @@ navbar-links:
     - Archiv: /news-archive.html
   Events: /events.html
   Infos: /infos.html
-  Timeline:
-    - Plandemie: /timeline/plandemie.html
-    - Impfung: /timeline/impfung.html
-  Netzwerk:
-    - Personen: /network/person.html
-    - Meldungen: /network/link.html
+  Interaktiv: /interactiv.html
 
 # --- Logo --- #
 

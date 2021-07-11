@@ -11,8 +11,18 @@ subtitle: Zahlen, Fakten
 
 ## Netzwerk
 
- * [Global]({{ site.baseurl }}/network/personen.html)
+ * [Global]({{ site.baseurl }}/network/person.html)
  * [Task-Force]({{ site.baseurl }}/network/taskforce.html)
+
+## Artikel
+
+ * [alle]({{ site.baseurl }}/network/link.html)
+ * [2021 7-12]({{ site.baseurl }}/network/link-2021-02.html)
+ * [2021 1-6]({{ site.baseurl }}/network/link-2021-01.html)
+ * [2020 7-12]({{ site.baseurl }}/network/link-2020-02.html)
+ * [2020 1-6]({{ site.baseurl }}/network/link-2020-01.html)
+ * [2019 7-12]({{ site.baseurl }}/network/link-2019-02.html)
+ * [2019 1-6]({{ site.baseurl }}/network/link-2019-01.html)
 
 ## Sterblichkeit
 
