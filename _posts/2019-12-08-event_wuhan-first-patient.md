@@ -5,6 +5,7 @@ subtitle:      'First patient with Covid-like symptoms was recorded in Wuhan'
 description:   'China reported to the World Health Organization that the first patient with Covid-like symptoms was recorded in Wuhan.'
 credit:        https://edition.cnn.com/2021/05/23/politics/us-intelligence-report-wuhan-lab-researchers-coronavirus-origin/index.html      
 timeline:      P(l)andemie
+country:       [CN]
 group:         Ereignis
 categories:    [P(l)andemie]
 tags:          [wuhan, who]

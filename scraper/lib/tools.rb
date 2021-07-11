@@ -114,7 +114,7 @@ subtitle:      '#{site_data['subtitle']}'
       content += %{description:   '#{site_data['description']}'
 }
     end
-    content += %{country:       #{site_data['country']}
+    content += %{country:       [#{site_data['country']}]
 }
     if site_data['timeline'] 
       content += %{timeline:      #{site_data['timeline']}
