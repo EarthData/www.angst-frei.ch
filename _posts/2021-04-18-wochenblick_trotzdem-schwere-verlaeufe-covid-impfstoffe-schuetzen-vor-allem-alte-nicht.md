@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/trotzdem-schwere-verlaeufe-covid-impfs
 title:         Wochenblick
 subtitle:      'Trotzdem schwere Verläufe: Covid-Impfstoffe schützen vor allem Alte nicht'
 description:   'Immer mehr Fallstudien und Erfahrungsberichte zeigen: Trotz zweifacher Impfung erleiden viele Menschen schwere Corona-Verläufe.'
-country:       AT
+country:       [AT]
 categories:    [Impfung]
 tags:          [immunität]
 ---

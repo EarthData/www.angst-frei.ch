@@ -4,7 +4,7 @@ redirect:      https://www.berliner-zeitung.de/news/allesdichtmachen-virologe-st
 title:         Berliner Zeitung
 subtitle:      'Allesdichtmachen: Virologe Streeck versteht Liefers und andere Schauspieler'
 description:   'Der Virologe betont, dass die Bundesregierung es nicht geschafft habe, die gesamte Bevölkerung bei den Corona-Maßnahmen mitzunehmen.'
-country:       DE
+country:       [DE]
 persons:       [Streeck Hendrik]
 categories:    [Widerstand]
 tags:          [allesdichtmachen]

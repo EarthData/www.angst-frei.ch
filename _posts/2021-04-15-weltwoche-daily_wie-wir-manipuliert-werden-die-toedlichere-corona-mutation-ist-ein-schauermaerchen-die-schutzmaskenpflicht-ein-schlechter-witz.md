@@ -4,7 +4,7 @@ redirect:      https://www.weltwoche-daily.ch/beitrag/wie-wir-manipuliert-werden
 title:         Weltwoche daily
 subtitle:      'Wie wir manipuliert werden: Die tödlichere Corona-Mutation ist ein Schauermärchen, die Schutzmaskenpflicht ein schlechter Witz'
 description:   'Nach den Theorien des BAG und der Science Task Force hätten die Fallzahlen explodieren müssen. Tatsächlich ist nichts passiert. Gestern konnte Berset dafür keine plausible Erklärung liefern. Von Hubert Mooser'
-country:       CH
+country:       [CH]
 categories:    [BAG, Politik]
 tags:          [virus-mutation, bundesrat, taskforce, maske, manipulation]
 ---

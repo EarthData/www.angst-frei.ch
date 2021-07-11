@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/kalifornien-stoppt-moderna-mrna-impfun
 title:         Wochenblick
 subtitle:      'Allergische Reaktionen: Kalifornien stoppt Moderna-mRNA-Impfung'
 description:   'Im großen amerikanischen Bundesstaat wurde aus Sicherheitsgründen vorerst die Stopp-Taste gedrückt: Es gab zu viele Nebenwirkungen.'
-country:       AT
+country:       [AT]
 categories:    [Impfung]
 tags:          [impf-nebenwirkungen, moderna]
 ---

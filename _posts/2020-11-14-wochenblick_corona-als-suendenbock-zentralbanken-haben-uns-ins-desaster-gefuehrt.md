@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/corona-als-suendenbock-zentralbanken-h
 title:         Wochenblick
 subtitle:      'Corona als Sündenbock: Zentralbanken haben uns ins Desaster geführt'
 description:   'Dr. Markus Krall ist Bestseller-Autor und ein lauter Kritiker unseres Wirtschafts- und Finanzsystems. Seit vielen Jahren kündigt er dessen..'
-country:       AT
+country:       [AT]
 categories:    [Wirtschaft]
 tags:          [geld]
 ---

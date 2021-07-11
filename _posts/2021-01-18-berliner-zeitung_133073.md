@@ -4,7 +4,7 @@ redirect:      https://www.berliner-zeitung.de/politik-gesellschaft/warnung-aus-
 title:         Berliner Zeitung
 subtitle:      'Warnung aus Norwegen: Mögliche Nebenwirkungen des Impfstoffs'
 description:   'Die norwegischen Behörden beobachten Risiken des Corona-Impfstoffs von Biontech und Pfizer für sehr alte und sehr kranke Menschen.'
-country:       NO
+country:       [NO]
 categories:    [MSM, Impfung]
 tags:          [mit oder an impfung gestorben, impf-nebenwirkungen, biontech]
 ---

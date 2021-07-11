@@ -4,7 +4,7 @@ redirect:      https://corona-blog.net/2021/06/22/entlarvt-falsche-statistik-bei
 title:         corona-blog.net
 subtitle:      'Entlarvt: Falsche Statistik bei den Wirksamkeitsstudien der Corona-Impfstoffe'
 description:   'In den letzten Tagen laßen wir sehr viele Kommentare mit einer falschen Interpretation der Wirksamkeitsstudien der Pharmariesen wie BioNTech-Pfizer.'
-country:       DE
+country:       [DE]
 categories:    [Impfung, Zahlen]
 tags:          [immunität]
 ---

@@ -4,7 +4,7 @@ redirect:      https://reitschuster.de/post/oeffentlich-rechtliche-sender-und-de
 title:         reitschuster
 subtitle:      'Öffentlich-rechtliche Sender und der Lockdown: Ein Armutszeugnis'
 description:   'Nicht einmal vier von zehn Menschen in Deutschland sind durch die öffentlich-rechtlichen Medien über kritische Stimmen und Studien zum Lockdown informiert – für ein gebührenfinanziertes System eine erschreckende Zahl.'
-country:       DE
+country:       [DE]
 categories:    [Wissenschaft]
 tags:          [who, manipulation]
 ---

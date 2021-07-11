@@ -4,7 +4,7 @@ redirect:      https://www.berliner-zeitung.de/news/berliner-kinderarzt-zu-lockd
 title:         Berliner Zeitung
 subtitle:      'Berliner Kinderarzt zu Lockdown-Folgen: „Es gibt bereits Triage in Psychiatrien“'
 description:   'Kinder und Jugendliche leiden unter Corona.  Wer nicht suizidgefährdet sei, wird in der Psychiatrie nicht mehr stationär behandelt, so Mediziner Jakob Maske.'
-country:       DE
+country:       [DE]
 categories:    [Gesundheit, Medizin]
 tags:          [kind, jugend, kollateralschäden]
 ---

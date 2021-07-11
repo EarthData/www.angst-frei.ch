@@ -4,7 +4,7 @@ redirect:      https://corona-transition.org/offnungsschritte-des-bundesrates-ku
 title:         Corona Transition
 subtitle:      'Öffnungsschritte des Bundesrates – kurz vor der Abstimmung'
 description:   'Aufgrund einer hohen Impfbereitschaft der Bevölkerung und wegen der sinkenden Fallzahlen habe sich der Bundesrat für weitergehende Lockerungen (...)'
-country:       CH
+country:       [CH]
 categories:    [Politik]
 tags:          [bundesrat, covid-19-gesetz]
 ---

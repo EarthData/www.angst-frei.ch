@@ -4,7 +4,7 @@ redirect:      https://www.centerforhealthsecurity.org/news/center-news/2020/202
 title:         Johns Hopkins Center for Health Security
 subtitle:      'Public-Private Cooperation for Pandemic Preparedness and Response'
 description:   'Das Johns Hopkins Center for Health Security veröffentlichte zusammen mit dem World Economic Forum und der Gates Foundation eine gemeinsame Pressemitteilung, in der die Übungsauswertung von „Event 201“ vorgestellt wurde, insbesondere die politischen Empfehlungen, die man drei Monate zuvor beschlossen hatte.'
-country:       ORG
+country:       [ORG]
 timeline:      P(l)andemie
 group:         Ereignis
 categories:    [Gesundheit]

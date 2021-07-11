@@ -4,7 +4,7 @@ redirect:      https://corona-transition.org/bundesamt-fur-gesundheit-warum-lauf
 title:         Corona Transition
 subtitle:      'Bundesamt für Gesundheit: Warum laufend Zahlenkorrekturen?'
 description:   'Das Bundesamt für Gesundheit BAG veröffentlicht täglich auf seiner Webseite umfangreiche Zahlen, zum Beispiel Anzahl neuer positiver PCR-Tests (...)'
-country:       CH
+country:       [CH]
 categories:    [BAG, Zahlen]
 tags:          [manipulation]
 ---

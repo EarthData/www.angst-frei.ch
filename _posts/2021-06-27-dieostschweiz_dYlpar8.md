@@ -4,7 +4,7 @@ redirect:      https://www.dieostschweiz.ch/artikel/die-impfung-als-geburtagsges
 title:         Die Ostschweiz
 subtitle:      'Die Impfung als Geburtagsgeschenk: Jetzt geht es um die Kinder'
 description:   'Eine Modelleisenbahn? Ein Skateboard? Ein Smartphone? Nichts von dem. Was sich Kinder heute zum Geburtstag sehnlichst wünschen, ist eine Coronaimpfung. Die Achse zwischen Politik und Medien fährt zur Höchstform auf. Und dafür soll es Geld geben?'
-country:       CH
+country:       [CH]
 categories:    [Impfung, MSM, Politik]
 tags:          [kind, manipulation, jugend]
 ---

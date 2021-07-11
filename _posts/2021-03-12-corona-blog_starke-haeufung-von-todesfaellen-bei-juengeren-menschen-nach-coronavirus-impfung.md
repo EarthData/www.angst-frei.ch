@@ -4,7 +4,7 @@ redirect:      https://corona-blog.net/2021/03/12/starke-haeufung-von-todesfaell
 title:         corona-blog.net
 subtitle:      'Starke Häufung von Todesfällen bei jüngeren Menschen nach Coronavirus Impfung'
 description:   'International mehren sich die Berichte über Todesfälle unmittelbar nach einer Coronavirus Impfung. Dennoch beteuern Behörden gebetsartig…'
-country:       DE
+country:       [DE]
 categories:    [Impfung]
 tags:          [mit oder an impfung gestorben]
 ---

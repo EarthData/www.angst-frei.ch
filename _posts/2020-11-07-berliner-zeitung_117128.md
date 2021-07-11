@@ -4,7 +4,7 @@ redirect:      https://www.berliner-zeitung.de/news/anfrage-an-berliner-senat-we
 title:         Berliner Zeitung
 subtitle:      'Berlin: Anfrage zu PCR-Tests und Antwort des Senats'
 description:   'Der Senat beantwortet die Anfrage eines Abgeordneten zu den PCR-Tests.'
-country:       DE
+country:       [DE]
 categories:    [MSM, Politik]
 tags:          [pcr-test]
 ---

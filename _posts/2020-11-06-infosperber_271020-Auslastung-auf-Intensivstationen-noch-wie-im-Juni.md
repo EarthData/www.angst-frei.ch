@@ -4,7 +4,7 @@ redirect:      https://www.infosperber.ch/Artikel/Gesundheit/271020-Auslastung-a
 title:         INFOsperber
 subtitle:      '6.11.20: Auslastung auf Intensivstationen erneut gestiegen'
 description:   'In den Kantonen GE, VS, VD, NE und JU sind noch 12 bis 35 Prozent aller Intensivbetten leer. Dagegen nur 8 Prozent in FR.'
-country:       CH
+country:       [CH]
 categories:    [Spital, Zahlen]
 tags:          [quarantäne]
 ---

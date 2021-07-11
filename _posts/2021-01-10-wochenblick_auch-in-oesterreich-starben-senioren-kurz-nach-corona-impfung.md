@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/auch-in-oesterreich-starben-senioren-k
 title:         Wochenblick
 subtitle:      'Auch in Österreich starben Senioren kurz nach Corona-Impfung'
 description:   'Auch in Österreich verstarben bereits Senioren, die kurz zuvor gegen Corona geimpft wurden. Alle Beteiligten dementieren einen Zusammenhang.'
-country:       AT
+country:       [AT]
 categories:    [Impfung]
 tags:          [mit oder an impfung gestorben, biontech]
 ---

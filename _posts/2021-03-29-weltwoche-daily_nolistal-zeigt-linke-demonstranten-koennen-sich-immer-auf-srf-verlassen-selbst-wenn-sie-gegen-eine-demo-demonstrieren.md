@@ -4,7 +4,7 @@ redirect:      https://www.weltwoche-daily.ch/beitrag/nolistal-zeigt-linke-demon
 title:         Weltwoche daily
 subtitle:      '#NoLiestal zeigt: Linke Demonstranten können sich immer auf SRF verlassen – selbst wenn sie gegen eine Demo demonstrieren'
 description:   '#NoLiestal zeigt: Linke Demonstranten können sich immer auf SRF verlassen – selbst wenn sie gegen eine Demo demonstrieren'
-country:       CH
+country:       [CH]
 categories:    [Widerstand]
 tags:          [willkür, manipulation]
 ---

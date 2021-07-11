@@ -4,7 +4,7 @@ redirect:      https://www.cdc.gov.tw/En/Bulletin/Detail/PAD-lbwDHeN_bLa-viBOuw?
 title:         Taiwan Centers for Disease Control 
 subtitle:      'Email to alert WHO to possible danger of COVID-19'
 description:   'Possibility of human-to-human transmission of COVID-19'
-country:       TW
+country:       [TW]
 timeline:      P(l)andemie
 group:         WHO
 categories:    [Wissenschaft]

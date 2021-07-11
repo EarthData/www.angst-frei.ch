@@ -4,7 +4,7 @@ redirect:      https://www.svp-zuerich.ch/medienmitteilungen/schluss-mit-der-kin
 title:         SVP Kanton Zürich
 subtitle:      'Schluss mit der Kinderquälerei!'
 description:   'Die SVP des Kantons Zürich fordert die sofortige Aufhebung der Maskenpflicht an sämtlichen Zürcher Schulen.'
-country:       CH
+country:       [CH]
 categories:    [Schule, Widerstand]
 tags:          [svp, maske, kind]
 ---

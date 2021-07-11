@@ -4,7 +4,7 @@ redirect:      https://www.swissmedic.ch/swissmedic/de/home/news/coronavirus-cov
 title:         Swissmedic
 subtitle:      "Verdachtsmeldungen von unerwünschten Wirkungen der Covid-19-Impfstoffe in der Schweiz"
 timeline:      Schweiz
-country:       CH
+country:       [CH]
 categories:    [Impfung]
 tags:          [swissmedic, impf-nebenwirkungen]
 ---

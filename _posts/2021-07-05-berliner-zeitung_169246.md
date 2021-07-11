@@ -4,7 +4,7 @@ redirect:      https://www.berliner-zeitung.de/news/israel-raetselt-ueber-ungewo
 title:         Berliner Zeitung
 subtitle:      'Israel rätselt über ungewöhnliche Virus-Ausbrüche'
 description:   'Im ganzen Land erkranken Kinder und Erwachsene an Virusinfektionen, die es im Sommer eigentlich nicht gibt.'
-country:       IL
+country:       [IL]
 categories:    [Impfung, Gesundheit]
 tags:          [jugend]
 ---

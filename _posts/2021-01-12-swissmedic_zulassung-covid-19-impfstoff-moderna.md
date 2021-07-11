@@ -4,7 +4,7 @@ redirect:      https://www.swissmedic.ch/swissmedic/de/home/news/coronavirus-cov
 title:         Swissmedic
 subtitle:      'Swissmedic erteilt die Zulassung für den Covid-19 Impfstoff von Moderna'
 timeline:      Schweiz
-country:       CH
+country:       [CH]
 categories:    [Impfung]
 tags:          [swissmedic, moderna]
 ---

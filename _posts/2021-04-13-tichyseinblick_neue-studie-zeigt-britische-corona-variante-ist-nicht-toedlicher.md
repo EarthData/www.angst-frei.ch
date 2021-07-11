@@ -4,7 +4,7 @@ redirect:      https://www.tichyseinblick.de/daili-es-sentials/neue-studie-zeigt
 title:         Tichys Einblick
 subtitle:      'Neue Studie zeigt: Britische Corona-Variante ist nicht tödlicher - zentrales Argument des Bundeslockdowns bricht weg'
 description:   'Im Entwurf für den Bundeslockdown beruft sich die Bundesregierung mehrmals auf die höhere Sterblichkeit der Corona-Varianten. Die gibt es so aber gar nicht.'
-country:       DE
+country:       [DE]
 categories:    [Studie]
 tags:          [virus-mutation, sterblichkeit]
 ---

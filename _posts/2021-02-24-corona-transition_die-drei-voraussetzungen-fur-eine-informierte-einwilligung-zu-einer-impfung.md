@@ -4,7 +4,7 @@ redirect:      https://corona-transition.org/die-drei-voraussetzungen-fur-eine-i
 title:         Corona Transition
 subtitle:      'Die drei Voraussetzungen für eine informierte Einwilligung zu einer Impfung'
 description:   '«Urteilsfähige erwachsene oder minderjährige Patientinnen und Patienten müssen einer Behandlung frei und nach umfassender Aufklärung zustimmen. Sie (...)'
-country:       CH
+country:       [CH]
 categories:    [Recht, Impfung]
 tags:          [impfzwang]
 ---

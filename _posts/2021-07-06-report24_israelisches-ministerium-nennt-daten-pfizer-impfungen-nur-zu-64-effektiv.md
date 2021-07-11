@@ -4,7 +4,7 @@ redirect:      https://report24.news/israelisches-ministerium-nennt-daten-pfizer
 title:         Report24
 subtitle:      'Israelisches Ministerium nennt Daten: Pfizer-Impfungen nur zu 64% "effektiv"'
 description:   'Geringe Wirksamkeit gegen die sommergrippe-ähnliche Delta Mutation während die EU offiziell "nicht weiß" wie die Impfung wirkt.'
-country:       ILS
+country:       [IL]
 categories:    [Impfung, Zahlen]
 tags:          [biontech, immunität]
 ---

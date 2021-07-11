@@ -4,7 +4,7 @@ title:       BioNTech
 subtitle:    'BioNTech Announces New Collaboration to Develop HIV and Tuberculosis Programs'
 description: 'Bill Gates investierte kurz vor dem Börsengang von Biontec 55 Millionen Dollar. Diese Spende ist auf der Seite der Foundation nicht gelistet.'
 credit:      https://investors.biontech.de/news-releases/news-release-details/biontech-announces-new-collaboration-develop-hiv-and
-country:     DE 
+country:     [DE]
 timeline:    P(l)andemie
 group:       BMGF
 persons:     [Gates Bill]

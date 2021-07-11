@@ -4,7 +4,7 @@ redirect:      https://www.infosperber.ch/gesundheit/public-health/wer-wuenscht-
 title:         INFOsperber
 subtitle:      'Wer wünscht sich schon Beifall von der falschen Seite?'
 description:   'Kritik an der Corona-Politik gerät in Verruf, weil man damit in den Chor von Corona-Leugnern einstimme. Das kann sich rächen.'
-country:       CH
+country:       [CH]
 categories:    [Widerstand, MSM, Politik]
 tags:          []
 ---

@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/forscherteam-laesst-aufhorchen-masken-
 title:         Wochenblick
 subtitle:      'Forscherteam lässt aufhorchen: Masken nützen nicht – sie machen krank'
 description:   'Die Wissenschaftler leiten aus ihrer Analyse neben vielen gesundheitsgefährdenden Effekten, wie Unterdrückung des Immunsystems bis zur Förderung der Tumorentstehung auch ein Masken-Induziertes-Erschöpfungs-Syndrom - kurz MIES - ab.'
-country:       AT
+country:       [AT]
 categories:    [Wissenschaft, Studie, Gesundheit]
 tags:          [maske]
 ---

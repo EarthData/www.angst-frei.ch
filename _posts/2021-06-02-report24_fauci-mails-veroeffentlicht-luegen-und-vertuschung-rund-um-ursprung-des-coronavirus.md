@@ -4,7 +4,7 @@ redirect:      https://report24.news/fauci-mails-veroeffentlicht-luegen-und-vert
 title:         Report24
 subtitle:      'Fauci-Mails veröffentlicht: Lügen und Vertuschung rund um Corona-Ursprung?'
 description:   'Mails von Anthony Fauci zeigen, dass an der Aufklärung des Corona-Ursprungs kein Interesse bestand. Stattdessen schreien sie nach Vertuschung.'
-country:       US
+country:       [US]
 persons:       [Fauci Anthony]
 categories:    [Wissenschaft]
 tags:          [virus-ursprung, wuhan, manipulation]

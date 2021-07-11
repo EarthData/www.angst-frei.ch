@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/schockierender-whistleblower-bericht-t
 title:         Wochenblick
 subtitle:      'Schockierender Whistleblower-Bericht: Tote nach Impfung in Berliner Heim'
 description:   'Ein schockierender Whistleblower-Bericht enttarnt die Vorgänge rund um die Impfung in einem Berliner Heim. 8 Senioren sind bereits tot.'
-country:       AT
+country:       [AT]
 categories:    [Impfung]
 tags:          [biontech, mit oder an impfung gestorben]
 ---

@@ -4,7 +4,7 @@ redirect:      https://www.dieostschweiz.ch/artikel/organisierter-ruin-heisst-ne
 title:         Die Ostschweiz
 subtitle:      'Organisierter Ruin heisst neuerdings «Planungssicherheit»'
 description:   'Die Schweiz fährt weiter auf ihrem Kurs der evidenzlosen Politik. Inzwischen benötigt der Bundesrat für die Verschärfung von Massnahmen nicht einmal mehr den Hauch von Nachweisen für Gefahr und Wirksamkeit. Annahmen reichen. Das auf Kosten der Gegenwart - und der Zukunft.'
-country:       CH
+country:       [CH]
 categories:    [Politik]
 tags:          [evidenz, bundesrat, massnahmen]
 ---

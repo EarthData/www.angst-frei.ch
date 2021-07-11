@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/weitere-fuenf-tote-in-frankreich-senio
 title:         Wochenblick
 subtitle:      'Weitere fünf Tote in Frankreich: Senioren sterben nach Impfungen'
 description:   'Auch aus Frankreich werden Todesfälle im Zusammenhang mit der Covid-Impfung bekannt. Untersuchungen wurden eingeleitet.'
-country:       FR
+country:       [FR]
 categories:    [Impfung]
 tags:          [mit oder an impfung gestorben, biontech]
 ---

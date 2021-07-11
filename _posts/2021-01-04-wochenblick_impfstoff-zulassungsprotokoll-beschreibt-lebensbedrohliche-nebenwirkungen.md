@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/impfstoff-zulassungsprotokoll-beschrei
 title:         Wochenblick
 subtitle:      'Impfstoff-Zulassungsprotokoll beschreibt lebensbedrohliche Nebenwirkungen'
 description:   'Der deutsche Arzt und Statistiker Zacharias Fögen das 376 Seiten starke US-Zulassungsprotokoll gelesen und schockierende Details gefunden.'
-country:       AT
+country:       [AT]
 categories:    [Impfung]
 tags:          [impf-nebenwirkungen, biontech]
 ---

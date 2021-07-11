@@ -4,7 +4,7 @@ redirect:      https://multipolar-magazin.de/artikel/es-geht-nicht-um-gesundheit
 title:         multipolar
 subtitle:      '„Es geht nicht um Gesundheitsschutz“'
 description:   'Ein fiktives Gespräch zwischen einem Maßnahmenbefürworter und einem Kritiker'
-country:       DE
+country:       [DE]
 categories:    [Gesundheit, Widerstand]
 tags:          [dialog]
 ---

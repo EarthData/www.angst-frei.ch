@@ -4,7 +4,7 @@ redirect:      https://corona-transition.org/bag-pressekonferenz-kinder-sollen-b
 title:         Corona Transition
 subtitle:      'BAG Pressekonferenz: Die negativen Folgen seien unbekannt – doch Kinder sollen bis Ende Jahr geimpft werden'
 description:   'Die Entwicklung der «Corona-Pandemie» sei trotz den Lockerungen sehr erfreulich, sagte Virginie Massery, Leiterin der Sektion Infektionskontrolle (...)'
-country:       CH
+country:       [CH]
 categories:    [BAG, Impfung]
 tags:          [massnahmen, maske, kind]
 ---

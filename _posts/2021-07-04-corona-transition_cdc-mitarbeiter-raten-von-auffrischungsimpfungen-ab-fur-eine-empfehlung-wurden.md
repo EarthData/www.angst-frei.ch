@@ -4,7 +4,7 @@ redirect:      https://corona-transition.org/cdc-mitarbeiter-raten-von-auffrisch
 title:         Corona Transition
 subtitle:      'CDC-Mitarbeiter raten von Auffrischungsimpfungen ab: Für eine Empfehlung würden Beweise fehlen'
 description:   'Der Pharmakonzern Pfizer versicherte jüngst seinen Investoren, dass durch die jährlichen Covid-Auffrischungsimpfungen weiterhin Milliarden-Umsätze (...)'
-country:       CH
+country:       [CH]
 categories:    [Impfung, Wissenschaft]
 tags:          [auffrischungsimpfung]
 ---

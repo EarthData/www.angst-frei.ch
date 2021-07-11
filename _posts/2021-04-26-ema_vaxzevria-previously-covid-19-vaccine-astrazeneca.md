@@ -4,7 +4,7 @@ redirect:      https://www.ema.europa.eu/en/medicines/human/EPAR/vaxzevria-previ
 title:         European Medicines Agency
 subtitle:      'Vaxzevria (previously COVID-19 Vaccine AstraZeneca) - European Medicines Agency'
 timeline:      Impfung
-country:       EU
+country:       [EU]
 categories:    [Impfung]
 tags:          [ema, astrazeneca]
 ---

@@ -4,7 +4,7 @@ redirect:      https://corona-transition.org/wir-mussen-gar-nichts-fur-grundrech
 title:         Corona Transition
 subtitle:      '«Wir müssen gar nichts für Grundrechte machen»'
 description:   'Das «Aktionsbündnis Urkantone für eine vernünftige Corona-Politik» macht im Hinblick auf die eidgenössischen Abstimmungen vom 13. Juni in mehreren (...)'
-country:       CH
+country:       [CH]
 categories:    [Politik, Widerstand]
 tags:          [grundrechte, covid-19-gesetz]
 ---

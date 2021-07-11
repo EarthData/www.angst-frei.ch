@@ -5,7 +5,7 @@ title:         Swissmedic
 subtitle:      'Nebenwirkungen der Covid-19 Impfungen in der Schweiz – Update'
 description:   '1485 Verdachtsmeldungen unerwünschter Wirkungen der Covid-19-Impfstoffe in der Schweiz ausgewertet'
 timeline:      Schweiz
-country:       CH
+country:       [CH]
 categories:    [Impfung]
 tags:          [swissmedic, impf-nebenwirkungen]
 ---

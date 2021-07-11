@@ -4,7 +4,7 @@ redirect:      https://corona-blog.net/2021/03/15/3-pflegekraefte-werden-waehren
 title:         corona-blog.net
 subtitle:      '3 Pflegekräfte werden während Pandemiezeiten gekündigt, weil Sie offen Missstände ansprechen'
 description:   'Die Patienten sterben alleine auf ihren Zimmern, weil uns das Personal und die Möglichkeiten fehlen. Pflegeperson aus Hamburg Romana Knezevic Zwei neue Fälle…'
-country:       DE
+country:       [DE]
 categories:    [Recht]
 tags:          [willkür, manipulation]
 ---

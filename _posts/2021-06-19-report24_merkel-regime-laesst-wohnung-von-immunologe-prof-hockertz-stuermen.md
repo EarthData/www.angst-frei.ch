@@ -4,7 +4,7 @@ redirect:      https://report24.news/merkel-regime-laesst-wohnung-von-immunologe
 title:         Report24
 subtitle:      'Merkel Regime lässt Wohnung von Immunologen Prof. Hockertz stürmen'
 description:   'Wahrscheinlich soll damit ganz Deutschland erzogen werden: Beim kritischen Wissenschaftler fanden Hausdurchsuchung und Beschlagnahme statt.'
-country:       DE
+country:       [DE]
 persons:       [Hockertz Stefan]
 categories:    [Politik, Recht]
 tags:          [willkür, polizei]

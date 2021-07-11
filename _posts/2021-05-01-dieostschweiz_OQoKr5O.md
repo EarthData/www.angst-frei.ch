@@ -4,7 +4,7 @@ redirect:      https://www.dieostschweiz.ch/artikel/privilegien-oder-grundrechte
 title:         Die Ostschweiz
 subtitle:      'Privilegien oder Grundrechte?'
 description:   'Mit seinem aktuellen Kommentar hat sich «Blick»-Chefredaktor Christian Dorer selbst übertroffen. Im schlechtesten Wortsinn.'
-country:       CH
+country:       [CH]
 categories:    [Impfung, MSM]
 tags:          [grundrechte, impfzwang]
 ---

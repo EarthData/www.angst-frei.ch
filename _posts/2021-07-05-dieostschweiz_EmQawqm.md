@@ -4,7 +4,7 @@ redirect:      https://www.dieostschweiz.ch/artikel/vereinsausflug-zum-impfzentr
 title:         Die Ostschweiz
 subtitle:      'Vereinsausflug zum Impfzentrum?'
 description:   'Die Schweiz sitzt offenbar auf Millionen Impfdosen, die nicht verimpft werden können. Nun setzen erste Kantone auf eine fragwürdige Massnahme: den Gruppendruck.'
-country:       CH
+country:       [CH]
 categories:    [Impfung]
 tags:          [impfzwang]
 ---

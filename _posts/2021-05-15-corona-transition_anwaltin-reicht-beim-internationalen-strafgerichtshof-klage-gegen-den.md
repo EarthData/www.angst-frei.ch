@@ -4,7 +4,7 @@ redirect:      https://corona-transition.org/anwaltin-reicht-beim-internationale
 title:         Corona Transition
 subtitle:      'Anwältin reicht beim Internationalen Strafgerichtshof Klage gegen den spanischen Staat ein'
 description:   'Schon viele mutige Anwälte auf der ganzen Welt haben damit begonnen, rechtliche Schritte gegen diejenigen einzuleiten, die für all das (...)'
-country:       CH
+country:       [CH]
 categories:    [Recht, Widerstand]
 tags:          [massnahmen]
 ---

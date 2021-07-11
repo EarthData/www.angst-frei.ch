@@ -4,7 +4,7 @@ redirect:      https://reitschuster.de/post/corona-impfungen-bloss-keine-nebenwi
 title:         reitschuster
 subtitle:      'Corona-Impfungen: Bloß keine Nebenwirkungen erfassen?'
 description:   'Eine Medizinerin stellt nach der Corona-Impfung Nebenwirkungen fest, will sie melden – doch das klappt nicht. Ist die amtliche APP so programmiert, dass Meldungen eher verhindert werden als gefördert? GASTBEITRAG'
-country:       DE
+country:       [DE]
 categories:    [Impfung]
 tags:          [impf-nebenwirkungen]
 ---

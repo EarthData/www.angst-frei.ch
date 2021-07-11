@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/politikversagen-lockdown-bringt-mehr-t
 title:         Wochenblick
 subtitle:      'Politikversagen: Lockdown bringt mehr Tote, dafür weniger Arbeitsplätze'
 description:   'Lockdowns haben keine signifikante, positive Auswirkung auf Corona-Zahlen. Eine neue Studie untersucht die politischen und wirtschaftlichen Folgen der Lockdown-Politik.'
-country:       AT
+country:       [AT]
 persons:       [Ioannidis John P.]
 categories:    [Politik, Studie, Wirtschaft, Gesundheit]
 tags:          [lockdown]

@@ -4,7 +4,7 @@ redirect:      https://corona-transition.org/swissmedic-meidet-heikle-fragen-zum
 title:         Corona Transition
 subtitle:      'Swissmedic meidet heikle Fragen zum Impfstoff von Johnson&Johnson'
 description:   'Mindestens 4000 Kälber starben europaweit an den Nebenwirkungen des Impfstoffs «PregSure BVD» von Pfizer, weil bei der Herstellung Zellen derselben (...)'
-country:       CH
+country:       [CH]
 categories:    [Impfung]
 tags:          [swissmedic, johnson & johnson, impf-nebenwirkungen]
 ---

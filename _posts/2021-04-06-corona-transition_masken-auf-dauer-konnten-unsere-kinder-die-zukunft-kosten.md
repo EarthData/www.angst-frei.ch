@@ -4,7 +4,7 @@ redirect:      https://corona-transition.org/masken-auf-dauer-konnten-unsere-kin
 title:         Corona Transition
 subtitle:      'Masken auf Dauer könnten unsere Kinder die Zukunft kosten'
 description:   'An der am 18. März 2021 in Hamburg stattgefundenen Konferenz des Bündnisses von Ärzten, Anwälten und Psychotherapeuten für Aufklärung hielt die (...)'
-country:       CH
+country:       [CH]
 categories:    [Medizin]
 tags:          [maske, kind]
 ---

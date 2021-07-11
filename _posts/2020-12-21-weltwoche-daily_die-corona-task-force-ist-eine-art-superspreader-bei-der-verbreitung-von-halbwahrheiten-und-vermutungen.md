@@ -4,7 +4,7 @@ redirect:      https://www.weltwoche-daily.ch/beitrag/die-corona-task-force-ist-
 title:         Weltwoche daily
 subtitle:      'Die Corona Task Force ist eine Art Superspreader bei der Verbreitung von Halbwahrheiten und Vermutungen'
 description:   'Die Corona Task Force ist eine Art Superspreader bei der Verbreitung von Halbwahrheiten und Vermutungen'
-country:       CH
+country:       [CH]
 categories:    [Behörde]
 tags:          [massnahmen, taskforce, manipulation]
 ---

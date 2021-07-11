@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/der-nuernberger-kodex-und-wie-die-coro
 title:         Wochenblick
 subtitle:      'Der Nürnberger Kodex und wie die Corona-Politik dagegen verstößt'
 description:   'Der Nürnberger Kodex stellt eine heute angewandte, zehn Punkte umfassende ethische Richtlinie zur Durchführung medizinischer und psychologischer Experimente am Menschen dar.'
-country:       AT
+country:       [AT]
 categories:    [Recht]
 tags:          [nürnberger kodex]
 ---

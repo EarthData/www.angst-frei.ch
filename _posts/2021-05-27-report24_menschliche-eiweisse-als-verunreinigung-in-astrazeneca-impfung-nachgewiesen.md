@@ -4,7 +4,7 @@ redirect:      https://report24.news/menschliche-eiweisse-als-verunreinigung-in-
 title:         Report24
 subtitle:      'Menschliche Eiweiße als Verunreinigung in AstraZeneca-Impfung nachgewiesen'
 description:   'Die Eiweiße sollten bei der Herstellung eigentlich ausgefiltert werden - doch dieser Prozess scheint fehlerhaft zu sein.'
-country:       AT
+country:       [AT]
 categories:    [Impfung]
 tags:          [astrazeneca]
 ---

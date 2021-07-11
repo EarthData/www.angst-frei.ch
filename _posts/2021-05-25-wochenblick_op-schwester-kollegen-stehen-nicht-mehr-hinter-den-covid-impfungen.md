@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/op-schwester-kollegen-stehen-nicht-meh
 title:         Wochenblick
 subtitle:      'OP-Schwester: Kollegen stehen nicht mehr hinter den Covid-Impfungen'
 description:   'Eine deutsche Krankenschwester berichtet davon, wie die Stimmung unter ihren Kollegen kippte. Zuerst war die Impfbereitschaft noch groß, heute wissen sie, dass die Impfungen gefährlicher sind, als gedacht.'
-country:       AT
+country:       [AT]
 categories:    [Impfung, Medizin, Widerstand]
 tags:          [immunität]
 ---

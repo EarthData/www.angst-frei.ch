@@ -4,7 +4,7 @@ redirect:      https://www.infosperber.ch/Artikel/Medien/Auch-nach-Monaten-ist-e
 title:         INFOsperber
 subtitle:      'Auch nach Monaten ist exakte Corona-Sprache in Medien selten'
 description:   'Statistisches Durcheinander: «Positiv Getestete» – «bestätigte Fälle» – «Patienten» – «Infizierte» – «Angesteckte» – «Genesene».'
-country:       CH
+country:       [CH]
 categories:    [MSM, Zahlen]
 tags:          [manipulation]
 ---

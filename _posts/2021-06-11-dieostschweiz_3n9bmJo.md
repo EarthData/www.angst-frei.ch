@@ -4,7 +4,7 @@ redirect:      https://www.dieostschweiz.ch/artikel/warum-wir-uns-nicht-verstehe
 title:         Die Ostschweiz
 subtitle:      'Warum wir uns nicht verstehen'
 description:   'Seit Corona geht ein Riss durch die Schweiz. Unversöhnlich stehen wir uns gegenüber. Was trennt uns? – Ein Gastbeitrag von Nicolas Lindt.'
-country:       CH
+country:       [CH]
 categories:    [Mensch]
 tags:          [dialog]
 ---

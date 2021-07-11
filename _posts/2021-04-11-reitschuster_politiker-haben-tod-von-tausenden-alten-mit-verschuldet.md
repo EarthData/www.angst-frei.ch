@@ -4,7 +4,7 @@ redirect:      https://reitschuster.de/post/politiker-haben-tod-von-tausenden-al
 title:         reitschuster
 subtitle:      '"Politiker haben den Tod von Tausenden Alten mit verschuldet"'
 description:   '"Viel zu lang habe ich wohl geschwiegen. Ich kann aber diese aktuelle Situation nicht mehr aushalten" – so beginnt der Brief eines Medizin-Professors an mich. Hier seine knallharte Abrechnung mit der aktuellen Corona-Politik.'
-country:       DE
+country:       [DE]
 categories:    [Medizin, Politik, Widerstand]
 tags:          [sterblichkeit]
 ---

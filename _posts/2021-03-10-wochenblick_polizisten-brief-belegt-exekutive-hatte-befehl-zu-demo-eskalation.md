@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/polizisten-brief-belegt-exekutive-hatt
 title:         Wochenblick
 subtitle:      'Polizisten-Brief belegt: Exekutive hatte Befehl zu Demo-Eskalation!'
 description:   'Ein Polizist schildert, was viele bereits vermuteten: Die Polizei soll am Samstag auf Befehl die Demonstration eingekesselt haben.'
-country:       AT
+country:       [AT]
 categories:    [Recht, Widerstand]
 tags:          [polizei]
 ---

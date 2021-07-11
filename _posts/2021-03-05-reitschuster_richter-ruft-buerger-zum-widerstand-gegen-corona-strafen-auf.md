@@ -4,7 +4,7 @@ redirect:      https://reitschuster.de/post/richter-ruft-buerger-zum-widerstand-
 title:         reitschuster
 subtitle:      'Richter ruft Bürger zum Widerstand gegen Corona-Strafen auf'
 description:   'Es sei beachtlich, mit welcher Ruhe die Bürger während der Pandemie „die vielen und großen Verfehlungen aller drei Staatsgewalten ertragen", erklärt ein Richter: Er will Pärchen, die am falschen Ort Eis essen, nicht mit Räubern gleichsetzen. Hier sein Appell:'
-country:       DE
+country:       [DE]
 categories:    [Widerstand, Recht]
 tags:          []
 ---

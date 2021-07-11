@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/fakten-zu-corona-wo-wir-nach-einem-jah
 title:         Wochenblick
 subtitle:      'Fakten zu Corona: Wo wir nach einem Jahr Dauerkrise stehen'
 description:   'Nach einem Jahr Dauerkrise möchten wir im Rahmen einer Zwischenbilanz auf einige Veröffentlichungen und Umstände hinweisen, die so gar nicht zu der aktuellen Berichterstattung und den täglichen Regierungsverlautbarungen passen.'
-country:       AT
+country:       [AT]
 categories:    [Zahlen, Wissenschaft, Medizin]
 tags:          [lockdown, massnahmen]
 ---

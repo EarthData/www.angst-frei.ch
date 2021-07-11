@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/sterben-nach-impfung-geht-weiter-dutze
 title:         Wochenblick
 subtitle:      'In deutschen Heimen: Todesfälle und Infektionen in Wochen nach Impfung'
 description:   'Zu normalen Zeiten wäre es ein Skandal, doch während der angeblichen Corona-Pandemie werden diese "Zufälle ohne Zusammenhang" hingenommen.'
-country:       AT
+country:       [AT]
 categories:    [Impfung]
 tags:          [mit oder an impfung gestorben]
 ---

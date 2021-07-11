@@ -4,7 +4,7 @@ title:         Netflix
 subtitle:      'Explained - The Next Pandemic'
 description:   'If you’re not worried about a looming global pandemic, you probably should be. Are we prepared for an outbreak? Bill Gates and other experts weigh in.'
 credit:        https://www.imdb.com/title/tt11244670/
-country:       US
+country:       [US]
 timeline:      P(l)andemie
 group:         BMGF
 persons:       [Gates Bill]

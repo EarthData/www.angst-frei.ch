@@ -3,7 +3,7 @@ date:          2020-09-15
 redirect:      https://www.srf.ch/news/schweiz/maskenpflicht-in-kitas-schadet-eine-kita-maskenpflicht-den-kleinsten
 title:         SRF
 subtitle:      'Maskenpflicht in Kitas - Schadet eine Kita-Maskenpflicht den Kleinsten?'
-country:       CH
+country:       [CH]
 categories:    [MSM, Mensch]
 tags:          [maske, kind, kollateralschäden]
 ---

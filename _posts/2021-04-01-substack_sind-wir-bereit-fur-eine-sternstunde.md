@@ -4,7 +4,7 @@ redirect:      https://miloszmatuschek.substack.com/p/sind-wir-bereit-fur-eine-s
 title:         substack.com
 subtitle:      'Sind wir bereit für eine Sternstunde der Demokratie?'
 description:   'Es nützt nichts zu bejammern, dass sich die Geschichte in anderem Gewand wiederholt. Viel wichtiger ist, ihr jetzt den eigenen Stempel aufzudrücken.'
-country:       COM
+country:       [COM]
 persons:       [Matuschek Milosz]
 categories:    [Politik]
 tags:          [demokratie]

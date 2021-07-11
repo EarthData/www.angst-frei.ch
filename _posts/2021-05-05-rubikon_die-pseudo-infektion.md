@@ -3,7 +3,7 @@ date:          2021-05-05
 title:         Rubikon
 subtitle:      'Die Pseudo-Infektion'
 description:   'Menschen nachts in ihren Wohnungen einzusperren, ihnen Treffen mit Freunden zu verbieten oder ihnen Abstand und Maske zu verpassen, weil ein geringer'
-country:       DE
+country:       [DE]
 categories:    [Politik, Zahlen]
 tags:          [lockdown, infektion, pcr-test]
 ---

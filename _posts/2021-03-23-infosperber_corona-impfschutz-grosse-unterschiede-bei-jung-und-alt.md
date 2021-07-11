@@ -4,7 +4,7 @@ redirect:      https://www.infosperber.ch/gesundheit/public-health/corona-impfsc
 title:         INFOsperber
 subtitle:      'Corona-Impfschutz: Grosse Unterschiede bei Jung und Alt'
 description:   'Virologen haben die Antikörper im Blut bestimmt, die für den Schutz wichtig sind. Fast ein Drittel der alten Menschen hatte keine.'
-country:       CH
+country:       [CH]
 categories:    [Impfung, Studie]
 tags:          [immunität]
 ---

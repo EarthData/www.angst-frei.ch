@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/aerzte-warnen-corona-impfungen-mit-mrn
 title:         Wochenblick
 subtitle:      'Ärzte warnen: Corona-Impfungen mit mRNA-Technik "wie eine Biowaffe"'
 description:   'Eine Gruppe kritischer Ärzte hat sich mit den näher mit den Nebenwirkungen der Corona-Impfstoffe beschäftigt. Das Ergebnis ist mehr als erschreckend. Gerade bei Frauen wirken sich die neuartigen und noch lange nicht ausreichend getesteten Impfstoffe negativ auf die Fruchtbarkeit und den weiblichen Zyklus aus.'
-country:       AT
+country:       [AT]
 categories:    [Medizin, Impfung]
 tags:          [impf-nebenwirkungen]
 ---

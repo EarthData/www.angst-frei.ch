@@ -4,7 +4,7 @@ redirect:      https://www.dieostschweiz.ch/artikel/vor-dem-virus-sind-alle-glei
 title:         Die Ostschweiz
 subtitle:      'Vor dem Virus sind alle gleich? Wir werden immer ungleicher!'
 description:   'Womit rechtfertigen sich eigentlich die flächendeckenden Pandemie-Massnahmen des Bundesrates? Durch die Annahme, wir seien alle vom Corona-Virus gleichermassen betroffen. Das ist blühender Unsinn.'
-country:       CH
+country:       [CH]
 categories:    [Politik]
 tags:          [bundesrat, massnahmen]
 ---

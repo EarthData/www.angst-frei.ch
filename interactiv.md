@@ -11,8 +11,8 @@ subtitle: Zahlen, Fakten
 
 ## Netzwerk
 
- * [Global]({{ site.baseurl }}/netzwerk/personen.html)
- * [Task-Force]({{ site.baseurl }}/netzwerk/taskforce.html)
+ * [Global]({{ site.baseurl }}/network/personen.html)
+ * [Task-Force]({{ site.baseurl }}/network/taskforce.html)
 
 ## Sterblichkeit
 

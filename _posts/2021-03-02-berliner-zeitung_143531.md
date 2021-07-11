@@ -4,7 +4,7 @@ redirect:      https://www.berliner-zeitung.de/lernen-arbeiten/verzweifelte-ober
 title:         Berliner Zeitung
 subtitle:      'Verzweifelte Oberschüler: Einsame Maschinen zwischen Bett und Schreibtisch'
 description:   'Berliner Oberschüler fordern das Ende des Lockdowns: Texte auf einer digitalen Pinnwand sprechen von Einsamkeit, Panikattacken und totaler Überforderung.'
-country:       DE
+country:       [DE]
 categories:    [MSM, Mensch]
 tags:          [kind, kollateralschäden]
 ---

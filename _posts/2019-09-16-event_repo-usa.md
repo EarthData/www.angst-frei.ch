@@ -4,7 +4,7 @@ title:         Ereignis
 subtitle:      'Repo-Zinssatz FED'
 description:   'Aus dem Nichts explodierte die US Dollar „Overnight Repo Rate“, der Zinssatz, zu dem sich Banken gegen Sicherheiten Geld leihen, auf 10% hoch, fünf mal höher als am Freitag davor.'
 credit:        https://tradingeconomics.com/united-states/repo-rate
-country:       US
+country:       [US]
 timeline:      P(l)andemie
 group:         Ereignis
 categories:    [P(l)andemie]

@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/weltweit-impfpannen-und-tote-aerzte-un
 title:         Wochenblick
 subtitle:      'Weltweit Impfpannen und Tote: Ärzte und Pflegepersonal verunsichert'
 description:   'Nach Todesfällen, schweren Spätfolgen und unerklärlichen schweren Covid-Erkrankungen verweigert medizinisches Personal häufig die Impfung.'
-country:       AT
+country:       [AT]
 categories:    [Impfung]
 tags:          [mit oder an impfung gestorben]
 ---

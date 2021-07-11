@@ -4,7 +4,7 @@ redirect:      https://www.medinside.ch/de/post/impfung-fuer-kinder-so-unwissens
 title:         medinside.ch
 subtitle:      'Impfung für Kinder: So unwissenschaftlich ist die «Grundlage»'
 description:   'Die Zulassung des COVID- Impfstoffes für Kinder ab 12 Jahren: Was bitte schön ist die Grundlage für eine positive Nutzen-Risiko-Einschätzung?'
-country:       CH
+country:       [CH]
 categories:    [Impfung, Medizin]
 tags:          [kind, jugend, manipulation]
 ---

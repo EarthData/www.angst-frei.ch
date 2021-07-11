@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/frau-klagt-an-sie-spritzen-unsere-gros
 title:         Wochenblick
 subtitle:      'Frau klagt an: "Sie spritzen unsere Großeltern einfach weg!"'
 description:   'Malaikas demente Oma wurde vergangenen Dienstag in einem Pflegeheim gegen das Corona-Virus geimpft. Am Donnerstag war sie tot.'
-country:       AT
+country:       [AT]
 categories:    [Impfung]
 tags:          [mit oder an impfung gestorben]
 ---

@@ -4,7 +4,7 @@ redirect:      https://www.dieostschweiz.ch/artikel/juristisches-gutachten-zerza
 title:         Die Ostschweiz
 subtitle:      'Juristisches Gutachten zerzaust die Coronapolitik des Bundesrats'
 description:   'Im Auftrag des Verbands Gastro Suisse hat eine Anwaltskanzlei ein Rechtsgutachten erstellt. Dieses beleuchtet die Rechtmässigkeit der Kriterien und Richtwerte, mit denen der Bundesrat die aktuellen Einschränkungen begründet. Das Fazit der Juristen ist ziemlich gnadenlos.'
-country:       CH
+country:       [CH]
 categories:    [Recht, Politik]
 tags:          [bundesrat]
 ---

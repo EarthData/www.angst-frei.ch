@@ -4,7 +4,7 @@ redirect:      https://www.infosperber.ch/gesundheit/public-health/die-corona-dr
 title:         INFOsperber
 subtitle:      'Die Corona-Dramatisierer spalten die Gesellschaft'
 description:   'Behörden und Medien wollen zur Disziplin aufrufen. Doch mit Halbwahrheiten fördern sie Misstrauen und Phantasien.'
-country:       CH
+country:       [CH]
 categories:    [Politik, MSM, Zahlen]
 tags:          [angst, massnahmen]
 ---

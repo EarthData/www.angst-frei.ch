@@ -3,7 +3,7 @@ date:          2021-05-21
 redirect:      https://www.rubikon.news/artikel/kleine-seelen
 title:         Rubikon
 subtitle:      'Kleine Seelen'
-country:       DE
+country:       [DE]
 categories:    [Mensch]
 tags:          [kind, massnahmen, kollateralschäden]
 ---

@@ -4,7 +4,7 @@ redirect:      https://www.berliner-zeitung.de/news/aufstand-der-aerzte-gegen-im
 title:         Berliner Zeitung
 subtitle:      'Aufstand der Ärzte gegen Impfzwang für Kinder und Jugendliche'
 description:   'Zahlreiche Ärzte protestieren gegen den Deutschen Ärztetag: Sie lehnen eine Koppelung von Schulbesuch an eine Corona-Impfung ab.'
-country:       DE
+country:       [DE]
 categories:    [Medizin, Widerstand, Impfung, Schule]
 tags:          [kind, jugend]
 ---

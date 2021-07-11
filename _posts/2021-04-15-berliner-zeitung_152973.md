@@ -4,7 +4,7 @@ redirect:      https://www.berliner-zeitung.de/gesundheit-oekologie/thrombose-tr
 title:         Berliner Zeitung
 subtitle:      'Thrombosen auch bei mRNA-Impfstoffen'
 description:   'Blutgerinnsel im Gehirn kommen laut einer Studie bei mRNA-Impfstoffen fast genauso häufig vor wie bei Astrazeneca. Biontech moniert jedoch Fehler der Analyse.'
-country:       DE
+country:       [DE]
 categories:    [MSM, Impfung, Studie]
 tags:          [impf-nebenwirkungen, blutgerinnungsstörungen]
 ---

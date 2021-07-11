@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/niedersachsen-89-jaehrige-seniorin-sti
 title:         Wochenblick
 subtitle:      'Niedersachsen: 89-jährige Seniorin stirbt nach Corona-Impfung'
 description:   'Auch aus Deutschland wurde nun ein erster Todesfall in engem zeitlichen Abstand zur Covid-19 Impfung bekannt.'
-country:       AT
+country:       [AT]
 categories:    [Impfung]
 tags:          [mit oder an impfung gestorben, biontech]
 ---

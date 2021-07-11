@@ -4,7 +4,7 @@ redirect:      https://www.weltwoche-daily.ch/beitrag/stirbt-ein-patient-nach-ei
 title:         Weltwoche daily
 subtitle:      'Stirbt ein Patient nach einer Covid-Impfung, war es ein natürlicher Tod. Bei Corona-Toten differenziert man weniger genau. '
 description:   'Stirbt ein Patient nach einer Covid-Impfung, war es ein natürlicher Tod. Bei Corona-Toten differenziert man weniger genau. '
-country:       CH
+country:       [CH]
 categories:    [Impfung]
 tags:          [manipulation]
 ---

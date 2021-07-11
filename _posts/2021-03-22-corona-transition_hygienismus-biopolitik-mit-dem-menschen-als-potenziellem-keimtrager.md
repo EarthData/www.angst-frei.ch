@@ -4,7 +4,7 @@ redirect:      https://corona-transition.org/hygienismus-biopolitik-mit-dem-mens
 title:         Corona Transition
 subtitle:      'Hygienismus: Biopolitik mit dem Menschen als potenziellem Keimträger'
 description:   'Homo hygienicus Der homo hygienicus und der Hygienismus wurden von dem Bildungsphilosophen und Publizisten Matthias Burchardt in einem (...)'
-country:       CH
+country:       [CH]
 categories:    [Politik]
 tags:          [impfzwang, impfpass]
 ---

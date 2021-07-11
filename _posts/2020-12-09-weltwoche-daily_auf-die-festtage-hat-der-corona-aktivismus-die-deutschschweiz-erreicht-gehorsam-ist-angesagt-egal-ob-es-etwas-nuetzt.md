@@ -4,7 +4,7 @@ redirect:      https://www.weltwoche-daily.ch/beitrag/auf-die-festtage-hat-der-c
 title:         Weltwoche daily
 subtitle:      'Corona-Aktivismus in der Deutschschweiz: Gehorsam ist angesagt, egal ob es etwas nützt'
 description:   'Corona-Aktivismus in der Deutschschweiz: Gehorsam ist angesagt, egal ob es etwas nützt'
-country:       CH
+country:       [CH]
 categories:    [Politik]
 tags:          [massnahmen]
 ---

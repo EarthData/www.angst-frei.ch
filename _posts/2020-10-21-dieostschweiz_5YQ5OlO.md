@@ -4,7 +4,7 @@ redirect:      https://www.dieostschweiz.ch/artikel/krise-durch-corona-oder-durc
 title:         Die Ostschweiz
 subtitle:      'Krise durch Corona - oder durch aufaddierte Testergebnisse'
 description:   'Woran merken wir, dass eine Pandemie herrscht? Durch aufaddierte, positive Testergebnisse. Gäbe es die nicht, herrschte keine Pandemie.'
-country:       CH
+country:       [CH]
 categories:    [BAG]
 tags:          [pcr-test]
 ---

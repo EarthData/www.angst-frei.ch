@@ -4,7 +4,7 @@ redirect:      https://corona-transition.org/der-stille-protest-ist-nicht-mehr-z
 title:         Corona Transition
 subtitle:      'Der «stille Protest» ist nicht mehr zu überhören'
 description:   'Während eine Kundgebung in Bern mit grossem Polizeiaufgebot verhindert wurde, demonstrierten in Liestal nach Angaben der Veranstalter gegen 10’000 (...)'
-country:       CH
+country:       [CH]
 categories:    [Widerstand]
 tags:          [polizei]
 ---

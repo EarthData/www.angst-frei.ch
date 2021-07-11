@@ -4,7 +4,7 @@ redirect:      https://www.berliner-zeitung.de/news/mdr-bericht-amtsgericht-hael
 title:         Berliner Zeitung
 subtitle:      'Amtsgericht Weimar: Kontaktverbot ist verfassungswidrig'
 description:   'Das Amtsgericht Weimar hat ein Urteil gegen die Corona-Beschränkungen erlassen. Die Botschaft: Soziale Kontakte könnten nicht einfach verboten werden.'
-country:       DE
+country:       [DE]
 categories:    [Recht]
 tags:          []
 ---

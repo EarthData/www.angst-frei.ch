@@ -4,7 +4,7 @@ redirect:      https://www.dieostschweiz.ch/artikel/endlich-die-tun-was-aufmuepf
 title:         Die Ostschweiz
 subtitle:      'Endlich. Die tun was Aufmüpfiges'
 description:   'Krawall, Randale, Rabatz. Action, wie man heute so schön sagt. Polizei auf der Strasse, St. Gallen im Ausnahmezustand, 500 Wegweisungen. Haben die Jungen nichts Besseres zu tun?'
-country:       CH
+country:       [CH]
 categories:    [Widerstand]
 tags:          [st.gallen]
 ---

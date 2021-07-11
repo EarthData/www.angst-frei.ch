@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/fruehling-bald-verboten-nach-aerosolen
 title:         Wochenblick
 subtitle:      'Frühling bald verboten? Nach Aerosolen: Pollen neue "Corona-Gefahr"'
 description:   'Jetzt soll uns nun auch der Frühling - genauer: der Pollen-Flug - nach den angeblichen Horror-Mutationen zum Pandemie-Verhängnis werden. '
-country:       AT
+country:       [AT]
 categories:    [Studie]
 tags:          [angst, manipulation]
 ---

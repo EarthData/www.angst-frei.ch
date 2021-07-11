@@ -4,7 +4,7 @@ redirect:      https://corona-transition.org/long-covid-infektion-kann-nicht-die
 title:         Corona Transition
 subtitle:      '«Long-Covid»: Infektion kann nicht die Ursache sein'
 description:   'Kaum ein Medium hat die Meldung ausgelassen, alle wissen es: Corona kann einen langen Nachhall haben. Unerklärbare Erschöpfungszustände unter denen (...)'
-country:       CH
+country:       [CH]
 categories:    [Medizin, MSM, Studie]
 tags:          [long covid, manipulation]
 ---

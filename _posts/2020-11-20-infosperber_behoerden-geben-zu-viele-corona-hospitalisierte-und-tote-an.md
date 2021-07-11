@@ -4,7 +4,7 @@ redirect:      https://www.infosperber.ch/gesundheit/public-health/behoerden-geb
 title:         INFOsperber
 subtitle:      'Behörden geben zu viele Corona-Hospitalisierte und -Tote an'
 description:   '10 bis 20 Prozent aller Covid-19-Patienten in Spitälern sind nicht wegen Corona im Spital. Genau will es niemand wissen.'
-country:       CH
+country:       [CH]
 categories:    [Spital, Zahlen, Behörde]
 tags:          [sterblichkeit, manipulation]
 ---

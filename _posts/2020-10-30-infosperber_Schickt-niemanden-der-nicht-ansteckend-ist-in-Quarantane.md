@@ -4,7 +4,7 @@ redirect:      https://www.infosperber.ch/Artikel/Gesundheit/Schickt-niemanden-d
 title:         INFOsperber
 subtitle:      'Schickt niemanden, der nicht ansteckend ist, in Quarantäne!'
 description:   'Rund ein Drittel der positiv Getesteten muss sinnlos in eine Quarantäne. Das Bundesamt für Gesundheit handelt nicht.'
-country:       CH
+country:       [CH]
 categories:    [BAG, Wissenschaft]
 tags:          [quarantäne, pcr-test]
 ---

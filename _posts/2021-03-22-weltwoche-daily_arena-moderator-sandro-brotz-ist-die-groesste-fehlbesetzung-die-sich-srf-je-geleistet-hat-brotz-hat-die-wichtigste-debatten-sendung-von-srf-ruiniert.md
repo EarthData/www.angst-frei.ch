@@ -4,7 +4,7 @@ redirect:      https://www.weltwoche-daily.ch/beitrag/arena-moderator-sandro-bro
 title:         Weltwoche daily
 subtitle:      '«Arena»-Moderator Sandro Brotz ist die grösste Fehlbesetzung, die sich SRF je geleistet hat. Brotz hat die wichtigste Debatten-Sendung der Schweiz ruiniert'
 description:   '«Arena»-Moderator Sandro Brotz ist die grösste Fehlbesetzung, die sich SRF je geleistet hat. Brotz hat die wichtigste Debatten-Sendung der Schweiz ruiniert'
-country:       CH
+country:       [CH]
 categories:    [MSM]
 tags:          [dialog]
 ---

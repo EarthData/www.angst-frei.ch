@@ -4,7 +4,7 @@ redirect:      https://multipolar-magazin.de/artikel/paul-ehrlich-institut-neben
 title:         multipolar
 subtitle:      'Wurde vom Paul-Ehrlich-Institut eine gefährliche Nebenwirkung der Impfung ausgeblendet?'
 description:   'Die Impfung erzeugt Coronavirus-Spikes, die laut PEI-Forschung gefährlich werden können.'
-country:       DE
+country:       [DE]
 persons:       [Wodarg Wolfgang]
 categories:    [Impfung]
 tags:          [impf-nebenwirkungen, pei]

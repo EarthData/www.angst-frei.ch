@@ -4,7 +4,7 @@ redirect:      https://reitschuster.de/post/wie-staatsanwaltschaften-die-obdukti
 title:         reitschuster
 subtitle:      'Wie Staatsanwaltschaften die Obduktionen von Impfschäden hintertreiben'
 description:   'Obwohl sich die Hinweise auf gefährliche Nebenwirkungen von Impfungen mehren, wehren sich Staatsanwaltschaften gegen Obduktionen – teilweise sogar, wenn Ärzte ausdrücklich darum bitten. GASTBEITRAG'
-country:       DE
+country:       [DE]
 categories:    [Impfung, Recht]
 tags:          [impf-nebenwirkungen, mit oder an impfung gestorben, rki]
 ---

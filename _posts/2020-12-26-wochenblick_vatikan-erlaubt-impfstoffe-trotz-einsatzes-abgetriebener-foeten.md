@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/vatikan-erlaubt-impfstoffe-trotz-einsa
 title:         Wochenblick
 subtitle:      'Vatikan erlaubt Impfstoffe trotz Einsatzes abgetriebener Föten'
 description:   'Um die Agenda der weltweiten Impfung voranzutreiben, ist dem heiligen Stuhl der Katholiken inzwischen wohl jedes Mittel recht.'
-country:       AT
+country:       [AT]
 categories:    [Impfung, Mensch]
 tags:          []
 ---

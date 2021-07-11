@@ -5,7 +5,7 @@ title:         Report24
 subtitle:      'Faucis globaler Corona-Betrug: Wann folgt der Rücktritt - und wann die Anklage?'
 description:   'Neue veröffentlichte E-Mails beweisen: Anthony Faucis Behörde finanzierte die Forschungen zum Corona-Virus im Wuhan Labor.'
 persons:       [Fauci Anthony]
-country:       US
+country:       [US]
 categories:    [Wissenschaft]
 tags:          [manipulation, geld, wuhan]
 ---

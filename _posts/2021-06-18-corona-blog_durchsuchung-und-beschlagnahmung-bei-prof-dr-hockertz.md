@@ -4,7 +4,7 @@ redirect:      https://corona-blog.net/2021/06/18/durchsuchung-und-beschlagnahmu
 title:         corona-blog.net
 subtitle:      'Durchsuchung und Beschlagnahmung bei Prof. Dr. Hockertz'
 description:   'Im Corona Ausschuss gab Rechtsanwalt Dr. Fuellmich bekannt, dass bei Prof. Dr. Hockertz am 17.06.2021 eine Durchsuchung und Beschlagnahmung durchgeführt wurde.'
-country:       DE
+country:       [DE]
 persons:       [Hockertz Stefan]
 categories:    [Politik, Recht]
 tags:          [polizei, willkür]

@@ -4,7 +4,7 @@ redirect:      https://www.tichyseinblick.de/kolumnen/vorwort-zum-sonntag/solida
 title:         Tichys Einblick
 subtitle:      'Vorwort zum Sonntag: Solidarität mit der Jugend in Corona-Zeiten'
 description:   'Liesel Gödecke, 82, sagt: "Ich möchte nicht, dass alle jungen Menschen um meinetwillen auf leibhaftige Schule verzichten müssen".'
-country:       DE
+country:       [DE]
 categories:    [Mensch, Schule]
 tags:          [jugend, massnahmen]
 ---

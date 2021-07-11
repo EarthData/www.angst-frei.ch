@@ -4,7 +4,7 @@ redirect:      https://www.infosperber.ch/gesundheit/public-health/die-pfizer-im
 title:         INFOsperber
 subtitle:      '«Pfizer-Impfung ist viel weniger wirksam» – keine Transparenz'
 description:   'Der Impfstoff Comirnaty sei statt 95 bloss 29 Prozent wirksam, erklärt Peter Doshi, Spezialist für Medikamentensicherheit.'
-country:       CH
+country:       [CH]
 categories:    [Studie, Wissenschaft, Impfung]
 tags:          [biontech, impf-nebenwirkungen]
 ---

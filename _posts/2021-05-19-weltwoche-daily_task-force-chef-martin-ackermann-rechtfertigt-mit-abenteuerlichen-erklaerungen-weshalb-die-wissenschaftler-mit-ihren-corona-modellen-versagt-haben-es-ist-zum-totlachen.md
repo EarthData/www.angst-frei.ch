@@ -4,7 +4,7 @@ redirect:      https://www.weltwoche-daily.ch/beitrag/task-force-chef-martin-ack
 title:         Weltwoche daily
 subtitle:      'Task-Force-Chef Martin Ackermann rechtfertigt mit abenteuerlichen Erklärungen, weshalb die Wissenschaftler mit ihren Corona-Modellen versagt haben. Es ist zum Totlachen'
 description:   'Zuerst sind wir dank dem milden Wetter um eine dritte Welle herumkommen, jetzt ist das kühle Wetter die Ursache dafür, dass die Fallzahlen nicht explodieren. Von Hubert Mooser'
-country:       CH
+country:       [CH]
 categories:    [Politik, MSM]
 tags:          [taskforce, manipulation]
 ---

@@ -4,7 +4,7 @@ redirect:      https://www.tichyseinblick.de/daili-es-sentials/alle-amtsaerzte-b
 title:         Tichys Einblick
 subtitle:      'Alle Amtsärzte Berlins fordern Ende der inzidenzbasierten Lockdownpolitik'
 description:   'In einer Stellungnahme kritisieren die 12 Leiter der Berliner Gesundheitsämter die Koppelung von Coronamaßnahmen an die Zahl der Neuinfektionen. Für die gesunde Bevölkerung müssten Lockerungen erfolgen.'
-country:       DE
+country:       [DE]
 categories:    [Medizin, Widerstand]
 tags:          [nocovid, lockdown]
 ---

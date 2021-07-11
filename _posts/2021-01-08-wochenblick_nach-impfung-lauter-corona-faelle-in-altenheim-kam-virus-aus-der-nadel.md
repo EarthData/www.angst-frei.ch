@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/nach-impfung-lauter-corona-faelle-in-a
 title:         Wochenblick
 subtitle:      'Nach Impfung lauter Corona-Fälle in Altenheim: Kam Virus aus der Nadel?'
 description:   'Eine sonderbare Häufung von plötzlichen Corona-Fällen ereignete sich in einem Altenheim in Bayern - nämlich nach der Impfung.'
-country:       AT
+country:       [AT]
 categories:    [Impfung]
 tags:          [impf-nebenwirkungen]
 ---

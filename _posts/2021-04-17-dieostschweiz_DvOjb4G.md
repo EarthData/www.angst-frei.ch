@@ -4,7 +4,7 @@ redirect:      https://www.dieostschweiz.ch/artikel/rund-1000-menschen-in-schaff
 title:         Die Ostschweiz
 subtitle:      'Rund 1000 Menschen in Schaffhausen – und das Tränengas blieb aus'
 description:   'Der Stadtrat von Schaffhausen hatte seine bereits erteilte Bewilligung zwar kurz zuvor zurückgezogen. Doch wie erwartet haben sich am Samstag dennoch Gegner der Coronamassnahmen in der Munotstadt versammelt. Die Polizei griff nicht ein, der Anlass blieb friedlich.'
-country:       CH
+country:       [CH]
 categories:    [Widerstand]
 tags:          [polizei, schaffhausen]
 ---

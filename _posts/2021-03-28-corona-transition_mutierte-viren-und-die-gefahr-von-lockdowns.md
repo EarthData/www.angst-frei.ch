@@ -4,7 +4,7 @@ redirect:      https://corona-transition.org/mutierte-viren-und-die-gefahr-von-l
 title:         Corona Transition
 subtitle:      'Mutierte Viren und die Gefahr von Lockdowns'
 description:   'Anfang 2020 starteten wir ein landesweites epidemiologisches Experiment mit dem Ziel, die Sterblichkeitsrate des neuartigen SARS-CoV-2-Virus zu (...)'
-country:       CH
+country:       [CH]
 categories:    [Wissenschaft]
 tags:          [virus-mutation, lockdown]
 ---

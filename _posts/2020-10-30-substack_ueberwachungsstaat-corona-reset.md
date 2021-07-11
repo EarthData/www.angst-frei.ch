@@ -4,7 +4,7 @@ redirect:      https://miloszmatuschek.substack.com/p/ueberwachungsstaat-corona-
 title:         substack.com
 subtitle:      'Und jetzt alle: die Überwachung wird euch frei machen!'
 description:   'Die Rechte, die wir gestern hatten, könnten morgen zu Privilegien werden. Hinter der Maske der Pandemie wartet der Überwachungsstaat auf uns.'
-country:       COM
+country:       [COM]
 persons:       [Matuschek Milosz]
 categories:    [Widerstand]
 tags:          [wef, massnahmen]

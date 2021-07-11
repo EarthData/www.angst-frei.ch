@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/mut-lehrer-geht-wieder-in-die-offensiv
 title:         Wochenblick
 subtitle:      'Mut-Lehrer geht wieder in die Offensive: Selbstanzeige!'
 description:   'Wochenblick berichtete bereits mehrfach über den Vorarlberger Mut-Lehrer. Er weigerte sich, seine Schüler zu Masken oder Tests zu zwingen. Jetzt wurde er fristlos entlassen.'
-country:       AT
+country:       [AT]
 categories:    [Schule, Recht, Widerstand]
 tags:          [willkür]
 ---

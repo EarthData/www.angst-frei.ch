@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/schwere-impf-nebenwirkungen-daenen-ver
 title:         Wochenblick
 subtitle:      'Schwere Impf-Nebenwirkungen: Dänen verlangen Entschädigung'
 description:   'Entschädigungen gibt es nur für schwere Nebenwirkungen, stellte der zuständige Fonds fest. AstraZeneca wurde am Mittwoch aus dem nationalen Impfprogramm gestrichen. '
-country:       DK
+country:       [DK]
 categories:    [Recht]
 tags:          [impf-nebenwirkungen]
 ---

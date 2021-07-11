@@ -4,7 +4,7 @@ redirect:      https://www.berliner-zeitung.de/wochenende/journalist-jurist-sued
 title:         Berliner Zeitung
 subtitle:      'Heribert Prantl: Grundrechte auch ohne Impfpass'
 description:   'Der Journalist und Jurist Heribert Prantl über ein problematisches Gesetz und die Idee, bestimmte Grundrechte nur gegen Vorlage eines Impfausweises zu gewähren.'
-country:       DE
+country:       [DE]
 categories:    [Recht]
 tags:          [impfpass, grundrechte]
 ---

@@ -4,7 +4,7 @@ redirect:      https://report24.news/frankreich-behoerden-verzweifeln-wegen-mass
 title:         Report24
 subtitle:      'Frankreich: Behörden verzweifeln wegen Masse gemeldeter Impf-Nebenwirkungen'
 description:   'Seit Beginn der Covid-Impfungen geht die Zahl gemeldeter Nebenwirkungen durch die Decke. In Frankreich kommt man mit der Bearbeitung nicht nach.'
-country:       FR
+country:       [FR]
 categories:    [Impfung]
 tags:          [impf-nebenwirkungen]
 ---

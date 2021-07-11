@@ -4,7 +4,7 @@ redirect:      https://report24.news/160-mediziner-warnen-in-offenem-brief-vor-i
 title:         Report24
 subtitle:      '160 Mediziner warnen in offenem Brief vor Impfungen: "Unnötig, ineffektiv, unsicher"'
 description:   'Experten aus aller Welt haben Hintergründe und Datenlage der Covid-Impfstoffe analysiert - und ein verheerendes Fazit gezogen.'
-country:       AT
+country:       [AT]
 categories:    [Impfung, Medizin, Widerstand]
 tags:          [impf-stopp]
 ---

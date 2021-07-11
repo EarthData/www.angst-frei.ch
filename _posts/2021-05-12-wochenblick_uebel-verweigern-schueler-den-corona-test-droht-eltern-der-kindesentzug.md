@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/uebel-verweigern-schueler-den-corona-t
 title:         Wochenblick
 subtitle:      'Übel: Verweigern Schüler den Corona-Test, droht Eltern der Kindesentzug'
 description:   'Kommenden Montag beginnt in Österreich wieder der Vollbetrieb an Schulen. Dreimal Testen pro Woche wird zur Voraussetzung für die Teilnahme am Unterricht. Lassen sich Schüler nicht testen, droht den Eltern der Entzug der Kinder.'
-country:       AT
+country:       [AT]
 categories:    [Recht]
 tags:          [kind, schnelltest, willkür]
 ---

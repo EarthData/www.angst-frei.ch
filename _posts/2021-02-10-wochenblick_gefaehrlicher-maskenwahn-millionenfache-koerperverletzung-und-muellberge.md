@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/gefaehrlicher-maskenwahn-millionenfach
 title:         Wochenblick
 subtitle:      'Gefährlicher Maskenwahn: Millionenfache Körperverletzung und Müllberge'
 description:   'Obwohl vereinzelte Mainstreammedien bereits berichteten, wird das Problem von der Politik abgetan: Durch die Masken gelangen Plastikpartikel in die Lunge.'
-country:       AT
+country:       [AT]
 categories:    [Wissenschaft]
 tags:          [maske, kollateralschäden]
 ---

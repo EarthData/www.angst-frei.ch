@@ -4,7 +4,7 @@ redirect:      https://www.dieostschweiz.ch/artikel/die-maskierung-der-zweiklass
 title:         Die Ostschweiz
 subtitle:      'Die Maskierung der Zweiklassengesellschaft'
 description:   'Bundesrat Alain Berset möchte bei einer künftigen Maskenpflicht Geimpfte gegen Covid-19 nicht vom Tragezwang entbinden.'
-country:       CH
+country:       [CH]
 categories:    [Impfung]
 tags:          [impfzwang, bundesrat]
 ---

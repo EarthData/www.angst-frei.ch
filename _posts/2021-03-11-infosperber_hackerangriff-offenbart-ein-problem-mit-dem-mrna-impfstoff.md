@@ -4,7 +4,7 @@ redirect:      https://www.infosperber.ch/gesundheit/public-health/hackerangriff
 title:         INFOsperber
 subtitle:      'Hackerangriff offenbart ein Problem mit dem mRNA-Impfstoff'
 description:   'Journalisten und Wissenschaftler werteten vertrauliche E-Mails zum Pfizer-Impfstoff aus. Das Resultat ist nicht vertrauensbildend.'
-country:       CH
+country:       [CH]
 categories:    [Impfung]
 tags:          [biontech, manipulation]
 ---

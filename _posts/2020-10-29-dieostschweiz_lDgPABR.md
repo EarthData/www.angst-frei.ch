@@ -4,7 +4,7 @@ redirect:      https://www.dieostschweiz.ch/artikel/objektive-zahlen-gegen-profe
 title:         Die Ostschweiz
 subtitle:      'Objektive Zahlen gegen professoralen Unsinn'
 description:   'Natürlich stösst es auf Gegenwehr, wenn man dem höchsten Wissenschaftler der Schweiz vorwirft, Unsinn zu schwatzen. Das tut man nur, wenn es leider stimmt.'
-country:       CH
+country:       [CH]
 categories:    [Zahlen]
 tags:          [massnahmen]
 ---

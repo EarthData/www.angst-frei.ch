@@ -4,7 +4,7 @@ redirect:      https://corona-transition.org/spanische-regierung-will-geistig-be
 title:         Corona Transition
 subtitle:      'Spanische Regierung will geistig behinderte Kinder und Jugendliche mit Pfizer/BioNTech impfen lassen'
 description:   'Die spanische Regierung will auch Kinder und Teenager völlig unerprobten mRNA-Impfstoffen aussetzen. Dies obwohl Experten in der ganzen Welt davor (...)'
-country:       ES
+country:       [ES]
 categories:    [Impfung, Politik]
 tags:          [kind, jugend, willkür]
 ---

@@ -4,7 +4,7 @@ redirect:      https://corona-blog.net/2021/05/11/bildung-nur-noch-mit-impfung-i
 title:         corona-blog.net
 subtitle:      'Bildung nur noch mit Impfung? Irritierender Beschluss der Bundesärztekammer'
 description:   'Die Bundesärztekammer warnt vor den „deutlichen gesundheitlichen“ Folgen einer Corona Erkrankung bei Kindern. Sie fordert eine Impfstrategie für unter 16…'
-country:       DE
+country:       [DE]
 categories:    [Medizin, Recht, Impfung]
 tags:          [kind, jugend, impfzwang]
 ---

@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/statistisch-bewiesen-impfungen-lassen-
 title:         Wochenblick
 subtitle:      'Statistisch bewiesen: Impfungen lassen Sterblichkeit explodieren'
 description:   'Von den auffällig häufigen Nebenwirkungen abgesehen, sterben auch in Ländern mit hoher Impfrate nicht signifikant weniger Menschen.'
-country:       AT
+country:       [AT]
 categories:    [Zahlen, Impfung]
 tags:          [sterblichkeit]
 ---

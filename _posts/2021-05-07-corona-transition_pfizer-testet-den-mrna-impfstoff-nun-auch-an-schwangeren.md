@@ -4,7 +4,7 @@ redirect:      https://corona-transition.org/pfizer-testet-den-mrna-impfstoff-nu
 title:         Corona Transition
 subtitle:      'Pfizer testet den mRNA-Impfstoff nun auch an Schwangeren'
 description:   'Der Deutsche Impfstoffhersteller BioNTech und der amerikanische Pharmakonzern Pfizer starteten Anfangs Februar eine Studie über die Sicherheit, (...)'
-country:       CH
+country:       [CH]
 categories:    [Impfung]
 tags:          [biontech]
 ---

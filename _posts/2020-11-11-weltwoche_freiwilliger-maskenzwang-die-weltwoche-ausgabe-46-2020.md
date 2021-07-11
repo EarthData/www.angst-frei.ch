@@ -4,7 +4,7 @@ redirect:      https://www.weltwoche.ch/ausgaben/2020-46/diese-woche/freiwillige
 title:         Weltwoche
 subtitle:      'Freiwilliger Maskenzwang'
 description:   'Das Covid-19-Regime steckt voller Widerspr&uuml;che. Beh&ouml;rdliche Willk&uuml;r ist programmiert.'
-country:       CH
+country:       [CH]
 categories:    [Recht, Politik, Behörde]
 tags:          [maske, willkür]
 ---

@@ -4,7 +4,7 @@ redirect:      https://web.archive.org/web/20201101161006/https://www.who.int/ne
 title:         World Health Organization
 subtitle:      'Coronavirus disease (COVID-19): Serology'
 timeline:      WHO
-country:       ORG
+country:       [ORG]
 categories:    [Wissenschaft]
 tags:          [who, immunität]
 ---

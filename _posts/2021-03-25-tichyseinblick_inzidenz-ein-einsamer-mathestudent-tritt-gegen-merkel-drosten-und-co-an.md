@@ -4,7 +4,7 @@ redirect:      https://www.tichyseinblick.de/kolumnen/alexander-wallasch-heute/i
 title:         Tichys Einblick
 subtitle:      'Ein einsamer Mathestudent tritt gegen Merkel, Drosten und Co an'
 description:   'Schönherr hat die Inzidenz-Zahlen des Berchtesgadener Landes korrekt berechnet und – ohne dass es eines Wunders bedurfte – sank der Inzidenzwert schwuppdiwupp von 89 auf 29.'
-country:       DE
+country:       [DE]
 categories:    [Zahlen, Widerstand]
 tags:          []
 ---

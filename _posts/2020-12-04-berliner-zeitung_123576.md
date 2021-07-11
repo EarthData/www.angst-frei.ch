@@ -4,7 +4,7 @@ redirect:      https://www.berliner-zeitung.de/news/kubicki-ermittlung-der-coron
 title:         Berliner Zeitung
 subtitle:      'Kubicki: Ermittlung der Corona-Inzidenzwerte ist unseriös'
 description:   'Die Inzidenzwerte sind Schwankungen bei der Zahl der Corona-Tests ausgesetzt. Das Gesundheitsministerium kann keine entsprechend bereinigte Darstellung liefern.'
-country:       DE
+country:       [DE]
 categories:    [MSM, Zahlen]
 tags:          [manipulation]
 ---

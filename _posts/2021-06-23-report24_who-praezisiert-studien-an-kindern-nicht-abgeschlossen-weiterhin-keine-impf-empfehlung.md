@@ -4,7 +4,7 @@ redirect:      https://report24.news/who-praezisiert-studien-an-kindern-nicht-ab
 title:         Report24
 subtitle:      'WHO präzisiert: Studien an Kindern nicht abgeschlossen, weiterhin keine Impf-Empfehlung'
 description:   'Woher nimmt die Politik die Erkenntnis, dass Impfungen ab 12 Jahren sicher wären, wenn die WHO betont, die Studien wären nicht abgeschlossen?'
-country:       AT
+country:       [AT]
 categories:    [Impfung]
 tags:          [kind, jugend, who]
 ---

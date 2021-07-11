@@ -4,7 +4,7 @@ redirect:      https://www.weltwoche-daily.ch/beitrag/berset-lobeshymne-auf-das-
 title:         Weltwoche daily
 subtitle:      'Alain Berset lobt das italienische Spital-System – hat er sich einmal in italienischen Krankenhäusern umgesehen?'
 description:   'Alain Berset lobt das italienische Spital-System – hat er sich einmal in italienischen Krankenhäusern umgesehen?'
-country:       IT
+country:       [IT]
 categories:    [Spital, Politik]
 tags:          [bundesrat]
 ---

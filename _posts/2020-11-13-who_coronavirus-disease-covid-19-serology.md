@@ -4,7 +4,7 @@ redirect:      https://web.archive.org/web/20201114155259/https://www.who.int/ne
 title:         WHO
 subtitle:      'COVID-19: Serology, antibodies and immunity'
 timeline:      WHO
-country:       ORG
+country:       [ORG]
 categories:    [Wissenschaft]
 tags:          [who, immunität]
 ---

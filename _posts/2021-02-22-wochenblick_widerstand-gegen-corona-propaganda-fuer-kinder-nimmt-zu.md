@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/widerstand-gegen-corona-propaganda-fue
 title:         Wochenblick
 subtitle:      'Widerstand gegen Corona-Propaganda für Kinder nimmt zu'
 description:   'Wochenblick berichtete bereits im September. Wie man Kindern Mut macht, indem man sie vor einem Virus ängstigt, bleibt offen.'
-country:       AT
+country:       [AT]
 categories:    [Widerstand]
 tags:          [kind, kollateralschäden, manipulation]
 ---

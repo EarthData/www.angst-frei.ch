@@ -4,7 +4,7 @@ redirect:      https://www.berliner-zeitung.de/gesundheit-oekologie/masken-leid-
 title:         Berliner Zeitung
 subtitle:      'Masken-Leid: Hautärzte registrieren vermehrt Entzündungen im Gesicht'
 description:   'Viren, Bakterien und Pilze fühlen sich im feucht-warmen Milieu unter dem Mund-Nasen-Schutz pudelwohl.'
-country:       DE
+country:       [DE]
 categories:    [MSM, Medizin]
 tags:          [maske]
 ---

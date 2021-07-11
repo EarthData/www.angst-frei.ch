@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/experte-laesst-aufhorchen-mundspuelung
 title:         Wochenblick
 subtitle:      'Experte lässt aufhorchen: Mundspülung könnte gegen Corona vorbeugen'
 description:   'Durch das Gurgeln einer medizinischen Mundspülung, die gegen das Virus vorbeugen sollen, wären harte Maßnahmen niemals nötig gewesen.'
-country:       AT
+country:       [AT]
 categories:    [Medizin, Gesundheit]
 tags:          [therapeutikum]
 ---

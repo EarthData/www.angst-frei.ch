@@ -4,7 +4,7 @@ redirect:      https://corona-transition.org/in-florida-erkranken-dutzende-an-co
 title:         Corona Transition
 subtitle:      'In Florida erkranken Dutzende an COVID-19 nach vollständiger Impfung'
 description:   'Der führende US-Epidemiologe Anthony Fauci nimmt die Fälle «sehr ernst». Die Fälle erscheinen nicht nur in Florida, sondern überall in den USA. Das (...)'
-country:       US
+country:       [US]
 categories:    [Impfung]
 tags:          [immunität]
 ---

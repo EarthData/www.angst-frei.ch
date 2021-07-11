@@ -4,7 +4,7 @@ redirect:      https://corona-transition.org/die-schweizer-regierung-soll-transp
 title:         Corona Transition
 subtitle:      'Schweizer Regierung soll Transparenz schaffen'
 description:   'Am 28. Februar 2020 rief die Schweizer Regierung die besondere und am 16. März 2020 die ausserordentliche Lage gemäss Epidemiengesetz aus. Von (...)'
-country:       CH
+country:       [CH]
 categories:    [Widerstand, Politik]
 tags:          [petition, bundesrat]
 ---

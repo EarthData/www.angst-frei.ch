@@ -4,7 +4,7 @@ redirect:      https://www.infosperber.ch/gesundheit/public-health/corona-impfun
 title:         INFOsperber
 subtitle:      'Corona-Impfung: Das Kleingedruckte bei den Risiken'
 description:   'Einige Geimpfte könnten schwerer erkranken als Ungeimpfte. Obwohl Fachleute vor solchen Szenarien warnen, wird nicht informiert.'
-country:       CH
+country:       [CH]
 categories:    [Impfung]
 tags:          [impf-nebenwirkungen]
 ---

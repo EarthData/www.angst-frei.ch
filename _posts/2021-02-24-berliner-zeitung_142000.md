@@ -4,7 +4,7 @@ redirect:      https://www.berliner-zeitung.de/news/lockdown-obi-media-markt-und
 title:         Berliner Zeitung
 subtitle:      'Lockdown: Obi, Media Markt und Peek & Cloppenburg klagen gegen Schließungen'
 description:   'Eine Rechtsanwaltskanzlei bereitet zudem eine Sammelklage Hunderter Einzelhändler auf Schadenersatz vor. Weit über 300 Händler beteiligen sich daran.'
-country:       DE
+country:       [DE]
 categories:    [Recht, Widerstand, MSM]
 tags:          [lockdown]
 ---

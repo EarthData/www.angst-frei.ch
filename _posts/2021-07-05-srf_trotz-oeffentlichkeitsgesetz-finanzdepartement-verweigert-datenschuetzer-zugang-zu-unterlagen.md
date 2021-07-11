@@ -4,7 +4,7 @@ redirect:      https://www.srf.ch/news/schweiz/trotz-oeffentlichkeitsgesetz-fina
 title:         SRF
 subtitle:      'Trotz Öffentlichkeitsgesetz - Finanzdepartement verweigert Datenschützer Zugang zu Unterlagen'
 description:   'Der Eidgenössische Datenschutz- und Öffentlichkeitsbeauftragte und das Finanzdepartement sind heftig aneinander geraten.'
-country:       CH
+country:       [CH]
 categories:    [Politik, Recht, Wirtschaft]
 tags:          [zensur]
 ---

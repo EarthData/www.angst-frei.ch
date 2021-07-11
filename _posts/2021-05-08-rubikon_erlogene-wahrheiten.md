@@ -2,7 +2,7 @@
 date:          2021-05-08
 title:         Rubikon
 subtitle:      'Erlogene Wahrheiten'
-country:       DE
+country:       [DE]
 categories:    [Mensch]
 tags:          [manipulation]
 ---

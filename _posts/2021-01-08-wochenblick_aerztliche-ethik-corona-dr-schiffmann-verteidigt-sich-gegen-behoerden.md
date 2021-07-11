@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/aerztliche-ethik-corona-dr-schiffmann-
 title:         Wochenblick
 subtitle:      'Ärztliche Ethik & Corona: Dr. Schiffmann verteidigt sich gegen Behörden'
 description:   'Der beliebte HNO Arzt Bodo Schiffmann kämpft gegen brutale Repressalien des Staates. In einer Erklärung hat er umfangreiche wissenschaftliche Argumente zusammengefasst.'
-country:       AT
+country:       [AT]
 categories:    [Medizin, Behörde, Recht]
 tags:          [willkür]
 ---

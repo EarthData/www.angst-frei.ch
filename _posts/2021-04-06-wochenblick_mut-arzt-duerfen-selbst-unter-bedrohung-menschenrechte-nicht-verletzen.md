@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/mut-arzt-duerfen-selbst-unter-bedrohun
 title:         Wochenblick
 subtitle:      'Mut-Arzt: Dürfen "selbst unter Bedrohung" Menschenrechte nicht verletzen'
 description:   'Aufgrund seines ärztlichen Eides und seiner christlichen Überzeugung will er sich nicht dem Maßnahmen-Terror beugen. '
-country:       AT
+country:       [AT]
 categories:    [Medizin, Widerstand]
 tags:          [menschenrechte]
 ---

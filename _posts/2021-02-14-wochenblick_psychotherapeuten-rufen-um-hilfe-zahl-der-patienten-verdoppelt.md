@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/psychotherapeuten-rufen-um-hilfe-zahl-
 title:         Wochenblick
 subtitle:      'Psychotherapeuten rufen um Hilfe - Zahl der Patienten verdoppelt'
 description:   'Eine Umfrage unter Psychotherapeuten zeigt, dass durch die Corona-Maßnahmen immer mehr Menschen am Rande des Nervenzusammenbruchs sind.'
-country:       AT
+country:       [AT]
 categories:    [Mensch]
 tags:          [kollateralschäden]
 ---

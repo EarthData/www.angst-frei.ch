@@ -4,7 +4,7 @@ redirect:      https://www.weltwoche-daily.ch/beitrag/nein-herr-bundespraesident
 title:         Weltwoche daily
 subtitle:      'Nein, Herr Bundespräsident: Impfen gegen Covid-19 ist keine Bürgerpflicht, sondern die freie Entscheidung von jedem Schweizer'
 description:   'Viele Menschen sind nicht bereit, das Versuchskaninchen für die Pharmaindustrie zu spielen. Das muss man respektieren. Von Hubert Mooser'
-country:       CH
+country:       [CH]
 categories:    [Impfung, Politik]
 tags:          [bundesrat, demokratie, grundrechte]
 ---

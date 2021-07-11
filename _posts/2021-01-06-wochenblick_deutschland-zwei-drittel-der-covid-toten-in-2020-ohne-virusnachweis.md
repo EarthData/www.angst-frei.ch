@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/deutschland-zwei-drittel-der-covid-tot
 title:         Wochenblick
 subtitle:      'Deutschland: zwei Drittel der Covid-Toten in 2020 ohne Virusnachweis'
 description:   'Die WHO änderte einen Code - und somit wurde ein Vorgang möglich, der an Betrug denken lässt.'
-country:       AT
+country:       [AT]
 categories:    [Zahlen]
 tags:          [sterblichkeit, who]
 ---

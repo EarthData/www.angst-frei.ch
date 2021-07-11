@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/studie-jedes-dritte-kind-psychisch-auf
 title:         Wochenblick
 subtitle:      'Studie: Jedes dritte Kind psychisch auffällig durch Corona-Maßnahmen'
 description:   'Die Corona-Maßnahmen verursachen bei Kindern unsägliches Leid - auch eine Studie belegt das nun. Politiker indes reagieren nicht.'
-country:       AT
+country:       [AT]
 categories:    [Mensch, Studie]
 tags:          [kind, massnahmen]
 ---

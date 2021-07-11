@@ -3,7 +3,7 @@ date:          2021-05-22
 redirect:      https://www.rubikon.news/artikel/der-widerstands-burnout
 title:         Rubikon
 subtitle:      'Der Widerstands-Burnout'
-country:       DE
+country:       [DE]
 categories:    [Mensch, Widerstand]
 tags:          [angst, kollateralschäden]
 ---

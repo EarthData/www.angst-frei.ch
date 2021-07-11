@@ -4,7 +4,7 @@ date:          2021-06-26
 redirect:      https://www.rubikon.news/artikel/die-mrna-plandemie
 title:         Rubikon
 subtitle:      'Die mRNA-Plandemie'
-country:       DE
+country:       [DE]
 categories:    [Impfung]
 tags:          [manipulation, moderna]
 ---

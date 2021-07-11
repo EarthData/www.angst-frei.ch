@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/hintergruende-der-corona-impfung-gesun
 title:         Wochenblick
 subtitle:      'Hintergründe der Corona-Impfung: Gesundheit oder Korruption?'
 description:   'Große Eile, kaum Studien, beträchtliche Nebenwirkungen - hier finden Sie den kompletten Stand der Erkenntnisse zur Corona-Impfung.'
-country:       AT
+country:       [AT]
 categories:    [Impfung, Recht]
 tags:          [impf-nebenwirkungen]
 ---

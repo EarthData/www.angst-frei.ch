@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/anwalt-belegt-testpositive-sind-keine-
 title:         Wochenblick
 subtitle:      'Anwalt belegt: Testpositive sind keine Infizierten. "Die Pandemie ist vorbei!"'
 description:   'Anwälte und Wissenschaftler kommen auf Basis öffentlicher Studienergebnisse zu dem Schluss, dass keine gefährliche Pandemie existiert.'
-country:       AT
+country:       [AT]
 categories:    [Recht]
 tags:          [pcr-test]
 ---

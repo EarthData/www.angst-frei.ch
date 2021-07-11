@@ -4,7 +4,7 @@ redirect:      https://www.swissmedic.ch/swissmedic/de/home/news/coronavirus-cov
 title:         Swissmedic
 subtitle:      "Nebenwirkungen der Covid-19 Impfungen in der Schweiz – Update"
 timeline:      Schweiz
-country:       CH
+country:       [CH]
 categories:    [Impfung]
 tags:          [swissmedic, impf-nebenwirkungen]
 ---

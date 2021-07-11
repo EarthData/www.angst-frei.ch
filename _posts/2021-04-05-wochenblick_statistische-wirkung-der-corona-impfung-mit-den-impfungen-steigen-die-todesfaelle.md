@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/statistische-wirkung-der-corona-impfun
 title:         Wochenblick
 subtitle:      'Statistische Wirkung der Corona-Impfung: Mit den Impfungen steigen die Todesfälle'
 description:   'Innerhalb von bis zu 30 Tagen seit Impfbeginn ist durchaus kein nachweisbarer positiver Effekt der Impfungen zu erwarten. Ist das logisch?'
-country:       AT
+country:       [AT]
 categories:    [Impfung, Zahlen]
 tags:          [mit oder an impfung gestorben]
 ---

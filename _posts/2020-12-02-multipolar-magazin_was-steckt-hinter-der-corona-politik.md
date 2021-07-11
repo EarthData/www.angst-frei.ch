@@ -4,7 +4,7 @@ redirect:      https://multipolar-magazin.de/artikel/was-steckt-hinter-der-coron
 title:         multipolar
 subtitle:      'Was steckt hinter der Corona-Politik?'
 description:   'Geht es wirklich um Gesundheitsschutz? Welche Rolle spielt ein Börsenbeben im September 2019?'
-country:       DE
+country:       [DE]
 categories:    [Politik, Zahlen]
 tags:          [massnahmen, manipulation]
 ---

@@ -4,7 +4,7 @@ redirect:      https://www.berliner-zeitung.de/politik-gesellschaft/anwaeltin-wi
 title:         Berliner Zeitung
 subtitle:      'Anwältin: „Widerstand aus der Mitte der Gesellschaft wächst“'
 description:   'Die Anwältin Jessica Hamed beobachtet: Angesichts der andauernden Einschränkungen der Grundrechte sagen viele Menschen, das Maß sei voll.'
-country:       DE
+country:       [DE]
 categories:    [Recht, Widerstand]
 tags:          [grundrechte]
 ---

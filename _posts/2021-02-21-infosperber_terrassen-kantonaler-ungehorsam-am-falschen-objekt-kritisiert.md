@@ -4,7 +4,7 @@ redirect:      https://www.infosperber.ch/politik/lobbys/terrassen-kantonaler-un
 title:         INFOsperber
 subtitle:      'Terrassen: Kantonaler Ungehorsam am falschen Objekt kritisiert'
 description:   'Einige Kantone erlauben es, Take-Away-Menus auf Terrassen an Tischen zu geniessen. Dies geniesst breite Sympathie.'
-country:       CH
+country:       [CH]
 categories:    [Widerstand]
 tags:          [lockdown]
 ---

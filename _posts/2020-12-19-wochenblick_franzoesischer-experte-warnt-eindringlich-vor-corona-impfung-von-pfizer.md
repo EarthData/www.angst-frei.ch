@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/franzoesischer-experte-warnt-eindringl
 title:         Wochenblick
 subtitle:      'Französischer Experte warnt eindringlich vor Corona-Impfung von Pfizer!'
 description:   'Der Experte für Infektionskrankheiten Eric Caumes warnt vor der Impfung mit dem Pfizer-Impfstoff: Nie habe er so viele Nebenwirkungen gesehen!'
-country:       AT
+country:       [AT]
 categories:    [Impfung]
 tags:          [impf-nebenwirkungen, biontech]
 ---

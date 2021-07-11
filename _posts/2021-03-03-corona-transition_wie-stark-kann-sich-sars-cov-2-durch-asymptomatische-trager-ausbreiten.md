@@ -4,7 +4,7 @@ redirect:      https://corona-transition.org/wie-stark-kann-sich-sars-cov-2-durc
 title:         Corona Transition
 subtitle:      'Wie stark kann sich SARS-CoV-2 durch asymptomatische Träger ausbreiten?'
 description:   'Vier Forscher des Instituts für Biostatistik der Universität von Florida haben gemeinsam eine Studie verfasst, die online im Journal der American (...)'
-country:       CH
+country:       [CH]
 categories:    [Wissenschaft]
 tags:          [asymptomatisch]
 ---

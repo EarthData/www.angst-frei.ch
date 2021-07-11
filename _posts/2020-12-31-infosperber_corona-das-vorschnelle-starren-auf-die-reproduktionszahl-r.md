@@ -4,7 +4,7 @@ redirect:      https://www.infosperber.ch/gesundheit/public-health/corona-das-vo
 title:         INFOsperber
 subtitle:      'Corona: Das vorschnelle Starren auf die Reproduktionszahl R'
 description:   'Für Lockdowns und Shutdowns gilt die Reproduktionszahl R als wichtiges Kriterium. Besonders wissenschaftlich ist diese Zahl nicht.'
-country:       CH
+country:       [CH]
 categories:    [Zahlen]
 tags:          [r-wert]
 ---

@@ -2,7 +2,7 @@
 date:          2021-05-07
 title:         Rubikon
 subtitle:      'Der Covidianische Kult'
-country:       DE
+country:       [DE]
 categories:    [Mensch]
 tags:          [manipulation]
 ---

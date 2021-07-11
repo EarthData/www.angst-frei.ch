@@ -4,7 +4,7 @@ redirect:      https://www.infosperber.ch/gesundheit/public-health/impfungen-als
 title:         INFOsperber
 subtitle:      '«Impfungen als Allheilmittel ist eine gefährliche Strategie»'
 description:   'Herzchirurg Paul R. Vogt wirft den Behörden Ignoranz vor, weil sie nur auf Impfungen und nicht ebenso auf Medikamente setzen.'
-country:       CH
+country:       [CH]
 categories:    [Impfung, Medizin]
 tags:          []
 ---

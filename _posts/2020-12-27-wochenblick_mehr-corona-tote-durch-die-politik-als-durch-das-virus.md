@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/mehr-corona-tote-durch-die-politik-als
 title:         Wochenblick
 subtitle:      'Mehr Corona-Tote durch die Politik als durch das Virus?'
 description:   'In einem Seniorenheim in Marburg lässt man Senioren in ihren eigenen Fäkalien liegen. Anderswo werden Patienten sinnlos zu Tode beatmet.'
-country:       AT
+country:       [AT]
 categories:    [Politik, Zahlen]
 tags:          []
 ---

@@ -3,7 +3,7 @@ date:          2021-05-25
 redirect:      https://www.rubikon.news/artikel/stumme-schreie
 title:         Rubikon
 subtitle:      'Stumme Schreie'
-country:       DE
+country:       [DE]
 categories:    [Mensch]
 tags:          [kind, kollateralschäden]
 ---

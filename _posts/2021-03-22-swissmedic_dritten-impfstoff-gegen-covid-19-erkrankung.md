@@ -4,7 +4,7 @@ redirect:      https://www.swissmedic.ch/swissmedic/de/home/news/coronavirus-cov
 title:         Swissmedic
 subtitle:      'Covid-19 Impfstoff von Johnson & Johnson: Swissmedic genehmigt den dritten Impfstoff gegen eine Covid-19 Erkrankung'
 timeline:      Schweiz
-country:       CH
+country:       [CH]
 categories:    [Impfung]
 tags:          [swissmedic, johnson & johnson]
 ---

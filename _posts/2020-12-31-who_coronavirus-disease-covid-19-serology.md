@@ -4,7 +4,7 @@ redirect:      https://www.who.int/news-room/q-a-detail/coronavirus-disease-covi
 title:         WHO
 subtitle:      'Coronavirus disease (COVID-19): Serology, antibodies and immunity'
 timeline:      WHO
-country:       ORG
+country:       [ORG]
 categories:    [Wissenschaft]
 tags:          [who, immunität]
 ---

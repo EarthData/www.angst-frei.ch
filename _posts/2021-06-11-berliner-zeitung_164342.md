@@ -4,7 +4,7 @@ redirect:      https://www.berliner-zeitung.de/politik-gesellschaft/juristin-zum
 title:         Berliner Zeitung
 subtitle:      'Juristin zum Fall Eva Herzig: „Es geht um die Integrität des Körpers“'
 description:   'Die Rechtswissenschaftlerin Katrin Gierhake über die Problematik eines indirekten Impfzwangs und den nötigen rechtlichen Rahmen.'
-country:       DE
+country:       [DE]
 categories:    [Recht, Impfung, Widerstand]
 tags:          [kultur, impfzwang]
 ---

@@ -4,7 +4,7 @@ redirect:      https://www.dieostschweiz.ch/artikel/traurig-aber-wahr-die-schwei
 title:         Die Ostschweiz
 subtitle:      'Traurig, aber wahr: Die Schweiz ist eben doch ein Land wie jedes andere'
 description:   'Ziemlich genau vor einem halben Jahr haben wir alle eine neue Regierung erhalten. Nicht demokratisch gewählt, es war eher ein Putsch. Covid-19 heisst die neue Ordnung, an der sich alles orientiert. Und wir schauen erstaunt zurück - und ziemlich verängstigt nach vorn.'
-country:       CH
+country:       [CH]
 categories:    [Politik]
 tags:          [demokratie, massnahmen]
 ---

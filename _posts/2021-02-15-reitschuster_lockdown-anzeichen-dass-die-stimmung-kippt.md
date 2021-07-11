@@ -4,7 +4,7 @@ redirect:      https://reitschuster.de/post/lockdown-anzeichen-dass-die-stimmung
 title:         reitschuster
 subtitle:      'Lockdown: Anzeichen, dass die Stimmung kippt?'
 description:   'Was passiert da gerade? Selbst Focus Online und Bild machen jetzt groß mit Kritik an Angela Merkel auf. Sind das Anzeichen dafür, dass die Lockdown-Begeisterung wegbrechen könnte?'
-country:       DE
+country:       [DE]
 categories:    [MSM, Widerstand, Politik]
 tags:          [lockdown]
 ---

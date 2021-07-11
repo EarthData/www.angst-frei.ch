@@ -4,7 +4,7 @@ title:       BioNTech
 subtitle:    'BioNTech Announces Pricing of Initial Public Offering'
 description: 'Im Jahr 2019 erfolgte der Börsengang an der Nasdaq. Seit dem 10. Oktober 2019 wird Biontech öffentlich als American Depository Shares (ADS) an der amerikanischen Börse Nasdaq Global Select Market unter dem Tickersymbol BNTX gehandelt.'
 credit:      https://investors.biontech.de/static-files/67160b09-e99b-480f-b84b-cbe8c074a89a
-country:     US
+country:     [US]
 timeline:    P(l)andemie
 group:       Pharmaindustrie
 categories:  [Impfung]

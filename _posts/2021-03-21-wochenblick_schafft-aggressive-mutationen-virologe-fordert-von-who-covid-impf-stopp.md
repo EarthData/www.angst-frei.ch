@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/schafft-aggressive-mutationen-virologe
 title:         Wochenblick
 subtitle:      'Schafft aggressive Mutationen: Virologe fordert von WHO Covid-Impf-Stopp'
 description:   'Schon seit Jahren ist bekannt: Impfungen, die nur den Ausbruch einer Krankheit und nicht die Übertragung des Virus verhindern, können aggressive Virenstämme hervorbringen und fatale Folgen für ungeschützte Lebewesen haben.'
-country:       AT
+country:       [AT]
 persons:       [Vanden Bossche Geert]
 categories:    [Impfung]
 tags:          [virus-mutation, impf-stopp]

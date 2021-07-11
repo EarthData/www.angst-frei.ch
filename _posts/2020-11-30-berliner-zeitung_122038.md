@@ -4,7 +4,7 @@ redirect:      https://www.berliner-zeitung.de/gesundheit-oekologie/internationa
 title:         Berliner Zeitung
 subtitle:      'Weltweite Debatte um Corona-Impfpflicht'
 description:   'Um das Virus zu bezwingen, sollen möglichst viele Menschen geimpft werden. Machen freiwillig genug mit oder soll der Staat seine Bürger dazu verpflichten?'
-country:       DE
+country:       [DE]
 categories:    [MSM, Impfung, Recht]
 tags:          [impfzwang]
 ---

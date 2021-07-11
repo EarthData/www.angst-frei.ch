@@ -4,7 +4,7 @@ redirect:      https://www.dieostschweiz.ch/artikel/unser-land-wird-vom-unbehage
 title:         Die Ostschweiz
 subtitle:      'Unser Land wird vom «Unbehagen» von Epidemiologen regiert'
 description:   'Was uns allen von der jüngsten Corona-Medienkonferenz des Bundesrats bleiben sollte: Es sieht zwar alles besser aus, aber es darf wohl um keinen Preis einfach besser sein. Die Epidemiologen empfinden immer noch «Unbehagen». Und jetzt?'
-country:       CH
+country:       [CH]
 categories:    [Politik]
 tags:          [massnahmen, bundesrat]
 ---

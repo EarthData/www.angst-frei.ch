@@ -4,7 +4,7 @@ redirect:      https://report24.news/dr-roger-hodkinson-warnt-spike-proteine-mac
 title:         Report24
 subtitle:      'Dr. Roger Hodkinson warnt: Spike Proteine machen beide Geschlechter unfruchtbar'
 description:   'Die Gefahren und Nebenwirkungen der neuen Impfechnologie sind nicht erforscht - zu behaupten, sie wäre sicher, ist empörend.'
-country:       AT
+country:       [AT]
 categories:    [Impfung]
 tags:          [impf-nebenwirkungen, spike-protein]
 ---

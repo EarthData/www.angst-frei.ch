@@ -4,7 +4,7 @@ redirect:      https://www.dieostschweiz.ch/artikel/individuelle-freiheit-trotz-
 title:         Die Ostschweiz
 subtitle:      'Individuelle Freiheit trotz Corona-Notrecht'
 description:   'Während das freie Demonstrationsrecht nicht nur in Altdorf faktisch aufgehoben ist, betont die neue Libertäre Partei (ehemals «up!»), dass Individualfreiheit auch ausserhalb von Covid-Notrecht zentral ist. Dies könnte das bürgerliche Lager reformieren. Ein Gastbeitrag von Artur Terekhov.'
-country:       CH
+country:       [CH]
 categories:    [Widerstand, Recht, Politik]
 tags:          [altdorf, demokratie, polizei]
 ---

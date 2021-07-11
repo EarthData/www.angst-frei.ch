@@ -4,7 +4,7 @@ redirect:      https://report24.news/erfinder-der-mrna-impfung-verteidigt-kolleg
 title:         Report24
 subtitle:      'Erfinder der mRNA-Impfung verteidigt Kollegen: Richtig auf giftiges Spike-Protein hinzuweisen'
 description:   'Der Erfinder des Impfprinzips schließt sich den Sicherheitsbedenken zu Spike-Proteinen an - und fordert wissenschaftlichen Diskurs ein.'
-country:       AT
+country:       [AT]
 categories:    [Impfung, Wissenschaft]
 tags:          [spike-protein]
 ---

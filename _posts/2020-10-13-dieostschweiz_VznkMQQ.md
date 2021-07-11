@@ -4,7 +4,7 @@ redirect:      https://www.dieostschweiz.ch/artikel/liebe-frau-low-wollen-sie-di
 title:         Die Ostschweiz
 subtitle:      'Liebe Frau Low, wollen Sie die Beizer endgültig kaputtmachen?'
 description:   'Die Frau, die den Bundesrat in Sachen Corona berät, spricht sich in einem Interview gegen den Besuch von Restaurants aus. Eine Branche, die bereits an die Grenzen des Machbaren geführt wurde - oder darüber hinaus - wird behördlich legitimiert noch einmal angeschossen. Das ist verantwortungslos.'
-country:       CH
+country:       [CH]
 categories:    [Wirtschaft]
 tags:          [taskforce, lockdown2]
 ---

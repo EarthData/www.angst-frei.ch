@@ -4,7 +4,7 @@ redirect:      https://www.infosperber.ch/wirtschaft/konzerne/misstrauen-gegen-i
 title:         INFOsperber
 subtitle:      'Misstrauen gegen Impfhersteller kommt nicht von ungefähr'
 description:   'Pharmakonzerne müssen sich selber an der Nase nehmen, wenn man ihnen unterschiebt, Arzneimittelstudien zurechtzubiegen.'
-country:       CH
+country:       [CH]
 categories:    [Impfung]
 tags:          [manipulation]
 ---

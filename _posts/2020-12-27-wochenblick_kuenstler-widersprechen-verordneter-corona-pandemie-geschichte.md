@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/kuenstler-widersprechen-verordneter-co
 title:         Wochenblick
 subtitle:      'Künstler widersprechen verordneter Corona-Pandemie-Geschichte'
 description:   'Publikumgslieblinge wie Düringer und Proll lassen aufhorchen. Weder glauben sie an eine Corona-Pandemie, noch haben sie Lust auf Diktatur.'
-country:       AT
+country:       [AT]
 categories:    [Widerstand]
 tags:          [massnahmen, kultur]
 ---

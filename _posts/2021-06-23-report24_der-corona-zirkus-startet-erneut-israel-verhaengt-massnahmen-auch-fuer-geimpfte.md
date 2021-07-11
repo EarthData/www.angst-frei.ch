@@ -4,7 +4,7 @@ redirect:      https://report24.news/der-corona-zirkus-startet-erneut-israel-ver
 title:         Report24
 subtitle:      'Der Corona-Zirkus startet erneut: Israel verhängt Maßnahmen - auch für Geimpfte'
 description:   'Die Hoffnung, der Corona-Zirkus gehe nach all den enttarnten Lügen der Politik zu Ende, der irrt.'
-country:       IL
+country:       [IL]
 categories:    [Gesundheit]
 tags:          [massnahmen, virus-mutation]
 ---

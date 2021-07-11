@@ -3,7 +3,7 @@ date:          2020-10-31
 redirect:      https://www.rubikon.news/artikel/die-totale-ermachtigung
 title:         Rubikon
 subtitle:      'Die totale Ermächtigung'
-country:       DE
+country:       [DE]
 categories:    [Politik, Recht]
 tags:          [massnahmen, demokratie]
 ---

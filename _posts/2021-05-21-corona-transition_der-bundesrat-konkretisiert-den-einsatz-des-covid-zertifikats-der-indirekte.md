@@ -4,7 +4,7 @@ redirect:      https://corona-transition.org/der-bundesrat-konkretisiert-den-ein
 title:         Corona Transition
 subtitle:      'Der Bundesrat konkretisiert den Einsatz des «Covid-Zertifikats» – der indirekte Test- und Impfzwang würde damit zur Realität'
 description:   'An seiner Sitzung vom 19. Mai hat der Bundesrat den Einsatz des sogenannten «Covid-Zertifikats» konkretisiert. Mit diesem Nachweis für geimpfte, (...)'
-country:       CH
+country:       [CH]
 categories:    [Politik]
 tags:          [bundesrat, impfpass, impfzwang]
 ---

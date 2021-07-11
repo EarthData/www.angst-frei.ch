@@ -4,7 +4,7 @@ redirect:      https://reitschuster.de/post/nichtigkeitsklage-gegen-die-zulassun
 title:         reitschuster
 subtitle:      'Nichtigkeitsklage gegen die Zulassung des BioNTech-Impfstoffs'
 description:   'Juristischer Paukenschlag gegen die Impfstoffhersteller: Eine Nichtigkeitsklage soll die zentralisierte Zulassung des BioNTech-Impfstoffs "Comirnaty" unterbinden. Kläger sind 36 Südtiroler.'
-country:       DE
+country:       [DE]
 categories:    [Recht, Impfung]
 tags:          [biontech]
 ---

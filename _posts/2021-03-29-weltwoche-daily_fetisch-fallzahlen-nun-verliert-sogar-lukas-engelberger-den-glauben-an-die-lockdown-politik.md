@@ -4,7 +4,7 @@ redirect:      https://www.weltwoche-daily.ch/beitrag/fetisch-fallzahlen-nun-ver
 title:         Weltwoche daily
 subtitle:      'Falscher Fetisch Fallzahlen – nun verliert sogar Lukas Engelberger den Glauben an die Lockdown-Politik'
 description:   'Falscher Fetisch Fallzahlen – nun verliert sogar Lukas Engelberger den Glauben an die Lockdown-Politik'
-country:       CH
+country:       [CH]
 categories:    [Zahlen]
 tags:          [manipulation]
 ---

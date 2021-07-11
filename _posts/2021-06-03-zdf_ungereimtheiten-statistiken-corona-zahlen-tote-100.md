@@ -4,7 +4,7 @@ redirect:      https://www.zdf.de/nachrichten/zdf-morgenmagazin/ungereimtheiten-
 title:         ZDF
 subtitle:      'Ungereimtheiten bei den Corona-Zahlen'
 description:   'Unter Corona-Toten sind viele, die über 10 Wochen nach ihrer Erkrankung gestorben sind. Sollte man sie als Corona-Tote zählen? Experten sehen Fehler bei der statistischen Erfassung der Pandemie.'
-country:       DE
+country:       [DE]
 categories:    [Zahlen, Video]
 tags:          [manipulation, sterblichkeit]
 ---

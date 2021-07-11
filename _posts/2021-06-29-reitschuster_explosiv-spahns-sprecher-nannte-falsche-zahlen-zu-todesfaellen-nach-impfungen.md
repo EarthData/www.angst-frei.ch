@@ -4,7 +4,7 @@ redirect:      https://reitschuster.de/post/explosiv-spahns-sprecher-nannte-fals
 title:         reitschuster
 subtitle:      'Explosiv: Spahns Sprecher nannte falsche Zahlen zu Todesfällen nach Impfungen'
 description:   'Von Transparenz keine Spur im System Spahn. »Der Gesundheitsminister und sein Sprecher informieren die Medien nicht, sondern dirigieren sie«, so der Tagesspiegel. Dafür sorgt Spahns Sprecher Kautz. Der informiert auch mal mit falschen Zahlen und der Unwahrheit. Ein Gastbeitrag von Gregor Amelung.'
-country:       DE
+country:       [DE]
 categories:    [Politik, Zahlen]
 tags:          [manipulation, mit oder an impfung gestorben]
 ---

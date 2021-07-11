@@ -4,7 +4,7 @@ redirect:      https://www.berliner-zeitung.de/politik-gesellschaft/heribert-pra
 title:         Berliner Zeitung
 subtitle:      'Heribert Prantl: „Ich hoffe, dass die Gesellschaft aufwacht“'
 description:   'Der frühere Politik-Chef der Süddeutschen Zeitung und Jurist sagt: Das Grundgesetz steht nicht unter Pandemie-Vorbehalt.'
-country:       DE
+country:       [DE]
 categories:    [MSM, Mensch]
 tags:          [demokratie, massnahmen, manipulation]
 ---

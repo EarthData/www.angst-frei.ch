@@ -4,7 +4,7 @@ redirect:      https://report24.news/studie-doppelt-geimpfte-sterben-6-fach-haeu
 title:         Report24
 subtitle:      'Studie: Doppelt Geimpfte sterben 6-fach häufiger als Ungeimpfte an Delta-Variante'
 description:   'Diese Zahlen stellen den Nutzen der Impfungen massiv in Frage.'
-country:       AT
+country:       [AT]
 categories:    [Studie, Impfung]
 tags:          [virus-mutation, mit oder an impfung gestorben]
 ---

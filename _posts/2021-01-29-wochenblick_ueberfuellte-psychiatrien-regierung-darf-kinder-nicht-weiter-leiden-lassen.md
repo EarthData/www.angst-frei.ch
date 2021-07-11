@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/ueberfuellte-psychiatrien-regierung-da
 title:         Wochenblick
 subtitle:      'Überfüllte Psychiatrien: Regierung darf Kinder nicht weiter leiden lassen!'
 description:   'Der Linzer Vizebürgermeister Markus Hein (FPÖ) fordert die sofortige Öffnung der Schulen und spezielle Fördermaßnahmen.'
-country:       AT
+country:       [AT]
 categories:    [Mensch, Politik]
 tags:          [kind, massnahmen]
 ---

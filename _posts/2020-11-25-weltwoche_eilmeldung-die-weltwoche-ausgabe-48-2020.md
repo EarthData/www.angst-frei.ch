@@ -4,7 +4,7 @@ redirect:      https://www.weltwoche.ch/ausgaben/2020-48/diese-woche/eilmeldung-
 title:         Weltwoche
 subtitle:      'Reiter der Apokalypse'
 description:   'Mit Horrorprognosen sch&uuml;ren Medienexperten die Angst vor Covid-19. Der Hype um angeblich ausgelastete Intensivbetten ist ein Beispiel unter vielen.'
-country:       CH
+country:       [CH]
 categories:    [MSM, Zahlen]
 tags:          [manipulation]
 ---

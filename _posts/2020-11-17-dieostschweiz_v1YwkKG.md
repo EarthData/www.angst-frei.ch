@@ -4,7 +4,7 @@ redirect:      https://www.dieostschweiz.ch/artikel/den-teufel-mit-dem-beelzebub
 title:         Die Ostschweiz
 subtitle:      'Den Teufel mit dem Beelzebub austreiben?'
 description:   'Ein theologisch-ethischer Kommentar zur zunehmenden Forderung autoritärer Mittel der Corona-Bekämpfung. Ein Gastbeitrag von Benjamin Kilchör, ordentlicher Professor für Altes Testament.'
-country:       CH
+country:       [CH]
 categories:    [MSM, Mensch]
 tags:          [willkür]
 ---

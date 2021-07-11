@@ -4,7 +4,7 @@ redirect:      https://www.berliner-zeitung.de/kultur-vergnuegen/eva-herzig-da-w
 title:         Berliner Zeitung
 subtitle:      'Eva Herzig: „Da wird ein ungeheurer Druck ausgeübt“'
 description:   'Die Schauspielerin Eva Herzig bekam eine Rolle nicht, weil sie sich nicht gegen Corona impfen lassen will. Im Interview erklärt sie, was sie erlebt hat.'
-country:       DE
+country:       [DE]
 categories:    [Impfung, Widerstand]
 tags:          [kultur]
 ---

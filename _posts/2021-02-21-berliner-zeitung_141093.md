@@ -4,7 +4,7 @@ redirect:      https://www.berliner-zeitung.de/politik-gesellschaft/anwaeltin-es
 title:         Berliner Zeitung
 subtitle:      'Anwältin: „Es ist unglaublich, was wir da erleben“'
 description:   'Die Anwältin Jessica Hamed erzählt, aus welchen Gründen ihre Mandanten in der Corona-Pandemie vor Gericht kämpfen müssen.'
-country:       DE
+country:       [DE]
 categories:    [Recht, MSM]
 tags:          [massnahmen]
 ---

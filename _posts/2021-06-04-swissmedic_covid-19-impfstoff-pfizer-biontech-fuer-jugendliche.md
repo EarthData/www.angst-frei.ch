@@ -4,7 +4,7 @@ redirect:      https://www.swissmedic.ch/swissmedic/de/home/news/coronavirus-cov
 title:         Swissmedic
 subtitle:      'Covid-19 Impfstoff von Pfizer/BioNTech in der Schweiz für Jugendliche freigegeben'
 description:   'Swissmedic genehmigt Indikationserweiterung von «Comirnaty®» für 12 bis 15-Jährige'
-country:       CH
+country:       [CH]
 timeline:      Schweiz
 categories:    [Impfung]
 tags:          [biontech, jugend]

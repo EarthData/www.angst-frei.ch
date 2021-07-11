@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/youtube-und-co-zensur-als-waffe-im-inf
 title:         Wochenblick
 subtitle:      'YouTube & Co. bekämpfen Wahrheit: Zensur als Waffe im Informationskrieg'
 description:   'Videos von Experten werden auf YouTube gelöscht - die Zensurwut der Obrigkeit ist schwindelerregend, vor allem seit Corona.'
-country:       AT
+country:       [AT]
 categories:    [MSM]
 tags:          [zensur]
 ---

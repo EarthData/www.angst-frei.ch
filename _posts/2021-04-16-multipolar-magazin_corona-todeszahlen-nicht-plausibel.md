@@ -4,7 +4,7 @@ redirect:      https://multipolar-magazin.de/artikel/corona-todeszahlen-nicht-pl
 title:         multipolar
 subtitle:      'Betrugsverdacht: Warum die Todeszahlen des Robert Koch-Instituts nicht plausibel sind'
 description:   'Laut amtlichen Zahlen gab es 2020 keine Übersterblichkeit. Wie ist das zu erklären?'
-country:       DE
+country:       [DE]
 categories:    [Zahlen]
 tags:          [rki, sterblichkeit, manipulation]
 ---

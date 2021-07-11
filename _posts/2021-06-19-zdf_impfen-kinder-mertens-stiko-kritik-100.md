@@ -4,7 +4,7 @@ redirect:      https://www.zdf.de/nachrichten/panorama/impfen-kinder-mertens-sti
 title:         ZDF
 subtitle:      'Stiko-Chef kritisiert politische Debatte um Kinderimpfungen'
 description:   'Viele Politiker haben vor der Stiko-Empfehlung massiv auf eine umfangreiche Impfung von Kindern gedrängt. Ohne Evidenz, findet der Stiko-Chef.'
-country:       DE
+country:       [DE]
 categories:    [Politik, Impfung]
 tags:          [kind, jugend, stiko]
 ---

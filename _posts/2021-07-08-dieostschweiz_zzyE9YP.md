@@ -4,7 +4,7 @@ redirect:      https://www.dieostschweiz.ch/artikel/was-wirklich-besorgniserrege
 title:         Die Ostschweiz
 subtitle:      'Was wirklich besorgniserregend ist'
 description:   'Das Wort «besorgniserregend» wird in den Leidmedien mittlerweile inflationär zum Einsatz gebracht. Mitten in der coronafreien Zeit schütten Bundesrat, BAG und Nonsens Taskforce uns mit diesem Angstporno von einer immer noch ansteckenderen Virus-Mutation zu.'
-country:       CH
+country:       [CH]
 categories:    [Mensch, MSM, Politik]
 tags:          [angst, kollateralschäden]
 ---

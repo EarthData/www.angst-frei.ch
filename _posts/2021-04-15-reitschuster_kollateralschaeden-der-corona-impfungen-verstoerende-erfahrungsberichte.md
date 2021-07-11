@@ -4,7 +4,7 @@ redirect:      https://reitschuster.de/post/kollateralschaeden-der-corona-impfun
 title:         reitschuster
 subtitle:      'Kollateralschäden der Corona-Impfungen: verstörende Erfahrungsberichte'
 description:   'Es ist nicht immer nur ein »kleiner Pieks«, wie es in den Regierungs-Werbespots so schön heißt. Persönliche Impferfahrungen werden in den überregionalen Medien fast vollständig ignoriert und in den Lokalzeitungen oft nur am Rande abhandelt. Hier einige persönliche Geschichten. GASTBEITRAG.'
-country:       DE
+country:       [DE]
 categories:    [Impfung]
 tags:          [impf-nebenwirkungen]
 ---

@@ -4,7 +4,7 @@ redirect:      https://report24.news/us-pressekonferenz-gibt-welt-hoffnung-medie
 title:         Report24
 subtitle:      'US-Pressekonferenz gibt Welt Hoffnung: Medien, Fauci und China zur Verantwortung ziehen'
 description:   'Republikaner im US-Senat haben den Tisch voller Beweise und die Nase voll: Zahlreiche U-Ausschüsse sollen dunkle Corona-Geheimnisse klären.'
-country:       US
+country:       [US]
 persons:       [Fauci Antony]
 categories:    [Politik, Recht]
 tags:          [virus-ursprung]

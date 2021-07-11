@@ -4,7 +4,7 @@ redirect:      https://corona-transition.org/aarauer-sicherheitsvorsteherin-nimm
 title:         Corona Transition
 subtitle:      'Aarauer Sicherheitsvorsteherin nimmt es mit der Wahrheit nicht so genau'
 description:   'Die Versammlungs-, Meinungs- und Informationsfreiheit sind der Nährboden einer Demokratie. Doch um diese steht es momentan nicht gut. Die (...)'
-country:       CH
+country:       [CH]
 categories:    [Politik, Recht]
 tags:          [grundrechte]
 ---

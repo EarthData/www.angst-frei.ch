@@ -3,7 +3,7 @@ date:          2020-10-30
 redirect:      https://www.rubikon.news/artikel/mut-zur-freiheit
 title:         Rubikon
 subtitle:      'Mut zur Freiheit'
-country:       DE
+country:       [DE]
 categories:    [Mensch, Widerstand]
 tags:          [angst]
 ---

@@ -4,7 +4,7 @@ redirect:      https://www.infosperber.ch/Artikel/Gesundheit/Berufungsgericht-PC
 title:         INFOsperber
 subtitle:      'Berufungsgericht: «PCR-Positive sind nicht alle ansteckend»'
 description:   'Ein Berufungsgericht in Portugal hebt die Quarantäne von Getesteten auf. Der Test sei unzuverlässig. Gericht macht Corona-Politik.'
-country:       PT
+country:       [PT]
 categories:    [Recht]
 tags:          [pcr-test]
 ---

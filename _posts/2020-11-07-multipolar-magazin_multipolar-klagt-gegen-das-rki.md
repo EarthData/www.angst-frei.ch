@@ -4,7 +4,7 @@ redirect:      https://multipolar-magazin.de/artikel/multipolar-klagt-gegen-das-
 title:         multipolar
 subtitle:      'Intransparente Risikobewertung: Multipolar klagt gegen das Robert Koch-Institut'
 description:   'Welche konkreten Kennziffern ergeben eine „hohe Gefährdung“?'
-country:       DE
+country:       [DE]
 categories:    [Recht, Widerstand]
 tags:          [rki, massnahmen]
 ---

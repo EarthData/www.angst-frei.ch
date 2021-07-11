@@ -4,7 +4,7 @@ redirect:      https://reitschuster.de/post/eislauf-star-katarina-witt-platzt-kr
 title:         reitschuster
 subtitle:      'Eislauf-Star Katarina Witt platzt der Kragen: "Zurück in der DDR"'
 description:   '"Die Ähnlichkeit ist verblüffend, was man im Namen ‘zum Wohle des Volkes‘ so kollektiv in so kleinem Kreise einfach durchsetzten kann!", schreibt der DDR-Star - und es hagelt den üblichen Shitstorm der üblichen regierungsnahen Gesinnungswärter.'
-country:       DE
+country:       [DE]
 categories:    [Widerstand]
 tags:          []
 ---

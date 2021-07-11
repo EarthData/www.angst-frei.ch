@@ -4,7 +4,7 @@ redirect:      https://www.dieostschweiz.ch/artikel/hallo-menschlichkeit-ist-jem
 title:         Die Ostschweiz
 subtitle:      'Hallo Menschlichkeit: Ist jemand zu Hause?'
 description:   'Nicht erst seit Corona leben wir in einer verkehrten Welt. Aber heute müssen wir uns fragen: '
-country:       CH
+country:       [CH]
 categories:    [Mensch]
 tags:          [kind]
 ---

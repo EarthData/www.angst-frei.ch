@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/ein-jahr-corona-ausnahmezustand-so-ver
 title:         Wochenblick
 subtitle:      'Ein Jahr Corona-Ausnahmezustand: So verloren wir unsere Demokratie'
 description:   'Die heutige Realität ist die einer Diktatur mit zunehmender Überwachungsstaatlichkeit, die unter dem Schlagwort der "Neuen Normalität" firmiert.'
-country:       AT
+country:       [AT]
 categories:    [Politik]
 tags:          [demokratie]
 ---

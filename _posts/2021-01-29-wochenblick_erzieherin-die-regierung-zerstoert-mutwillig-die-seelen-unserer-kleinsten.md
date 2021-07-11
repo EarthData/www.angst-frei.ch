@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/erzieherin-die-regierung-zerstoert-mut
 title:         Wochenblick
 subtitle:      'Kindergärtnerin: Die Regierung zerstört die Seelen unserer Kleinsten'
 description:   'Packend: Eine Erzieherin schildert, wie die Regierung bereits unsere Kleinsten mutwillig krank macht und seelisch zerstört.'
-country:       AT
+country:       [AT]
 categories:    [Politik, Mensch]
 tags:          [kind, massnahmen]
 ---

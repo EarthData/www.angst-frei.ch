@@ -4,7 +4,7 @@ redirect:      https://www.infosperber.ch/gesundheit/public-health/die-impfungen
 title:         INFOsperber
 subtitle:      'Die Impfungen sind ein Grossversuch mit ungewissem Ausgang'
 description:   'Die Behauptungen, die neuen Impfungen seien entweder unbedenklich oder sie seien gefährlich, sind beide aus der Luft gegriffen.'
-country:       CH
+country:       [CH]
 categories:    [Impfung]
 tags:          []
 ---

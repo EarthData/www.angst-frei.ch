@@ -4,7 +4,7 @@ redirect:      https://multipolar-magazin.de/artikel/internationaler-pandemiever
 title:         multipolar
 subtitle:      'Internationaler Pandemievertrag: Ein globaler Automatismus wird installiert'
 description:   'Entscheidungen über den Umgang mit Epidemien werden dem demokratischen Prozess entzogen.'
-country:       DE
+country:       [DE]
 categories:    [Politik, P(l)andemie]
 tags:          [wef, who]
 ---

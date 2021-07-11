@@ -4,7 +4,7 @@ redirect:      https://reitschuster.de/post/studie-von-top-epidemiologen-infekti
 title:         reitschuster
 subtitle:      'Studie von Top-Epidemiologen: Infektionssterblichkeit von Corona 0,15 Prozent'
 description:   'Eigentlich sollte das neuste Studienergebnis von Prof. Dr. John Ioannidis eine Schlagzeile wert sein, weil es eben auch beruhigend ist. Trotzdem wird es in der deutschen Presse ignoriert. GASTBEITRAG'
-country:       DE
+country:       [DE]
 persons:       [Ioannidis John P.]
 categories:    [Studie]
 tags:          [sterblichkeit]

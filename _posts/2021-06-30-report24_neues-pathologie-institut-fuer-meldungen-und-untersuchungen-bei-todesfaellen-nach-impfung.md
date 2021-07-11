@@ -4,7 +4,7 @@ redirect:      https://report24.news/neues-pathologie-institut-fuer-meldungen-un
 title:         Report24
 subtitle:      'Neues Pathologie-Institut für Meldungen und Untersuchungen bei Todesfällen nach Impfung'
 description:   'Angehörige von Menschen, die nach einer Corona-Impfung verstorben sind, können sich bei dem neuen Institut melden.'
-country:       AT
+country:       [AT]
 categories:    [Medizin, Impfung]
 tags:          [mit oder an impfung gestorben]
 ---

@@ -4,7 +4,7 @@ redirect:      https://corona-transition.org/bag-gegen-die-delta-variante-sind-w
 title:         Corona Transition
 subtitle:      'BAG: Gegen die «Delta-Variante» sind weiterhin Massnahmen notwendig'
 description:   'Die Fallzahlen könnten kaum tiefer sein. Trotzdem herrscht beim Bundesamt für Gesundheit (BAG) weiter Alarmismus. So auch an der gestrigen (...)'
-country:       CH
+country:       [CH]
 categories:    [BAG, Impfung]
 tags:          [virus-mutation, angst]
 ---

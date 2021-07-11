@@ -4,7 +4,7 @@ redirect:      https://reitschuster.de/post/corona-isolation-wie-den-alten-mensc
 title:         reitschuster
 subtitle:      'Corona-Isolation: Wie den alten Menschen die Würde geraubt wird'
 description:   'Alte Menschen, die trotz Impfung im Altenheim weiter isoliert leben müssen, denen die Würde geraubt wird: Als ich gerade über dieses Thema schrieb, kam die Erinnerung an meinen Abschied mit meiner Großmutter wieder hoch, und mit ihr die Tränen. So bitter!'
-country:       DE
+country:       [DE]
 categories:    [Mensch]
 tags:          [kollateralschäden]
 ---

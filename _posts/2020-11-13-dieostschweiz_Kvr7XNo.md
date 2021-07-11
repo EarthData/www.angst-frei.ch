@@ -4,7 +4,7 @@ redirect:      https://www.dieostschweiz.ch/artikel/die-coronamassnahmen-blockie
 title:         Die Ostschweiz
 subtitle:      '«Die Coronamassnahmen blockieren jede Alternative»'
 description:   'Das aktuelle Corona-Management entlastet die Spitäler nicht, sondern erschwert ihre Lage noch, denn sie zwingt zur Hospitalisation. Der Gastbeitrag einer Pflegefachfrau, der als offener Brief an den Bundesrat und an das Bundesamt für Gesundheit geht.'
-country:       CH
+country:       [CH]
 categories:    [Spital]
 tags:          [massnahmen]
 ---

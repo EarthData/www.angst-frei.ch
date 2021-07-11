@@ -4,7 +4,7 @@ redirect:      https://corona-transition.org/richter-des-spanischen-verfassungsg
 title:         Corona Transition
 subtitle:      'Richter des spanischen Verfassungsgerichts stellt fest: Erster «Alarmzustand» im Jahr 2020 war verfassungswidrig'
 description:   'Nach einem Jahr und drei Monaten der brutalen Corona-Massnahmen, der zerstörten Existenzen und des menschlichen Leids hat ein Richter des (...)'
-country:       ES
+country:       [ES]
 categories:    [Recht]
 tags:          [massnahmen]
 ---

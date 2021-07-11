@@ -4,7 +4,7 @@ redirect:      https://www.infosperber.ch/wirtschaft/corona-krise-wird-zur-sozia
 title:         INFOsperber
 subtitle:      'Corona-Krise wird zur sozialen Krise'
 description:   'Die Corona-Krise verschärft die soziale Ungleichheit in der Schweiz. Korrekturen sind notwendig und machbar.'
-country:       CH
+country:       [CH]
 categories:    [Mensch, Wirtschaft]
 tags:          [geld]
 ---

@@ -4,7 +4,7 @@ redirect:      https://report24.news/bizarr-biontech-sucht-schwerkranke-deutsche
 title:         Report24
 subtitle:      'Bizarr: Biontech sucht schwerkranke deutsche Kinder ab 2 Jahren für Dreifach-Impfstudie'
 description:   'Welchen Nutzen haben solche schrecklichen Menschenversuche für den Rest der Bevölkerung?'
-country:       AT
+country:       [AT]
 categories:    [Impfung]
 tags:          [kind, biontech]
 ---

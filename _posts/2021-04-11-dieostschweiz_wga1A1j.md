@@ -4,7 +4,7 @@ redirect:      https://www.dieostschweiz.ch/artikel/chronologie-wie-altdorf-fast
 title:         Die Ostschweiz
 subtitle:      'Chronologie: Wie Altdorf (fast) verhindert wurde'
 description:   'Die nicht bewilligte Kundgebung in Altdorf im Kanton Uri war die Folge eines Verbots, das juristisch auf schwachen Füssen stehen dürfte. Ein Rückblick auf die Ereignisse.'
-country:       CH
+country:       [CH]
 categories:    [Politik, Recht, Widerstand]
 tags:          [altdorf]
 ---

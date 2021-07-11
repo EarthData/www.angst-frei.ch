@@ -4,7 +4,7 @@ redirect:      https://reitschuster.de/post/nur-sechs-mediziner-berieten-regieru
 title:         reitschuster
 subtitle:      'Nur sechs Wissenschaftler berieten Regierung zum Lockdown'
 description:   'Nachdem sie zuerst auf meine Frage hin mauerte, schickte mir die Regierung gerade die Liste der Lockdown-Berater. Es waren nur 6: ein Tierarzt, ein Kinderarzt, ein Virologe, ein Pharmakologe und zwei Physiker. Soziologen? Psychologen? Ökonomen? Keine dabei!'
-country:       DE
+country:       [DE]
 categories:    [Politik]
 tags:          [lockdown, manipulation]
 ---

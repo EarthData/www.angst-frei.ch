@@ -4,7 +4,7 @@ redirect:      https://corona-blog.net/2021/03/03/betreiberin-eines-reisebueros-
 title:         corona-blog.net
 subtitle:      'Betreiberin eines Reisebüros berichtet: „Sieben Kollegen haben sich das Leben genommen'
 description:   'Seit über einem Jahr leben wir nun in einem Lockdown, mal wandelt sich dieser in den „Lockdown Light“, kommt dann aber als Harter Lockdown seit November…'
-country:       DE
+country:       [DE]
 categories:    [Mensch]
 tags:          [sterblichkeit, kollateralschäden]
 ---

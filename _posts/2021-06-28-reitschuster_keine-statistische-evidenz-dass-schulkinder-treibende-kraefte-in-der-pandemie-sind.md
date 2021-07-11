@@ -4,7 +4,7 @@ redirect:      https://reitschuster.de/post/keine-statistische-evidenz-dass-schu
 title:         reitschuster
 subtitle:      '"Keine statistische Evidenz, dass Schulkinder treibende Kräfte in der Pandemie sind“'
 description:   'Die Hospitalisierung ,mit’ oder ,wegen’ COVID-19" stellt für Kinder "kein extremes Risiko dar verglichen mit dem Risiko im Straßenverkehr“. Zu diesem Ergebnis kommen Münchner Wissenschaftler. Von Hubertus Voigt.'
-country:       DE
+country:       [DE]
 categories:    [Schule, Studie, Wissenschaft]
 tags:          [kind]
 ---

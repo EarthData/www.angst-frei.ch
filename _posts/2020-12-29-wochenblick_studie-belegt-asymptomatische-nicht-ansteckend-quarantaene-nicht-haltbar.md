@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/studie-belegt-asymptomatische-nicht-an
 title:         Wochenblick
 subtitle:      'Studie belegt: Symptomlose nicht ansteckend. Quarantäne anfechtbar!'
 description:   'Eine Studie mit 10 Millionen Teilnehmern zeigt: Asymptomatische spielen im Infektionsgeschehen keine Rolle. Anwälte raten zum Widerstand!'
-country:       AT
+country:       [AT]
 categories:    [Studie]
 tags:          [quarantäne, asymptomatisch]
 ---

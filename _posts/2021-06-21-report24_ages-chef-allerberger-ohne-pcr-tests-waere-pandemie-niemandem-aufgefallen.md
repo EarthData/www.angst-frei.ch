@@ -4,7 +4,7 @@ redirect:      https://report24.news/ages-chef-allerberger-ohne-pcr-tests-waere-
 title:         Report24
 subtitle:      'AGES-Chef Allerberger: Ohne PCR-Tests wäre Pandemie niemandem aufgefallen'
 description:   'Ein Interview, das jeder Österreicher aber sicher auch jeder interessierte Deutsche sehen sollte.'
-country:       AT
+country:       [AT]
 categories:    [Zahlen]
 tags:          [pcr-test]
 ---

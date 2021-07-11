@@ -4,7 +4,7 @@ title:       Ereignis
 subtitle:    'Madonna - Madame X'
 description: 'Madame X ist das 14. Studioalbum der US-amerikanischen Sängerin Madonna. Passend zum Auftritt am Eurovision Song Contest 2019 befindet sich auf der Rückseite des Albums eine Schreibmaschine der Marke Corona.' 
 credit:      https://en.wikipedia.org/wiki/Madame_X_(album)
-country:     US
+country:     [US]
 timeline:    P(l)andemie
 group:       Ereignis
 categories:  [P(l)andemie]

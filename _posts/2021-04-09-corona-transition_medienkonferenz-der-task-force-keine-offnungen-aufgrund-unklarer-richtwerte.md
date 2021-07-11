@@ -4,7 +4,7 @@ redirect:      https://corona-transition.org/medienkonferenz-der-task-force-kein
 title:         Corona Transition
 subtitle:      'Medienkonferenz der Task Force: Keine Öffnungen aufgrund unklarer Richtwerte'
 description:   'Man wolle dem Bundesrat nicht vorgreifen, aber die «Richtwerte» würden keine weiteren Öffnungen zulassen, sagte Patrick Mathys, Leiter (...)'
-country:       CH
+country:       [CH]
 categories:    [Politik]
 tags:          [taskforce]
 ---

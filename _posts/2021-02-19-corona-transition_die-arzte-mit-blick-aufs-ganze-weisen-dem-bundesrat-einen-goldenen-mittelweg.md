@@ -4,7 +4,7 @@ redirect:      https://corona-transition.org/die-arzte-mit-blick-aufs-ganze-weis
 title:         Corona Transition
 subtitle:      'Die «Ärzte mit Blick aufs Ganze» weisen dem Bundesrat einen goldenen Mittelweg'
 description:   'Die «Ärzte mit Blick aufs Ganze» (AMBAG) haben dem Bundesrat in einem offenen Brief per einschreiben Vorschläge unterbreitet, «wie die geltenden (...)'
-country:       CH
+country:       [CH]
 categories:    [Medizin, Widerstand]
 tags:          [bundesrat]
 ---

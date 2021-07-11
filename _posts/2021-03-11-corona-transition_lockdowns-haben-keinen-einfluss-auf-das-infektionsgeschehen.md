@@ -4,7 +4,7 @@ redirect:      https://corona-transition.org/lockdowns-haben-keinen-einfluss-auf
 title:         Corona Transition
 subtitle:      'Lockdowns haben keinen Einfluss auf das Infektionsgeschehen'
 description:   'Lockdowns haben keinen Einfluss auf das Infektionsgeschehen: Zu diesem Fazit gelangten Ricardo Savaris, Guilherme Pumi, Rafael Kunst und Jovani (...)'
-country:       CH
+country:       [CH]
 categories:    [Wissenschaft]
 tags:          [lockdown, nature, infektion]
 ---

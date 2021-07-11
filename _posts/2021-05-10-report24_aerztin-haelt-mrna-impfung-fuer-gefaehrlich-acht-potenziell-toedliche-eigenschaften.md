@@ -4,7 +4,7 @@ redirect:      https://report24.news/aerztin-haelt-mrna-impfung-fuer-gefaehrlich
 title:         Report24
 subtitle:      'Ärztin hält mRNA-Impfung für gefährlich: Acht potenziell tödliche Eigenschaften'
 description:   'Legionen von "Faktencheckern" arbeiten sich an der Ärztin ab, doch viele ihrer Punkte decken sich mit Aussagen anderer Experten.'
-country:       AT
+country:       [AT]
 categories:    [Impfung, Medizin]
 tags:          [impf-nebenwirkungen, mit oder an impfung gestorben]
 ---

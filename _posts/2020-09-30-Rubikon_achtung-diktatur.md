@@ -3,7 +3,7 @@ date:          2020-09-30
 redirect:      https://www.rubikon.news/artikel/achtung-diktatur
 title:         Rubikon
 subtitle:      'Achtung, Diktatur!'
-country:       DE
+country:       [DE]
 categories:    [Politik]
 tags:          [wef, id2020, manipulation]
 ---

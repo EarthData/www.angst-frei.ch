@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/dutzende-forscher-belegen-kinder-sind-
 title:         Wochenblick
 subtitle:      'Dutzende Forscher belegen: Kinder sind keine "Superspreader"'
 description:   'Seitdem das Coronavirus den Alltag dominiert, wird behauptet, dass Kinder zu den größten Treibern der sogenannten Pandemie zählen.'
-country:       AT
+country:       [AT]
 categories:    [Wissenschaft]
 tags:          [kind, infektion]
 ---

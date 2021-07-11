@@ -4,7 +4,7 @@ redirect:      https://amp.zdf.de/nachrichten/politik/corona-maskenpflicht-schul
 title:         ZDF
 subtitle:      'Infektiologe Walger: "Maskenpflicht für Kinder unter zehn beenden"'
 description:   'Der Infektiologe Walger fordert ein sofortiges Ende der Maskenpflicht für Schulkinder unter zehn Jahren. Die Schule sei ein "relativ sicherer Ort", sagte er im ZDF.'
-country:       DE
+country:       [DE]
 categories:    [Schule, Medizin]
 tags:          [maske, kind]
 ---

@@ -4,7 +4,7 @@ redirect:      https://www.infosperber.ch/freiheit-recht/buergerrechte/corona-ei
 title:         INFOsperber
 subtitle:      'Corona: Ein Trend zur Gleichschaltung der Öffentlichkeit'
 description:   'Über den Beschluss, Querdenker vom Verfassungsschutz überwachen zu lassen, informierten manche Medien ohne Pflicht zur Sorgfalt.'
-country:       CH
+country:       [CH]
 categories:    [MSM, Politik]
 tags:          [demokratie, grundrechte, manipulation]
 ---

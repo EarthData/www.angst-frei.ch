@@ -4,7 +4,7 @@ redirect:      https://www.dieostschweiz.ch/artikel/das-grosse-globale-sterben-d
 title:         Die Ostschweiz
 subtitle:      'Das grosse globale Sterben durch die Massnahmen'
 description:   'Weltweit haben die Massnahmen gegen das Coronavirus mindestens 50 Mal mehr Lebensjahre gekostet, als wenn das Virus freien Lauf gehabt hätte. Das zeigt das einfache Zusammenführen von Statistiken. Dabei war das Verhindern von Todesfällen das Ziel.'
-country:       CH
+country:       [CH]
 categories:    [Mensch, Gesundheit]
 tags:          [massnahmen, kollateralschäden]
 ---

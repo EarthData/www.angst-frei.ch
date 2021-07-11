@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/zerocovid-per-radikal-lockdown-zum-soz
 title:         Wochenblick
 subtitle:      '„ZeroCovid“: Per Radikal-Lockdown zum Sozialismus'
 description:   'Die üblichen Verdächtigen aus den Reihen der Linken bis Linksradikalen wollen die angebliche Pandemie weltweit zur Machtübernahme nutzen.'
-country:       AT
+country:       [AT]
 categories:    [Wirtschaft, Politik]
 tags:          [zerocovid]
 ---

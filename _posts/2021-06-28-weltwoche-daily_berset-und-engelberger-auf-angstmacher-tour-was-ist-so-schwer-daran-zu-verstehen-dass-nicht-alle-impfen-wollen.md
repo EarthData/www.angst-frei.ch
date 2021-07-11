@@ -4,7 +4,7 @@ redirect:      https://www.weltwoche-daily.ch/beitrag/berset-und-engelberger-auf
 title:         Weltwoche daily
 subtitle:      'Berset und Engelberger auf neuerlicher Angstmacher-Tour: Was ist so schwer daran zu verstehen, dass sich nicht alle impfen lassen wollen?'
 description:   'Jeder Artikel zu Covid-19 ist ein Quotenrenner, also legen die Medien kräftig nach. Das ist auch im Interesse von Berset und Engelberger. Von Hubert Mooser'
-country:       CH
+country:       [CH]
 categories:    [Politik, Impfung]
 tags:          [bundesrat, virus-mutation]
 ---

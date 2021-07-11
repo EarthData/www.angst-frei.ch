@@ -4,7 +4,7 @@ redirect:      https://www.tagesschau.de/inland/coronavirus-impfung-kinder-103.h
 title:         tagesschau.de
 subtitle:      'Ärzte fordern "normales Leben" für Kinder - auch ohne Impfung'
 description:   'Noch ist in der EU kein Impfstoff für Kinder und Jugendliche zugelassen. Trotzdem drängen Ärzteverbände, den Jüngeren wieder einen normalen Alltag zu ermöglichen. Bund und Länder wollen Ende Mai über das Thema Impfen beraten.'
-country:       DE
+country:       [DE]
 categories:    [Impfung, Medizin]
 tags:          [kind, impfzwang]
 ---

@@ -4,7 +4,7 @@ redirect:      https://report24.news/schon-120-oesterreichische-aerzte-zeigen-ge
 title:         Report24
 subtitle:      'Schon 120 österreichische Ärzte zeigen Gesicht gegen Cov-Impfung bei Kindern'
 description:   'Immer mehr österreichische Ärzte gehen auf die Barrikaden gegen die Covid-Impfungen bei Kindern.'
-country:       AT
+country:       [AT]
 categories:    [Impfung, Medizin, Widerstand]
 tags:          [kind, jugend]
 ---

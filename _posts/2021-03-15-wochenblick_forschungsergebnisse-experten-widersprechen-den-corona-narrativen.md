@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/forschungsergebnisse-experten-widerspr
 title:         Wochenblick
 subtitle:      'Forschungsergebnisse: Experten widersprechen den Corona-Narrativen'
 description:   'Die kritische Gegenöffentlichkeit zum "offiziellen" Corona-Narrativ hat Zuwachs bekommen: die Gruppe „Pandemics - Data & Analytics (PANDA)“ aus Südafrika, die sich kritisch mit einseitiger Forschung auseinandersetzt. Das Ziel ist eine offene wissenschaftliche Debatte zur sogenannten Pandemie.'
-country:       AT
+country:       [AT]
 categories:    [Wissenschaft, Widerstand]
 tags:          []
 ---

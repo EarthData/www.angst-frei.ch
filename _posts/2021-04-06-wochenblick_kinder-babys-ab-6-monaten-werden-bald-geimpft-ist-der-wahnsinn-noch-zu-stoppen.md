@@ -4,7 +4,7 @@ redirect:      https://www.wochenblick.at/kinder-babys-ab-6-monaten-werden-bald-
 title:         Wochenblick
 subtitle:      'Kinder, Babys ab 6 Monaten werden bald geimpft: Ist der Wahnsinn noch zu stoppen?'
 description:   'Ganz nach dem Motto: ‚Wir wissen zwar nicht, wie der Impfstoff wirkt, aber dafür sind wir schneller mit der Durchimpfung fertig!‘ …auch bei den Kindern!'
-country:       AT
+country:       [AT]
 categories:    [Impfung]
 tags:          [kind]
 ---

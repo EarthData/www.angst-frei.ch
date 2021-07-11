@@ -4,7 +4,7 @@ redirect:      https://unser-mitteleuropa.com/kenia-katholische-aerzte-warnen-vo
 title:         Unser Mitteleuropa
 subtitle:      'Kenia: Katholische Ärzte warnen vor Covid-Impfstoff und kritisieren Bill Gates'
 description:   'Kenias katholische Ärztevereinigung hat vor der Einnahme der experimentellen Anti-COVID-19-Impfstoffe gewarnt und argumentiert, dass diese gefährlich und unnötig sind. Einen Tag, nachdem die erste Lieferung von 1 Million Impfstoffdosen im Rahmen des globalen COVAX-Projekts in Kenia eingetroffen ist, hat die Kenya Catholic Doctors Association (KCDA) unter der Leitung von Dr. Stephen Karanja die Menschen aufgerufen, […]'
-country:       EU
+country:       [EU]
 persons:       [Gates Bill]
 categories:    [Impfung, Widerstand]
 tags:          []

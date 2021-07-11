@@ -4,7 +4,7 @@ redirect:      https://www.infosperber.ch/gesundheit/public-health/corona-etwas-
 title:         INFOsperber
 subtitle:      'Corona: Etwas Licht ins Dunkel der Spitalbetten'
 description:   'Spitaldirektoren rufen den Notstand aus. Doch gleichzeitig bauen sie Pflegepersonal und Intensivbetten ab. Eine Übersicht.'
-country:       CH
+country:       [CH]
 categories:    [Spital, Zahlen, BAG]
 tags:          [geld, manipulation]
 ---

@@ -4,7 +4,7 @@ title:       The Johns Hopkins Center for Health Security
 subtitle:    'Event 201 Model'
 description: 'Event 201 war eine von der Bill & Melinda Gates Stiftung, dem Weltwirtschaftsforum und der Johns Hopkins University im Oktober 2019 durchgeführte Simulation einer Corona-Pandemie.'
 credit:       https://centerforhealthsecurity.org/event201/
-country:     US
+country:     [US]
 timeline:    P(l)andemie
 group:       Ereignis
 categories:  [Gesundheit, Video]

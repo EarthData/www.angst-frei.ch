@@ -4,7 +4,7 @@ redirect:      https://www.dieostschweiz.ch/artikel/deshalb-sollten-corona-straf
 title:         Die Ostschweiz
 subtitle:      'Deshalb sollten «Corona-Straftäter» die Strafe nicht akzeptieren'
 description:   '«Verstoss gegen die Sitzpflicht» und andere Absurditäten: Weshalb man den bundesrätlichen Corona-Straf-Irrsinn nicht akzeptieren sollte. Ein Gastbeitrag des Frauenfelder Kantonsrats und Rechtsanwalt Hermann'
-country:       CH
+country:       [CH]
 categories:    [Widerstand, Recht]
 tags:          [bundesrat]
 ---

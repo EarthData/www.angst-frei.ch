@@ -4,7 +4,7 @@ redirect:      https://www.infosperber.ch/gesundheit/public-health/zu-viel-covid
 title:         INFOsperber
 subtitle:      'Zu viel Covid-Hygiene kann schädlich sein'
 description:   'Ständiges Desinfizieren und das konsequente Abstandhalten können unser Immunsystem längerfristig schädigen, warnen Forscher.'
-country:       CH
+country:       [CH]
 categories:    [Gesundheit]
 tags:          [massnahmen]
 ---

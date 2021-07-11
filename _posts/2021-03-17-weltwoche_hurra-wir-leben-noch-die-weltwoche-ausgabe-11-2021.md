@@ -4,7 +4,7 @@ redirect:      https://www.weltwoche.ch/ausgaben/2021-11/diese-woche/hurra-wir-l
 title:         Weltwoche
 subtitle:      'Hurra, wir leben noch'
 description:   'Hurra, wir leben noch'
-country:       CH
+country:       [CH]
 categories:    [Mensch, Politik]
 tags:          []
 ---

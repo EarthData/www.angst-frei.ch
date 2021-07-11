@@ -4,7 +4,7 @@ redirect:      https://multipolar-magazin.de/artikel/die-maske-aus-der-schuhfabr
 title:         multipolar
 subtitle:      'Die Maske aus der Schuhfabrik'
 description:   'Das von Masken ausgehende Gesundheitsrisiko wird in Politik und Medien kaum thematisiert.'
-country:       DE
+country:       [DE]
 categories:    [Wissenschaft]
 tags:          [maske]
 ---

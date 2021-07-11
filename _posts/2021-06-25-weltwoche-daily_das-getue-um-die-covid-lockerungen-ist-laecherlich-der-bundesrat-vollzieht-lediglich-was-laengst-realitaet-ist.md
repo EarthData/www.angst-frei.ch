@@ -4,7 +4,7 @@ redirect:      https://www.weltwoche-daily.ch/beitrag/das-getue-um-die-covid-loc
 title:         Weltwoche daily
 subtitle:      'Das Getue um die neuerlichen Covid-Lockerungen ist lächerlich. Der Bundesrat vollzieht lediglich, was längst Realität ist'
 description:   'Gesichtsverhüllung im Freibad oder auf dem Fussballplatz? Da macht nicht einmal mehr das Personal mit. Von Alex Baur'
-country:       CH
+country:       [CH]
 categories:    [Politik]
 tags:          [bundesrat, massnahmen]
 ---

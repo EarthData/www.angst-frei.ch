@@ -4,7 +4,7 @@ redirect:      https://www.dieostschweiz.ch/artikel/wie-das-hirn-gewaschen-wird-
 title:         Die Ostschweiz
 subtitle:      'Wie das Hirn gewaschen wird'
 description:   'Was fällt uns heute als erstes ein, wenn wir «Pandemie» hören? Natürlich «Lockdown», nichts anderes. Das ist kein Zufall.'
-country:       CH
+country:       [CH]
 categories:    [Mensch]
 tags:          [willkür, manipulation]
 ---

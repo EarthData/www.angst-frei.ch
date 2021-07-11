@@ -4,7 +4,7 @@ redirect:      https://report24.news/merkel-ahnungslos-zu-virus-und-pcr-danach-s
 title:         Report24
 subtitle:      'Merkel ahnungslos zu Virus und PCR - danach Sitzungsprotokoll gefälscht'
 description:   'Die Frau, welche die deutsche Wirtschaft für ein Virus opferte, bewies keinerlei Ahnung von der Materie zu haben.'
-country:       AT
+country:       [AT]
 categories:    [Politik]
 tags:          [manipulation, pcr-test]
 ---

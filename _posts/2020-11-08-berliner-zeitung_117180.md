@@ -4,7 +4,7 @@ redirect:      https://www.berliner-zeitung.de/news/kritischer-gesundheitsamt-ch
 title:         Berliner Zeitung
 subtitle:      'Kritischer Gesundheitsamt-Chef versetzt: Über 130 Ärzte protestieren scharf'
 description:   'Friedrich Pürner, Ex-Chef eines Gesundheitsamtes, wurde versetzt, nachdem er staatliche Corona-Maßnahmen kritisierte. Pürner spricht von  „Strafversetzung“.'
-country:       DE
+country:       [DE]
 persons:       [Pürner Friedrich]
 categories:    [MSM, Widerstand, Medizin]
 tags:          [willkür]

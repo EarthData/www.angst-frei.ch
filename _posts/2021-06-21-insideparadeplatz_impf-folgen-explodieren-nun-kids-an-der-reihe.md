@@ -4,7 +4,7 @@ redirect:      https://insideparadeplatz.ch/2021/06/21/impf-folgen-explodieren-n
 title:         In$ide Paradeplatz
 subtitle:      'Impf-Folgen explodieren, nun Kids an der Reihe'
 description:   'In Europa schiessen Zahlen schwerer und tödlicher Fälle zwar hoch, Risiko verblasst aber neben Covid-Gefahr. Bei Jungen weniger klar.'
-country:       CH
+country:       [CH]
 categories:    [Impfung, Zahlen]
 tags:          [impf-nebenwirkungen, kind, jugend]
 ---

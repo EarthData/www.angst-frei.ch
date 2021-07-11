@@ -3,7 +3,7 @@ date:          2021-06-19
 redirect:      https://www.rubikon.news/artikel/die-unfahigkeit-dazuzulernen
 title:         Rubikon
 subtitle:      'Die Unfähigkeit, dazuzulernen'
-country:       DE
+country:       [DE]
 persons:       [Wodarg Wolfgang]
 categories:    [Mensch, Gesundheit]
 tags:          [manipulation, who, angst]

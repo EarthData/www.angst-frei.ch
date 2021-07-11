@@ -3,7 +3,7 @@ date:          2020-10-30
 redirect:      https://www.rubikon.news/artikel/widerstand-im-dritten-weltkrieg
 title:         Rubikon
 subtitle:      'Widerstand im Dritten Weltkrieg'
-country:       DE
+country:       [DE]
 categories:    [Widerstand, Recht]
 tags:          [grundrechte]
 ---

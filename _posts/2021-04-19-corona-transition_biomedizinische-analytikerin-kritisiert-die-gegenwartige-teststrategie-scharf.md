@@ -4,7 +4,7 @@ redirect:      https://corona-transition.org/biomedizinische-analytikerin-kritis
 title:         Corona Transition
 subtitle:      'Biomedizinische Analytikerin kritisiert die gegenwärtige Teststrategie scharf'
 description:   'Minute 01:30 - 09:07 und 46:35 - 52:40 In einer am 11. April 2021 ausgestrahlten Talkshow im regionalen österreichischen Privatsender RTV (...)'
-country:       CH
+country:       [CH]
 categories:    [Wissenschaft, Widerstand]
 tags:          [massentest, pcr-test]
 ---

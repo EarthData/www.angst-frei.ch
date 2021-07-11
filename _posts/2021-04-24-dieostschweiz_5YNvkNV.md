@@ -4,7 +4,7 @@ redirect:      https://www.dieostschweiz.ch/artikel/sitzt-der-chefredaktor-mit-d
 title:         Die Ostschweiz
 subtitle:      'Sitzt der Chefredaktor mit dem Regenschirm in die Gartenbeiz?'
 description:   'In seinem Samstags-Kommentar fordert Tagblatt-Chefredaktor Stefan Schmid die Gastronomen auf, mit Jammern aufzuhören. Wir fragen uns da: Hat Schmid den Ernst der Lage nicht begriffen?'
-country:       CH
+country:       [CH]
 categories:    [MSM]
 tags:          [willkür]
 ---

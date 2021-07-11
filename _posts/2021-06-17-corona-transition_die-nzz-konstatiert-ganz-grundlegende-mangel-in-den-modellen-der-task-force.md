@@ -4,7 +4,7 @@ redirect:      https://corona-transition.org/die-nzz-konstatiert-ganz-grundlegen
 title:         Corona Transition
 subtitle:      'Die NZZ konstatiert «ganz grundlegende Mängel» in den Modellen der Task Force'
 description:   'In einem längeren Artikel von vier Autoren befasst sich die NZZ mit der Plausibilität der Hochrechnungen der Task Force. Der Titel ist (...)'
-country:       CH
+country:       [CH]
 categories:    [MSM, Zahlen]
 tags:          [manipulation, taskforce]
 ---

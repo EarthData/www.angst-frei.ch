@@ -4,7 +4,7 @@ redirect:      https://www.dieostschweiz.ch/artikel/die-verblueffenden-parallele
 title:         Die Ostschweiz
 subtitle:      'Die verblüffenden Parallelen zwischen Corona und dem Klima'
 description:   'Wir werden alle sterben. Und das sehr bald. Sei es wegen der Klimaerwärmung oder aufgrund eines Virus. Unsere tiefe Sehnsucht nach dem baldigen Untergang wird zum Dauerprogramm. Eine Analyse der letzten drei Jahre.'
-country:       CH
+country:       [CH]
 categories:    [Mensch]
 tags:          [angst]
 ---
