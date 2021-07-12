@@ -12,20 +12,32 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3836,DE,2021-07-12,19:00:00,47906,Kempen,Kuhtor,Kundgebung,,Privat,
 3790,DE,2021-07-12,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,unbekannt,
 3788,DE,2021-07-12,19:30:00,08056,Zwickau,Cafe u. Bar Schickeria,Vortrag,,unbekannt,https://gemeinwohllobby.de
+3856,DE,2021-07-13,17:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
+3847,DE,2021-07-13,17:30:00,79108,Freiburg im Breisgau,Suwonalle 1 / Parkplatz SC,Autokorso,,Zukunft Freiburg,https://zukunft-fr.de/autokorso/
+3861,DE,2021-07-13,18:00:00,01067,Dresden,Altmarkt,Demonstration,,unbekannt,
 3837,DE,2021-07-14,16:00:00,70184,Stuttgart,Dobelstr. / Hohenheimer Str.,Schilderwald,,Privat,
 3845,DE,2021-07-14,17:30:00,70174,Stuttgart,Berliner Pl. 1-3 / Liederhalle,Treffpunkt,,A.Laschet gebührend begrüßen,https://www.facebook.com/groups/DemoTermine/posts/1627621177447756
+3854,DE,2021-07-14,17:30:00,32756,Detmold,Marktplatz,Meditation,,Lippe für Freiheit | Frieden und menschliches Miteinander,
+3857,DE,2021-07-14,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
+3852,DE,2021-07-14,18:00:00,80333,München,Wittelsbacher Platz,Aufzug,,Münchenstehtauf,
+3855,DE,2021-07-14,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander,
 3792,DE,2021-07-15,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 3828,DE,2021-07-15,18:00:00,69177,Heidelberg,Karlsplatz,Kundgebung,https://www.facebook.com/events/503946164244379/,Offene Gesellschaft Kurpfalz - Bilanz der Coronarepressionen,https://offene-gesellschaft-kurpfalz.de/?p=427
 3838,DE,2021-07-15,18:30:00,80539,München,Odeonsplatz,Kundgebung,,Kinder stehen auf !,https://t.me/kinder_stehen_auf
 3699,DE,2021-07-15,18:30:00,63457,Großauheim,Main Pilgerstr. / Leinpfad,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
+3858,DE,2021-07-15,19:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 3842,DE,2021-07-16,16:00:00,01904,Neukirch/Lausitz,Oberland-Kreuzung,Mahnwache,,unbekannt,
 3756,DE,2021-07-16,17:00:00,26954,Nordenham,Marktplatz Nordenham-Zentrum,Autokorso,,privat,
+3859,DE,2021-07-16,19:00:00,90,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 3839,DE,2021-07-17,08:00:00,91522,Ansbach,Bahnhofstr. 5,Demonstration,,Selbstdenker,https://t.me/AutokorsoAnsbach2021
 3782,DE,2021-07-17,11:00:00,24558,Henstedt-Ulzburg,Am Bahnbogen 2 / Vor KFC,Schilderwald,,unbekannt,
 2942,DE,2021-07-17,12:00:00,17207,Röbel Müritz,ZOB,Spaziergang,,Freie Kräfte MV,
 3844,DE,2021-07-17,14:00:00,28195,Bremen,Bahnhofsvorplatz,Aufzug,,Mensch Bremen,https://menschbremen.info/
+3846,DE,2021-07-17,15:00:00,38518,Gifhorn,Marktplatz 1 / Rathaus,Kundgebung,,Nachdenker,
 3840,DE,2021-07-17,15:00:00,91522,Ansbach,Onoldia Parkplatz,Autokorso,YouTube,Selbstdenker,https://t.me/AutokorsoAnsbach2021
 3718,DE,2021-07-17,16:00:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,BI aufRECHT:FREIdenken,https://www.solidarnosch.de
+3860,DE,2021-07-17,18:00:00,90402,Nürnberg,Jakobsplatz,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
+3848,DE,2021-07-18,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
 3421,DE,2021-07-19,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 3649,DE,2021-07-19,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Der Souverän,
 3786,DE,2021-07-21,12:18:00,06108,Halle,An der Schleuse / Würfelwiese,Kundgebung,,DHV Ortsgruppe Halle-Saalekreis, drobs Halle | HS Merseburg | Tierschutzallianz | Piraten LSA,
@@ -34,6 +46,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3700,DE,2021-07-22,18:30:00,63457,Großauheim,Main Pilgerstr. / Leinpfad,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
 3757,DE,2021-07-24,14:00:00,74889,Sinsheim,P9 und P10 Parkplatz,Kundgebung,,Querdenken7261,
 3719,DE,2021-07-24,16:00:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,BI aufRECHT:FREIdenken,https://www.solidarnosch.de
+3849,DE,2021-07-25,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
 3422,DE,2021-07-26,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 3830,DE,2021-07-26,18:30:00,02763,Zittau,Markt,Kundgebung,,Freunde von PEGIDA,
 3650,DE,2021-07-26,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Der Souverän,
@@ -42,9 +55,11 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3826,DE,2021-08-01,11:30:00,10117,Berlin,Unter den Linden / Friedrichstr.,Spaziergang,,Verschiedene Initiativen,
 3675,DE,2021-08-02,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 3795,DE,2021-08-05,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
+3850,DE,2021-08-08,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
 3676,DE,2021-08-09,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 3796,DE,2021-08-12,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 3780,DE,2021-08-14,15:00:00,39104,Magdeburg,Domplatz,Demonstration,,unbekannt,
+3851,DE,2021-08-15,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
 3677,DE,2021-08-16,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 3797,DE,2021-08-19,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 3678,DE,2021-08-23,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
