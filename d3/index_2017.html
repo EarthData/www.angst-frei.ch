@@ -29,10 +29,12 @@ body {
 </style>
 <body>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.13/d3.min.js"></script>
+<div id="chart"><div>
 <script>
 
-var margin = {top: 20, right: 20, bottom: 30, left: 40},
-  width = 960 - margin.left - margin.right,
+var margin = {top: 20, right: 60, bottom: 20, left: 60},
+  width = parseInt(d3.select('#chart').style('width'), 10),
+  width = width - margin.left - margin.right,
   height = 500 - margin.top - margin.bottom;
 
 var x = d3.scale.ordinal()
@@ -95,7 +97,7 @@ d3.csv("data_processed/death_2017.csv", function(error, data) {
     .append("text")
     .attr("transform", "rotate(-90)")
     .attr("y", 6)
-    .attr("dy", "5.14em")
+    .attr("dy", ".71em")
     .style("text-anchor", "end")
     .text("Death");
 
