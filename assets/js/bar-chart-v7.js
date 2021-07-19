@@ -16,6 +16,11 @@ var color = d3.scaleOrdinal()
 var xAxis = d3.axisBottom(x);
 var yAxis = d3.axisLeft(y).tickFormat(d3.format(".2s"));
 
+var y_orig = {};
+var active_link = {};
+var legendClicked = {};
+var legendClassArray = {};
+
 const graph = async (year, group, ydomain) => {
 
   if (group == "young") {
@@ -24,10 +29,10 @@ const graph = async (year, group, ydomain) => {
     var title = "Todesfälle nach Alter (Schweiz - " + year + " - 65- Jahre)";
   }
 
-  var active_link = "0"; //to control legend selections and hover
-  var legendClicked; //to control legend selections
-  var legendClassArray = []; //store legend classes to select bars in plotSingle()
-  var y_orig; //to store original y-posn
+  active_link[group] = "0"; //to control legend selections and hover
+  legendClicked[group]; //to control legend selections
+  legendClassArray[group] = []; //store legend classes to select bars in plotSingle()
+  y_orig[group]; //to store original y-posn
 
   d3.csv("data_processed/death_" + year + "_" + group + ".csv")
     .then(function(data) {
@@ -125,14 +130,13 @@ const graph = async (year, group, ydomain) => {
         .data(color.domain().slice().reverse())
         .enter().append("g")
         .attr("class", function (d) {
-          console.log(d);
-          legendClassArray.push(d.replace(/\s/g, '')); //remove spaces
+          legendClassArray[group].push(d.replace(/\s/g, '')); //remove spaces
           return "legend";
         })
         .attr("transform", function(d, i) { return "translate(50," + i * 20 + ")"; });
 
       //reverse order to match order in which bars are stacked
-      legendClassArray = legendClassArray.reverse();
+      legendClassArray[group] = legendClassArray[group].reverse();
 
       legend.append("rect")
         .attr("x", width - 18)
@@ -144,36 +148,36 @@ const graph = async (year, group, ydomain) => {
         })
 
       .on("mouseover",function() {
-        if (active_link === "0") d3.select(this).style("cursor", "pointer");
+        if (active_link[group] === "0") d3.select(this).style("cursor", "pointer");
         else {
-          if (active_link.split("class").pop() === this.id.split("id").pop()) {
+          if (active_link[group].split("class").pop() === this.id.split("id").pop()) {
             d3.select(this).style("cursor", "pointer");
           } else d3.select(this).style("cursor", "auto");
         }
       })
 
-      .on("click",function(d,i) {
-        if (active_link === "0") { //nothing selected, turn on this selection
+      .on("click",function(d, i) {
+        if (active_link[group] === "0") { //nothing selected, turn on this selection
           d3.select(this)
             .style("stroke", "black")
             .style("stroke-width", 2);
-            active_link = this.id.split("id").pop();
+            active_link[group] = this.id.split("id").pop();
             plotSingle(this);
             //gray out the others
-            for (j = 0; j < legendClassArray.length; j++) {
-              if (legendClassArray[j] != active_link) {
-                d3.select("#id" + legendClassArray[j])
+            for (j = 0; j < legendClassArray[group].length; j++) {
+              if (legendClassArray[group][j] != active_link[group]) {
+                d3.select("#id" + legendClassArray[group][j])
                   .style("opacity", 0.5);
               }
             }
         } else { //deactivate
-          if (active_link === this.id.split("id").pop()) {//active square selected; turn it OFF
+          if (active_link[group] === this.id.split("id").pop()) {//active square selected; turn it OFF
             d3.select(this)
               .style("stroke", "none");
-            active_link = "0"; //reset
+            active_link[group] = "0"; //reset
             //restore remaining boxes to normal opacity
-            for (j = 0; j < legendClassArray.length; j++) {
-              d3.select("#id" + legendClassArray[j])
+            for (j = 0; j < legendClassArray[group].length; j++) {
+              d3.select("#id" + legendClassArray[group][j])
                 .style("opacity", 1);
             }
             //restore plot to original
@@ -191,16 +195,17 @@ const graph = async (year, group, ydomain) => {
   
       function restorePlot(d) {
         state.nodes().forEach(function(d, i) {
+          var nodes = d.childNodes;
           //restore shifted bars to original posn
-          d3.select(d[idx])
+          d3.select(nodes[idx])
             .transition()
             .duration(1000)
-            .attr("y", y_orig[i]);
+            .attr("y", y_orig[group][i]);
         })
         //restore opacity of erased bars
-        for (i = 0; i < legendClassArray.length; i++) {
-          if (legendClassArray[i] != class_keep) {
-            d3.selectAll(".class" + legendClassArray[i])
+        for (i = 0; i < legendClassArray[group].length; i++) {
+          if (legendClassArray[group][i] != class_keep) {
+            d3.selectAll(".class" + legendClassArray[group][i])
               .transition()
               .duration(1000)
               .delay(750)
@@ -211,40 +216,43 @@ const graph = async (year, group, ydomain) => {
   
       function plotSingle(d) {
         class_keep = d.id.split("id").pop();
-        idx = legendClassArray.indexOf(class_keep);
+        idx = legendClassArray[group].indexOf(class_keep);
         //erase all but selected bars by setting opacity to 0
-        for (i = 0; i < legendClassArray.length; i++) {
-          if (legendClassArray[i] != class_keep) {
-            d3.selectAll(".class" + legendClassArray[i])
+        for (i = 0; i < legendClassArray[group].length; i++) {
+          if (legendClassArray[group][i] != class_keep) {
+            d3.selectAll(".class" + legendClassArray[group][i])
               .transition()
               .duration(1000)
               .style("opacity", 0);
           }
         }
         //lower the bars to start on x-axis
-        y_orig = [];
+        y_orig[group] = [];
+
         state.nodes().forEach(function(d, i) {
+          var nodes = d.childNodes;
           //get height and y posn of base bar and selected bar
-          h_keep = d3.select(d[idx]).attr("height");
-          y_keep = d3.select(d[idx]).attr("y");
+          h_keep = d3.select(nodes[idx]).attr("height");
+          y_keep = d3.select(nodes[idx]).attr("y");
+
           //store y_base in array to restore plot
-          y_orig.push(y_keep);
-  
-          h_base = d3.select(d[0]).attr("height");
-          y_base = d3.select(d[0]).attr("y");
-  
+          y_orig[group].push(y_keep);
+
+          h_base = d3.select(nodes[0]).attr("height");
+          y_base = d3.select(nodes[0]).attr("y");
+
           h_shift = h_keep - h_base;
           y_new = y_base - h_shift;
-  
+
           //reposition selected bars
-          d3.select(d[idx])
+          d3.select(nodes[idx])
             .transition()
             .ease(d3.easeBounce)
             .duration(1000)
             .delay(750)
             .attr("y", y_new);
         })
-      }
+     }
   })
   .catch(function(error){
     throw error;
