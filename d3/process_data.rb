@@ -27,13 +27,31 @@ def process_year(year)
     end
   end
 
-  header =  "week,".concat(ages.join(","))
+  header       =  "week,".concat(ages.join(","))
+  header_young =  "week,Y0T4,Y5T9,Y10T14,Y15T19,Y20T24,Y25T29,Y30T34,Y35T39,Y40T44,Y45T49,Y50T54,Y55T59,Y60T64"
+  header_old   =  "week,Y65T69,Y70T74,Y75T79,Y80T84,Y85T89,Y_GE90"
 
   File.new("data_processed/death_#{year}.csv", 'w')
   open("data_processed/death_#{year}.csv", 'w') do |f|
     f.puts header
     data[:CH].each do |week, values|
       f.puts "#{week},#{values[:Y0T4]},#{values[:Y5T9]},#{values[:Y10T14]},#{values[:Y15T19]},#{values[:Y20T24]},#{values[:Y25T29]},#{values[:Y30T34]},#{values[:Y35T39]},#{values[:Y40T44]},#{values[:Y45T49]},#{values[:Y50T54]},#{values[:Y55T59]},#{values[:Y60T64]},#{values[:Y65T69]},#{values[:Y70T74]},#{values[:Y75T79]},#{values[:Y80T84]},#{values[:Y85T89]},#{values[:Y_GE90]}"
+    end
+  end
+
+  File.new("data_processed/death_#{year}_young.csv", 'w')
+  open("data_processed/death_#{year}_young.csv", 'w') do |f|
+    f.puts header_young
+    data[:CH].each do |week, values|
+      f.puts "#{week},#{values[:Y0T4]},#{values[:Y5T9]},#{values[:Y10T14]},#{values[:Y15T19]},#{values[:Y20T24]},#{values[:Y25T29]},#{values[:Y30T34]},#{values[:Y35T39]},#{values[:Y40T44]},#{values[:Y45T49]},#{values[:Y50T54]},#{values[:Y55T59]},#{values[:Y60T64]}"
+    end
+  end
+
+  File.new("data_processed/death_#{year}_old.csv", 'w')
+  open("data_processed/death_#{year}_old.csv", 'w') do |f|
+    f.puts header_old
+    data[:CH].each do |week, values|
+      f.puts "#{week},#{values[:Y65T69]},#{values[:Y70T74]},#{values[:Y75T79]},#{values[:Y80T84]},#{values[:Y85T89]},#{values[:Y_GE90]}"
     end
   end
 
