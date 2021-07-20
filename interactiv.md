@@ -26,7 +26,7 @@ subtitle: Zahlen, Fakten
 
 ## Sterblichkeit
 
- * [CH-2021]({{ site.baseurl }}/d3/index.html)
+ * [CH-2021]({{ site.baseurl }}/d3/index_2021.html)
  * [CH-2020]({{ site.baseurl }}/d3/index_2020.html)
  * [CH-2019]({{ site.baseurl }}/d3/index_2019.html)
  * [CH-2018]({{ site.baseurl }}/d3/index_2018.html)

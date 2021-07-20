@@ -18,8 +18,9 @@ var yAxis = d3.axisLeft(y).tickFormat(d3.format(".2s"));
 
 var y_orig = {};
 var active_link = {};
-var legendClicked = {};
 var legendClassArray = {};
+var nodes = {};
+var idx = {};
 
 const graph = async (year, group, ydomain) => {
 
@@ -30,7 +31,6 @@ const graph = async (year, group, ydomain) => {
   }
 
   active_link[group] = "0"; //to control legend selections and hover
-  legendClicked[group]; //to control legend selections
   legendClassArray[group] = []; //store legend classes to select bars in plotSingle()
   y_orig[group]; //to store original y-posn
 
@@ -99,6 +99,12 @@ const graph = async (year, group, ydomain) => {
       .attr("x",function(d) { //add to stock code
         return x(d.myweek)
       })
+      .transition()
+      .ease(d3.easeLinear)
+      .duration(800)
+      .delay(function (d, i) {
+          return i * 50;
+      })
       .attr("height", function(d) { return y(d.y0) - y(d.y1); })
       .attr("class", function(d) {
         classLabel = d.name.replace(/\s/g, ''); //remove spaces
@@ -107,7 +113,6 @@ const graph = async (year, group, ydomain) => {
       .style("fill", function(d) { return color(d.name); });
 
     state.selectAll("rect")
-
      .on("mouseover", function(d,i){
         var delta = i.y1 - i.y0;
         var xPos = parseFloat(d3.select(this).attr("x"));
@@ -195,9 +200,9 @@ const graph = async (year, group, ydomain) => {
   
       function restorePlot(d) {
         state.nodes().forEach(function(d, i) {
-          var nodes = d.childNodes;
+          nodes[group] = d.childNodes;
           //restore shifted bars to original posn
-          d3.select(nodes[idx])
+          d3.select(nodes[group][idx[group]])
             .transition()
             .duration(1000)
             .attr("y", y_orig[group][i]);
@@ -216,7 +221,7 @@ const graph = async (year, group, ydomain) => {
   
       function plotSingle(d) {
         class_keep = d.id.split("id").pop();
-        idx = legendClassArray[group].indexOf(class_keep);
+        idx[group] = legendClassArray[group].indexOf(class_keep);
         //erase all but selected bars by setting opacity to 0
         for (i = 0; i < legendClassArray[group].length; i++) {
           if (legendClassArray[group][i] != class_keep) {
@@ -230,22 +235,22 @@ const graph = async (year, group, ydomain) => {
         y_orig[group] = [];
 
         state.nodes().forEach(function(d, i) {
-          var nodes = d.childNodes;
+          nodes[group] = d.childNodes;
           //get height and y posn of base bar and selected bar
-          h_keep = d3.select(nodes[idx]).attr("height");
-          y_keep = d3.select(nodes[idx]).attr("y");
+          h_keep = d3.select(nodes[group][idx[group]]).attr("height");
+          y_keep = d3.select(nodes[group][idx[group]]).attr("y");
 
           //store y_base in array to restore plot
           y_orig[group].push(y_keep);
 
-          h_base = d3.select(nodes[0]).attr("height");
-          y_base = d3.select(nodes[0]).attr("y");
+          h_base = d3.select(nodes[group][0]).attr("height");
+          y_base = d3.select(nodes[group][0]).attr("y");
 
           h_shift = h_keep - h_base;
           y_new = y_base - h_shift;
 
           //reposition selected bars
-          d3.select(nodes[idx])
+          d3.select(nodes[group][idx[group]])
             .transition()
             .ease(d3.easeBounce)
             .duration(1000)
