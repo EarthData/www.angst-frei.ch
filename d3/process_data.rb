@@ -27,9 +27,11 @@ def process_year(year)
     end
   end
 
-  header       =  "week,".concat(ages.join(","))
-  header_young =  "week,Y0T4,Y5T9,Y10T14,Y15T19,Y20T24,Y25T29,Y30T34,Y35T39,Y40T44,Y45T49,Y50T54,Y55T59,Y60T64"
-  header_old   =  "week,Y65T69,Y70T74,Y75T79,Y80T84,Y85T89,Y_GE90"
+  header           = "week,".concat(ages.join(","))
+  header_young     = "week,Y0T4,Y5T9,Y10T14,Y15T19,Y20T24,Y25T29,Y30T34,Y35T39,Y40T44,Y45T49,Y50T54,Y55T59,Y60T64"
+  header_old       = "week,Y65T69,Y70T74,Y75T79,Y80T84,Y85T89,Y_GE90"
+  header_all_young = "year,week,Y0T4,Y5T9,Y10T14,Y15T19,Y20T24,Y25T29,Y30T34,Y35T39,Y40T44,Y45T49,Y50T54,Y55T59,Y60T64"
+  header_all_old   = "year,week,Y65T69,Y70T74,Y75T79,Y80T84,Y85T89,Y_GE90"
 
   File.new("data_processed/death_#{year}.csv", 'w')
   open("data_processed/death_#{year}.csv", 'w') do |f|
@@ -55,8 +57,30 @@ def process_year(year)
     end
   end
 
+  if !File.file?("data_processed/death_all_old.csv")
+    File.new("data_processed/death_all_old.csv", 'w')
+  end
+  open("data_processed/death_all_old.csv", 'a') do |f|
+    f.puts header_all_old
+    data[:CH].each do |week, values|
+      f.puts "#{year},#{week},#{values[:Y65T69]},#{values[:Y70T74]},#{values[:Y75T79]},#{values[:Y80T84]},#{values[:Y85T89]},#{values[:Y_GE90]}"
+    end
+  end
+
+  if !File.file?("data_processed/death_all_young.csv")
+    File.new("data_processed/death_all_young.csv", 'w')
+  end
+  open("data_processed/death_all_young.csv", 'a') do |f|
+    f.puts header_all_young
+    data[:CH].each do |week, values|
+      f.puts "#{year},#{week},#{values[:Y65T69]},#{values[:Y70T74]},#{values[:Y75T79]},#{values[:Y80T84]},#{values[:Y85T89]},#{values[:Y_GE90]}"
+    end
+  end
+
 end
 
-["2017","2018","2019","2020","2021"].each do |year|
+File.delete("data_processed/death_all_old.csv") if File.exist?("data_processed/death_all_old.csv")
+File.delete("data_processed/death_all_young.csv") if File.exist?("data_processed/death_all_young.csv")
+["2015","2016","2017","2018","2019","2020","2021"].each do |year|
   process_year(year);
 end
