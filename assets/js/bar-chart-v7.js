@@ -266,8 +266,8 @@ const graph = async (year, group, ydomain) => {
 }
 
 const build = async (year) => {
-  await graph(year, "old", 2000);
-  await graph(year, "young", 400);
+  await graph(year, "old", 2200);
+  await graph(year, "young", 200);
 }
 
 var year = window.location.pathname
