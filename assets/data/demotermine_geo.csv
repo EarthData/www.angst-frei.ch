@@ -1,102 +1,98 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite,latitude,longitude,created
-3884,DE,2021-07-23,17:00:00,70374,Stuttgart,Beskidenstr. / vor BW Kaserne,Mahnwache,,Privat,,48.7784485,9.1800132,2021-07-23 23:21:04
-3939,IT,2021-07-23,17:30:00,0,Pordenone (Friuli),piazza XX SETTEMBRE,Kundgebung,,IOAPRO,https://t.me/ioapro,43.5512769,10.3161764,2021-07-23 23:21:04
-3919,DE,2021-07-23,18:00:00,72622,Nürtingen,Ochsenbrunnen-Schillerplatz,Kundgebung,,Querdenken 702,,48.6265854,9.3365463,2021-07-23 23:21:04
-3900,DE,2021-07-23,19:45:00,90402,Nürnberg,Hallplatz,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4489023,11.0780197,2021-07-23 23:21:04
-3902,DE,2021-07-24,11:00:00,11011,Berlin,Platz der Republik,Versammlung,https://www.twitch.tv/echtzeiteubertragung,Staatendoof,,52.5185893,13.3751688,2021-07-23 23:21:04
-3874,DE,2021-07-24,13:15:00,20359,Hamburg,Glacischaussee,Autokorso,,Freiheitsfahrer Hamburg,,53.5510552,9.9701495,2021-07-23 23:21:04
-3757,DE,2021-07-24,14:00:00,74889,Sinsheim,P9 und P10 Parkplatz,Kundgebung,,Querdenken7261,,49.2553,8.87722,2021-07-23 23:21:04
-3908,DE,2021-07-24,14:00:00,64385,Reichelsheim,B 38 Ortseingang Aldi,Zusammenkunft,,unbekannt,,49.7132438,8.8408466,2021-07-23 23:21:04
-3903,DE,2021-07-24,14:00:00,80339,München,Theresienwiese,Autokorso,,Autokorso München,https://t.me/AutoKorsoMuc,48.1313385,11.549418875169831,2021-07-23 23:21:04
-3913,DE,2021-07-24,14:00:00,56068,Koblenz,Jesuitenplatz,Mahnwache,,unbekannt,,50.3605313,7.598270542718609,2021-07-23 23:21:04
-3915,DE,2021-07-24,14:00:00,79100,Freiburg,Karlsplatz,Aufzug,,unbekannt,,47.9971958,7.855223676848801,2021-07-23 23:21:04
-3918,DE,2021-07-24,14:30:00,30449,Hannover,Ritter-Brüning-Straße,Autokorso,,Autocorso Hannover,,52.3622397,9.7217429,2021-07-23 23:21:04
-3938,IT,2021-07-24,15:00:00,0,OSTIA,VIALE MEDITERRANEO 85,Kundgebung,,IOAPRO,https://t.me/ioapro,41.72289925,12.307976996354164,2021-07-23 23:21:04
-3904,DE,2021-07-24,15:00:00,40213,Düsseldorf,Burgplatz,Spaziergang,,unbekannt,,51.2261478,6.7722626,2021-07-23 23:21:04
-3914,DE,2021-07-24,15:00:00,77855,Achern,Illenauer Alle 73,Kundgebung,,Ärzte | Anwälte | Menschen,,48.6300161,8.0735581,2021-07-23 23:21:04
-3920,DE,2021-07-24,15:30:00,87600,Kaufbeuren,Obstmarkt / Fußgängerzone,Meditation,,unbekannt,,47.8803788,10.622246,2021-07-23 23:21:04
-3719,DE,2021-07-24,16:00:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,BI aufRECHT:FREIdenken,https://www.solidarnosch.de,48.7580777,8.2415239,2021-07-23 23:21:04
-3937,IT,2021-07-24,17:30:00,0,VARESE,Piazza Monte Grappa,Kundgebung,,IOAPRO,https://t.me/ioapro,45.8174767,8.8265817,2021-07-23 23:21:04
-3925,IT,2021-07-24,17:30:00,0,TORINO,PIAZZA CASTELLO,Kundgebung,,IOAPRO,https://t.me/ioapro,45.0705135,7.6868407,2021-07-23 23:21:04
-3922,IT,2021-07-24,17:30:00,0,Roma,PIAZZA DEL POPOLO,Kundgebung,,IOAPRO,https://t.me/ioapro,41.910750199999995,12.47682475832423,2021-07-23 23:21:04
-3933,IT,2021-07-24,17:30:00,0,REGGIO EMILIA,Piazza della Vittoria,Kundgebung,,IOAPRO,https://t.me/ioapro,44.3473774,10.2756464,2021-07-23 23:21:04
-3940,IT,2021-07-24,17:30:00,0,Ravenna,Piazza del popolo,Kundgebung,,IOAPRO,https://t.me/ioapro,44.417766900000004,12.19970187852601,2021-07-23 23:21:04
-3936,IT,2021-07-24,17:30:00,0,PESCARA,Piazza della Rinascita,Kundgebung,,IOAPRO,https://t.me/ioapro,42.472531000000004,14.209472283176186,2021-07-23 23:21:04
-3935,IT,2021-07-24,17:30:00,0,PARMA,Piazza Garibaldi,Kundgebung,,IOAPRO,https://t.me/ioapro,44.9281465,10.1239108,2021-07-23 23:21:04
-3929,IT,2021-07-24,17:30:00,0,PADOVA,Piazza Duomo,Kundgebung,,IOAPRO,https://t.me/ioapro,45.6490709,11.783689080644697,2021-07-23 23:21:04
-3927,IT,2021-07-24,17:30:00,0,NAPOLI,PIAZZA DANTE,Kundgebung,,IOAPRO,https://t.me/ioapro,40.8491523,14.250296949592013,2021-07-23 23:21:04
-3926,IT,2021-07-24,17:30:00,0,MILANO,Piazza Fontana,Kundgebung,,IOAPRO,https://t.me/ioapro,45.4633459,9.1936135,2021-07-23 23:21:04
-3942,IT,2021-07-24,17:30:00,0,Lodi,Piazza della Vittoria,Kundgebung,,IOAPRO,https://t.me/ioapro,45.3138599,9.5018402,2021-07-23 23:21:04
-3923,IT,2021-07-24,17:30:00,0,GENOVA,PIAZZA DE FERRARI,Kundgebung,,IOAPRO,https://t.me/ioapro,44.40732635,8.93387969782881,2021-07-23 23:21:04
-3941,IT,2021-07-24,17:30:00,0,Forlì,piazzale della Vittoria,Kundgebung,,IOAPRO,https://t.me/ioapro,44.2183723,12.0490939,2021-07-23 23:21:04
-3924,DE,2021-07-24,17:30:00,0,FIRENZE,Piazza della Signoria,Kundgebung,,IOAPRO,https://t.me/ioapro,51.0834196,10.4234469,2021-07-23 23:21:04
-3943,IT,2021-07-24,17:30:00,0,Como,Piazza Cavour,Kundgebung,,IOAPRO,https://t.me/ioapro,45.733001,8.9805654,2021-07-23 23:21:04
-3932,IT,2021-07-24,17:30:00,0,Catania,Fontana dell Elefante,Kundgebung,,IOAPRO,https://t.me/ioapro,37.5022355,15.08738,2021-07-23 23:21:04
-3930,IT,2021-07-24,17:30:00,0,CAGLIARI,Piazza Garibaldi,Kundgebung,,IOAPRO,https://t.me/ioapro,39.2890929,8.9575206,2021-07-23 23:21:04
-3928,IT,2021-07-24,17:30:00,0,BOLOGNA,Piazza Maggiore,Kundgebung,,IOAPRO,https://t.me/ioapro,44.493699199999995,11.343059560233181,2021-07-23 23:21:04
-3934,IT,2021-07-24,17:30:00,0,BIELLA,Piazza Martiri della Libertà,Kundgebung,,IOAPRO,https://t.me/ioapro,45.5680249,8.0503685,2021-07-23 23:21:04
-3931,IT,2021-07-24,17:30:00,0,BERGAMO,Davanti la Procura,Kundgebung,,IOAPRO,https://t.me/ioapro,45.6944947,9.6698727,2021-07-23 23:21:04
-3901,DE,2021-07-24,18:00:00,90402,Nürnberg,Jakobsplatz,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4495647,11.0704212,2021-07-23 23:21:04
-3894,DE,2021-07-25,08:45:00,50667,Köln,Dom,Gegenprotest,,Querdenker sind doof,,50.93990825,6.956173155219073,2021-07-23 23:21:04
-3909,DE,2021-07-25,10:45:00,75015,Bretten,Stadtpark / Alter Friedhof,Meditation,,unbekannt,,49.0364564,8.7072589,2021-07-23 23:21:04
-3849,DE,2021-07-25,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,,53.862379399999995,8.69838907329424,2021-07-23 23:21:04
-3910,DE,2021-07-25,15:30:00,82140,Olching / FFB,Volksfestplatz,Kundgebung,,Freiheitsbündnis Amperfeen + Freiheitsversammlung,https://amperfee.de,48.126963450000005,11.360337254691975,2021-07-23 23:21:04
-3905,DE,2021-07-26,18:00:00,92421,Schwandorf / Haslbach,Kirchawirt,Zusammenkunft,,unbekannt,,49.34289455,12.031008640905393,2021-07-23 23:21:04
-3422,DE,2021-07-26,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-07-23 23:21:04
-3911,DE,2021-07-26,18:00:00,2625,Bautzen,Kornmarkt,Treffpunkt,,unbekannt,https://www.denkste-mit.de/#willkommen,51.1804409,14.428698518867606,2021-07-23 23:21:04
-3830,DE,2021-07-26,18:30:00,2763,Zittau,Markt,Kundgebung,,Freunde von PEGIDA,,50.8958774,14.8067754,2021-07-23 23:21:04
-3907,DE,2021-07-26,18:30:00,29221,Celle,Stechbahn / Schloß,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,,52.624056,10.081052,2021-07-23 23:21:04
-3650,DE,2021-07-26,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Der Souverän,,53.528461,8.1095937,2021-07-23 23:21:04
-3916,DE,2021-07-26,19:00:00,99974,Mühlhausen / Thüringen,Untermarkt,Spaziergang,,Mühlhäuser LÖWEN,,51.2074205,10.4579131,2021-07-23 23:21:04
-3921,DE,2021-07-26,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,unbekannt,,47.91279,10.6356602,2021-07-23 23:21:04
-3895,DE,2021-07-28,17:30:00,32756,Detmold,Marktplatz,Meditation,,Lippe für Freiheit | Frieden und menschliches Miteinander,,51.9353405,8.8784369,2021-07-23 23:21:04
-3896,DE,2021-07-28,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander,,51.9353405,8.8784369,2021-07-23 23:21:04
-3794,DE,2021-07-29,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-23 23:21:04
-3701,DE,2021-07-29,18:30:00,63457,Großauheim,Main Pilgerstr. / Leinpfad,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de,50.1026386,8.9458834,2021-07-23 23:21:04
-3869,DE,2021-07-30,14:30:00,10117,Berlin,Brandenburger Tor,Aufstand,,unbekannt,,52.51628045,13.377701882994323,2021-07-23 23:21:04
-3912,DE,2021-07-31,11:00:00,10117,Berlin,Unter den Linden 36-38,Kundgebung,,Wir sind die gesunden 99.97%,https://www.facebook.com/groups/396283611675099,52.5175018,13.3868077,2021-07-23 23:21:04
-3863,DE,2021-08-01,11:30:00,10117,Berlin,Unter den Linden / Friedrichstr.,Spaziergang,,Organisatoren des angemeldeten Aufzugs sind u.a.:  Bewegung Leipzig | Drum for Love | Querdenken | Von Mensch zu Mensch Aktionen | MG Demo | München steht auf | IBAM | Freedom Parade | Hand in Hand Kaiserslautern | Es reicht! | Ruf der Trommeln und Samba One uvm.,Http://www.Querdenken211.de,52.5170365,13.3888599,2021-07-23 23:21:04
-3826,DE,2021-08-01,11:30:00,10117,Berlin,Unter den Linden / Friedrichstr.,Spaziergang,,Verschiedene Initiativen,,52.5170365,13.3888599,2021-07-23 23:21:04
-3675,DE,2021-08-02,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-07-23 23:21:04
-3795,DE,2021-08-05,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-23 23:21:04
-3886,DE,2021-08-07,13:00:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,BI aufRECHT:FREIdenken,https://www.solidarnosch.de/Covid-19.htm,48.7580777,8.2415239,2021-07-23 23:21:04
-3850,DE,2021-08-08,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,,53.862379399999995,8.69838907329424,2021-07-23 23:21:04
-3676,DE,2021-08-09,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-07-23 23:21:04
-3944,DE,2021-08-12,17:30:00,68159,Mannheim,Marktplatz / G1,Kundgebung,https://youtu.be/Wyqc5BhfQwE,Offene Gesellschaft Kurpfalz,http://offges.de?p=587,49.489607,8.4669588,2021-07-23 23:21:04
-3796,DE,2021-08-12,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-23 23:21:04
-3887,DE,2021-08-14,13:00:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,BI aufRECHT:FREIdenken,https://www.solidarnosch.de/Covid-19.htm,48.7580777,8.2415239,2021-07-23 23:21:04
-3780,DE,2021-08-14,15:00:00,39104,Magdeburg,Domplatz,Demonstration,,unbekannt,,52.1250109,11.6353743,2021-07-23 23:21:04
-3851,DE,2021-08-15,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,,53.862379399999995,8.69838907329424,2021-07-23 23:21:04
-3677,DE,2021-08-16,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-07-23 23:21:04
-3797,DE,2021-08-19,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-23 23:21:04
-3888,DE,2021-08-21,13:00:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,BI aufRECHT:FREIdenken,https://www.solidarnosch.de/Covid-19.htm,48.7580777,8.2415239,2021-07-23 23:21:04
-3678,DE,2021-08-23,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-07-23 23:21:04
-3798,DE,2021-08-26,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-23 23:21:04
-3889,DE,2021-08-28,13:00:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,BI aufRECHT:FREIdenken,https://www.solidarnosch.de/Covid-19.htm,48.7580777,8.2415239,2021-07-23 23:21:04
-3679,DE,2021-08-30,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-07-23 23:21:04
-3799,DE,2021-09-02,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-23 23:21:04
-3680,DE,2021-09-06,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-07-23 23:21:04
-3800,DE,2021-09-09,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-23 23:21:04
-3681,DE,2021-09-13,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-07-23 23:21:04
-3801,DE,2021-09-16,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-23 23:21:04
-3682,DE,2021-09-20,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-07-23 23:21:04
-3802,DE,2021-09-23,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-23 23:21:04
-3803,DE,2021-09-30,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-23 23:21:04
-2271,DE,2021-10-04,14:30:00,6232,Speyer,Domplatz,Kundgebung,https://dlive.tv/Live-Reports-DUEW,Querdenken 6341,https://www.querdenken-6341.de,49.3149967,8.4424507,2021-07-23 23:21:04
-3804,DE,2021-10-07,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-23 23:21:04
-3805,DE,2021-10-14,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-23 23:21:04
-3806,DE,2021-10-21,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-23 23:21:04
-3807,DE,2021-10-28,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-23 23:21:04
-3808,DE,2021-11-04,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-23 23:21:04
-1960,DE,2021-11-05,18:00:00,10117,Berlin,Pariser Platz / Brandenburger Tor,MillionMaskMarch,https://anonymous.support/live,Anonymous,https://anonymous.support,52.5170365,13.3888599,2021-07-23 23:21:04
-3809,DE,2021-11-11,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-23 23:21:04
-3810,DE,2021-11-18,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-23 23:21:04
-3811,DE,2021-11-25,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-23 23:21:04
-3812,DE,2021-12-02,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-23 23:21:04
-3813,DE,2021-12-09,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-23 23:21:04
-3814,DE,2021-12-16,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-23 23:21:04
-3815,DE,2021-12-23,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-23 23:21:04
-1963,DE,2021-12-24,12:00:00,10178,Berlin,Weltzeituhr / Alexanderplatz,OpSafeWinter,https://anonymous.support/live,Anonymous,https://anonymous.support,52.5170365,13.3888599,2021-07-23 23:21:04
-3816,DE,2021-12-30,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-23 23:21:04
-1617,DE,2021-12-31,23:59:00,10117,Berlin,Brandenburger Tor,Event,,Welcome 2022,,52.51628045,13.377701882994323,2021-07-23 23:21:04
-3890,DE,2022-07-19,18:00:00,33098,Paderborn,Rathausplatz,Kundgebung,,unbekannt,,51.7169744,8.7538304,2021-07-23 23:21:04
+3902,DE,2021-07-24,11:00:00,11011,Berlin,Platz der Republik,Versammlung,https://www.twitch.tv/echtzeiteubertragung,Staatendoof,,52.5185893,13.3751688,2021-07-24 00:20:19
+3874,DE,2021-07-24,13:15:00,20359,Hamburg,Glacischaussee,Autokorso,,Freiheitsfahrer Hamburg,,53.5510552,9.9701495,2021-07-24 00:20:19
+3757,DE,2021-07-24,14:00:00,74889,Sinsheim,P9 und P10 Parkplatz,Kundgebung,,Querdenken7261,,49.2553,8.87722,2021-07-24 00:20:19
+3908,DE,2021-07-24,14:00:00,64385,Reichelsheim,B 38 Ortseingang Aldi,Zusammenkunft,,unbekannt,,49.7132438,8.8408466,2021-07-24 00:20:19
+3903,DE,2021-07-24,14:00:00,80339,München,Theresienwiese,Autokorso,,Autokorso München,https://t.me/AutoKorsoMuc,48.1313385,11.549418875169831,2021-07-24 00:20:19
+3913,DE,2021-07-24,14:00:00,56068,Koblenz,Jesuitenplatz,Mahnwache,,unbekannt,,50.3605313,7.598270542718609,2021-07-24 00:20:19
+3915,DE,2021-07-24,14:00:00,79100,Freiburg,Karlsplatz,Aufzug,,unbekannt,,47.9971958,7.855223676848801,2021-07-24 00:20:19
+3918,DE,2021-07-24,14:30:00,30449,Hannover,Ritter-Brüning-Straße,Autokorso,,Autocorso Hannover,,52.3622397,9.7217429,2021-07-24 00:20:19
+3938,IT,2021-07-24,15:00:00,0,OSTIA,VIALE MEDITERRANEO 85,Kundgebung,,IOAPRO,https://t.me/ioapro,41.72289925,12.307976996354164,2021-07-24 00:20:19
+3904,DE,2021-07-24,15:00:00,40213,Düsseldorf,Burgplatz,Spaziergang,,unbekannt,,51.2261478,6.7722626,2021-07-24 00:20:19
+3914,DE,2021-07-24,15:00:00,77855,Achern,Illenauer Alle 73,Kundgebung,,Ärzte | Anwälte | Menschen,,48.6300161,8.0735581,2021-07-24 00:20:19
+3920,DE,2021-07-24,15:30:00,87600,Kaufbeuren,Obstmarkt / Fußgängerzone,Meditation,,unbekannt,,47.8803788,10.622246,2021-07-24 00:20:19
+3719,DE,2021-07-24,16:00:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,BI aufRECHT:FREIdenken,https://www.solidarnosch.de,48.7580777,8.2415239,2021-07-24 00:20:19
+3937,IT,2021-07-24,17:30:00,0,VARESE,Piazza Monte Grappa,Kundgebung,,IOAPRO,https://t.me/ioapro,45.8174767,8.8265817,2021-07-24 00:20:19
+3925,IT,2021-07-24,17:30:00,0,TORINO,PIAZZA CASTELLO,Kundgebung,,IOAPRO,https://t.me/ioapro,45.0705135,7.6868407,2021-07-24 00:20:19
+3922,IT,2021-07-24,17:30:00,0,Roma,PIAZZA DEL POPOLO,Kundgebung,,IOAPRO,https://t.me/ioapro,41.910750199999995,12.47682475832423,2021-07-24 00:20:19
+3933,IT,2021-07-24,17:30:00,0,REGGIO EMILIA,Piazza della Vittoria,Kundgebung,,IOAPRO,https://t.me/ioapro,44.3473774,10.2756464,2021-07-24 00:20:19
+3940,IT,2021-07-24,17:30:00,0,Ravenna,Piazza del popolo,Kundgebung,,IOAPRO,https://t.me/ioapro,44.417766900000004,12.19970187852601,2021-07-24 00:20:19
+3936,IT,2021-07-24,17:30:00,0,PESCARA,Piazza della Rinascita,Kundgebung,,IOAPRO,https://t.me/ioapro,42.472531000000004,14.209472283176186,2021-07-24 00:20:19
+3935,IT,2021-07-24,17:30:00,0,PARMA,Piazza Garibaldi,Kundgebung,,IOAPRO,https://t.me/ioapro,44.9281465,10.1239108,2021-07-24 00:20:19
+3929,IT,2021-07-24,17:30:00,0,PADOVA,Piazza Duomo,Kundgebung,,IOAPRO,https://t.me/ioapro,45.6490709,11.783689080644697,2021-07-24 00:20:19
+3927,IT,2021-07-24,17:30:00,0,NAPOLI,PIAZZA DANTE,Kundgebung,,IOAPRO,https://t.me/ioapro,40.8491523,14.250296949592013,2021-07-24 00:20:19
+3926,IT,2021-07-24,17:30:00,0,MILANO,Piazza Fontana,Kundgebung,,IOAPRO,https://t.me/ioapro,45.4633459,9.1936135,2021-07-24 00:20:19
+3942,IT,2021-07-24,17:30:00,0,Lodi,Piazza della Vittoria,Kundgebung,,IOAPRO,https://t.me/ioapro,45.3138599,9.5018402,2021-07-24 00:20:19
+3923,IT,2021-07-24,17:30:00,0,GENOVA,PIAZZA DE FERRARI,Kundgebung,,IOAPRO,https://t.me/ioapro,44.40732635,8.93387969782881,2021-07-24 00:20:19
+3941,IT,2021-07-24,17:30:00,0,Forlì,piazzale della Vittoria,Kundgebung,,IOAPRO,https://t.me/ioapro,44.2183723,12.0490939,2021-07-24 00:20:19
+3924,DE,2021-07-24,17:30:00,0,FIRENZE,Piazza della Signoria,Kundgebung,,IOAPRO,https://t.me/ioapro,51.0834196,10.4234469,2021-07-24 00:20:19
+3943,IT,2021-07-24,17:30:00,0,Como,Piazza Cavour,Kundgebung,,IOAPRO,https://t.me/ioapro,45.733001,8.9805654,2021-07-24 00:20:19
+3932,IT,2021-07-24,17:30:00,0,Catania,Fontana dell Elefante,Kundgebung,,IOAPRO,https://t.me/ioapro,37.5022355,15.08738,2021-07-24 00:20:19
+3930,IT,2021-07-24,17:30:00,0,CAGLIARI,Piazza Garibaldi,Kundgebung,,IOAPRO,https://t.me/ioapro,39.2890929,8.9575206,2021-07-24 00:20:19
+3928,IT,2021-07-24,17:30:00,0,BOLOGNA,Piazza Maggiore,Kundgebung,,IOAPRO,https://t.me/ioapro,44.493699199999995,11.343059560233181,2021-07-24 00:20:19
+3934,IT,2021-07-24,17:30:00,0,BIELLA,Piazza Martiri della Libertà,Kundgebung,,IOAPRO,https://t.me/ioapro,45.5680249,8.0503685,2021-07-24 00:20:19
+3931,IT,2021-07-24,17:30:00,0,BERGAMO,Davanti la Procura,Kundgebung,,IOAPRO,https://t.me/ioapro,45.6944947,9.6698727,2021-07-24 00:20:19
+3901,DE,2021-07-24,18:00:00,90402,Nürnberg,Jakobsplatz,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4495647,11.0704212,2021-07-24 00:20:19
+3894,DE,2021-07-25,08:45:00,50667,Köln,Dom,Gegenprotest,,Querdenker sind doof,,50.93990825,6.956173155219073,2021-07-24 00:20:19
+3909,DE,2021-07-25,10:45:00,75015,Bretten,Stadtpark / Alter Friedhof,Meditation,,unbekannt,,49.0364564,8.7072589,2021-07-24 00:20:19
+3849,DE,2021-07-25,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,,53.862379399999995,8.69838907329424,2021-07-24 00:20:19
+3910,DE,2021-07-25,15:30:00,82140,Olching / FFB,Volksfestplatz,Kundgebung,,Freiheitsbündnis Amperfeen + Freiheitsversammlung,https://amperfee.de,48.126963450000005,11.360337254691975,2021-07-24 00:20:19
+3905,DE,2021-07-26,18:00:00,92421,Schwandorf / Haslbach,Kirchawirt,Zusammenkunft,,unbekannt,,49.34289455,12.031008640905393,2021-07-24 00:20:19
+3422,DE,2021-07-26,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-07-24 00:20:19
+3911,DE,2021-07-26,18:00:00,2625,Bautzen,Kornmarkt,Treffpunkt,,unbekannt,https://www.denkste-mit.de/#willkommen,51.1804409,14.428698518867606,2021-07-24 00:20:19
+3830,DE,2021-07-26,18:30:00,2763,Zittau,Markt,Kundgebung,,Freunde von PEGIDA,,50.8958774,14.8067754,2021-07-24 00:20:19
+3907,DE,2021-07-26,18:30:00,29221,Celle,Stechbahn / Schloß,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,,52.624056,10.081052,2021-07-24 00:20:19
+3650,DE,2021-07-26,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Der Souverän,,53.528461,8.1095937,2021-07-24 00:20:19
+3916,DE,2021-07-26,19:00:00,99974,Mühlhausen / Thüringen,Untermarkt,Spaziergang,,Mühlhäuser LÖWEN,,51.2074205,10.4579131,2021-07-24 00:20:19
+3921,DE,2021-07-26,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,unbekannt,,47.91279,10.6356602,2021-07-24 00:20:19
+3895,DE,2021-07-28,17:30:00,32756,Detmold,Marktplatz,Meditation,,Lippe für Freiheit | Frieden und menschliches Miteinander,,51.9353405,8.8784369,2021-07-24 00:20:19
+3896,DE,2021-07-28,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander,,51.9353405,8.8784369,2021-07-24 00:20:19
+3794,DE,2021-07-29,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-24 00:20:19
+3701,DE,2021-07-29,18:30:00,63457,Großauheim,Main Pilgerstr. / Leinpfad,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de,50.1026386,8.9458834,2021-07-24 00:20:19
+3869,DE,2021-07-30,14:30:00,10117,Berlin,Brandenburger Tor,Aufstand,,unbekannt,,52.51628045,13.377701882994323,2021-07-24 00:20:19
+3912,DE,2021-07-31,11:00:00,10117,Berlin,Unter den Linden 36-38,Kundgebung,,Wir sind die gesunden 99.97%,https://www.facebook.com/groups/396283611675099,52.5175018,13.3868077,2021-07-24 00:20:19
+3863,DE,2021-08-01,11:30:00,10117,Berlin,Unter den Linden / Friedrichstr.,Spaziergang,,Organisatoren des angemeldeten Aufzugs sind u.a.:  Bewegung Leipzig | Drum for Love | Querdenken | Von Mensch zu Mensch Aktionen | MG Demo | München steht auf | IBAM | Freedom Parade | Hand in Hand Kaiserslautern | Es reicht! | Ruf der Trommeln und Samba One uvm.,Http://www.Querdenken211.de,52.5170365,13.3888599,2021-07-24 00:20:19
+3826,DE,2021-08-01,11:30:00,10117,Berlin,Unter den Linden / Friedrichstr.,Spaziergang,,Verschiedene Initiativen,,52.5170365,13.3888599,2021-07-24 00:20:19
+3675,DE,2021-08-02,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-07-24 00:20:19
+3795,DE,2021-08-05,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-24 00:20:19
+3886,DE,2021-08-07,13:00:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,BI aufRECHT:FREIdenken,https://www.solidarnosch.de/Covid-19.htm,48.7580777,8.2415239,2021-07-24 00:20:19
+3850,DE,2021-08-08,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,,53.862379399999995,8.69838907329424,2021-07-24 00:20:19
+3676,DE,2021-08-09,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-07-24 00:20:19
+3944,DE,2021-08-12,17:30:00,68159,Mannheim,Marktplatz / G1,Kundgebung,https://youtu.be/Wyqc5BhfQwE,Offene Gesellschaft Kurpfalz,http://offges.de?p=587,49.489607,8.4669588,2021-07-24 00:20:19
+3796,DE,2021-08-12,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-24 00:20:19
+3887,DE,2021-08-14,13:00:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,BI aufRECHT:FREIdenken,https://www.solidarnosch.de/Covid-19.htm,48.7580777,8.2415239,2021-07-24 00:20:19
+3780,DE,2021-08-14,15:00:00,39104,Magdeburg,Domplatz,Demonstration,,unbekannt,,52.1250109,11.6353743,2021-07-24 00:20:19
+3851,DE,2021-08-15,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,,53.862379399999995,8.69838907329424,2021-07-24 00:20:19
+3677,DE,2021-08-16,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-07-24 00:20:19
+3797,DE,2021-08-19,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-24 00:20:19
+3888,DE,2021-08-21,13:00:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,BI aufRECHT:FREIdenken,https://www.solidarnosch.de/Covid-19.htm,48.7580777,8.2415239,2021-07-24 00:20:19
+3678,DE,2021-08-23,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-07-24 00:20:19
+3798,DE,2021-08-26,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-24 00:20:19
+3889,DE,2021-08-28,13:00:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,BI aufRECHT:FREIdenken,https://www.solidarnosch.de/Covid-19.htm,48.7580777,8.2415239,2021-07-24 00:20:19
+3679,DE,2021-08-30,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-07-24 00:20:19
+3799,DE,2021-09-02,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-24 00:20:19
+3680,DE,2021-09-06,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-07-24 00:20:19
+3800,DE,2021-09-09,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-24 00:20:19
+3681,DE,2021-09-13,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-07-24 00:20:19
+3801,DE,2021-09-16,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-24 00:20:19
+3682,DE,2021-09-20,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-07-24 00:20:19
+3802,DE,2021-09-23,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-24 00:20:19
+3803,DE,2021-09-30,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-24 00:20:19
+2271,DE,2021-10-04,14:30:00,6232,Speyer,Domplatz,Kundgebung,https://dlive.tv/Live-Reports-DUEW,Querdenken 6341,https://www.querdenken-6341.de,49.3149967,8.4424507,2021-07-24 00:20:19
+3804,DE,2021-10-07,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-24 00:20:19
+3805,DE,2021-10-14,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-24 00:20:19
+3806,DE,2021-10-21,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-24 00:20:19
+3807,DE,2021-10-28,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-24 00:20:19
+3808,DE,2021-11-04,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-24 00:20:19
+1960,DE,2021-11-05,18:00:00,10117,Berlin,Pariser Platz / Brandenburger Tor,MillionMaskMarch,https://anonymous.support/live,Anonymous,https://anonymous.support,52.5170365,13.3888599,2021-07-24 00:20:19
+3809,DE,2021-11-11,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-24 00:20:19
+3810,DE,2021-11-18,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-24 00:20:19
+3811,DE,2021-11-25,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-24 00:20:19
+3812,DE,2021-12-02,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-24 00:20:19
+3813,DE,2021-12-09,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-24 00:20:19
+3814,DE,2021-12-16,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-24 00:20:19
+3815,DE,2021-12-23,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-24 00:20:19
+1963,DE,2021-12-24,12:00:00,10178,Berlin,Weltzeituhr / Alexanderplatz,OpSafeWinter,https://anonymous.support/live,Anonymous,https://anonymous.support,52.5170365,13.3888599,2021-07-24 00:20:19
+3816,DE,2021-12-30,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-07-24 00:20:19
+1617,DE,2021-12-31,23:59:00,10117,Berlin,Brandenburger Tor,Event,,Welcome 2022,,52.51628045,13.377701882994323,2021-07-24 00:20:19
+3890,DE,2022-07-19,18:00:00,33098,Paderborn,Rathausplatz,Kundgebung,,unbekannt,,51.7169744,8.7538304,2021-07-24 00:20:19
