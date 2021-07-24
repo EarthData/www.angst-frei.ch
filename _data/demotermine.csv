@@ -1,39 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-3902,DE,2021-07-24,11:00:00,11011,Berlin,Platz der Republik,Versammlung,https://www.twitch.tv/echtzeiteubertragung,Staatendoof,
-3874,DE,2021-07-24,13:15:00,20359,Hamburg,Glacischaussee,Autokorso,,Freiheitsfahrer Hamburg,
-3757,DE,2021-07-24,14:00:00,74889,Sinsheim,P9 und P10 Parkplatz,Kundgebung,,Querdenken7261,
-3908,DE,2021-07-24,14:00:00,64385,Reichelsheim,B 38 Ortseingang Aldi,Zusammenkunft,,unbekannt,
-3903,DE,2021-07-24,14:00:00,80339,München,Theresienwiese,Autokorso,,Autokorso München,https://t.me/AutoKorsoMuc
-3913,DE,2021-07-24,14:00:00,56068,Koblenz,Jesuitenplatz,Mahnwache,,unbekannt,
-3915,DE,2021-07-24,14:00:00,79100,Freiburg,Karlsplatz,Aufzug,,unbekannt,
-3918,DE,2021-07-24,14:30:00,30449,Hannover,Ritter-Brüning-Straße,Autokorso,,Autocorso Hannover,
-3938,IT,2021-07-24,15:00:00,00000,OSTIA,VIALE MEDITERRANEO 85,Kundgebung,,IOAPRO,https://t.me/ioapro
-3904,DE,2021-07-24,15:00:00,40213,Düsseldorf,Burgplatz,Spaziergang,,unbekannt,
-3914,DE,2021-07-24,15:00:00,77855,Achern,Illenauer Alle 73,Kundgebung,,Ärzte | Anwälte | Menschen,
-3920,DE,2021-07-24,15:30:00,87600,Kaufbeuren,Obstmarkt / Fußgängerzone,Meditation,,unbekannt,
-3719,DE,2021-07-24,16:00:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,BI aufRECHT:FREIdenken,https://www.solidarnosch.de
-3937,IT,2021-07-24,17:30:00,00000,VARESE,Piazza Monte Grappa,Kundgebung,,IOAPRO,https://t.me/ioapro
-3925,IT,2021-07-24,17:30:00,00000,TORINO,PIAZZA CASTELLO,Kundgebung,,IOAPRO,https://t.me/ioapro
-3922,IT,2021-07-24,17:30:00,00000,Roma,PIAZZA DEL POPOLO,Kundgebung,,IOAPRO,https://t.me/ioapro
-3933,IT,2021-07-24,17:30:00,00000,REGGIO EMILIA,Piazza della Vittoria,Kundgebung,,IOAPRO,https://t.me/ioapro
-3940,IT,2021-07-24,17:30:00,00000,Ravenna,Piazza del popolo,Kundgebung,,IOAPRO,https://t.me/ioapro
-3939,IT,2021-07-24,17:30:00,00000,Pordenone (Friuli),piazza XX SETTEMBRE,Kundgebung,,IOAPRO,https://t.me/ioapro
-3936,IT,2021-07-24,17:30:00,00000,PESCARA,Piazza della Rinascita,Kundgebung,,IOAPRO,https://t.me/ioapro
-3935,IT,2021-07-24,17:30:00,00000,PARMA,Piazza Garibaldi,Kundgebung,,IOAPRO,https://t.me/ioapro
-3929,IT,2021-07-24,17:30:00,00000,PADOVA,Piazza Duomo,Kundgebung,,IOAPRO,https://t.me/ioapro
-3927,IT,2021-07-24,17:30:00,00000,NAPOLI,PIAZZA DANTE,Kundgebung,,IOAPRO,https://t.me/ioapro
-3926,IT,2021-07-24,17:30:00,00000,MILANO,Piazza Fontana,Kundgebung,,IOAPRO,https://t.me/ioapro
-3942,IT,2021-07-24,17:30:00,00000,Lodi,Piazza della Vittoria,Kundgebung,,IOAPRO,https://t.me/ioapro
-3923,IT,2021-07-24,17:30:00,00000,GENOVA,PIAZZA DE FERRARI,Kundgebung,,IOAPRO,https://t.me/ioapro
-3941,IT,2021-07-24,17:30:00,00000,Forlì,piazzale della Vittoria,Kundgebung,,IOAPRO,https://t.me/ioapro
-3924,IT,2021-07-24,17:30:00,00000,FIRENZE,Piazza della Signoria,Kundgebung,,IOAPRO,https://t.me/ioapro
-3943,IT,2021-07-24,17:30:00,00000,Como,Piazza Cavour,Kundgebung,,IOAPRO,https://t.me/ioapro
-3932,IT,2021-07-24,17:30:00,00000,Catania,Fontana dell Elefante,Kundgebung,,IOAPRO,https://t.me/ioapro
-3930,IT,2021-07-24,17:30:00,00000,CAGLIARI,Piazza Garibaldi,Kundgebung,,IOAPRO,https://t.me/ioapro
-3928,IT,2021-07-24,17:30:00,00000,BOLOGNA,Piazza Maggiore,Kundgebung,,IOAPRO,https://t.me/ioapro
-3934,IT,2021-07-24,17:30:00,00000,BIELLA,Piazza Martiri della Libertà,Kundgebung,,IOAPRO,https://t.me/ioapro
-3931,IT,2021-07-24,17:30:00,00000,BERGAMO,Davanti la Procura,Kundgebung,,IOAPRO,https://t.me/ioapro
-3901,DE,2021-07-24,18:00:00,90402,Nürnberg,Jakobsplatz,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 3894,DE,2021-07-25,08:45:00,50667,Köln,Dom,Gegenprotest,,Querdenker sind doof,
 3909,DE,2021-07-25,10:45:00,75015,Bretten,Stadtpark / Alter Friedhof,Meditation,,unbekannt,
 3849,DE,2021-07-25,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
