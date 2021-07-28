@@ -1,272 +1,679 @@
 from,to,title,group,value
-2,1,tp - Science & Technology,Gesundheit,2
-3,1,tp - Science & Technology,kollateralschäden,1
-4,1,tp - Science & Technology,lockdown,1
-6,5,Epoch Times,Impfung,2
-7,5,Epoch Times,Wissenschaft,2
-8,5,Epoch Times,virus-mutation,1
-6,9,reitschuster,Impfung,2
-10,9,reitschuster,Zahlen,2
-8,9,reitschuster,virus-mutation,1
-11,9,reitschuster,sterblichkeit,1
-13,12,Wochenblick,Widerstand,2
-14,12,Wochenblick,Poltik,2
-15,12,Wochenblick,massentest,1
-16,12,Wochenblick,kind,1
-17,12,Wochenblick,kultur,1
-7,18,Corona Transition,Wissenschaft,2
-19,18,Corona Transition,manipulation,1
-8,18,Corona Transition,virus-mutation,1
-20,18,Corona Transition,angst,1
-6,21,Report24,Impfung,2
-22,21,Report24,mit oder an impfung gestorben,1
-17,21,Report24,kultur,1
-23,21,Report24,johnson & johnson,1
-25,24,tp - Science & Technology,Studie,2
-16,24,tp - Science & Technology,kind,1
-26,24,tp - Science & Technology,immunität,1
-27,24,tp - Science & Technology,spike-protein,1
-6,28,Corona Transition,Impfung,2
-7,28,Corona Transition,Wissenschaft,2
-29,28,Corona Transition,auffrischungsimpfung,1
-6,30,medinside.ch,Impfung,2
-13,30,medinside.ch,Widerstand,2
-31,30,medinside.ch,impf-nebenwirkungen,1
-7,32,ScienceFiles,Wissenschaft,2
-33,32,ScienceFiles,zensur,1
-2,34,ScienceFiles,Gesundheit,2
-25,34,ScienceFiles,Studie,2
-26,34,ScienceFiles,immunität,1
-6,35,Wochenblick,Impfung,2
-26,35,Wochenblick,immunität,1
-6,36,ScienceFiles,Impfung,2
-10,36,ScienceFiles,Zahlen,2
-31,36,ScienceFiles,impf-nebenwirkungen,1
-22,36,ScienceFiles,mit oder an impfung gestorben,1
-19,36,ScienceFiles,manipulation,1
-2,37,medinside.ch,Gesundheit,2
-10,37,medinside.ch,Zahlen,2
-4,37,medinside.ch,lockdown,1
-38,37,medinside.ch,massnahmen,1
-39,37,medinside.ch,r-wert,1
-6,40,tp - Science & Technology,Impfung,2
-31,40,tp - Science & Technology,impf-nebenwirkungen,1
-16,40,tp - Science & Technology,kind,1
-41,40,tp - Science & Technology,jugend,1
-33,40,tp - Science & Technology,zensur,1
-6,42,Berliner Zeitung,Impfung,2
-2,42,Berliner Zeitung,Gesundheit,2
-41,42,Berliner Zeitung,jugend,1
-6,43,tp - Science & Technology,Impfung,2
-7,43,tp - Science & Technology,Wissenschaft,2
-25,43,tp - Science & Technology,Studie,2
-22,43,tp - Science & Technology,mit oder an impfung gestorben,1
-11,43,tp - Science & Technology,sterblichkeit,1
-7,44,Corona Transition,Wissenschaft,2
-13,44,Corona Transition,Widerstand,2
-45,44,Corona Transition,impf-stopp,1
-6,46,RT DE,Impfung,2
-31,46,RT DE,impf-nebenwirkungen,1
-47,46,RT DE,biontech,1
-48,46,RT DE,moderna,1
-49,46,RT DE,herzmuskelentzündung,1
-50,46,RT DE,ema,1
-6,51,Report24,Impfung,2
-29,51,Report24,auffrischungsimpfung,1
-52,51,Report24,stiko,1
-6,53,Corona Transition,Impfung,2
-10,53,Corona Transition,Zahlen,2
-22,53,Corona Transition,mit oder an impfung gestorben,1
-10,54,tp - Science & Technology,Zahlen,2
-2,54,tp - Science & Technology,Gesundheit,2
-8,54,tp - Science & Technology,virus-mutation,1
-56,55,Epoch Times,Medizin,2
-13,55,Epoch Times,Widerstand,2
-6,55,Epoch Times,Impfung,2
-57,55,Epoch Times,Recht,2
-58,55,Epoch Times,impfzwang,1
-10,59,ScienceFiles,Zahlen,2
-11,59,ScienceFiles,sterblichkeit,1
-19,59,ScienceFiles,manipulation,1
-7,60,Berliner Zeitung,Wissenschaft,2
-61,60,Berliner Zeitung,Mensch,2
-62,60,Berliner Zeitung,dialog,1
-20,60,Berliner Zeitung,angst,1
-61,63,medinside.ch,Mensch,2
-56,63,medinside.ch,Medizin,2
-64,63,medinside.ch,Spital,2
-6,63,medinside.ch,Impfung,2
-19,63,medinside.ch,manipulation,1
-6,65,RT DE,Impfung,2
-31,65,RT DE,impf-nebenwirkungen,1
-66,65,RT DE,geld,1
-67,65,RT DE,astrazeneca,1
-6,68,Epoch Times,Impfung,2
-13,68,Epoch Times,Widerstand,2
-7,68,Epoch Times,Wissenschaft,2
-16,68,Epoch Times,kind,1
-33,68,Epoch Times,zensur,1
-2,69,INFOsperber,Gesundheit,2
-10,69,INFOsperber,Zahlen,2
-8,69,INFOsperber,virus-mutation,1
-2,70,tp - Science & Technology,Gesundheit,2
-25,70,tp - Science & Technology,Studie,2
-20,70,tp - Science & Technology,angst,1
-57,71,Corona Transition,Recht,2
-13,71,Corona Transition,Widerstand,2
-72,71,Corona Transition,covid-19-gesetz,1
-73,71,Corona Transition,demokratie,1
-6,74,Frankfurter Rundschau,Impfung,2
-31,74,Frankfurter Rundschau,impf-nebenwirkungen,1
-67,74,Frankfurter Rundschau,astrazeneca,1
-6,75,ScienceFiles,Impfung,2
-10,75,ScienceFiles,Zahlen,2
-31,75,ScienceFiles,impf-nebenwirkungen,1
-22,75,ScienceFiles,mit oder an impfung gestorben,1
-56,76,Epoch Times,Medizin,2
-52,76,Epoch Times,stiko,1
-77,76,Epoch Times,therapeutikum,1
-25,78,tp - Science & Technology,Studie,2
-6,78,tp - Science & Technology,Impfung,2
-16,78,tp - Science & Technology,kind,1
-31,78,tp - Science & Technology,impf-nebenwirkungen,1
-22,78,tp - Science & Technology,mit oder an impfung gestorben,1
-7,79,Epoch Times,Wissenschaft,2
-80,79,Epoch Times,virus-ursprung,1
-6,81,Die Ostschweiz,Impfung,2
-58,81,Die Ostschweiz,impfzwang,1
-56,82,Wochenblick,Medizin,2
-6,82,Wochenblick,Impfung,2
-31,82,Wochenblick,impf-nebenwirkungen,1
-6,83,NZZ,Impfung,2
-13,83,NZZ,Widerstand,2
-58,83,NZZ,impfzwang,1
-6,84,INFOsperber,Impfung,2
-19,84,INFOsperber,manipulation,1
-41,84,INFOsperber,jugend,1
-6,85,Uncut-News,Impfung,2
-57,85,Uncut-News,Recht,2
-19,85,Uncut-News,manipulation,1
-47,85,Uncut-News,biontech,1
-7,86,tp - Science & Technology,Wissenschaft,2
-6,86,tp - Science & Technology,Impfung,2
-8,86,tp - Science & Technology,virus-mutation,1
-6,87,Report24,Impfung,2
-67,87,Report24,astrazeneca,1
-31,87,Report24,impf-nebenwirkungen,1
-6,88,Die Ostschweiz,Impfung,2
-2,88,Die Ostschweiz,Gesundheit,2
-89,88,Die Ostschweiz,Politik,2
-19,88,Die Ostschweiz,manipulation,1
-58,88,Die Ostschweiz,impfzwang,1
-2,90,ScienceFiles,Gesundheit,2
-38,90,ScienceFiles,massnahmen,1
-91,90,ScienceFiles,maske,1
-6,92,Die Ostschweiz,Impfung,2
-58,92,Die Ostschweiz,impfzwang,1
-93,92,Die Ostschweiz,bundesrat,1
-6,94,tp - Science & Technology,Impfung,2
-95,94,tp - Science & Technology,impfpass,1
-6,96,ScienceFiles,Impfung,2
-25,96,ScienceFiles,Studie,2
-10,96,ScienceFiles,Zahlen,2
-22,96,ScienceFiles,mit oder an impfung gestorben,1
-6,97,Report24,Impfung,2
-22,97,Report24,mit oder an impfung gestorben,1
-10,98,corona-blog.net,Zahlen,2
-15,98,corona-blog.net,massentest,1
-6,99,Wochenblick,Impfung,2
-16,99,Wochenblick,kind,1
-27,99,Wochenblick,spike-protein,1
-22,99,Wochenblick,mit oder an impfung gestorben,1
-6,100,Corona Transition,Impfung,2
-10,100,Corona Transition,Zahlen,2
-31,100,Corona Transition,impf-nebenwirkungen,1
-22,100,Corona Transition,mit oder an impfung gestorben,1
-101,100,Corona Transition,swissmedic,1
-7,102,reitschuster,Wissenschaft,2
-38,102,reitschuster,massnahmen,1
-4,102,reitschuster,lockdown,1
-3,102,reitschuster,kollateralschäden,1
-6,103,Report24,Impfung,2
-31,103,Report24,impf-nebenwirkungen,1
-16,103,Report24,kind,1
-105,104,Report24,Schule,2
-6,104,Report24,Impfung,2
-58,104,Report24,impfzwang,1
-49,104,Report24,herzmuskelentzündung,1
-41,104,Report24,jugend,1
-6,106,tp - Science & Technology,Impfung,2
-10,106,tp - Science & Technology,Zahlen,2
-31,106,tp - Science & Technology,impf-nebenwirkungen,1
-22,106,tp - Science & Technology,mit oder an impfung gestorben,1
-6,107,reitschuster,Impfung,2
-41,107,reitschuster,jugend,1
-31,107,reitschuster,impf-nebenwirkungen,1
-6,108,Report24,Impfung,2
-10,108,Report24,Zahlen,2
-47,108,Report24,biontech,1
-26,108,Report24,immunität,1
-25,109,Report24,Studie,2
-6,109,Report24,Impfung,2
-16,109,Report24,kind,1
-22,109,Report24,mit oder an impfung gestorben,1
-89,110,Corona Transition,Politik,2
-6,110,Corona Transition,Impfung,2
-93,110,Corona Transition,bundesrat,1
-6,111,Wochenblick,Impfung,2
-101,111,Wochenblick,swissmedic,1
-31,111,Wochenblick,impf-nebenwirkungen,1
-6,112,Corona Transition,Impfung,2
-22,112,Corona Transition,mit oder an impfung gestorben,1
-23,112,Corona Transition,johnson & johnson,1
-89,113,Berliner Zeitung,Politik,2
-6,113,Berliner Zeitung,Impfung,2
-52,113,Berliner Zeitung,stiko,1
-16,113,Berliner Zeitung,kind,1
-41,113,Berliner Zeitung,jugend,1
-6,114,corona-blog.net,Impfung,2
-13,114,corona-blog.net,Widerstand,2
-56,114,corona-blog.net,Medizin,2
-16,114,corona-blog.net,kind,1
-89,115,SRF,Politik,2
-57,115,SRF,Recht,2
-116,115,SRF,Wirtschaft,2
-33,115,SRF,zensur,1
-6,117,Wochenblick,Impfung,2
-56,117,Wochenblick,Medizin,2
-13,117,Wochenblick,Widerstand,2
-58,117,Wochenblick,impfzwang,1
-6,118,Weltwoche daily,Impfung,2
-101,118,Weltwoche daily,swissmedic,1
-22,118,Weltwoche daily,mit oder an impfung gestorben,1
-19,118,Weltwoche daily,manipulation,1
-6,119,Report24,Impfung,2
-22,119,Report24,mit oder an impfung gestorben,1
-47,119,Report24,biontech,1
-6,120,Epoch Times,Impfung,2
-56,120,Epoch Times,Medizin,2
-57,120,Epoch Times,Recht,2
-22,120,Epoch Times,mit oder an impfung gestorben,1
-6,121,corona-blog.net,Impfung,2
-31,121,corona-blog.net,impf-nebenwirkungen,1
-122,121,corona-blog.net,blutgerinnungsstörungen,1
-67,121,corona-blog.net,astrazeneca,1
-61,123,Die Ostschweiz,Mensch,2
-89,123,Die Ostschweiz,Politik,2
-20,123,Die Ostschweiz,angst,1
-3,123,Die Ostschweiz,kollateralschäden,1
-89,124,ntv,Politik,2
-8,124,ntv,virus-mutation,1
-20,124,ntv,angst,1
-19,124,ntv,manipulation,1
-25,125,ZDF,Studie,2
-10,125,ZDF,Zahlen,2
-126,125,ZDF,infektion,1
-89,127,RT DE,Politik,2
-116,127,RT DE,Wirtschaft,2
-128,127,RT DE,covidiot,1
-57,129,Epoch Times,Recht,2
-2,129,Epoch Times,Gesundheit,2
-130,129,Epoch Times,who,1
-77,129,Epoch Times,therapeutikum,1
+2,1,Achgut.com,Impfung,2
+3,1,Achgut.com,Gesundheit,2
+4,1,Achgut.com,kind,1
+6,5,AUF1.TV,Recht,2
+7,5,AUF1.TV,Medizin,2
+8,5,AUF1.TV,manipulation,1
+3,9,Corona Transition,Gesundheit,2
+4,9,Corona Transition,kind,1
+10,9,Corona Transition,massnahmen,1
+3,11,tp - Science & Technology,Gesundheit,2
+12,11,tp - Science & Technology,kollateralschäden,1
+13,11,tp - Science & Technology,lockdown,1
+2,14,Epoch Times,Impfung,2
+15,14,Epoch Times,Wissenschaft,2
+16,14,Epoch Times,virus-mutation,1
+2,17,substack.com,Impfung,2
+18,17,substack.com,Politik,2
+19,17,substack.com,impfzwang,1
+18,20,NZZ,Politik,2
+21,20,NZZ,covid-19-referendum,1
+2,22,reitschuster,Impfung,2
+23,22,reitschuster,Zahlen,2
+16,22,reitschuster,virus-mutation,1
+24,22,reitschuster,sterblichkeit,1
+6,25,Report24,Recht,2
+26,25,Report24,Widerstand,2
+10,25,Report24,massnahmen,1
+7,27,Wochenblick,Medizin,2
+2,27,Wochenblick,Impfung,2
+26,27,Wochenblick,Widerstand,2
+28,27,Wochenblick,impf-nebenwirkungen,1
+29,27,Wochenblick,mit oder an impfung gestorben,1
+26,30,Wochenblick,Widerstand,2
+31,30,Wochenblick,Poltik,2
+32,30,Wochenblick,massentest,1
+4,30,Wochenblick,kind,1
+33,30,Wochenblick,kultur,1
+15,34,Corona Transition,Wissenschaft,2
+8,34,Corona Transition,manipulation,1
+16,34,Corona Transition,virus-mutation,1
+35,34,Corona Transition,angst,1
+2,36,Report24,Impfung,2
+29,36,Report24,mit oder an impfung gestorben,1
+2,37,Report24,Impfung,2
+29,37,Report24,mit oder an impfung gestorben,1
+33,37,Report24,kultur,1
+38,37,Report24,johnson & johnson,1
+2,39,tp - Science & Technology,Impfung,2
+3,39,tp - Science & Technology,Gesundheit,2
+23,39,tp - Science & Technology,Zahlen,2
+24,39,tp - Science & Technology,sterblichkeit,1
+2,40,Aletheia,Impfung,2
+15,40,Aletheia,Wissenschaft,2
+7,40,Aletheia,Medizin,2
+26,40,Aletheia,Widerstand,2
+28,40,Aletheia,impf-nebenwirkungen,1
+29,40,Aletheia,mit oder an impfung gestorben,1
+2,41,INFOsperber,Impfung,2
+42,41,INFOsperber,jugend,1
+23,43,Swiss Policy Research,Zahlen,2
+2,43,Swiss Policy Research,Impfung,2
+29,43,Swiss Policy Research,mit oder an impfung gestorben,1
+2,44,Wochenblick,Impfung,2
+3,44,Wochenblick,Gesundheit,2
+45,44,Wochenblick,immunität,1
+47,46,tp - Science & Technology,Studie,2
+4,46,tp - Science & Technology,kind,1
+45,46,tp - Science & Technology,immunität,1
+48,46,tp - Science & Technology,spike-protein,1
+2,49,Wochenblick,Impfung,2
+28,49,Wochenblick,impf-nebenwirkungen,1
+6,50,tp - Science & Technology,Recht,2
+51,50,tp - Science & Technology,lockdown1,1
+2,52,Corona Transition,Impfung,2
+15,52,Corona Transition,Wissenschaft,2
+53,52,Corona Transition,auffrischungsimpfung,1
+2,54,medinside.ch,Impfung,2
+26,54,medinside.ch,Widerstand,2
+28,54,medinside.ch,impf-nebenwirkungen,1
+15,55,ScienceFiles,Wissenschaft,2
+56,55,ScienceFiles,zensur,1
+3,57,ScienceFiles,Gesundheit,2
+47,57,ScienceFiles,Studie,2
+45,57,ScienceFiles,immunität,1
+2,58,Wochenblick,Impfung,2
+45,58,Wochenblick,immunität,1
+2,59,ScienceFiles,Impfung,2
+23,59,ScienceFiles,Zahlen,2
+28,59,ScienceFiles,impf-nebenwirkungen,1
+29,59,ScienceFiles,mit oder an impfung gestorben,1
+8,59,ScienceFiles,manipulation,1
+2,60,ScienceFiles,Impfung,2
+6,60,ScienceFiles,Recht,2
+61,60,ScienceFiles,geld,1
+62,60,ScienceFiles,biontech,1
+3,63,medinside.ch,Gesundheit,2
+23,63,medinside.ch,Zahlen,2
+13,63,medinside.ch,lockdown,1
+10,63,medinside.ch,massnahmen,1
+64,63,medinside.ch,r-wert,1
+2,65,Achgut.com,Impfung,2
+66,65,Achgut.com,Mensch,2
+19,65,Achgut.com,impfzwang,1
+67,65,Achgut.com,dialog,1
+2,68,aargau-zuerich.ch,Impfung,2
+8,68,aargau-zuerich.ch,manipulation,1
+2,69,Corona Transition,Impfung,2
+28,69,Corona Transition,impf-nebenwirkungen,1
+2,70,tp - Science & Technology,Impfung,2
+28,70,tp - Science & Technology,impf-nebenwirkungen,1
+4,70,tp - Science & Technology,kind,1
+42,70,tp - Science & Technology,jugend,1
+56,70,tp - Science & Technology,zensur,1
+3,71,"Universitätsklinika in Freiburg, Heidelberg, Tübingen und Ulm",Gesundheit,2
+47,71,"Universitätsklinika in Freiburg, Heidelberg, Tübingen und Ulm",Studie,2
+4,71,"Universitätsklinika in Freiburg, Heidelberg, Tübingen und Ulm",kind,1
+45,71,"Universitätsklinika in Freiburg, Heidelberg, Tübingen und Ulm",immunität,1
+2,72,Berliner Zeitung,Impfung,2
+3,72,Berliner Zeitung,Gesundheit,2
+42,72,Berliner Zeitung,jugend,1
+2,73,tp - Science & Technology,Impfung,2
+15,73,tp - Science & Technology,Wissenschaft,2
+47,73,tp - Science & Technology,Studie,2
+29,73,tp - Science & Technology,mit oder an impfung gestorben,1
+24,73,tp - Science & Technology,sterblichkeit,1
+23,74,NZZ,Zahlen,2
+24,74,NZZ,sterblichkeit,1
+15,75,Corona Transition,Wissenschaft,2
+26,75,Corona Transition,Widerstand,2
+76,75,Corona Transition,impf-stopp,1
+2,77,RT DE,Impfung,2
+28,77,RT DE,impf-nebenwirkungen,1
+62,77,RT DE,biontech,1
+78,77,RT DE,moderna,1
+79,77,RT DE,herzmuskelentzündung,1
+80,77,RT DE,ema,1
+2,81,tp - Science & Technology,Impfung,2
+15,81,tp - Science & Technology,Wissenschaft,2
+16,81,tp - Science & Technology,virus-mutation,1
+82,81,tp - Science & Technology,infektion,1
+45,81,tp - Science & Technology,immunität,1
+2,83,Report24,Impfung,2
+53,83,Report24,auffrischungsimpfung,1
+84,83,Report24,stiko,1
+2,85,tp - Science & Technology,Impfung,2
+23,85,tp - Science & Technology,Zahlen,2
+86,85,tp - Science & Technology,impf-nebenwirkugen,1
+29,85,tp - Science & Technology,mit oder an impfung gestorben,1
+2,87,Corona Transition,Impfung,2
+23,87,Corona Transition,Zahlen,2
+29,87,Corona Transition,mit oder an impfung gestorben,1
+23,88,tp - Science & Technology,Zahlen,2
+3,88,tp - Science & Technology,Gesundheit,2
+16,88,tp - Science & Technology,virus-mutation,1
+7,89,Epoch Times,Medizin,2
+26,89,Epoch Times,Widerstand,2
+2,89,Epoch Times,Impfung,2
+6,89,Epoch Times,Recht,2
+19,89,Epoch Times,impfzwang,1
+2,90,Die Ostschweiz,Impfung,2
+28,90,Die Ostschweiz,impf-nebenwirkungen,1
+29,90,Die Ostschweiz,mit oder an impfung gestorben,1
+2,91,Report24,Impfung,2
+42,91,Report24,jugend,1
+29,91,Report24,mit oder an impfung gestorben,1
+93,92,Report24,Spital,2
+23,92,Report24,Zahlen,2
+8,92,Report24,manipulation,1
+23,94,ScienceFiles,Zahlen,2
+24,94,ScienceFiles,sterblichkeit,1
+8,94,ScienceFiles,manipulation,1
+15,95,Berliner Zeitung,Wissenschaft,2
+66,95,Berliner Zeitung,Mensch,2
+67,95,Berliner Zeitung,dialog,1
+35,95,Berliner Zeitung,angst,1
+66,96,medinside.ch,Mensch,2
+7,96,medinside.ch,Medizin,2
+93,96,medinside.ch,Spital,2
+2,96,medinside.ch,Impfung,2
+8,96,medinside.ch,manipulation,1
+23,97,Die Ostschweiz,Zahlen,2
+66,97,Die Ostschweiz,Mensch,2
+98,97,Die Ostschweiz,BAG,2
+67,97,Die Ostschweiz,dialog,1
+99,97,Die Ostschweiz,swissmedic,1
+2,100,RT DE,Impfung,2
+28,100,RT DE,impf-nebenwirkungen,1
+61,100,RT DE,geld,1
+101,100,RT DE,astrazeneca,1
+18,102,Die Ostschweiz,Politik,2
+35,102,Die Ostschweiz,angst,1
+2,103,Rubikon,Impfung,2
+26,103,Rubikon,Widerstand,2
+19,103,Rubikon,impfzwang,1
+6,104,reitschuster,Recht,2
+13,104,reitschuster,lockdown,1
+2,105,Report24,Impfung,2
+24,105,Report24,sterblichkeit,1
+29,105,Report24,mit oder an impfung gestorben,1
+2,106,ScienceFiles,Impfung,2
+23,106,ScienceFiles,Zahlen,2
+45,106,ScienceFiles,immunität,1
+2,107,Epoch Times,Impfung,2
+26,107,Epoch Times,Widerstand,2
+15,107,Epoch Times,Wissenschaft,2
+4,107,Epoch Times,kind,1
+56,107,Epoch Times,zensur,1
+3,108,INFOsperber,Gesundheit,2
+23,108,INFOsperber,Zahlen,2
+16,108,INFOsperber,virus-mutation,1
+3,109,tp - Science & Technology,Gesundheit,2
+47,109,tp - Science & Technology,Studie,2
+35,109,tp - Science & Technology,angst,1
+2,110,tp - Science & Technology,Impfung,2
+3,110,tp - Science & Technology,Gesundheit,2
+16,110,tp - Science & Technology,virus-mutation,1
+6,111,Corona Transition,Recht,2
+112,111,Corona Transition,lockdown2,1
+6,113,Corona Transition,Recht,2
+26,113,Corona Transition,Widerstand,2
+114,113,Corona Transition,covid-19-gesetz,1
+115,113,Corona Transition,demokratie,1
+47,116,reitschuster,Studie,2
+15,116,reitschuster,Wissenschaft,2
+45,116,reitschuster,immunität,1
+3,117,Die Welt,Gesundheit,2
+66,117,Die Welt,Mensch,2
+4,117,Die Welt,kind,1
+42,117,Die Welt,jugend,1
+12,117,Die Welt,kollateralschäden,1
+2,118,Frankfurter Rundschau,Impfung,2
+28,118,Frankfurter Rundschau,impf-nebenwirkungen,1
+101,118,Frankfurter Rundschau,astrazeneca,1
+18,119,Corona Transition,Politik,2
+114,119,Corona Transition,covid-19-gesetz,1
+2,120,ScienceFiles,Impfung,2
+23,120,ScienceFiles,Zahlen,2
+28,120,ScienceFiles,impf-nebenwirkungen,1
+29,120,ScienceFiles,mit oder an impfung gestorben,1
+2,121,ScienceFiles,Impfung,2
+78,121,ScienceFiles,moderna,1
+8,121,ScienceFiles,manipulation,1
+7,122,Epoch Times,Medizin,2
+84,122,Epoch Times,stiko,1
+123,122,Epoch Times,therapeutikum,1
+23,124,Report24,Zahlen,2
+7,124,Report24,Medizin,2
+6,124,Report24,Recht,2
+24,124,Report24,sterblichkeit,1
+2,125,ntv,Impfung,2
+53,125,ntv,auffrischungsimpfung,1
+47,126,tp - Science & Technology,Studie,2
+2,126,tp - Science & Technology,Impfung,2
+4,126,tp - Science & Technology,kind,1
+28,126,tp - Science & Technology,impf-nebenwirkungen,1
+29,126,tp - Science & Technology,mit oder an impfung gestorben,1
+2,127,Wochenblick,Impfung,2
+6,127,Wochenblick,Recht,2
+42,127,Wochenblick,jugend,1
+2,128,ScienceFiles,Impfung,2
+28,128,ScienceFiles,impf-nebenwirkungen,1
+130,129,Uncut-News,Wissenscahft,2
+47,129,Uncut-News,Studie,2
+131,129,Uncut-News,maske,1
+2,132,medinside.ch,Impfung,2
+98,132,medinside.ch,BAG,2
+19,132,medinside.ch,impfzwang,1
+28,132,medinside.ch,impf-nebenwirkungen,1
+15,133,Epoch Times,Wissenschaft,2
+134,133,Epoch Times,virus-ursprung,1
+23,135,Swiss Policy Research,Zahlen,2
+16,135,Swiss Policy Research,virus-mutation,1
+24,135,Swiss Policy Research,sterblichkeit,1
+2,136,corona-blog.net,Impfung,2
+29,136,corona-blog.net,mit oder an impfung gestorben,1
+137,136,corona-blog.net,pei,1
+2,138,Report24,Impfung,2
+6,138,Report24,Recht,2
+62,138,Report24,biontech,1
+61,138,Report24,geld,1
+2,139,Corona Transition,Impfung,2
+4,139,Corona Transition,kind,1
+62,139,Corona Transition,biontech,1
+2,140,Die Ostschweiz,Impfung,2
+3,140,Die Ostschweiz,Gesundheit,2
+8,140,Die Ostschweiz,manipulation,1
+18,141,Corona Transition,Politik,2
+142,141,Corona Transition,budesrat,1
+8,141,Corona Transition,manipulation,1
+2,143,ScienceFiles,Impfung,2
+23,143,ScienceFiles,Zahlen,2
+28,143,ScienceFiles,impf-nebenwirkungen,1
+29,143,ScienceFiles,mit oder an impfung gestorben,1
+2,144,Die Ostschweiz,Impfung,2
+19,144,Die Ostschweiz,impfzwang,1
+2,145,Wochenblick,Impfung,2
+29,145,Wochenblick,mit oder an impfung gestorben,1
+7,146,Wochenblick,Medizin,2
+2,146,Wochenblick,Impfung,2
+28,146,Wochenblick,impf-nebenwirkungen,1
+2,147,NZZ,Impfung,2
+26,147,NZZ,Widerstand,2
+19,147,NZZ,impfzwang,1
+149,148,INFOsperber,Schule,2
+23,148,INFOsperber,Zahlen,2
+4,148,INFOsperber,kind,1
+32,148,INFOsperber,massentest,1
+82,148,INFOsperber,infektion,1
+23,150,ScienceFiles,Zahlen,2
+10,150,ScienceFiles,massnahmen,1
+16,150,ScienceFiles,virus-mutation,1
+2,151,Die Ostschweiz,Impfung,2
+6,151,Die Ostschweiz,Recht,2
+152,151,Die Ostschweiz,impfpass,1
+98,153,Die Ostschweiz,BAG,2
+2,153,Die Ostschweiz,Impfung,2
+155,154,Die Ostschweiz,P(l)andemie,2
+8,154,Die Ostschweiz,manipulation,1
+2,156,RT DE,Impfung,2
+157,156,RT DE,who,1
+158,156,RT DE,kreuzimpfung,1
+2,159,ScienceFiles,Impfung,2
+23,159,ScienceFiles,Zahlen,2
+62,159,ScienceFiles,biontech,1
+45,159,ScienceFiles,immunität,1
+2,160,ScienceFiles,Impfung,2
+23,160,ScienceFiles,Zahlen,2
+28,160,ScienceFiles,impf-nebenwirkungen,1
+29,160,ScienceFiles,mit oder an impfung gestorben,1
+2,161,Report24,Impfung,2
+28,161,Report24,impf-nebenwirkungen,1
+29,161,Report24,mit oder an impfung gestorben,1
+15,162,Corona Transition,Wissenschaft,2
+2,162,Corona Transition,Impfung,2
+134,162,Corona Transition,virus-ursprung,1
+149,163,tp - Science & Technology,Schule,2
+23,163,tp - Science & Technology,Zahlen,2
+131,163,tp - Science & Technology,maske,1
+2,164,INFOsperber,Impfung,2
+8,164,INFOsperber,manipulation,1
+42,164,INFOsperber,jugend,1
+2,165,Uncut-News,Impfung,2
+6,165,Uncut-News,Recht,2
+8,165,Uncut-News,manipulation,1
+62,165,Uncut-News,biontech,1
+2,166,INFOsperber,Impfung,2
+3,166,INFOsperber,Gesundheit,2
+67,167,Die Ostschweiz,dialog,1
+8,167,Die Ostschweiz,manipulation,1
+3,168,tp - Science & Technology,Gesundheit,2
+47,168,tp - Science & Technology,Studie,2
+4,168,tp - Science & Technology,kind,1
+45,168,tp - Science & Technology,immunität,1
+15,169,tp - Science & Technology,Wissenschaft,2
+2,169,tp - Science & Technology,Impfung,2
+16,169,tp - Science & Technology,virus-mutation,1
+2,170,Report24,Impfung,2
+101,170,Report24,astrazeneca,1
+28,170,Report24,impf-nebenwirkungen,1
+2,171,Die Ostschweiz,Impfung,2
+3,171,Die Ostschweiz,Gesundheit,2
+18,171,Die Ostschweiz,Politik,2
+8,171,Die Ostschweiz,manipulation,1
+19,171,Die Ostschweiz,impfzwang,1
+47,172,tp - Science & Technology,Studie,2
+4,172,tp - Science & Technology,kind,1
+42,172,tp - Science & Technology,jugend,1
+173,172,tp - Science & Technology,long covid,1
+3,174,ScienceFiles,Gesundheit,2
+10,174,ScienceFiles,massnahmen,1
+131,174,ScienceFiles,maske,1
+2,175,Die Ostschweiz,Impfung,2
+19,175,Die Ostschweiz,impfzwang,1
+176,175,Die Ostschweiz,bundesrat,1
+2,177,tp - Science & Technology,Impfung,2
+152,177,tp - Science & Technology,impfpass,1
+2,178,ScienceFiles,Impfung,2
+47,178,ScienceFiles,Studie,2
+23,178,ScienceFiles,Zahlen,2
+29,178,ScienceFiles,mit oder an impfung gestorben,1
+18,179,Corona Transition,Politik,2
+66,179,Corona Transition,Mensch,2
+180,179,Corona Transition,taskforce,1
+35,179,Corona Transition,angst,1
+2,181,Report24,Impfung,2
+29,181,Report24,mit oder an impfung gestorben,1
+23,182,corona-blog.net,Zahlen,2
+32,182,corona-blog.net,massentest,1
+15,183,Report24,Wissenschaft,2
+134,183,Report24,virus-ursprung,1
+2,184,Wochenblick,Impfung,2
+23,184,Wochenblick,Zahlen,2
+8,184,Wochenblick,manipulation,1
+29,184,Wochenblick,mit oder an impfung gestorben,1
+2,185,Swiss Policy Research,Impfung,2
+23,185,Swiss Policy Research,Zahlen,2
+45,185,Swiss Policy Research,immunität,1
+28,185,Swiss Policy Research,impf-nebenwirkungen,1
+29,185,Swiss Policy Research,mit oder an impfung gestorben,1
+6,186,SRF,Recht,2
+10,186,SRF,massnahmen,1
+2,187,Report24,Impfung,2
+23,187,Report24,Zahlen,2
+45,187,Report24,immunität,1
+23,188,Rubikon,Zahlen,2
+8,188,Rubikon,manipulation,1
+10,188,Rubikon,massnahmen,1
+15,189,tp - Science & Technology,Wissenschaft,2
+8,189,tp - Science & Technology,manipulation,1
+98,190,Die Ostschweiz,BAG,2
+66,190,Die Ostschweiz,Mensch,2
+19,190,Die Ostschweiz,impfzwang,1
+2,191,Wochenblick,Impfung,2
+4,191,Wochenblick,kind,1
+48,191,Wochenblick,spike-protein,1
+29,191,Wochenblick,mit oder an impfung gestorben,1
+2,192,Corona Transition,Impfung,2
+23,192,Corona Transition,Zahlen,2
+28,192,Corona Transition,impf-nebenwirkungen,1
+29,192,Corona Transition,mit oder an impfung gestorben,1
+99,192,Corona Transition,swissmedic,1
+15,193,reitschuster,Wissenschaft,2
+10,193,reitschuster,massnahmen,1
+13,193,reitschuster,lockdown,1
+12,193,reitschuster,kollateralschäden,1
+2,194,Swissmedic,Impfung,2
+99,194,Swissmedic,swissmedic,1
+28,194,Swissmedic,impf-nebenwirkungen,1
+47,195,tp - Science & Technology,Studie,2
+3,195,tp - Science & Technology,Gesundheit,2
+45,195,tp - Science & Technology,immunität,1
+2,196,tp - Science & Technology,Impfung,2
+15,196,tp - Science & Technology,Wissenschaft,2
+4,196,tp - Science & Technology,kind,1
+42,196,tp - Science & Technology,jugend,1
+155,197,aargau-zuerich.ch,P(l)andemie,2
+8,197,aargau-zuerich.ch,manipulation,1
+3,198,tp - Science & Technology,Gesundheit,2
+4,198,tp - Science & Technology,kind,1
+13,198,tp - Science & Technology,lockdown,1
+2,199,Achgut.com,Impfung,2
+47,199,Achgut.com,Studie,2
+24,199,Achgut.com,sterblichkeit,1
+2,200,Report24,Impfung,2
+28,200,Report24,impf-nebenwirkungen,1
+4,200,Report24,kind,1
+18,201,reitschuster,Politik,2
+66,201,reitschuster,Mensch,2
+19,201,reitschuster,impfzwang,1
+2,202,INFOsperber,Impfung,2
+42,202,INFOsperber,jugend,1
+4,202,INFOsperber,kind,1
+2,203,ntv,Impfung,2
+158,203,ntv,kreuzimpfung,1
+157,203,ntv,who,1
+2,204,RT DE,Impfung,2
+18,204,RT DE,Politik,2
+4,204,RT DE,kind,1
+42,204,RT DE,jugend,1
+84,204,RT DE,stiko,1
+2,205,Report24,Impfung,2
+28,205,Report24,impf-nebenwirkungen,1
+2,206,tp - Science & Technology,Impfung,2
+28,206,tp - Science & Technology,impf-nebenwirkungen,1
+207,206,tp - Science & Technology,blutgerinnungsstörungen,1
+149,208,Report24,Schule,2
+2,208,Report24,Impfung,2
+19,208,Report24,impfzwang,1
+79,208,Report24,herzmuskelentzündung,1
+42,208,Report24,jugend,1
+2,209,Corona Transition,Impfung,2
+62,209,Corona Transition,biontech,1
+45,209,Corona Transition,immunität,1
+2,210,tp - Science & Technology,Impfung,2
+23,210,tp - Science & Technology,Zahlen,2
+28,210,tp - Science & Technology,impf-nebenwirkungen,1
+29,210,tp - Science & Technology,mit oder an impfung gestorben,1
+2,211,RT DE,Impfung,2
+23,211,RT DE,Zahlen,2
+28,211,RT DE,impf-nebenwirkungen,1
+29,211,RT DE,mit oder an impfung gestorben,1
+137,211,RT DE,pei,1
+2,212,Weltwoche daily,Impfung,2
+28,212,Weltwoche daily,impf-nebenwirkungen,1
+29,212,Weltwoche daily,mit oder an impfung gestorben,1
+2,213,reitschuster,Impfung,2
+42,213,reitschuster,jugend,1
+28,213,reitschuster,impf-nebenwirkungen,1
+2,214,Report24,Impfung,2
+23,214,Report24,Zahlen,2
+62,214,Report24,biontech,1
+45,214,Report24,immunität,1
+2,215,reitschuster,Impfung,2
+23,215,reitschuster,Zahlen,2
+45,215,reitschuster,immunität,1
+47,216,Report24,Studie,2
+2,216,Report24,Impfung,2
+4,216,Report24,kind,1
+29,216,Report24,mit oder an impfung gestorben,1
+18,217,Die Ostschweiz,Politik,2
+26,217,Die Ostschweiz,Widerstand,2
+8,217,Die Ostschweiz,manipulation,1
+18,218,Corona Transition,Politik,2
+2,218,Corona Transition,Impfung,2
+176,218,Corona Transition,bundesrat,1
+8,219,RT DE,manipulation,1
+220,219,RT DE,welle4,1
+2,221,Wochenblick,Impfung,2
+99,221,Wochenblick,swissmedic,1
+28,221,Wochenblick,impf-nebenwirkungen,1
+3,222,INFOsperber,Gesundheit,2
+10,222,INFOsperber,massnahmen,1
+12,222,INFOsperber,kollateralschäden,1
+2,223,tp - Science & Technology,Impfung,2
+23,223,tp - Science & Technology,Zahlen,2
+45,223,tp - Science & Technology,immunität,1
+28,223,tp - Science & Technology,impf-nebenwirkungen,1
+2,224,ntv,Impfung,2
+15,224,ntv,Wissenschaft,2
+4,224,ntv,kind,1
+101,224,ntv,astrazeneca,1
+2,225,ScienceFiles,Impfung,2
+23,225,ScienceFiles,Zahlen,2
+28,225,ScienceFiles,impf-nebenwirkungen,1
+29,225,ScienceFiles,mit oder an impfung gestorben,1
+2,226,tp - Science & Technology,Impfung,2
+23,226,tp - Science & Technology,Zahlen,2
+16,226,tp - Science & Technology,virus-mutation,1
+2,227,Corona Transition,Impfung,2
+7,227,Corona Transition,Medizin,2
+26,227,Corona Transition,Widerstand,2
+4,227,Corona Transition,kind,1
+42,227,Corona Transition,jugend,1
+2,228,Corona Transition,Impfung,2
+29,228,Corona Transition,mit oder an impfung gestorben,1
+38,228,Corona Transition,johnson & johnson,1
+2,229,corona-blog.net,Impfung,2
+23,229,corona-blog.net,Zahlen,2
+28,229,corona-blog.net,impf-nebenwirkungen,1
+29,229,corona-blog.net,mit oder an impfung gestorben,1
+93,230,Corona Transition,Spital,2
+23,230,Corona Transition,Zahlen,2
+8,230,Corona Transition,manipulation,1
+15,231,Epoch Times,Wissenschaft,2
+134,231,Epoch Times,virus-ursprung,1
+232,231,Epoch Times,wuhan,1
+8,231,Epoch Times,manipulation,1
+15,233,Report24,Wissenschaft,2
+234,233,Report24,pcr-test,1
+18,235,Berliner Zeitung,Politik,2
+2,235,Berliner Zeitung,Impfung,2
+84,235,Berliner Zeitung,stiko,1
+4,235,Berliner Zeitung,kind,1
+42,235,Berliner Zeitung,jugend,1
+237,236,RT DE,Behörde,2
+234,236,RT DE,pcr-test,1
+2,238,Corona Transition,Impfung,2
+239,238,Corona Transition,willkür,1
+2,240,Report24,Impfung,2
+23,240,Report24,Zahlen,2
+45,240,Report24,immunität,1
+15,241,Corona Transition,Wissenschaft,2
+234,241,Corona Transition,pcr-test,1
+2,242,corona-blog.net,Impfung,2
+26,242,corona-blog.net,Widerstand,2
+7,242,corona-blog.net,Medizin,2
+4,242,corona-blog.net,kind,1
+8,243,Wochenblick,manipulation,1
+18,244,linth24,Politik,2
+26,244,linth24,Widerstand,2
+114,244,linth24,covid-19-gesetz,1
+115,244,linth24,demokratie,1
+2,245,Report24,Impfung,2
+7,245,Report24,Medizin,2
+28,245,Report24,impf-nebenwirkungen,1
+207,245,Report24,blutgerinnungsstörungen,1
+2,246,reitschuster,Impfung,2
+28,246,reitschuster,impf-nebenwirkungen,1
+80,246,reitschuster,ema,1
+79,246,reitschuster,herzmuskelentzündung,1
+31,247,substack.com,Poltik,2
+157,247,substack.com,who,1
+248,247,substack.com,great reset,1
+115,247,substack.com,demokratie,1
+2,249,Corona Transition,Impfung,2
+15,249,Corona Transition,Wissenschaft,2
+48,249,Corona Transition,spike-protein,1
+18,250,SRF,Politik,2
+6,250,SRF,Recht,2
+251,250,SRF,Wirtschaft,2
+56,250,SRF,zensur,1
+2,252,Epoch Times,Impfung,2
+28,252,Epoch Times,impf-nebenwirkungen,1
+38,252,Epoch Times,johnson & johnson,1
+2,253,INFOsperber,Impfung,2
+93,253,INFOsperber,Spital,2
+35,253,INFOsperber,angst,1
+2,254,Wochenblick,Impfung,2
+7,254,Wochenblick,Medizin,2
+26,254,Wochenblick,Widerstand,2
+19,254,Wochenblick,impfzwang,1
+26,255,Focus Online,Widerstand,2
+33,255,Focus Online,kultur,1
+2,256,Wochenblick,Impfung,2
+7,256,Wochenblick,Medizin,2
+26,256,Wochenblick,Widerstand,2
+28,256,Wochenblick,impf-nebenwirkungen,1
+155,257,Report24,P(l)andemie,2
+6,257,Report24,Recht,2
+157,257,Report24,who,1
+234,257,Report24,pcr-test,1
+258,257,Report24,asymptomatisch,1
+61,257,Report24,geld,1
+2,259,Weltwoche daily,Impfung,2
+99,259,Weltwoche daily,swissmedic,1
+29,259,Weltwoche daily,mit oder an impfung gestorben,1
+8,259,Weltwoche daily,manipulation,1
+15,260,Corona Transition,Wissenschaft,2
+134,260,Corona Transition,virus-ursprung,1
+8,260,Corona Transition,manipulation,1
+232,260,Corona Transition,wuhan,1
+2,261,Report24,Impfung,2
+29,261,Report24,mit oder an impfung gestorben,1
+62,261,Report24,biontech,1
+18,262,substack.com,Politik,2
+10,262,substack.com,massnahmen,1
+2,263,Epoch Times,Impfung,2
+7,263,Epoch Times,Medizin,2
+6,263,Epoch Times,Recht,2
+29,263,Epoch Times,mit oder an impfung gestorben,1
+2,264,Rubikon,Impfung,2
+23,264,Rubikon,Zahlen,2
+29,264,Rubikon,mit oder an impfung gestorben,1
+2,265,corona-blog.net,Impfung,2
+28,265,corona-blog.net,impf-nebenwirkungen,1
+207,265,corona-blog.net,blutgerinnungsstörungen,1
+101,265,corona-blog.net,astrazeneca,1
+66,266,Die Ostschweiz,Mensch,2
+18,266,Die Ostschweiz,Politik,2
+35,266,Die Ostschweiz,angst,1
+12,266,Die Ostschweiz,kollateralschäden,1
+18,267,ntv,Politik,2
+16,267,ntv,virus-mutation,1
+35,267,ntv,angst,1
+8,267,ntv,manipulation,1
+47,268,ZDF,Studie,2
+23,268,ZDF,Zahlen,2
+82,268,ZDF,infektion,1
+7,269,Epoch Times,Medizin,2
+26,269,Epoch Times,Widerstand,2
+35,269,Epoch Times,angst,1
+155,270,tp - Science & Technology,P(l)andemie,2
+2,270,tp - Science & Technology,Impfung,2
+8,270,tp - Science & Technology,manipulation,1
+137,270,tp - Science & Technology,pei,1
+2,271,Corona Transition,Impfung,2
+23,271,Corona Transition,Zahlen,2
+99,271,Corona Transition,swissmedic,1
+29,271,Corona Transition,mit oder an impfung gestorben,1
+28,271,Corona Transition,impf-nebenwirkungen,1
+98,272,Die Ostschweiz,BAG,2
+2,272,Die Ostschweiz,Impfung,2
+4,272,Die Ostschweiz,kind,1
+42,272,Die Ostschweiz,jugend,1
+8,272,Die Ostschweiz,manipulation,1
+2,273,Die Welt,Impfung,2
+18,273,Die Welt,Politik,2
+19,273,Die Welt,impfzwang,1
+18,274,RT DE,Politik,2
+251,274,RT DE,Wirtschaft,2
+275,274,RT DE,covidiot,1
+6,276,Epoch Times,Recht,2
+3,276,Epoch Times,Gesundheit,2
+157,276,Epoch Times,who,1
+123,276,Epoch Times,therapeutikum,1
+3,277,Uncut-News,Gesundheit,2
+47,277,Uncut-News,Studie,2
+24,277,Uncut-News,sterblichkeit,1

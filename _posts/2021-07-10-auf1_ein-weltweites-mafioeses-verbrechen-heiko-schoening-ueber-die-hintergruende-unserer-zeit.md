@@ -7,7 +7,7 @@ description:   '„Wir sind heute für dieses Interview an einen Ausgangspunkt d
 country:       [AT]
 categories:    [Recht, Medizin, Video]
 tags:          [manipulation]
+peertubeId:    "64c41af7-b698-44aa-b73e-cd3a875b2088"
+peertubeUrl:   "auf1.eu"
 ---
-<video width="100%" controls autoplay>
-  <source src="https://auf1.eu/download/streaming-playlists/hls/videos/64c41af7-b698-44aa-b73e-cd3a875b2088-1080-fragmented.mp4" type="video/mp4" />
-</video>
+{% include peertubePlayer.html id=page.peertubeId tube=page.peertubeUrl %}

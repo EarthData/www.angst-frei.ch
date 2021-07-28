@@ -3,6 +3,7 @@ date:          2021-05-14
 layout:        post
 title:         Timeline
 subtitle:      'Neue Timeline "P(l)andemie"'
+country:       [CH]
 categories:    [P(l)andemie]
 tags:          [intern, pinned]
 ---

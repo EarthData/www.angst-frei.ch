@@ -1140,11 +1140,10 @@ from,to,title,group,value
 20,495,BAG,Impfung,2
 35,495,BAG,bundesrat,1
 435,495,BAG,astrazeneca,1
-214,496,BR24,Behörde,2
-2,496,BR24,Politik,2
-7,496,BR24,Widerstand,2
-29,496,BR24,maske,1
-28,496,BR24,kind,1
+214,496,BR,Behörde,2
+2,496,BR,Politik,2
+29,496,BR,maske,1
+28,496,BR,kind,1
 16,497,RT DE,Wissenschaft,2
 79,497,RT DE,evidenz,1
 22,497,RT DE,lockdown,1
