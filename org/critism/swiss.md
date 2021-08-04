@@ -91,6 +91,12 @@ Geistreiches Informations- und Aufklärungsportal
 
 | {{ site.icons.globe }}    | [gnueheudunge.ch](https://gnueheudunge.ch/) |
 
+## Graswurzle.ch
+
+Graswurzle ist die Bewegung von unten, die konstruktive Lösungen für die Krise bietet.
+
+| {{ site.icons.globe }}    | [graswurzle.ch](https://graswurzle.ch) |
+
 ## Inside Corona
 
 InsideCorona ist eine unabhängige Plattform und eine Bewegung von Unternehmerinnen und Unternehmer sowie Expertinnen und Experten, welche von Dr. med. Stephan Rietiker ins Leben gerufen wurde.

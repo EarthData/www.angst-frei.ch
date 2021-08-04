@@ -52,7 +52,7 @@ def build_network(files)
       node_count += 1
     end
   
-    if graph_country
+    if graph_country and meta_data['country']
       meta_data['country'].each do |country|
         if network_nodes[country]
           #puts "#{meta_data['subtitle']} already exists"

@@ -1,0 +1,32 @@
+---
+layout:
+title:
+permalink: /json/network-country-data.json
+---
+
+{
+  "nodes": [
+    {%- for node in site.data.network-country-nodes -%}
+    {
+      "id": "{{ node.id }}",
+      "value": "{{ node.value }}",
+      "title": "{{ node.title | replace: '"', "'" }}",
+      "link": "{{ node.link }}",
+      "group": "{{ node.group }}"
+    }
+    {%unless forloop.last %},{%endunless%}
+    {%- endfor -%}
+  ],
+  "links": [
+    {%- for edge in site.data.network-country-edges -%}
+    {
+      "source": "{{ edge.from }}",
+      "target": "{{ edge.to }}",
+      "title": "{{ edge.title }}",
+      "group": "{{ edge.group }}",
+      "value": "{{ edge.value }}"
+    }
+    {%unless forloop.last %},{%endunless%}
+    {%- endfor -%}
+  ]
+}
