@@ -19,11 +19,14 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3988,DE,2021-08-09,19:00:00,08056,Zwickau,Hauptmarkt,Kundgebung,,unbekannt,
 3954,DE,2021-08-09,19:00:00,26386,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
 4000,DE,2021-08-09,19:00:00,17033,Neubrandenburg,Marktplatz / Innenstadt,Spaziergang,,unbekannt,
+4024,DE,2021-08-09,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,unbekannt,
 3990,DE,2021-08-09,20:00:00,08056,Zwickau,Hauptmarkt,Vortrag,,unbekannt,
 4007,DE,2021-08-11,16:00:00,70184,Stuttgart,Dobelstr. / Hohenheimer Str.,Kundgebung,,Privat,
+4023,DE,2021-08-11,18:00:00,80539,München,Wittelsbacher Platz,Aufzug,,München steht auf,https://t.me/muenchenstehtauf
+4025,DE,2021-08-11,19:00:00,86343,Königsbrunn,Markplatz / Rathaus,Kundgebung,,unbekannt,
 3944,DE,2021-08-12,17:30:00,68159,Mannheim,Marktplatz / G1,Kundgebung,https://youtu.be/Wyqc5BhfQwE,Offene Gesellschaft Kurpfalz,http://offges.de?p=587
 3796,DE,2021-08-12,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
-3948,DE,2021-08-12,18:30:00,63457,Großauheim,Main �Pilgerstr. /  Leinpfad,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
+3948,DE,2021-08-12,18:30:00,63457,Großauheim,Main Pilgerstr. / Leinpfad,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
 4001,DE,2021-08-13,17:00:00,70190,Stuttgart,Neckarstraße 230 / SWR Funkhaus,Kundgebung,,unbekannt,https://www.facebook.com/groups/DemoTermine
 3887,DE,2021-08-14,13:00:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,BI aufRECHT:FREIdenken,https://www.solidarnosch.de/Covid-19.htm
 4012,DE,2021-08-14,13:15:00,20359,Hamburg,Reeperbahn,Autokorso,,Freiheitsfahrer Hamburg,
@@ -33,14 +36,16 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3677,DE,2021-08-16,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 3955,DE,2021-08-16,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
 3946,DE,2021-08-18,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
+4026,DE,2021-08-18,19:00:00,86343,Königsbrunn,Markplatz / Rathaus,Kundgebung,,unbekannt,
 3797,DE,2021-08-19,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
-3949,DE,2021-08-19,18:30:00,63457,Großauheim,Main �Pilgerstr. /  Leinpfad,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
+3949,DE,2021-08-19,18:30:00,63457,Großauheim,Main Pilgerstr. / Leinpfad,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
 3888,DE,2021-08-21,13:00:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,BI aufRECHT:FREIdenken,https://www.solidarnosch.de/Covid-19.htm
 4017,DE,2021-08-21,17:00:00,80331,München,Marienplatz,Kundgebung,,UlliOma�Family u. Friends,https://t.me/UlliOma_Muc
 3678,DE,2021-08-23,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 3956,DE,2021-08-23,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
+4027,DE,2021-08-25,19:00:00,86343,Königsbrunn,Markplatz / Rathaus,Kundgebung,,unbekannt,
 3798,DE,2021-08-26,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
-3950,DE,2021-08-26,18:30:00,63457,Großauheim,Main �Pilgerstr. /  Leinpfad,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
+3950,DE,2021-08-26,18:30:00,63457,Großauheim,Main Pilgerstr. / Leinpfad,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
 3889,DE,2021-08-28,13:00:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,BI aufRECHT:FREIdenken,https://www.solidarnosch.de/Covid-19.htm
 4018,DE,2021-08-28,17:00:00,81373,München,Harras am Brunnen,Kundgebung,,UlliOma�Family u. Friends,https://t.me/UlliOma_Muc
 3679,DE,2021-08-30,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
