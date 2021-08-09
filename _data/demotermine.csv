@@ -1,5 +1,6 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
 4002,DE,2021-08-09,18:00:00,92421,Schwandorf / Haslbach,Kirchawirt,Zusammenkunft,,unbekannt,
+4038,DE,2021-08-09,18:00:00,92421,Schwandorf / Haslbach,Kirchawirt,Zusammenkunft,,unbekannt,
 4015,DE,2021-08-09,18:00:00,33106,Paderborn,Frankfurter Weg 22 / Hochstift,Kundgebung,,unbekannt,
 3676,DE,2021-08-09,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 4003,DE,2021-08-09,18:30:00,29221,Celle,Stechbahn / Schloß,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,
@@ -28,6 +29,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 4034,DE,2021-08-14,15:00:00,90402,Nürnberg,Jakobsplatz,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 3780,DE,2021-08-14,15:00:00,39104,Magdeburg,Domplatz,Demonstration,,unbekannt,
 4016,DE,2021-08-14,17:00:00,80802,München,Münchner Freiheit,Kundgebung,,UlliOma�Family u. Friends,https://t.me/UlliOma_Muc
+4037,DE,2021-08-15,10:45:00,75015,Bretten,Stadtpark / Alter Friedhof,Meditation,,unbekannt,
 3851,DE,2021-08-15,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
 3677,DE,2021-08-16,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 3955,DE,2021-08-16,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
