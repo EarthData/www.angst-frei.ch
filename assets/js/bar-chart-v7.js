@@ -34,7 +34,7 @@ const graph = async (year, group, ydomain) => {
   legendClassArray[group] = []; //store legend classes to select bars in plotSingle()
   y_orig[group]; //to store original y-posn
 
-  d3.csv("data_processed/death_" + year + "_" + group + ".csv")
+  d3.csv("data_bag_processed/death_" + year + "_" + group + ".csv")
     .then(function(data) {
 
     color.domain(data.columns.filter(function(key) { return key !== "week"; }));

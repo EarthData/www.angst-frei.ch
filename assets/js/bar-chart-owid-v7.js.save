@@ -1,0 +1,270 @@
+var margin = {top: 30, right: 70, bottom: 40, left: 40},
+  width = parseInt(d3.select('#CHE').style('width'), 10),
+  width = width - margin.left - margin.right,
+  height = 500 - margin.top - margin.bottom;
+
+var x = d3.scaleTime()
+  .range([0, width]);
+var y0 = d3.scaleLinear()
+  .range([height, 0]);
+var y1 = d3.scaleLinear()
+  .range([height, 0]);
+var z = d3.scaleOrdinal()
+  .range(["blue", "green", "black"]);
+
+var xAxis      = d3.axisBottom(x);
+var yAxisLeft  = d3.axisLeft(y0).tickFormat(d3.format(".2s"));
+var yAxisRight = d3.axisRight(y1).tickFormat(d3.format(".2s"));
+
+var parseTime  = d3.timeParse("%Y-W%W");
+    bisectDate = d3.bisector(function(d) { return d.date; }).left;
+
+const graph = async (country) => {
+
+  var title = country;
+
+  d3.csv("data_owid_processed/data_owid_" + country + ".csv")
+    .then(function(data) {
+
+    data.forEach(function(d) {
+      d.date = parseTime(d.date);
+    });
+
+    var svg = d3.select("#" + country).append("svg")
+      .attr("width", width + margin.left + margin.right)
+      .attr("height", height + margin.top + margin.bottom)
+      .attr("class", "svg-" + country)
+      .append("g")
+      .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+    svg.append("text")
+      .attr("x", (width / 2))
+      .attr("y", 0 - (margin.top / 2))
+      .attr("text-anchor", "middle")
+      .style("font-size", "16px")
+      .style("text-decoration", "underline")
+      .text(title);
+
+    var focus = svg.append("g") 
+      .style("display", "none");
+
+    z.domain(data.columns.filter(function(key) { return key !== "date"; }));
+
+    var line0 = d3.line()
+      .curve(d3.curveBasis)
+      .x(function(d) {
+        return x(d.date);
+      })
+      .y(function(d) {
+        return y0(d.line0);
+      });
+
+    var line1 = d3.line()
+      .curve(d3.curveBasis)
+      .x(function(d) {
+        return x(d.date);
+      })
+      .y(function(d) {
+        return y1(d.line1);
+      });
+
+    var fields = z.domain().map(function(name) {
+      return {
+        name: name,
+        values: data.map(function(d) {
+          if (name == "new_cases") {
+            return { date: d.date, line0: +d[name] };
+          } else if (name == "new_vaccinations") {
+            return { date: d.date, line0: +d[name] };
+          } else if (name == "new_deaths") {
+            return { date: d.date, line1: +d[name] };
+          }
+        })
+      };
+    });
+
+    x.domain(d3.extent(data, function(d) { return d.date; }));
+
+    y0.domain([
+      d3.min(fields, function(c) {
+        return d3.min(c.values, function(v) {
+          return v.line0;
+        });
+      }),
+      d3.max(fields, function(c) {
+        return d3.max(c.values, function(v) {
+          return v.line0;
+        });
+      })
+    ]);
+
+    y1.domain([
+      d3.min(fields, function(c) {
+        return d3.min(c.values, function(v) {
+          return v.line1;
+        });
+      }),
+      d3.max(fields, function(c) {
+        return d3.max(c.values, function(v) {
+          return v.line1;
+        });
+      })
+    ]);
+
+    var legend = svg.selectAll('g')
+      .data(fields)
+      .enter()
+      .append('g')
+      .attr('class', 'legend');
+
+    legend.append('rect')
+      .attr('x', width - 20)
+      .attr('y', function(d, i) {
+        return i * 20;
+      })
+      .attr('width', 10)
+      .attr('height', 10)
+      .style('fill', function(d) {
+        return z(d.name);
+      });
+
+    legend.append('text')
+      .attr('x', width - 8)
+      .attr('y', function(d, i) {
+        return (i * 20) + 9;
+      })
+      .text(function(d) {
+        return d.name;
+      });
+
+    svg.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(0," + height + ")")
+      .call(xAxis);
+
+    svg.append("g")
+      .attr("class", "y axis")
+      .call(yAxisLeft)
+      .append("text")
+      .attr("transform", "rotate(-90)")
+      .attr("y", 6)
+      .attr("dy", ".71em")
+      .style("text-anchor", "end")
+      .text("per million");
+
+    svg.append("g")				
+      .attr("class", "y axis")	
+      .attr("transform", "translate(" + width + " ,0)")	
+      .style("fill", "red")		
+      .call(yAxisRight);
+
+    // append the circle at the intersection 
+    // append the x line
+    focus.append("line")
+        .attr("class", "x")
+        .style("stroke", "blue")
+        .style("stroke-dasharray", "3,3")
+        .style("opacity", 0.5)
+        .attr("y1", 0)
+        .attr("y2", height);
+
+    // append the y line
+    focus.append("line")
+        .attr("class", "y")
+        .style("stroke", "blue")
+        .style("stroke-dasharray", "3,3")
+        .style("opacity", 0.5)
+        .attr("x1", width)
+        .attr("x2", width);
+
+    focus.append("circle")
+      .attr("class", "y")
+      .style("fill", "none")
+      .style("stroke", "blue")
+      .attr("r", 4);
+
+    svg.append("rect")
+      .attr("width", width)
+      .attr("height", height)
+      .style("fill", "none")
+      .style("pointer-events", "all")
+      .on("mouseover", function() { focus.style("display", null); })
+      .on("mouseout", function() { focus.style("display", "none"); })
+      .on("mousemove", mousemove);
+
+    var singlevalue0 = svg.selectAll("." + country)
+      .data(fields)
+      .enter().append("g")
+      .attr("class", country + "-line0");
+
+    singlevalue0.append("path")
+      .attr("class", "line0")
+      .attr("d", function(d) {
+        return line0(d.values);
+      })
+      .style("stroke", function(d) {
+        return z(d.name);
+      })
+      //Our new hover effects
+      .on('mouseover', function (d, i) {
+        d3.select(this).transition()
+          .duration('50')
+          .attr('opacity', '.5');
+      })
+      .on('mouseout', function (d, i) {
+        d3.select(this).transition()
+          .duration('50')
+          .attr('opacity', '1');
+      });
+
+    var singlevalue1 = svg.selectAll("." + country)
+      .data(fields)
+      .enter().append("g")
+      .attr("class", country + "-line1");
+
+    singlevalue1.append("path")
+      .attr("class", "line1")
+      .attr("d", function(d) {
+        return line1(d.values);
+      })
+      .style("stroke", function(d) {
+        return z(d.name);
+      });
+
+    function mousemove() {
+      var x0 = x.invert(d3.pointer(event,this)[0]);
+      var x0 = x.invert(d3.pointer(event,this)[0]),
+        i = bisectDate(data, x0, 1),
+        d0 = data[i - 1],
+        d1 = data[i],
+        d = x0 - d0.date > d1.date - x0 ? d1 : d0;
+
+      focus.select("circle.y")
+        .attr("transform","translate(" + x(d.date) + "," + y0(d.new_cases) + ")");
+      focus.select(".x")
+        .attr("transform","translate(" + x(d.date) + "," + y0(d.new_cases) + ")")
+        .attr("y2", height - y0(d.new_cases));
+      focus.select(".y")
+        .attr("transform","translate(" + width * -1 + "," + y0(d.new_cases) + ")")
+        .attr("x2", width + width);
+    }
+
+  })
+  .catch(function(error){
+    throw error;
+  })
+
+}
+
+const build = async () => {
+  await graph("CHE");
+  //await graph("DEU");
+  //await graph("AUT");
+  //await graph("ISL");
+  //await graph("GBR");
+  //await graph("IND");
+  //await graph("USA");
+  //await graph("ISR");
+}
+
+build();

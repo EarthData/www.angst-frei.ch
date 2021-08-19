@@ -26,6 +26,7 @@ subtitle: Politische Initiativen
  * [Immunität bei Coronaverbrechen sei aufzuheben ...](https://www.neue-volkspartei.ch/petition) (Neue Volkspartei)
  * [Petition zur Lockdown-Politik des Bundesrates](https://wirbestimmen.ch/index.php/de/petition-lockdown-de) (Wir bestimmen…)
  * [Unabhängige Untersuchung der Corona-Krise](https://fruehling2020.com/) (Frühling2020)
+ * [Reorganisation der Swissmedic](https://www.change.org/p/au-pr%C3%A9sident-du-conseil-national-et-aux-parlementaires-suisses-la-r%C3%A9organisation-imm%C3%A9diate-de-swissmedic) 
 
 ## Kind
 

@@ -30,7 +30,7 @@ subtitle: Zahlen, Fakten
 
 ## Sterblichkeit
 
-Quelle: [Bundesamt für Statistik - Todesfälle]{https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung/geburten-todesfaelle/todesfaelle.html}
+Quelle: [Bundesamt für Statistik - Todesfälle - Todesfälle nach Fünf-Jahres-Altersgruppe, Geschlecht, Woche und Kanton](https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung/geburten-todesfaelle/todesfaelle.html)
 
  * [CH-2021]({{ site.baseurl }}/d3/index_2021.html)
  * [CH-2020]({{ site.baseurl }}/d3/index_2020.html)
