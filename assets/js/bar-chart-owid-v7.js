@@ -7,6 +7,8 @@ var margin = {top: 30, right: 70, bottom: 40, left: 40},
 var x = d3.scaleTime()
   .range([0, width]);
 
+var y = d3.scaleLinear()
+  .range([height, 0]);
 var y0 = d3.scaleLinear()
   .range([height, 0]);
 var y1 = d3.scaleLinear()
@@ -20,12 +22,12 @@ var colors0 = ["blue", "green"]
 var colors1 = ["black"]
 var colors  = colors0.concat(colors1);
 
+var z = d3.scaleOrdinal()
+  .range(colors);
 var z0 = d3.scaleOrdinal()
   .range(colors0);
 var z1 = d3.scaleOrdinal()
   .range(colors1);
-var z = d3.scaleOrdinal()
-  .range(colors);
 
 var xAxis      = d3.axisBottom(x);
 var yAxisLeft  = d3.axisLeft(y0).tickFormat(d3.format(".2s"));
@@ -110,6 +112,19 @@ const graph = async (country) => {
     });
 
     x.domain(d3.extent(data, function(d) { return d.date; }));
+
+    y.domain([
+      d3.min(fields, function(c) {
+        return d3.min(c.values, function(v) {
+          return v.line;
+        });
+      }),
+      d3.max(fields, function(c) {
+        return d3.max(c.values, function(v) {
+          return v.line;
+        });
+      })
+    ]);
 
     y0.domain([
       d3.min(fields0, function(c) {
@@ -316,7 +331,7 @@ const graph = async (country) => {
             }
             
             d3.select(this).select('text')
-              .text(y0.invert(pos.y).toFixed(2));
+              .text(y.invert(pos.y).toFixed(2));
               
             return "translate(" + mouse[0] + "," + pos.y +")";
           });
