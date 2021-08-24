@@ -45,7 +45,7 @@ def process_year(year)
   open("data_bag_processed/death_#{year}_young.csv", 'w') do |f|
     f.puts header_young
     data[:CH].each do |week, values|
-      f.puts "#{week},#{values[:Y0T4]},#{values[:Y5T9]},#{values[:Y10T14]},#{values[:Y15T19]},#{values[:Y20T24]},#{values[:Y25T29]},#{values[:Y30T34]},#{values[:Y35T39]},#{values[:Y40T44]},#{values[:Y45T49]},#{values[:Y50T54]},#{values[:Y55T59]},#{values[:Y60T64]}"
+      f.puts "#{week},#{values[:Y0T4]},#{values[:Y5T9]},#{values[:Y10T14]},#{values[:Y15T19]},#{values[:Y20T24]},#{values[:Y25T29]},#{values[:Y30T34]},#{values[:Y35T39]},#{values[:Y40T44]},#{values[:Y45T49]}"
     end
   end
 
@@ -53,7 +53,7 @@ def process_year(year)
   open("data_bag_processed/death_#{year}_old.csv", 'w') do |f|
     f.puts header_old
     data[:CH].each do |week, values|
-      f.puts "#{week},#{values[:Y65T69]},#{values[:Y70T74]},#{values[:Y75T79]},#{values[:Y80T84]},#{values[:Y85T89]},#{values[:Y_GE90]}"
+      f.puts "#{week},#{values[:Y50T54]},#{values[:Y55T59]},#{values[:Y60T64]},#{values[:Y65T69]},#{values[:Y70T74]},#{values[:Y75T79]},#{values[:Y80T84]},#{values[:Y85T89]},#{values[:Y_GE90]}"
     end
   end
 
@@ -73,7 +73,7 @@ def process_year(year)
   open("data_bag_processed/death_all_young.csv", 'a') do |f|
     f.puts header_all_young
     data[:CH].each do |week, values|
-      f.puts "#{year},#{week},#{values[:Y65T69]},#{values[:Y70T74]},#{values[:Y75T79]},#{values[:Y80T84]},#{values[:Y85T89]},#{values[:Y_GE90]}"
+      f.puts "#{year},#{week},#{values[:Y0T4]},#{values[:Y5T9]},#{values[:Y10T14]},#{values[:Y15T19]},#{values[:Y20T24]},#{values[:Y25T29]},#{values[:Y30T34]},#{values[:Y35T39]},#{values[:Y40T44]},#{values[:Y45T49]}"
     end
   end
 
