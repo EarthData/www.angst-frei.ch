@@ -1,33 +1,58 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
 4088,DE,2021-08-25,12:00:00,19053,Schwerin,Mecklenburgstraße,Treffpunkt,,unbekannt,
 4108,DE,2021-08-25,17:30:00,32756,Detmold,Marktplatz,Meditation,,Lippe für Freiheit | Frieden und menschliches Miteinander,
+4112,DE,2021-08-25,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 4110,DE,2021-08-25,18:00:00,80331,München,Wittelsbacher Platz,Aufzug,,Münchenstehtauf,
 4109,DE,2021-08-25,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander,
 4027,DE,2021-08-25,19:00:00,86343,Königsbrunn,Markplatz / Rathaus,Kundgebung,,unbekannt,
 3798,DE,2021-08-26,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 3950,DE,2021-08-26,18:30:00,63457,Großauheim,Main Pilgerstr. / Leinpfad,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
+4121,DE,2021-08-26,18:30:00,60313,Frankfurt am Main,Kaiserhof 12,Parteiveranstaltung,,unbekannt,
+4113,DE,2021-08-26,19:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
+4118,DE,2021-08-26,19:45:00,12689,Berlin,Hohenwalder Str. 2 / vor Schule,Kundgebung,,Autokorso Berlin,
+4119,DE,2021-08-27,17:30:00,12619,Berlin,Hellersdorfer Str. 159 / Parkpl.,Autokorso,,Autokorso Berlin,
+4114,DE,2021-08-27,19:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
+4132,DE,2021-08-28,13:00:00,76530,Baden-Baden,Sophienstr. 1B,Kundgebung,,unbekannt,http://www.solidarnosch.de
 3889,DE,2021-08-28,13:00:00,76530,Baden-Baden,Lange Str. 2 / Blume-Brunnen,Kundgebung,,BI aufRECHT:FREIdenken,https://www.solidarnosch.de/Covid-19.htm
+4120,DE,2021-08-28,13:30:00,12619,Berlin,Hellersdorfer Str. 159 / Parkpl.,Autokorso,,Autokorso Berlin,
+4137,DE,2021-08-28,14:00:00,56068,Koblenz,Jesuitenplatz,Mahnwache,,unbekannt,
 4018,DE,2021-08-28,17:00:00,81373,München,Harras am Brunnen,Kundgebung,,UlliOma Family u. Friends,https://t.me/UlliOma_Muc
+4115,DE,2021-08-28,18:00:00,90402,Nürnberg,Jakobsplatz,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 3679,DE,2021-08-30,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 4086,DE,2021-08-30,18:30:00,21680,Stade,Bürgerpark,Spaziergang,,Buxaktiv,https://t.me/buxaktiv
+4116,DE,2021-08-30,18:30:00,29221,Celle,Stechbahn - Schloß,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,
 4066,DE,2021-08-30,18:30:00,99510,Apolda,Rathaus / Markt,Spaziergang,,unbekannt,
 3957,DE,2021-08-30,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
+4124,DE,2021-09-01,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,http://www.hanau-steht-auf.de
 4028,DE,2021-09-02,17:30:00,67346,Speyer,Domgarten / Steinbühne,Kundgebung,https://youtu.be/xqqRqAuSsq8,Offene Gesellschaft Kurpfalz,http://offges.de/02-09-speyer/
 3799,DE,2021-09-02,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
+4127,DE,2021-09-02,18:30:00,63457,Großauheim,Main Pilgerstr./Ecke Leinpfad,Mahnwache,,Hanau steht auf!,http://www.hanau-steht-auf.de
 4067,DE,2021-09-04,13:00:00,76133,Karlsruhe,Platz der Grundrechte,Schilderwald,,1bis19 e.V. Baden-Württemberg,https://initiative.1bis19.de/
 4094,DE,2021-09-04,13:00:00,20359,Hamburg,Glacischaussee,Autokorso,,Freiheitsfahrer Hamburg,
+4122,DE,2021-09-04,13:00:00,64283,Darmstadt,Karolinenplatz,Parteiveranstaltung,,unbekannt,
+4133,DE,2021-09-04,13:00:00,76530,Baden-Baden,Sophienstr. 1B,Kundgebung,,BI aufRECHT:FREIdenken,http://www.solidarnosch.de
 4019,DE,2021-09-04,17:00:00,80634,München,Rotkreuzplatz,Kundgebung,,UlliOma Family u. Friends,https://t.me/UlliOma_Muc
 3680,DE,2021-09-06,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
+4123,DE,2021-09-08,17:30:00,60311,Frankfurt am Main,Römerberg,Parteiveranstaltung,,unbekannt,
 3800,DE,2021-09-09,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
+4128,DE,2021-09-09,18:30:00,63457,Großauheim,Main Pilgerstr./Ecke Leinpfad,Mahnwache,,Hanau steht auf!,http://www.hanau-steht-auf.de
 4104,DE,2021-09-11,11:00:00,11011,Berlin,Platz der Republik,Kundgebung,https://www.twitch.tv/echtzeiteubertragung,Staatendoof,https://staatenlos.info/
+4134,DE,2021-09-11,13:00:00,76530,Baden-Baden,Sophienstr. 1B,Kundgebung,,BI aufRECHT:FREIdenken,http://www.solidarnosch.de
 4020,DE,2021-09-11,17:00:00,80331,München,Marienplatz,Kundgebung,,UlliOma Family u. Friends,https://t.me/UlliOma_Muc
 3681,DE,2021-09-13,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
+4125,DE,2021-09-15,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,http://www.hanau-steht-auf.de
 3801,DE,2021-09-16,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
+4129,DE,2021-09-16,18:30:00,63457,Großauheim,Main Pilgerstr./Ecke Leinpfad,Mahnwache,,Hanau steht auf!,http://www.hanau-steht-auf.de
+4135,DE,2021-09-18,13:00:00,76530,Baden-Baden,Sophienstr. 1B,Kundgebung,,BI aufRECHT:FREIdenken,http://www.solidarnosch.de
 4021,DE,2021-09-18,17:00:00,80802,München,Münchner Freiheit,Kundgebung,,UlliOma Family u. Friends,https://t.me/UlliOma_Muc
 3682,DE,2021-09-20,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 3802,DE,2021-09-23,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
+4130,DE,2021-09-23,18:30:00,63457,Großauheim,Main Pilgerstr./Ecke Leinpfad,Mahnwache,,Hanau steht auf!,http://www.hanau-steht-auf.de
+4136,DE,2021-09-25,13:00:00,76530,Baden-Baden,Sophienstr. 1B,Kundgebung,,BI aufRECHT:FREIdenken,http://www.solidarnosch.de
 4022,DE,2021-09-25,17:00:00,81373,München,Harras am Brunnen,Kundgebung,,UlliOma Family u. Friends,https://t.me/UlliOma_Muc
+4126,DE,2021-09-29,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,http://www.hanau-steht-auf.de
 3803,DE,2021-09-30,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
+4131,DE,2021-09-30,18:30:00,63457,Großauheim,Main Pilgerstr./Ecke Leinpfad,Mahnwache,,Hanau steht auf!,http://www.hanau-steht-auf.de
 2271,DE,2021-10-04,14:30:00,06232,Speyer,Domplatz,Kundgebung,https://dlive.tv/Live-Reports-DUEW,Querdenken 6341,https://www.querdenken-6341.de
 3804,DE,2021-10-07,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 3805,DE,2021-10-14,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
