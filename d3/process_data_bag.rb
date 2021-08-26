@@ -79,8 +79,8 @@ def process_year(year)
 
 end
 
-File.delete("data_processed/death_all_old.csv") if File.exist?("data_processed/death_all_old.csv")
-File.delete("data_processed/death_all_young.csv") if File.exist?("data_processed/death_all_young.csv")
+File.delete("data_bag_processed/death_all_old.csv") if File.exist?("data_processed/death_all_old.csv")
+File.delete("data_bag_processed/death_all_young.csv") if File.exist?("data_processed/death_all_young.csv")
 ["2015","2016","2017","2018","2019","2020","2021"].each do |year|
   process_year(year);
 end
