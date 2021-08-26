@@ -19,7 +19,7 @@ def process_data()
     data[geo.to_sym] = Hash[weeks.map{ |key| [key.to_s.to_sym, Hash[ages.map{ |key| [key.to_sym, Hash[types.map{ |key| [key.to_sym, 0]}]] }]] }]
   end
 
-  CSV.foreach("data_ch/COVID19Hosp_geoRegion_AKL10_w.csv",{quote_char: '"', col_sep: ",", encoding: "bom|utf-8", headers: true, header_converters: :symbol, converters: :all} ) do |row|
+  CSV.foreach("data_hosp/COVID19Hosp_geoRegion_AKL10_w.csv",{quote_char: '"', col_sep: ",", encoding: "bom|utf-8", headers: true, header_converters: :symbol, converters: :all} ) do |row|
    
     next if row[:georegion] != "CHFL"
 
@@ -34,12 +34,10 @@ def process_data()
     data[geo.to_sym][week.to_s.to_sym][:Total][:covid] += row[:entries]
   end
 
-  CSV.foreach("data_ch/COVID19Hosp_vaccpersons_AKL10_w.csv",{quote_char: '"', col_sep: ",", encoding: "bom|utf-8", headers: true, header_converters: :symbol, converters: :all} ) do |row|
+  CSV.foreach("data_hosp/COVID19Hosp_vaccpersons_AKL10_w.csv",{quote_char: '"', col_sep: ",", encoding: "bom|utf-8", headers: true, header_converters: :symbol, converters: :all} ) do |row|
    
 
     next if row[:georegion] != "CHFL"
-
-    puts row
 
     geo = geo_short[row[:georegion].to_sym]
     age = row[:altersklasse_covid19]
@@ -53,15 +51,15 @@ def process_data()
     data[geo.to_sym][week.to_s.to_sym][:Total][:vacc] += row[:entries]
   end
 
-  header           = "week,covid,vacc"
+  header           = "week,0-9,10-19,20-29,30-39,40-49,50-59,60-69,70-79,80-"
 
-  File.new("data_ch_processed/hosp.csv", 'w')
-  open("data_ch_processed/hosp.csv", 'w') do |f|
-    f.puts header
-    data[:CHFL].each do |week, values|
-      puts week
-      puts values
-      f.puts "#{week},#{values[:Total][:covid]},#{values[:Total][:vacc]}"
+  ["covid","vacc"].each do |group|
+    File.new("data_hosp_processed/hosp_#{group}.csv", 'w')
+    open("data_hosp_processed/hosp_#{group}.csv", 'w') do |f|
+      f.puts header
+      data[:CHFL].each do |week, values|
+        f.puts "#{week},#{values[:"0 - 9"][group.to_sym]},#{values[:"10 - 19"][group.to_sym]},#{values[:"20 - 29"][group.to_sym]},#{values[:"30 - 39"][group.to_sym]},#{values[:"40 - 49"][group.to_sym]},#{values[:"50 - 59"][group.to_sym]},#{values[:"60 - 69"][group.to_sym]},#{values[:"70 - 79"][group.to_sym]},#{values[:"80+"][group.to_sym]}"
+      end
     end
   end
 end
