@@ -5,7 +5,7 @@ title:         Timeline
 subtitle:      'Neue Timeline "P(l)andemie"'
 country:       [CH]
 categories:    [P(l)andemie]
-tags:          [intern, pinned]
+tags:          [intern]
 ---
 
 Neue [Timeline]({{ site.baseurl }}/timeline/plandemie.html) "P(l)andemie".
