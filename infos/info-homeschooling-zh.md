@@ -35,8 +35,6 @@ Im ersten Jahr braucht es keine Lehrkräfte mit Diplom. Somit vorerst sich selbe
 ### Ferien planen
 Die Ferien können selber gewählt werden. Es kann z.B. auch sofort eine Woche Ferien gemacht werden, um dem Kind Stress zu nehmen. In dieser Zeit kann alles aufgegleist werden für Homeschooling.
  
-Lektionen planen gemäss Wochenlektionen für Homeschooling
-
 ### Stundenplan erstellen
 
 Generell ist es möglich, die minimale Anzahl Lektionen für 3.-6. Klasse jeweils am Morgen zu erledigen und den Nachmittag individuell zu gestalten (mit Hobbies, Freunde treffen, Schulstoff vertiefen, Aufgaben erledigen, sonst fürs Leben lernen,...)
@@ -74,3 +72,8 @@ bei 4-5 Kinder:  20 Lektionen à 45 min
  * [Bildung zu Hause Schweiz](https://www.bildungzuhause.ch)
  * [Eltern für Freiheit](https://www.elternfuerfreiheit.ch)
  * [Swiss-Success-School](http://future-of-school.ch/)
+
+## Studien
+
+ * [Schutz oder Gefahr? Über 50 Studien welche gegen das Tragen von Mund-Nasen Bedeckungen sprechen](https://corona-blog.net/schutz_oder_gefahr_ueber_50_studien-welche-gegen-das-tragen-von-mund-nasen-bedeckungen-sprechen/)
+ * [Die Evidenzlage zu Mund-Nasen-Bedeckungen](https://www.aerztefueraufklaerung.de/masken/index.php)
