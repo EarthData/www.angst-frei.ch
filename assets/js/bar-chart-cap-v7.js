@@ -204,10 +204,16 @@ const build = async () => {
   await graph("CH", "icu", 1600);
   await graph("ZH", "nonicu", 5000);
   await graph("ZH", "icu", 500);
-  await graph("SZ", "nonicu", 500);
-  await graph("SZ", "icu", 50);
+  await graph("BE", "nonicu", 2500);
+  await graph("BE", "icu", 150);
+  await graph("GE", "nonicu", 3000);
+  await graph("GE", "icu", 140);
   await graph("SG", "nonicu", 1500);
   await graph("SG", "icu", 100);
+  await graph("SO", "nonicu", 600);
+  await graph("SO", "icu", 40);
+  await graph("SZ", "nonicu", 400);
+  await graph("SZ", "icu", 20);
 }
 
 build();

@@ -71,7 +71,22 @@ bei 4-5 Kinder:  20 Lektionen à 45 min
 
  * [Bildung zu Hause Schweiz](https://www.bildungzuhause.ch)
  * [Eltern für Freiheit](https://www.elternfuerfreiheit.ch)
+ * [Homeschooling in der Schweiz](https://swisshomeschoolfamily.org)
  * [Swiss-Success-School](http://future-of-school.ch/)
+ 
+### Campus Vivere
+
+#### Webseite
+
+ * [www.campus-vivere.com](https://www.campus-vivere.com/)
+
+#### Telegram-Gruppe
+
+ * [CAMPUS VIVERE - lernen, leben, lachen](https://t.me/CAMPUS_VIVERE)
+
+### andere Telegram-Gruppen
+
+ * [WIR - Homeschooling - Schweiz](https://t.me/wirhomeschoolingschweiz)
 
 ## Studien
 

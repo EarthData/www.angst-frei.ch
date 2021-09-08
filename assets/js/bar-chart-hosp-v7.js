@@ -9,7 +9,21 @@ var legendClassArray = {};
 var nodes = {};
 var idx = {};
 
-const graph = async (year, region, type, ydomain) => {
+var parseTime  = d3.timeParse("%Y-%W");
+
+// List of groups (here I have one group per column)
+var allGroup = ["ZH", "SG", "AG"]
+
+// add the options to the button
+d3.select("#selectButton")
+  .selectAll('myOptions')
+  .data(allGroup)
+  .enter()
+  .append('option')
+  .text(function (d) { return d; }) // text showed in the menu
+  .attr("value", function (d) { return d; }) // corresponding value returned by the button
+
+const graph = async (year, region, type) => {
 
   if (type == "covid") {
     var title = region + " Hospitalisationen nach Alter (Covid) " + year;
@@ -17,24 +31,9 @@ const graph = async (year, region, type, ydomain) => {
     var title = region + " Hospitalisationen nach Alter (Covid-geimpft) " + year;
   }
 
-  var x = d3.scaleBand()
-    .rangeRound([0, width])
-    .padding(0.1);
-
-  var y = d3.scaleLinear()
-    .rangeRound([height, 0]);
-
-  var color = d3.scaleOrdinal()
-    .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"]);
-
-  var xAxis = d3.axisBottom(x);
-  var yAxis = d3.axisLeft(y).tickFormat(d3.format(".2s"));
-
   var group = region.toLowerCase() + "-" + type + "-" + year;
 
   var divid = region == "CHFL" ? group : type + "-" + year;
-
-  console.log(divid);
 
   active_link[group] = "0"; //to control legend selections and hover
   legendClassArray[group] = []; //store legend classes to select bars in plotSingle()
@@ -43,16 +42,38 @@ const graph = async (year, region, type, ydomain) => {
   var graph = await d3.csv("data_hosp_processed/hosp_" + year + "-" + region + "-" + type + ".csv")
     .then(function(data) {
 
-    color.domain(data.columns.filter(function(key) { return key !== "week"; }));
+    var keys = data.columns.slice(1)
 
     data.forEach(function(d) {
-      var myweek = d.week; //add to stock code
-      var y0 = 0;
-      d.ages = color.domain().map(function(name) { return {myweek:myweek, name: name, y0: y0, y1: y0 += +d[name]}; });
+      for (i = 0, t = 0; i < keys.length; ++i) t += d[keys[i]] = +d[keys[i]];
+      d.total = t;
+      y0 = 0;
+      d.week = parseTime(year + "-" + d.week);
+      d.ages = keys.map(function(name) { return {myweek: d.week, name: name, y0: y0, y1: y0 += +d[name]}; });
     });
 
-    x.domain(data.map(function(d) { return d.week; }));
-    y.domain([0, ydomain]);
+    var x = d3.scaleTime()
+      .domain(d3.extent(data, function(d) { return d.week; }))
+      .range([5, width - 10]);
+      //.padding(0.05);
+
+    var y = d3.scaleLinear()
+      .domain([0, d3.max(data, function(d) { return d.total; })]).nice()
+      .rangeRound([height - 5, 10]);
+
+    var color = d3.scaleOrdinal()
+      .domain(keys)
+      .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"]);
+
+    var xAxis = d3.axisBottom(x);
+    var yAxis = d3.axisLeft(y).tickFormat(d3.format(".2s"));
+
+    var barwidth = (x.range()[1] - x.range()[0]) / data.length;
+
+    //stack the data?
+    var stackedData = d3.stack()
+      .keys(keys)
+      (data)
 
     var svg = d3.select("#" + divid).append("svg")
       .attr("width", width + margin.left + margin.right)
@@ -96,21 +117,18 @@ const graph = async (year, region, type, ydomain) => {
 
     var state = svg.selectAll(".state")
       .data(data)
-      .enter()
-      .append("g")
+      .join("g")
       .attr("class", "g")
-      .attr("transform", function(d) { return "translate(" + "0" + ",0)"; });
 
     state.selectAll("rect")
       .data(function(d) {
         return d.ages;
       })
-      .enter().append("rect")
-      .attr("width", x.bandwidth())
-      .attr("y", function(d) { return y(d.y1); })
-      .attr("x",function(d) { //add to stock code
-        return x(d.myweek)
-      })
+      .data((d) => d.ages)
+      .join('rect')
+      .attr('width', barwidth)
+      .attr('y', (d) => y(d.y1))
+      .attr('x', (d) => x(d.myweek))
       .transition()
       .ease(d3.easeLinear)
       .duration(800)
@@ -122,7 +140,6 @@ const graph = async (year, region, type, ydomain) => {
         classLabel = d.name.replace(/\s/g, ''); //remove spaces
         return "class-" + group + "-" + classLabel;
       })
-      .attr("group", group)
       .style("fill", function(d) { return color(d.name); });
 
     state.selectAll("rect")
@@ -274,7 +291,7 @@ const graph = async (year, region, type, ydomain) => {
             .delay(750)
             .attr("y", y_new);
         })
-     }
+    }
   })
   .catch(function(error){
     throw error;
@@ -283,18 +300,26 @@ const graph = async (year, region, type, ydomain) => {
 }
 
 const build = async () => {
-  await graph(2020, "CHFL", "covid", 2000);
-  await graph(2021, "CHFL", "covid", 2000);
-  await graph(2021, "CHFL", "vacc", 50);
-  await graph(2020, "ZH", "covid", 250);
-  await graph(2021, "ZH", "covid", 250);
+  await graph(2020, "CHFL", "covid");
+  await graph(2021, "CHFL", "covid");
+  await graph(2021, "CHFL", "vacc");
+  await graph(2020, "ZH", "covid");
+  await graph(2021, "ZH", "covid");
 }
 
 build();
 
+// When the button is changed, run the updateChart function
+d3.select("#selectButton").on("change", function(d) {
+  // recover the option that has been chosen
+  var selectedOption = d3.select(this).property("value")
+  // run the updateChart function with this selected option
+  changeDrop(selectedOption)
+})
+
 const changeDrop = async(region) => {
   console.log(region + "-covid");
-  await graph(2020, region, "covid", 250);
-  await graph(2021, region, "covid", 250);
+  await graph(2020, region, "covid");
+  await graph(2021, region, "covid");
 
 }

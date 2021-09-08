@@ -10,9 +10,6 @@ var x = d3.scaleBand()
 var y = d3.scaleLinear()
   .rangeRound([height, 0]);
 
-var color = d3.scaleOrdinal()
-  .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"]);
-
 var xAxis = d3.axisBottom(x);
 var yAxis = d3.axisLeft(y).tickFormat(d3.format(".2s"));
 
@@ -37,7 +34,11 @@ const graph = async (year, group, ydomain) => {
   d3.csv("data_bag_processed/death_" + year + "_" + group + ".csv")
     .then(function(data) {
 
-    color.domain(data.columns.filter(function(key) { return key !== "week"; }));
+    var keys = data.columns.slice(1)
+
+    var color = d3.scaleOrdinal()
+      .domain(keys)
+      .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"]);
 
     data.forEach(function(d) {
       var myweek = d.week; //add to stock code
