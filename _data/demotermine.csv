@@ -13,11 +13,14 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 4201,DE,2021-09-10,19:00:00,50678,Köln,Heumarkt,Demonstration,,Koeln ist aktiv,
 4215,DE,2021-09-10,19:00:00,50667,Köln,Heumarkt,Demonstration,,unbekannt,
 4230,DE,2021-09-10,19:00:00,04668,Grimma,Markt,Spaziergang,,unbekannt,
+4237,DE,2021-09-11,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf
 4104,DE,2021-09-11,11:00:00,11011,Berlin,Platz der Republik,Kundgebung,https://www.twitch.tv/echtzeiteubertragung,Staatendoof,https://staatenlos.info/
+4238,DE,2021-09-11,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,https://t.me/cellestehtauf
 4210,AT,2021-09-11,13:00:00,1100,Wien,gesamte Innenstadt,Versammlung,,unbekannt,
 4134,DE,2021-09-11,13:00:00,76530,Baden-Baden,Sophienstr. 1B,Kundgebung,,BI aufRECHT:FREIdenken,http://www.solidarnosch.de
 4219,DE,2021-09-11,14:00:00,70173,Stuttgart,Am Landtag,Aufzug,,Wir alle zusammen,
 4227,DE,2021-09-11,14:30:00,30449,Hannover,Ritter-Brüning-Straße / Parking,Autokorso,,Autocorso Hannover,
+4239,DE,2021-09-11,15:00:00,38518,Gifhorn,Marktplatz,Kundgebung,,unbekannt,
 4189,BE,2021-09-11,15:00:00,1000,Brüssel,Jubelpark,Demonstration,,EuropeansUnited,https://www.europeansunited.eu
 4216,DE,2021-09-11,15:30:00,45128,Essen,Willy-Brandt-Platz,Kundgebung,,Für den Erhalt der Freiheit,https://t.me/joinchat/Gr4v4tPxmF174Ikj
 4020,DE,2021-09-11,17:00:00,80331,München,Marienplatz,Kundgebung,,UlliOma Family u. Friends,https://t.me/UlliOma_Muc
@@ -29,6 +32,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 4235,DE,2021-09-13,18:00:00,92421,Schwandorf / Haselbach,Kirchawirt,Zusammenkunft,,unbekannt,
 3681,DE,2021-09-13,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 4228,DE,2021-09-13,18:00:00,67098,Bad Dürkheim,Vor dem Riesenfass,Kundgebung,,Privat,
+4240,DE,2021-09-13,18:30:00,29221,Celle,Stechbahn / Schloß,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,
 4234,DE,2021-09-13,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,unbekannt,
 4167,DE,2021-09-13,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
 4197,DE,2021-09-14,16:30:00,70178,Stuttgart,Marienplatz,Gegenprotest,,Auftritt A. Baerbock stören,
