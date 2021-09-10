@@ -1,12 +1,15 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
+4248,DE,2021-09-10,18:00:00,91126,Schwabach,Martin-Luther-Platz,Kundgebung,,WIR für die Freiheit,
 4224,DE,2021-09-10,19:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 4201,DE,2021-09-10,19:00:00,50678,Köln,Heumarkt,Demonstration,,Koeln ist aktiv,
 4215,DE,2021-09-10,19:00:00,50667,Köln,Heumarkt,Demonstration,,unbekannt,
 4230,DE,2021-09-10,19:00:00,04668,Grimma,Markt,Spaziergang,,unbekannt,
 4237,DE,2021-09-11,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf
+4245,DE,2021-09-11,11:00:00,29221,Celle,Neumarkt,Kundgebung,,unbekannt,https://issuu.com/cellestehtauf/docs/flyer_celle_steht_auf
 4104,DE,2021-09-11,11:00:00,11011,Berlin,Platz der Republik,Kundgebung,https://www.twitch.tv/echtzeiteubertragung,Staatendoof,https://staatenlos.info/
 4238,DE,2021-09-11,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,https://t.me/cellestehtauf
 4210,AT,2021-09-11,13:00:00,1100,Wien,gesamte Innenstadt,Versammlung,,unbekannt,
+4246,DE,2021-09-11,13:00:00,11011,Berlin,Reichstag,Kundgebung,https://youtube.com/channel/UCQpCnHgX_g5_DmY3g7pKyYA,Staatendoof,https://staatenlos.info/
 4134,DE,2021-09-11,13:00:00,76530,Baden-Baden,Sophienstr. 1B,Kundgebung,,BI aufRECHT:FREIdenken,http://www.solidarnosch.de
 4219,DE,2021-09-11,14:00:00,70173,Stuttgart,Am Landtag,Aufzug,,Wir alle zusammen,
 4241,DE,2021-09-11,14:00:00,64385,Reichelsheim,B 38 Ortseingang Aldi,Zusammenkunft,,unbekannt,
@@ -43,6 +46,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 4229,DE,2021-09-20,18:00:00,67098,Bad Dürkheim,Vor dem Riesenfass,Kundgebung,,Privat,
 4168,DE,2021-09-20,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
 4177,DE,2021-09-22,19:00:00,86343,Königsbrunn,Markplatz Rathaus,Kundgebung,,unbekannt,
+4247,DE,2021-09-23,17:30:00,76133,Karlsruhe,Marktplatz,Kundgebung,,Off. Ges. Kurpfalz - Antihygienistische Aktion,http://antihy.de/ka-2021-09.-23
 3802,DE,2021-09-23,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 4130,DE,2021-09-23,18:30:00,63457,Großauheim,Main Pilgerstr./Ecke Leinpfad,Mahnwache,,Hanau steht auf!,http://www.hanau-steht-auf.de
 4188,DE,2021-09-25,11:00:00,24558,Henstedt-Ulzburg,Am Bahnbogen 2 / Höhe KFC,Schilderwald,,Corona Forum Henstedt Ulzburg,https://t.me/s/corona_forum_henstedt_ulzburg
