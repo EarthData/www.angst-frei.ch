@@ -2,6 +2,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 4212,DE,2021-09-12,10:45:00,75015,Bretten,Stadtpark / Alter Friedhof,Meditation,,unbekannt,
 4226,DE,2021-09-12,12:00:00,47053,Duisburg,Hauptbahnhof / Haupteingang,Aufzug,,unbekannt,
 4139,DE,2021-09-12,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
+4270,DE,2021-09-13,17:00:00,17166,Teterow,Marktplatz,Event,https://dlive.tv/MV1,WIR - für das Grundgesetz,
 4235,DE,2021-09-13,18:00:00,92421,Schwandorf / Haselbach,Kirchawirt,Zusammenkunft,,unbekannt,
 3681,DE,2021-09-13,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 4228,DE,2021-09-13,18:00:00,67098,Bad Dürkheim,Vor dem Riesenfass,Kundgebung,,Privat,
@@ -12,17 +13,22 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 4167,DE,2021-09-13,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
 4253,DE,2021-09-13,19:00:00,17033,Neubrandenburg,Marktplatz / Innenstadt,Aufzug,,unbekannt,
 4197,DE,2021-09-14,16:30:00,70178,Stuttgart,Marienplatz,Gegenprotest,,Auftritt A. Baerbock stören,
+4264,DE,2021-09-14,19:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 4259,DE,2021-09-15,16:30:00,70184,Stuttgart,Dobelstr. / Hohenheimer Str.,Schilderwald,,Privat,
 4249,DE,2021-09-15,17:30:00,32756,Detmold,Marktplatz,Meditation,,Lippe für Freiheit | Frieden und menschliches Miteinander,
+4265,DE,2021-09-15,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 4125,DE,2021-09-15,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,http://www.hanau-steht-auf.de
 4250,DE,2021-09-15,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander,
 4176,DE,2021-09-15,19:00:00,86343,Königsbrunn,Markplatz Rathaus,Kundgebung,,unbekannt,
 3801,DE,2021-09-16,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
+4266,DE,2021-09-16,18:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 4129,DE,2021-09-16,18:30:00,63457,Großauheim,Main Pilgerstr./Ecke Leinpfad,Mahnwache,,Hanau steht auf!,http://www.hanau-steht-auf.de
 4236,DE,2021-09-16,19:00:00,92723,Tännesberg,Gasthof Tannenhof,Zusammenkunft,,unbekannt,
+4267,DE,2021-09-17,19:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 4135,DE,2021-09-18,13:00:00,76530,Baden-Baden,Sophienstr. 1B,Kundgebung,,BI aufRECHT:FREIdenken,http://www.solidarnosch.de
 4243,DE,2021-09-18,15:00:00,40545,Düsseldorf,Kaiser-Wilhelm-Ring / Festwiese,Aufzug,,Querdenken Iniativen NRW und Auto.- und Zweiradkorso Düsseldorf,https://www.querdenken211.de
 4021,DE,2021-09-18,17:00:00,80802,München,Münchner Freiheit,Kundgebung,,UlliOma Family u. Friends,https://t.me/UlliOma_Muc
+4268,DE,2021-09-18,18:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 4214,DE,2021-09-19,11:00:00,79215,Elzach,Nikolausplatz,Mahnwache,,unbekannt,
 4217,DE,2021-09-19,14:00:00,45127,Essen,Willy Brand Platz,Aufzug,,Querdenken,
 4140,DE,2021-09-19,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
@@ -35,6 +41,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3802,DE,2021-09-23,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 4130,DE,2021-09-23,18:30:00,63457,Großauheim,Main Pilgerstr./Ecke Leinpfad,Mahnwache,,Hanau steht auf!,http://www.hanau-steht-auf.de
 4188,DE,2021-09-25,11:00:00,24558,Henstedt-Ulzburg,Am Bahnbogen 2 / Höhe KFC,Schilderwald,,Corona Forum Henstedt Ulzburg,https://t.me/s/corona_forum_henstedt_ulzburg
+4269,DE,2021-09-25,13:00:00,20359,Hamburg,Reeperbahn,Autokorso,,Freiheitsfahrer Hamburg,
 4136,DE,2021-09-25,13:00:00,76530,Baden-Baden,Sophienstr. 1B,Kundgebung,,BI aufRECHT:FREIdenken,http://www.solidarnosch.de
 4022,DE,2021-09-25,17:00:00,81373,München,Harras am Brunnen,Kundgebung,,UlliOma Family u. Friends,https://t.me/UlliOma_Muc
 4141,DE,2021-09-26,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
