@@ -23,13 +23,18 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 4129,DE,2021-09-16,18:30:00,63457,Großauheim,Main Pilgerstr./Ecke Leinpfad,Mahnwache,,Hanau steht auf!,http://www.hanau-steht-auf.de
 4236,DE,2021-09-16,19:00:00,92723,Tännesberg,Gasthof Tannenhof,Zusammenkunft,,unbekannt,
 4267,DE,2021-09-17,19:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
+4282,CH,2021-09-18,13:00:00,8400,Winterthur,Neumarkt,Spaziergang,,unbekannt,
 4135,DE,2021-09-18,13:00:00,76530,Baden-Baden,Sophienstr. 1B,Kundgebung,,BI aufRECHT:FREIdenken,http://www.solidarnosch.de
 4243,DE,2021-09-18,15:00:00,40545,Düsseldorf,Kaiser-Wilhelm-Ring / Festwiese,Aufzug,,Querdenken Iniativen NRW und Auto.- und Zweiradkorso Düsseldorf,https://www.querdenken211.de
 4021,DE,2021-09-18,17:00:00,80802,München,Münchner Freiheit,Kundgebung,,UlliOma Family u. Friends,https://t.me/UlliOma_Muc
+4281,DE,2021-09-18,17:00:00,80339,München,Theresienwiese,Kundgebung,,München steht auf,https://www.muenchen-steht-auf.de
 4268,DE,2021-09-18,18:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
+4272,DE,2021-09-19,10:45:00,75015,Bretten,Stadtpark / Alter Friedhof,Meditation,,unbekannt,
 4214,DE,2021-09-19,11:00:00,79215,Elzach,Nikolausplatz,Mahnwache,,unbekannt,
 4217,DE,2021-09-19,14:00:00,45127,Essen,Willy Brand Platz,Aufzug,,Querdenken,
+4280,DE,2021-09-19,15:00:00,84028,Landshut,Ringelstecherwiese,Kundgebung,,Bayern-steht-zusammen e.V.,https://bayern-steht-zusammen.de/
 4140,DE,2021-09-19,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
+4273,DE,2021-09-20,17:30:00,33602,Bielefeld,Am alten Rathaus,Mahnwache,,Mahnwache BI  steht auf,
 3682,DE,2021-09-20,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,
 4229,DE,2021-09-20,18:00:00,67098,Bad Dürkheim,Vor dem Riesenfass,Kundgebung,,Privat,
 4262,DE,2021-09-20,18:30:00,99510,Apolda,Rathaus / Markt,Spaziergang,,unbekannt,
@@ -43,6 +48,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 4136,DE,2021-09-25,13:00:00,76530,Baden-Baden,Sophienstr. 1B,Kundgebung,,BI aufRECHT:FREIdenken,http://www.solidarnosch.de
 4022,DE,2021-09-25,17:00:00,81373,München,Harras am Brunnen,Kundgebung,,UlliOma Family u. Friends,https://t.me/UlliOma_Muc
 4141,DE,2021-09-26,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
+4274,DE,2021-09-27,17:30:00,33602,Bielefeld,Am alten Rathaus,Mahnwache,,Mahnwache BI  steht auf,
 4263,DE,2021-09-27,18:30:00,99510,Apolda,Rathaus / Markt,Spaziergang,,unbekannt,
 4169,DE,2021-09-27,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
 4126,DE,2021-09-29,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,http://www.hanau-steht-auf.de
@@ -50,10 +56,14 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3803,DE,2021-09-30,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 4131,DE,2021-09-30,18:30:00,63457,Großauheim,Main Pilgerstr./Ecke Leinpfad,Mahnwache,,Hanau steht auf!,http://www.hanau-steht-auf.de
 2271,DE,2021-10-04,14:30:00,06232,Speyer,Domplatz,Kundgebung,https://dlive.tv/Live-Reports-DUEW,Querdenken 6341,https://www.querdenken-6341.de
+4275,DE,2021-10-04,17:30:00,33602,Bielefeld,Am alten Rathaus,Mahnwache,,Mahnwache BI  steht auf,
 4183,DE,2021-10-04,18:00:00,02625,Bautzen,Kornmarkt,Schweigemarsch,https://gesichtzeigen.digital/brandneu/vendijo-ist-offiziell-online-willkommen-deutschland-oesterreich-schweiz/,Gesichtzeigen,
 3804,DE,2021-10-07,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
+4276,DE,2021-10-11,17:30:00,33602,Bielefeld,Am alten Rathaus,Mahnwache,,Mahnwache BI  steht auf,
 3805,DE,2021-10-14,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
+4277,DE,2021-10-18,17:30:00,33602,Bielefeld,Am alten Rathaus,Mahnwache,,Mahnwache BI  steht auf,
 3806,DE,2021-10-21,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
+4278,DE,2021-10-25,17:30:00,33602,Bielefeld,Am alten Rathaus,Mahnwache,,Mahnwache BI  steht auf,
 3807,DE,2021-10-28,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 3808,DE,2021-11-04,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 1960,DE,2021-11-05,18:00:00,10117,Berlin,Pariser Platz / Brandenburger Tor,MillionMaskMarch,https://anonymous.support/live,Anonymous,https://anonymous.support
