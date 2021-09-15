@@ -53,21 +53,6 @@ const graph = async (region, type, ydomain) => {
       .attr("transform", `translate(0, ${height})`)
       .call(d3.axisBottom(x).ticks(10))
 
-    // Add X axis label:
-    svg.append("text")
-      .attr("text-anchor", "end")
-      .attr("x", width)
-      .attr("y", height+30 )
-      .text("Zeit");
-
-    // Add Y axis label:
-    //svg.append("text")
-    //  .attr("text-anchor", "end")
-    //  .attr("x", 0)
-    //  .attr("y", -20 )
-    //  .text("# of baby born")
-    //  .attr("text-anchor", "start")
-
     // Add Y axis
     const y = d3.scaleLinear()
       .domain([0, ydomain])
@@ -204,9 +189,11 @@ const build = async () => {
   await graph("CH", "icu", 1600);
   await graph("ZH", "nonicu", 5000);
   await graph("ZH", "icu", 500);
-  await graph("BE", "nonicu", 2500);
+  await graph("AG", "nonicu", 1500);
+  await graph("AG", "icu", 100);
+  await graph("BE", "nonicu", 3500);
   await graph("BE", "icu", 150);
-  await graph("GE", "nonicu", 3000);
+  await graph("GE", "nonicu", 3200);
   await graph("GE", "icu", 140);
   await graph("SG", "nonicu", 1500);
   await graph("SG", "icu", 100);

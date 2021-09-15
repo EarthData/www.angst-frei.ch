@@ -12,7 +12,15 @@ var idx = {};
 var parseTime  = d3.timeParse("%Y-%W");
 
 // List of groups (here I have one group per column)
-var allGroup = ["ZH", "SG", "AG"]
+var allGroup = ["ZH", "AG", "AI", "AR", "BE", "BL", "BS", "FR", "GE", "GL", "GR", "JU", "LU", "NE", "NW", "OW", "SG", "SH", "SO", "SZ", "TG", "TI", "UR", "VD", "VS", "ZG"]
+var divs = ["chfl-covid-2020", "chfl-covid-2021", "chfl-vacc-2021", "region-covid-2020", "region-covid-2021"]
+
+divs.forEach(function(d) {
+  d3.select("#" + d).append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+    .attr("class", "svg-" + d)
+});
 
 // add the options to the button
 d3.select("#selectButton")
@@ -31,9 +39,7 @@ const graph = async (year, region, type) => {
     var title = region + " Hospitalisationen nach Alter (Covid-geimpft) " + year;
   }
 
-  var group = region.toLowerCase() + "-" + type + "-" + year;
-
-  var divid = region == "CHFL" ? group : type + "-" + year;
+  var group = region == "CHFL" ? region.toLowerCase() + "-" + type + "-" + year : "region-" + type + "-" + year;
 
   active_link[group] = "0"; //to control legend selections and hover
   legendClassArray[group] = []; //store legend classes to select bars in plotSingle()
@@ -54,12 +60,12 @@ const graph = async (year, region, type) => {
 
     var x = d3.scaleTime()
       .domain(d3.extent(data, function(d) { return d.week; }))
-      .range([5, width - 10]);
+      .range([0, width - 24]);
       //.padding(0.05);
 
     var y = d3.scaleLinear()
       .domain([0, d3.max(data, function(d) { return d.total; })]).nice()
-      .rangeRound([height - 5, 10]);
+      .rangeRound([height, 0]);
 
     var color = d3.scaleOrdinal()
       .domain(keys)
@@ -70,50 +76,31 @@ const graph = async (year, region, type) => {
 
     var barwidth = (x.range()[1] - x.range()[0]) / data.length;
 
-    //stack the data?
-    var stackedData = d3.stack()
-      .keys(keys)
-      (data)
+    d3.selectAll(".g-" + group)
+      .remove()
 
-    var svg = d3.select("#" + divid).append("svg")
-      .attr("width", width + margin.left + margin.right)
-      .attr("height", height + margin.top + margin.bottom)
-      .attr("class", "svg-" + group)
+    var svg = d3.select(".svg-" + group)
       .append("g")
+      .attr("class", "g-" + group)
       .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-
+   
     svg.append("g")
       .attr("class", "x axis")
       .call(xAxis)
       .attr("transform", "translate(0," + height + ")")
-      .append("text")
-      .attr("transform", "translate(" + (width + 20) + ",0)")
-      .attr("dy", "-0.71em")
-      .style("text-anchor", "end")
-      .text("Woche");
 
     svg.append("g")
       .attr("class", "y axis")
       .call(yAxis)
-      .append("text")
-      .attr("transform", "rotate(-90)")
-      .attr("y", 6)
-      .attr("dy", ".71em")
-      .style("text-anchor", "end")
-      .text("Todesfälle");
 
     svg.append("text")
       .attr("x", (width / 2))
       .attr("y", 0 - (margin.top / 2))
       .attr("text-anchor", "middle")
+      .attr("class", "title-" + group)
       .style("font-size", "16px")
       .style("text-decoration", "underline")
-      .text(title);
-
- //   state.exit()
- //     .transition()
- //     .duration(1000)
- //     .remove();
+      .text(title)
 
     var state = svg.selectAll(".state")
       .data(data)
@@ -121,9 +108,6 @@ const graph = async (year, region, type) => {
       .attr("class", "g")
 
     state.selectAll("rect")
-      .data(function(d) {
-        return d.ages;
-      })
       .data((d) => d.ages)
       .join('rect')
       .attr('width', barwidth)
@@ -140,7 +124,8 @@ const graph = async (year, region, type) => {
         classLabel = d.name.replace(/\s/g, ''); //remove spaces
         return "class-" + group + "-" + classLabel;
       })
-      .style("fill", function(d) { return color(d.name); });
+      .style("fill", function(d) { return color(d.name); })
+      .style('opacity', 1);
 
     state.selectAll("rect")
      .on("mouseover", function(d,i){
@@ -192,7 +177,7 @@ const graph = async (year, region, type) => {
       })
 
       .on("click",function(d, i) {
-        let id = this.id.matchAll(/^id-([a-z]{2,4})-([a-z]+)-([0-9]{4})-(.*)/g);
+        let id = this.id.matchAll(/^id-([a-z]{2,6})-([a-z]+)-([0-9]{4})-(.*)/g);
         id = Array.from(id);
         group = id[0][1] + "-" + id[0][2] + "-" + id[0][3]
         if (active_link[group] === "0") { //nothing selected, turn on this selection
@@ -311,15 +296,11 @@ build();
 
 // When the button is changed, run the updateChart function
 d3.select("#selectButton").on("change", function(d) {
-  // recover the option that has been chosen
   var selectedOption = d3.select(this).property("value")
-  // run the updateChart function with this selected option
   changeDrop(selectedOption)
 })
 
 const changeDrop = async(region) => {
-  console.log(region + "-covid");
   await graph(2020, region, "covid");
   await graph(2021, region, "covid");
-
 }
