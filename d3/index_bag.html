@@ -3,13 +3,16 @@ layout:     minimal
 full-width: true
 ext-js:     ["//d3js.org/d3.v7.min.js"]
 css:        ["/assets/css/bar-chart.css"]
-js:         ["/assets/js/bar-chart-bag-new-v7.js"]
+js:         ["/assets/js/bar-chart-bag-v7.js"]
 ---
-<div id="ch-old"></div>
-<div id="ch-young"></div>
 
-<p>Wähle einen Kanton: <select id="selectRegionButton"></select></p>
-<p>Wähle ein Jahr: <select id="selectYearButton"></select></p>
+<h1>Todesfälle nach Fünf-Jahres-Altersgruppe, Woche und Kanton</h1>
+<br/>
 
-<div id="region-old"></div>
-<div id="region-young"></div>
+<p>Vergleiche Kanton: <select id="selectFirstRegionButton"></select> Jahr: <select id="selectFirstYearButton"></select>
+mit Kanton: <select id="selectSecondRegionButton"></select> Jahr: <select id="selectSecondYearButton"></select></p>
+
+<div id="first-young"></div>
+<div id="second-young"></div>
+<div id="first-old"></div>
+<div id="second-old"></div>

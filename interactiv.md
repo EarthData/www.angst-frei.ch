@@ -32,17 +32,16 @@ subtitle: Zahlen, Fakten
 
 Quelle: [Bundesamt für Statistik - Todesfälle - Todesfälle nach Fünf-Jahres-Altersgruppe, Geschlecht, Woche und Kanton](https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung/geburten-todesfaelle/todesfaelle.html)
 
- * [CH-2021]({{ site.baseurl }}/d3/index_2021.html)
- * [CH-2020]({{ site.baseurl }}/d3/index_2020.html)
- * [CH-2019]({{ site.baseurl }}/d3/index_2019.html)
- * [CH-2018]({{ site.baseurl }}/d3/index_2018.html)
- * [CH-2017]({{ site.baseurl }}/d3/index_2017.html)
- * [CH-2016]({{ site.baseurl }}/d3/index_2016.html)
- * [CH-2015]({{ site.baseurl }}/d3/index_2015.html)
+ * [2015-2021]({{ site.baseurl }}/d3/index_bag.html)
 
 ## Hospitalisationen
 
 Quelle: [opendata.swiss - COVID-19 Switzerland](https://opendata.swiss/en/dataset/covid-19-schweiz)
 
- * [CH-2021]({{ site.baseurl }}/d3/index_hosp.html)
+ * [2020-2021]({{ site.baseurl }}/d3/index_hosp.html)
 
+## Spital-Kapazitäten
+
+Quelle: [opendata.swiss - COVID-19 Switzerland](https://opendata.swiss/en/dataset/covid-19-schweiz)
+
+ * [2020-2021]({{ site.baseurl }}/d3/index_cap.html)
