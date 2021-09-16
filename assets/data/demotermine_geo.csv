@@ -1,86 +1,82 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite,latitude,longitude,created
-3801,DE,2021-09-16,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-09-16 23:18:24
-4266,DE,2021-09-16,18:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4483866,11.0804356,2021-09-16 23:18:24
-4129,DE,2021-09-16,18:30:00,63457,Großauheim,Main Pilgerstr./Ecke Leinpfad,Mahnwache,,Hanau steht auf!,http://www.hanau-steht-auf.de,50.1026386,8.9458834,2021-09-16 23:18:24
-4236,DE,2021-09-16,19:00:00,92723,Tännesberg,Gasthof Tannenhof,Zusammenkunft,,unbekannt,,49.5323051,12.3261472,2021-09-16 23:18:24
-4305,DE,2021-09-17,17:00:00,10318,Berlin,Marzahner Chaussee 78 / Parkplatz,Autokorso,,Autokorso Berlin,https://t.me/AutokorsoBerlinInfo,52.48437614622503,13.527684271082206,2021-09-16 23:18:24
-4296,DE,2021-09-17,17:30:00,76133,Karlsruhe,Stephanplatz,Kundgebung,,Pro 1G Grundrechte,,49.0087367,8.3947266,2021-09-16 23:18:24
-4267,DE,2021-09-17,19:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2021-09-16 23:18:24
-4294,CH,2021-09-17,19:00:00,3296,Arch,Aarebrücke / Archer Seite,Spaziergang,,Stop Diskriminierung,https://truthwins.ch,47.1671132,7.4290584,2021-09-16 23:18:24
-4299,DE,2021-09-18,10:00:00,42651,Solingen,Walder Marktplatz,Autokorso,,unbekannt,,51.1857117,7.0410205,2021-09-16 23:18:24
-4307,DE,2021-09-18,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,,52.626147,10.079557,2021-09-16 23:18:24
-4308,DE,2021-09-18,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,,52.62254355,10.080800033509767,2021-09-16 23:18:24
-4282,CH,2021-09-18,13:00:00,8400,Winterthur,Neumarkt,Spaziergang,,unbekannt,,47.4989974,8.7266459,2021-09-16 23:18:24
-4135,DE,2021-09-18,13:00:00,76530,Baden-Baden,Sophienstr. 1B,Kundgebung,,BI aufRECHT:FREIdenken,http://www.solidarnosch.de,48.7605952,8.2391366,2021-09-16 23:18:24
-4298,FR,2021-09-18,13:30:00,67000,Straßburg,Place Kleber,Aufzug,,unbekannt,,48.5831772,7.7466771,2021-09-16 23:18:24
-4292,DE,2021-09-18,14:00:00,70173,Stuttgart,Landtag,Aufzug,,unbekannt,,48.7786128,9.183477416459013,2021-09-16 23:18:24
-4284,DE,2021-09-18,14:00:00,64385,Reichelsheim,B 38 Ortseingang Aldi,Zusammenkunft,,unbekannt,,49.7132438,8.8408466,2021-09-16 23:18:24
-4295,DE,2021-09-18,14:00:00,56068,Koblenz,Jesuitenplatz,Mahnwache,,unbekannt,,50.3605313,7.598270542718609,2021-09-16 23:18:24
-4303,DE,2021-09-18,14:30:00,30449,Hannover,Ritter-Brüning-Str. / Parking,Autokorso,,Autocorso Hannover,,52.3622397,9.7217429,2021-09-16 23:18:24
-4243,DE,2021-09-18,15:00:00,40545,Düsseldorf,Kaiser-Wilhelm-Ring / Festwiese,Aufzug,,Querdenken Iniativen NRW und Auto.- und Zweiradkorso Düsseldorf,https://www.querdenken211.de,51.2254018,6.7763137,2021-09-16 23:18:24
-4300,DE,2021-09-18,15:30:00,89539,München,Maxmonument,Aufzug,,Münchenstehtauf,https://Muenchen-steht-auf.de,,,2021-09-16 23:18:24
-4290,DE,2021-09-18,15:30:00,87600,Kaufbeuren,Obstmarkt / Fußgängerzone,Meditation,,unbekannt,,47.8803788,10.622246,2021-09-16 23:18:24
-4309,DE,2021-09-18,15:30:00,45127,Essen,Willy-Brandt-Platz,Kundgebung,,Für den Erhalt der Freiheit,,51.4528385,7.0126846,2021-09-16 23:18:24
-4297,DE,2021-09-18,16:00:00,79098,Freiburg,Alter Messplatz,Kundgebung,,dieBasis,,47.9885444,7.8693902,2021-09-16 23:18:24
-4021,DE,2021-09-18,17:00:00,80802,München,Münchner Freiheit,Kundgebung,,UlliOma Family u. Friends,https://t.me/UlliOma_Muc,48.1622924,11.5870025,2021-09-16 23:18:24
-4281,DE,2021-09-18,17:00:00,80339,München,Theresienwiese,Kundgebung,,München steht auf,https://www.muenchen-steht-auf.de,48.1313385,11.549418875169831,2021-09-16 23:18:24
-4301,DE,2021-09-18,17:00:00,80336,München,Theresienwiese,Kundgebung,,Münchenstehtauf,https://www München-steht-auf.de,48.135672,11.5522316,2021-09-16 23:18:24
-4268,DE,2021-09-18,18:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4483866,11.0804356,2021-09-16 23:18:24
-4288,DE,2021-09-19,10:00:00,2763,Zittau,B 96,Menschenkette,,unbekannt,,50.8930143,14.8095541,2021-09-16 23:18:24
-4272,DE,2021-09-19,10:45:00,75015,Bretten,Stadtpark / Alter Friedhof,Meditation,,unbekannt,,49.0364564,8.7072589,2021-09-16 23:18:24
-4286,DE,2021-09-19,11:00:00,73547,Lorch,Oriaplatz,Musik,,Horn For Hope,,48.7980059,9.6893864,2021-09-16 23:18:24
-4214,DE,2021-09-19,11:00:00,79215,Elzach,Nikolausplatz,Mahnwache,,unbekannt,,48.1740027,8.070864,2021-09-16 23:18:24
-4217,DE,2021-09-19,14:00:00,45127,Essen,Willy Brand Platz,Aufzug,,Querdenken,,51.4582235,7.0158171,2021-09-16 23:18:24
-4280,DE,2021-09-19,15:00:00,84028,Landshut,Ringelstecherwiese,Kundgebung,,Bayern-steht-zusammen e.V.,https://bayern-steht-zusammen.de/,48.536217,12.1516551,2021-09-16 23:18:24
-4140,DE,2021-09-19,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,,53.8623859,8.698405997774456,2021-09-16 23:18:24
-4273,DE,2021-09-20,17:30:00,33602,Bielefeld,Am alten Rathaus,Mahnwache,,Mahnwache BI  steht auf,,52.0212855,8.53507,2021-09-16 23:18:24
-4304,DE,2021-09-20,18:00:00,92421,Schwandorf / Haselbach,Kirchawirt,Zusammenkunft,,unbekannt,,49.34289455,12.031008640905393,2021-09-16 23:18:24
-3682,DE,2021-09-20,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-09-16 23:18:24
-4229,DE,2021-09-20,18:00:00,67098,Bad Dürkheim,Vor dem Riesenfass,Kundgebung,,Privat,,49.4632944,8.1705063,2021-09-16 23:18:24
-4302,DE,2021-09-20,18:00:00,67098,Bad Dürkheim,Vor dem Riesenfass,Versammlung,DLIVE,Eine Privatperson,,49.4632944,8.1705063,2021-09-16 23:18:24
-4306,DE,2021-09-20,18:30:00,29221,Celle,Stechbahn / Schloß,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,,52.624056,10.081052,2021-09-16 23:18:24
-4289,DE,2021-09-20,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,unbekannt,,51.52088485,6.9255365117204075,2021-09-16 23:18:24
-4262,DE,2021-09-20,18:30:00,99510,Apolda,Rathaus / Markt,Spaziergang,,unbekannt,,51.022758,11.5134546,2021-09-16 23:18:24
-4287,DE,2021-09-20,18:45:00,2763,Zittau,Markt,Kundgebung,,Freunde von PEGIDA,,50.8958774,14.8067754,2021-09-16 23:18:24
-4168,DE,2021-09-20,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,,53.528461,8.1095937,2021-09-16 23:18:24
-4291,DE,2021-09-20,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,unbekannt,,47.91279,10.6356602,2021-09-16 23:18:24
-4177,DE,2021-09-22,19:00:00,86343,Königsbrunn,Markplatz Rathaus,Kundgebung,,unbekannt,,48.2679546,10.8883816,2021-09-16 23:18:24
-4247,DE,2021-09-23,17:30:00,76133,Karlsruhe,Marktplatz,Kundgebung,,Off. Ges. Kurpfalz - Antihygienistische Aktion,http://antihy.de/ka-2021-09.-23,49.0089017,8.4038088,2021-09-16 23:18:24
-3802,DE,2021-09-23,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-09-16 23:18:24
-4130,DE,2021-09-23,18:30:00,63457,Großauheim,Main Pilgerstr./Ecke Leinpfad,Mahnwache,,Hanau steht auf!,http://www.hanau-steht-auf.de,50.1026386,8.9458834,2021-09-16 23:18:24
-4188,DE,2021-09-25,11:00:00,24558,Henstedt-Ulzburg,Am Bahnbogen 2 / Höhe KFC,Schilderwald,,Corona Forum Henstedt Ulzburg,https://t.me/s/corona_forum_henstedt_ulzburg,53.7926888,9.9808134,2021-09-16 23:18:24
-4269,DE,2021-09-25,13:00:00,20359,Hamburg,Reeperbahn,Autokorso,,Freiheitsfahrer Hamburg,,53.5495212,9.961608,2021-09-16 23:18:24
-4136,DE,2021-09-25,13:00:00,76530,Baden-Baden,Sophienstr. 1B,Kundgebung,,BI aufRECHT:FREIdenken,http://www.solidarnosch.de,48.7605952,8.2391366,2021-09-16 23:18:24
-4022,DE,2021-09-25,17:00:00,81373,München,Harras am Brunnen,Kundgebung,,UlliOma Family u. Friends,https://t.me/UlliOma_Muc,48.1371079,11.5753822,2021-09-16 23:18:24
-4141,DE,2021-09-26,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,,53.8623859,8.698405997774456,2021-09-16 23:18:24
-4274,DE,2021-09-27,17:30:00,33602,Bielefeld,Am alten Rathaus,Mahnwache,,Mahnwache BI  steht auf,,52.0212855,8.53507,2021-09-16 23:18:24
-4263,DE,2021-09-27,18:30:00,99510,Apolda,Rathaus / Markt,Spaziergang,,unbekannt,,51.022758,11.5134546,2021-09-16 23:18:24
-4169,DE,2021-09-27,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,,53.528461,8.1095937,2021-09-16 23:18:24
-4126,DE,2021-09-29,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,http://www.hanau-steht-auf.de,50.132558,8.917854,2021-09-16 23:18:24
-4178,DE,2021-09-29,19:00:00,86343,Königsbrunn,Markplatz Rathaus,Kundgebung,,unbekannt,,48.2679546,10.8883816,2021-09-16 23:18:24
-3803,DE,2021-09-30,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-09-16 23:18:24
-4131,DE,2021-09-30,18:30:00,63457,Großauheim,Main Pilgerstr./Ecke Leinpfad,Mahnwache,,Hanau steht auf!,http://www.hanau-steht-auf.de,50.1026386,8.9458834,2021-09-16 23:18:24
-4293,DE,2021-10-02,21:00:00,70173,Stuttgart,Landtag,Aufzug,,Finger weg von unseren Kindern,,48.7786128,9.183477416459013,2021-09-16 23:18:24
-2271,DE,2021-10-04,14:30:00,6232,Speyer,Domplatz,Kundgebung,https://dlive.tv/Live-Reports-DUEW,Querdenken 6341,https://www.querdenken-6341.de,49.3149967,8.4424507,2021-09-16 23:18:24
-4275,DE,2021-10-04,17:30:00,33602,Bielefeld,Am alten Rathaus,Mahnwache,,Mahnwache BI  steht auf,,52.0212855,8.53507,2021-09-16 23:18:24
-4183,DE,2021-10-04,18:00:00,2625,Bautzen,Kornmarkt,Schweigemarsch,https://gesichtzeigen.digital/brandneu/vendijo-ist-offiziell-online-willkommen-deutschland-oesterreich-schweiz/,Gesichtzeigen,,51.1804409,14.428698518867606,2021-09-16 23:18:24
-3804,DE,2021-10-07,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-09-16 23:18:24
-4276,DE,2021-10-11,17:30:00,33602,Bielefeld,Am alten Rathaus,Mahnwache,,Mahnwache BI  steht auf,,52.0212855,8.53507,2021-09-16 23:18:24
-3805,DE,2021-10-14,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-09-16 23:18:24
-4277,DE,2021-10-18,17:30:00,33602,Bielefeld,Am alten Rathaus,Mahnwache,,Mahnwache BI  steht auf,,52.0212855,8.53507,2021-09-16 23:18:24
-3806,DE,2021-10-21,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-09-16 23:18:24
-4278,DE,2021-10-25,17:30:00,33602,Bielefeld,Am alten Rathaus,Mahnwache,,Mahnwache BI  steht auf,,52.0212855,8.53507,2021-09-16 23:18:24
-3807,DE,2021-10-28,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-09-16 23:18:24
-3808,DE,2021-11-04,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-09-16 23:18:24
-1960,DE,2021-11-05,18:00:00,10117,Berlin,Pariser Platz / Brandenburger Tor,MillionMaskMarch,https://anonymous.support/live,Anonymous,https://anonymous.support,52.5170365,13.3888599,2021-09-16 23:18:24
-3809,DE,2021-11-11,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-09-16 23:18:24
-3810,DE,2021-11-18,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-09-16 23:18:24
-3811,DE,2021-11-25,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-09-16 23:18:24
-3812,DE,2021-12-02,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-09-16 23:18:24
-3813,DE,2021-12-09,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-09-16 23:18:24
-3814,DE,2021-12-16,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-09-16 23:18:24
-3815,DE,2021-12-23,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-09-16 23:18:24
-1963,DE,2021-12-24,12:00:00,10178,Berlin,Weltzeituhr / Alexanderplatz,OpSafeWinter,https://anonymous.support/live,Anonymous,https://anonymous.support,52.5170365,13.3888599,2021-09-16 23:18:24
-3816,DE,2021-12-30,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-09-16 23:18:24
-1617,DE,2021-12-31,23:59:00,10117,Berlin,Brandenburger Tor,Event,,Welcome 2022,,52.51628045,13.377701882994323,2021-09-16 23:18:24
-3890,DE,2022-07-19,18:00:00,33098,Paderborn,Rathausplatz,Kundgebung,,unbekannt,,51.7169744,8.7538304,2021-09-16 23:18:24
+4305,DE,2021-09-17,17:00:00,10318,Berlin,Marzahner Chaussee 78 / Parkplatz,Autokorso,,Autokorso Berlin,https://t.me/AutokorsoBerlinInfo,52.48437614622503,13.527684271082206,2021-09-17 00:17:44
+4296,DE,2021-09-17,17:30:00,76133,Karlsruhe,Stephanplatz,Kundgebung,,Pro 1G Grundrechte,,49.0087367,8.3947266,2021-09-17 00:17:44
+4267,DE,2021-09-17,19:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2021-09-17 00:17:44
+4294,CH,2021-09-17,19:00:00,3296,Arch,Aarebrücke / Archer Seite,Spaziergang,,Stop Diskriminierung,https://truthwins.ch,47.1671132,7.4290584,2021-09-17 00:17:44
+4299,DE,2021-09-18,10:00:00,42651,Solingen,Walder Marktplatz,Autokorso,,unbekannt,,51.1857117,7.0410205,2021-09-17 00:17:44
+4307,DE,2021-09-18,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,,52.626147,10.079557,2021-09-17 00:17:44
+4308,DE,2021-09-18,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,,52.62254355,10.080800033509767,2021-09-17 00:17:44
+4282,CH,2021-09-18,13:00:00,8400,Winterthur,Neumarkt,Spaziergang,,unbekannt,,47.4989974,8.7266459,2021-09-17 00:17:44
+4135,DE,2021-09-18,13:00:00,76530,Baden-Baden,Sophienstr. 1B,Kundgebung,,BI aufRECHT:FREIdenken,http://www.solidarnosch.de,48.7605952,8.2391366,2021-09-17 00:17:44
+4298,FR,2021-09-18,13:30:00,67000,Straßburg,Place Kleber,Aufzug,,unbekannt,,48.5831772,7.7466771,2021-09-17 00:17:44
+4292,DE,2021-09-18,14:00:00,70173,Stuttgart,Landtag,Aufzug,,unbekannt,,48.7786128,9.183477416459013,2021-09-17 00:17:44
+4284,DE,2021-09-18,14:00:00,64385,Reichelsheim,B 38 Ortseingang Aldi,Zusammenkunft,,unbekannt,,49.7132438,8.8408466,2021-09-17 00:17:44
+4295,DE,2021-09-18,14:00:00,56068,Koblenz,Jesuitenplatz,Mahnwache,,unbekannt,,50.3605313,7.598270542718609,2021-09-17 00:17:44
+4303,DE,2021-09-18,14:30:00,30449,Hannover,Ritter-Brüning-Str. / Parking,Autokorso,,Autocorso Hannover,,52.3622397,9.7217429,2021-09-17 00:17:44
+4243,DE,2021-09-18,15:00:00,40545,Düsseldorf,Kaiser-Wilhelm-Ring / Festwiese,Aufzug,,Querdenken Iniativen NRW und Auto.- und Zweiradkorso Düsseldorf,https://www.querdenken211.de,51.2254018,6.7763137,2021-09-17 00:17:44
+4300,DE,2021-09-18,15:30:00,89539,München,Maxmonument,Aufzug,,Münchenstehtauf,https://Muenchen-steht-auf.de,,,2021-09-17 00:17:44
+4290,DE,2021-09-18,15:30:00,87600,Kaufbeuren,Obstmarkt / Fußgängerzone,Meditation,,unbekannt,,47.8803788,10.622246,2021-09-17 00:17:44
+4309,DE,2021-09-18,15:30:00,45127,Essen,Willy-Brandt-Platz,Kundgebung,,Für den Erhalt der Freiheit,,51.4528385,7.0126846,2021-09-17 00:17:44
+4297,DE,2021-09-18,16:00:00,79098,Freiburg,Alter Messplatz,Kundgebung,,dieBasis,,47.9885444,7.8693902,2021-09-17 00:17:44
+4021,DE,2021-09-18,17:00:00,80802,München,Münchner Freiheit,Kundgebung,,UlliOma Family u. Friends,https://t.me/UlliOma_Muc,48.1622924,11.5870025,2021-09-17 00:17:44
+4281,DE,2021-09-18,17:00:00,80339,München,Theresienwiese,Kundgebung,,München steht auf,https://www.muenchen-steht-auf.de,48.1313385,11.549418875169831,2021-09-17 00:17:44
+4301,DE,2021-09-18,17:00:00,80336,München,Theresienwiese,Kundgebung,,Münchenstehtauf,https://www München-steht-auf.de,48.135672,11.5522316,2021-09-17 00:17:44
+4268,DE,2021-09-18,18:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4483866,11.0804356,2021-09-17 00:17:44
+4288,DE,2021-09-19,10:00:00,2763,Zittau,B 96,Menschenkette,,unbekannt,,50.8930143,14.8095541,2021-09-17 00:17:44
+4272,DE,2021-09-19,10:45:00,75015,Bretten,Stadtpark / Alter Friedhof,Meditation,,unbekannt,,49.0364564,8.7072589,2021-09-17 00:17:44
+4286,DE,2021-09-19,11:00:00,73547,Lorch,Oriaplatz,Musik,,Horn For Hope,,48.7980059,9.6893864,2021-09-17 00:17:44
+4214,DE,2021-09-19,11:00:00,79215,Elzach,Nikolausplatz,Mahnwache,,unbekannt,,48.1740027,8.070864,2021-09-17 00:17:44
+4217,DE,2021-09-19,14:00:00,45127,Essen,Willy Brand Platz,Aufzug,,Querdenken,,51.4582235,7.0158171,2021-09-17 00:17:44
+4280,DE,2021-09-19,15:00:00,84028,Landshut,Ringelstecherwiese,Kundgebung,,Bayern-steht-zusammen e.V.,https://bayern-steht-zusammen.de/,48.536217,12.1516551,2021-09-17 00:17:44
+4140,DE,2021-09-19,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,,53.8623859,8.698405997774456,2021-09-17 00:17:44
+4273,DE,2021-09-20,17:30:00,33602,Bielefeld,Am alten Rathaus,Mahnwache,,Mahnwache BI  steht auf,,52.0212855,8.53507,2021-09-17 00:17:44
+4304,DE,2021-09-20,18:00:00,92421,Schwandorf / Haselbach,Kirchawirt,Zusammenkunft,,unbekannt,,49.34289455,12.031008640905393,2021-09-17 00:17:44
+3682,DE,2021-09-20,18:00:00,63225,Langen / Hessen,Bahnstr. / Goethestr.,Mahnwache,,unbekannt,,49.9891871,8.6648133,2021-09-17 00:17:44
+4229,DE,2021-09-20,18:00:00,67098,Bad Dürkheim,Vor dem Riesenfass,Kundgebung,,Privat,,49.4632944,8.1705063,2021-09-17 00:17:44
+4302,DE,2021-09-20,18:00:00,67098,Bad Dürkheim,Vor dem Riesenfass,Versammlung,DLIVE,Eine Privatperson,,49.4632944,8.1705063,2021-09-17 00:17:44
+4306,DE,2021-09-20,18:30:00,29221,Celle,Stechbahn / Schloß,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,,52.624056,10.081052,2021-09-17 00:17:44
+4289,DE,2021-09-20,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,unbekannt,,51.52088485,6.9255365117204075,2021-09-17 00:17:44
+4262,DE,2021-09-20,18:30:00,99510,Apolda,Rathaus / Markt,Spaziergang,,unbekannt,,51.022758,11.5134546,2021-09-17 00:17:44
+4287,DE,2021-09-20,18:45:00,2763,Zittau,Markt,Kundgebung,,Freunde von PEGIDA,,50.8958774,14.8067754,2021-09-17 00:17:44
+4168,DE,2021-09-20,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,,53.528461,8.1095937,2021-09-17 00:17:44
+4291,DE,2021-09-20,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,unbekannt,,47.91279,10.6356602,2021-09-17 00:17:44
+4177,DE,2021-09-22,19:00:00,86343,Königsbrunn,Markplatz Rathaus,Kundgebung,,unbekannt,,48.2679546,10.8883816,2021-09-17 00:17:44
+4247,DE,2021-09-23,17:30:00,76133,Karlsruhe,Marktplatz,Kundgebung,,Off. Ges. Kurpfalz - Antihygienistische Aktion,http://antihy.de/ka-2021-09.-23,49.0089017,8.4038088,2021-09-17 00:17:44
+3802,DE,2021-09-23,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-09-17 00:17:44
+4130,DE,2021-09-23,18:30:00,63457,Großauheim,Main Pilgerstr./Ecke Leinpfad,Mahnwache,,Hanau steht auf!,http://www.hanau-steht-auf.de,50.1026386,8.9458834,2021-09-17 00:17:44
+4188,DE,2021-09-25,11:00:00,24558,Henstedt-Ulzburg,Am Bahnbogen 2 / Höhe KFC,Schilderwald,,Corona Forum Henstedt Ulzburg,https://t.me/s/corona_forum_henstedt_ulzburg,53.7926888,9.9808134,2021-09-17 00:17:44
+4269,DE,2021-09-25,13:00:00,20359,Hamburg,Reeperbahn,Autokorso,,Freiheitsfahrer Hamburg,,53.5495212,9.961608,2021-09-17 00:17:44
+4136,DE,2021-09-25,13:00:00,76530,Baden-Baden,Sophienstr. 1B,Kundgebung,,BI aufRECHT:FREIdenken,http://www.solidarnosch.de,48.7605952,8.2391366,2021-09-17 00:17:44
+4022,DE,2021-09-25,17:00:00,81373,München,Harras am Brunnen,Kundgebung,,UlliOma Family u. Friends,https://t.me/UlliOma_Muc,48.1371079,11.5753822,2021-09-17 00:17:44
+4141,DE,2021-09-26,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,,53.8623859,8.698405997774456,2021-09-17 00:17:44
+4274,DE,2021-09-27,17:30:00,33602,Bielefeld,Am alten Rathaus,Mahnwache,,Mahnwache BI  steht auf,,52.0212855,8.53507,2021-09-17 00:17:44
+4263,DE,2021-09-27,18:30:00,99510,Apolda,Rathaus / Markt,Spaziergang,,unbekannt,,51.022758,11.5134546,2021-09-17 00:17:44
+4169,DE,2021-09-27,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,,53.528461,8.1095937,2021-09-17 00:17:44
+4126,DE,2021-09-29,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,http://www.hanau-steht-auf.de,50.132558,8.917854,2021-09-17 00:17:44
+4178,DE,2021-09-29,19:00:00,86343,Königsbrunn,Markplatz Rathaus,Kundgebung,,unbekannt,,48.2679546,10.8883816,2021-09-17 00:17:44
+3803,DE,2021-09-30,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-09-17 00:17:44
+4131,DE,2021-09-30,18:30:00,63457,Großauheim,Main Pilgerstr./Ecke Leinpfad,Mahnwache,,Hanau steht auf!,http://www.hanau-steht-auf.de,50.1026386,8.9458834,2021-09-17 00:17:44
+4293,DE,2021-10-02,21:00:00,70173,Stuttgart,Landtag,Aufzug,,Finger weg von unseren Kindern,,48.7786128,9.183477416459013,2021-09-17 00:17:44
+2271,DE,2021-10-04,14:30:00,6232,Speyer,Domplatz,Kundgebung,https://dlive.tv/Live-Reports-DUEW,Querdenken 6341,https://www.querdenken-6341.de,49.3149967,8.4424507,2021-09-17 00:17:44
+4275,DE,2021-10-04,17:30:00,33602,Bielefeld,Am alten Rathaus,Mahnwache,,Mahnwache BI  steht auf,,52.0212855,8.53507,2021-09-17 00:17:44
+4183,DE,2021-10-04,18:00:00,2625,Bautzen,Kornmarkt,Schweigemarsch,https://gesichtzeigen.digital/brandneu/vendijo-ist-offiziell-online-willkommen-deutschland-oesterreich-schweiz/,Gesichtzeigen,,51.1804409,14.428698518867606,2021-09-17 00:17:44
+3804,DE,2021-10-07,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-09-17 00:17:44
+4276,DE,2021-10-11,17:30:00,33602,Bielefeld,Am alten Rathaus,Mahnwache,,Mahnwache BI  steht auf,,52.0212855,8.53507,2021-09-17 00:17:44
+3805,DE,2021-10-14,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-09-17 00:17:44
+4277,DE,2021-10-18,17:30:00,33602,Bielefeld,Am alten Rathaus,Mahnwache,,Mahnwache BI  steht auf,,52.0212855,8.53507,2021-09-17 00:17:44
+3806,DE,2021-10-21,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-09-17 00:17:44
+4278,DE,2021-10-25,17:30:00,33602,Bielefeld,Am alten Rathaus,Mahnwache,,Mahnwache BI  steht auf,,52.0212855,8.53507,2021-09-17 00:17:44
+3807,DE,2021-10-28,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-09-17 00:17:44
+3808,DE,2021-11-04,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-09-17 00:17:44
+1960,DE,2021-11-05,18:00:00,10117,Berlin,Pariser Platz / Brandenburger Tor,MillionMaskMarch,https://anonymous.support/live,Anonymous,https://anonymous.support,52.5170365,13.3888599,2021-09-17 00:17:44
+3809,DE,2021-11-11,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-09-17 00:17:44
+3810,DE,2021-11-18,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-09-17 00:17:44
+3811,DE,2021-11-25,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-09-17 00:17:44
+3812,DE,2021-12-02,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-09-17 00:17:44
+3813,DE,2021-12-09,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-09-17 00:17:44
+3814,DE,2021-12-16,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-09-17 00:17:44
+3815,DE,2021-12-23,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-09-17 00:17:44
+1963,DE,2021-12-24,12:00:00,10178,Berlin,Weltzeituhr / Alexanderplatz,OpSafeWinter,https://anonymous.support/live,Anonymous,https://anonymous.support,52.5170365,13.3888599,2021-09-17 00:17:44
+3816,DE,2021-12-30,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1667467,11.803713,2021-09-17 00:17:44
+1617,DE,2021-12-31,23:59:00,10117,Berlin,Brandenburger Tor,Event,,Welcome 2022,,52.51628045,13.377701882994323,2021-09-17 00:17:44
+3890,DE,2022-07-19,18:00:00,33098,Paderborn,Rathausplatz,Kundgebung,,unbekannt,,51.7169744,8.7538304,2021-09-17 00:17:44
