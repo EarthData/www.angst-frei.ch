@@ -28,8 +28,8 @@ d3.select("#selectButton")
   .data(allGroup)
   .enter()
   .append('option')
-  .text(function (d) { return d; }) // text showed in the menu
-  .attr("value", function (d) { return d; }) // corresponding value returned by the button
+  .text((d) => d) // text showed in the menu
+  .attr('value', (d) => d) // corresponding value returned by the button
 
 const graph = async (year, region, type) => {
 
@@ -59,12 +59,11 @@ const graph = async (year, region, type) => {
     });
 
     var x = d3.scaleTime()
-      .domain(d3.extent(data, function(d) { return d.week; }))
+      .domain(d3.extent(data, (d) => d.week))
       .range([0, width - 24]);
-      //.padding(0.05);
 
     var y = d3.scaleLinear()
-      .domain([0, d3.max(data, function(d) { return d.total; })]).nice()
+      .domain([0, d3.max(data, (d) => d.total)]).nice()
       .rangeRound([height, 0]);
 
     var color = d3.scaleOrdinal()
@@ -79,35 +78,35 @@ const graph = async (year, region, type) => {
     d3.selectAll(".g-" + group)
       .remove()
 
-    var svg = d3.select(".svg-" + group)
-      .append("g")
-      .attr("class", "g-" + group)
-      .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+    var svg = d3.select('.svg-' + group)
+      .append('g')
+      .attr('class', 'g-' + group)
+      .attr('transform', 'translate(' + margin.left + ',' + margin.top + ')');
    
-    svg.append("g")
-      .attr("class", "x axis")
+    svg.append('g')
+      .attr('class', 'x axis')
       .call(xAxis)
-      .attr("transform", "translate(0," + height + ")")
+      .attr('transform', 'translate(0,' + height + ')')
 
-    svg.append("g")
-      .attr("class", "y axis")
+    svg.append('g')
+      .attr('class', 'y axis')
       .call(yAxis)
 
-    svg.append("text")
-      .attr("x", (width / 2))
-      .attr("y", 0 - (margin.top / 2))
-      .attr("text-anchor", "middle")
-      .attr("class", "title-" + group)
-      .style("font-size", "16px")
-      .style("text-decoration", "underline")
+    svg.append('text')
+      .attr('x', (width / 2))
+      .attr('y', 0 - (margin.top / 2))
+      .attr('text-anchor', 'middle')
+      .attr('class', 'title-' + group)
+      .style('font-size', '16px')
+      .style('text-decoration', 'underline')
       .text(title)
 
-    var state = svg.selectAll(".state")
+    var state = svg.selectAll('.state')
       .data(data)
-      .join("g")
-      .attr("class", "g")
+      .join('g')
+      .attr('class', 'g')
 
-    state.selectAll("rect")
+    state.selectAll('rect')
       .data((d) => d.ages)
       .join('rect')
       .attr('width', barwidth)
@@ -119,12 +118,9 @@ const graph = async (year, region, type) => {
       .delay(function (d, i) {
           return i * 50;
       })
-      .attr("height", function(d) { return y(d.y0) - y(d.y1); })
-      .attr("class", function(d) {
-        classLabel = d.name.replace(/\s/g, ''); //remove spaces
-        return "class-" + group + "-" + classLabel;
-      })
-      .style("fill", function(d) { return color(d.name); })
+      .attr('height', (d) => y(d.y0) - y(d.y1))
+      .attr('class', (d) => 'class-' + group + '-' + d.name.replace(/\s/g, ''))
+      .attr('fill', (d) => color(d.name))
       .style('opacity', 1);
 
     state.selectAll("rect")
