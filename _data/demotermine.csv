@@ -4,23 +4,33 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 4317,DE,2021-09-22,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander,
 4177,DE,2021-09-22,19:00:00,86343,Königsbrunn,Markplatz Rathaus,Kundgebung,,unbekannt,
 4247,DE,2021-09-23,17:30:00,76133,Karlsruhe,Marktplatz,Kundgebung,,Off. Ges. Kurpfalz - Antihygienistische Aktion,http://antihy.de/ka-2021-09.-23
+21261,DE,2021-09-23,17:30:00,86150,Augsburg,Kuhsee Hochablass,Kundgebung,,unbekannt,
 3802,DE,2021-09-23,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 4130,DE,2021-09-23,18:30:00,63457,Großauheim,Main Pilgerstr./Ecke Leinpfad,Mahnwache,,Hanau steht auf!,http://www.hanau-steht-auf.de
 4188,DE,2021-09-25,11:00:00,24558,Henstedt-Ulzburg,Am Bahnbogen 2 / Höhe KFC,Schilderwald,,Corona Forum Henstedt Ulzburg,https://t.me/s/corona_forum_henstedt_ulzburg
+21262,DE,2021-09-25,11:30:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,https://t.me/cellestehtauf
 4269,DE,2021-09-25,13:00:00,20359,Hamburg,Reeperbahn,Autokorso,,Freiheitsfahrer Hamburg,
 4136,DE,2021-09-25,13:00:00,76530,Baden-Baden,Sophienstr. 1B,Kundgebung,,BI aufRECHT:FREIdenken,http://www.solidarnosch.de
 21252,DE,2021-09-25,14:00:00,70173,Stuttgart,Landtag,Aufzug,,Wir für unsere Kinder und Freiheit,
 21257,DE,2021-09-25,14:00:00,92421,Schwandorf,Unterer Marktplatz,Demonstration,,unbekannt,
 21253,DE,2021-09-25,14:00:00,64385,Reichelsheim,Ortseingang Aldi B 38,Zusammenkunft,,unbekannt,
+21263,DE,2021-09-25,14:00:00,26122,Oldenburg,Waffenplatz,Kundgebung,,Querdenken 441 - Oldenburg,https://querdenken441.de
+21265,DE,2021-09-25,14:30:00,30449,Hannover,Ritter-Brüning-Str. / Parking,Autokorso,,Autocorso Hannover,
+21267,DE,2021-09-25,15:30:00,87600,Kaufbeuren,Obstmarkt / Fußgängerzone,Meditation,,unbekannt,
 4022,DE,2021-09-25,17:00:00,81373,München,Harras am Brunnen,Kundgebung,,UlliOma Family u. Friends,https://t.me/UlliOma_Muc
 21251,DE,2021-09-25,17:00:00,20149,Hamburg,Klosterstern,Aufzug,,unbekannt,
+21266,DE,2021-09-26,10:45:00,75015,Bretten,Stadtpark / Alter Friedhof,Meditation,,unbekannt,
 4141,DE,2021-09-26,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
+21258,DE,2021-09-26,16:00:00,86150,Augsburg,Wittelsbacher Park,Kundgebung,,unbekannt,
 4274,DE,2021-09-27,17:30:00,33602,Bielefeld,Am alten Rathaus,Mahnwache,,Mahnwache BI  steht auf,
 21256,DE,2021-09-27,18:00:00,92421,Schwandorf / Haselbach,Kirchawirt,Zusammenkunft,,unbekannt,
+21264,DE,2021-09-27,18:30:00,29221,Celle,Stechbahn / Schloß,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 4263,DE,2021-09-27,18:30:00,99510,Apolda,Rathaus / Markt,Spaziergang,,unbekannt,
 4169,DE,2021-09-27,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
+21268,DE,2021-09-27,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,unbekannt,
 4126,DE,2021-09-29,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,http://www.hanau-steht-auf.de
 4318,DE,2021-09-29,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander,
+21259,DE,2021-09-29,19:00:00,86343,Königsbrunn,Marktplatz,Kundgebung,,unbekannt,
 4178,DE,2021-09-29,19:00:00,86343,Königsbrunn,Markplatz Rathaus,Kundgebung,,unbekannt,
 3803,DE,2021-09-30,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 4131,DE,2021-09-30,18:30:00,63457,Großauheim,Main Pilgerstr./Ecke Leinpfad,Mahnwache,,Hanau steht auf!,http://www.hanau-steht-auf.de
@@ -29,6 +39,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 2271,DE,2021-10-04,14:30:00,06232,Speyer,Domplatz,Kundgebung,https://dlive.tv/Live-Reports-DUEW,Querdenken 6341,https://www.querdenken-6341.de
 4275,DE,2021-10-04,17:30:00,33602,Bielefeld,Am alten Rathaus,Mahnwache,,Mahnwache BI  steht auf,
 4183,DE,2021-10-04,18:00:00,02625,Bautzen,Kornmarkt,Schweigemarsch,https://gesichtzeigen.digital/brandneu/vendijo-ist-offiziell-online-willkommen-deutschland-oesterreich-schweiz/,Gesichtzeigen,
+21260,DE,2021-10-06,19:00:00,86343,Königsbrunn,Marktplatz,Kundgebung,,Bürgerforum Schwaben e.V.,https://bf-schwaben.de/
 3804,DE,2021-10-07,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 4276,DE,2021-10-11,17:30:00,33602,Bielefeld,Am alten Rathaus,Mahnwache,,Mahnwache BI  steht auf,
 3805,DE,2021-10-14,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
