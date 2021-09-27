@@ -10,6 +10,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 4169,DE,2021-09-27,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
 21284,DE,2021-09-27,19:00:00,17033,Neubrandenburg,Marktplatz / Innenstadt,Aufzug,,unbekannt,
 21268,DE,2021-09-27,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,unbekannt,
+21298,DE,2021-09-28,18:00:00,74906,Bad Rappenau,Kirchplatz / Rathaus,Versammlung,,Privat,
 21288,DE,2021-09-29,16:30:00,70184,Stuttgart,Dobelstr / Hohenheimer Str.,Schilderwald,,Privat,
 4126,DE,2021-09-29,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,http://www.hanau-steht-auf.de
 21282,DE,2021-09-29,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander,
@@ -20,6 +21,10 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3803,DE,2021-09-30,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 4131,DE,2021-09-30,18:30:00,63457,Großauheim,Main Pilgerstr./Ecke Leinpfad,Mahnwache,,Hanau steht auf!,http://www.hanau-steht-auf.de
 21255,DE,2021-09-30,19:00:00,92723,Tännesberg,Gasthof Tannenhof,Zusammenkunft,,unbekannt,
+21294,DE,2021-10-02,14:30:00,45127,Essen,Willy-Brandt-Platz,Kundgebung,,unbekannt,
+21296,DE,2021-10-02,15:00:00,50678,Köln,Heumarkt,Demonstration,,Koeln ist aktiv,https://koelnistaktiv.de
+21295,DE,2021-10-02,15:30:00,45127,Essen,Willy-Brandt-Platz,Kundgebung,,Für den Erhalt der Freiheit,https://t.me/joinchat/Gr4v4tPxmF174Ikj
+21297,DE,2021-10-02,17:00:00,50678,Köln,Heumarkt,Spaziergang,,Koeln ist aktiv,https://koelnistaktiv.de
 21289,DE,2021-10-02,21:00:00,70173,Stuttgart,Landtag,Aufzug,,unbekannt,
 4293,DE,2021-10-02,21:00:00,70173,Stuttgart,Landtag,Aufzug,,Finger weg von unseren Kindern,
 21290,DE,2021-10-03,11:00:00,11011,Berlin,Platz der Republik,Kundgebung,https://www.twitch.tv/echtzeiteubertragung,Staatendoof V-Mann R�diger Hoffmann,https://staatenlos.info
@@ -33,6 +38,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3804,DE,2021-10-07,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 4276,DE,2021-10-11,17:30:00,33602,Bielefeld,Am alten Rathaus,Mahnwache,,Mahnwache BI  steht auf,
 3805,DE,2021-10-14,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
+21299,DE,2021-10-17,14:00:00,69177,Heidelberg,Universitätsplatz,Kundgebung,,Antihygienistische Aktion,https://antihy.de/hd2021-10-17/
 4277,DE,2021-10-18,17:30:00,33602,Bielefeld,Am alten Rathaus,Mahnwache,,Mahnwache BI  steht auf,
 3806,DE,2021-10-21,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 4278,DE,2021-10-25,17:30:00,33602,Bielefeld,Am alten Rathaus,Mahnwache,,Mahnwache BI  steht auf,
