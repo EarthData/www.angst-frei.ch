@@ -137,84 +137,88 @@ from,to,title,group,value
 99,98,BAG,gavi,1
 3,100,Eurosurveillance,Wissenschaft,2
 26,100,Eurosurveillance,pcr-test,1
-16,101,World Health Organization,P(l)andemie,2
-19,101,World Health Organization,who,1
+92,101,NZZ,Spital,2
+13,101,NZZ,Politik,2
+63,101,NZZ,manipulation,1
+4,101,NZZ,bundesrat,1
 16,102,World Health Organization,P(l)andemie,2
 19,102,World Health Organization,who,1
-3,103,Virological,Wissenschaft,2
-30,103,Virological,wuhan,1
-16,104,Event,P(l)andemie,2
-19,104,Event,who,1
-11,105,Die Welt,Medizin,2
-65,105,Die Welt,beatmung,1
-3,106,medinside.ch,Wissenschaft,2
-13,106,medinside.ch,Politik,2
-107,106,medinside.ch,taskforce,1
-11,108,Tagesanzeiger,Medizin,2
-31,108,Tagesanzeiger,virus-ursprung,1
-13,109,Swissmedic,Politik,2
-97,109,Swissmedic,swissmedic,1
-43,109,Swissmedic,geld,1
-16,110,Pontifical Academy for Life,P(l)andemie,2
-16,111,World Health Organization,P(l)andemie,2
-19,111,World Health Organization,who,1
-30,112,SRF,wuhan,1
-57,113,RT DE,Gesundheit,2
-63,113,RT DE,manipulation,1
-43,113,RT DE,geld,1
-99,113,RT DE,gavi,1
-16,114,Rubikon,P(l)andemie,2
-85,114,Rubikon,event 201,1
-42,115,The Pirbright Institute,Impfung,2
-3,115,The Pirbright Institute,Wissenschaft,2
-2,116,Nature Medicine,Studie,2
-3,116,Nature Medicine,Wissenschaft,2
-117,116,Nature Medicine,nature,1
-31,116,Nature Medicine,virus-ursprung,1
-16,118,Event,P(l)andemie,2
-26,118,Event,pcr-test,1
-16,119,World Health Organization,P(l)andemie,2
-19,119,World Health Organization,who,1
-57,120,Johns Hopkins Center for Health Security,Gesundheit,2
-9,120,Johns Hopkins Center for Health Security,jhchs,1
-85,120,Johns Hopkins Center for Health Security,event 201,1
-42,121,Corona Transition,Impfung,2
-8,121,Corona Transition,Zahlen,2
-122,121,Corona Transition,impf-nebenwirkungen,1
-123,121,Corona Transition,mit oder an impfung gestorben,1
-3,124,Eurosurveillance,Wissenschaft,2
-26,124,Eurosurveillance,pcr-test,1
-2,125,ScienceFiles,Studie,2
-3,125,ScienceFiles,Wissenschaft,2
-31,125,ScienceFiles,virus-ursprung,1
-57,126,Tagesanzeiger,Gesundheit,2
-3,126,Tagesanzeiger,Wissenschaft,2
-30,126,Tagesanzeiger,wuhan,1
-3,127,New England Journal of Medicine,Wissenschaft,2
-45,127,New England Journal of Medicine,the lancet,1
-50,128,BAG,BAG,2
-4,128,BAG,bundesrat,1
-26,128,BAG,pcr-test,1
-16,129,NachDenkSeiten,P(l)andemie,2
-9,129,NachDenkSeiten,jhchs,1
-85,129,NachDenkSeiten,event 201,1
-63,130,INFOsperber,manipulation,1
-131,130,INFOsperber,zensur,1
-43,130,INFOsperber,geld,1
-8,132,World Health Organization,Zahlen,2
-19,132,World Health Organization,who,1
-3,133,The Australian,Wissenschaft,2
-42,133,The Australian,Impfung,2
-42,134,Bill & Melinda Gates Foundation,Impfung,2
-43,134,Bill & Melinda Gates Foundation,geld,1
-8,135,World Health Organization,Zahlen,2
-19,135,World Health Organization,who,1
-42,136,Berliner Zeitung,Impfung,2
-3,136,Berliner Zeitung,Wissenschaft,2
-137,136,Berliner Zeitung,impfplan,1
-8,138,World Health Organization,Zahlen,2
-19,138,World Health Organization,who,1
-57,139,Nau,Gesundheit,2
-140,139,Nau,uno,1
-141,139,Nau,menschenrechte,1
-6,139,Nau,massnahmen,1
+16,103,World Health Organization,P(l)andemie,2
+19,103,World Health Organization,who,1
+3,104,Virological,Wissenschaft,2
+30,104,Virological,wuhan,1
+16,105,Event,P(l)andemie,2
+19,105,Event,who,1
+11,106,Die Welt,Medizin,2
+65,106,Die Welt,beatmung,1
+3,107,medinside.ch,Wissenschaft,2
+13,107,medinside.ch,Politik,2
+108,107,medinside.ch,taskforce,1
+11,109,Tagesanzeiger,Medizin,2
+31,109,Tagesanzeiger,virus-ursprung,1
+13,110,Swissmedic,Politik,2
+97,110,Swissmedic,swissmedic,1
+43,110,Swissmedic,geld,1
+16,111,Pontifical Academy for Life,P(l)andemie,2
+16,112,World Health Organization,P(l)andemie,2
+19,112,World Health Organization,who,1
+30,113,SRF,wuhan,1
+57,114,RT DE,Gesundheit,2
+63,114,RT DE,manipulation,1
+43,114,RT DE,geld,1
+99,114,RT DE,gavi,1
+16,115,Rubikon,P(l)andemie,2
+85,115,Rubikon,event 201,1
+42,116,The Pirbright Institute,Impfung,2
+3,116,The Pirbright Institute,Wissenschaft,2
+2,117,Nature Medicine,Studie,2
+3,117,Nature Medicine,Wissenschaft,2
+118,117,Nature Medicine,nature,1
+31,117,Nature Medicine,virus-ursprung,1
+16,119,Event,P(l)andemie,2
+26,119,Event,pcr-test,1
+16,120,World Health Organization,P(l)andemie,2
+19,120,World Health Organization,who,1
+57,121,Johns Hopkins Center for Health Security,Gesundheit,2
+9,121,Johns Hopkins Center for Health Security,jhchs,1
+85,121,Johns Hopkins Center for Health Security,event 201,1
+42,122,Corona Transition,Impfung,2
+8,122,Corona Transition,Zahlen,2
+123,122,Corona Transition,impf-nebenwirkungen,1
+124,122,Corona Transition,mit oder an impfung gestorben,1
+3,125,Eurosurveillance,Wissenschaft,2
+26,125,Eurosurveillance,pcr-test,1
+2,126,ScienceFiles,Studie,2
+3,126,ScienceFiles,Wissenschaft,2
+31,126,ScienceFiles,virus-ursprung,1
+57,127,Tagesanzeiger,Gesundheit,2
+3,127,Tagesanzeiger,Wissenschaft,2
+30,127,Tagesanzeiger,wuhan,1
+3,128,New England Journal of Medicine,Wissenschaft,2
+45,128,New England Journal of Medicine,the lancet,1
+50,129,BAG,BAG,2
+4,129,BAG,bundesrat,1
+26,129,BAG,pcr-test,1
+16,130,NachDenkSeiten,P(l)andemie,2
+9,130,NachDenkSeiten,jhchs,1
+85,130,NachDenkSeiten,event 201,1
+63,131,INFOsperber,manipulation,1
+132,131,INFOsperber,zensur,1
+43,131,INFOsperber,geld,1
+8,133,World Health Organization,Zahlen,2
+19,133,World Health Organization,who,1
+3,134,The Australian,Wissenschaft,2
+42,134,The Australian,Impfung,2
+42,135,Bill & Melinda Gates Foundation,Impfung,2
+43,135,Bill & Melinda Gates Foundation,geld,1
+8,136,World Health Organization,Zahlen,2
+19,136,World Health Organization,who,1
+42,137,Berliner Zeitung,Impfung,2
+3,137,Berliner Zeitung,Wissenschaft,2
+138,137,Berliner Zeitung,impfplan,1
+8,139,World Health Organization,Zahlen,2
+19,139,World Health Organization,who,1
+57,140,Nau,Gesundheit,2
+141,140,Nau,uno,1
+142,140,Nau,menschenrechte,1
+6,140,Nau,massnahmen,1
