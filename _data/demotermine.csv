@@ -1,5 +1,6 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
 21288,DE,2021-09-29,16:30:00,70184,Stuttgart,Dobelstr / Hohenheimer Str.,Schilderwald,,Privat,
+21313,DE,2021-09-29,18:00:00,81373,München,Am Harras,Aufzug,,Münchenstehtauf,https://www.muenchen-steht-auf.de
 4126,DE,2021-09-29,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,http://www.hanau-steht-auf.de
 21282,DE,2021-09-29,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander,
 4318,DE,2021-09-29,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander,
@@ -11,6 +12,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 4131,DE,2021-09-30,18:30:00,63457,Großauheim,Main Pilgerstr./Ecke Leinpfad,Mahnwache,,Hanau steht auf!,http://www.hanau-steht-auf.de
 21255,DE,2021-09-30,19:00:00,92723,Tännesberg,Gasthof Tannenhof,Zusammenkunft,,unbekannt,
 21308,DE,2021-10-01,15:00:00,88677,Markdorf,Bahnhof / Parkplatz neben Kiosk,Schilderwald,,Markdorf aktiv,
+21311,DE,2021-10-01,17:30:00,13189,Berlin,Am Feuchten Winkel / P+R Parkplatz,Autokorso,,Autokorso Berlin,https://t.me/autokorsoberlininfo
 21303,DE,2021-10-02,14:00:00,36037,Fulda,Universitätsplatz,Kundgebung,,unbekannt,
 21306,DE,2021-10-02,14:30:00,30449,Hannover,Ritter-Brüning-Str. / Parking,Autokorso,,Autocorso Hannover,
 21296,DE,2021-10-02,15:00:00,50678,Köln,Heumarkt,Demonstration,,Koeln ist aktiv,https://koelnistaktiv.de
@@ -21,6 +23,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 4293,DE,2021-10-02,21:00:00,70173,Stuttgart,Landtag,Aufzug,,Finger weg von unseren Kindern,
 21309,DE,2021-10-03,11:00:00,70173,Stuttgart,Sozialministerium,Kundgebung,,Zeig dein Herz für Kinder. Initiative Familien,
 21290,DE,2021-10-03,11:00:00,11011,Berlin,Platz der Republik,Kundgebung,https://www.twitch.tv/echtzeiteubertragung,Staatendoof V-Mann R�diger Hoffmann,https://staatenlos.info
+21312,DE,2021-10-03,11:00:00,14057,Berlin,Masurenallee / Theodor-Heuss-Platz,Autokorso,,Autokorso Berlin,https://t.me/Autokorsoberlininfo
 21291,DE,2021-10-03,15:00:00,89150,Laichingen,Marktplatz,Aufzug,,unbekannt,
 21302,DE,2021-10-03,15:00:00,89150,Laichingen,Marktplatz,Aufzug,,unbekannt,
 2271,DE,2021-10-04,14:30:00,06232,Speyer,Domplatz,Kundgebung,https://dlive.tv/Live-Reports-DUEW,Querdenken 6341,https://www.querdenken-6341.de
