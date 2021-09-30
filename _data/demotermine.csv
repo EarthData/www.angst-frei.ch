@@ -8,6 +8,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21311,DE,2021-10-01,17:30:00,13189,Berlin,Am Feuchten Winkel / P+R Parkplatz,Autokorso,,Autokorso Berlin,https://t.me/autokorsoberlininfo
 21316,DE,2021-10-02,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,t.me/cellestehtauf
 21317,DE,2021-10-02,11:45:00,29221,Celle,GroÃŸer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf
+21325,DE,2021-10-02,13:00:00,86150,Augsburg,Rathausplatz,Kundgebung,,unbekannt,
+21323,DE,2021-10-02,14:00:00,70173,Stuttgart,Landtag,Aufzug,,Finger weg von unseren Kindern,
+21324,DE,2021-10-02,14:00:00,64385,Reichelsheim,B 38 Ortseingang Aldi,Zusammenkunft,,unbekannt,
 21303,DE,2021-10-02,14:00:00,36037,Fulda,UniversitÃ¤tsplatz,Kundgebung,,unbekannt,
 21306,DE,2021-10-02,14:30:00,30449,Hannover,Ritter-BrÃ¼ning-Str. / Parking,Autokorso,,Autocorso Hannover,
 21296,DE,2021-10-02,15:00:00,50678,KÃ¶ln,Heumarkt,Demonstration,,Koeln ist aktiv,https://koelnistaktiv.de
@@ -15,11 +18,11 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21319,DE,2021-10-02,15:00:00,52064,Aachen,Marktplatz,Zusammenkunft,,Aachener fÃ¼r eine menschliche Zukunft. Querdenken-241,http://www.querdenken241-aachen.de
 21295,DE,2021-10-02,15:30:00,45127,Essen,Willy-Brandt-Platz,Kundgebung,,FÃ¼r den Erhalt der Freiheit,https://t.me/joinchat/Gr4v4tPxmF174Ikj
 21297,DE,2021-10-02,17:00:00,50678,KÃ¶ln,Heumarkt,Spaziergang,,Koeln ist aktiv,https://koelnistaktiv.de
-4293,DE,2021-10-02,21:00:00,70173,Stuttgart,Landtag,Aufzug,,Finger weg von unseren Kindern,
 21289,DE,2021-10-02,21:00:00,70173,Stuttgart,Landtag,Aufzug,,unbekannt,
+4293,DE,2021-10-02,21:00:00,70173,Stuttgart,Landtag,Aufzug,,Finger weg von unseren Kindern,
 21309,DE,2021-10-03,11:00:00,70173,Stuttgart,Sozialministerium,Kundgebung,,Zeig dein Herz fÃ¼r Kinder. Initiative Familien,
-21290,DE,2021-10-03,11:00:00,11011,Berlin,Platz der Republik,Kundgebung,https://www.twitch.tv/echtzeiteubertragung,Staatendoof V-Mann Rüdiger Hoffmann,https://staatenlos.info
 21312,DE,2021-10-03,11:00:00,14057,Berlin,Masurenallee / Theodor-Heuss-Platz,Autokorso,,Autokorso Berlin,https://t.me/Autokorsoberlininfo
+21290,DE,2021-10-03,11:00:00,11011,Berlin,Platz der Republik,Kundgebung,https://www.twitch.tv/echtzeiteubertragung,Staatendoof V-Mann Rüdiger Hoffmann,https://staatenlos.info
 21302,DE,2021-10-03,15:00:00,89150,Laichingen,Marktplatz,Aufzug,,unbekannt,
 21291,DE,2021-10-03,15:00:00,89150,Laichingen,Marktplatz,Aufzug,,unbekannt,
 21315,DE,2021-10-03,16:00:00,86150,Augsburg,Wittelsbacher Park,Kundgebung,,unbekannt,
@@ -32,6 +35,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21283,DE,2021-10-06,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe fÃ¼r Freiheit | Frieden und menschliches Miteinander,
 21260,DE,2021-10-06,19:00:00,86343,KÃ¶nigsbrunn,Marktplatz,Kundgebung,,BÃ¼rgerforum Schwaben e.V.,https://bf-schwaben.de/
 3804,DE,2021-10-07,18:00:00,85586,Poing,Friedensstr. 9 / UnterfÃ¼hrung,Kundgebung,,unbekannt,
+21322,DE,2021-10-09,12:00:00,01069,Dresden,Friedrich-List-Platz,Demonstration,,StudentenStehenAuf,
 4276,DE,2021-10-11,17:30:00,33602,Bielefeld,Am alten Rathaus,Mahnwache,,Mahnwache BI  steht auf,
 21310,DE,2021-10-11,18:00:00,67098,Bad DÃ¼rkheim,Wurstmarkt / Parkplatz,Kundgebung,https://dlive.tv/Live-Reports-DUEW?ref=duew2020,unbekannt,https://t.me/MiteinanderRedenDUEW
 3805,DE,2021-10-14,18:00:00,85586,Poing,Friedensstr. 9 / UnterfÃ¼hrung,Kundgebung,,unbekannt,
