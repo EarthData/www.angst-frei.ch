@@ -12,11 +12,11 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21332,DE,2021-10-02,15:30:00,87600,Kaufbeuren,Obstmarkt / Fußgängerzone,Meditation,,unbekannt,
 21295,DE,2021-10-02,15:30:00,45127,Essen,Willy-Brandt-Platz,Kundgebung,,FÃ¼r den Erhalt der Freiheit,https://t.me/joinchat/Gr4v4tPxmF174Ikj
 21297,DE,2021-10-02,17:00:00,50678,KÃ¶ln,Heumarkt,Spaziergang,,Koeln ist aktiv,https://koelnistaktiv.de
-4293,DE,2021-10-02,21:00:00,70173,Stuttgart,Landtag,Aufzug,,Finger weg von unseren Kindern,
 21289,DE,2021-10-02,21:00:00,70173,Stuttgart,Landtag,Aufzug,,unbekannt,
+4293,DE,2021-10-02,21:00:00,70173,Stuttgart,Landtag,Aufzug,,Finger weg von unseren Kindern,
 21309,DE,2021-10-03,11:00:00,70173,Stuttgart,Sozialministerium,Kundgebung,,Zeig dein Herz fÃ¼r Kinder. Initiative Familien,
-21312,DE,2021-10-03,11:00:00,14057,Berlin,Masurenallee / Theodor-Heuss-Platz,Autokorso,,Autokorso Berlin,https://t.me/Autokorsoberlininfo
 21290,DE,2021-10-03,11:00:00,11011,Berlin,Platz der Republik,Kundgebung,https://www.twitch.tv/echtzeiteubertragung,Staatendoof V-Mann Rüdiger Hoffmann,https://staatenlos.info
+21312,DE,2021-10-03,11:00:00,14057,Berlin,Masurenallee / Theodor-Heuss-Platz,Autokorso,,Autokorso Berlin,https://t.me/Autokorsoberlininfo
 21331,DE,2021-10-03,13:30:00,55116,Mainz,Malakoff-Terasse,Schilderwald,,1bis19 und LV Hessen,https://initiative.1bis19.de/
 21343,DE,2021-10-03,14:30:00,96050,Bamberg,Fuchsparkstadion,Autokorso,,StayAwake Bamberg,
 21329,DE,2021-10-03,15:00:00,64720,Michelstadt / Odenwald,Bienenmarkt-Platz,Aufzug,,Free Odenwald,
@@ -39,6 +39,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21338,DE,2021-10-07,17:30:00,63457,Großauheim,Main Pilgerstr. / Leinpfad,Mahnwache,,Hanau steht auf!,http://www.hanau-steht-auf.de
 3804,DE,2021-10-07,18:00:00,85586,Poing,Friedensstr. 9 / UnterfÃ¼hrung,Kundgebung,,unbekannt,
 21322,DE,2021-10-09,12:00:00,01069,Dresden,Friedrich-List-Platz,Demonstration,,StudentenStehenAuf,
+21345,DE,2021-10-09,15:00:00,40212,Düsseldorf,Corneliusplatz,Aufzug,,QUERDENKEN NRW Initiativen,https://querdenken-234.de
 21328,DE,2021-10-09,16:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,unbekannt,
 4276,DE,2021-10-11,17:30:00,33602,Bielefeld,Am alten Rathaus,Mahnwache,,Mahnwache BI  steht auf,
 21335,DE,2021-10-11,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,http://www.hanau-steht-auf.de
