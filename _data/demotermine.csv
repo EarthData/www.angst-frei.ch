@@ -5,8 +5,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21331,DE,2021-10-03,13:30:00,55116,Mainz,Malakoff-Terasse,Schilderwald,,1bis19 und LV Hessen,https://initiative.1bis19.de/
 21343,DE,2021-10-03,14:30:00,96050,Bamberg,Fuchsparkstadion,Autokorso,,StayAwake Bamberg,
 21329,DE,2021-10-03,15:00:00,64720,Michelstadt / Odenwald,Bienenmarkt-Platz,Aufzug,,Free Odenwald,
-21302,DE,2021-10-03,15:00:00,89150,Laichingen,Marktplatz,Aufzug,,unbekannt,
 21291,DE,2021-10-03,15:00:00,89150,Laichingen,Marktplatz,Aufzug,,unbekannt,
+21302,DE,2021-10-03,15:00:00,89150,Laichingen,Marktplatz,Aufzug,,unbekannt,
 21342,DE,2021-10-03,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
 21315,DE,2021-10-03,16:00:00,86150,Augsburg,Wittelsbacher Park,Kundgebung,,unbekannt,
 2271,DE,2021-10-04,14:30:00,06232,Speyer,Domplatz,Kundgebung,https://dlive.tv/Live-Reports-DUEW,Querdenken 6341,https://www.querdenken-6341.de
@@ -22,6 +22,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21330,DE,2021-10-04,19:00:00,17033,Neubrandenburg,Marktplatz / Innenstadt,Kundgebung,,unbekannt,
 21333,DE,2021-10-04,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,unbekannt,
 21352,DE,2021-10-05,18:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
+21357,DE,2021-10-06,17:00:00,70173,Stuttgart,Karlsplatz,Kundgebung,,Privat,
 21353,DE,2021-10-06,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 21283,DE,2021-10-06,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe fÃ¼r Freiheit | Frieden und menschliches Miteinander,
 21260,DE,2021-10-06,19:00:00,86343,Königsbrunn,Marktplatz,Kundgebung,,BÃ¼rgerforum Schwaben e.V.,https://bf-schwaben.de/
