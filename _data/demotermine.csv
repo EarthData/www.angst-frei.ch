@@ -1,9 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-21403,DE,2021-10-07,17:00:00,38259,Bad Salzgitter,Kl. Rathaus,Zusammenkunft,,unbekannt,
-21338,DE,2021-10-07,17:30:00,63457,Großauheim,Main Pilgerstr. / Leinpfad,Mahnwache,,Hanau steht auf!,http://www.hanau-steht-auf.de
-21377,DE,2021-10-07,17:30:00,86150,Augsburg,Kuhsee / Hochablass,Kundgebung,,unbekannt,
-3804,DE,2021-10-07,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
-21354,DE,2021-10-07,18:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 21371,DE,2021-10-08,16:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.de
 21359,DE,2021-10-08,16:00:00,16762,Hennigsdorf,Berliner Str. / Hauptstraße,Schilderwald,,Oberhavel steht auf,
 21401,DE,2021-10-08,17:30:00,13189,Berlin,Am Feuchten Winkel / Parkplatz,Autokorso,,Autokorso Berlin - Das Original,
@@ -20,6 +15,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21362,DE,2021-10-09,14:30:00,30449,Hannover,Ritter-Brüning-Str. / Parking,Autokorso,,Autocorso Hannover,https://t.me/autocorsohann
 21399,DE,2021-10-09,15:00:00,79098,Freiburg,Karlsplatz,Aufzug,,Mit Trommeln und Plakaten,
 21345,DE,2021-10-09,15:00:00,40212,Düsseldorf,Corneliusplatz,Aufzug,,QUERDENKEN NRW Initiativen,https://querdenken-234.de
+21405,DE,2021-10-09,15:30:00,87600,Kaufbeuren,Obstmarkt / Fußgängerzone,Meditation,,unbekannt,
 21328,DE,2021-10-09,16:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,unbekannt,
 21356,DE,2021-10-09,18:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 21360,DE,2021-10-10,10:45:00,75015,Bretten,Stadtpark / Alter Friedhof,Meditation,,unbekannt,
@@ -34,6 +30,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21381,DE,2021-10-11,18:30:00,29221,Celle,Stechbahn / Schloß,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 21366,DE,2021-10-11,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,unbekannt,
 21347,DE,2021-10-11,18:30:00,99510,Apolda,Markt / Rathaus,Spaziergang,,unbekannt,
+21406,DE,2021-10-11,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,unbekannt,
 21404,DE,2021-10-12,09:00:00,20354,Hamburg,ABC-Straße 19,Kundgebung,,Staatendoof V-Mann Rüdiger Hoffmann / Klasen / Manthey / Stasi,https://staatenlos.info/
 21374,DE,2021-10-13,19:00:00,86343,Königsbrunn,Marktplatz / vor dem Rathaus,Kundgebung,,unbekannt,
 21339,DE,2021-10-14,17:30:00,63457,Großauheim,Main Pilgerstr. / Leinpfad,Mahnwache,,Hanau steht auf!,http://www.hanau-steht-auf.de
