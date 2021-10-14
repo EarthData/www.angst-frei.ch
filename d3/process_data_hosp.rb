@@ -35,8 +35,7 @@ def process_data(year)
 
   CSV.foreach("data_hosp/COVID19Hosp_vaccpersons_AKL10_w.csv",{quote_char: '"', col_sep: ",", encoding: "bom|utf-8", headers: true, header_converters: :symbol, converters: :all} ) do |row|
    
-
-    next if row[:georegion] == "CH01" or row[:georegion] == "CH02"
+    next if row[:georegion] == "CH01" or row[:georegion] == "CH02" or row[:altersklasse_covid19] == "all" or row[:vaccination_status].match(/^(not_vaccinated|unknown)$/)
 
     geo = row[:georegion]
     age = row[:altersklasse_covid19]
@@ -45,7 +44,9 @@ def process_data(year)
     week = row[:date].to_s[4,2].to_i
     next if year < ayear or year > ayear
 
-    data[geo.to_sym][week.to_s.to_sym][age.to_sym][:vacc] = row[:entries]
+    #puts "adding #{row[:entries]} to #{geo} #{week} #{age} => #{data[geo.to_sym][week.to_s.to_sym][age.to_sym][:vacc]}"
+
+    data[geo.to_sym][week.to_s.to_sym][age.to_sym][:vacc] += row[:entries]
     data[geo.to_sym][week.to_s.to_sym][:Total][:vacc] += row[:entries]
   end
 
