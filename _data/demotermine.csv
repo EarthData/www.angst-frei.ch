@@ -2,6 +2,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21469,DE,2021-10-20,16:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 21477,DE,2021-10-20,16:30:00,70173,Stuttgart,Karlsplatz,Aufzug,,Privat,
 21445,DE,2021-10-20,17:00:00,70173,Stuttgart,Karlsplatz,Demonstration,,Mit DJ Tomak s Disco Auto,
+21480,DE,2021-10-20,17:00:00,70192,Stuttgart,Lenzhalde 46,Kundgebung,,unbekannt,
 21475,DE,2021-10-20,18:00:00,81667,München,Orleansplatz,Aufzug,,Münchenstehtauf,https://www.muenchen-steht-auf.de
 21409,DE,2021-10-20,18:00:00,32756,Detmold,Marktplatz,Spaziergang,,Lippe für Freiheit | Frieden und menschliches Miteinander,
 21375,DE,2021-10-20,19:00:00,86343,Königsbrunn,Marktplatz / vor dem Rathaus,Kundgebung,,unbekannt,
@@ -10,12 +11,20 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21470,DE,2021-10-21,18:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 21476,DE,2021-10-21,19:00:00,92286,Rieden / Amberg,SEVEN Gastro,Zusammenkunft,,unbekannt,
 21447,DE,2021-10-22,17:00:00,38518,Gifhorn,Schützenplatz / Parkplatz Impf,Autokorso,,Die Hinterfra-GEN-den,
+21492,DE,2021-10-22,17:30:00,76133,Karlsruhe,Friedrichsplatz,Demonstration,,GRUNDRECHTE,http://www.grundrechte.jetzt/
 21471,DE,2021-10-22,19:45:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 21386,DE,2021-10-23,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf
 21389,DE,2021-10-23,11:45:00,29221,Celle,Großer Plan,Versammlung,,Celle steht auf,https://t.me/cellestehtauf
+21488,DE,2021-10-23,13:00:00,80538,München,Maxmonument,Kundgebung,,Es Reicht Uns,http://www.es-reicht-uns.de
+21490,DE,2021-10-23,13:00:00,10117,Berlin,Friedrichstr. / Torstr.,Aufzug,,Es Reicht Uns,http://www.es-reicht-uns.de
 21395,DE,2021-10-23,13:00:00,76530,Baden-Baden,Reinhard-Fieser-Brücke,Kundgebung,,BI aufRECHT:FREIdenken,http://www.solidarnosch.de
+21491,DE,2021-10-23,14:00:00,56068,Koblenz,Jesuitenplatz,Mahnwache,,unbekannt,
+21489,DE,2021-10-23,14:00:00,40213,Düsseldorf,Johannes Rau Platz,Kundgebung,,Es Reicht Uns,http://www.es-reicht-uns.de
+21484,DE,2021-10-23,14:00:00,40221,Düsseldorf,Landtag,Kundgebung,,unbekannt,
+21481,DE,2021-10-23,14:30:00,30449,Hannover,Ritter-Brüning-Str. / Parking,Autokorso,,Autocorso Hannover,
 21463,DE,2021-10-23,15:00:00,23966,Wismar,Marktplatz,Aufzug,,unbekannt,
 21457,DE,2021-10-23,15:00:00,38518,Gifhorn,Marktplatz 1,Kundgebung,,Die Hinterfra-GEN-den,
+21482,DE,2021-10-23,15:30:00,87600,Kaufbeuren,Obstmarkt / Fußgängerzone,Meditation,,unbekannt,
 21426,DE,2021-10-23,16:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,unbekannt,
 21458,DE,2021-10-23,16:00:00,38518,Gifhorn,Marktplatz 1,Aufzug,,Die Hinterfra-GEN-den,
 21380,DE,2021-10-23,17:00:00,86150,Augsburg,Ulrichsplatz,Aufzug,,unbekannt,
@@ -28,8 +37,11 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 4278,DE,2021-10-25,17:30:00,33602,Bielefeld,Am alten Rathaus,Mahnwache,,Mahnwache BI  steht auf,
 21337,DE,2021-10-25,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,http://www.hanau-steht-auf.de
 21383,DE,2021-10-25,18:30:00,29221,Celle,Stechbahn / Schloß,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
+21485,DE,2021-10-25,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,unbekannt,
 21349,DE,2021-10-25,18:30:00,99510,Apolda,Markt / Rathaus,Spaziergang,,unbekannt,
 21424,DE,2021-10-25,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
+21486,DE,2021-10-25,19:00:00,99974,Mühlhausen / Thüringen,Untermarkt,Spaziergang,,FRIEDEN / FREIHEIT / SOUVERÄNITÄT,
+21483,DE,2021-10-25,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,unbekannt,
 21376,DE,2021-10-27,19:00:00,86343,Königsbrunn,Marktplatz / vor dem Rathaus,Kundgebung,,Bürgerforum Schwaben,https://bf-schwaben.de/
 21341,DE,2021-10-28,17:30:00,63457,Großauheim,Main Pilgerstr. / Leinpfad,Mahnwache,,Hanau steht auf!,http://www.hanau-steht-auf.de
 3807,DE,2021-10-28,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
@@ -42,6 +54,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 1960,DE,2021-11-05,18:00:00,10117,Berlin,Pariser Platz / Brandenburger Tor,MillionMaskMarch,https://anonymous.support/live,Anonymous,https://anonymous.support
 21453,DE,2021-11-06,15:00:00,04109,Leipzig,Augustusplatz,Aufzug,,unbekannt,
 3809,DE,2021-11-11,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
+21487,DE,2021-11-13,11:00:00,23795,Bad Segeberg,Rennkoppel,Autokorso,,INITIATIVE FÜR AUFKLÄRUNG UND TRANSPARENZ,
 3810,DE,2021-11-18,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 3811,DE,2021-11-25,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 21365,DE,2021-11-25,18:00:00,06844,Dessau-Roßlau,Friedensglocke,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
