@@ -55,7 +55,7 @@ const graph = async (region, type) => {
       d.total = t;
       //y0 = 0;
       d.day = parseTime(d.day);
-      //d.ages = keys.map(function(name) { return {myday: d.day, name: name, y0: y0, y1: y0 += +d[name]}; });
+      //d.types = keys.map(function(name) { return {myday: d.day, name: name, y0: y0, y1: y0 += +d[name]}; });
     });
 
     var x = d3.scaleTime()
@@ -213,6 +213,7 @@ const graph = async (region, type) => {
         .text(function(d) { return d; });
   
       function restorePlot(d, group) {
+/*
         state.nodes().forEach(function(d, i) {
           nodes[group] = d.childNodes;
           //restore shifted bars to original posn
@@ -221,6 +222,7 @@ const graph = async (region, type) => {
             .duration(1000)
             .attr("y", y_orig[group][i]);
         })
+*/
         //restore opacity of erased bars
         for (i = 0; i < legendClassArray[group].length; i++) {
           if (legendClassArray[group][i] != class_keep) {
@@ -246,13 +248,15 @@ const graph = async (region, type) => {
               .style("opacity", 0);
           }
         }
+
+/*
         //lower the bars to start on x-axis
         y_orig[group] = [];
 
         state.nodes().forEach(function(d, i) {
           nodes[group] = d.childNodes;
           //get height and y posn of base bar and selected bar
-          console.log(d3.select(nodes[group][idx[group]]).attr("cx"));
+          console.log(d3.select(nodes[group][idx[group]]));
           h_keep = d3.select(nodes[group][idx[group]]).attr("y1");
           y_keep = d3.select(nodes[group][idx[group]]).attr("y0");
 
@@ -277,6 +281,7 @@ const graph = async (region, type) => {
             .attr("y1", h_shift)
             .attr("y0", y_new);
         })
+*/
     }
   })
   .catch(function(error){
