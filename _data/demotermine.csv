@@ -1,6 +1,7 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
 21447,DE,2021-10-22,17:00:00,38518,Gifhorn,Schützenplatz / Parkplatz Impf,Autokorso,,Die Hinterfra-GEN-den,
 21492,DE,2021-10-22,17:30:00,76133,Karlsruhe,Friedrichsplatz,Demonstration,,GRUNDRECHTE,http://www.grundrechte.jetzt/
+21500,DE,2021-10-22,18:30:00,80331,München,Theresienwiese,Autokorso,,unbekannt,
 21471,DE,2021-10-22,19:45:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 21386,DE,2021-10-23,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf
 21389,DE,2021-10-23,11:45:00,29221,Celle,Großer Plan,Versammlung,,Celle steht auf,https://t.me/cellestehtauf
@@ -10,8 +11,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21498,DE,2021-10-23,14:00:00,64385,Reichelsheim,B38 / Ortseingang Aldi,Zusammenkunft,,unbekannt,
 21491,DE,2021-10-23,14:00:00,56068,Koblenz,Jesuitenplatz,Mahnwache,,unbekannt,
 21497,DE,2021-10-23,14:00:00,79098,Freiburg,Platz der alten Synagoge,Aufzug,,unbekannt,
-21484,DE,2021-10-23,14:00:00,40221,Düsseldorf,Landtag,Kundgebung,,unbekannt,
 21489,DE,2021-10-23,14:00:00,40213,Düsseldorf,Johannes Rau Platz,Kundgebung,,Es Reicht Uns,http://www.es-reicht-uns.de
+21484,DE,2021-10-23,14:00:00,40221,Düsseldorf,Landtag,Kundgebung,,unbekannt,
 21481,DE,2021-10-23,14:30:00,30449,Hannover,Ritter-Brüning-Str. / Parking,Autokorso,,Autocorso Hannover,
 21463,DE,2021-10-23,15:00:00,23966,Wismar,Marktplatz,Aufzug,,unbekannt,
 21457,DE,2021-10-23,15:00:00,38518,Gifhorn,Marktplatz 1,Kundgebung,,Die Hinterfra-GEN-den,
