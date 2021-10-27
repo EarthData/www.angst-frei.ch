@@ -12,8 +12,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21507,DE,2021-10-28,18:00:00,71540,Murrhardt,Marktplatz / vor dem Rathaus,Mahnwache,,QUERDENKEN-7192 (Murrhardt),https://querdenken-7192.de/
 21518,DE,2021-10-28,19:00:00,93149,Nittenau,Aurora Ristorante,Zusammenkunft,,unbekannt,
 21525,DE,2021-10-29,00:00:17,10623,Berlin,Str. d. 17. Juni Nr. 144 ParkP,Autokorso,,Autokorso Berlin,
-21526,DE,2021-10-29,17:00:00,38259,Salzgitter,Kleines Rathaus,Zusammenkunft,,unbekannt,
 21531,DE,2021-10-29,17:00:00,38259,Salzgitter,Kleines Rathaus / Marktplatz,Kundgebung,,unbekannt,
+21526,DE,2021-10-29,17:00:00,38259,Salzgitter,Kleines Rathaus,Zusammenkunft,,unbekannt,
 21523,DE,2021-10-29,19:45:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 21456,DE,2021-10-30,11:00:00,24558,Henstedt-Ulzburg,Am Bahnbogen 2 / bei KFC,Schilderwald,,unbekannt,https://t.me/Corona_Forum_Henstedt_Ulzburg
 21387,DE,2021-10-30,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf
@@ -30,6 +30,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21524,DE,2021-10-30,18:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 21548,DE,2021-10-31,10:45:00,75015,Bretten,Stadtpark / Alter Friedhof,Meditation,,,
 21419,DE,2021-10-31,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
+21549,DE,2021-11-01,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/
 21538,DE,2021-11-01,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,
 21536,DE,2021-11-01,19:00:00,48249,Dülmen,Marktstraße / Löwendenkmal,Spaziergang,,unbekannt,
 21535,DE,2021-11-03,18:00:00,32756,Detmold,Marktplatz,Kundgebung,,Lippe für Freiheit | Frieden und menschliches Miteinander,
@@ -39,14 +40,20 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21453,DE,2021-11-06,15:00:00,04109,Leipzig,Augustusplatz,Aufzug,,unbekannt,
 21547,DE,2021-11-07,14:00:00,68159,Mannheim,Marktplatz / G1,Kundgebung,,Offene Gesellschaft Kurpfalz,https://offene-gesellschaft-kurpfalz.de/mannheim-21-07-11/
 21533,DE,2021-11-07,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,https://t.me/CUXHAVEN_PROTEST
+21550,DE,2021-11-08,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/
 3809,DE,2021-11-11,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 21487,DE,2021-11-13,11:00:00,23795,Bad Segeberg,Rennkoppel,Autokorso,,INITIATIVE FÜR AUFKLÄRUNG UND TRANSPARENZ,
+21551,DE,2021-11-15,18:00:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/
 3810,DE,2021-11-18,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
+21552,DE,2021-11-22,18:00:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/
 3811,DE,2021-11-25,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 21365,DE,2021-11-25,18:00:00,06844,Dessau-Roßlau,Friedensglocke,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
+21553,DE,2021-11-29,18:00:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/
 3812,DE,2021-12-02,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
+21554,DE,2021-12-06,18:00:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/
 3813,DE,2021-12-09,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 3814,DE,2021-12-16,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
+21555,DE,2021-12-20,18:00:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/
 3815,DE,2021-12-23,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 1963,DE,2021-12-24,12:00:00,10178,Berlin,Weltzeituhr / Alexanderplatz,OpSafeWinter,https://anonymous.support/live,Anonymous,https://anonymous.support
 3816,DE,2021-12-30,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
