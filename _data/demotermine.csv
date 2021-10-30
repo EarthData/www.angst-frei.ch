@@ -1,28 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-21456,DE,2021-10-30,11:00:00,24558,Henstedt-Ulzburg,Am Bahnbogen 2 / bei KFC,Schilderwald,,unbekannt,https://t.me/Corona_Forum_Henstedt_Ulzburg
-21387,DE,2021-10-30,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf
-21388,DE,2021-10-30,11:45:00,29221,Celle,Großer Plan,Versammlung,,Celle steht auf,https://t.me/cellestehtauf
-21396,DE,2021-10-30,13:00:00,76530,Baden-Baden,Reinhard-Fieser-Brücke,Kundgebung,,BI aufRECHT:FREIdenken,http://www.solidarnosch.de
-21557,DE,2021-10-30,14:00:00,74523,Schwäbisch Hall,Marktplatz,Aufzug,,unbekannt,
-21556,DE,2021-10-30,14:00:00,64385,Reichelsheim,B 38 Ortseingang Aldi,Zusammenkunft,,unbekannt,
-21570,DE,2021-10-30,14:00:00,56068,Koblenz,Jesuitenplatz,Mahnwache,,unbekannt,
-21565,DE,2021-10-30,14:00:00,36037,Fulda,Universitätsplatz,Kundgebung,,unbekannt,
-21558,DE,2021-10-30,14:00:00,79098,Freiburg,Platz der alten Synagoge,Aufzug,,FreiSein Freiurg,
-21540,DE,2021-10-30,14:00:00,52062,Aachen,Markt / Rathaus,Kundgebung,,Privat u. Unterstützer,
-21546,DE,2021-10-30,14:30:00,30449,Hannover,Ritter-Brüning-Str. / Parking,Autokorso,,Autocorso Hannover,
-21560,DE,2021-10-30,14:30:00,60389,Frankfurt am Main,Günthersburgpark,Aufzug,,unbekannt,
-21544,DE,2021-10-30,15:00:00,50679,Köln,Chlodwigplatz,Demonstration,,Koeln ist aktiv,http://koelnistaktiv.de
-21564,DE,2021-10-30,15:00:00,40213,Düsseldorf,Schadowplatz,Aufzug,,unbekannt,
-21508,DE,2021-10-30,15:00:00,01067,Dresden,Theaterplatz,Demonstration,,QUERDENKEN 351 - Dresden,https://querdenken-351.de
-21572,DE,2021-10-30,15:00:00,44787,Bochum,Dr.-Ruer-Platz,Aufzug,,Querdenken 234 - Bochum,https://querdenken-234.de
-21529,DE,2021-10-30,15:00:00,44787,Bochum,Dr.-Ruer-Platz,Aufzug,,Querdenken 234 - Bochum,https://querdenken-234.de
-21543,DE,2021-10-30,15:30:00,90429,Nürnberg,Kornmarkt,Aufzug,,Team Menschenrechte Nürnberg,
-21566,DE,2021-10-30,15:30:00,87600,Kaufbeuren,Obstmarkt / Fußgängerzone,Meditation,,unbekannt,
-21563,DE,2021-10-30,15:30:00,45127,Essen,Kettwiger Str. 1,Kundgebung,,Für den Erhalt der Freiheit,https://t.me/joinchat/Gr4v4tPxmF174Ikj
-21527,DE,2021-10-30,16:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,unbekannt,
-21494,DE,2021-10-30,16:00:00,06846,Dessau-Roßlau,Alte Landebahn,Autokorso,,Privat,https://t.me/autokorso_dessau
-21559,DE,2021-10-30,18:00:00,72764,Reutlingen,Marktplatz,Kundgebung,,unbekannt,
-21524,DE,2021-10-30,18:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 21548,DE,2021-10-31,10:45:00,75015,Bretten,Stadtpark / Alter Friedhof,Meditation,,,
 21419,DE,2021-10-31,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
 21571,DE,2021-11-01,18:00:00,27356,Rotenburg,Am Neuen Markt,Spaziergang,,unbekannt,
@@ -32,6 +8,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21561,DE,2021-11-01,19:00:00,99974,Mühlhausen / Thüringen,Untermarkt,Spaziergang,,Frieden | Freiheit | Souveränität,
 21567,DE,2021-11-01,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,unbekannt,
 21536,DE,2021-11-01,19:00:00,48249,Dülmen,Marktstraße / Löwendenkmal,Spaziergang,,unbekannt,
+21577,DE,2021-11-02,17:30:00,79108,Freiburg im Breisgau,Suwonalle 1 / Parkplatz SC,Autokorso,,Zukunft Freiburg,http://zukunft-fr.de
 21576,DE,2021-11-03,17:00:00,70173,Stuttgart,Karlsplatz,Aufzug,,Privat,
 21535,DE,2021-11-03,18:00:00,32756,Detmold,Marktplatz,Kundgebung,,Lippe für Freiheit | Frieden und menschliches Miteinander,
 3808,DE,2021-11-04,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
