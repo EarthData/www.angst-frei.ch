@@ -3,6 +3,8 @@ var margin = {top: 30, right: 70, bottom: 40, left: 40},
   width = width - margin.left - margin.right,
   height = 500 - margin.top - margin.bottom;
 
+var breakPoint = 768;
+
 var y_orig = {};
 var active_link = {};
 var legendClassArray = {};
@@ -99,7 +101,7 @@ const graph = async (order, year, region, type) => {
       .domain(keys)
       .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"]);
 
-    var xAxis = d3.axisBottom(x);
+    var xAxis = d3.axisBottom(x).ticks(window.innerWidth < breakPoint ? 6 : 12);
     var yAxis = d3.axisLeft(y).tickFormat(d3.format(".2s"));
 
     var barwidth = (x.range()[1] - x.range()[0]) / data.length;
