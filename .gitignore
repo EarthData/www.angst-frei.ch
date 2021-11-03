@@ -1,6 +1,8 @@
 _site
 .sass-cache
 .jekyll-metadata
+.jekyll-metadata
+.obsidian
 /node_modules
 /imagemosaic/env
 /geocode/env

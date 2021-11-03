@@ -8,6 +8,7 @@ subtitle: Schweiz
 
 Bittel TV
 
+| {{ site.icons.globe }}    | [bittel.tv](https://bittel.tv/) |
 | {{ site.icons.dlive }}    | [bitteltv](https://dlive.tv/bitteltv) |
 | {{ site.icons.telegram }} | [Bittel TV - Einfach anders](https://t.me/bitteltv) |
 | {{ site.icons.telegram }} | [Bittel TV - Linksammlung](https://t.me/bitteltv_links) |
@@ -26,6 +27,7 @@ Corona Transition macht auf öffentlich zugängliche, aber von Entscheidungsträ
 Crosswise Life Media Group
 
 | {{ site.icons.globe }}    | [Crosswise Life Media Group](https://cwl-live.ch/) |
+| {{ site.icons.youtube }}  | [CWL Media Group](https://www.youtube.com/channel/UCBRHk5vVVlCY27CYAclTk2g) |
 
 ## ExpressZeitung
 
@@ -37,9 +39,10 @@ Die kritische Monatszeitung
 
 ## Rhein-TV
 
-Rhein-TV
+Wir wollen unabhängig und objektiv über Ereignisse berichten.
 
 | {{ site.icons.youtube }}  | [Rhein-TV News](https://www.youtube.com/channel/UCrCUwenjkPppHZc_DY4zwlQ) |
+| {{ site.icons.telegram }} | [RheinTV](https://t.me/RheinTV) |
 
 ## Schweizer Monat
 
@@ -53,6 +56,12 @@ Hinter der Plattform Infosperber.ch steht die gemeinnützige «Schweizerische St
 
 | {{ site.icons.globe }}    | [www.infosperber.ch](https://www.infosperber.ch/) |
 | {{ site.icons.globe }}    | [Coronavirus: Information statt Panik](https://www.infosperber.ch/dossier/coronavirus-information-statt-panik/) |
+
+## Moment!
+
+Die Zeitung «Moment!» ist eine faktenbasierte, kritische und parteiunabhängige Stimme, die zur qualifizierten Meinungsbildung beiträgt.
+
+| {{ site.icons.globe }}    | [www.moment-online.ch](https://www.moment-online.ch/) |
 
 ## Die Ostschweiz
 

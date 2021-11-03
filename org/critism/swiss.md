@@ -75,7 +75,7 @@ Wir gestalten ein GEMEINSAMES Vorgehen von kreativen und vor allem FRIEDvollen A
 
 ## Gemeinsam Schweiz
 
-Dachkoordination Schweiz
+Bei »Gemeinsam Schweiz« findest du eine grosse Übersicht von engagierten Vereinen, Gruppen und Netzwerken aus dem ganzen Land.
 
 | {{ site.icons.globe }}    | [www.gemeinsam-schweiz.ch](https://www.gemeinsam-schweiz.ch/) |
 
@@ -134,6 +134,12 @@ Das Mass ist voll. Holen wir unsere Freiheit zurück!
 | {{ site.icons.globe }}    | [www.mass-voll.ch](https://www.mass-voll.ch/) |
 | {{ site.icons.telegram }} | [MASS-VOLL!](https://t.me/massvoll) |
 
+## Netzwerk November21
+
+Wählerinnen und Wähler aller Parteien sagen Nein zu den Verschärfungen des Covid-Gesetzes.
+
+| {{ site.icons.globe }}    | [www.netzwerk-november21.ch](https://www.netzwerk-november21.ch) |
+
 ## OHA-Glarus
 
 OHA Glarus setzt sich für eine Gesellschaft ein, die von den Werten Freiheit, gegenseitigem Respekt und Achtsamkeit geprägt ist. OHA Glarus fördert die qualifizierte Meinungsbildung und trägt zu einer vielfältigen Informationsvermittlung bei. Selbständiges Denken ist für uns immer die Voraussetzung für unser Handeln.
@@ -183,3 +189,10 @@ Wir sind anderer Meinung
 
 | {{ site.icons.globe }}    | [wirsindanderermeinung.ch](https://wirsindanderermeinung.ch/) |
 | {{ site.icons.youtube }}  | [Wir Sind Anderer Meinung ch](https://www.youtube.com/channel/UCzATYWninMqi12pDJP59Mlw) |
+
+## Zug 2020
+
+Wir stärken aktiv die direkte Demokratie in der Schweiz.
+
+| {{ site.icons.globe }}    | [www.zug-2020.ch](https://www.zug-2020.ch/) |
+

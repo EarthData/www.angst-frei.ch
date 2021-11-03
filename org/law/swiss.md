@@ -24,6 +24,12 @@ Gratis Rechtsberatung im Zusammenhang mit der Corona-Krise.
 
 | {{ site.icons.globe }}    | [www.corona-legal.ch](https://www.corona-legal.ch/) |
 
+## declaration-juristes.ch
+
+Aufruf von Schweizer Juristinnen und Juristen gegen die Anpassung des Covid-19-Gesetzes.
+
+| {{ site.icons.globe }}    | [www.declaration-juristes.ch](https://www.declaration-juristes.ch/d/) |
+
 ## Jetzt klagen.
 
 BAG-IVI-Swissmedic-Fall, jetzt klagen: die Corona-Massnahmen stoppen und den Verantwortlichen die Möglichkeit geben, sich zu erklären. Unterstützer.innen willkommen!
