@@ -9,6 +9,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21596,CH,2021-11-06,13:00:00,7000,Chur,Turnerwiese,Kundgebung,,unbekannt,
 21586,DE,2021-11-06,14:00:00,64385,Reichelsheim,B 38 Ortseingang Aldi,Zusammenkunft,,unbekannt,
 21615,DE,2021-11-06,14:00:00,56068,Koblenz,Herz-Jesu-Kirche,Mahnwache,,unbekannt,
+21620,DE,2021-11-06,14:00:00,56068,Koblenz,Herz-Jesu-Kirche,Mahnwache,,unbekannt,
+21621,DE,2021-11-06,14:00:00,36037,Fulda,Universitätsplatz,Kundgebung,,unbekannt,
 21613,DE,2021-11-06,14:00:00,79098,Freiburg,Platz der alten Synagoge,Aufzug,,FreiSeinFreiburg,
 21604,DE,2021-11-06,14:30:00,30449,Hannover,Ritter-Brüning-Straße, parking,Autokorso,,Autocorso Hannover,
 21453,DE,2021-11-06,15:00:00,04109,Leipzig,Augustusplatz,Aufzug,,unbekannt,
@@ -18,14 +20,17 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21600,DE,2021-11-06,15:30:00,45127,Essen,Kettwiger Straße 1,Kundgebung,,Für den Erhalt der Freiheit,https://t.me/joinchat/Gr4v4tPxmF174Ikj
 21591,DE,2021-11-06,16:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 21616,DE,2021-11-06,18:00:00,72764,Reutlingen,Marktplatz,Kundgebung,,unbekannt,
+21622,DE,2021-11-07,10:45:00,75015,Bretten,Stadtpark / Alter Friedhof,Meditation,,unbekannt,
 21581,DE,2021-11-07,11:00:00,79215,Elzach,Schulhof,Mahnwache,,Initiative Elzach,initiative-elzach.de
 21547,DE,2021-11-07,14:00:00,68159,Mannheim,Marktplatz / G1,Kundgebung,,Offene Gesellschaft Kurpfalz,https://offene-gesellschaft-kurpfalz.de/mannheim-21-07-11/
 21533,DE,2021-11-07,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,https://t.me/CUXHAVEN_PROTEST
 21550,DE,2021-11-08,18:00:00,63450,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/
 21605,DE,2021-11-08,18:30:00,29221,Celle,Stechbahn vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,
-21592,DE,2021-11-08,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,
 21602,DE,2021-11-08,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,
+21592,DE,2021-11-08,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,
 21580,DE,2021-11-08,18:30:00,99510,Apolda,Markt / Rathaus,Spaziergang,,unbekannt,
+21623,DE,2021-11-08,19:00:00,17033,Neubrandenburg,Marktplatz / Innenstadt,Aufzug,,unbekannt,
+21624,DE,2021-11-08,19:00:00,99974,Mühlhausen / Thüringen,Untermarkt,Spaziergang,,FRIEDEN FREIHEIT SOUVERÄNITÄT,
 21619,DE,2021-11-08,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,unbekannt,
 21601,DE,2021-11-11,15:00:00,50679,Köln,Chlodwigplatz,Demonstration,,Koeln ist aktiv,http://koelnistaktiv.de
 3809,DE,2021-11-11,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
