@@ -79,6 +79,12 @@ Bei »Gemeinsam Schweiz« findest du eine grosse Übersicht von engagierten Vere
 
 | {{ site.icons.globe }}    | [www.gemeinsam-schweiz.ch](https://www.gemeinsam-schweiz.ch/) |
 
+## Gesellschaft für eine Schweiz ohne Angst
+
+Angst ist ein schlechter Ratgeber. Menschen und ganze Staaten reagieren kopflos. Zur Angst vor dem Virus kommt jetzt noch die Angst vor einer Spaltung und die Angst vor der Zukunft. Gegen das Virus kann man sich schützen. Die Krankheit kann man behandeln und das Immunsystem kann man stärken. Das Leben braucht kein Zertifikat und keine ständige Überwachung. Wirtschaft und Gesellschaft sollen vom Bundesrat nicht kontrolliert, sondern unterstützt werden.
+
+| {{ site.icons.globe }}    | [angstfreie-schweiz.ch](https://angstfreie-schweiz.ch/) |
+
 ## Global-Anti-Corruption-Alliance (GlAnCoA)
 
 Global-Anti-Corruption-Alliance
@@ -108,6 +114,12 @@ InsideCorona ist eine unabhängige Plattform und eine Bewegung von Unternehmerin
 Der Verein “Kinder amten auf!” setzt sich dafür ein, dass Kinder in der Schweiz in einem Umfeld von Freiheit und Respekt, unter der Eigenverantwortung der Eltern/Erziehungsberechtigten, aufwachsen und sich entwickeln dürfen.
 
 | {{ site.icons.globe }}    | [kinderatmenauf.ch](https://kinderatmenauf.ch/) |
+
+## Künstler:innen gegen das Covid Gesetz!
+
+Wir sind Künstler:innen aus vielen Bereichen. Anfänglich hatten wir grosse Achtung, wie der Bundesrat auf die Pandemie reagierte. Doch mit den erneuten Verschärfungen des Covid-Gesetzes hat er jedes Augenmass verloren. Wer sich impfen lassen wollte, ist geimpft. Die Spitalbetten sind nicht überlastet. Das Covid-Zertifikat ist nicht zu rechtfertigen. Es spaltet unsere Gesellschaft und schliesst Menschen von Bildung, Kunst und Kultur aus.
+
+| {{ site.icons.globe }}    | [kunst-gegen-covidgesetz.ch](https://kunst-gegen-covidgesetz.ch/) |
 
 ## Licht ins Corona-Dunkel
 
@@ -158,18 +170,18 @@ Eine ausgewählte Sammlung interessanter Meinungen und Fakten zum Thema Corona.
 
 | {{ site.icons.globe }}    | [www.reinertisch.org](https://www.reinertisch.org/) |
 
-## SOS-KMU Verband
-
-Gemeinsam mit Vernunft zurück zur Normalität
-
-| {{ site.icons.globe }}    | [sos-kmu.org](https://sos-kmu.org/#top) |
-
 ## Aktionsbündnis Urkantone
 
 Für eine vernünftige Corona-Politik
 
 | {{ site.icons.globe }}    | [www.ur-kantone.ch](https://www.ur-kantone.ch/) |
 | {{ site.icons.globe }}    | [www.covid-19-gesetz-referendum.ch](https://www.covid-19-gesetz-referendum.ch/) |
+
+## Verband Freie KMU
+
+Solidarisch, lokal und regional: So stärken wir den Marktplatz Schweiz.
+
+| {{ site.icons.globe }}    | [sos-kmu.org](https://freiekmu.ch/) |
 
 ## Verein Itus
 
