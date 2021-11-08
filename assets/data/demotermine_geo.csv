@@ -1,52 +1,55 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite,latitude,longitude,created
-21633,DE,2021-11-08,16:00:00,18055.0,Rostock,Stadthafen / ggü. Kanonsbe...,Menschenkette,,Selbstdenker Rostock,,54.0858758,12.162251630746269,2021-11-08 20:16:08
-21634,DE,2021-11-08,17:00:00,18055.0,Rostock,Rosengarten / nähe Steintor,Versammlung,,Selbstdenker Rostock,,54.0858758,12.162251630746269,2021-11-08 20:16:08
-21550,DE,2021-11-08,18:00:00,63450.0,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/,50.1323377,8.9175062,2021-11-08 20:16:08
-21605,DE,2021-11-08,18:30:00,29221.0,Celle,Stechbahn vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,,52.620132299999995,10.083460980785244,2021-11-08 20:16:08
-21592,DE,2021-11-08,18:30:00,46236.0,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,,51.52088485,6.9255365117204075,2021-11-08 20:16:08
-21580,DE,2021-11-08,18:30:00,99510.0,Apolda,Markt / Rathaus,Spaziergang,,unbekannt,,51.0320427,11.5088879,2021-11-08 20:16:08
-21628,DE,2021-11-08,19:00:00,26382.0,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,,53.528461,8.1095937,2021-11-08 20:16:08
-21623,DE,2021-11-08,19:00:00,17033.0,Neubrandenburg,Marktplatz / Innenstadt,Aufzug,,unbekannt,,53.531625500000004,13.259116046417208,2021-11-08 20:16:08
-21624,DE,2021-11-08,19:00:00,99974.0,Mühlhausen / Thüringen,Untermarkt,Spaziergang,,FRIEDEN FREIHEIT SOUVERÄNITÄT,,51.2074318,10.4601054,2021-11-08 20:16:08
-21619,DE,2021-11-08,19:00:00,87600.0,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,unbekannt,,47.913499,10.6356801,2021-11-08 20:16:08
-21626,DE,2021-11-09,17:30:00,79108.0,Freiburg im Breisgau,Suwonalle 1,Autokorso,,unbekannt,https://www.zukunft-fr.de,48.040031,7.822786064704992,2021-11-08 20:16:08
-21627,DE,2021-11-10,16:30:00,70184.0,Stuttgart,Dobelstr. / Hohenheimer Str.,Schilderwald,,Privat,,48.76680345,9.189536554884501,2021-11-08 20:16:08
-21601,DE,2021-11-11,15:00:00,50679.0,Köln,Chlodwigplatz,Demonstration,,Koeln ist aktiv,http://koelnistaktiv.de,50.9358894,6.979200975875763,2021-11-08 20:16:08
-3809,DE,2021-11-11,18:00:00,85586.0,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1680178,11.804140333530679,2021-11-08 20:16:08
-21597,CH,2021-11-12,13:30:00,3014.0,Bern,Rosalia-Wenger-Platz,Kundgebung,,unbekannt,,46.9678557,7.4645389,2021-11-08 20:16:08
-21610,DE,2021-11-13,11:00:00,29221.0,Celle,Neumarkt,Aufzug,,Celle steht auf,http://t.me/cellestehtauf,52.6264928,10.0810456,2021-11-08 20:16:08
-21487,DE,2021-11-13,11:00:00,23795.0,Bad Segeberg,Rennkoppel,Autokorso,,INITIATIVE FÜR AUFKLÄRUNG UND TRANSPARENZ,,53.94536495,10.30558275172682,2021-11-08 20:16:08
-21569,DE,2021-11-13,15:00:00,20099.0,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,unbekannt,,53.55797725,10.0110185430166,2021-11-08 20:16:08
-21574,DE,2021-11-13,15:00:00,40213.0,Düsseldorf,Johannes-Rau-Platz,Aufzug,,QUERDENKEN NRW Initiativen,https://querdenken-234.de,51.219092200000006,6.767028235140621,2021-11-08 20:16:08
-21578,DE,2021-11-13,16:00:00,30169.0,Hannover,Schützenplatz,Kundgebung,,Querdenken 511,,52.36283775,9.72887414613161,2021-11-08 20:16:08
-21551,DE,2021-11-15,18:00:00,63450.0,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/,50.134785199999996,8.918585144855331,2021-11-08 20:16:08
-21606,DE,2021-11-15,18:30:00,29221.0,Celle,Stechbahn vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,http://t.me/cellestehtauf,52.620132299999995,10.083460980785244,2021-11-08 20:16:08
-21629,DE,2021-11-15,19:00:00,26382.0,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,,53.528461,8.1095937,2021-11-08 20:16:08
-3810,DE,2021-11-18,18:00:00,85586.0,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1680178,11.804140333530679,2021-11-08 20:16:08
-21594,DE,2021-11-19,16:00:00,95326.0,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.de,50.1068792,11.4584593,2021-11-08 20:16:08
-21611,DE,2021-11-20,11:00:00,29221.0,Celle,Neumarkt,Aufzug,,Celle steht auf,http://t.me/cellestehtauf,52.6264928,10.0810456,2021-11-08 20:16:08
-21598,DE,2021-11-20,12:00:00,39104.0,Magdeburg,Innenstadt,Kundgebung,,unbekannt,https://www.worldwidedemonstration.com,52.115188200000006,11.630882029293115,2021-11-08 20:16:08
-21583,DE,2021-11-20,15:00:00,20099.0,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,,53.55797725,10.0110185430166,2021-11-08 20:16:08
-21552,DE,2021-11-22,18:00:00,63450.0,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/,50.134785199999996,8.918585144855331,2021-11-08 20:16:08
-21607,DE,2021-11-22,18:30:00,29221.0,Celle,Stechbahn vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,http://t.me/cellestehtauf,52.620132299999995,10.083460980785244,2021-11-08 20:16:08
-21630,DE,2021-11-22,19:00:00,26382.0,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,,53.528461,8.1095937,2021-11-08 20:16:08
-3811,DE,2021-11-25,18:00:00,85586.0,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1680178,11.804140333530679,2021-11-08 20:16:08
-21365,DE,2021-11-25,18:00:00,6844.0,Dessau-Roßlau,Friedensglocke,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache,,,2021-11-08 20:16:08
-21612,DE,2021-11-27,11:00:00,29221.0,Celle,Neumarkt,Aufzug,,Celle steht auf,http://t.me/cellestehtauf,52.6264928,10.0810456,2021-11-08 20:16:08
-21599,DE,2021-11-27,14:30:00,46049.0,Oberhausen,Duisburgerstr. ,,,,,51.4878849,6.8621387,2021-11-08 20:16:08
-/ Niebuhrstr,Versammlung,,unbekannt,,,,,,,,,,2021-11-08 20:16:08
-21603,DE,2021-11-27,14:30:00,46049.0,Oberhausen,Ecke Duisburgerstr/ Niebuhrstr,Versammlung,,unbekannt,,51.472521099999994,6.8311726691968735,2021-11-08 20:16:08
-21584,DE,2021-11-27,15:00:00,20099.0,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,,53.55797725,10.0110185430166,2021-11-08 20:16:08
-21553,DE,2021-11-29,18:00:00,63450.0,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/,50.134785199999996,8.918585144855331,2021-11-08 20:16:08
-21608,DE,2021-11-29,18:30:00,29221.0,Celle,Stechbahn vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,http://t.me/cellestehtauf,52.620132299999995,10.083460980785244,2021-11-08 20:16:08
-21631,DE,2021-11-29,19:00:00,26382.0,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,,53.528461,8.1095937,2021-11-08 20:16:08
-3812,DE,2021-12-02,18:00:00,85586.0,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1680178,11.804140333530679,2021-11-08 20:16:08
-21554,DE,2021-12-06,18:00:00,63450.0,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/,50.134785199999996,8.918585144855331,2021-11-08 20:16:08
-3813,DE,2021-12-09,18:00:00,85586.0,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1680178,11.804140333530679,2021-11-08 20:16:08
-3814,DE,2021-12-16,18:00:00,85586.0,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1680178,11.804140333530679,2021-11-08 20:16:08
-21555,DE,2021-12-20,18:00:00,63450.0,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/,50.134785199999996,8.918585144855331,2021-11-08 20:16:08
-3815,DE,2021-12-23,18:00:00,85586.0,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1680178,11.804140333530679,2021-11-08 20:16:08
-1963,DE,2021-12-24,12:00:00,10178.0,Berlin,Weltzeituhr / Alexanderplatz,OpSafeWinter,https://anonymous.support/live,Anonymous,https://anonymous.support,52.52027755,13.404729622302927,2021-11-08 20:16:08
-3816,DE,2021-12-30,18:00:00,85586.0,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1680178,11.804140333530679,2021-11-08 20:16:08
-1617,DE,2021-12-31,23:59:00,10117.0,Berlin,Brandenburger Tor,Event,,Welcome 2022,,52.51628045,13.377701882994323,2021-11-08 20:16:08
-3890,DE,2022-07-19,18:00:00,33098.0,Paderborn,Rathausplatz,Kundgebung,,unbekannt,,51.71721,8.753483727649822,2021-11-08 20:16:08
+21633,DE,2021-11-08,16:00:00,18055.0,Rostock,Stadthafen / ggü. Kanonsbe...,Menschenkette,,Selbstdenker Rostock,,54.0858758,12.162251630746269,2021-11-08 21:16:23
+21634,DE,2021-11-08,17:00:00,18055.0,Rostock,Rosengarten / nähe Steintor,Versammlung,,Selbstdenker Rostock,,54.0858758,12.162251630746269,2021-11-08 21:16:23
+21550,DE,2021-11-08,18:00:00,63450.0,Hanau,Marktplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/,50.1323377,8.9175062,2021-11-08 21:16:23
+21605,DE,2021-11-08,18:30:00,29221.0,Celle,Stechbahn vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,,52.620132299999995,10.083460980785244,2021-11-08 21:16:23
+21592,DE,2021-11-08,18:30:00,46236.0,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,,51.52088485,6.9255365117204075,2021-11-08 21:16:23
+21580,DE,2021-11-08,18:30:00,99510.0,Apolda,Markt / Rathaus,Spaziergang,,unbekannt,,51.0320427,11.5088879,2021-11-08 21:16:23
+21628,DE,2021-11-08,19:00:00,26382.0,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,,53.528461,8.1095937,2021-11-08 21:16:23
+21623,DE,2021-11-08,19:00:00,17033.0,Neubrandenburg,Marktplatz / Innenstadt,Aufzug,,unbekannt,,53.531625500000004,13.259116046417208,2021-11-08 21:16:23
+21624,DE,2021-11-08,19:00:00,99974.0,Mühlhausen / Thüringen,Untermarkt,Spaziergang,,FRIEDEN FREIHEIT SOUVERÄNITÄT,,51.2074318,10.4601054,2021-11-08 21:16:23
+21619,DE,2021-11-08,19:00:00,87600.0,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,unbekannt,,47.913499,10.6356801,2021-11-08 21:16:23
+21626,DE,2021-11-09,17:30:00,79108.0,Freiburg im Breisgau,Suwonalle 1,Autokorso,,unbekannt,https://www.zukunft-fr.de,48.040031,7.822786064704992,2021-11-08 21:16:23
+21627,DE,2021-11-10,16:30:00,70184.0,Stuttgart,Dobelstr. / Hohenheimer Str.,Schilderwald,,Privat,,48.76680345,9.189536554884501,2021-11-08 21:16:23
+21601,DE,2021-11-11,15:00:00,50679.0,Köln,Chlodwigplatz,Demonstration,,Koeln ist aktiv,http://koelnistaktiv.de,50.9358894,6.979200975875763,2021-11-08 21:16:23
+21635,DE,2021-11-11,17:30:00,63457.0,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/,50.1035627,8.9450186,2021-11-08 21:16:23
+3809,DE,2021-11-11,18:00:00,85586.0,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1680178,11.804140333530679,2021-11-08 21:16:23
+21597,CH,2021-11-12,13:30:00,3014.0,Bern,Rosalia-Wenger-Platz,Kundgebung,,unbekannt,,46.9678557,7.4645389,2021-11-08 21:16:23
+21610,DE,2021-11-13,11:00:00,29221.0,Celle,Neumarkt,Aufzug,,Celle steht auf,http://t.me/cellestehtauf,52.6264928,10.0810456,2021-11-08 21:16:23
+21487,DE,2021-11-13,11:00:00,23795.0,Bad Segeberg,Rennkoppel,Autokorso,,INITIATIVE FÜR AUFKLÄRUNG UND TRANSPARENZ,,53.94536495,10.30558275172682,2021-11-08 21:16:23
+21569,DE,2021-11-13,15:00:00,20099.0,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,unbekannt,,53.55797725,10.0110185430166,2021-11-08 21:16:23
+21574,DE,2021-11-13,15:00:00,40213.0,Düsseldorf,Johannes-Rau-Platz,Aufzug,,QUERDENKEN NRW Initiativen,https://querdenken-234.de,51.219092200000006,6.767028235140621,2021-11-08 21:16:23
+21578,DE,2021-11-13,16:00:00,30169.0,Hannover,Schützenplatz,Kundgebung,,Querdenken 511,,52.36283775,9.72887414613161,2021-11-08 21:16:23
+21551,DE,2021-11-15,18:00:00,63450.0,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/,50.134785199999996,8.918585144855331,2021-11-08 21:16:23
+21606,DE,2021-11-15,18:30:00,29221.0,Celle,Stechbahn vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,http://t.me/cellestehtauf,52.620132299999995,10.083460980785244,2021-11-08 21:16:23
+21629,DE,2021-11-15,19:00:00,26382.0,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,,53.528461,8.1095937,2021-11-08 21:16:23
+21636,DE,2021-11-18,17:30:00,63457.0,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/,50.1035627,8.9450186,2021-11-08 21:16:23
+3810,DE,2021-11-18,18:00:00,85586.0,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1680178,11.804140333530679,2021-11-08 21:16:23
+21594,DE,2021-11-19,16:00:00,95326.0,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.de,50.1068792,11.4584593,2021-11-08 21:16:23
+21611,DE,2021-11-20,11:00:00,29221.0,Celle,Neumarkt,Aufzug,,Celle steht auf,http://t.me/cellestehtauf,52.6264928,10.0810456,2021-11-08 21:16:23
+21598,DE,2021-11-20,12:00:00,39104.0,Magdeburg,Innenstadt,Kundgebung,,unbekannt,https://www.worldwidedemonstration.com,52.115188200000006,11.630882029293115,2021-11-08 21:16:23
+21583,DE,2021-11-20,15:00:00,20099.0,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,,53.55797725,10.0110185430166,2021-11-08 21:16:23
+21552,DE,2021-11-22,18:00:00,63450.0,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/,50.134785199999996,8.918585144855331,2021-11-08 21:16:23
+21607,DE,2021-11-22,18:30:00,29221.0,Celle,Stechbahn vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,http://t.me/cellestehtauf,52.620132299999995,10.083460980785244,2021-11-08 21:16:23
+21630,DE,2021-11-22,19:00:00,26382.0,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,,53.528461,8.1095937,2021-11-08 21:16:23
+21637,DE,2021-11-25,17:30:00,63457.0,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/,50.1035627,8.9450186,2021-11-08 21:16:23
+3811,DE,2021-11-25,18:00:00,85586.0,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1680178,11.804140333530679,2021-11-08 21:16:23
+21365,DE,2021-11-25,18:00:00,6844.0,Dessau-Roßlau,Friedensglocke,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache,,,2021-11-08 21:16:23
+21612,DE,2021-11-27,11:00:00,29221.0,Celle,Neumarkt,Aufzug,,Celle steht auf,http://t.me/cellestehtauf,52.6264928,10.0810456,2021-11-08 21:16:23
+21599,DE,2021-11-27,14:30:00,46049.0,Oberhausen,Duisburgerstr. ,,,,,51.4878849,6.8621387,2021-11-08 21:16:23
+/ Niebuhrstr,Versammlung,,unbekannt,,,,,,,,,,2021-11-08 21:16:23
+21603,DE,2021-11-27,14:30:00,46049.0,Oberhausen,Ecke Duisburgerstr/ Niebuhrstr,Versammlung,,unbekannt,,51.472521099999994,6.8311726691968735,2021-11-08 21:16:23
+21584,DE,2021-11-27,15:00:00,20099.0,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,,53.55797725,10.0110185430166,2021-11-08 21:16:23
+21553,DE,2021-11-29,18:00:00,63450.0,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/,50.134785199999996,8.918585144855331,2021-11-08 21:16:23
+21608,DE,2021-11-29,18:30:00,29221.0,Celle,Stechbahn vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,http://t.me/cellestehtauf,52.620132299999995,10.083460980785244,2021-11-08 21:16:23
+21631,DE,2021-11-29,19:00:00,26382.0,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,,53.528461,8.1095937,2021-11-08 21:16:23
+3812,DE,2021-12-02,18:00:00,85586.0,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1680178,11.804140333530679,2021-11-08 21:16:23
+21554,DE,2021-12-06,18:00:00,63450.0,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/,50.134785199999996,8.918585144855331,2021-11-08 21:16:23
+3813,DE,2021-12-09,18:00:00,85586.0,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1680178,11.804140333530679,2021-11-08 21:16:23
+3814,DE,2021-12-16,18:00:00,85586.0,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1680178,11.804140333530679,2021-11-08 21:16:23
+21555,DE,2021-12-20,18:00:00,63450.0,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/,50.134785199999996,8.918585144855331,2021-11-08 21:16:23
+3815,DE,2021-12-23,18:00:00,85586.0,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1680178,11.804140333530679,2021-11-08 21:16:23
+1963,DE,2021-12-24,12:00:00,10178.0,Berlin,Weltzeituhr / Alexanderplatz,OpSafeWinter,https://anonymous.support/live,Anonymous,https://anonymous.support,52.52027755,13.404729622302927,2021-11-08 21:16:23
+3816,DE,2021-12-30,18:00:00,85586.0,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,,48.1680178,11.804140333530679,2021-11-08 21:16:23
+1617,DE,2021-12-31,23:59:00,10117.0,Berlin,Brandenburger Tor,Event,,Welcome 2022,,52.51628045,13.377701882994323,2021-11-08 21:16:23
+3890,DE,2022-07-19,18:00:00,33098.0,Paderborn,Rathausplatz,Kundgebung,,unbekannt,,51.71721,8.753483727649822,2021-11-08 21:16:23
