@@ -3,6 +3,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21626,DE,2021-11-09,17:30:00,79108,Freiburg im Breisgau,Suwonalle 1,Autokorso,,unbekannt,https://www.zukunft-fr.de
 21627,DE,2021-11-10,16:30:00,70184,Stuttgart,Dobelstr. / Hohenheimer Str.,Schilderwald,,Privat,
 21640,DE,2021-11-10,17:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
+21650,DE,2021-11-10,17:00:00,79108,Freiburg,Zähringer Str. 295,Schilderwald,,unbekannt,
 21601,DE,2021-11-11,15:00:00,50679,Köln,Chlodwigplatz,Demonstration,,Koeln ist aktiv,http://koelnistaktiv.de
 21641,DE,2021-11-11,17:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 21635,DE,2021-11-11,17:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/
@@ -24,6 +25,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21606,DE,2021-11-15,18:30:00,29221,Celle,Stechbahn vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,http://t.me/cellestehtauf
 21644,DE,2021-11-15,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,
 21629,DE,2021-11-15,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
+21649,DE,2021-11-15,19:00:00,99974,Mühlhausen / Thüringen,Untermarkt,Spaziergang,,unbekannt,
 21636,DE,2021-11-18,17:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/
 3810,DE,2021-11-18,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 21594,DE,2021-11-19,16:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.de
@@ -37,9 +39,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3811,DE,2021-11-25,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 21365,DE,2021-11-25,18:00:00,06844,Dessau-Roßlau,Friedensglocke,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
 21612,DE,2021-11-27,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,http://t.me/cellestehtauf
+21603,DE,2021-11-27,14:30:00,46049,Oberhausen,Ecke Duisburgerstr/ Niebuhrstr,Versammlung,,unbekannt,
 21599,DE,2021-11-27,14:30:00,46049,Oberhausen,Duisburgerstr. 
 / Niebuhrstr,Versammlung,,unbekannt,
-21603,DE,2021-11-27,14:30:00,46049,Oberhausen,Ecke Duisburgerstr/ Niebuhrstr,Versammlung,,unbekannt,
 21584,DE,2021-11-27,15:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,
 21553,DE,2021-11-29,18:00:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/
 21608,DE,2021-11-29,18:30:00,29221,Celle,Stechbahn vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,http://t.me/cellestehtauf
