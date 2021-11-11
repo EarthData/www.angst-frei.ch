@@ -12,6 +12,13 @@ subtitle: Politische Initiativen
 
 ## Massnahmen
 
+### Sammelklagen
+
+#### Schweiz
+
+ * [Irreführende und manipulative Formulierung des Stimmzettels](https://wirmenschen.ch)
+ * [Negative Feststellungsklage (in Bezug auf die Covid-Maßnahmen)](https://wirmenschen.ch)
+
 ### Referenden
 
 #### Schweiz
