@@ -1,20 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-21610,DE,2021-11-13,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,http://t.me/cellestehtauf
-21487,DE,2021-11-13,11:00:00,23795,Bad Segeberg,Rennkoppel,Autokorso,,INITIATIVE FÜR AUFKLÄRUNG UND TRANSPARENZ,
-21651,DE,2021-11-13,11:45:00,29221,Celle,Brandplatz,Kundgebung,,Celle steht auf,https://t.me/cellestehtauf
-21672,DE,2021-11-13,12:00:00,10623,Berlin,Str. d. 17. Juni 144 / Parkplatz,Autokorso,Autokorso Berlin,Autokorso Berlin - Das Original,https://t.me/autokorsoberlininfo
-21654,DE,2021-11-13,14:00:00,64385,Reichelsheim,B 38 Ortseingang Aldi,Zusammenkunft,,unbekannt,
-21655,DE,2021-11-13,14:00:00,56068,Koblenz,Herz-Jesu-Kirche,Mahnwache,,unbekannt,
-21647,DE,2021-11-13,14:00:00,30169,Hannover,Ritter-Brüning-Str. / Parkplatz,Autokorso,,Autocorso-Hannover,
-21667,DE,2021-11-13,14:00:00,36037,Fulda,Bahnhof,Demonstration,,unbekannt,
-21652,DE,2021-11-13,14:00:00,79098,Freiburg,Platz der alten Synagoge,Aufzug,,FreiSeinFreiburg,
-21638,DE,2021-11-13,15:00:00,26954,Nordenham,Marktplatz,Autokorso,,privat,
-21569,DE,2021-11-13,15:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,unbekannt,
-21574,DE,2021-11-13,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,QUERDENKEN NRW Initiativen,https://querdenken-234.de
-21669,DE,2021-11-13,15:30:00,45127,Essen,Kettwiger Straße 42,Kundgebung,,Für den Erhalt der Freiheit,https://t.me/joinchat/Gr4v4tPxmF174Ikj
-21578,DE,2021-11-13,16:00:00,30169,Hannover,Schützenplatz,Kundgebung,,Querdenken 511,
-21658,DE,2021-11-13,17:00:00,18546,Sassnitz,Brückenplatz, Hauptstr. 68/69,Spaziergang,,unbekannt,
-21643,DE,2021-11-13,18:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 21657,DE,2021-11-14,11:00:00,71672,Marbach am Neckar,Marktplatz,Musik,,Horn For Hope,
 21671,DE,2021-11-15,18:00:00,27356,Rotenburg,Am Neuen Markt,Spaziergang,,unbekannt,
 21551,DE,2021-11-15,18:00:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/
@@ -43,9 +27,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21668,DE,2021-11-27,13:30:00,77694,Kehl,Europabücke Kehl / Straßburg,Aufzug,,Achern-Weiss-Bescheid und Collectif Anti-Pass,https://achern-weiss-bescheid.de/
 21670,DE,2021-11-27,14:00:00,27356,Rotenburg,Pferdemarkt,Aufzug,,unbekannt,
 21674,DE,2021-11-27,14:00:00,76133,Karlsruhe,Kronenplatz,Kundgebung,,Offene Gesellschaft Kurpfalz,https://offene-gesellschaft-kurpfalz.de/12-versammlung-in-karlsruhe/
-21603,DE,2021-11-27,14:30:00,46049,Oberhausen,Ecke Duisburgerstr/ Niebuhrstr,Versammlung,,unbekannt,
 21599,DE,2021-11-27,14:30:00,46049,Oberhausen,Duisburgerstr. 
 / Niebuhrstr,Versammlung,,unbekannt,
+21603,DE,2021-11-27,14:30:00,46049,Oberhausen,Ecke Duisburgerstr/ Niebuhrstr,Versammlung,,unbekannt,
 21584,DE,2021-11-27,15:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,
 21553,DE,2021-11-29,18:00:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/
 21608,DE,2021-11-29,18:30:00,29221,Celle,Stechbahn vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,http://t.me/cellestehtauf
