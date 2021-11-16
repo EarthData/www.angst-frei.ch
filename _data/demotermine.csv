@@ -2,6 +2,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21686,DE,2021-11-16,17:00:00,90402,Nürnberg,Hallplatz / Pfannenschmiedsgasse,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 21683,DE,2021-11-16,17:30:00,79108,Freiburg im Breisgau,Parkplatz SC Stadion,Autokorso,,Zukunft Freiburg,https://zukunft-fr.de
 21687,DE,2021-11-17,17:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
+21692,DE,2021-11-18,11:00:00,10777,Berlin,Brandenburger Tor / Pl. d. 18. März,Livestream,https://dlive.tv/IKB_ungelogen_tv,UNGELOGEN,
 21688,DE,2021-11-18,17:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 21636,DE,2021-11-18,17:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/
 3810,DE,2021-11-18,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
@@ -16,6 +17,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21676,DE,2021-11-21,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,https://t.me/CUXHAVEN_PROTEST
 21552,DE,2021-11-22,18:00:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/
 21607,DE,2021-11-22,18:30:00,29221,Celle,Stechbahn vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,http://t.me/cellestehtauf
+21691,DE,2021-11-22,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,
 21680,DE,2021-11-22,18:30:00,99510,Apolda,Markt / Rathaus,Spaziergang,,unbekannt,
 21630,DE,2021-11-22,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
 21660,DE,2021-11-22,19:00:00,17033,Neubrandenburg,Marktplatz,Spaziergang,,unbekannt,
@@ -24,8 +26,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 3811,DE,2021-11-25,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
 21365,DE,2021-11-25,18:00:00,06844,Dessau-Roßlau,Friedensglocke,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
 21612,DE,2021-11-27,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,http://t.me/cellestehtauf
-21668,DE,2021-11-27,13:30:00,77694,Kehl,Europabücke Kehl / Straßburg,Aufzug,,Achern-Weiss-Bescheid und Collectif Anti-Pass,https://achern-weiss-bescheid.de/
 21685,DE,2021-11-27,13:30:00,77694,Kehl,Europabücke / Kehl / Straßburg,Aufzug,,Achern-Weiss-Bescheid und Collectif Anti-Pass,https://achern-weiss-bescheid.de/
+21668,DE,2021-11-27,13:30:00,77694,Kehl,Europabücke Kehl / Straßburg,Aufzug,,Achern-Weiss-Bescheid und Collectif Anti-Pass,https://achern-weiss-bescheid.de/
 21670,DE,2021-11-27,14:00:00,27356,Rotenburg,Pferdemarkt,Aufzug,,unbekannt,
 21674,DE,2021-11-27,14:00:00,76133,Karlsruhe,Kronenplatz,Kundgebung,,Offene Gesellschaft Kurpfalz,https://offene-gesellschaft-kurpfalz.de/12-versammlung-in-karlsruhe/
 21603,DE,2021-11-27,14:30:00,46049,Oberhausen,Ecke Duisburgerstr/ Niebuhrstr,Versammlung,,unbekannt,
