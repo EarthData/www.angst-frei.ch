@@ -1,0 +1,87 @@
+---
+layout:
+title:
+permalink: /json/timeline-studies_de.json
+---
+
+{
+  "title": {
+    "media": {
+      "url": "/assets/img/timeline/P(l)andemie.jpg",
+      "caption": "Der Zeitstrahl mit allen wichtigen Studien zur Covid-P(l)andemie",
+      "credit": ""
+    },
+    "text": {
+      "headline": "Timeline",
+      "text": "Gesammelte Studien zum Thema Sars-Cov2"
+    }
+  },
+  "events": [
+    {%- assign all_posts = site.studies -%}
+    {%- for post in all_posts -%}
+      {% assign filename = post.url | replace_first: '/', '' | replace: '/', '-'  | append: '.pdf' %}
+      {%- capture year -%}{{ post.date | date: "%Y" }}{%- endcapture -%}
+      {%- capture month -%}{{ post.date | date: "%-m" }}{%- endcapture -%}
+      {%- capture day -%}{{ post.date | date: "%-d" }}{%- endcapture -%}
+      {%- if post.end-date -%}
+        {%- capture end-year -%}{{ post.end-date | date: "%Y" }}{%- endcapture -%}
+        {%- capture end-month -%}{{ post.end-date | date: "%-m" }}{%- endcapture -%}
+        {%- capture end-day -%}{{ post.end-date | date: "%-d" }}{%- endcapture -%}
+      {%- endif -%}
+       {
+         "background": {
+           "url": "/assets/img/timeline/{{ post.group }}.jpg"
+         },
+         "media": {
+           {%- if post.youtubeId -%}
+           "url": "https://www.youtu.be/{{ post.youtubeId }}",
+           {%- elsif post.bitchuteId -%}
+           "url": "<iframe src='https://www.bitchute.com/embed/{{ post.bitchuteId }}'/>",
+           {%- elsif post.vimeoId -%}
+           "url": "<iframe src='https://player.vimeo.com/video/{{ post.vimeoId }}?title=0&byline=0&portrait=0'/>",
+           {%- elsif post.arteId -%}
+           "url": "<iframe src='https://www.arte.tv/player/v5/index.php?json_url=https://api.arte.tv/api/player/v2/config/de/{{ post.arteId }}&lang=de&autoplay=true&mute=0'/>",
+           {%- elsif post.srfId -%}
+           "url": "<iframe src='https://www.srf.ch/play/embed?urn=urn:srf:video:{{ post.srfId }}&subdivisions=false' />",
+           {%- elsif post.link -%}
+           "url": "{{ post.link }}",
+           {%- else -%}
+           "url": "/assets/files/websites/{{ filename }}",
+           "link": "{{ post.redirect }}",
+           {%- endif -%}
+           "caption": "{{ post.de.title | replace: '"', "'" }}",
+           {%- if post.redirect -%}
+           "credit": "<a href='{{ post.redirect }}'>Quelle</a>"
+           {%- elsif post.credit -%}
+           "credit": "<a href='{{ post.credit }}'>Quelle</a>"
+           {%- else -%}
+           "credit": ""
+           {%- endif -%}
+         },
+         {%- if post.group -%}
+         "group": "{{ post.group }}",
+         {%- else -%}
+         "group": "{{ post.timeline }}",
+         {%- endif -%}
+         "start_date": {
+           "month": {{ month }},
+           "day": {{ day }},
+           "year": {{ year }}
+         },
+         {%- if post.end-date -%}
+         "end_date": {
+           "month": {{ end-month }},
+           "day": {{ end-day }},
+           "year": {{ end-year }}
+         },
+         {%- endif -%}
+         "text": {
+           "headline": "{{ post.de.subtitle | replace: '"', "'" }}",
+           {%- if post.de.description -%}
+           "text": "{{ post.de.description | replace: '"', "'" }}<br><a href='{{ post.url }}.html'>Weitere Information</a>"
+           {%- endif -%}
+         }
+       }{%- unless forloop.last -%},{%- endunless -%}
+    {%- endfor -%}
+  ]
+}

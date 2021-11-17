@@ -1,0 +1,87 @@
+---
+layout:
+title:
+permalink: /json/timeline-studies_it.json
+---
+
+{
+  "title": {
+    "media": {
+      "url": "/assets/img/timeline/P(l)andemie.jpg",
+      "caption": "Der Zeitstrahl mit allen wichtigen Ereignissen zur Covid-P(l)andemie",
+      "credit": ""
+    },
+    "text": {
+      "headline": "Timeline",
+      "text": "P(l)andemie<br/><p>Quellen:<br/>multipolar-magazin.de: <a href=\"https://multipolar-magazin.de/artikel/wurde-die-corona-krise-geplant\">Wurde die Corona-Krise geplant?</a><br/>tkp.at: <a href=\"https://tkp.at/2021/03/04/die-genese-einer-pandemie/\">Die Genese einer Pandemie</a><br/>www.zerohedge.com: <a href=\"https://www.zerohedge.com/geopolitical/timeline-great-reset-agenda\">A Timeline Of “The Great Reset” Agenda</a></p>"
+    }
+  },
+  "events": [
+    {%- assign all_posts = site.studies -%}
+    {%- for post in all_posts -%}
+      {% assign filename = post.url | replace_first: '/', '' | replace: '/', '-'  | append: '.pdf' %}
+      {%- capture year -%}{{ post.date | date: "%Y" }}{%- endcapture -%}
+      {%- capture month -%}{{ post.date | date: "%-m" }}{%- endcapture -%}
+      {%- capture day -%}{{ post.date | date: "%-d" }}{%- endcapture -%}
+      {%- if post.end-date -%}
+        {%- capture end-year -%}{{ post.end-date | date: "%Y" }}{%- endcapture -%}
+        {%- capture end-month -%}{{ post.end-date | date: "%-m" }}{%- endcapture -%}
+        {%- capture end-day -%}{{ post.end-date | date: "%-d" }}{%- endcapture -%}
+      {%- endif -%}
+       {
+         "background": {
+           "url": "/assets/img/timeline/{{ post.group }}.jpg"
+         },
+         "media": {
+           {%- if post.youtubeId -%}
+           "url": "https://www.youtu.be/{{ post.youtubeId }}",
+           {%- elsif post.bitchuteId -%}
+           "url": "<iframe src='https://www.bitchute.com/embed/{{ post.bitchuteId }}'/>",
+           {%- elsif post.vimeoId -%}
+           "url": "<iframe src='https://player.vimeo.com/video/{{ post.vimeoId }}?title=0&byline=0&portrait=0'/>",
+           {%- elsif post.arteId -%}
+           "url": "<iframe src='https://www.arte.tv/player/v5/index.php?json_url=https://api.arte.tv/api/player/v2/config/de/{{ post.arteId }}&lang=de&autoplay=true&mute=0'/>",
+           {%- elsif post.srfId -%}
+           "url": "<iframe src='https://www.srf.ch/play/embed?urn=urn:srf:video:{{ post.srfId }}&subdivisions=false' />",
+           {%- elsif post.link -%}
+           "url": "{{ post.link }}",
+           {%- else -%}
+           "url": "/assets/files/websites/{{ filename }}",
+           "link": "{{ post.redirect }}",
+           {%- endif -%}
+           "caption": "{{ post.it.title | replace: '"', "'" }}",
+           {%- if post.redirect -%}
+           "credit": "<a href='{{ post.redirect }}'>Quelle</a>"
+           {%- elsif post.credit -%}
+           "credit": "<a href='{{ post.credit }}'>Quelle</a>"
+           {%- else -%}
+           "credit": ""
+           {%- endif -%}
+         },
+         {%- if post.group -%}
+         "group": "{{ post.group }}",
+         {%- else -%}
+         "group": "{{ post.timeline }}",
+         {%- endif -%}
+         "start_date": {
+           "month": {{ month }},
+           "day": {{ day }},
+           "year": {{ year }}
+         },
+         {%- if post.end-date -%}
+         "end_date": {
+           "month": {{ end-month }},
+           "day": {{ end-day }},
+           "year": {{ end-year }}
+         },
+         {%- endif -%}
+         "text": {
+           "headline": "{{ post.it.subtitle | replace: '"', "'" }}",
+           {%- if post.it.description -%}
+           "text": "{{ post.it.description | replace: '"', "'" }}<br><a href='{{ post.url }}.html'>IT - Weitere Information</a>"
+           {%- endif -%}
+         }
+       }{%- unless forloop.last -%},{%- endunless -%}
+    {%- endfor -%}
+  ]
+}
