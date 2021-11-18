@@ -7,7 +7,7 @@ en:
 fr: 
   title:       L’ivermectine dans la prévention et le traitement de la COVID‐19
   subtitle:    'Popp M, Stegemann M, Metzendorf M-I, Gould S, Kranke P, Meybohm P, Skoetz N, Weibel S.'
-  description: 'L'ivermectine, un agent antiparasitaire utilisé pour traiter les infestations parasitaires, inhibe la réplication des virus in vitro. L'hypothèse moléculaire du mode d'action antiviral de l'ivermectine suggère un effet inhibiteur sur la réplication du coronavirus 2 du syndrome respiratoire aigu sévère (SARS‐CoV‐2) dans les premiers stades de l'infection. Actuellement, les données probantes sur l'efficacité et la tolérance de l'ivermectine dans la prévention de l'infection par le SARS‐CoV‐2 et le traitement de la COVID‐19 sont contradictoires.'
+  description: 'L'ivermectine, un agent antiparasitaire utilisé pour traiter les infestations parasitaires, inhibe la réplication des virus in vitro. L'hypothèse moléculaire du mode d'action antiviral de l'ivermectine suggère un effet inhibiteur sur la réplication du coronavirus 2 du syndrome respiratoire aigu sévère (SARS‐CoV‐2) dans les premiers stades de l'infection. Actuellement, les données probantes sur l'efficacité et la tolérance de l'ivermectine dans la prévention de l'infection par le SARS‐CoV‐2 et le traitement de la COVID‐19 sont contradictoires. TEST'
 credit:      https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015017.pub2/full
 group:       "Ivermectin"
 link:        "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015017.pub2/epdf/full"
