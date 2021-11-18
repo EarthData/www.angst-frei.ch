@@ -3,11 +3,11 @@ date:        2021-07-28
 en:
   title:       Ivermectin for preventing and treating COVID‐19
   subtitle:    'Popp M, Stegemann M, Metzendorf M-I, Gould S, Kranke P, Meybohm P, Skoetz N, Weibel S.'
-  description: 'Ivermectin, an antiparasitic agent used to treat parasitic infestations, inhibits the replication of viruses in vitro. The molecular hypothesis of ivermectin\'s antiviral mode of action suggests an inhibitory effect on severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2) replication in the early stages of infection. Currently, evidence on efficacy and safety of ivermectin for prevention of SARS‐CoV‐2 infection and COVID‐19 treatment is conflicting.'
+  description: 'Ivermectin, an antiparasitic agent used to treat parasitic infestations, inhibits the replication of viruses in vitro. The molecular hypothesis of ivermectin‘s antiviral mode of action suggests an inhibitory effect on severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2) replication in the early stages of infection. Currently, evidence on efficacy and safety of ivermectin for prevention of SARS‐CoV‐2 infection and COVID‐19 treatment is conflicting.'
 de: 
   title:       Ivermectin zur Vorbeugung und Behandlung von COVID-19
   subtitle:    'Popp M, Stegemann M, Metzendorf M-I, Gould S, Kranke P, Meybohm P, Skoetz N, Weibel S.'
-  description: 'Ivermectin, ein Antiparasitikum, das zur Behandlung von Parasitenbefall eingesetzt wird, hemmt in vitro die Replikation von Viren. Die molekulare Hypothese der antiviralen Wirkungsweise von Ivermectin legt eine hemmende Wirkung auf die Replikation des schweren akuten respiratorischen Syndroms Coronavirus 2 (SARS-CoV-2) in den frühen Phasen der Infektion nahe. Derzeit gibt es widersprüchliche Erkenntnisse über die Wirksamkeit und Sicherheit von Ivermectin bei der Prävention von SARS-CoV-2-Infektionen und der COVID-19-Behandlung. '
+  description: 'Ivermectin, ein Antiparasitikum, das zur Behandlung von Parasitenbefall eingesetzt wird, hemmt in vitro die Replikation von Viren. Die molekulare Hypothese der antiviralen Wirkungsweise von Ivermectin legt eine hemmende Wirkung auf die Replikation des schweren akuten respiratorischen Syndroms Coronavirus 2 (SARS-CoV-2) in den frühen Phasen der Infektion nahe. Derzeit gibt es widersprüchliche Erkenntnisse über die Wirksamkeit und Sicherheit von Ivermectin bei der Prävention von SARS-CoV-2-Infektionen und der COVID-19-Behandlung.'
 credit:      https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015017.pub2/full
 group:       "Ivermectin"
 link:        "https://www.cochranelibrary.com/cdsr/doi/10.1002/14651858.CD015017.pub2/epdf/full"
