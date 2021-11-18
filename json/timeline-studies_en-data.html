@@ -1,7 +1,7 @@
 ---
 layout:
 title:
-permalink: /json/timeline-studies_it.json
+permalink: /json/timeline-studies_en.json
 ---
 
 {
@@ -49,7 +49,7 @@ permalink: /json/timeline-studies_it.json
            "url": "/assets/files/websites/{{ filename }}",
            "link": "{{ post.redirect }}",
            {%- endif -%}
-           "caption": "{{ post.it.title | replace: '"', "'" }}",
+           "caption": "{{ post.en.title | replace: '"', "'" }}",
            {%- if post.redirect -%}
            "credit": "<a href='{{ post.redirect }}'>Quelle</a>"
            {%- elsif post.credit -%}
@@ -76,9 +76,9 @@ permalink: /json/timeline-studies_it.json
          },
          {%- endif -%}
          "text": {
-           "headline": "{{ post.it.subtitle | replace: '"', "'" }}",
-           {%- if post.it.description -%}
-           "text": "{{ post.it.description | replace: '"', "'" }}<br><a href='{{ post.url }}.html'>IT - Weitere Information</a>"
+           "headline": "{{ post.en.subtitle | replace: '"', "'" }}",
+           {%- if post.en.description -%}
+           "text": "{{ post.en.description | replace: '"', "'" }}<br><a href='{{ post.url }}.html'>IT - Weitere Information</a>"
            {%- endif -%}
          }
        }{%- unless forloop.last -%},{%- endunless -%}
