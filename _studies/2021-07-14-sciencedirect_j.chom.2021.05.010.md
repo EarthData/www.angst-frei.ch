@@ -10,8 +10,7 @@ de:
   description: 'Im vergangenen Jahr wurde in zahlreichen Studien in der Peer-Review- und Preprint-Literatur über die virologischen, epidemiologischen und klinischen Merkmale des Coronavirus SARS-CoV-2 berichtet. Bislang wurden in 25 Studien von SARS-CoV-2 abgeleitete T-Zell-Epitope beim Menschen untersucht und identifiziert. Im Folgenden werden diese jüngsten Studien, ihre Durchführung und ihre Ergebnisse vorgestellt. Wir zeigen, dass die im gesamten SARS-CoV2-Proteom identifizierten Epitope eine signifikante Korrelation zwischen der Anzahl der definierten Epitope und der Größe der Antigenherkunft aufweisen. Darüber hinaus berichten wir über eine zusätzliche Analyse von SARS-CoV-2-Epitopdaten menschlicher CD4- und CD8-T-Zellen, die aus diesen Studien zusammengestellt wurden. Dabei wurden 1.400 verschiedene gemeldete SARS-CoV-2-Epitope identifiziert und diskrete immundominante Regionen des Virus sowie Epitope, die am häufigsten erkannt werden, aufgedeckt. Diese bemerkenswerte Breite des Epitoprepertoires hat Auswirkungen auf die Entwicklung von Impfstoffen, die Kreuzreaktivität und die Immunflucht von SARS-CoV-2-Varianten.'
 credit:      https://www.sciencedirect.com/science/article/pii/S1931312821002389
 group:       "Immunity"
-link:        "assets/files/studies/1-s2.0-S1931312821002389-main.pdf"
+link:        "/assets/files/studies/1-s2.0-S1931312821002389-main.pdf"
 ---
 <object data="{{ page.link }}" style='height:calc(100vh - 400px); width: 100%' type='application/pdf'></object>
 <br/>
-{% include youtubePlayer.html id="4Unt03UBhbU" %}
