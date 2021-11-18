@@ -3,7 +3,7 @@ date:        2021-07-28
 en:
   title:       Ivermectin for preventing and treating COVID‐19
   subtitle:    'Popp M, Stegemann M, Metzendorf M-I, Gould S, Kranke P, Meybohm P, Skoetz N, Weibel S.'
-  description: 'Ivermectin, an antiparasitic agent used to treat parasitic infestations, inhibits the replication of viruses in vitro. The molecular hypothesis of ivermectin's antiviral mode of action suggests an inhibitory effect on severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2) replication in the early stages of infection. Currently, evidence on efficacy and safety of ivermectin for prevention of SARS‐CoV‐2 infection and COVID‐19 treatment is conflicting.'
+  description: 'Ivermectin, an antiparasitic agent used to treat parasitic infestations, inhibits the replication of viruses in vitro. The molecular hypothesis of ivermectin\'s antiviral mode of action suggests an inhibitory effect on severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2) replication in the early stages of infection. Currently, evidence on efficacy and safety of ivermectin for prevention of SARS‐CoV‐2 infection and COVID‐19 treatment is conflicting.'
 de: 
   title:       Ivermectin zur Vorbeugung und Behandlung von COVID-19
   subtitle:    'Popp M, Stegemann M, Metzendorf M-I, Gould S, Kranke P, Meybohm P, Skoetz N, Weibel S.'
