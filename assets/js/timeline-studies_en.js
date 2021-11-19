@@ -1,6 +1,6 @@
-json_template = '/json/timeline-studies_it.json'
+json_template = '/json/timeline-studies_en.json'
 var options = {
-  language: "it",
+  language: "en",
   width: "100%",
   height: "100%",
   initial_zoom: 3,
