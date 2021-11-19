@@ -14,4 +14,3 @@ link:        "/assets/files/studies/science.abh1823.pdf"
 ---
 <object data="{{ page.link }}" style='height:calc(100vh - 400px); width: 100%' type='application/pdf'></object>
 <br/>
-{% include youtubePlayer.html id="" %}
