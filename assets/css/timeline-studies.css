@@ -1,0 +1,14 @@
+html, body {
+  height:100%;
+  padding: 0px;
+  margin: 0px;
+}
+
+#timeline-embed { height: 100%; }
+
+.tl-timeline h1, .tl-timeline h2, .tl-timeline h3, .tl-timeline h4, .tl-timeline h5, .tl-timeline h6 {
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-weight: 350;
+  font-size: 30px;
+  line-height: 30px;
+}
