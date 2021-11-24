@@ -10,7 +10,7 @@ de:
   description: 'Das schwere akute respiratorische Syndrom Corona-Virus 2 (SARS-CoV-2) verursacht ein schweres akutes respiratorisches Syndrom. mRNA-Impfstoffe, die auf das SARS-CoV-2-Spike-Protein gerichtet sind, führten zur Entwicklung von Abs und einer schützenden Immunität. Um den Mechanismus zu bestimmen, haben wir die Kinetik der Induktion von zirkulierenden Exosomen mit SARS-CoV-2-Spike-Protein und Ab nach der Impfung gesunder Personen analysiert. Die Ergebnisse zeigten, dass zirkulierende Exosomen, die Spike-Protein exprimieren, am Tag 14 nach der Impfung induziert werden, gefolgt von Ab 14 Tage nach der zweiten Dosis. Exosomen mit Spike-Protein, Abs gegen SARS-CoV-2-Spike und T-Zellen, die IFN-γ und TNF-α sezernieren, nahmen nach der Booster-Dosis zu. Die Transmissionselektronenmikroskopie der Exosomen zeigte auch Spike-Protein-Ag auf ihrer Oberfläche. Exosomen mit Spike-Protein und Abs nahmen nach vier Monaten parallel dazu ab. Diese Ergebnisse zeigen, dass zirkulierende Exosomen mit Spike-Protein eine wichtige Rolle für eine wirksame Immunisierung nach einer mRNA-basierten Impfung spielen. Dies wird auch durch die Induktion von humoralen und zellulären Immunantworten bei Mäusen belegt, die mit Exosomen mit Spike-Protein immunisiert wurden.'
 credit:      https://www.jimmunol.org/content/early/2021/10/11/jimmunol.2100637
 group:       "Vaccines"
-link:        ""
+link:        "https://www.jimmunol.org/content/jimmunol/early/2021/10/11/jimmunol.2100637.full.pdf"
 ---
 <object data="{{ page.link }}" style='height:calc(100vh - 400px); width: 100%' type='application/pdf'></object>
 <br/>
