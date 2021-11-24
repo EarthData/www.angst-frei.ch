@@ -13,3 +13,8 @@ html, body {
   font-size: 30px;
   line-height: 30px;
 }
+
+.tl-full-image-background .tl-text p {
+  font-size: 14px;
+  line-height: 16px;
+}
