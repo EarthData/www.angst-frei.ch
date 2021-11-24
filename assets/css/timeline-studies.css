@@ -6,8 +6,9 @@ html, body {
 
 #timeline-embed { height: 100%; }
 
-.tl-timeline h1, .tl-timeline h2, .tl-timeline h3, .tl-timeline h4, .tl-timeline h5, .tl-timeline h6 {
+.tl-text h2.tl-headline-title, .tl-text h2.tl-headline {
   font-family: 'PT Sans Narrow', sans-serif;
+  text-transform: none;
   font-weight: 350;
   font-size: 30px;
   line-height: 30px;
