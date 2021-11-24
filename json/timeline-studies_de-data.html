@@ -44,10 +44,7 @@ permalink: /json/timeline-studies_de.json
            {%- elsif post.srfId -%}
            "url": "<iframe src='https://www.srf.ch/play/embed?urn=urn:srf:video:{{ post.srfId }}&subdivisions=false' />",
            {%- elsif post.link -%}
-           "url": "{{ post.link }}",
-           {%- else -%}
-           "url": "/assets/files/websites/{{ filename }}",
-           "link": "{{ post.redirect }}",
+           "url": "<iframe src='{{ post.link }}' />",
            {%- endif -%}
            "caption": "{{ post.de.title | replace: '"', "'" }}",
            {%- if post.redirect -%}
