@@ -46,7 +46,7 @@ permalink: /json/timeline-studies_de.json
            {%- elsif post.link -%}
            "url": "{{ post.link }}",
            {%- endif -%}
-           "caption": "{{ post.de.title | replace: '"', "'" }}",
+           "caption": "{{ post.title | replace: '"', "'" }}",
            {%- if post.redirect -%}
            "credit": "<a href='{{ post.redirect }}'>Quelle</a>"
            {%- elsif post.credit -%}
