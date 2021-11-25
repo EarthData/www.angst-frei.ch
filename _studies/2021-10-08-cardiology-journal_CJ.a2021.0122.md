@@ -10,6 +10,6 @@ de:
   description: 'Vitamin D ist ein wahrscheinlicher Kandidat für eine Behandlung, da seine immunmodulierenden Eigenschaften Auswirkungen auf Patienten mit der Coronavirus-Krankheit 2019 (COVID-19) haben. Es wurde versucht, die bisher veröffentlichten Studien über die Vitamin-D-Supplementierung zur Behandlung von Patienten mit schwerem akuten respiratorischen Syndrom und Coronavirus 2 (SARS-CoV-2) zusammenzufassen.'
 group:       "Therapeutics"
 credit:      https://journals.viamedica.pl/cardiology_journal/article/view/85559
-link:        "https://journals.viamedica.pl/cardiology_journal/article/download/CJ.a2021.0122/64399"
+link:        "https://journals.viamedica.pl/cardiology_journal/article/view/CJ.a2021.0122/64399"
 ---
 <object data="{{ page.link }}" style='height:calc(100vh - 400px); width: 100%' type='application/pdf'></object>
