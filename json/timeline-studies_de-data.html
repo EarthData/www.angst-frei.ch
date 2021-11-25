@@ -75,7 +75,7 @@ permalink: /json/timeline-studies_de.json
          "text": {
            "headline": "{{ post.de.subtitle | replace: '"', "'" }}",
            {%- if post.de.description -%}
-           "text": "{{ post.de.description | replace: '"', "'" }}<br><a href='{{ post.url }}.html'>Weitere Information</a>"
+           "text": "Autoren: {{ post.authors | join: ", " }}<br/><br/>{{ post.de.description | replace: '"', "'" }}<br><a href='{{ post.url }}.html'>Weitere Information</a>"
            {%- endif -%}
          }
        }{%- unless forloop.last -%},{%- endunless -%}
