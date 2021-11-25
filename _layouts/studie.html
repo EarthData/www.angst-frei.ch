@@ -39,6 +39,13 @@ layout: base
         </div>
       {% endif %}
 
+      {% if page.title.size > 0 %}
+        <div class="blog-tags">
+          <span>Publikation: </span>
+            {{- page.title -}}
+        </div>
+      {% endif %}
+
       {% if page.authors.size > 0 %}
         <div class="blog-tags">
           <span>Autoren:</span>
