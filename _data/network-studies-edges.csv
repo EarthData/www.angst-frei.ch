@@ -1,0 +1,45 @@
+from,to,title,group,value
+2,1,,Immunity,2
+3,1,,Science,2
+5,4,,Vaccines,2
+6,4,,SSRN,2
+8,7,,Therapeutics,2
+9,7,,NLM,2
+11,10,,Virus,2
+12,10,,MDPI,2
+11,13,,Virus,2
+14,13,,The Lancet,2
+8,15,,Therapeutics,2
+16,15,,Cardiology Journal,2
+5,17,,Vaccines,2
+18,17,,AHA,2
+5,19,,Vaccines,2
+9,19,,NLM,2
+8,20,,Therapeutics,2
+9,20,,NLM,2
+11,21,,Virus,2
+22,21,,medRxiv,2
+2,23,,Immunity,2
+24,23,,ACS,2
+5,25,,Vaccines,2
+9,25,,NLM,2
+5,26,,Vaccines,2
+27,26,,The Journal of Immunology,2
+11,28,,Virus,2
+29,28,,Front. Mol. Biosci.,2
+11,30,,Virus,2
+31,30,,Wiley,2
+33,32,,Category,2
+34,32,,Muster,2
+5,35,,Vaccines,2
+22,35,,medRxiv,2
+5,36,,Vaccines,2
+22,36,,medRxiv,2
+2,37,,Immunity,2
+38,37,,ScienceDirect,2
+2,39,,Immunity,2
+40,39,,Nature,2
+8,41,,Therapeutics,2
+42,41,,Cochrane Library,2
+2,43,,Immunity,2
+44,43,,Nature Immunology,2

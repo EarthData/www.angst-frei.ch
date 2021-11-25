@@ -7,8 +7,8 @@ permalink: /json/timeline-studies_de.json
 {
   "title": {
     "media": {
-      "url": "/assets/img/timeline/P(l)andemie.jpg",
-      "caption": "Der Zeitstrahl mit allen wichtigen Studien zur Covid-P(l)andemie",
+      "url": "/assets/img/timeline/Studies.jpg",
+      "caption": "Zeitstrahl mit allen wichtigen zu Sars-Cov2",
       "credit": ""
     },
     "text": {
@@ -45,11 +45,8 @@ permalink: /json/timeline-studies_de.json
            "url": "<iframe src='https://www.srf.ch/play/embed?urn=urn:srf:video:{{ post.srfId }}&subdivisions=false' />",
            {%- elsif post.link -%}
            "url": "{{ post.link }}",
-           {%- else -%}
-           "url": "/assets/files/websites/{{ filename }}",
-           "link": "{{ post.redirect }}",
            {%- endif -%}
-           "caption": "{{ post.de.title | replace: '"', "'" }}",
+           "caption": "{{ post.title | replace: '"', "'" }}",
            {%- if post.redirect -%}
            "credit": "<a href='{{ post.redirect }}'>Quelle</a>"
            {%- elsif post.credit -%}

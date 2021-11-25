@@ -1,0 +1,20 @@
+html, body {
+  height:100%;
+  padding: 0px;
+  margin: 0px;
+}
+
+#timeline-embed { height: 100%; }
+
+.tl-text h2.tl-headline-title, .tl-text h2.tl-headline {
+  font-family: 'PT Sans Narrow', sans-serif;
+  text-transform: none;
+  font-weight: 350;
+  font-size: 30px;
+  line-height: 30px;
+}
+
+.tl-full-image-background .tl-text p {
+  font-size: 14px;
+  line-height: 16px;
+}

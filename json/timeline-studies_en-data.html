@@ -7,13 +7,13 @@ permalink: /json/timeline-studies_en.json
 {
   "title": {
     "media": {
-      "url": "/assets/img/timeline/P(l)andemie.jpg",
-      "caption": "Der Zeitstrahl mit allen wichtigen Ereignissen zur Covid-P(l)andemie",
+      "url": "/assets/img/timeline/Studies.jpg",
+      "caption": "Timeline of important studies related to Sars-Cov2"
       "credit": ""
     },
     "text": {
       "headline": "Timeline",
-      "text": "P(l)andemie<br/><p>Quellen:<br/>multipolar-magazin.de: <a href=\"https://multipolar-magazin.de/artikel/wurde-die-corona-krise-geplant\">Wurde die Corona-Krise geplant?</a><br/>tkp.at: <a href=\"https://tkp.at/2021/03/04/die-genese-einer-pandemie/\">Die Genese einer Pandemie</a><br/>www.zerohedge.com: <a href=\"https://www.zerohedge.com/geopolitical/timeline-great-reset-agenda\">A Timeline Of “The Great Reset” Agenda</a></p>"
+      "text": "Timeline of important studies related to Sars-Cov2"
     }
   },
   "events": [
@@ -45,9 +45,6 @@ permalink: /json/timeline-studies_en.json
            "url": "<iframe src='https://www.srf.ch/play/embed?urn=urn:srf:video:{{ post.srfId }}&subdivisions=false' />",
            {%- elsif post.link -%}
            "url": "{{ post.link }}",
-           {%- else -%}
-           "url": "/assets/files/websites/{{ filename }}",
-           "link": "{{ post.redirect }}",
            {%- endif -%}
            "caption": "{{ post.en.title | replace: '"', "'" }}",
            {%- if post.redirect -%}
