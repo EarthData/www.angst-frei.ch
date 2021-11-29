@@ -8,7 +8,7 @@ permalink: /json/timeline-studies_en.json
   "title": {
     "media": {
       "url": "/assets/img/timeline/Studies.jpg",
-      "caption": "Timeline of important studies related to Sars-Cov2"
+      "caption": "Timeline of important studies related to Sars-Cov2",
       "credit": ""
     },
     "text": {
@@ -46,9 +46,9 @@ permalink: /json/timeline-studies_en.json
            {%- elsif post.link -%}
            "url": "{{ post.link }}",
            {%- endif -%}
-           "caption": "{{ post.en.title | replace: '"', "'" }}",
+           "caption": "{{ post.title | replace: '"', "'" }}",
            {%- if post.redirect -%}
-           "credit": "<a href='{{ post.redirect }}'>Quelle</a>"
+           "credit": "<a href='{{ post.redirect }}'>Source</a>"
            {%- elsif post.credit -%}
            "credit": "<a href='{{ post.credit }}'>Quelle</a>"
            {%- else -%}
@@ -75,7 +75,7 @@ permalink: /json/timeline-studies_en.json
          "text": {
            "headline": "{{ post.en.subtitle | replace: '"', "'" }}",
            {%- if post.en.description -%}
-           "text": "{{ post.en.description | replace: '"', "'" }}<br><a href='{{ post.url }}.html'>IT - Weitere Information</a>"
+           "text": "Authors: {{ post.authors }}<br/><br/>{{ post.en.description | replace: '"', "'" }}<br><a href='{{ post.url }}.html'>More Information</a>"
            {%- endif -%}
          }
        }{%- unless forloop.last -%},{%- endunless -%}

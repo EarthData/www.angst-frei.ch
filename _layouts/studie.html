@@ -39,44 +39,39 @@ layout: base
         </div>
       {% endif %}
 
+      {% if page.title.size > 0 %}
+        <div class="blog-tags">
+          <span>Publikation: </span>
+            {{- page.title -}}
+        </div>
+      {% endif %}
+
+      {% if page.authors.size > 0 %}
+        <div class="blog-tags">
+          <span>Autoren:</span>
+          {% for author in page.authors %}
+            {{- author -}}
+          {% endfor %}
+        </div>
+      {% endif %}
+
+      {% if page.group.size > 0 %}
+        <div class="blog-tags">
+          <span>Kategorien:</span>
+          {% for group in page.group %}
+            <a href="{{ '/studies/groups' | relative_url }}#{{- group -}}">{{- group -}}</a>
+          {% endfor %}
+        </div>
+      {% endif %}
+
       <article role="main" class="blog-post">
-        {% if page.redirect %}
-        <a href="{{ page.redirect | absolute_url }}">{{ page.redirect | absolute_url }}</a>
-        {% endif %}
-        {%- if page.description -%}
-        <p>{{ page.description }}</p>
+        {%- if page.de.description -%}
+        <p>{{ page.de.description }}</p>
         {% endif %}
         {% if content %}
         {{ content }}
         {% endif %}
       </article>
-
-      {% if page.persons.size > 0 %}
-        <div class="blog-tags">
-          <span>Personen:</span>
-          {% for person in page.persons %}
-            <a href="{{ '/persons' | relative_url }}#{{- person -}}">{{- person -}}</a>
-          {% endfor %}
-        </div>
-      {% endif %}
-
-      {% if page.categories.size > 0 %}
-        <div class="blog-tags">
-          <span>Kategorien:</span>
-          {% for category in page.categories %}
-            <a href="{{ '/categories' | relative_url }}#{{- category -}}">{{- category -}}</a>
-          {% endfor %}
-        </div>
-      {% endif %}
-
-      {% if page.tags.size > 0 %}
-        <div class="blog-tags">
-          <span>Tags:</span>
-          {% for tag in page.tags %}
-            <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
-          {% endfor %}
-        </div>
-      {% endif %}
 
       {% if page.after-content %}
         <div class="after-content">
