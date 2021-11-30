@@ -1,0 +1,15 @@
+---
+date:        2021-10-30
+title:        Metabolism Open
+authors:      'Paraskevi C Fragkou, Dimitra Dimopoulou'
+en:
+  subtitle: 'Serious complications of COVID-19 vaccines: A mini-review'
+  description: 'Abstract: Τhe most promising approach of fighting COVID-19 and restraining the course of this pandemic is indisputably the universal vaccination of the population with safe and effective vaccines. However, besides the common and usually mild side effects of the authorized vaccines, some rare, major adverse reactions are increasingly being reported worldwide during the post marketing surveillance phase of vaccines' circulation, such as anaphylaxis, vaccine-induced thrombotic thrombocytopenia, myopericarditis and Guillain-Barré syndrome. Despite rare cases with complications from COVID-19 vaccines, the net benefit-risk ratio shows a clearly favorable balance towards COVID-19 vaccination for all age and sex groups. Vaccine adverse events should be identified early and monitored closely. As many aspects of these adverse effects remain still obscure for the medical community and the relevant stakeholders, it is also highly important to be promptly reported. Nonetheless, these complications should not constitute a reason to change the vaccine policy and further studies are needed to alleviate concerns and reluctance to COVID-19 vaccinations.'
+de: 
+  subtitle: 'Schwerwiegende Komplikationen bei COVID-19-Impfstoffen: Eine Mini-Review'
+  description: 'Abstract: Der vielversprechendste Ansatz zur Bekämpfung von COVID-19 und zur Eindämmung des Verlaufs dieser Pandemie ist unbestreitbar die allgemeine Impfung der Bevölkerung mit sicheren und wirksamen Impfstoffen. Neben den häufigen und in der Regel leichten Nebenwirkungen der zugelassenen Impfstoffe werden jedoch in der Überwachungsphase nach dem Inverkehrbringen der Impfstoffe weltweit zunehmend einige seltene, schwerwiegende Nebenwirkungen gemeldet, wie Anaphylaxie, impfstoffinduzierte thrombotische Thrombozytopenie, Myoperikarditis und Guillain-Barré-Syndrom. Trotz seltener Fälle von Komplikationen durch COVID-19-Impfstoffe zeigt das Netto-Nutzen-Risiko-Verhältnis für alle Alters- und Geschlechtsgruppen ein eindeutig günstiges Verhältnis zugunsten der COVID-19-Impfung. Unerwünschte Wirkungen des Impfstoffs sollten frühzeitig erkannt und genau überwacht werden. Da viele Aspekte dieser unerwünschten Wirkungen für die medizinische Fachwelt und die betroffenen Interessengruppen immer noch unklar sind, ist es auch sehr wichtig, dass sie unverzüglich gemeldet werden. Dennoch sollten diese Komplikationen kein Grund sein, die Impfstoffpolitik zu ändern, und es sind weitere Studien erforderlich, um Bedenken und Vorbehalte gegenüber COVID-19-Impfungen zu zerstreuen.'
+group:       "Vaccines"
+credit:       https://www.sciencedirect.com/science/article/pii/S2589936821000694
+link:       "https://www.sciencedirect.com/science/article/pii/S2589936821000694/pdfft?md5=48a3d1e342441fa1aee1bcad20c1063e&pid=1-s2.0-S2589936821000694-main.pdf"
+---
+<object data="{{ page.link }}" style='height:calc(100vh - 400px); width: 100%' type='application/pdf'></object>
