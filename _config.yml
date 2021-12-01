@@ -107,9 +107,6 @@ collections:
     output: false
   events:
     output: false
-  studies:
-    output: true
-    permalink: /studies/:name
 
 icons:
   book:     '<i class="fas fa-book" title="Buch" style="color: black"></i>'
