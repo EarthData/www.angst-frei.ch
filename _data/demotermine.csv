@@ -4,6 +4,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 54490,DE,2021-12-13,17:00:00,38444,Wolfsburg,Rathausplatz,Spaziergang,,unbekannt,
 21811,DE,2021-12-13,17:00:00,18055,Rostock,Rosengarten,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 54602,DE,2021-12-13,17:00:00,21391,Reppenstedt,Rewe Parkplatz / neben LüLa 14,Spaziergang,,unbekannt,
+54644,DE,2021-12-13,17:00:00,06366,Köthen / Anhalt,Rathaus,Spaziergang,,unbekannt,
 54392,DE,2021-12-13,17:00:00,06366,Köthen,Rathaus,Spaziergang,,unbekannt,
 54563,DE,2021-12-13,17:00:00,74564,Crailsheim,Schweinemarktplatz,Lichterkette,,unbekannt,
 54540,DE,2021-12-13,17:15:00,25821,Bredstedt,Markt,Spaziergang,,unbekannt,
@@ -16,17 +17,20 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 54494,DE,2021-12-13,18:00:00,65183,Wiesbaden,Kochbrunnenplatz,Spaziergang,,unbekannt,
 54405,DE,2021-12-13,18:00:00,02943,Weißwasser,Marktplatz,Spaziergang,,unbekannt,
 54419,DE,2021-12-13,18:00:00,21255,Tostedt,Rathaus,Spaziergang,,unbekannt,
+54637,DE,2021-12-13,18:00:00,70435,Stuttgart Zuffenhausen,Rathaus / davor,Spaziergang,,Privat,https://t.me/Laufschritt
 22057,DE,2021-12-13,18:00:00,39576,Stendal,Marktplatz,Spaziergang,,unbekannt,
 54597,DE,2021-12-13,18:00:00,31655,Stadthagen,Marktplatz,Demonstration,,unbekannt,
 54447,DE,2021-12-13,18:00:00,19053,Schwerin,Pfaffenteich Südufer,Spaziergang,,Schwerin Schweig Nicht,https://t.me/DemoinfosSchwerinMV
 22025,DE,2021-12-13,18:00:00,98574,Schmalkalden,Altmarkt,Spaziergang,,unbekannt,
 54592,DE,2021-12-13,18:00:00,29410,Salzwedel,Rathausturmplatz,Kundgebung,,unbekannt,
+54645,DE,2021-12-13,18:00:00,33378,Rheda,Stadtkirche,Spaziergang,,unbekannt,
 22162,DE,2021-12-13,18:00:00,88212,Ravensburg,Marienplatz (Lederhaus),Kundgebung,,unbekannt,
 54473,DE,2021-12-13,18:00:00,66953,Pirmasens,Exerzierplatz,Demonstration,,Freie Pfälzer,
 54596,DE,2021-12-13,18:00:00,16515,Oranienburg,Schlossplatz,Aufzug,,OHV steht auf,
 54507,DE,2021-12-13,18:00:00,41464,Neuss,Vor dem Quirinus Münster,Mahnwache,,unbekannt,
 54393,DE,2021-12-13,18:00:00,48143,Münster i.W.,Domplatz / Bezirksregierung,Kundgebung,,Gemeinsam für Grundrechte,http://grundrechte-ms.de
 54610,DE,2021-12-13,18:00:00,48147,Münster,Domplatz,Spaziergang,,unbekannt,http://grundrechte-ms.de
+54636,DE,2021-12-13,18:00:00,70825,Münchingen,Rathaus,Spaziergang,https://t.me/stuttgartgrundgesetzdemos,Privat,https://t.me/stuttgartgrundgesetzdemos
 22233,DE,2021-12-13,18:00:00,80333,München,Stachus / Sendlinger-Tor-Platz,Spaziergang,,unbekannt,
 54557,DE,2021-12-13,18:00:00,01662,Meißen,Heinrichs Platz,Spaziergang,,unbekannt,
 22189,DE,2021-12-13,18:00:00,85570,Markt Schwaben,Marktplatz,Spaziergang,,unbekannt,
@@ -56,6 +60,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 22229,DE,2021-12-13,18:00:00,06749,Bitterfeld,Marktplatz,Spaziergang,,unbekannt,
 54508,DE,2021-12-13,18:00:00,13437,Berlin,Rathaus Reinickendorf,Demonstration,,unbekannt,
 54515,DE,2021-12-13,18:00:00,12681,Berlin,Altes Rathaus Marzahn,Spaziergang,,Privat,
+54641,DE,2021-12-13,18:00:00,15848,Beeskow,Markt,Spaziergang,,unbekannt,
 54000,DE,2021-12-13,18:00:00,30890,Barsinghausen,Vor C&A,Spaziergang,,unbekannt,
 54535,DE,2021-12-13,18:00:00,96052,Bamberg,Bahnhof / ggü.,Spaziergang,,unbekannt,
 54391,DE,2021-12-13,18:00:00,96231,Bad Staffelstein,Am Rathaus,Mahnwache,,Privat,
@@ -86,8 +91,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21969,DE,2021-12-13,18:30:00,29221,Celle,Stechbahn / vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 54402,DE,2021-12-13,18:30:00,38100,Braunschweig,Am Dom,Spaziergang,,unbekannt,
 22190,DE,2021-12-13,18:30:00,74336,Brackenheim,Brunnen vor der Kreissparkasse,Spaziergang,,Team Freiheit Brackenheim,http://www.team-freiheit-brackenheim.de/
-54554,DE,2021-12-13,18:30:00,46242,Bottrop,Kirchplatz 1 / Cyriakuskirche,Spaziergang,,Freiheitsboten Bottrop,https://t.me/FreiheitsbotenBottrop
 21950,DE,2021-12-13,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,
+54554,DE,2021-12-13,18:30:00,46242,Bottrop,Kirchplatz 1 / Cyriakuskirche,Spaziergang,,Freiheitsboten Bottrop,https://t.me/FreiheitsbotenBottrop
 21877,DE,2021-12-13,18:30:00,99510,Apolda,Markt/ Rathaus,Spaziergang,,,
 54421,DE,2021-12-13,18:45:00,21335,Lüneburg,Marktplatz,Spaziergang,,unbekannt,
 21831,DE,2021-12-13,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
@@ -99,9 +104,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 54532,DE,2021-12-13,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,Chiemgau gemeinsam. Prien am Chiemsee,http://Chiemgau-gemeinsam.de
 22150,DE,2021-12-13,19:00:00,87724,Ottobeuren,Marktplatz,Spaziergang,,unbekannt,
 54401,DE,2021-12-13,19:00:00,17235,Neustrelitz,Marktplatz,Spaziergang,,unbekannt,
-21663,DE,2021-12-13,19:00:00,17033,Neubrandenburg,Marktplatz,Spaziergang,,unbekannt,
-54608,DE,2021-12-13,19:00:00,17033,Neubrandenburg,Marktplatz,Spaziergang,,unbekannt,
 54536,DE,2021-12-13,19:00:00,17033,Neubrandenburg,Marktplatz,Spaziergang,,unbekannt,
+54608,DE,2021-12-13,19:00:00,17033,Neubrandenburg,Marktplatz,Spaziergang,,unbekannt,
+21663,DE,2021-12-13,19:00:00,17033,Neubrandenburg,Marktplatz,Spaziergang,,unbekannt,
 22208,DE,2021-12-13,19:00:00,06618,Naumburg,Marienplatz,Spaziergang,,unbekannt,
 22216,DE,2021-12-13,19:00:00,99974,Mühlhausen/ Thüringen,Untermarkt,Spaziergang,,unbekannt,
 54559,DE,2021-12-13,19:00:00,68199,Mannheim,Wasserturm,Spaziergang,,unbekannt,
@@ -130,6 +135,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 54495,DE,2021-12-14,18:00:00,91054,Erlangen,Martin-Luther-Platz,Kundgebung,,unbekannt,
 54537,DE,2021-12-14,18:00:00,16321,Bernau bei Berlin,Marktplatz,Demonstration,,unbekannt,
 22205,DE,2021-12-14,18:30:00,39418,Staßfurt,Beneckschen Hof,Spaziergang,,Staßfurt steht auf,
+54642,DE,2021-12-14,19:00:00,72070,Tübingen,Holzmarkt,Fahrraddemo,,unbekannt,
 54482,DE,2021-12-14,19:00:00,92421,Schwandorf,Oberer Marktplatz,Kundgebung,,unbekannt,
 54484,DE,2021-12-14,19:00:00,74076,Heilbronn,FoodCourt,Kundgebung,,unbekannt,
 54522,DE,2021-12-15,12:00:00,80937,München,Neuherbergstr. 11 / Kaserne,Demonstration,,UlliOma&Friends,https://t.me/UlliOma_Muc
@@ -138,8 +144,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 54614,DE,2021-12-15,17:00:00,70173,Stuttgart,Karlsplatz,Aufzug,,Privat,
 54411,DE,2021-12-15,17:00:00,84028,Landshut,Martinskirche / Vorplatz,Gebet,,Kraftquelle Gebet Landshut,
 54407,DE,2021-12-15,17:30:00,17438,Wolgast,Freifläche am Kai,Kundgebung,dlive.tv,unbekannt,
-54573,DE,2021-12-15,18:00:00,80333,München,Odeonsplatz / Ludwigstraße,Aufzug,,München-steht-auf,www.muenchen-steht-auf.de
 54428,DE,2021-12-15,18:00:00,80539,München,Ludwigstr. / Odeonsplatz,Kundgebung,,München steht auf u.a.,http://www.muenchen-steht-auf.de
+54573,DE,2021-12-15,18:00:00,80333,München,Odeonsplatz / Ludwigstraße,Aufzug,,München-steht-auf,www.muenchen-steht-auf.de
 54456,AT,2021-12-15,18:00:00,4020,Linz,Dreifaltigkeitssäule / Hauptpl.,Gebet,,ÖSTERREICH BETET,https://oesterreich-betet.at/
 54460,AT,2021-12-15,18:00:00,8200,Gleisdorf,Hauptplatz / Mariensäule,Gebet,,Österreich betet,https://oesterreich-betet.at/
 54605,DE,2021-12-16,11:00:00,84028,Landshut,Martinskirche / Vorplatz,Kundgebung,,Peter Ganz und BAYERN STEHT ZUSAMMEN Landshut e.V.,https://bayern-steht-zusammen.de
@@ -147,23 +153,25 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 22138,AT,2021-12-16,12:00:00,1010,Wien,Friedrichstr. 10 / oe24,Kundgebung,,Martin Rutter,https://www.direktdemokratisch.jetzt/megademo/
 22139,AT,2021-12-16,14:00:00,1030,Wien,Vordere Zollamtsstr. 13 / Der Standard,Kundgebung,,Martin Rutter,https://www.direktdemokratisch.jetzt/megademo/
 22140,AT,2021-12-16,16:00:00,1030,Wien,Hainburger Str. 33 / Die Presse,Kundgebung,,Martin Rutter,https://www.direktdemokratisch.jetzt/megademo/
-54630,AT,2021-12-16,17:00:00,4020,Linz,Landstrasse,Spaziergang,,DEMO LINZ FREHEIT,https://t.me/DEMOLINZFREIHEIT/946
 54627,AT,2021-12-16,17:00:00,4020,Linz,Hauptplatz,Zusammenkunft,,DEMO LINZ FREHEIT,https://t.me/DEMOLINZFREIHEIT/946
+54630,AT,2021-12-16,17:00:00,4020,Linz,Landstrasse,Spaziergang,,DEMO LINZ FREHEIT,https://t.me/DEMOLINZFREIHEIT/946
 54548,DE,2021-12-16,17:00:00,22926,Ahrensburg,Schloß,Spaziergang,,unbekannt,
 3814,DE,2021-12-16,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
+54643,DE,2021-12-16,18:00:00,78462,Konstanz,Marktstätte,Versammlung,,unbekannt,
 22207,DE,2021-12-16,18:00:00,78462,Konstanz,Marktstätte,Mahnwache,,Freie Versammlung.,
 54579,DE,2021-12-16,18:00:00,39340,Haldensleben,Marktplatz,Mahnwache,,unbekannt,http://Gemeinschaft-hdl.de
 21977,DE,2021-12-16,18:00:00,39340,Haldensleben,Marktplatz,Mahnwache,,unbekannt,
-54459,DE,2021-12-16,18:30:00,13599,Berlin,Am Juliusturm / Zitadellenweg,Spaziergang,,unbekannt,
 54486,DE,2021-12-16,18:30:00,13599,Berlin,Am Juliusturm / Zitadellenweg,Spaziergang,,unbekannt,
+54459,DE,2021-12-16,18:30:00,13599,Berlin,Am Juliusturm / Zitadellenweg,Spaziergang,,unbekannt,
 21960,DE,2021-12-17,16:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.de
 21920,DE,2021-12-17,17:00:00,68519,Viernheim,Bürgerm.-Neff-Str 33 / Parkplatz,Schweigemarsch,,Initiative Bergstraße steht auf,http://bergstrasse-steht-auf.de/
-54631,AT,2021-12-17,17:00:00,4020,Linz,Landstrasse,Spaziergang,,DEMO LINZ FREHEIT,https://t.me/DEMOLINZFREIHEIT/946
 54628,AT,2021-12-17,17:00:00,4020,Linz,Hauptplatz,Zusammenkunft,,DEMO LINZ FREHEIT,https://t.me/DEMOLINZFREIHEIT/946
+54631,AT,2021-12-17,17:00:00,4020,Linz,Landstrasse,Spaziergang,,DEMO LINZ FREHEIT,https://t.me/DEMOLINZFREIHEIT/946
 54526,DE,2021-12-17,17:00:00,16798,Fürstenberg / Havel,Marktplatz,Demonstration,,Oberhavel Steht Auf,https://www.oberhavel-steht-auf.de/demonstration-fuerstenberg-havel-17-12-2021
 54633,DE,2021-12-17,18:00:00,26409,Wittmund,Karl-Bösch-Platz 4,Spaziergang,,Wittmund steht auf,
 54574,DE,2021-12-17,18:00:00,33611,Bielefeld,Kesselbrink,Kundgebung,,unbekannt,
 54550,DE,2021-12-17,19:00:00,26505,Norden,Marktplatz / ggü. Kirche,Spaziergang,,unbekannt,
+54638,DE,2021-12-18,11:00:00,72622,Nürtingen,Parkplatz Bahnhof,Spaziergang,,unbekannt,
 54609,DE,2021-12-18,11:00:00,84028,Landshut,Ländtorplatz und Isar,Menschenkette,,unbekannt,
 54469,DE,2021-12-18,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf
 54466,DE,2021-12-18,11:45:00,29221,Celle,Brandplatz,Kundgebung,,Celle steht auf,https://t.me/cellestehtauf
@@ -172,6 +180,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 54512,DE,2021-12-18,12:00:00,10117,Berlin,Brandenburger Tor,Aufzug,,unbekannt,https://www.instagram.com/friedlichzusammen/p/CXOpfzCqL-s/?utm_medium=copy_link
 54394,DE,2021-12-18,13:00:00,40474,Düsseldorf,Nordpark / Parkplatz,Autokorso,,unbekannt,https://t.me/Autokorso_Termine_NRW
 54634,DE,2021-12-18,13:00:00,14776,Brandenburg an der Havel,Katharinkirchplatz,Spaziergang,,unbekannt,
+54646,DE,2021-12-18,13:00:00,14776,Brandenburg,Am Katharinenkirchplatz,Spaziergang,,unbekannt,
 54435,DE,2021-12-18,13:00:00,76530,Baden-Baden,Augustastr. 1,Kundgebung,,BI aufRECHT:FREIdenken,https://www.solidarnosch.de/Covid-19.htm
 54519,DE,2021-12-18,13:30:00,74072,Heilbronn,Killiansplatz,Kundgebung,,unbekannt,
 54619,DE,2021-12-18,14:00:00,86529,Schrobenhausen,Lechplatz 21,Versammlung,,Herr Dr. E Reineke,
@@ -190,8 +199,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 54561,DE,2021-12-18,17:00:00,29525,Uelzen,Ratsteich,Spaziergang,,unbekannt,
 54565,DE,2021-12-18,17:00:00,29525,Uelzen,Gertrudenkapelle / Am Ratsteig,Spaziergang,,unbekannt,
 54525,DE,2021-12-18,17:00:00,79215,Elzach,Nikolausplatz,Mahnwache,,Initiative Elzach,https://www.initiative-elzach.de
-54571,DE,2021-12-19,12:30:00,90402,Nürnberg,Kornmarkt,Aufzug,,unbekannt,
 54449,DE,2021-12-19,12:30:00,90402,Nürnberg,unbekannt,Aufzug,,Schüler stehen auf,https://t.me/nuernberg2021
+54571,DE,2021-12-19,12:30:00,90402,Nürnberg,Kornmarkt,Aufzug,,unbekannt,
 54412,DE,2021-12-19,14:00:00,90402,Nürnberg,Willy-Brandt-Platz,Kundgebung,,AfD,https://www.afdbayern.de
 21846,DE,2021-12-19,14:00:00,69117,Heidelberg,Universitätsplatz,Kundgebung,,Offene Gesellschaft Kurpfalz,https://offene-gesellschaft-kurpfalz.de/13-demo-in-heidelberg/
 54564,DE,2021-12-19,14:00:00,69117,Heidelberg,Universitätsplatz,Kundgebung,,Offene Gesellschaft Kurpfalz,https://offene-gesellschaft-kurpfalz.de/13-demo-in-heidelberg/
@@ -207,6 +216,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21813,DE,2021-12-20,17:00:00,18055,Rostock,Rosengarten,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 21785,DE,2021-12-20,17:00:00,84307,Eggenfelden,Rathausplatz,Aufstand,https://dlive.tv/SelbstDenken21,SelbstDenken21,http://shop.selbstdenken21.de
 22026,DE,2021-12-20,18:00:00,98574,Schmalkalden,Altmarkt,Spaziergang,,unbekannt,
+54639,DE,2021-12-20,18:00:00,96215,Lichtenfels,Marktplatz,Mahnwache,,unbekannt,
 21962,DE,2021-12-20,18:00:00,95326,Kulmbach,Marktplatz,Demonstration,,20Plus1-Bürgerbewegung,https://20plus1.de
 21555,DE,2021-12-20,18:00:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/
 22223,DE,2021-12-20,18:00:00,06844,Dessau-Roßlau,Schloßplatz,Spaziergang,,Dessau steht auf,https://t.me/MontagsMahnwache
@@ -238,14 +248,15 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21814,DE,2021-12-27,16:00:00,18055,Rostock,Stadthafen / am Strande,Menschenkette,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 21815,DE,2021-12-27,17:00:00,18055,Rostock,Rosengarten,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 22027,DE,2021-12-27,18:00:00,98574,Schmalkalden,Altmarkt,Kundgebung,,unbekannt,
+54640,DE,2021-12-27,18:00:00,96215,Lichtenfels,Marktplatz,Mahnwache,,unbekannt,
 21963,DE,2021-12-27,18:00:00,95326,Kulmbach,Marktplatz,Demonstration,,20Plus1-Bürgerbewegung,https://20plus1.de
 21972,DE,2021-12-27,18:30:00,29221,Celle,Stechbahn / vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 21971,DE,2021-12-27,18:30:00,29221,Celle,Stechbahn / vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 54437,DE,2021-12-27,18:30:00,99510,Apolda,Markt / Rathaus,Spaziergang,,unbekannt,
 21833,DE,2021-12-27,19:00:00,26382,Wilhelmshaven,Rathaus,Kundgebung,,Das deutsche Volk,
 21665,DE,2021-12-27,19:00:00,17033,Neubrandenburg,Marktplatz,Spaziergang,,unbekannt,
-54604,DE,2021-12-28,17:00:00,41464,Neuss,Janssen-Cilag GmbH Pharma,Kundgebung,,unbekannt,
 54607,DE,2021-12-28,17:00:00,41464,Neuss,Janssen-Cilag GmbH Neuss,Mahnwache,,unbekannt,
+54604,DE,2021-12-28,17:00:00,41464,Neuss,Janssen-Cilag GmbH Pharma,Kundgebung,,unbekannt,
 54612,DE,2021-12-29,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf
 54613,DE,2021-12-29,11:45:00,29221,Celle,Brandplatz,Kundgebung,,Celle steht auf,https://t.me/cellestehtauf
 3816,DE,2021-12-30,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
