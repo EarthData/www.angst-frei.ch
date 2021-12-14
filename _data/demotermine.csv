@@ -2,8 +2,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 22137,AT,2021-12-14,12:00:00,1010,Wien,Löwelstr. 18 / SPÖ-Parteizentrale,Kundgebung,,Martin Rutter,https://www.direktdemokratisch.jetzt/megademo/
 54521,DE,2021-12-14,12:00:00,80939,München,Ingolstädter Str 240 / Kaserne,Demonstration,,UlliOma&Friends,https://t.me/UlliOma_Muc
 54710,DE,2021-12-14,17:00:00,90402,Nürnberg,Hallplatz / Pfannenschmiedsgasse,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
-54626,AT,2021-12-14,17:00:00,4020,Linz,Hauptplatz,Zusammenkunft,,DEMO LINZ FREHEIT,https://t.me/DEMOLINZFREIHEIT/946
 54629,AT,2021-12-14,17:00:00,4020,Linz,Landstrasse,Spaziergang,,DEMO LINZ FREHEIT,https://t.me/DEMOLINZFREIHEIT/946
+54626,AT,2021-12-14,17:00:00,4020,Linz,Hauptplatz,Zusammenkunft,,DEMO LINZ FREHEIT,https://t.me/DEMOLINZFREIHEIT/946
 54584,DE,2021-12-14,17:30:00,79108,Freiburg im Breisgau,Parkplatz / Neues SC Stadion,Autokorso,,Zukunft Freiburg,https://www.zukunft-fr.de
 22201,DE,2021-12-14,18:00:00,15936,Luckau,Capitol,Spaziergang,,Freie Menschen gegen Impfpflicht,
 54524,DE,2021-12-14,18:00:00,23683,Haffkrug,Seebrücke,Lichterkette,,unbekannt,
@@ -16,6 +16,15 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 54484,DE,2021-12-14,19:00:00,74076,Heilbronn,FoodCourt,Kundgebung,,unbekannt,
 54522,DE,2021-12-15,12:00:00,80937,München,Neuherbergstr. 11 / Kaserne,Demonstration,,UlliOma&Friends,https://t.me/UlliOma_Muc
 54453,AT,2021-12-15,12:00:00,4020,Linz,Hauptplaz,Demonstration,,unbekannt,https://t.me/MartinRutter/5096
+54720,AT,2021-12-15,13:00:00,1010,Wien,Maria-Theresien-Platz,Kundgebung,,IMPFSTREIK WIRstreiken,https://www.impfstreik.at
+54721,AT,2021-12-15,13:00:00,3100,St. Pölten,Boulevard 1 / Landtag / Landhaus,Kundgebung,,IMPFSTREIK WIRstreiken,https://www.impfstreik.at
+54726,AT,2021-12-15,13:00:00,5010,Salzburg,Chiemseehof / Landtag,Kundgebung,,IMPFSTREIK WIRstreiken,https://www.impfstreik.at
+54723,AT,2021-12-15,13:00:00,4020,Linz,Landhausplatz,Kundgebung,,IMPFSTREIK WIRstreiken,https://www.impfstreik.at
+54725,AT,2021-12-15,13:00:00,9020,Klagenfurt,Arnulfplatz 1 / Landtag,Kundgebung,,IMPFSTREIK WIRstreiken,https://www.impfstreik.at
+54727,AT,2021-12-15,13:00:00,6020,Innsbruck,M.-Theresien-Str. 43 / Landtag,Kundgebung,,IMPFSTREIK WIRstreiken,https://www.impfstreik.at
+54724,AT,2021-12-15,13:00:00,8010,Graz,Herrengasse 16 / Landtag,Kundgebung,,IMPFSTREIK WIRstreiken,https://www.impfstreik.at
+54722,AT,2021-12-15,13:00:00,7000,Eisenstadt,Europaplatz 1 / Landtag,Kundgebung,,IMPFSTREIK WIRstreiken,https://www.impfstreik.at
+54728,AT,2021-12-15,13:00:00,6901,Bregenz,Römerstr. 15 / Landtag,Kundgebung,,IMPFSTREIK WIRstreiken,https://www.impfstreik.at
 54483,DE,2021-12-15,15:00:00,65183,Wiesbaden,Kochbrunnenplatz,Kundgebung,,unbekannt,
 54716,DE,2021-12-15,15:00:00,59425,Dortmund,Rathausplatz 1,Kundgebung,,unbekannt,
 54614,DE,2021-12-15,17:00:00,70173,Stuttgart,Karlsplatz,Aufzug,,Privat,
@@ -42,10 +51,10 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 54643,DE,2021-12-16,18:00:00,78462,Konstanz,Marktstätte,Versammlung,,unbekannt,
 22207,DE,2021-12-16,18:00:00,78462,Konstanz,Marktstätte,Mahnwache,,Freie Versammlung.,
 54708,DE,2021-12-16,18:00:00,76133,Karlsruhe,Bundesverfassungsgericht,Kundgebung,,Pforzheim für Aufklärung,
-54579,DE,2021-12-16,18:00:00,39340,Haldensleben,Marktplatz,Mahnwache,,unbekannt,http://Gemeinschaft-hdl.de
 21977,DE,2021-12-16,18:00:00,39340,Haldensleben,Marktplatz,Mahnwache,,unbekannt,
-54486,DE,2021-12-16,18:30:00,13599,Berlin,Am Juliusturm / Zitadellenweg,Spaziergang,,unbekannt,
+54579,DE,2021-12-16,18:00:00,39340,Haldensleben,Marktplatz,Mahnwache,,unbekannt,http://Gemeinschaft-hdl.de
 54459,DE,2021-12-16,18:30:00,13599,Berlin,Am Juliusturm / Zitadellenweg,Spaziergang,,unbekannt,
+54486,DE,2021-12-16,18:30:00,13599,Berlin,Am Juliusturm / Zitadellenweg,Spaziergang,,unbekannt,
 54713,DE,2021-12-17,15:30:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 21960,DE,2021-12-17,16:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.de
 21920,DE,2021-12-17,17:00:00,68519,Viernheim,Bürgerm.-Neff-Str 33 / Parkplatz,Schweigemarsch,,Initiative Bergstraße steht auf,http://bergstrasse-steht-auf.de/
@@ -53,7 +62,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 54631,AT,2021-12-17,17:00:00,4020,Linz,Landstrasse,Spaziergang,,DEMO LINZ FREHEIT,https://t.me/DEMOLINZFREIHEIT/946
 54526,DE,2021-12-17,17:00:00,16798,Fürstenberg / Havel,Marktplatz,Demonstration,,Oberhavel Steht Auf,https://www.oberhavel-steht-auf.de/demonstration-fuerstenberg-havel-17-12-2021
 54633,DE,2021-12-17,18:00:00,26409,Wittmund,Karl-Bösch-Platz 4,Spaziergang,,Wittmund steht auf,
+54718,DE,2021-12-17,18:00:00,41747,Viersen,Rathausmarkt / Nähe Busbahnhof,Kundgebung,,unbekannt,
 54574,DE,2021-12-17,18:00:00,33611,Bielefeld,Kesselbrink,Kundgebung,,unbekannt,
+54719,DE,2021-12-17,18:30:00,32049,Herford,Alter Markt,Demonstration,,unbekannt,
 54671,DE,2021-12-17,19:00:00,66740,Saarlouis,Rathaus,Spaziergang,,unbekannt,
 54709,DE,2021-12-17,19:00:00,14712,Rathenow,Märkischer Platz,Mahnwache,,unbekannt,
 54550,DE,2021-12-17,19:00:00,26505,Norden,Marktplatz / ggü. Kirche,Spaziergang,,unbekannt,
@@ -151,6 +162,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21879,DE,2021-12-20,18:30:00,99510,Apolda,Markt/ Rathaus,Spaziergang,,,
 21832,DE,2021-12-20,19:00:00,27382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
 54692,DE,2021-12-20,19:00:00,91344,Waischenfeld,Rathaus 2,Spaziergang,,unbekannt,
+54717,DE,2021-12-20,19:00:00,16303,Schwedt,Vierradener Strasse,Spaziergang,,unbekannt,https://t.me/frieden_freiheit_souveraenitaet
 54691,DE,2021-12-20,19:00:00,86633,Neuburg an der Donua,Eisdiele San Marco,Spaziergang,,unbekannt,
 21664,DE,2021-12-20,19:00:00,17033,Neubrandenburg,Marktplatz,Spaziergang,,unbekannt,
 22132,DE,2021-12-20,19:00:00,38350,Helmstedt,Rathaus,Spaziergang,,unbekannt,
