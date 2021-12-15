@@ -69,11 +69,13 @@ bei 4-5 Kinder:  20 Lektionen à 45 min
 
 ### andere Projekte
 
+ * [Bildung im Wandel](https://www.bildungimwandel.ch/)
  * [Bildung zu Hause Schweiz](https://www.bildungzuhause.ch)
  * [Eltern für Freiheit](https://www.elternfuerfreiheit.ch)
  * [Homeschooling in der Schweiz](https://swisshomeschoolfamily.org)
  * [Homeschooling Netzwerk](https://www.homeschooling-netzwerk.ch/)
  * [Lehrernetzwerk Schweiz](https://www.lehrernetzwerk-schweiz.ch/)
+ * [Online-Fernschule Skindu](https://skindu.ch/)
  * [Swiss-Success-School](http://future-of-school.ch/)
  
 ### Campus Vivere
