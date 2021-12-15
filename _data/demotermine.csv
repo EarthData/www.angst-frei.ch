@@ -42,14 +42,14 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 54892,DE,2021-12-16,17:30:00,63457,Großauheim,Rochusplatz,Mahnwache,,Hanau steht auf!,https://hanau-steht-auf.de/
 54794,DE,2021-12-16,18:00:00,59457,Werl,Kirchplatz 1 / Propsteikirche,Gebet,,Privat,
 3814,DE,2021-12-16,18:00:00,85586,Poing,Friedensstr. 9 / Unterführung,Kundgebung,,unbekannt,
-54643,DE,2021-12-16,18:00:00,78462,Konstanz,Marktstätte,Versammlung,,unbekannt,
 22207,DE,2021-12-16,18:00:00,78462,Konstanz,Marktstätte,Mahnwache,,Freie Versammlung.,
+54643,DE,2021-12-16,18:00:00,78462,Konstanz,Marktstätte,Versammlung,,unbekannt,
 54708,DE,2021-12-16,18:00:00,76133,Karlsruhe,Bundesverfassungsgericht,Kundgebung,,Pforzheim für Aufklärung,
-21977,DE,2021-12-16,18:00:00,39340,Haldensleben,Marktplatz,Mahnwache,,unbekannt,
 54579,DE,2021-12-16,18:00:00,39340,Haldensleben,Marktplatz,Mahnwache,,unbekannt,http://Gemeinschaft-hdl.de
+21977,DE,2021-12-16,18:00:00,39340,Haldensleben,Marktplatz,Mahnwache,,unbekannt,
 54904,DE,2021-12-16,18:30:00,24103,Kiel,Exerzierplatz,Spaziergang,,,
-54459,DE,2021-12-16,18:30:00,13599,Berlin,Am Juliusturm / Zitadellenweg,Spaziergang,,unbekannt,
 54486,DE,2021-12-16,18:30:00,13599,Berlin,Am Juliusturm / Zitadellenweg,Spaziergang,,unbekannt,
+54459,DE,2021-12-16,18:30:00,13599,Berlin,Am Juliusturm / Zitadellenweg,Spaziergang,,unbekannt,
 54890,DE,2021-12-17,11:00:00,47051,Duisburg,Portsmouthplatz 1 / Hauptbahnhof,Demonstration,,unbekannt,
 54917,DE,2021-12-17,12:00:00,47051,Duisburg,Hauptbahnhof Vorplatz,Kundgebung,,Wir stehen auf DU,
 54811,DE,2021-12-17,14:30:00,20251,Hamburg,Vorstandsgebäude O11,Spaziergang,,unbekannt,
@@ -118,10 +118,10 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 54882,DE,2021-12-18,15:00:00,16761,Hennigsdorf,Postplatz / Bhf.,Aufzug,,Oberhavel steht auf!,
 54665,DE,2021-12-18,15:00:00,73033,Göppingen,Schillerplatz,Demonstration,,AfD Baden-Württemberg,https://afd-bw.de/
 54857,DE,2021-12-18,15:00:00,24939,Flensburg,Rathaus,Spaziergang,,unbekannt,
-54905,DE,2021-12-18,15:00:00,24941,Flensburg,Fördepark,Spaziergang,,,
 54749,DE,2021-12-18,15:00:00,24937,Flensburg,Rathauspl. 1,Spaziergang,,Keine,
-54818,DE,2021-12-18,15:00:00,40213,Düsseldorf,Johannes Rau Platz,Kundgebung,,UNBESIEGBAR,
+54905,DE,2021-12-18,15:00:00,24941,Flensburg,Fördepark,Spaziergang,,,
 54681,DE,2021-12-18,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,unbekannt,
+54818,DE,2021-12-18,15:00:00,40213,Düsseldorf,Johannes Rau Platz,Kundgebung,,UNBESIEGBAR,
 54845,DE,2021-12-18,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,APO - Düsseldorf,
 22199,DE,2021-12-18,15:00:00,44787,Bochum,Schauspielhaus,Aufzug,,Querdenken 234 - Bochum,https://querdenken-234.de
 54747,DE,2021-12-18,15:00:00,52062,Aachen,EurogressKurpark Monheimsallee,Demonstration,,Aachener Bündnis: NEIN zur Impfpflicht,https://kraz-ac.de/events/ein-klares-nein-zur-impfpflicht-3
@@ -145,14 +145,14 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 54862,DE,2021-12-18,18:00:00,31061,Alfeld,Marktplatz,Spaziergang,,unbekannt,
 54669,DE,2021-12-18,19:00:00,71272,Renningen,Rathaus,Spaziergang,,unbekannt,
 54706,DE,2021-12-19,12:30:00,15569,Woltersdorf,Schleuse / Ost,Kundgebung,,unbekannt,https://t.me/thomas_widerstand_official/1342
-54571,DE,2021-12-19,12:30:00,90402,Nürnberg,Kornmarkt,Aufzug,,unbekannt,
-54915,DE,2021-12-19,12:30:00,90471,Nürnberg,Volksfestplatz,Demonstration,,SchülerStehenAuf,https://t.me/WirStehenAuf
 54449,DE,2021-12-19,12:30:00,90402,Nürnberg,unbekannt,Aufzug,,Schüler stehen auf,https://t.me/nuernberg2021
+54915,DE,2021-12-19,12:30:00,90471,Nürnberg,Volksfestplatz,Demonstration,,SchülerStehenAuf,https://t.me/WirStehenAuf
+54571,DE,2021-12-19,12:30:00,90402,Nürnberg,Kornmarkt,Aufzug,,unbekannt,
 54730,AT,2021-12-19,14:00:00,5020,Salzburg,Mozartplatz,Aufzug,,Salzburg wacht auf !,http://www.salzburgwachtauf.at/
-54412,DE,2021-12-19,14:00:00,90402,Nürnberg,Willy-Brandt-Platz,Kundgebung,,AfD,https://www.afdbayern.de
 54735,DE,2021-12-19,14:00:00,90408,Nürnberg,Willy-Brand-platz 10,Kundgebung,,unbekannt,
-54564,DE,2021-12-19,14:00:00,69117,Heidelberg,Universitätsplatz,Kundgebung,,Offene Gesellschaft Kurpfalz,https://offene-gesellschaft-kurpfalz.de/13-demo-in-heidelberg/
+54412,DE,2021-12-19,14:00:00,90402,Nürnberg,Willy-Brandt-Platz,Kundgebung,,AfD,https://www.afdbayern.de
 21846,DE,2021-12-19,14:00:00,69117,Heidelberg,Universitätsplatz,Kundgebung,,Offene Gesellschaft Kurpfalz,https://offene-gesellschaft-kurpfalz.de/13-demo-in-heidelberg/
+54564,DE,2021-12-19,14:00:00,69117,Heidelberg,Universitätsplatz,Kundgebung,,Offene Gesellschaft Kurpfalz,https://offene-gesellschaft-kurpfalz.de/13-demo-in-heidelberg/
 54755,AT,2021-12-19,14:00:00,6900,Bregenz,Festspielhaus,Aufzug,,unbekannt,http://www.corona-demo.at
 54593,DE,2021-12-19,14:30:00,28832,Achim,Marktplatz,Spaziergang,,unbekannt,
 54657,DE,2021-12-19,15:00:00,78713,Schramberg,Fußgängerzone,Spaziergang,,Schramberg steht auf,https://ibb.co/1ZW52Jm
@@ -193,8 +193,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 54875,DE,2021-12-20,18:00:00,79761,Waldshut-Tiengen,Kaiserstrasse / Waldshut,Spaziergang,,unbekannt,
 54745,DE,2021-12-20,18:00:00,88690,Uhldingen-Mühlhofen,Rathaus Oberuhldingen,Spaziergang,,privat,
 54705,DE,2021-12-20,18:00:00,14959,Trebbin,Rathausplatz,Kundgebung,,unbekannt,https://t.me/StimmeFreiesBrandenburg/3552?comment=12127
-54885,DE,2021-12-20,18:00:00,70563,Stuttgart Vaihingen,Rathaus,Spaziergang,,Montagsspaziergang Stuttgart Vaihingen und Umgebung,
 54855,DE,2021-12-20,18:00:00,70563,Stuttgart Vaihingen,Rathaus,Spaziergang,,unbekannt,
+54885,DE,2021-12-20,18:00:00,70563,Stuttgart Vaihingen,Rathaus,Spaziergang,,Montagsspaziergang Stuttgart Vaihingen und Umgebung,
 54799,DE,2021-12-20,18:00:00,39576,Stendal,Marktplatz,Spaziergang,,unbekannt,
 54866,DE,2021-12-20,18:00:00,71063,Sindelfingen,Martinskirche,Spaziergang,,unbekannt,
 54842,DE,2021-12-20,18:00:00,77746,Schutterwald,Rathaus,Spaziergang,,unbekannt,
@@ -247,8 +247,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 54802,DE,2021-12-20,18:00:00,47051,Duisburg,Rathaus / Burgplatz,Aufzug,,unbekannt,
 54790,DE,2021-12-20,18:00:00,47051,Duisburg,Burgplatz vor dem Rathaus,Aufzug,,unbekannt,
 54689,DE,2021-12-20,18:00:00,63303,Dreieich Sprendlingen,Lindenplatz,Spaziergang,,unbekannt,
-54821,DE,2021-12-20,18:00:00,84405,Dorfen,Marktkirche,Spaziergang,,unbekannt,
 54772,DE,2021-12-20,18:00:00,84405,Dorfen,Marktkirche,Spaziergang,,unbekannt,
+54821,DE,2021-12-20,18:00:00,84405,Dorfen,Marktkirche,Spaziergang,,unbekannt,
 22223,DE,2021-12-20,18:00:00,06844,Dessau-Roßlau,Schloßplatz,Spaziergang,,Dessau steht auf,https://t.me/MontagsMahnwache
 54686,DE,2021-12-20,18:00:00,27753,Delmenhorst,Graft / Parkplatz,Spaziergang,,unbekannt,
 54853,DE,2021-12-20,18:00:00,53113,Bonn,Am alten Rathaus,Spaziergang,,unbekannt,
@@ -300,6 +300,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 54871,DE,2021-12-20,19:00:00,99713,Ebeleben,Markt / vor Sparkasse,Spaziergang,,unbekannt,
 54906,DE,2021-12-20,19:00:00,21614,Buxtehude,Stadtpark,Spaziergang,,Buxaktiv,http://Buxaktiv.de
 54774,DE,2021-12-20,19:00:00,99947,Bad Langensalza,Rathausbrunnen,Spaziergang,,unbekannt,
+54924,DE,2021-12-20,19:00:00,92224,Amberg,Marktplatz / am Rathaus,Mahnwache,,unbekannt,
 54752,DE,2021-12-20,19:00:00,52062,Aachen,Elisenbrunnen,Spaziergang,,Freie Bürger Aachen,
 54731,AT,2021-12-20,20:00:00,4820,Bad Ischl,Lehárkino,Versammlung,,unbekannt,https://t.me/MartinRutter/5238
 22167,AT,2021-12-21,12:00:00,1010,Wien,Löwelstr. 18 / SPÖ-Parteizentrale,Kundgebung,,Martin Rutter,https://www.direktdemokratisch.jetzt/megademo/
@@ -340,13 +341,13 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 21963,DE,2021-12-27,18:00:00,95326,Kulmbach,Marktplatz,Demonstration,,20Plus1-Bürgerbewegung,https://20plus1.de
 54768,DE,2021-12-27,18:00:00,83527,Haag in Oberbayern,Rathaus,Spaziergang,,unbekannt,
 54898,DE,2021-12-27,18:00:00,29646,Bispingen,Ole Kerk,Spaziergang,,Privat,
-21971,DE,2021-12-27,18:30:00,29221,Celle,Stechbahn / vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 21972,DE,2021-12-27,18:30:00,29221,Celle,Stechbahn / vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
+21971,DE,2021-12-27,18:30:00,29221,Celle,Stechbahn / vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 54437,DE,2021-12-27,18:30:00,99510,Apolda,Markt / Rathaus,Spaziergang,,unbekannt,
 21833,DE,2021-12-27,19:00:00,26382,Wilhelmshaven,Rathaus,Kundgebung,,Das deutsche Volk,
 21665,DE,2021-12-27,19:00:00,17033,Neubrandenburg,Marktplatz,Spaziergang,,unbekannt,
-54607,DE,2021-12-28,17:00:00,41464,Neuss,Janssen-Cilag GmbH Neuss,Mahnwache,,unbekannt,
 54604,DE,2021-12-28,17:00:00,41464,Neuss,Janssen-Cilag GmbH Pharma,Kundgebung,,unbekannt,
+54607,DE,2021-12-28,17:00:00,41464,Neuss,Janssen-Cilag GmbH Neuss,Mahnwache,,unbekannt,
 54832,DE,2021-12-28,17:00:00,61462,Königstein im Taunus,Im Rothschildpark 1 / Villa Rothschild,Mahnwache,,unbekannt,
 54801,DE,2021-12-28,18:00:00,59457,Werl,Kirchplatz 1,Gebet,,Privat,
 54612,DE,2021-12-29,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf
