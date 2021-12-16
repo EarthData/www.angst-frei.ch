@@ -28,7 +28,7 @@ Es gibt eine Karte, auf welcher sich die Gruppenmitglieder zur Vernetzung eintra
 
 Den Link zur Karte schicke ich allen die mir die eigenen Angaben per PN geschickt haben. Dann trage ich Euch auf der Karte ein und schicke euch den Link ebenfalls per PN. Da auf der Karte private Infos drauf sind und wir mittlerweile eine grosse Gruppe sind ist das so am sichersten.
 
-Folgende Angaben entweder mit per PN schicken [https://t.me/angst_frei_ch](https://t.me/angst_frei_ch) oder per eMail [info@angst-frei.ch](mailto:info@angst-frei.ch).
+Folgende Angaben entweder mir per PN schicken [https://t.me/angst_frei_ch](https://t.me/angst_frei_ch) oder per eMail [info@angst-frei.ch](mailto:info@angst-frei.ch).
 
 ### Eltern
 
@@ -66,5 +66,5 @@ Falls Ihr weder Eltern noch Lehrer seid, Euch aber trotzdem einbringen möchtet 
 
 ### Gruppenleiter
 
-Falls Ihr eine lokale Gruppe betreibt kann diese ebenfalls auf der Karte als Fläche eingezeichnet werden. Dazu brauche ich eine Kontakperson und die lokale Ausdehnung (Quartier/Kreis/Gemeinde).
+Falls Ihr eine lokale Gruppe betreibt kann diese ebenfalls auf der Karte als Fläche eingezeichnet werden. Dazu brauche ich eine Kontaktperson und die lokale Ausdehnung (Quartier/Kreis/Gemeinde).
 
