@@ -12,7 +12,7 @@ subtitle: Telegramgruppe
 
 ## Gruppenregeln
 
-Die Gruppe soll auf das Thema Homeschooling fokussiert sein. Es gibt genügend andere Gruppen welche praktisch nur aus geteilten Inhalten bestehen, in dieser Gruppe soll der Austausch im Vordergrund stehen.
+Diese Gruppe soll auf das Thema Homeschooling fokussiert sein. Es gibt genügend andere Gruppen welche praktisch nur aus geteilten Inhalten bestehen, in dieser Gruppe soll der Austausch im Vordergrund stehen.
 
 ## Einladungslink
 
