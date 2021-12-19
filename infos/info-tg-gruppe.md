@@ -33,15 +33,17 @@ Folgende Angaben entweder mir per PN schicken [https://t.me/angst_frei_ch](https
 ### Eltern
 
 |Name|Hans und Maria Muster|
-|Adresse|Xystrasse 1, 80XX Zürich|
-|Kontakt:|Hans: https://t.me/hans oder Tel. oder eMail|
+|Adresse|Xystrasse 1, PLZ Ort|
+|Kontakt|Hans: https://t.me/hans oder Tel. oder eMail|
 | |Maria: https://t.me/maria oder Tel. oder eMail|
 |Kinder|Peter: 2013, 5. Klasse|
 | |Heidi: 2017, Kindergarten|
 |Unterricht|Heimunterricht möglich oder nicht möglich|
-|Unterrichtsform|klassisch oder alternativ|
+|Unterrichtsform|*klassisch* nach Schulbuch oder *alternativ* auf Interessen der Kinder zugeschnitten|
 |Auto|ja oder nein|
 |Interessen|Interessen der Kinder oder Familie|
+
+Falls ihr anonym bleiden wollt könnt ihr z.B. nur den Vornamen angeben und die Strassennummer weglassen. Wichtig ist dass man mit Euch in Kontakt treten kann und ich einen Marker setzen kann in der Umgebung wo ihr wohnt.
 
 ### Lehrer/in
 
