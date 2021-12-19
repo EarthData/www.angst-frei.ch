@@ -1,6 +1,6 @@
 ---
 layout:   page
-title:    Homeschooling 8051
+title:    Homeschooling Stadt Zürich und Umgebung
 subtitle: Telegramgruppe
 ---
 
