@@ -10,17 +10,15 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 54945,DE,2021-12-22,17:00:00,23795,Bad Segeberg,Marktplatz,Kundgebung,https://m.twitch.tv/autokorso_se,INITIATIVE FÜR AUFKLÄRUNG & TRANSPARENZ,https://t.me/Menschen_im_Dialog_SE
 55374,DE,2021-12-22,17:30:00,45881,Gelsenkirchen,Hans Sachs Haus,Aufzug,,unbekannt,
 55367,DE,2021-12-22,18:00:00,16259,Wriezen,Marktplatz,Kundgebung,,unbekannt,
-55050,DE,2021-12-22,18:00:00,17489,Wolgast,Am Hafen Kai,Kundgebung,,unbekannt,
 55287,DE,2021-12-22,18:00:00,17438,Wolgast,Freifläche am Kai,Aufzug,,Privat,https://T.ME/WOLGASTSTEHTAUF_KANAL
+55050,DE,2021-12-22,18:00:00,17489,Wolgast,Am Hafen Kai,Kundgebung,,unbekannt,
 54806,DE,2021-12-22,18:00:00,59457,Werl,Kirchplatz 1,Gebet,,Privat,
 55250,DE,2021-12-22,18:00:00,16303,Schwedt/Oder,Vierradener Straße,Musik,,FRIEDEN-FREIHEIT-SOUVERÄNITÄT,https://t.me/frieden_freiheit_souveraenitaet
-55357,DE,2021-12-22,18:00:00,80333,München,Geschwister-Scholl-Platz,Aufzug,,München-steht-auf,http://www.muenchen-steht-auf.de
-55115,DE,2021-12-22,18:00:00,80539,München,Geschwister-Scholl-Platz / Uni,Aufzug,,München steht auf,http://www.muenchen-steht-auf.de
 54457,AT,2021-12-22,18:00:00,4020,Linz,Dreifaltigkeitssäule / Hauptpl.,Gebet,,ÖSTERREICH BETET,https://oesterreich-betet.at/
 55386,DE,2021-12-22,18:00:00,47623,Kevelaer,Kapellenplatz,Spaziergang,,unbekannt,
 55419,DE,2021-12-22,18:00:00,95478,Kemnath,Ärztehaus,Spaziergang,,unbekannt,
-55348,DE,2021-12-22,18:00:00,25348,Glückstadt,Marktplatz,Spaziergang,,unbekannt,
 55413,DE,2021-12-22,18:00:00,25348,Glückstadt,Marktplatz,Spaziergang,,unbekannt,
+55348,DE,2021-12-22,18:00:00,25348,Glückstadt,Marktplatz,Spaziergang,,unbekannt,
 54951,DE,2021-12-22,18:00:00,47179,Duisburg - Walsum,Berzirksamt /  Altes Rathaus,Spaziergang,,unbekannt,
 55137,DE,2021-12-22,18:30:00,46045,Oberhausen,Kirchplatz / Herz Jesu Kirche,Spaziergang,,Vernetzung Oberhausen & Umgebung,
 55426,DE,2021-12-22,18:30:00,04827,Machern,Markt,Spaziergang,,unbekannt,
@@ -121,8 +119,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 55397,DE,2021-12-27,18:00:00,63263,Neu Isenburg,Rathaus,Spaziergang,,unbekannt,
 55403,DE,2021-12-27,18:00:00,87719,Mindelheim,Marienbrunnen,Treffpunkt,,unbekannt,
 55432,DE,2021-12-27,18:00:00,34212,Melsungen,Marktplatz,Spaziergang,,unbekannt,
-55362,DE,2021-12-27,18:00:00,53894,Mechernich,Rathaus,Spaziergang,,Freie Bürger Mechernich,https://t.me/+BsJUIfDnbqhlN2Ey
 55360,DE,2021-12-27,18:00:00,53894,Mechernich,Rathaus,Spaziergang,,Freie Bürger Mechernich,https://t.me/+BsJUIfDnbqhlN2Ey
+55362,DE,2021-12-27,18:00:00,53894,Mechernich,Rathaus,Spaziergang,,Freie Bürger Mechernich,https://t.me/+BsJUIfDnbqhlN2Ey
 55350,DE,2021-12-27,18:00:00,55118,Mainz,Landtag,Spaziergang,,unbekannt,
 55320,DE,2021-12-27,18:00:00,39104,Magdeburg,Domplatz,Spaziergang,,unbekannt,
 55401,DE,2021-12-27,18:00:00,39108,Magdeburg,In der Nähe vom Domplatz,Spaziergang,,unbekannt,
@@ -158,8 +156,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 55421,DE,2021-12-27,18:30:00,67433,Neustadt an der Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,
 55370,DE,2021-12-27,18:30:00,95119,Naila,Marktplatz / vor Rathaus,Spaziergang,,Jeder für sich,
 55435,DE,2021-12-27,18:30:00,04910,Elsterwerda,Marktplatz,Spaziergang,,unbekannt,
-21972,DE,2021-12-27,18:30:00,29221,Celle,Stechbahn / vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 21971,DE,2021-12-27,18:30:00,29221,Celle,Stechbahn / vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
+21972,DE,2021-12-27,18:30:00,29221,Celle,Stechbahn / vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 54437,DE,2021-12-27,18:30:00,99510,Apolda,Markt / Rathaus,Spaziergang,,unbekannt,
 21833,DE,2021-12-27,19:00:00,26382,Wilhelmshaven,Rathaus,Kundgebung,,Das deutsche Volk,
 55428,DE,2021-12-27,19:00:00,42651,Solingen,Rathaus,Spaziergang,,unbekannt,
