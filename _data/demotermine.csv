@@ -21,8 +21,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 55342,DE,2021-12-26,15:00:00,55469,Simmern,Schlossplatz/Messerich,Kundgebung,,unbekannt,
 55302,DE,2021-12-26,15:00:00,23909,Ratzeburg,Rathaus Ratzeburg,Spaziergang,,WIDERSTAND JETZT,https://widerstand-jetzt.com/weihnachten-spaziergang-ratzeburg/
 55237,DE,2021-12-26,15:00:00,41236,Mönchengladbach,Marktplatz Rheydt,Spaziergang,,MG Demo,https://mg-demo.de/
-55551,DE,2021-12-26,15:00:00,22305,Hamburg,S-Bahn Barmbek / Globetrotter,Spaziergang,,Unbekannt,
 55494,DE,2021-12-26,15:00:00,22306,Hamburg,U/S-Bhf. Barmbek / Globetrotter,Aufzug,,unbekannt,
+55551,DE,2021-12-26,15:00:00,22305,Hamburg,S-Bahn Barmbek / Globetrotter,Spaziergang,,Unbekannt,
 22195,DE,2021-12-26,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,https://t.me/CUXHAVEN_PROTEST
 55553,DE,2021-12-26,15:00:00,46236,Bottrop,Osterfelder Str. 47,Aufzug,,1. Bottroper Versöhnungsdemo für Geimpfte und Ungeimpfte,https://t.me/AufzugInfokanalBundesweit/1132
 55467,DE,2021-12-26,15:00:00,97980,Bad Mergentheim,Marktplatz,Spaziergang,,unbekannt,
@@ -31,14 +31,15 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 55544,DE,2021-12-26,16:00:00,17139,Malchin,Rathaus,Kundgebung,,unbekannt,
 55472,DE,2021-12-26,17:00:00,88353,Kißlegg,Schlosspark,Spaziergang,,unbekannt,
 55398,DE,2021-12-26,17:00:00,39288,Burg,Rolandplatz,Spaziergang,,unbekannt,
-55404,DE,2021-12-26,18:00:00,97421,Schweinfurt,Zentrum,Spaziergang,,unbekannt,
 55469,DE,2021-12-26,18:00:00,97422,Schweinfurt,Marktplatz,Spaziergang,,unbekannt,
+55404,DE,2021-12-26,18:00:00,97421,Schweinfurt,Zentrum,Spaziergang,,unbekannt,
 55092,DE,2021-12-26,18:00:00,97421,Scheinfurt,Zentrum,Spaziergang,,keine,
 55514,DE,2021-12-26,18:00:00,09322,Penig,Marktplatz,Spaziergang,,unbekannt,
 55271,DE,2021-12-26,18:00:00,31275,Lehrte,Brunnen Kurt-Hirschfeld-Forum,Spaziergang,,Freies Lehrte,https://t.me/freieslehrte
 55449,DE,2021-12-27,06:00:00,90556,Cadolzburg,Rathaus,Sonstiges,,unbekannt,
 55395,DE,2021-12-27,16:00:00,15562,Rüdersdorf bei Berlin,Marktplatz,Spaziergang,,unbekannt,
 21814,DE,2021-12-27,16:00:00,18055,Rostock,Stadthafen / am Strande,Menschenkette,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
+55568,DE,2021-12-27,17:00:00,17166,Teterow,Hechtbrunnen,Spaziergang,,Teterower gegen Impfpflicht,https://t.me/Teterow_steht_auf/1027
 21815,DE,2021-12-27,17:00:00,18055,Rostock,Rosengarten,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 55466,DE,2021-12-27,17:00:00,30952,Ronnenberg,Dorfgemeinschaftshaus,Kundgebung,,unbekannt,
 55518,DE,2021-12-27,17:00:00,88471,Laupheim,17 Uhr Fußgängerbrücke Rottum,Spaziergang,,Bürger,
@@ -57,6 +58,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 55484,DE,2021-12-27,17:45:00,14612,Falkensee,Rathaus / ggü.,Aufzug,,unbekannt,
 55081,DE,2021-12-27,17:45:00,73479,Ellwangen,Schöner Graben,Spaziergang,,keine,
 54800,DE,2021-12-27,18:00:00,59457,Werl,Kirchplatz 1,Gebet,,Privat,
+55570,DE,2021-12-27,18:00:00,73240,Wendlingen,Rathaus,Spaziergang,,unbekannt,
 55465,DE,2021-12-27,18:00:00,83512,Wasserburg am Inn,Rathaus,Spaziergang,,unbekannt,
 54769,DE,2021-12-27,18:00:00,83512,Wasserburg am Inn,Rathaus,Spaziergang,,unbekannt,
 55347,DE,2021-12-27,18:00:00,88239,Wangen im Allgäu,Innenstadt,Spaziergang,,unbekannt,
@@ -82,18 +84,19 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 55349,DE,2021-12-27,18:00:00,87724,Ottobeuren,Rathaus,Spaziergang,,unbekannt,
 55441,DE,2021-12-27,18:00:00,16515,Oranienburg,Schlossplatz,Aufzug,,Oberhavel steht auf,http://www.oberhavel-steht-auf.de
 55379,DE,2021-12-27,18:00:00,77652,Offenburg,Wasserstr. / City-Parkhaus,Spaziergang,,unbekannt,
+55569,DE,2021-12-27,18:00:00,72622,Nürtingen,Rathaus,Spaziergang,,unbekannt,
 55503,DE,2021-12-27,18:00:00,41464,Neuss,Quirinus Münster Platz,Spaziergang,,unbekannt,https://t.me/+9uAJED6IDws3NmIy
 55226,DE,2021-12-27,18:00:00,24539,Neumünster,Rathaus,Spaziergang,,unbekannt,
 55397,DE,2021-12-27,18:00:00,63263,Neu Isenburg,Rathaus,Spaziergang,,unbekannt,
 55498,DE,2021-12-27,18:00:00,48431,Münster,Domplatz,Spaziergang,,Bürger vor Ort,
 55403,DE,2021-12-27,18:00:00,87719,Mindelheim,Marienbrunnen,Treffpunkt,,unbekannt,
 55432,DE,2021-12-27,18:00:00,34212,Melsungen,Marktplatz,Spaziergang,,unbekannt,
-55362,DE,2021-12-27,18:00:00,53894,Mechernich,Rathaus,Spaziergang,,Freie Bürger Mechernich,https://t.me/+BsJUIfDnbqhlN2Ey
 55360,DE,2021-12-27,18:00:00,53894,Mechernich,Rathaus,Spaziergang,,Freie Bürger Mechernich,https://t.me/+BsJUIfDnbqhlN2Ey
-55563,DE,2021-12-27,18:00:00,55116,Mainz,Landtag / davor,Spaziergang,,unbekannt,
+55362,DE,2021-12-27,18:00:00,53894,Mechernich,Rathaus,Spaziergang,,Freie Bürger Mechernich,https://t.me/+BsJUIfDnbqhlN2Ey
 55350,DE,2021-12-27,18:00:00,55118,Mainz,Landtag,Spaziergang,,unbekannt,
-55320,DE,2021-12-27,18:00:00,39104,Magdeburg,Domplatz,Spaziergang,,unbekannt,
+55563,DE,2021-12-27,18:00:00,55116,Mainz,Landtag / davor,Spaziergang,,unbekannt,
 55401,DE,2021-12-27,18:00:00,39108,Magdeburg,In der Nähe vom Domplatz,Spaziergang,,unbekannt,
+55320,DE,2021-12-27,18:00:00,39104,Magdeburg,Domplatz,Spaziergang,,unbekannt,
 55482,DE,2021-12-27,18:00:00,44532,Lünen,Stadtmitte / individuell,Spaziergang,,unbekannt,https://t.me/luenendenktanders
 55354,DE,2021-12-27,18:00:00,71636,Ludwigsburg,Marktplatz / Brunnen,Lichterkette,,unbekannt,
 54640,DE,2021-12-27,18:00:00,96215,Lichtenfels,Marktplatz,Mahnwache,,unbekannt,
@@ -107,6 +110,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 55376,DE,2021-12-27,18:00:00,04567,Kitzscher,Rathaus,Spaziergang,,unbekannt,
 55390,DE,2021-12-27,18:00:00,73230,Kirchheim/Teck,Rathausplatz,Spaziergang,,unbekannt,
 55341,DE,2021-12-27,18:00:00,55481,Kirchberg,Kirchplatz / Marktplatz,Spaziergang,,unbekannt,
+55567,DE,2021-12-27,18:00:00,50171,Kerpen,Stiftsstr. / Parkpl. hinter MacDoof,Demonstration,,Freiheitsboten Kerpen,https://t.me/freiheitsboten_kerpen/12932
 55317,DE,2021-12-27,18:00:00,34119,Kassel,Friedenskirche,Kundgebung,,Freie Bürger Kassel,https://freiebuergerkassel.de/
 55443,DE,2021-12-27,18:00:00,71083,Herrenberg,Marktplatz,Spaziergang,,unbekannt,
 55487,DE,2021-12-27,18:00:00,21029,Hamburg/Bergedorf,Johann-Adolf-Hasse-Platz,Kundgebung,,Ortsgruppe Bergedorf und Umgebung,
@@ -122,16 +126,17 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 55516,DE,2021-12-27,18:00:00,91054,Erlangen,Martin-Luther-Platz,Spaziergang,,unbekannt,
 55486,DE,2021-12-27,18:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Demonstration,,Montagsdemo Düsseldorf,https://t.me/montagsdemoduesseldorf
 55396,DE,2021-12-27,18:00:00,63303,Dreieich Sprendlingen,Lindenplatz,Spaziergang,,unbekannt,
-55508,DE,2021-12-27,18:00:00,63303,Dreieich / Dreieichenhain,Parkplatz am Weiher,Spaziergang,,unbekannt,
 55400,DE,2021-12-27,18:00:00,63303,Dreieich / Dreieichenhain,Untertor,Kundgebung,,unbekannt,
+55508,DE,2021-12-27,18:00:00,63303,Dreieich / Dreieichenhain,Parkplatz am Weiher,Spaziergang,,unbekannt,
+55566,DE,2021-12-27,18:00:00,63303,Dreieich,Parkplatz Burgweiher Dreieich,Mahnwache,,unbekannt,
 55448,DE,2021-12-27,18:00:00,44137,Dortmund,Wallring,Spaziergang,,unbekannt,
 55483,DE,2021-12-27,18:00:00,44137,Dortmund,Wallring / frei wählbar,Spaziergang,,unbekannt,
 55517,DE,2021-12-27,18:00:00,84405,Dorfen,Marktkirche,Spaziergang,,unbekannt,
 55438,DE,2021-12-27,18:00:00,03253,Doberlug-Kirchhain,Markt,Spaziergang,,unbekannt,
 55336,DE,2021-12-27,18:00:00,06844,Dessau-Roßlau,Schloßplatz,Spaziergang,,Dessau steht auf,https://t.me/MontagsMahnwache
 55537,DE,2021-12-27,18:00:00,74564,Crailsheim,Rathaus,Spaziergang,,unbekannt,
-55363,DE,2021-12-27,18:00:00,75365,Calw,Marktplatz / vor Kaufland,Spaziergang,,unbekannt,
 55485,DE,2021-12-27,18:00:00,75365,Calw,Rathaus,Spaziergang,,unbekannt,
+55363,DE,2021-12-27,18:00:00,75365,Calw,Marktplatz / vor Kaufland,Spaziergang,,unbekannt,
 55529,DE,2021-12-27,18:00:00,23769,Burg auf Fehmarn,Nikolinchen / Kindergarten,Spaziergang,,Privat,
 55477,DE,2021-12-27,18:00:00,28201,Bremen,Rathaus,Spaziergang,,unbekannt,
 55383,DE,2021-12-27,18:00:00,79848,Bonndorf,Rathaus,Spaziergang,,unbekannt,
@@ -145,15 +150,17 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 55521,DE,2021-12-27,18:00:00,36251,Bad Hersfeld,Linggplatz,Spaziergang,,unbekannt,
 55420,DE,2021-12-27,18:00:00,26603,Aurich,Rathaus / b. d. Wasserspielen,Spaziergang,,unbekannt,
 55549,DE,2021-12-27,18:15:00,45479,Mülheim an der Ruhr,Parkplatz Stadthalle,Spaziergang,,Coronasaurus,http://coronasaurus.de/
+55564,DE,2021-12-27,18:15:00,45479,Mühlheim an der Ruhr,Stadthalle / Schloß Broich,Aufzug,,Coronasaurus / MontagspaziergangMuelheim,www.coronasaurus.de
 55473,DE,2021-12-27,18:30:00,82515,Wolfratshausen,Kirche / Nantwein / Edeka / Parkplatz,Spaziergang,,unbekannt,
 55421,DE,2021-12-27,18:30:00,67433,Neustadt an der Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,
+55565,DE,2021-12-27,18:30:00,17033,Neubrandenburg,Marktplatz,Spaziergang,,unbekannt,
 55370,DE,2021-12-27,18:30:00,95119,Naila,Marktplatz / vor Rathaus,Spaziergang,,Jeder für sich,
 55552,DE,2021-12-27,18:30:00,86558,Hohenwart,Marktplatz,Spaziergang,,unbekannt,
 55554,DE,2021-12-27,18:30:00,37412,Herzberg am Harz,Parkplatz v.d. Skaterplatz,Spaziergang,,unbekannt,
 55562,DE,2021-12-27,18:30:00,88045,Friedrichshafen,Gondelhafen,Spaziergang,,unbekannt,
 55435,DE,2021-12-27,18:30:00,04910,Elsterwerda,Marktplatz,Spaziergang,,unbekannt,
-21971,DE,2021-12-27,18:30:00,29221,Celle,Stechbahn / vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 21972,DE,2021-12-27,18:30:00,29221,Celle,Stechbahn / vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
+21971,DE,2021-12-27,18:30:00,29221,Celle,Stechbahn / vor Kirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 54437,DE,2021-12-27,18:30:00,99510,Apolda,Markt / Rathaus,Spaziergang,,unbekannt,
 21833,DE,2021-12-27,19:00:00,26382,Wilhelmshaven,Rathaus,Kundgebung,,Das deutsche Volk,
 55428,DE,2021-12-27,19:00:00,42651,Solingen,Rathaus,Spaziergang,,unbekannt,
@@ -221,16 +228,16 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 54815,DE,2022-01-04,18:00:00,59457,Werl,Kirchplatz 1,Gebet,,Privat,
 54817,DE,2022-01-05,18:00:00,59457,Werl,Kirchplatz 1,Gebet,,Privat,
 55534,DE,2022-01-05,18:00:00,84130,Dingolfing,Mariengrotte bei St. Johannes,Gebet,,unbekannt,
-55382,DE,2022-01-06,16:00:00,89518,Heidenheim,Rathaus,Demonstration,,unbekannt,
 55171,DE,2022-01-06,16:00:00,89518,Heidenheim,Rathausplatz,Demonstration,,Pflegekräfte Service GmbH,
+55382,DE,2022-01-06,16:00:00,89518,Heidenheim,Rathaus,Demonstration,,unbekannt,
 54468,DE,2022-01-08,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf
 54467,DE,2022-01-08,11:45:00,29221,Celle,Brandplatz,Kundgebung,,Celle steht auf,https://t.me/cellestehtauf
 55461,DE,2022-01-08,14:00:00,84028,Landshut,Ringelstecherwiese,Kundgebung,,Gerhard Pettenkofer | Adlkofen,http://pettenkofer-direkt.com/
 55210,DE,2022-01-08,14:00:00,79098,Freiburg im Breisgau,Platz der Synagoge,Demonstration,,unbekannt,
 55283,DE,2022-01-08,14:30:00,79539,Lörrach,Marktplatz,Mahnwache,,unbekannt,
 55495,DE,2022-01-08,15:00:00,50667,Köln,Offenbachplatz,Demonstration,,Köln ist aktiv,http://koelnistaktiv.de
-21899,DE,2022-01-08,15:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,
 55532,DE,2022-01-08,15:00:00,20095,Hamburg,Kunsthalle,Demonstration,,unbekannt,
+21899,DE,2022-01-08,15:00:00,20099,Hamburg,Ernst-Merck-Str. / Kunsthalle,Aufzug,,Unbekannt,
 55496,DE,2022-01-08,16:00:00,50667,Köln,Offenbachplatz,Spaziergang,,Köln ist aktiv,http://koelnistaktiv.de
 55296,DE,2022-01-09,14:00:00,68159,Mannheim,Marktplatz / G1,Kundgebung,,Offene Gesellschaft Kurpfalz,https://offges.de/demo14mannheim/
 54873,DE,2022-01-09,14:00:00,60313,Frankfurt am Main,Opernplatz,Schweigemarsch,,unbekannt,
