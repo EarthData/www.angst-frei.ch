@@ -1,0 +1,155 @@
+*{
+	box-sizing:border-box;
+}
+body{
+	background-color:#abd9e9;
+	font-family:Arial;
+}
+#container{
+	width:100%;
+	height:600px;
+	background:white;
+	margin:0 auto;
+	font-size:0;
+	border-radius:5px;
+	overflow:hidden;
+}
+main{
+	width:100%;
+	height:600px;
+	display:inline-block;
+	font-size:15px;
+	vertical-align:top;
+}
+main .inner_div{
+	padding-left:0;
+	margin:0;
+	list-style-type:none;
+	position:relative;
+	overflow:auto;
+	height:500px;
+        background-color: white;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	position: relative;
+	border-top:2px solid #fff;
+	border-bottom:2px solid #fff;
+	
+}
+main .triangle{
+	width: 0;
+	height: 0;
+	border-style: solid;
+	border-width: 0 8px 8px 8px;
+	border-color: transparent
+	transparent #58b666 transparent;
+	margin-left:20px;
+	clear:both;
+}
+main .message{
+	padding:10px;
+	color:#000;
+	margin-left:15px;
+	background-color:#58b666;
+	line-height:20px;
+	max-width:90%;
+	display:inline-block;
+	text-align:left;
+	border-radius:5px;
+	clear:both;
+}
+main .triangle1{
+	width: 0;
+	height: 0;
+	border-style: solid;
+	border-width: 0 8px 8px 8px;
+	border-color: transparent
+transparent #6fbced transparent;
+	margin-right:20px;
+	float:right;
+	clear:both;
+}
+main .message1{
+	padding:10px;
+	color:#000;
+	margin-right:15px;
+	background-color:#6fbced;
+	line-height:20px;
+	max-width:90%;
+	display:inline-block;
+	text-align:left;
+	border-radius:5px;
+	float:right;
+	clear:both;
+}
+main .triangle2{
+	width: 0;
+	height: 0;
+	border-style: solid;
+	border-width: 0 8px 8px 8px;
+	border-color: transparent
+	transparent #58b666 transparent;
+	margin-left:20px;
+	clear:both
+}
+main .message2{
+	padding:10px;
+	color:#000;
+	margin-left:15px;
+	background-color:#58b666;
+	line-height:20px;
+	max-width:90%;
+	display:inline-block;
+	text-align:left;
+	border-radius:5px;
+	clear:both
+}
+main footer{
+	height:150px;
+	padding:20px 30px 10px 20px;
+	background-color:#622569;
+}
+main footer .input1{
+	resize:none;
+	border:100%;
+	display:block;
+	width:100%;
+	height:55px;
+	border-radius:3px;
+	padding:20px;
+	font-size:13px;
+	margin-bottom:13px;
+}
+main footer textarea{
+	resize:none;
+	border:100%;
+	display:block;
+	width:100%;
+	height:55px;
+	border-radius:3px;
+	padding:20px;
+	font-size:13px;
+	margin-bottom:13px;
+	margin-left:20px;
+}
+main footer .input2{
+	resize:none;
+	border:100%;
+	display:block;
+	width:40%;
+	height:55px;
+	border-radius:3px;
+	padding:20px;
+	font-size:13px;
+	margin-bottom:13px;
+	margin-left:100px;
+	color:white;
+	text-align:center;
+	background-color:black;
+	border: 2px solid white;
+}
+main footer textarea::placeholder{
+	color:#ddd;
+}
+
