@@ -19,21 +19,21 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 54612,DE,2021-12-29,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf
 54613,DE,2021-12-29,11:45:00,29221,Celle,Brandplatz,Kundgebung,,Celle steht auf,https://t.me/cellestehtauf
 66878,DE,2021-12-29,15:00:00,52062,Aachen,Kugelbrunnen,Mahnwache,,Freie Bürger Aachen,
+66940,DE,2021-12-29,17:00:00,70182,Stuttgart,Wilhelmsplatz,Demonstration,,Privat,https://app.querdenken-711.de/events-calendar/View/08633394-1d8c-4b56-a04b-f5bcdc950bf4/29-12-2021
 55470,DE,2021-12-29,17:00:00,70173,Stuttgart,Karlsplatz,Aufzug,,unbekannt,
 66819,DE,2021-12-29,17:00:00,70173,Stuttgart,Karlsplatz,Aufzug,,Privat,
-66940,DE,2021-12-29,17:00:00,70182,Stuttgart,Wilhelmsplatz,Demonstration,,Privat,https://app.querdenken-711.de/events-calendar/View/08633394-1d8c-4b56-a04b-f5bcdc950bf4/29-12-2021
 67005,DE,2021-12-29,17:00:00,58332,Schwelm,Pilzkiosk am Bürgerplatz,Spaziergang,,DankeESreicht!,
 66858,DE,2021-12-29,17:00:00,84028,Landshut,Freyung / St. Jodok / Vorpl.,Gebet,,Kraftquelle Gebet,
 55579,DE,2021-12-29,17:30:00,45878,Gelsenkirchen,Hans Sachs Haus,Aufzug,,unbekannt,
 66910,AT,2021-12-29,18:00:00,4755,Zell an der Pram,Musikheim,Lichterkette,,Lichtermeer für Frieden u. Freiheit,
-66893,DE,2021-12-29,18:00:00,97070,Würzburg,Unterer Markt,Aufzug,,unbekannt,
 66707,DE,2021-12-29,18:00:00,97070,Würzburg,Marktplatz,Aufzug,,unbekannt,
+66893,DE,2021-12-29,18:00:00,97070,Würzburg,Unterer Markt,Aufzug,,unbekannt,
 66930,DE,2021-12-29,18:00:00,17438,Wolgast,Kai / Freifläche,Aufzug,,Privat,
 54810,DE,2021-12-29,18:00:00,59457,Werl,Kirchplatz 1,Gebet,,Privat,
 66676,DE,2021-12-29,18:00:00,16303,Schwedt,Vierradener Straße,Musik,,FRIEDEN-FREIHEIT-SOUVERÄNITÄT,https://t.me/frieden_freiheit_souveraenitaet
 55558,DE,2021-12-29,18:00:00,80539,München,Geschwister-Scholl-Platz,Demonstration,,München steht auf,
-66911,AT,2021-12-29,18:00:00,3390,Melk,Hauptplatz,Spaziergang,,Unbekannt,
 66687,AT,2021-12-29,18:00:00,3390,Melk,Hauptplatz,Kundgebung,,unbekannt,https://t.me/alexander_ehrlich/8797
+66911,AT,2021-12-29,18:00:00,3390,Melk,Hauptplatz,Spaziergang,,Unbekannt,
 66821,DE,2021-12-29,18:00:00,88677,Markdorf,Rathausplatz,Schweigemarsch,,unbekannt,
 66939,DE,2021-12-29,18:00:00,41334,Lobberich,zwischen Rathaus und Sparkasse,Spaziergang,,unbekannt,
 66845,DE,2021-12-29,18:00:00,95478,Kemnath,Ärztehaus,Spaziergang,,unbekannt,
@@ -68,8 +68,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 66710,DE,2021-12-31,13:00:00,63739,Aschaffenburg,Volksfestplatz,Demonstration,,unbekannt,
 66897,NL,2021-12-31,14:00:00,6369,AH Simpelveld,Markt,Kundgebung,,unbekannt,https://t.me/euregio_united/48
 21964,DE,2021-12-31,16:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.de
-55540,AT,2021-12-31,16:30:00,6900,Bregenz,Vor der Bezirkshauptmannschaft,Kundgebung,,unbekannt,https://t.me/DDay_2_0_Austria_Chat/48574
 66915,AT,2021-12-31,16:30:00,6900,Bregenz,BH Bregenz,Demonstration,,unbekannt,
+55540,AT,2021-12-31,16:30:00,6900,Bregenz,Vor der Bezirkshauptmannschaft,Kundgebung,,unbekannt,https://t.me/DDay_2_0_Austria_Chat/48574
 66913,AT,2021-12-31,17:00:00,1010,Wien,Schwarzenbergplatz,Event,,Unbekannt,
 66689,AT,2021-12-31,17:00:00,8430,Leibnitz,EKZ Leibnitz Wasserwerkstraße,Spaziergang,,unbekannt,https://t.me/DDay_2_0_Austria_Chat/48820
 66917,AT,2021-12-31,17:00:00,8430,Leibnitz,EKZ Leibnitz / Basta,Spaziergang,,Unbekannt,
@@ -112,6 +112,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 67009,AT,2022-01-02,15:00:00,6900,Bregenz,Festspielhaus,Kundgebung,,unbekannt,http://www.corona-demo.at
 66852,DE,2022-01-02,16:00:00,26441,Jever,Am Wall / Brauerei,Spaziergang,,Privat,
 67004,DE,2022-01-02,17:00:00,58285,Gevelsberg,Untere Fußgängerzone,Spaziergang,,gevelsberg_denkt_frei,
+67017,DE,2022-01-02,17:00:00,82256,Fürstenfeldbruck,Am alten Rathaus,Mahnwache,,unbekannt,
 66991,DE,2022-01-02,18:00:00,97421,Schweinfurt,Marktplatz,Spaziergang,,unbekannt,
 66905,DE,2022-01-02,18:00:00,31275,Lehrte,Kurt-Hirschfeld-Forum / Brunnen,Spaziergang,,Freies Lehrte,https://t.me/freieslehrte
 67012,DE,2022-01-02,18:00:00,99897,Friedrichroda,Hauptstr. / v.d. Kloßtheater,Spaziergang,,unbekannt,
@@ -162,6 +163,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 55462,DE,2022-01-03,18:00:00,83527,Haag in Oberbayern,Rathaus,Spaziergang,,unbekannt,
 67011,DE,2022-01-03,18:00:00,99867,Gotha,Hauptmarkt,Spaziergang,,unbekannt,
 66997,DE,2022-01-03,18:00:00,82256,Fürstenfeldbruck,Volksfestplatz,Spaziergang,,unbekannt,
+67016,DE,2022-01-03,18:00:00,82256,Fürstenfeldbruck,Volksfestplatz,Spaziergang,,unbekannt,
 66970,DE,2022-01-03,18:00:00,26169,Friesoythe,Rathaus,Spaziergang,,unbekannt,
 66986,DE,2022-01-03,18:00:00,91301,Forchheim,Rathaus / Fußgängerzone,Spaziergang,,unbekannt,
 66949,DE,2022-01-03,18:00:00,64859,Eppertshausen,Rathaus,Spaziergang,,unbekannt,
