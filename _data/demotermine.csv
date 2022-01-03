@@ -157,8 +157,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 66984,DE,2022-01-03,18:00:00,16515,Oranienburg,Schlossplatz,Aufzug,,Oberhavel steht auf,http://www.ohv-steht-auf.de
 66969,DE,2022-01-03,18:00:00,26123,Oldenburg,Rathaus,Spaziergang,,unbekannt,
 66999,DE,2022-01-03,18:00:00,77652,Offenburg,Wasserstr. / City-Parkhaus,Spaziergang,,unbekannt,
-67752,DE,2022-01-03,18:00:00,88416,Ochsenhausen,Rathaus,Spaziergang,,unbekannt
-,
+67752,DE,2022-01-03,18:00:00,88416,Ochsenhausen,Rathaus,Spaziergang,,unbekannt,
 67630,AT,2022-01-03,18:00:00,7400,Oberwart,Kath. Kirche,Spaziergang,,unbekannt,
 67088,DE,2022-01-03,18:00:00,36280,Oberaula,Rathaus,Spaziergang,,,
 67528,DE,2022-01-03,18:00:00,72622,Nürtingen,Rathaus,Spaziergang,,unbekannt,
@@ -176,8 +175,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 67622,DE,2022-01-03,18:00:00,92318,Neumarkt,Rathaus,Spaziergang,,unbekannt,
 67190,DE,2022-01-03,18:00:00,49828,Neuenhaus,Brunnen d. reformierten Kirche,Spaziergang,,,
 66950,DE,2022-01-03,18:00:00,63263,Neu-Isenburg,Marktplatz,Spaziergang,,unbekannt,
-67760,DE,2022-01-03,18:00:00,74172,Neckarsulm Obereisesheim,Rathaus,Spaziergang,,unbekannt
-,
+67760,DE,2022-01-03,18:00:00,74172,Neckarsulm Obereisesheim,Rathaus,Spaziergang,,unbekannt,
 67758,DE,2022-01-03,18:00:00,74172,Neckarsulm,Rathaus,Spaziergang,,unbekannt,
 67626,DE,2022-01-03,18:00:00,14641,Nauen,Rathausplatz,Spaziergang,,Privater Anmelder,
 67206,DE,2022-01-03,18:00:00,29633,Munster (Örtze),Rathaus,Spaziergang,,,
@@ -624,8 +622,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 67620,DE,2022-01-10,18:00:00,93047,Regensburg,Altes Rathaus,Treffpunkt,,unbekannt,https://t.me/Demotermine/35370
 66792,DE,2022-01-10,18:00:00,87724,Ottobeuren,Marktplatz,Spaziergang,,unbekannt,
 67623,DE,2022-01-10,18:00:00,92318,Neumarkt,Rathaus,Spaziergang,,unbekannt,
-67744,DE,2022-01-10,18:00:00,53894,Mechernich,Rathaus,Spaziergang,,unbekannt
-,
+67744,DE,2022-01-10,18:00:00,53894,Mechernich,Rathaus,Spaziergang,,unbekannt,
 67585,DE,2022-01-10,18:00:00,85229,Markt Indersdorf,Marktplatz,Spaziergang,,unbekannt,
 66871,DE,2022-01-10,18:00:00,96215,Lichtenfels,Marktplatz,Mahnwache,,unbekannt,
 66907,DE,2022-01-10,18:00:00,63225,Langen (Hessen),Bahnstr. / Goethestr.,Spaziergang,,unbekannt,
@@ -634,22 +631,18 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 67431,DE,2022-01-10,18:00:00,14612,Falkensee,Rathaus,Spaziergang,,Friedenslicht Falkensee,https://t.me/friedenslichtfalkensee
 67746,DE,2022-01-10,18:00:00,53879,Euskirchen,Annaturmplatz,Spaziergang,,unbekannt
 ,
-67759,DE,2022-01-10,18:00:00,40699,Erkrath,Vor der evangelischen Kirche,Spaziergang,,unbekannt
-,
-67708,DE,2022-01-10,18:00:00,50374,Erftstadt Lechenich,Bonner Tor,Spaziergang,,unbekannt
-,
+67759,DE,2022-01-10,18:00:00,40699,Erkrath,Vor der evangelischen Kirche,Spaziergang,,unbekannt,
+67708,DE,2022-01-10,18:00:00,50374,Erftstadt Lechenich,Bonner Tor,Spaziergang,,unbekannt,
 67627,DE,2022-01-10,18:00:00,32756,Detmold,Rathausvorplatz,Spaziergang,,unbekannt,https://t.me/Demotermine/35577
 67754,DE,2022-01-10,18:00:00,97616,Bad Neustadt a. d. Saale,Marktplatz,Spaziergang,,Füreinandia,
-67741,DE,2022-01-10,18:00:00,97980,Bad Mergentheim,Marktplatz,Spaziergang,,unbekannt
-,
+67741,DE,2022-01-10,18:00:00,97980,Bad Mergentheim,Marktplatz,Spaziergang,,unbekannt,
 67756,DE,2022-01-10,18:30:00,67547,Worms,Luther Denkmal,Spaziergang,,unbekannt
 ,
 66979,DE,2022-01-10,18:30:00,29221,Celle,Stechbahn / vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 67003,DE,2022-01-10,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,
 67440,DE,2022-01-10,18:30:00,99510,Apolda,Markt/ Rathaus,Spaziergang,,unbekannt,
 22179,DE,2022-01-10,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
-67745,DE,2022-01-10,19:00:00,16303,Schwedt,Vierradener Straße,Spaziergang,,unbekannt
-,
+67745,DE,2022-01-10,19:00:00,16303,Schwedt,Vierradener Straße,Spaziergang,,unbekannt,
 67465,DE,2022-01-10,19:00:00,86720,Nördlingen,Rathaus,Spaziergang,,unbekannt,
 66757,DE,2022-01-10,19:00:00,22846,Norderstedt,Moorbekpark / Spektrum Kino,Spaziergang,,SCHLUSS mit FREIheitsEntzug,
 67488,DE,2022-01-10,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,https://www.youtube.com/channel/UCyckV8FpsxAs_2HefVigObQ/about,Neubrandenburger Spaziergang,https://www.facebook.com/profile.php?id=100064165685101
@@ -680,10 +673,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 67624,DE,2022-01-17,18:00:00,92318,Neumarkt,Rathaus,Spaziergang,,unbekannt,
 66872,DE,2022-01-17,18:00:00,96215,Lichtenfels,Marktplatz,Mahnwache,,unbekannt,
 67638,DE,2022-01-17,18:00:00,95326,Kulmbach,Marktplatz,Demonstration,,20Plus1-Bürgerbewegung,https://20plus1.de
-67742,DE,2022-01-17,18:00:00,97980,Bad Mergentheim,Marktplatz,Spaziergang,,unbekannt
-,
-67757,DE,2022-01-17,18:30:00,67547,Worms,Luther Denkmal,Kundgebung,,unbekannt
-,
+67742,DE,2022-01-17,18:00:00,97980,Bad Mergentheim,Marktplatz,Spaziergang,,unbekannt,
+67757,DE,2022-01-17,18:30:00,67547,Worms,Luther Denkmal,Kundgebung,,unbekannt,
 66980,DE,2022-01-17,18:30:00,29221,Celle,Stechbahn / vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 67441,DE,2022-01-17,18:30:00,99510,Apolda,Markt / Rathaus,Spaziergang,,unbekannt,
 22180,DE,2022-01-17,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,unbekannt,
