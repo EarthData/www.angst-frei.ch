@@ -4,6 +4,10 @@ title:    Interaktiv
 subtitle: Zahlen, Fakten
 ---
 
+## Karten
+
+ * [Zertifikatsfreie Angebote in der Schweiz](https://maps.angst-frei.ch/)
+
 ## Timeline
 
  * [Plandemie]({{ site.baseurl }}/timeline/plandemie.html)
