@@ -21,7 +21,9 @@ permalink: /json/event-data.json
       {% assign url = "" %}
     {% endif %}
  
-    {% capture title %}{{event.stadt}}, {{event.treffpunkt}}, {{event.protestform}}{% endcapture %}
+    {% capture stadt %}{{event.stadt | replace: "	", " "}}{% endcapture %}
+    {% capture treffpunkt %}{{event.treffpunkt | replace: "	", " "}}{% endcapture %}
+    {% capture title %}{{stadt}}, {{treffpunkt}}, {{event.protestform}}{% endcapture %}
 
     { "id":"{{event.id}}", "color":"{{color}}", "title":"{{title}}", "start": "{{event.datum}}T{{event.uhrzeit}}", "allDay":false, "country":"{{event.land}}", "stream":"{{event.livestream}}", "url":"{{url}}" }
     {%unless forloop.last %},{%endunless%}
