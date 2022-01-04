@@ -107,3 +107,4 @@ end
 
 process_data(2020);
 process_data(2021);
+process_data(2022);

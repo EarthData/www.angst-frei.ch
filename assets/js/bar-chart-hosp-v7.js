@@ -283,10 +283,14 @@ const graph = async (year, region, type) => {
 const build = async () => {
   await graph(2020, "CHFL", "covid");
   await graph(2021, "CHFL", "covid");
+  await graph(2022, "CHFL", "covid");
   await graph(2021, "CHFL", "vacc_age");
+  await graph(2022, "CHFL", "vacc_age");
   await graph(2021, "CHFL", "vacc_type");
+  await graph(2022, "CHFL", "vacc_type");
   await graph(2020, "ZH", "covid");
   await graph(2021, "ZH", "covid");
+  await graph(2022, "ZH", "covid");
 }
 
 build();
@@ -300,4 +304,5 @@ d3.select("#selectButton").on("change", function(d) {
 const changeDrop = async(region) => {
   await graph(2020, region, "covid");
   await graph(2021, region, "covid");
+  await graph(2022, region, "covid");
 }

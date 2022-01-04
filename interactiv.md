@@ -7,6 +7,7 @@ subtitle: Zahlen, Fakten
 ## Karten
 
  * [Zertifikatsfreie Angebote in der Schweiz](https://maps.angst-frei.ch/)
+ * [Spaziergänge in der Schweiz](https://spazieren.angst-frei.ch/)
 
 ## Timeline
 
