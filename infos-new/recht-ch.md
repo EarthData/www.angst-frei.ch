@@ -20,7 +20,7 @@ subtitle: Schweiz
     {% endif %}
 
     {% if entry['Adresse'] %}
-| {{ site.icons.globe }}    |
+| {{ site.icons.address }}    |
     {%- assign lines = entry['Adresse'] | strip | replace: ", ", "," | split: "," -%}
     {%- for line in lines -%}
     {{ line | replace: "|", "\|" }}
@@ -29,7 +29,7 @@ subtitle: Schweiz
     {%- endunless -%}
     {%- endfor -%}
 |
-    {% endif %}
+    {%- endif %}
 
     {%- if entry['Webseite'] %}
 | {{ site.icons.globe }}    |
@@ -41,7 +41,7 @@ subtitle: Schweiz
     {%- endunless -%}
     {%- endfor -%}
 |
-    {% endif %}
+    {%- endif %}
 
     {%- if entry['Telegram'] %}
 | {{ site.icons.telegram }} | [{{ entry['Telegram'] }}](https://t.me/{{ entry['Telegram'] }}) |

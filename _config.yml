@@ -109,6 +109,7 @@ collections:
     output: false
 
 icons:
+  address:  '<i class="fas fa-address-card" title="Adresse" style="color: black"></i>'
   book:     '<i class="fas fa-book" title="Buch" style="color: black"></i>'
   download: '<i class="fas fa-file-download" title="Download" style="color: black"></i>'
   globe:    '<i class="fas fa-globe" title="Webpage" style="color: #008800"></i>'
