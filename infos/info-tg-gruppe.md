@@ -18,6 +18,18 @@ Diese Gruppe soll auf das Thema Homeschooling fokussiert sein. Es gibt genügend
 
 [https://t.me/+wT9qsnZxujdmY2E0](https://t.me/+wT9qsnZxujdmY2E0)
 
+## Notfall-Kommunikation
+
+### Signal-Messenger
+
+[https://signal.group/#CjQKINgBnHyFUDqlWsDOodPEql_SnDCezZqlB7zZHp3FDeWcEhCJdMJ67QWRJR6XDKrdttLg](https://signal.group/#CjQKINgBnHyFUDqlWsDOodPEql_SnDCezZqlB7zZHp3FDeWcEhCJdMJ67QWRJR6XDKrdttLg)
+
+### Treffpunkt
+
+Tag: Samstag
+Zeit: ab 14:00
+Ort: Fritschiwiese
+
 ## Infos zum Homeschooling im Kanton Zürich
 
 [Infoseite](/infos/info-homeschooling-zh.html)
