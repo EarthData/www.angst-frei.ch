@@ -33,10 +33,10 @@ d3.select("#selectButton")
 
 const graph = async (region, type) => {
 
-  if (type == "covid") {
-    var title = region + " Hospitalisationen nach Alter (Covid) ";
+  if (type == "icu") {
+    var title = region + " Bettenauslastung ICU";
   } else {
-    var title = region + " Hospitalisationen nach Alter (Covid-geimpft) ";
+    var title = region + " Bettenauslastung non-ICU";
   }
 
   var group = region == "CH" ? region.toLowerCase() + "-" + type : "region-" + type;

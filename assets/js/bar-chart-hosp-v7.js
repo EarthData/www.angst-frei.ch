@@ -13,7 +13,7 @@ var parseTime  = d3.timeParse("%Y-%W");
 
 // List of groups (here I have one group per column)
 var allGroup = ["ZH", "AG", "AI", "AR", "BE", "BL", "BS", "FR", "GE", "GL", "GR", "JU", "LU", "NE", "NW", "OW", "SG", "SH", "SO", "SZ", "TG", "TI", "UR", "VD", "VS", "ZG"]
-var divs = ["chfl-covid-2020", "chfl-covid-2021", "chfl-vacc_age-2021", "chfl-vacc_type-2021", "region-covid-2020", "region-covid-2021"]
+var divs = ["chfl-covid-2020", "chfl-covid-2021", "chfl-covid-2022", "chfl-vacc_age-2021", "chfl-vacc_age-2022", "chfl-vacc_type-2021", "chfl-vacc_type-2022", "region-covid-2020", "region-covid-2021", "region-covid-2022"]
 
 divs.forEach(function(d) {
   d3.select("#" + d).append("svg")
@@ -35,8 +35,10 @@ const graph = async (year, region, type) => {
 
   if (type == "covid") {
     var title = region + " Hospitalisationen nach Alter (Covid) " + year;
-  } else {
+  } else if (type == "vacc_age") {
     var title = region + " Hospitalisationen nach Alter (Covid-geimpft) " + year;
+  } else {
+    var title = region + " Hospitalisationen nach Impfstatus " + year;
   }
 
   var group = region == "CHFL" ? region.toLowerCase() + "-" + type + "-" + year : "region-" + type + "-" + year;
