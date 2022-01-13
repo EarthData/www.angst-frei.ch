@@ -26,9 +26,10 @@ Diese Gruppe soll auf das Thema Homeschooling fokussiert sein. Es gibt genügend
 
 ### Treffpunkt
 
-Tag: Samstag
-Zeit: ab 14:00
-Ort: Fritschiwiese
+ * Tag: Samstag
+ * Zeit: ab 14:00
+ * Ort: Fritschiwiese, Fritschistrasse 9, 8003 Zürich
+ * [google-Maps](https://goo.gl/maps/cPnR4kKzYepkT2M97)
 
 ## Infos zum Homeschooling im Kanton Zürich
 
