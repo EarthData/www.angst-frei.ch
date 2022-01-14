@@ -1,10 +1,16 @@
 ---
 layout:   page
-title:    Recht
+title:    Kinder
 subtitle: Schweiz
 ---
 
-{% assign entries = site.data.recht | where: "Land", "Schweiz" | group_by: "Typ"  | sort: "name" %}
+## Inhalt
+{: .no_toc}
+
+* TOC
+{:toc}
+
+{% assign entries = site.data.kinder | where: "Land", "Schweiz" | group_by: "Typ"  | sort: "name" %}
 
 {% for group in entries %}
 
