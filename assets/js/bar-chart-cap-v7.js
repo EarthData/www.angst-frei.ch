@@ -9,6 +9,8 @@ var legendClassArray = {};
 var nodes = {};
 var idx = {};
 
+var breakPoint = 768;
+
 var parseTime  = d3.timeParse("%Y-%m-%d");
 
 // List of groups (here I have one group per column)
@@ -74,7 +76,7 @@ const graph = async (region, type) => {
       .keys(keys)
       (data)
 
-    var xAxis = d3.axisBottom(x);
+    var xAxis = d3.axisBottom(x).ticks(window.innerWidth < breakPoint ? 6 : 12);
     var yAxis = d3.axisLeft(y).tickFormat(d3.format(".2s"));
 
     d3.selectAll(".g-" + group)

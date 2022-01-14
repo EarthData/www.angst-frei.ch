@@ -9,6 +9,8 @@ var legendClassArray = {};
 var nodes = {};
 var idx = {};
 
+var breakPoint = 768;
+
 var parseTime  = d3.timeParse("%Y-%W");
 
 // List of groups (here I have one group per column)
@@ -72,7 +74,7 @@ const graph = async (year, region, type) => {
       .domain(keys)
       .range(["#98abc5", "#8a89a6", "#7b6888", "#6b486b", "#a05d56", "#d0743c", "#ff8c00"]);
 
-    var xAxis = d3.axisBottom(x);
+    var xAxis = d3.axisBottom(x).ticks(window.innerWidth < breakPoint ? 6 : 12);
     var yAxis = d3.axisLeft(y).tickFormat(d3.format(".2s"));
 
     var barwidth = (x.range()[1] - x.range()[0]) / data.length;
