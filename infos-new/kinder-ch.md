@@ -1,7 +1,8 @@
 ---
 layout:   page
-title:    Kinder
-subtitle: Schweiz
+title:    Infos
+subtitle: Kinder
+permalink: /infos/kinder
 ---
 
 ## Inhalt
