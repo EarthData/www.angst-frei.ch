@@ -36,15 +36,9 @@ language: "de"
 # --- Navbar --- #
 
 navbar-links:
-  Meldungen: 
-    - Ticker: /blog/index.html
-    - Kategorien: /categories.html
-    - Menschen: /persons.html
-    - Tags: /tags.html
-    - Archiv: /news-archive.html
-  Events: /events.html
   Infos: /infos.html
   Interaktiv: /interactiv.html
+  Events: /events.html
 
 # --- Logo --- #
 
