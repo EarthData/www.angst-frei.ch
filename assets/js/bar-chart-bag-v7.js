@@ -15,7 +15,7 @@ var parseTime  = d3.timeParse("%Y-%W");
 
 // List of groups (here I have one group per column)
 var allGroup = ["CH", "AG", "AI", "AR", "BE", "BL", "BS", "FR", "GE", "GL", "GR", "JU", "LU", "NE", "NW", "OW", "SG", "SH", "SO", "SZ", "TG", "TI", "UR", "VD", "VS", "ZG", "ZH"]
-var allYear = ["2021", "2020", "2019", "2018", "2017", "2016", "2015"]
+var allYear = ["2022", "2021", "2020", "2019", "2018", "2017", "2016", "2015"]
 var divs = ["first-old", "first-young", "second-old", "second-young"]
 
 divs.forEach(function(d) {
@@ -60,7 +60,7 @@ d3.select("#selectSecondYearButton")
   .append('option')
   .text(function (d) { return d; }) // text showed in the menu
   .attr("value", function (d) { return d; }) // corresponding value returned by the button
-  .property("selected", function (d) { if (d == "2020") { return true } else { return false }; })
+  .property("selected", function (d) { if (d == "2021") { return true } else { return false }; })
 
 const graph = async (order, year, region, type) => {
 
@@ -315,10 +315,10 @@ const graph = async (order, year, region, type) => {
 }
 
 const build = async () => {
-  await graph("first", 2021, "CH", "young");
-  await graph("first", 2021, "CH", "old");
-  await graph("second", 2020, "CH", "young");
-  await graph("second", 2020, "CH", "old");
+  await graph("first", 2022, "CH", "young");
+  await graph("first", 2022, "CH", "old");
+  await graph("second", 2021, "CH", "young");
+  await graph("second", 2021, "CH", "old");
 }
 
 build();
