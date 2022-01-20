@@ -37,6 +37,9 @@ language: "de"
 
 navbar-links:
   Infos: /infos.html
+  Karten:
+    - Zertifikatsfrei: https://maps.angst-frei.ch
+    - Spaziergänge: https://spazieren.angst-frei.ch
   Interaktiv: /interactiv.html
   Events: /events.html
 
