@@ -5,8 +5,22 @@
   {% assign entries = group.items | sort: "Name" %}
   {% for entry in entries %}
 
+  {%- assign kantone = entry['Kanton'] | strip | replace: ", ", "," | split: "," -%}
+  {%- assign kantonsicons = "" | split: "," -%}
+  {% if entry['Kanton'] %}
+    {%- for kanton in kantone -%}
+      {%- assign kantonsicon = "![" | append: kanton | append: "](/assets/img/flaggen/" | append: kanton | append: ".svg){:class='country-icon'}" -%}
+      {%- assign kantonsicons = kantonsicons | push: kantonsicon -%}
+    {%- endfor -%}
+  {%- endif -%}
+
 {% if entry['Land'] == "Schweiz" %}
+  {% unless entry['Kanton'] %}
 ### {{ entry['Name'] }}
+  {% else %}
+    {%- assign icons = kantonsicons | join: " " %} 
+### {{ icons }} {{ entry['Name'] }}
+  {% endunless %}
 {% else %}
 ### {{ entry['Name'] }} ({{entry['Land']}})
 {% endif %}

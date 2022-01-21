@@ -11,7 +11,7 @@ permalink: /infos/kinder
 * TOC
 {:toc}
 
-{% assign entries = site.data.kinder | where: "Land", "Schweiz" | group_by: "Typ"  | sort: "name" %}
+{% assign entries = site.data.kinder | where_exp: "item", "item.Land contains 'Schweiz'" | group_by: "Typ"  | sort: "name" %}
 {% if entries.size > 0 %}
 ## Schweiz
 {% include info-list.md entries=entries %}
