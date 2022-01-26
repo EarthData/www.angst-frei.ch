@@ -91,7 +91,7 @@ def process_data(year)
     end
   end
 
-  header = "week,fully_vaccinated,partially_vaccinated,not_vaccinated,unknown"
+  header = "week,,fully_vaccinated_first_booster,fully_vaccinated_no_booster,fully_vaccinated,partially_vaccinated,not_vaccinated,unknown"
 
   geo_names.each do |geo|
     ["vacc_type"].each do |group|
@@ -99,7 +99,7 @@ def process_data(year)
       open("data_hosp_processed/hosp_#{year}-#{geo}-#{group}.csv", 'w') do |f|
         f.puts header
         data_vacc[geo.to_sym].each do |week, values|
-          f.puts "#{week},#{values[:fully_vaccinated][:vacc_type]},#{values[:fully_vaccinated_first_booster][:vacc_type]},#{values[:fully_vaccinated_no_booster][:vacc_type]},#{values[:partially_vaccinated][:vacc_type]},#{values[:not_vaccinated][:vacc_type]},#{values[:unknown][:vacc_type]}"
+          f.puts "#{week},#{values[:fully_vaccinated_first_booster][:vacc_type]},#{values[:fully_vaccinated_no_booster][:vacc_type]},#{values[:fully_vaccinated][:vacc_type]},#{values[:partially_vaccinated][:vacc_type]},#{values[:not_vaccinated][:vacc_type]},#{values[:unknown][:vacc_type]}"
         end
       end
     end
