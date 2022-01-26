@@ -54,7 +54,7 @@
     {%- endif %}
 
     {%- if entry['Telegram'] %}
-| {{ site.icons.telegram }}    |
+| {{ site.icons.telegram }} |
     {%- assign chanels = entry['Telegram'] | strip | replace: ", ", "," | split: "," -%}
     {%- for chanel in chanels -%}
     [{{ chanel }}](https://t.me/{{ chanel }})
@@ -65,9 +65,9 @@
 |
     {%- endif %}
 
-    {%- if entry['Video'] %}
+    {%- if entry['Video'] -%}
       {%- assign videos = entry['Video'] | strip | replace: ", ", "," | split: "," -%}
-      {%- for video in videos -%}
+      {%- for video in videos %}
         {%- assign videoparts = video | strip  | split: "|" -%}
         {%- assign platform = site.icons.globe -%}
         {%- if videoparts[0] == "youtube" -%}
@@ -81,9 +81,9 @@
         {%- elsif  videoparts[0] == "odysee" -%}
           {%- assign platform = site.icons.odysee -%}
         {%- endif -%}
-| {{ platform }} |[{{ videoparts[1] }}]({{ videoparts[1] }})|
-      {% endfor -%}
-    {% endif %}
+| {{ platform }} | [{{ videoparts[1] }}]({{ videoparts[1] }}) |
+      {%- endfor %}
+    {%- endif -%}
 
   {% endfor %}
 
