@@ -20,7 +20,7 @@ def process_data(year)
 
   data_vacc = Hash.new
 
-  vacc_types = ["fully_vaccinated", "partially_vaccinated", "not_vaccinated", "unknown", "Total"]
+  vacc_types = ["fully_vaccinated", "fully_vaccinated_first_booster", "fully_vaccinated_no_booster", "partially_vaccinated", "not_vaccinated", "unknown", "Total"]
   types = ["vacc_type"]
 
   geo_names.each do |geo|
@@ -71,6 +71,7 @@ def process_data(year)
     next if year < ayear or year > ayear
 
     #puts "adding #{row[:entries]} to #{geo} #{week} #{age} => #{data[geo.to_sym][week.to_s.to_sym][age.to_sym][:vacc]}"
+    #puts row[:vaccination_status]
 
     data_vacc[geo.to_sym][week.to_s.to_sym][type.to_sym][:vacc_type] += row[:entries]
     data_vacc[geo.to_sym][week.to_s.to_sym][:Total][:vacc_type] += row[:entries]
@@ -98,7 +99,7 @@ def process_data(year)
       open("data_hosp_processed/hosp_#{year}-#{geo}-#{group}.csv", 'w') do |f|
         f.puts header
         data_vacc[geo.to_sym].each do |week, values|
-          f.puts "#{week},#{values[:fully_vaccinated][:vacc_type]},#{values[:partially_vaccinated][:vacc_type]},#{values[:not_vaccinated][:vacc_type]},#{values[:unknown][:vacc_type]}"
+          f.puts "#{week},#{values[:fully_vaccinated][:vacc_type]},#{values[:fully_vaccinated_first_booster][:vacc_type]},#{values[:fully_vaccinated_no_booster][:vacc_type]},#{values[:partially_vaccinated][:vacc_type]},#{values[:not_vaccinated][:vacc_type]},#{values[:unknown][:vacc_type]}"
         end
       end
     end
