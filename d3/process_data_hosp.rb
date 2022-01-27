@@ -91,7 +91,7 @@ def process_data(year)
     end
   end
 
-  header = "week,,fully_vaccinated_first_booster,fully_vaccinated_no_booster,fully_vaccinated,partially_vaccinated,not_vaccinated,unknown"
+  header = "week,fully_vaccinated_first_booster,fully_vaccinated_no_booster,fully_vaccinated,partially_vaccinated,not_vaccinated,unknown"
 
   geo_names.each do |geo|
     ["vacc_type"].each do |group|
