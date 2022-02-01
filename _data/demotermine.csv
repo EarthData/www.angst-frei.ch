@@ -11,6 +11,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 70299,DE,2022-02-01,18:00:00,28195,Bremen,Marktplatz,Aufzug,,unbekannt,
 70569,DE,2022-02-01,18:30:00,71554,Weissach im Tal,Rathaus,Spaziergang,,unbekannt,
 70789,DE,2022-02-01,18:30:00,71554,Weissach im Tal,Rathaus in Unterweissach,Spaziergang,,unbekannt,
+70856,DE,2022-02-01,18:30:00,79108,Freiburg,Neues SC-Stadion / Flugplatz,Aufzug,Ab 17:30 Aufstellung,FreiSeinFreiburg,
 70639,DE,2022-02-01,18:30:00,60327,Frankfurt Europaviertel,Skyline Plaza,Aufzug,,unbekannt,
 70643,DE,2022-02-01,18:30:00,60439,Frankfurt Eschersheim,H.-P.-Müller-Platz,Aufzug,,unbekannt,
 70621,DE,2022-02-01,18:30:00,61348,Bad Homburg,Rathausplatz,Aufzug,,unbekannt,
@@ -37,12 +38,12 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 70833,DE,2022-02-02,18:00:00,59065,Hamm,Martin-Luther-Platz,Lichterkette,,unbekannt,
 70279,DE,2022-02-02,18:00:00,84405,Dorfen,Mariensäule,Gebet,,unbekannt,
 70474,DE,2022-02-02,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
-70575,DE,2022-02-02,18:30:00,46045,Oberhausen,Friedensplatz 12,Aufzug,,Oberhausener Vernetzung,
 70557,DE,2022-02-02,18:30:00,46045,Oberhausen,Friedensplatz 12,Aufzug,,Oberhausener Vernetzung,
+70575,DE,2022-02-02,18:30:00,46045,Oberhausen,Friedensplatz 12,Aufzug,,Oberhausener Vernetzung,
 70481,DE,2022-02-02,18:30:00,89537,Giengen an der Brenz,Rathaus,Spaziergang,,Der Souverän,
 70624,DE,2022-02-02,18:30:00,60325,Frankfurt Bockenheim,Bockenheimer Warte,Aufzug,,unbekannt,
-70477,DE,2022-02-02,18:30:00,96106,Ebern,Bahnhof,Aufzug,,unbekannt,
 70473,DE,2022-02-02,18:30:00,96106,Ebern,Bahnhof,Aufzug,,unbekannt,
+70477,DE,2022-02-02,18:30:00,96106,Ebern,Bahnhof,Aufzug,,unbekannt,
 70750,DE,2022-02-02,18:30:00,44369,Dortmund,Huckarder Marktplatz,Spaziergang,,PRIVAT,
 69682,DE,2022-02-02,19:00:00,83022,Rosenheim,Eingang Mangfallpark Süd,Schilderwald,,Mahnwache Rosenheim,https://t.me/KanalMahnwacheRosenheim
 70716,DE,2022-02-02,19:00:00,73760,Ostfildern,Gesamter Ort,Spaziergang,,unbekannt,
@@ -114,8 +115,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 70843,DE,2022-02-06,10:00:00,16303,Schwedt,Schöpfwerk,Kundgebung,,unbekannt,https://t.me/frieden_freiheit_souveraenitaet
 70612,DE,2022-02-06,13:00:00,54516,Wittlich,Platz an der Lieser,Kundgebung,,unbekannt,
 69967,AT,2022-02-06,13:00:00,4020,Linz,Hauptplatz,Demonstration,,DEMO LINZ FREIHEIT,https://t.me/DEMOLINZFREIHEIT
-70745,DE,2022-02-06,14:00:00,84028,Landshut,Ringelstecherwiese,Kundgebung,,unbekannt,
 68685,DE,2022-02-06,14:00:00,84028,Landshut,Ringelstecherwiese,Kundgebung,,Bayern steht zusammen,http://www.bayern-steht-zusammen.de
+70745,DE,2022-02-06,14:00:00,84028,Landshut,Ringelstecherwiese,Kundgebung,,unbekannt,
 70386,DE,2022-02-06,14:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.de
 70760,DE,2022-02-06,15:00:00,52067,Aachen,Eurogress / Monheimsallee,Aufzug,,unbekannt,
 70421,DE,2022-02-06,15:30:00,94481,Grafenau,Volksfestplatz,Spaziergang,,unbekannt,
@@ -256,8 +257,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 70777,DE,2022-02-21,18:00:00,93128,Regenstauf,Schwandorferstr. / Regenbrücke,Spaziergang,,unbekannt,
 68785,DE,2022-02-21,18:00:00,28870,Quelkhorn,Denkmal,Spaziergang,,unbekannt,
 70192,DE,2022-02-21,18:00:00,87724,Ottobeuren,Rathaus,Spaziergang,,unbekannt,
-70792,DE,2022-02-21,18:00:00,22846,Norderstedt,Rathausalle beim Kino Spectrum,Spaziergang,,unbekannt,
 70791,DE,2022-02-21,18:00:00,22846,Norderstedt,Rathausalle beim Kino Spectrum,Spaziergang,,unbekannt,
+70792,DE,2022-02-21,18:00:00,22846,Norderstedt,Rathausalle beim Kino Spectrum,Spaziergang,,unbekannt,
 70383,DE,2022-02-21,18:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.de
 69063,DE,2022-02-21,18:00:00,52428,Jülich,Zum kleinen Wolfgang,Demonstration,,242Zusammen ImpfereiJÜL/DN,
 68972,DE,2022-02-21,18:00:00,52428,Jülich,Gipfelkreuz Sophienhöhe,Demonstration,,242Zusammen Impffrei Jül/DN,
@@ -315,8 +316,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 67571,DE,2022-03-17,18:00:00,85586,Poing,Friedensstraße 9 / Unterführung,Kundgebung,,Privat,https://t.me/CoronaPoing
 70406,UK,2022-03-19,12:00:00,TR12AF,Truro,Cathedral,Demonstration,,WORLD WIDE RALLY FOR FREEDOM UK,https://t.me/WWD_Cornwall
 70405,UK,2022-03-19,13:00:00,OX11LQ,Oxford,Bonn Square,Demonstration,,FreedomOxford,https://t.me/WWDFreedomOxford
-70425,DE,2022-03-20,14:00:00,80333,München,Theresienwiese,Kundgebung,,Kinderrechte Jetzt e.V. Wir-gemeinsam-Bündnis u.a.,www.wir-gemeinsam-buendnis.de
 70426,DE,2022-03-20,14:00:00,80333,München,Theresienwiese,Kundgebung,,Kinderrechte Jetzt e.V. Wir-gemeinsam-Bündnis u.a.,www.wir-gemeinsam-buendnis.de
+70425,DE,2022-03-20,14:00:00,80333,München,Theresienwiese,Kundgebung,,Kinderrechte Jetzt e.V. Wir-gemeinsam-Bündnis u.a.,www.wir-gemeinsam-buendnis.de
 68976,DE,2022-03-21,13:12:00,52428,Jülich,Schlossplatz,Kundgebung,,242Zusammen Impffrei Jül/DN,
 67498,DE,2022-03-21,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198
 67572,DE,2022-03-24,18:00:00,85586,Poing,Friedensstraße 9 / Unterführung,Kundgebung,,Privat,https://t.me/CoronaPoing
