@@ -1,7 +1,7 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
 70843,DE,2022-02-06,10:00:00,16303,Schwedt,Schöpfwerk,Kundgebung,,unbekannt,https://t.me/frieden_freiheit_souveraenitaet
-70917,AT,2022-02-06,11:30:00,9800,Spittal an der Drau,Schloss Porcia Parkplatz,Kundgebung,,unbekannt,https://t.me/doomsday_austria/53269
 70923,AT,2022-02-06,11:30:00,9800,Spittal an der Drau,Schloss Porcia Parkplatz,Kundgebung,,unbekannt,https://t.me/doomsday_austria/53269
+70917,AT,2022-02-06,11:30:00,9800,Spittal an der Drau,Schloss Porcia Parkplatz,Kundgebung,,unbekannt,https://t.me/doomsday_austria/53269
 70612,DE,2022-02-06,13:00:00,54516,Wittlich,Platz an der Lieser,Kundgebung,,unbekannt,
 69967,AT,2022-02-06,13:00:00,4020,Linz,Hauptplatz,Demonstration,,DEMO LINZ FREIHEIT,https://t.me/DEMOLINZFREIHEIT
 70745,DE,2022-02-06,14:00:00,84028,Landshut,Ringelstecherwiese,Kundgebung,,unbekannt,
@@ -31,6 +31,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 70197,DE,2022-02-06,18:00:00,87600,Kaufbeuren,Spittelmühle,Spaziergang,,unbekannt,
 71080,DE,2022-02-06,18:00:00,52428,Jülich,Hexenturm,Spaziergang,,unbekannt,
 71169,DE,2022-02-06,18:00:00,61479,Glashütten,Bürgerhaus,Aufzug,,unbekannt,
+71242,DE,2022-02-06,18:00:00,14612,Falkensee,alte Stadthalle,Gebet,,Friedenslicht Falkensee,
 71167,DE,2022-02-06,18:30:00,60311,Frankfurt,Römer,Aufzug,,unbekannt,
 71214,DE,2022-02-06,19:00:00,21279,Hollenstedt,Samtgemeinde - Verwaltung,Spaziergang,,unbekannt,
 71141,DE,2022-02-07,17:00:00,17358,Torgelow,Rathaus,Zusammenkunft,,unbekannt,
@@ -106,10 +107,10 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 70974,DE,2022-02-07,18:00:00,64546,Mörfelden Walldorf,Flughafenstr. 37 Walldorf,Spaziergang,,unbekannt,
 70906,DE,2022-02-07,18:00:00,87719,Mindelheim,Am Rathaus Maximilianstraße 26,Spaziergang,,unbekannt,
 70837,DE,2022-02-07,18:00:00,53894,Mechernich,Zum Markt / ggü Post,Spaziergang,,Freies Mechernich,https://t.me/wirkreiseuskirchen
-70866,DE,2022-02-07,18:00:00,69256,Mauer,Rathaus,Spaziergang,,unbekannt,
 70834,DE,2022-02-07,18:00:00,69256,Mauer,Rathaus,Spaziergang,,unbekannt,
-70913,DE,2022-02-07,18:00:00,85570,Markt Schwaben,Marktplatz,Spaziergang,,unbekannt,
+70866,DE,2022-02-07,18:00:00,69256,Mauer,Rathaus,Spaziergang,,unbekannt,
 71021,DE,2022-02-07,18:00:00,85570,Markt Schwaben,Marktplatz,Spaziergang,,unbekannt,
+70913,DE,2022-02-07,18:00:00,85570,Markt Schwaben,Marktplatz,Spaziergang,,unbekannt,
 70770,DE,2022-02-07,18:00:00,35037,Marburg,Elisabeth Blochmann Platz,Spaziergang,,unbekannt,
 70907,DE,2022-02-07,18:00:00,55116,Mainz,Ministerium f. Wirtsch. /davor,Spaziergang,,unbekannt,
 70995,DE,2022-02-07,18:00:00,19288,Ludwigslust,Alexandrinenplatz,Zusammenkunft,,unbekannt,
@@ -124,8 +125,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 70973,DE,2022-02-07,18:00:00,04567,Kitzscher,Rathaus,Spaziergang,,unbekannt,
 71119,DE,2022-02-07,18:00:00,87435,Kempten,Hildegardplatz,Aufzug,,unbekannt,
 71210,DE,2022-02-07,18:00:00,76133,Karlsruhe,Stephanplatz / Postgalerie,Aufzug,,Querdenken 721,
-71081,DE,2022-02-07,18:00:00,52428,Jülich,Hexenturm,Spaziergang,,unbekannt,
 68524,DE,2022-02-07,18:00:00,52428,Jülich,Aachener Landstr.31 / LeTrou,Aufzug,,242Impffrei Jül/DN,
+71081,DE,2022-02-07,18:00:00,52428,Jülich,Hexenturm,Spaziergang,,unbekannt,
 69765,DE,2022-02-07,18:00:00,85049,Ingolstadt,Paradeplatz,Spaziergang,,unbekannt,https://t.me/QUERDENKEN_841/192
 71086,DE,2022-02-07,18:00:00,65510,Idstein,Wiesbadener Straße,Spaziergang,,auf Anfrage,
 71192,DE,2022-02-07,18:00:00,37671,Höxter,Altes Rathaus,Kundgebung,,unbekannt,
@@ -216,15 +217,15 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 70927,DE,2022-02-07,18:45:00,83022,Rosenheim,Rathaus,Spaziergang,,RO sucht den Rosenheim-Mops,https://t.me/GruppeMahnwacheRosenheim/66819
 71134,DE,2022-02-07,18:45:00,76703,Kraichtal - Münzesheim,Rathaus,Spaziergang,,unbekannt,
 70668,CH,2022-02-07,19:00:00,8023,Zürich,Bahnhofsquai u. weitere,Spaziergang,,Montagsspaziergang Zürich,https://t.me/Demotermine/43531
+70946,DE,2022-02-07,19:00:00,26388,Wilhelmshaven,Kirchplatz Fedderwardergroden,Spaziergang,,Das deutsche Volk,
 70735,DE,2022-02-07,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
 70857,DE,2022-02-07,19:00:00,26382,Wilhelmshaven,Rathausplatz,Versammlung,,unbekannt,
-70946,DE,2022-02-07,19:00:00,26388,Wilhelmshaven,Kirchplatz Fedderwardergroden,Spaziergang,,Das deutsche Volk,
 71036,DE,2022-02-07,19:00:00,29649,Wietzendorf,Rathaus,Kundgebung,,unbekannt,
 70883,DE,2022-02-07,19:00:00,67346,Speyer,Domplatz (Königsplatz),Spaziergang,,unbekannt,
 71045,DE,2022-02-07,19:00:00,72488,Sigmaringen,Karlsplatz,Spaziergang,,unbekannt,https://t.me/SigmaringenAktiv
 70841,DE,2022-02-07,19:00:00,16303,Schwedt,Vierradener Straße,Kundgebung,,unbekannt,https://t.me/frieden_freiheit_souveraenitaet
-70853,DE,2022-02-07,19:00:00,82054,Sauerlach,Marktplatz | Dorfbrunnen,Spaziergang,,unbekannt,
 70848,DE,2022-02-07,19:00:00,82054,Sauerlach,Marktplatz / Dorfbrunnen,Spaziergang,,unbekannt,
+70853,DE,2022-02-07,19:00:00,82054,Sauerlach,Marktplatz | Dorfbrunnen,Spaziergang,,unbekannt,
 71158,DE,2022-02-07,19:00:00,24768,Rendsburg,Paradeplatz / Lornsendenkmal,Spaziergang,,unbekannt,
 69852,DE,2022-02-07,19:00:00,42897,Remscheid-Lennep,Kirmesplatz,Aufzug,,Remscheid steht auf,https://t.me/remscheid_steht_auf
 70909,DE,2022-02-07,19:00:00,07952,Pausa,Marktplatz,Spaziergang,,unbekannt,
@@ -236,8 +237,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 67492,DE,2022-02-07,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198
 71058,DE,2022-02-07,19:00:00,06618,Naumburg,Vogelwiese,Spaziergang,,Naumburg steht AUF,
 71060,DE,2022-02-07,19:00:00,06618,Naumburg,Vogelwiese,Spaziergang,,Naumburg steht AUF,
-71118,DE,2022-02-07,19:00:00,99974,Mühlhausen/ Thüringen,Untermarkt,Spaziergang,,unbekannt,
 70961,DE,2022-02-07,19:00:00,99974,Mühlhausen/ Thüringen,Untermarkt,Spaziergang,,unbekannt,
+71118,DE,2022-02-07,19:00:00,99974,Mühlhausen/ Thüringen,Untermarkt,Spaziergang,,unbekannt,
 71051,DE,2022-02-07,19:00:00,72469,Meßstetten,Rathaus,Spaziergang,,unbekannt,https://t.me/SigmaringenAktiv
 71048,DE,2022-02-07,19:00:00,88512,Mengen,Rathaus,Spaziergang,,unbekannt,https://t.me/SigmaringenAktiv
 70246,DE,2022-02-07,19:00:00,56727,Mayen,Marktplatz,Spaziergang,,unbekannt,
@@ -279,8 +280,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 70980,DE,2022-02-09,18:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,
 70979,DE,2022-02-09,18:00:00,76829,Landau/Pfalz,Deutsches Tor,Spaziergang,,unbekannt,
 71182,DE,2022-02-09,18:00:00,65779,Kelkheim,Markt,Spaziergang,,Freiheit,
-71084,DE,2022-02-09,18:00:00,52428,Jülich,Hexenturm,Spaziergang,,unbekannt,
 71083,DE,2022-02-09,18:00:00,52428,Jülich,Hexenturm,Spaziergang,,unbekannt,
+71084,DE,2022-02-09,18:00:00,52428,Jülich,Hexenturm,Spaziergang,,unbekannt,
 70280,DE,2022-02-09,18:00:00,84405,Dorfen,Mariensäule,Gebet,,unbekannt,
 70963,DE,2022-02-09,18:00:00,78199,Bräunlingen,Rathaus,Spaziergang,,unbekannt,
 71106,DE,2022-02-09,18:15:00,85456,Wartenberg,Marktplatz,Kundgebung,,Gemeinsam Stark Wartenberg,https://t.me/GemeinsamStarkWartenberg
@@ -319,8 +320,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 70656,AT,2022-02-11,18:00:00,3380,Pöchlarn,Rathausplatz,Aufzug,,Mostviertel steht auf,https://t.me/MOSTVIERTELDEMOINFOKANAL
 71071,DE,2022-02-11,18:00:00,41460,Neuss,Münsterplatz,Spaziergang,,unbekannt,
 70918,AT,2022-02-11,18:00:00,3390,Melk,Hauptplatz,Spaziergang,,unbekannt,https://t.me/doomsday_austria/53261
-70960,DE,2022-02-11,18:00:00,16540,Hohen Neuendorf,Rathausplatz,Aufzug,,unbekannt,
 70929,DE,2022-02-11,18:00:00,16540,Hohen Neuendorf,Rathausplatz,Aufzug,,Oberhavel steht auf (Orga HND),
+70960,DE,2022-02-11,18:00:00,16540,Hohen Neuendorf,Rathausplatz,Aufzug,,unbekannt,
 71178,DE,2022-02-11,18:30:00,61462,Königstein,Kapuziner Platz,Aufzug,,unbekannt,
 71177,DE,2022-02-11,18:30:00,60594,Frankfurt Sachsenhausen,Schweizer Platz,Aufzug,,unbekannt,
 71160,DE,2022-02-11,19:00:00,86720,Nördlingen,Rathaus,Spaziergang,,Unbekannt,
