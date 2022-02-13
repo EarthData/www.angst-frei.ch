@@ -1,403 +1,458 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite,latitude,longitude,created
-71585,DE,2022-02-13,10:45:00,75016,Bretten,Marktplatz,Meditation,,unbekannt,,49.0369237,8.7069363,2022-02-13 11:06:45
-71062,DE,2022-02-13,14:00:00,16866,Kyritz,Marktplatz (Rathaus),Kundgebung,,Bürgerinitiative Region Kyritz,http://www.region-kyritz.de,52.9430648,12.3966896,2022-02-13 11:06:45
-71416,DE,2022-02-13,14:00:00,03238,Finsterwalde,Edeka (große Unterführung),Kundgebung,,unbekannt,,51.6315282,13.707358,2022-02-13 11:06:45
-71359,DE,2022-02-13,14:00:00,76530,Baden-Baden,Reinhard-Fieser-Brücke,Demonstration,https://www.baden-baden.de/stadtportrait/aktuelles/webcams,aufRecht:FREIdenken,https://www.solidarnosch.de/covid-19.htm,48.7603613,8.23874067530155,2022-02-13 11:06:45
-71611,DE,2022-02-13,14:00:00,92224,Amberg,ACC Hallenbad,Spaziergang,,unbekannt,https://t.me/amberg_steht_auf,49.4454211,11.858728,2022-02-13 11:06:45
-71161,DE,2022-02-13,14:30:00,86720,Nördlingen,Kaiserwiese,Aufzug,,Für eine bessere Zukunft,,48.8562686,10.4824677,2022-02-13 11:06:45
-70950,DE,2022-02-13,14:30:00,85049,Ingolstadt,Volksfestplatz,Kundgebung,,Daniele D Amuri / Bayern steht zusammen,https://t.me/BayernStehtZusammenTermine/354,48.7630165,11.4250395,2022-02-13 11:06:45
-71636,DE,2022-02-13,14:30:00,20249,Hamburg Eppendorf,Eppendorf Marktplatz Haynspark,Spaziergang,,Privat,,53.588420325090986,9.988577782250294,2022-02-13 11:06:45
-71559,DE,2022-02-13,14:30:00,22251,Hamburg,Eppendorfer Marktplatz,Aufzug,,unbekannt,,,,2022-02-13 11:06:45
-71527,DE,2022-02-13,15:00:00,97877,Wertheim,Main-Tauber-Halle,Spaziergang,,unbekannt,,49.754681950000005,9.518342115363058,2022-02-13 11:06:45
-71628,DE,2022-02-13,15:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2022-02-13 11:06:45
-71249,DE,2022-02-13,15:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,,49.35144595,8.13971769857673,2022-02-13 11:06:45
-71248,DE,2022-02-13,15:00:00,76726,Germersheim,Luitpoldplatz,Spaziergang,,unbekannt,,49.2179551,8.3743764,2022-02-13 11:06:45
-71355,DE,2022-02-13,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,,53.8623859,8.698405997774456,2022-02-13 11:06:45
-71179,DE,2022-02-13,15:00:00,65812,Bad Soden,Neuer Kurpark Salinenstraße,Aufzug,,unbekannt,,50.1517006,8.4899671,2022-02-13 11:06:45
-71638,DE,2022-02-13,15:00:00,65812,Bad Soden,Neuer Kurpark / Salinenstraße,Aufzug,,unbekannt,,50.1517006,8.4899671,2022-02-13 11:06:45
-71054,DE,2022-02-13,16:00:00,83022,Rosenheim,Mangfallpark Süd,Aufzug,,Mahnwache Rosenheim,https://t.me/GruppeMahnwacheRosenheim/67399,47.8539273,12.127262,2022-02-13 11:06:45
-71661,DE,2022-02-13,16:30:00,01279,Dresden,Österreicher 39 / Dominos Pizza,Spaziergang,,unbekannt,,51.0762895,13.73846258995878,2022-02-13 11:06:45
-71617,DE,2022-02-13,16:30:00,06406,Bernburg,Karlsplatz / Weltzeituhr,Spaziergang,,unbekannt,,51.7930788,11.7391606,2022-02-13 11:06:45
-69827,DE,2022-02-13,16:30:00,14806,Bad Belzig,Marktplatz,Spaziergang,,Menschen,,52.1405426,12.5869613,2022-02-13 11:06:45
-71352,DE,2022-02-13,17:00:00,85229,Markt Indersdorf,Marktplatz,Spaziergang,,unbekannt,,48.3613164,11.3738682,2022-02-13 11:06:45
-71286,DE,2022-02-13,18:00:00,99994,Schlotheim,Markt,Spaziergang,,unbekannt,,51.2472937,10.6558097,2022-02-13 11:06:45
-71277,DE,2022-02-13,18:00:00,73760,Ostfildern,Gesamter Ort,Spaziergang,,unbekannt,,48.7178603,9.2630693,2022-02-13 11:06:45
-71608,DE,2022-02-13,18:00:00,31275,Lehrte,im Verlauf der Burgdorfer Str.,Kundgebung,,Freies Lehrte,https://t.me/freieslehrte,52.3749334,9.9748557,2022-02-13 11:06:45
-71320,DE,2022-02-13,18:00:00,86916,Kaufering,Parkplatz Sportzentrum,Spaziergang,,unbekannt,,48.0871324,10.8605317,2022-02-13 11:06:45
-71289,DE,2022-02-13,18:00:00,87600,Kaufbeuren,Spittelmühle,Spaziergang,,unbekannt,,47.8803788,10.622246,2022-02-13 11:06:45
-71398,DE,2022-02-13,18:00:00,52428,Jülich,Hexenturm,Spaziergang,,unbekannt,,50.9208095,6.3560252,2022-02-13 11:06:45
-71424,DE,2022-02-13,19:00:00,21279,Hollenstedt,Samtgemeide Verwaltung,Spaziergang,,unbekannt,,53.3684089,9.7125276,2022-02-13 11:06:45
-71219,DE,2022-02-14,08:00:00,67269,Grünstadt,Kreuzerweg 2 / Stadtverwaltung,Spaziergang,,unbekannt,,49.5655288,8.163722,2022-02-13 11:06:45
-71464,DE,2022-02-14,09:29:00,42277,Wuppertal,Rathaus neumarkt,Spaziergang,,unbekannt,,51.264018,7.1780374,2022-02-13 11:06:45
-71466,DE,2022-02-14,16:15:00,42277,Wuppertal neu,Wuppertal barmem Rathaus,Spaziergang,,unbekannt,,51.28210303495464,7.220691556131405,2022-02-13 11:06:45
-71605,DE,2022-02-14,17:30:00,21073,Hamburg-Harburg,vor Rathaus,Spaziergang,,unbekannt,,53.457842663374066,9.973021410556516,2022-02-13 11:06:45
-71597,DE,2022-02-14,17:30:00,45139,Essen-Huttrop,Storpplatz,Spaziergang,,Querdenken201,,51.4543697,7.035525116496668,2022-02-13 11:06:45
-71609,DE,2022-02-14,17:30:00,45139,Essen-Huttrop,Storpplatz,Spaziergang,,Querdenken201,,51.4543697,7.035525116496668,2022-02-13 11:06:45
-71598,DE,2022-02-14,17:30:00,15848,Beeskow,Marktplatz,Spaziergang,https://t.me/beeskow_freiheit,Die Menschen aus Beeskow,https://t.me/beeskow_freiheit,52.172059149999995,14.247087949999997,2022-02-13 11:06:45
-70484,DE,2022-02-14,18:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-02-13 11:06:45
-71016,DE,2022-02-14,18:00:00,16792,Zehdenick,Marktplatz,Spaziergang,,unbekannt,,52.9794838,13.3348959,2022-02-13 11:06:45
-71394,DE,2022-02-14,18:00:00,76744,Wörth/Rhein,Altes Rathaus,Spaziergang,,unbekannt,,49.052063450000006,8.268342249999996,2022-02-13 11:06:45
-71584,DE,2022-02-14,18:00:00,97353,Wiesentheid,Mariensäule,Spaziergang,,unbekannt,,49.7936508,10.3419479,2022-02-13 11:06:45
-71406,DE,2022-02-14,18:00:00,25980,Westerland,Sylter Welle,Spaziergang,,unbekannt,,54.9096144,8.2997839,2022-02-13 11:06:45
-71465,DE,2022-02-14,18:00:00,58791,Werdohl,Rathaus,Spaziergang,,unbekannt,,51.253362,7.7643727,2022-02-13 11:06:45
-71432,DE,2022-02-14,18:00:00,06667,Weißenfels,Marktplatz,Spaziergang,,Sachsen- Anhalt steht AUF !,,51.20095215,11.972447334552237,2022-02-13 11:06:45
-69940,DE,2022-02-14,18:00:00,83512,Wasserburg am Inn,Busbahnhof,Aufzug,,Luggi Maier (Kreisrat d. ÖDP),https://t.me/CoronaWiderstand_Wasserburg_Inn/2724,48.062781,12.2265873,2022-02-13 11:06:45
-71410,DE,2022-02-14,18:00:00,34414,Warburg,Rathaus,Spaziergang,,unbekannt,,51.488864500000005,9.147889671698113,2022-02-13 11:06:45
-71623,DE,2022-02-14,18:00:00,84478,Waldkraiburg,Rathaus,Spaziergang,,unbekannt,,48.2064195,12.401082562430368,2022-02-13 11:06:45
-71334,DE,2022-02-14,18:00:00,71111,Waldenbuch,Marktplatz,Spaziergang,,unbekannt,,48.6368377,9.1317637,2022-02-13 11:06:45
-71514,DE,2022-02-14,18:00:00,53840,Troisdorf,Bushaltestelle vor dem Rathaus,Spaziergang,,unbekannt,,50.8153071,7.1593271,2022-02-13 11:06:45
-71258,DE,2022-02-14,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,unbekannt,,47.67030905,9.586421199708216,2022-02-13 11:06:45
-71528,DE,2022-02-14,18:00:00,97941,Tauberbischofsheim,Marktplatz,Spaziergang,,unbekannt,,49.6231019,9.6623766,2022-02-13 11:06:45
-71448,DE,2022-02-14,18:00:00,75334,Straubenhardt-Feldrennach,Marktplatz,Spaziergang,,unbekannt,,48.8547448,8.5315244,2022-02-13 11:06:45
-71326,DE,2022-02-14,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,unbekannt,,47.998186950000004,11.341840182183248,2022-02-13 11:06:45
-71335,DE,2022-02-14,18:00:00,66583,Spiesen-Elversberg,Spiesen Rathaus Hauptstraße,Spaziergang,,unbekannt,,49.3145046,7.1369778,2022-02-13 11:06:45
-71450,DE,2022-02-14,18:00:00,66583,Spiesen Elversberg,Rathaus / Spiese Hauptstraße,Spaziergang,,unbekannt,,49.3145046,7.1369778,2022-02-13 11:06:45
-70344,DE,2022-02-14,18:00:00,83358,Seebruck,Rathaus,Spaziergang,,Seeon-Seebruck steht auf,https://t.me/Chiemgauer_Widerstand/382,47.9340156,12.4783274,2022-02-13 11:06:45
-71622,DE,2022-02-14,18:00:00,28790,Schwanewede,Rathaus,Spaziergang,,Menschen mit Verstand,,53.23381145,8.596041821186667,2022-02-13 11:06:45
-71621,DE,2022-02-14,18:00:00,28790,Schwanewede,Rathaus,Spaziergang,,unbekannt,,53.23381145,8.596041821186667,2022-02-13 11:06:45
-71282,DE,2022-02-14,18:00:00,74523,Schwäbisch Hall,Marktplatz,Spaziergang,,unbekannt,,49.1123819,9.73721257848682,2022-02-13 11:06:45
-71392,DE,2022-02-14,18:00:00,76761,Rülzheim,Kerweplatz,Spaziergang,,unbekannt,,49.15916075,8.28978055866924,2022-02-13 11:06:45
-71518,DE,2022-02-14,18:00:00,17207,Röbel /Müritz,Rathaus,Spaziergang,,unbekannt,,53.377026150000006,12.606027127778678,2022-02-13 11:06:45
-70776,DE,2022-02-14,18:00:00,93128,Regenstauf,Schwandorferstr. / Regenbrücke,Spaziergang,,unbekannt,,49.1239753,12.1278232,2022-02-13 11:06:45
-71330,DE,2022-02-14,18:00:00,40885,Ratingen-Lintorf,Kirche - St. Anna (am Markt),Spaziergang,,Privat,,51.333258,6.8312298,2022-02-13 11:06:45
-68784,DE,2022-02-14,18:00:00,28870,Quelkhorn,Denkmal,Spaziergang,,unbekannt,,53.1326996,9.0789977,2022-02-13 11:06:45
-71369,DE,2022-02-14,18:00:00,19348,Perleberg,Großer Markt am Roland,Spaziergang,,Menschen,,53.0762716,11.8627933,2022-02-13 11:06:45
-71460,DE,2022-02-14,18:00:00,33102,Paderborn,Parkplatz Fürstenweg Freibad,Autokorso,,Klardenken 525,https://t.me/klar525,51.71895955,8.764869778177559,2022-02-13 11:06:45
-70191,DE,2022-02-14,18:00:00,87724,Ottobeuren,Rathaus,Spaziergang,,unbekannt,,47.9706672,10.2659134,2022-02-13 11:06:45
-71390,DE,2022-02-14,18:00:00,76879,Ottersheim,Dorfplatz,Spaziergang,,unbekannt,,49.23743005,8.091310815572768,2022-02-13 11:06:45
-70790,DE,2022-02-14,18:00:00,22846,Norderstedt,Rathausalle beim Kino Spectrum,Spaziergang,,unbekannt,,53.7089898,9.9891914,2022-02-13 11:06:45
-71592,DE,2022-02-14,18:00:00,63667,Nidda,Marktplatz,Spaziergang,,unbekannt,,50.4124192,9.0087191,2022-02-13 11:06:45
-71389,DE,2022-02-14,18:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,,49.35144595,8.13971769857673,2022-02-13 11:06:45
-71072,DE,2022-02-14,18:00:00,41460,Neuss,Münsterplatz,Spaziergang,,unbekannt,,51.1992832,6.6925088,2022-02-13 11:06:45
-71603,DE,2022-02-14,18:00:00,63263,Neu-Isenburg,Marktplatz,Spaziergang,,unbekannt,,50.055865,8.6969194,2022-02-13 11:06:45
-71371,DE,2022-02-14,18:00:00,06249,Mücheln,Marktplatz,Spaziergang,,Freie Menschen,,51.301643999999996,11.803853841562002,2022-02-13 11:06:45
-71536,DE,2022-02-14,18:00:00,60547,Mörfelden Walldorf,Flughafenstr. 37 / Walldorf,Spaziergang,,unbekannt,,49.9923836,8.5622468,2022-02-13 11:06:45
-71512,DE,2022-02-14,18:00:00,56410,Montabaur,Konrad Adenauer Platz,Aufzug,,unbekannt,,50.4357003,7.8293126,2022-02-13 11:06:45
-71516,DE,2022-02-14,18:00:00,34212,Melsungen,Marktplatz,Spaziergang,,unbekannt,,51.1309376,9.5434385,2022-02-13 11:06:45
-71481,DE,2022-02-14,18:00:00,53894,Mechernich,Zum Markt 12 / ggü. Post,Spaziergang,,Freie Bürger Mechernich,https://t.me/wirkreiseuskirchen,50.5909999,6.6525479,2022-02-13 11:06:45
-71453,DE,2022-02-14,18:00:00,85570,Markt Schwaben,Marktplatz,Spaziergang,,unbekannt,,48.190927,11.8688663,2022-02-13 11:06:45
-70771,DE,2022-02-14,18:00:00,35037,Marburg,Elisabeth Blochmann Platz,Spaziergang,,unbekannt,,50.8082118,8.7750026,2022-02-13 11:06:45
-71342,DE,2022-02-14,18:00:00,68159,Mannheim,Schloss / Ehrenhof,Aufzug,,Offene Gesellschaft Kurpfalz,,49.4827626,8.4622595,2022-02-13 11:06:45
-71613,DE,2022-02-14,18:00:00,44532,Lünen,Wily-Brandt-Platz - Rathaus,Spaziergang,,Lünen denkt anders,https://t.me/luenendenktanders,51.6142482,7.5228088,2022-02-13 11:06:45
-69662,DE,2022-02-14,18:00:00,23564,Lübeck,Hermann-Hesse-Park,Spaziergang,,unbekannt,,53.866444,10.684738,2022-02-13 11:06:45
-71533,DE,2022-02-14,18:00:00,63225,Langen (Hessen),Goethestraße,Spaziergang,,unbekannt,,49.9891871,8.6648133,2022-02-13 11:06:45
-71572,DE,2022-02-14,18:00:00,84028,Landshut,Ländtor,Spaziergang,,unbekannt,,48.53531375,12.149248217019215,2022-02-13 11:06:45
-71388,DE,2022-02-14,18:00:00,76829,Landau/Pfalz,Deutsches Tor,Spaziergang,,unbekannt,,49.200282099999995,8.11525460229954,2022-02-13 11:06:45
-71423,DE,2022-02-14,18:00:00,68623,Lampertheim,Altes Rathaus,Sonstiges,,unbekannt,,49.59426845,8.466863499999992,2022-02-13 11:06:45
-71422,DE,2022-02-14,18:00:00,68623,Lampertheim,Altes Rathaus,Sonstiges,,unbekannt,,49.59426845,8.466863499999992,2022-02-13 11:06:45
-70382,DE,2022-02-14,18:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.de,50.1068807,11.4581088,2022-02-13 11:06:45
-71405,DE,2022-02-14,18:00:00,85082,Kösching,Rathaus,Spaziergang,,unbekannt,,,,2022-02-13 11:06:45
-71487,DE,2022-02-14,18:00:00,56068,Koblenz,Clemensplatz,Spaziergang,,unbekannt,,50.3583148,7.6006241,2022-02-13 11:06:45
-71534,DE,2022-02-14,18:00:00,04567,Kitzscher,Rathaus,Spaziergang,,unbekannt,,51.16375845,12.550440798979356,2022-02-13 11:06:45
-71501,DE,2022-02-14,18:00:00,87435,Kempten,Hildegardplatz,Aufzug,,unbekannt,,47.7277528,10.3118719,2022-02-13 11:06:45
-68946,DE,2022-02-14,18:00:00,52428,Jülich,Schlossplatz / Touristinfo,Demonstration,,Antifa Jülich GmbH und Co.Kg,,50.9220931,6.3611015,2022-02-13 11:06:45
-68744,DE,2022-02-14,18:00:00,52428,Jülich,Aachener Landstr 31 / LeTrou,Kundgebung,,242 Jül/Dn,,50.9220931,6.3611015,2022-02-13 11:06:45
-71400,DE,2022-02-14,18:00:00,52428,Jülich,Hexenturm,Spaziergang,,unbekannt,,50.9208095,6.3560252,2022-02-13 11:06:45
-71627,DE,2022-02-14,18:00:00,85737,Ismaning,Kirchplatz,Spaziergang,,unbekannt,,48.226781,11.6753251,2022-02-13 11:06:45
-71386,DE,2022-02-14,18:00:00,76879,Hochstadt Pfalz,Rathaus,Spaziergang,,unbekannt,,49.2314228,8.2487647,2022-02-13 11:06:45
-71418,DE,2022-02-14,18:00:00,58675,Hemer,Rathaus,Spaziergang,,unbekannt,,51.3854029,7.766141955293132,2022-02-13 11:06:45
-71419,DE,2022-02-14,18:00:00,58675,Hemer,Rathaus,Spaziergang,,unbekannt,,51.3854029,7.766141955293132,2022-02-13 11:06:45
-69175,DE,2022-02-14,18:00:00,20359,Hamburg,Kunsthallle Lombardsbr FerdTor,Gegenprotest,,Privat,,53.550341,10.000654,2022-02-13 11:06:45
-71370,DE,2022-02-14,18:00:00,22607,Hamburg,Beselerplatz,Spaziergang,,Unbekannt,,53.5605519,9.8883432,2022-02-13 11:06:45
-71383,DE,2022-02-14,18:00:00,76767,Hagenbach,Kirche,Spaziergang,,unbekannt,,49.01651215,8.245194700842697,2022-02-13 11:06:45
-70296,DE,2022-02-14,18:00:00,83527,Haag in Oberbayern,Rathaus,Spaziergang,,unbekannt,,48.0567012,12.1628556,2022-02-13 11:06:45
-71382,DE,2022-02-14,18:00:00,06773,Gräfenhainichen,Paul-Gerhardt-Kapelle,Spaziergang,,unbekannt,,51.72906525,12.4549071,2022-02-13 11:06:45
-71591,DE,2022-02-14,18:00:00,37083,Göttingen,Jahnstadion Parkplatz Sandweg,Spaziergang,,unbekannt,,51.5328328,9.9351811,2022-02-13 11:06:45
-71454,DE,2022-02-14,18:00:00,45894,Gelsenkirchen - Buer,Volksbank Gelsenkirchen-Buer,Spaziergang,,unbekannt,,51.581143884518504,7.052264543439609,2022-02-13 11:06:45
-71560,DE,2022-02-14,18:00:00,39638,Gardelegen,Rathaus,Spaziergang,,unbekannt,,52.5264125,11.392495900669292,2022-02-13 11:06:45
-71495,DE,2022-02-14,18:00:00,78120,Furtwangen,Marktplatz,Spaziergang,,unbekannt,,48.0521835,8.2063723,2022-02-13 11:06:45
-71312,DE,2022-02-14,18:00:00,82256,Fürstenfeldbruck,Volksfestplatz,Aufzug,,FFB hält zusammen,https://t.me/FFBZM/2,48.126963450000005,11.360337254691975,2022-02-13 11:06:45
-71489,DE,2022-02-14,18:00:00,01705,Freital,Neumarkt,Spaziergang,,unbekannt,,50.9999405,13.6503488,2022-02-13 11:06:45
-71493,DE,2022-02-14,18:00:00,03149,Forst,Stadtkirche,Spaziergang,,unbekannt,,51.743988200000004,14.64802958482659,2022-02-13 11:06:45
-71425,DE,2022-02-14,18:00:00,65817,Eppstein,Rathaus Vockenhausen,Spaziergang,,Freiheit,,50.1403409,8.3942935,2022-02-13 11:06:45
-71217,DE,2022-02-14,18:00:00,67304,Eisenberg / Pfalz,Am Markplatz 3,Spaziergang,,unbekannt,,49.5589556,8.0732258,2022-02-13 11:06:45
-71535,DE,2022-02-14,18:00:00,63329,Egelsbach,Berliner Platz,Spaziergang,,unbekannt,,49.9674148,8.665921753312361,2022-02-13 11:06:45
-71380,DE,2022-02-14,18:00:00,67480,Edenkoben,Parkplatz Radeburger Straße,Spaziergang,,unbekannt,,49.282236,8.1284357,2022-02-13 11:06:45
-71449,DE,2022-02-14,18:00:00,16225,Eberswalde bei Berlin,Marktplatz,Spaziergang,,privat,,52.83390953515527,13.814086457455799,2022-02-13 11:06:45
-71490,DE,2022-02-14,18:00:00,46282,Dorsten,neues Rathaus / Gemeindedreiec,Spaziergang,,unbekannt,,51.6604071,6.9647431,2022-02-13 11:06:45
-70284,DE,2022-02-14,18:00:00,84405,Dorfen,Unterer Markt,Spaziergang,,unbekannt,,48.2738641,12.1525626,2022-02-13 11:06:45
-71206,DE,2022-02-14,18:00:00,06844,Dessau-Roßlau,Marktplatz / vor dem Rathaus,Spaziergang,,Dessau steht auf,https://t.me/MontagsMahnwache,51.85044355,12.270461380903042,2022-02-13 11:06:45
-71292,DE,2022-02-14,18:00:00,94469,Deggendorf,Oberer Stadtplatz,Kundgebung,,KEINE EMAIL HIER REIN,,48.8344647,12.9623385,2022-02-13 11:06:45
-71339,DE,2022-02-14,18:00:00,49661,Cloppenburg,Rathaus,Spaziergang,,unbekannt,,52.84467515,8.04251816661344,2022-02-13 11:06:45
-71349,DE,2022-02-14,18:00:00,22956,Büttenwarder,Gasthaus unter den Linden,Bauerndemo,,unbekannt,,53.6403157111111,10.40855971441485,2022-02-13 11:06:45
-70303,DE,2022-02-14,18:00:00,03096,Burg / Spreewald,auf dem Festplatz,Spaziergang,,unbekannt,,51.8469434,14.187076338825337,2022-02-13 11:06:45
-71407,DE,2022-02-14,18:00:00,76646,Bruchsal,Otto-Oppenheimer-Platz,Spaziergang,,privat,,49.1229588,8.5998956,2022-02-13 11:06:45
-70268,DE,2022-02-14,18:00:00,59929,Brilon,Parkplatz Penny/Rewe,Spaziergang,,unbekannt,,51.3955721,8.5677743,2022-02-13 11:06:45
-71403,DE,2022-02-14,18:00:00,06749,Bitterfeld,Marktplatz,Spaziergang,,unbekannt,,51.6552456,12.095101,2022-02-13 11:06:45
-71596,DE,2022-02-14,18:00:00,13125,Berlin,Ballonplatz,Spaziergang,,unbekannt,,52.622075,13.4841662,2022-02-13 11:06:45
-71379,DE,2022-02-14,18:00:00,76756,Bellheim,Rathaus,Spaziergang,,unbekannt,,49.1932442,8.2856197,2022-02-13 11:06:45
-69147,DE,2022-02-14,18:00:00,92339,Beilngries,Kirchplatz Hauptstraße,Aufzug,,unbekannt,,49.035279,11.4733811,2022-02-13 11:06:45
-71470,DE,2022-02-14,18:00:00,93092,Barbing,Am Rathaus,Spaziergang,,unbekannt,,49.0029435,12.1977664,2022-02-13 11:06:45
-71279,DE,2022-02-14,18:00:00,88410,Bad Wurzach,Kurhaus,Spaziergang,,unbekannt,,47.910529249999996,9.899797184865186,2022-02-13 11:06:45
-71408,DE,2022-02-14,18:00:00,75323,Bad Wildbad,Rathaus (Kernerstr. 11),Spaziergang,,unbekannt,,48.7502439,8.550301,2022-02-13 11:06:45
-70934,DE,2022-02-14,18:00:00,61231,Bad Nauheim,Kiesallee / Kirche / ggü.,Spaziergang,,unbekannt,,50.3681107,8.7473608,2022-02-13 11:06:45
-71378,DE,2022-02-14,18:00:00,67098,Bad Dürkheim,Dürkheimer Fass,Spaziergang,,unbekannt,,49.4648885,8.1691812,2022-02-13 11:06:45
-70608,DE,2022-02-14,18:00:00,93077,Bad Abbach,Rathaus,Spaziergang,,unbekannt,https://t.me/Demotermine/42986,48.935531,12.050798679206256,2022-02-13 11:06:45
-71576,DE,2022-02-14,18:00:00,26603,Aurich,Marktplatz,Spaziergang,,keine Orga,,53.470508,7.4826295,2022-02-13 11:06:45
-71376,DE,2022-02-14,18:00:00,76855,Annweiler am Trifels,Kirchplatz,Spaziergang,,unbekannt,,49.1614025,8.041135229059055,2022-02-13 11:06:45
-71583,DE,2022-02-14,18:15:00,45479,Mülheim an der Ruhr,Parkplatz Stadthalle,Demonstration,,Coronasaurus,http://coronasaurus.de/,51.4272925,6.8829192,2022-02-13 11:06:45
-71413,DE,2022-02-14,18:29:00,85386,Eching,Bürgerplatz,Spaziergang,,unbekannt,,48.249772899999996,11.65117767905241,2022-02-13 11:06:45
-71429,DE,2022-02-14,18:30:00,21680,Stade,Am Sande,Spaziergang,,unbekannt,,53.5980026,9.4763282,2022-02-13 11:06:45
-71391,DE,2022-02-14,18:30:00,76764,Rheinzabern,Grundschule,Spaziergang,,unbekannt,,49.11656565,8.278495830980377,2022-02-13 11:06:45
-71409,DE,2022-02-14,18:30:00,25421,Pinneberg,Rathaus,Spaziergang,,unbekannt,,53.661928,9.7965709,2022-02-13 11:06:45
-71461,DE,2022-02-14,18:30:00,33098,Paderborn,Maspernplatz,Spaziergang,,Freie Bürger und Kinder der Demokratie,,51.7228088,8.754234,2022-02-13 11:06:45
-71201,DE,2022-02-14,18:30:00,95119,Naila,Marktplatz / vor Rathaus,Spaziergang,,jeder für sich,,50.3296301,11.7084131,2022-02-13 11:06:45
-71321,DE,2022-02-14,18:30:00,69181,Leimen,Marktplatz,Spaziergang,,unbekannt,,49.3498747,8.6890123,2022-02-13 11:06:45
-71385,DE,2022-02-14,18:30:00,76863,Herxheim,Villa Wieser,Spaziergang,,unbekannt,,49.145794,8.2154691,2022-02-13 11:06:45
-71384,DE,2022-02-14,18:30:00,67454,Hassloch,Pfalzplatz,Spaziergang,,unbekannt,,49.360803950000005,8.259981879585887,2022-02-13 11:06:45
-71548,DE,2022-02-14,18:30:00,38518,Gifhorn,Schützenplatz,Kundgebung,,Widerstand jetzt,,52.4853362,10.5360012,2022-02-13 11:06:45
-71546,DE,2022-02-14,18:30:00,38518,Gifhorn,Schützenplatz,Livestream,https://twitch.tv/Demokratievs1984,unbekannt,YouTube  Kanal Demokratievs1984,52.4853362,10.5360012,2022-02-13 11:06:45
-71381,DE,2022-02-14,18:30:00,76726,Germersheim,Nardiniplatz,Spaziergang,,unbekannt,,49.2181844,8.372091577341768,2022-02-13 11:06:45
-70904,DE,2022-02-14,18:30:00,63571,Gelnhausen,Obermarkt,Spaziergang,,unbekannt,,50.202975,9.1896333,2022-02-13 11:06:45
-71498,DE,2022-02-14,18:30:00,78199,Bräunlingen,Rathaus,Spaziergang,,unbekannt,,47.929496,8.4489572,2022-02-13 11:06:45
-71526,DE,2022-02-14,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,,51.52088485,6.9255365117204075,2022-02-13 11:06:45
-71524,DE,2022-02-14,18:30:00,54470,Bernkastel-Kues,VG Verwaltung,Spaziergang,,unbekannt,,49.9157398,7.0708181,2022-02-13 11:06:45
-71377,DE,2022-02-14,18:30:00,76887,Bad Bergzabern,Schloss,Spaziergang,,unbekannt,,49.103204250000005,7.998947080886366,2022-02-13 11:06:45
-69788,DE,2022-02-14,18:30:00,99510,Apolda,Markt/ Rathaus,Spaziergang,,unbekannt,,51.0227878,11.5129742,2022-02-13 11:06:45
-71604,DE,2022-02-14,18:45:00,76703,Kraichtal - Münzesheim,Rathaus,Spaziergang,,unbekannt,,49.1256672,8.7164183,2022-02-13 11:06:45
-70669,CH,2022-02-14,19:00:00,8023,Zürich,Bahnhofsquai u. weitere,Spaziergang,,Montagsspaziergang Zürich,https://t.me/Demotermine/43531,,,2022-02-13 11:06:45
-70947,DE,2022-02-14,19:00:00,26388,Wilhelmshaven,Kirchplatz Fedderwardergroden,Spaziergang,,Das deutsche Volk,,53.5278793,8.106301,2022-02-13 11:06:45
-71625,DE,2022-02-14,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,unbekannt,,53.5271438,8.1102415,2022-02-13 11:06:45
-70737,DE,2022-02-14,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,,53.5284913,8.1097734,2022-02-13 11:06:45
-71393,DE,2022-02-14,19:00:00,67346,Speyer,Domplatz (Königsplatz),Spaziergang,,unbekannt,,49.3165553,8.433615,2022-02-13 11:06:45
-71637,DE,2022-02-14,19:00:00,24768,Rendsburg,Paradeplatz / Lornsendenkmal,Spaziergang,,unbekannt,,54.3046701,9.6645115,2022-02-13 11:06:45
-71511,DE,2022-02-14,19:00:00,07952,Pausa,Marktplatz,Spaziergang,,unbekannt,,50.5801795,11.997094,2022-02-13 11:06:45
-71163,DE,2022-02-14,19:00:00,86720,Nördlingen,Rathaus,Spaziergang,,unbekannt,,48.85170665,10.488387500000002,2022-02-13 11:06:45
-71543,DE,2022-02-14,19:00:00,99734,Nordhausen,Theaterplatz,Kundgebung,,Freie Jugend,,51.503206,10.797813793753797,2022-02-13 11:06:45
-70982,DE,2022-02-14,19:00:00,22846,Norderstedt,Rathausalle beim Kino Spectrum,Spaziergang,,unbekannt,,53.7089898,9.9891914,2022-02-13 11:06:45
-71065,DE,2022-02-14,19:00:00,16816,Neuruppin,Schulplatz,Spaziergang,,unbekannt,,52.9243715,12.804685,2022-02-13 11:06:45
-67493,DE,2022-02-14,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198,53.55740205,13.260322640114307,2022-02-13 11:06:45
-71433,DE,2022-02-14,19:00:00,06618,Naumburg,Vogelwiese,Spaziergang,,Sachsen- Anhalt steht AUF !,,51.1485343,11.814797799901335,2022-02-13 11:06:45
-71469,DE,2022-02-14,19:00:00,99974,Mühlhausen/ Thüringen,Untermarkt mit Kerze,Spaziergang,,unbekannt,,51.2375983,10.461968567185986,2022-02-13 11:06:45
-70247,DE,2022-02-14,19:00:00,56727,Mayen,Marktplatz,Spaziergang,,unbekannt,,50.3273513,7.220498,2022-02-13 11:06:45
-71235,DE,2022-02-14,19:00:00,84048,Mainburg,Abensberger Str. 22,Spaziergang,,unbekannt,,48.6435361,11.7867275,2022-02-13 11:06:45
-71411,DE,2022-02-14,19:00:00,53545,Linz am Rhein,Rheintor,Spaziergang,,unbekannt,,50.5655853,7.278573661046511,2022-02-13 11:06:45
-71579,DE,2022-02-14,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,unbekannt,,47.91279,10.6356602,2022-02-13 11:06:45
-71387,DE,2022-02-14,19:00:00,76870,Kandel,Kriegerdenkmal Georgskirche,Spaziergang,,unbekannt,,49.0809754,8.1970699,2022-02-13 11:06:45
-71323,DE,2022-02-14,19:00:00,14913,Jüterbog,Marktplatz,Spaziergang,,unbekannt,,51.9911339,13.0804365,2022-02-13 11:06:45
-71502,DE,2022-02-14,19:00:00,38820,Halberstadt,Domplatz,Spaziergang,,unbekannt,,51.8956888,11.0487764,2022-02-13 11:06:45
-70774,DE,2022-02-14,19:00:00,17489,Greifswald,Marktplatz,Kundgebung,,Montagsdemo Greifswald,https://t.me/mo_demo_hgw,54.09481925,13.382091577894993,2022-02-13 11:06:45
-71599,DE,2022-02-14,19:00:00,07545,Gera,Stadtzentrum,Spaziergang,,unbekannt,,50.8772301,12.0796208,2022-02-13 11:06:45
-70291,DE,2022-02-14,19:00:00,85435,Erding,Schrannenplatz,Spaziergang,,unbekannt,,48.3062665,11.9072712,2022-02-13 11:06:45
-70651,CH,2022-02-14,19:00:00,8953,Dietikon,Bahnhof,Spaziergang,,unbekannt,https://t.me/Demotermine/43513,47.4043015,8.4034982,2022-02-13 11:06:45
-71612,DE,2022-02-14,19:00:00,92224,Amberg,ACC Hallenbad,Spaziergang,,unbekannt,https://t.me/amberg_steht_auf,49.4454211,11.858728,2022-02-13 11:06:45
-71372,DE,2022-02-14,19:00:00,83352,Altenmarkt,Rathaus,Spaziergang,,unbekannt,,48.0024844,12.5356038,2022-02-13 11:06:45
-71525,DE,2022-02-14,19:30:00,25421,Pinneberg,Rathausplatz,Spaziergang,,unbekannt,,53.63429925,9.8412963987197,2022-02-13 11:06:45
-71434,DE,2022-02-15,18:00:00,67378,Zeiskam,Fuchsbachhalle,Spaziergang,,unbekannt,,49.2354968,8.246433420812615,2022-02-13 11:06:45
-70958,DE,2022-02-15,18:00:00,57392,Schmallenberg,Am Alexanderhaus / a.d. kath...,Spaziergang,,unbekannt,,51.1525937,8.2836014,2022-02-13 11:06:45
-71593,DE,2022-02-15,18:00:00,63683,Ortenberg,Marktplatz,Spaziergang,,unbekannt,,50.3554618,9.0538677,2022-02-13 11:06:45
-71401,DE,2022-02-15,18:00:00,52428,Jülich,Hexenturm,Spaziergang,,unbekannt,,50.9208095,6.3560252,2022-02-13 11:06:45
-71475,DE,2022-02-15,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,unbekannt,,49.5846823,11.0095332,2022-02-13 11:06:45
-71595,DE,2022-02-15,19:00:00,92421,Schwandorf,Marktplatz,Kundgebung,,unbekannt,,49.3296022,12.1072358,2022-02-13 11:06:45
-71436,DE,2022-02-15,19:00:00,76774,Leimersheim,Kirchplatz,Spaziergang,,unbekannt,,49.0053999,8.331838,2022-02-13 11:06:45
-71437,DE,2022-02-15,19:00:00,76770,Hatzenbühl,Rathaus Bushaltestelle,Spaziergang,,unbekannt,,49.1108161,8.2438735,2022-02-13 11:06:45
-71615,DE,2022-02-16,17:00:00,70173,Stuttgart,Karlsplatz,Aufzug,,Privat,,48.776557049999994,9.180670027178799,2022-02-13 11:06:45
-71629,DE,2022-02-16,17:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2022-02-13 11:06:45
-71564,DE,2022-02-16,17:00:00,84028,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,,Kraftquelle Gebet Landshut,,48.536217,12.1516551,2022-02-13 11:06:45
-69871,DE,2022-02-16,17:00:00,25840,Friedrichstadt,Marktplatz,Spaziergang,,unbekannt,https://t.me/Demotermine/41085,54.4768957,9.051635654927008,2022-02-13 11:06:45
-70438,DE,2022-02-16,18:00:00,93149,Nittenau,Parkplatz am Burghof,Spaziergang,,unbekannt,https://t.me/Demotermine/42847,49.1980429,12.2718828,2022-02-13 11:06:45
-71440,DE,2022-02-16,18:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,,49.35144595,8.13971769857673,2022-02-13 11:06:45
-71439,DE,2022-02-16,18:00:00,76829,Landau/Pfalz,Deutsches Tor,Spaziergang,,unbekannt,,49.200282099999995,8.11525460229954,2022-02-13 11:06:45
-71577,DE,2022-02-16,18:00:00,65779,Kelkheim,Markt,Spaziergang,,Freiheit,,50.13434265,8.453129722533312,2022-02-13 11:06:45
-71402,DE,2022-02-16,18:00:00,52428,Jülich,Hexenturm,Spaziergang,,unbekannt,,50.9208095,6.3560252,2022-02-13 11:06:45
-71496,DE,2022-02-16,18:00:00,79618,Herten,Am Lindenbrunnen,Spaziergang,,unbekannt,,47.556031,7.7347234,2022-02-13 11:06:45
-71420,DE,2022-02-16,18:00:00,58675,Hemer,Rathaus,Spaziergang,,unbekannt,,51.3854029,7.766141955293132,2022-02-13 11:06:45
-71510,DE,2022-02-16,18:00:00,69115,Heidelberg,Schwanenteichanlage (Poststr.),Aufzug,,Mitarbeiter im Gesundheitswesen,,49.4093582,8.694724,2022-02-13 11:06:45
-70281,DE,2022-02-16,18:00:00,84405,Dorfen,Mariensäule,Gebet,,unbekannt,,48.2729498,12.1491656,2022-02-13 11:06:45
-71544,DE,2022-02-16,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html,50.200671,8.5829038,2022-02-13 11:06:45
-71581,DE,2022-02-16,19:00:00,01728,Possendorf,Kastanienallee,Spaziergang,,unbekannt,https://t.me/spazieren_in_possendorf,50.9682076,13.7113231,2022-02-13 11:06:45
-71618,DE,2022-02-16,19:00:00,01728,Possendorf,Kastanienallee,Spaziergang,,unbekannt,https://t.me/spazieren_in_possendorf,50.9682076,13.7113231,2022-02-13 11:06:45
-71438,DE,2022-02-16,19:00:00,76773,Kuhardt,Dorfplatz,Spaziergang,,unbekannt,,49.1458635,8.3145695,2022-02-13 11:06:45
-70585,DE,2022-02-16,19:00:00,86343,Königsbrunn,Marktplatz,Spaziergang,,unbekannt,https://bf-schwaben.de/,48.268725,10.8908126,2022-02-13 11:06:45
-71606,DE,2022-02-16,19:00:00,06632,Freyburg,Marktplatz,Spaziergang,,Sachsen- Anhalt steht AUF !,,51.301643999999996,11.803853841562002,2022-02-13 11:06:45
-70851,DE,2022-02-16,23:59:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf,52.624056,10.081052,2022-02-13 11:06:45
-71478,DE,2022-02-17,11:30:00,91052,Erlangen,Schlossplatz,Kundgebung,,Privat,,49.5975047,11.0044654,2022-02-13 11:06:45
-71479,DE,2022-02-17,12:30:00,91052,Erlangen,Schlossplatz,Spaziergang,,Privat,,49.5975047,11.0044654,2022-02-13 11:06:45
-71024,DE,2022-02-17,16:00:00,18055,Rostock,Rathaus,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,,54.0887556,12.14116191839107,2022-02-13 11:06:45
-71630,DE,2022-02-17,17:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.453872,11.077298,2022-02-13 11:06:45
-67567,DE,2022-02-17,18:00:00,85586,Poing,Friedensstraße 9 / Unterführung,Kundgebung,,Privat,https://t.me/CoronaPoing,48.172047,11.8090838,2022-02-13 11:06:45
-71442,DE,2022-02-17,18:00:00,76751,Jockgrim,Parkplatz Penny,Spaziergang,,unbekannt,,49.0950751,8.276964,2022-02-13 11:06:45
-71601,DE,2022-02-17,18:00:00,85072,Eichstätt,Residenzplatz,Aufzug,,unbekannt,,48.890678,11.1847001,2022-02-13 11:06:45
-71600,DE,2022-02-17,18:00:00,53902,Bad Münstereifel,Rathaus,Kundgebung,,unbekannt,,50.5550689,6.7628664,2022-02-13 11:06:45
-66975,DE,2022-02-17,18:30:00,29221,Celle,Stechbahn / vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf,52.624056,10.081052,2022-02-13 11:06:45
-71441,DE,2022-02-17,18:30:00,76887,Bad Bergzabern,Schloss,Spaziergang,,unbekannt,,49.103204250000005,7.998947080886366,2022-02-13 11:06:45
-71443,DE,2022-02-17,19:00:00,76777,Neupotz,Kirche,Spaziergang,,unbekannt,,49.1472936,8.2192417,2022-02-13 11:06:45
-71227,DE,2022-02-18,12:03:00,10117,Berlin,Brandenburger Tor,Kundgebung,,unbekannt,,52.51628045,13.377701882994323,2022-02-13 11:06:45
-21730,DE,2022-02-18,14:30:00,33605,Bielefeld,Innenstadt,Aufstand,,AFD,,52.017016600000005,8.544870615602374,2022-02-13 11:06:45
-71631,DE,2022-02-18,16:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.453872,11.077298,2022-02-13 11:06:45
-71259,DE,2022-02-18,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,unbekannt,,47.67030905,9.586421199708216,2022-02-13 11:06:45
-69785,DE,2022-02-18,18:00:00,45657,Recklinghausen,Rathausplatz,Demonstration,,Privat,,51.611683400000004,7.199596011634441,2022-02-13 11:06:45
-70657,AT,2022-02-18,18:00:00,3380,Pöchlarn,Rathausplatz,Aufzug,,Mostviertel steht auf,https://t.me/MOSTVIERTELDEMOINFOKANAL,48.2049694,15.1816371,2022-02-13 11:06:45
-71444,DE,2022-02-18,18:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,,49.35144595,8.13971769857673,2022-02-13 11:06:45
-71073,DE,2022-02-18,18:00:00,41460,Neuss,Münsterplatz,Spaziergang,,unbekannt,,51.1992832,6.6925088,2022-02-13 11:06:45
-70920,AT,2022-02-18,18:00:00,3390,Melk,Hauptplatz,Spaziergang,,unbekannt,https://t.me/doomsday_austria/53261,48.2270331,15.3297827,2022-02-13 11:06:45
-71610,DE,2022-02-18,19:00:00,92526,Oberviechtach,Rathaus,Spaziergang,,unbekannt,,49.4602721,12.4189759,2022-02-13 11:06:45
-71458,DE,2022-02-18,19:00:00,86720,Nördlingen,Rathaus,Spaziergang,,Unbekannt,,48.85170665,10.488387500000002,2022-02-13 11:06:45
-71569,DE,2022-02-19,11:00:00,84028,Landshut,Ländtor / Isarpromenade,Menschenkette,,unbekannt,,48.536217,12.1516551,2022-02-13 11:06:45
-70640,DE,2022-02-19,11:00:00,71394,Kernen im Remstal,Pausenhof Realschule,Kundgebung,,BI Freiheit und Gesundheit Kernen,http://www.bi-freiheit-gesundheit-kernen.de,48.7965338,9.3286487,2022-02-13 11:06:45
-70864,CH,2022-02-19,13:00:00,8050,Zürich,Marktplatz Oerlikon,Kundgebung,,Aktionsbündnis Urkantone,http://www.ur-kantone.ch,47.410663,8.5443072,2022-02-13 11:06:45
-71220,DE,2022-02-19,14:00:00,49074,Osnabrück,Schlossgarten,Demonstration,,unbekannt,,52.2704022,8.0456068,2022-02-13 11:06:45
-71105,DE,2022-02-19,14:00:00,81667,München,Weißenburger Platz,Kundgebung,,Ulrike Pfeffer (Ulli Oma),https://t.me/UlliOma_Muc/33137,48.128570100000005,11.596099725,2022-02-13 11:06:45
-71491,DE,2022-02-19,14:00:00,63906,Erlenbach am Main,Mechenharder Str. /Schwimmbad,Aufzug,Https://t.me/s/infomiltenberg,Freiheitsboten Miltenberg,Https://t.me/s/infomiltenberg,49.8089685,9.163513578249244,2022-02-13 11:06:45
-71485,DE,2022-02-19,14:00:00,63906,Erlenbach am Main,Mechenharder Str. /Schwimmbad,Aufzug,,Freiheitsboten Miltenberg,https://t.me/s/infomiltenberg,49.8089685,9.163513578249244,2022-02-13 11:06:45
-71632,DE,2022-02-19,17:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2022-02-13 11:06:45
-70277,IT,2022-02-19,17:00:00,39042,Brixen,Aquarena,Spaziergang,,unbekannt,,46.7165491,11.657851,2022-02-13 11:06:45
-71445,DE,2022-02-19,18:00:00,76761,Rülzheim,Kerweplatz,Spaziergang,,unbekannt,,49.15916075,8.28978055866924,2022-02-13 11:06:45
-70665,DE,2022-02-19,19:00:00,94051,Hauzenberg,Festplatz,Spaziergang,,Hauzenberg Spaziert,https://t.me/Passau_Aktionen,48.6551971,13.6276784,2022-02-13 11:06:45
-70424,DE,2022-02-20,14:00:00,80336,München,Theresienwiese,Kundgebung,,Kinderrechte Jetzt eV und Wie-Gemeinsam-Bündnis,www.wir-gemeinsam-buendnis.de,48.135672,11.5522316,2022-02-13 11:06:45
-70427,DE,2022-02-20,14:00:00,80336,München,Theresienwiese,Kundgebung,,Kinderrechte Jetzt eV und Wie-Gemeinsam-Bündnis,www.wir-gemeinsam-buendnis.de,48.135672,11.5522316,2022-02-13 11:06:45
-71447,DE,2022-02-20,15:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,,49.35144595,8.13971769857673,2022-02-13 11:06:45
-71482,DE,2022-02-20,15:00:00,22111,Hamburg,Bauerberg,Aufzug,,Frieden & Freiheit,,53.5531445,10.083187,2022-02-13 11:06:45
-71446,DE,2022-02-20,15:00:00,76726,Germersheim,Luitpoldplatz,Spaziergang,,unbeaknnt,,49.2179551,8.3743764,2022-02-13 11:06:45
-71515,DE,2022-02-20,15:00:00,85354,Freising,Marienplatz,Kundgebung,,Team Mensch / Bayern steht zusammen,https://t.me/BayernStehtZusammenTermine/358,48.40090235,11.74390820964436,2022-02-13 11:06:45
-71356,DE,2022-02-20,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,,53.8623859,8.698405997774456,2022-02-13 11:06:45
-71619,DE,2022-02-20,15:00:00,06406,Bernburg,Start: Wendeschleife Mc Doof,Autokorso,,unbekannt,,51.7930788,11.7391606,2022-02-13 11:06:45
-69153,DE,2022-02-20,15:45:00,92339,Beilngries,Main Donau Kanal/ Busparkplatz,Aufzug,,unbekannt,,49.035279,11.4733811,2022-02-13 11:06:45
-71620,DE,2022-02-20,16:30:00,06406,Bernburg,Karlsplatz / Weltzeituhr,Spaziergang,,unbekannt,,51.7930788,11.7391606,2022-02-13 11:06:45
-69828,DE,2022-02-20,16:30:00,14806,Bad Belzig,Marktplatz,Spaziergang,,Menschen,,52.1405426,12.5869613,2022-02-13 11:06:45
-69125,DE,2022-02-21,00:00:18,48565,Steinfurt Burgsteinfurt,Baumgarten 1 48565 Steinfurt,Aufzug,,unbekannt,,52.13714455,7.37609052974523,2022-02-13 11:06:45
-70485,DE,2022-02-21,18:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-02-13 11:06:45
-69941,DE,2022-02-21,18:00:00,83512,Wasserburg am Inn,Busbahnhof,Aufzug,,Luggi Maier (Kreisrat d. ÖDP),https://t.me/CoronaWiderstand_Wasserburg_Inn/2724,48.062781,12.2265873,2022-02-13 11:06:45
-71624,DE,2022-02-21,18:00:00,84478,Waldkraiburg,Rathaus,Spaziergang,,unbekannt,,48.2064195,12.401082562430368,2022-02-13 11:06:45
-71327,DE,2022-02-21,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,unbekannt,,47.998186950000004,11.341840182183248,2022-02-13 11:06:45
-71451,DE,2022-02-21,18:00:00,66583,Spiesen Elversberg,Rathaus / Hauptstraße,Spaziergang,,unbekannt,,49.3145046,7.1369778,2022-02-13 11:06:45
-71336,DE,2022-02-21,18:00:00,66583,Spiesen Elversberg,Spiesen Rathaus Hauptstraße,Spaziergang,,unbekannt,,49.3145046,7.1369778,2022-02-13 11:06:45
-70345,DE,2022-02-21,18:00:00,83358,Seebruck,Rathaus,Spaziergang,,Seeon-Seebruck steht auf,https://t.me/Chiemgauer_Widerstand/382,47.9340156,12.4783274,2022-02-13 11:06:45
-70777,DE,2022-02-21,18:00:00,93128,Regenstauf,Schwandorferstr. / Regenbrücke,Spaziergang,,unbekannt,,49.1239753,12.1278232,2022-02-13 11:06:45
-68785,DE,2022-02-21,18:00:00,28870,Quelkhorn,Denkmal,Spaziergang,,unbekannt,,53.1326996,9.0789977,2022-02-13 11:06:45
-70192,DE,2022-02-21,18:00:00,87724,Ottobeuren,Rathaus,Spaziergang,,unbekannt,,47.9706672,10.2659134,2022-02-13 11:06:45
-70791,DE,2022-02-21,18:00:00,22846,Norderstedt,Rathausalle beim Kino Spectrum,Spaziergang,,unbekannt,,53.7089898,9.9891914,2022-02-13 11:06:45
-70792,DE,2022-02-21,18:00:00,22846,Norderstedt,Rathausalle beim Kino Spectrum,Spaziergang,,unbekannt,,53.7089898,9.9891914,2022-02-13 11:06:45
-71074,DE,2022-02-21,18:00:00,41460,Neuss,Münsterplatz,Spaziergang,,unbekannt,,51.1992832,6.6925088,2022-02-13 11:06:45
-71343,DE,2022-02-21,18:00:00,68159,Mannheim,Marktplatz / G1,Aufzug,,Offene Gesellschaft Kurpfalz,http://offges.de/ma22,49.489607,8.4669588,2022-02-13 11:06:45
-71573,DE,2022-02-21,18:00:00,84028,Landshut,Ländtor,Spaziergang,,unbekannt,,48.53531375,12.149248217019215,2022-02-13 11:06:45
-70383,DE,2022-02-21,18:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.de,50.1068807,11.4581088,2022-02-13 11:06:45
-69063,DE,2022-02-21,18:00:00,52428,Jülich,Zum kleinen Wolfgang,Demonstration,,242Zusammen ImpfereiJÜL/DN,,50.9220931,6.3611015,2022-02-13 11:06:45
-68972,DE,2022-02-21,18:00:00,52428,Jülich,Gipfelkreuz Sophienhöhe,Demonstration,,242Zusammen Impffrei Jül/DN,,50.9220931,6.3611015,2022-02-13 11:06:45
-70297,DE,2022-02-21,18:00:00,83527,Haag in Oberbayern,Rathaus,Spaziergang,,unbekannt,,48.0567012,12.1628556,2022-02-13 11:06:45
-71313,DE,2022-02-21,18:00:00,82256,Fürstenfeldbruck,Volksfestplatz,Aufzug,,FFB hält zusammen,https://t.me/FFBZM/2,48.126963450000005,11.360337254691975,2022-02-13 11:06:45
-70285,DE,2022-02-21,18:00:00,84405,Dorfen,Unterer Markt,Spaziergang,,unbekannt,,48.2738641,12.1525626,2022-02-13 11:06:45
-71207,DE,2022-02-21,18:00:00,06844,Dessau-Roßlau,Marktplatz / vor dem Rathaus,Spaziergang,,Dessau steht auf,https://t.me/MontagsMahnwache,51.85044355,12.270461380903042,2022-02-13 11:06:45
-71293,DE,2022-02-21,18:00:00,94469,Deggendorf,Oberer Stadtplatz,Kundgebung,,KEINE EMAIL HIER REIN,,48.8344647,12.9623385,2022-02-13 11:06:45
-69148,DE,2022-02-21,18:00:00,92339,Beilngries,Kirchplatz Hauptstraße,Aufzug,,unbekannt,,49.035279,11.4733811,2022-02-13 11:06:45
-70609,DE,2022-02-21,18:00:00,93077,Bad Abbach,Rathaus,Spaziergang,,unbekannt,https://t.me/Demotermine/42986,48.935531,12.050798679206256,2022-02-13 11:06:45
-71602,DE,2022-02-21,18:15:00,45479,Mülheim an der Ruhr,Parkplatz Stadthalle,Demonstration,,unbekannt,https://www.coronasaurus.de,51.4272925,6.8829192,2022-02-13 11:06:45
-71529,DE,2022-02-21,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,,51.52088485,6.9255365117204075,2022-02-13 11:06:45
-69789,DE,2022-02-21,18:30:00,99510,Apolda,Markt/ Rathaus,Spaziergang,,unbekannt,,51.0227878,11.5129742,2022-02-13 11:06:45
-70670,CH,2022-02-21,19:00:00,8023,Zürich,Bahnhofsquai u. weitere,Spaziergang,,Montagsspaziergang Zürich,https://t.me/Demotermine/43531,,,2022-02-13 11:06:45
-70948,DE,2022-02-21,19:00:00,26388,Wilhelmshaven,Kirchplatz Fedderwardergroden,Spaziergang,,Das deutsche Volk,,53.5278793,8.106301,2022-02-13 11:06:45
-67494,DE,2022-02-21,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198,53.55740205,13.260322640114307,2022-02-13 11:06:45
-71430,DE,2022-02-21,19:00:00,56727,Mayen,Marktplatz,Spaziergang,,unbekannt,,50.3273513,7.220498,2022-02-13 11:06:45
-70290,DE,2022-02-21,19:00:00,85435,Erding,Schrannenplatz,Spaziergang,,unbekannt,,48.3062665,11.9072712,2022-02-13 11:06:45
-70652,CH,2022-02-21,19:00:00,8953,Dietikon,Bahnhof,Spaziergang,,Dietikon läuft,https://t.me/Demotermine/43513,47.4043015,8.4034982,2022-02-13 11:06:45
-71483,DE,2022-02-22,16:00:00,22111,Hamburg,Bauerberg,Kundgebung,,Frieden & Freiheit,,53.5531445,10.083187,2022-02-13 11:06:45
-70959,DE,2022-02-22,18:00:00,57392,Schmallenberg,Am Alexanderhaus / an der kath,Spaziergang,,unbekannt,,51.1525937,8.2836014,2022-02-13 11:06:45
-71480,DE,2022-02-22,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Privat,,49.5846823,11.0095332,2022-02-13 11:06:45
-71565,DE,2022-02-23,17:00:00,84028,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,,Kraftquelle Gebet Landshut,,48.536217,12.1516551,2022-02-13 11:06:45
-69872,DE,2022-02-23,17:00:00,25840,Friedrichstadt,Marktplatz,Spaziergang,,unbekannt,https://t.me/Demotermine/41085,54.4768957,9.051635654927008,2022-02-13 11:06:45
-70439,DE,2022-02-23,18:00:00,93149,Nittenau,Parkplatz am Burghof,Spaziergang,,unbekannt,https://t.me/Demotermine/42847,49.1980429,12.2718828,2022-02-13 11:06:45
-70852,DE,2022-02-23,23:59:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf,52.624056,10.081052,2022-02-13 11:06:45
-71026,DE,2022-02-24,16:00:00,18055,Rostock,Rathaus,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,,54.0887556,12.14116191839107,2022-02-13 11:06:45
-67568,DE,2022-02-24,18:00:00,85586,Poing,Friedensstraße 9 / Unterführung,Kundgebung,,Privat,https://t.me/CoronaPoing,48.172047,11.8090838,2022-02-13 11:06:45
-66976,DE,2022-02-24,18:30:00,29221,Celle,Stechbahn / vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf,52.624056,10.081052,2022-02-13 11:06:45
-71520,DE,2022-02-25,15:00:00,81675,München,Friedensengel / Luitpoldbrücke,Schilderwald,,UlliOma & Schild-Bürger-Aktion Allgäu,https://t.me/UlliOma_Muc/33640,48.1371079,11.5753822,2022-02-13 11:06:45
-69786,DE,2022-02-25,18:00:00,45657,Recklinghausen,Rathausplatz,Demonstration,,Privat,,51.611683400000004,7.199596011634441,2022-02-13 11:06:45
-70658,AT,2022-02-25,18:00:00,3380,Pöchlarn,Rathausplatz,Aufzug,,Mostviertel steht auf,https://t.me/MOSTVIERTELDEMOINFOKANAL,48.2049694,15.1816371,2022-02-13 11:06:45
-71076,DE,2022-02-25,18:00:00,41460,Neuss,Münsterplatz,Spaziergang,,unbekannt,,51.1992832,6.6925088,2022-02-13 11:06:45
-70922,AT,2022-02-25,18:00:00,3390,Melk,Hauptplatz,Spaziergang,,unbekannt,https://t.me/doomsday_austria/53261,48.2270331,15.3297827,2022-02-13 11:06:45
-71365,DE,2022-02-25,18:00:00,16540,Hohen Neuendorf,Rathausplatz,Aufzug,,unbekannt,,52.6376109,13.207253216279192,2022-02-13 11:06:45
-71570,DE,2022-02-26,11:00:00,84028,Landshut,Ländtor / Isarpromenade,Menschenkette,,unbekannt,,48.536217,12.1516551,2022-02-13 11:06:45
-70403,UK,2022-02-26,12:00:00,W1A,London,Central London,Demonstration,,uniteforfreedom,https://www.standupx.info,,,2022-02-13 11:06:45
-70823,DE,2022-02-26,13:00:00,70174,Stuttgart,Stadtgarten,Aufzug,,StudentenStehenAuf,https://gettr.com/user/stauf,48.7822601,9.1725275,2022-02-13 11:06:45
-71531,DE,2022-02-26,13:00:00,63741,Aschaffenburg,Volksfestplatz,Demonstration,,unbekannt,,49.97372155,9.137671799730178,2022-02-13 11:06:45
-71221,DE,2022-02-26,14:00:00,49074,Osnabrück,Schlossgarten,Demonstration,,unbekannt,,52.2704022,8.0456068,2022-02-13 11:06:45
-70617,DE,2022-02-26,17:00:00,94209,Regen,Stadtplatz,Kundgebung,https://dlive.tv/SelbstDenken21,SelbstDenken21,https://www.facebook.com/SelbstDenken21,48.9702063,13.1264315,2022-02-13 11:06:45
-70666,DE,2022-02-26,19:00:00,94051,Hauzenberg,Festplatz,Spaziergang,,Hauzenberg Spaziert,https://t.me/Passau_Aktionen,48.6551971,13.6276784,2022-02-13 11:06:45
-71357,DE,2022-02-27,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,,53.8623859,8.698405997774456,2022-02-13 11:06:45
-71484,DE,2022-02-27,15:30:00,91088,Bubenreuth,Baumzeil,Spaziergang,,Frieden & Freiheit und Demokratie,,49.6292162,11.0210207,2022-02-13 11:06:45
-69829,DE,2022-02-27,16:30:00,14806,Bad Belzig,Marktplatz,Spaziergang,,Menschen,,52.1405426,12.5869613,2022-02-13 11:06:45
-71290,DE,2022-02-27,18:00:00,87600,Kaufbeuren,Spittelmühle,Spaziergang,,unbekannt,,47.8803788,10.622246,2022-02-13 11:06:45
-69479,DE,2022-02-28,11:11:00,55116,Mainz,Dom,Aufzug,,unbekannt,,49.9990861,8.2727993,2022-02-13 11:06:45
-69478,DE,2022-02-28,11:11:00,50858,Köln,Chlodwigplatz,Aufzug,,unbekannt,,50.9217381,6.9591436,2022-02-13 11:06:45
-70943,DE,2022-02-28,13:00:00,45657,Recklinghausen,Rathausplatz,Demonstration,,Privat,,51.611683400000004,7.199596011634441,2022-02-13 11:06:45
-71346,DE,2022-02-28,13:13:00,55116,Mainz,Malakoff-Terasse,Aufzug,,Initiative 1bis19,http://maskenzug.de,50.0012314,8.2762513,2022-02-13 11:06:45
-68973,DE,2022-02-28,16:00:00,52428,Jülich,Schlossplatz,Kundgebung,,242Zusammen Impffrei Jül/DN,,50.92373045,6.359630391548043,2022-02-13 11:06:45
-71607,DE,2022-02-28,16:00:00,26603,Aurich,Krankenhaus,Sonstiges,,Impfstreik,https://impfstreik.compact-online.de/,53.4686399,7.496738,2022-02-13 11:06:45
-70486,DE,2022-02-28,18:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-02-13 11:06:45
-71017,DE,2022-02-28,18:00:00,16792,Zehdenick,Marktplatz,Spaziergang,,unbekannt,,52.9794838,13.3348959,2022-02-13 11:06:45
-69942,DE,2022-02-28,18:00:00,83512,Wasserburg am Inn,Busbahnhof,Aufzug,,Luggi Maier (Kreisrat d. ÖDP),https://t.me/CoronaWiderstand_Wasserburg_Inn/2724,48.062781,12.2265873,2022-02-13 11:06:45
-71626,DE,2022-02-28,18:00:00,84478,Waldkraiburg,Rathaus,Spaziergang,,unbekannt,,48.2064195,12.401082562430368,2022-02-13 11:06:45
-71328,DE,2022-02-28,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,unbekannt,,47.998186950000004,11.341840182183248,2022-02-13 11:06:45
-70346,DE,2022-02-28,18:00:00,83358,Seebruck,Rathaus,Spaziergang,,Seeon-Seebruck steht auf,https://t.me/Chiemgauer_Widerstand/382,47.9340156,12.4783274,2022-02-13 11:06:45
-70778,DE,2022-02-28,18:00:00,93128,Regenstauf,Schwandorferstr. / Regenbrücke,Spaziergang,,unbekannt,,49.1239753,12.1278232,2022-02-13 11:06:45
-68786,DE,2022-02-28,18:00:00,28870,Quelkhorn,Denkmal,Spaziergang,,unbekannt,,53.1326996,9.0789977,2022-02-13 11:06:45
-70193,DE,2022-02-28,18:00:00,87724,Ottobeuren,Rathaus,Spaziergang,,unbekannt,,47.9706672,10.2659134,2022-02-13 11:06:45
-71077,DE,2022-02-28,18:00:00,41460,Neuss,Münsterplatz,Spaziergang,,unbekannt,,51.1992832,6.6925088,2022-02-13 11:06:45
-71344,DE,2022-02-28,18:00:00,68159,Mannheim,Martktplatz / G1,Aufzug,,Offene Gesellschaft Kurpfalz,http://offges.de/ma23,49.4892913,8.4673098,2022-02-13 11:06:45
-71574,DE,2022-02-28,18:00:00,84028,Landshut,Ländtor,Spaziergang,,unbekannt,,48.53531375,12.149248217019215,2022-02-13 11:06:45
-70385,DE,2022-02-28,18:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.de,50.1068807,11.4581088,2022-02-13 11:06:45
-69041,DE,2022-02-28,18:00:00,52428,Jülich,Neusser Str. 11,Versammlung,,242Impffrei DN/JÜL,,50.924851200000006,6.364134849842904,2022-02-13 11:06:45
-71314,DE,2022-02-28,18:00:00,82256,Fürstenfeldbruck,Volksfestplatz,Aufzug,,FFB hält zusammen,https://t.me/FFBZM/2,48.126963450000005,11.360337254691975,2022-02-13 11:06:45
-70286,DE,2022-02-28,18:00:00,84405,Dorfen,Unterer Markt,Spaziergang,,unbekannt,,48.2738641,12.1525626,2022-02-13 11:06:45
-71208,DE,2022-02-28,18:00:00,06844,Dessau-Roßlau,Marktplatz / vor dem Rathaus,Spaziergang,,Dessau steht auf,https://t.me/MontagsMahnwache,51.85044355,12.270461380903042,2022-02-13 11:06:45
-69149,DE,2022-02-28,18:00:00,92339,Beilngries,Kirchplatz Hauptstraße,Aufzug,,unbekannt,,49.035279,11.4733811,2022-02-13 11:06:45
-70610,DE,2022-02-28,18:00:00,93077,Bad Abbach,Rathaus,Spaziergang,,unbekannt,https://t.me/Demotermine/42986,48.935531,12.050798679206256,2022-02-13 11:06:45
-71530,DE,2022-02-28,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,,51.52088485,6.9255365117204075,2022-02-13 11:06:45
-69790,DE,2022-02-28,18:30:00,99510,Apolda,Markt/ Rathaus,Spaziergang,,unbekannt,,51.0227878,11.5129742,2022-02-13 11:06:45
-70671,CH,2022-02-28,19:00:00,8023,Zürich,Bahnhofsquai u. weitere,Spaziergang,,Montagsspaziergang Zürich,https://t.me/Demotermine/43531,,,2022-02-13 11:06:45
-70949,DE,2022-02-28,19:00:00,26388,Wilhelmshaven,Kirchplatz Fedderwardergroden,Spaziergang,,Das deutsche Volk,,53.5278793,8.106301,2022-02-13 11:06:45
-67495,DE,2022-02-28,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198,53.55740205,13.260322640114307,2022-02-13 11:06:45
-71431,DE,2022-02-28,19:00:00,56727,Mayen,Marktplatz,Spaziergang,,unbekannt,,50.3273513,7.220498,2022-02-13 11:06:45
-70289,DE,2022-02-28,19:00:00,85435,Erding,Schrannenplatz,Spaziergang,,unbekannt,,48.3062665,11.9072712,2022-02-13 11:06:45
-70653,CH,2022-02-28,19:00:00,8953,Dietikon,Bahnhof,Spaziergang,,Dietikon läuft,https://t.me/Demotermine/43513,47.4043015,8.4034982,2022-02-13 11:06:45
-67479,DE,2022-03-01,18:00:00,36381,Schlüchtern,Feuerwehrplatz,Spaziergang,,Privat,,50.3485112,9.5253904,2022-02-13 11:06:45
-71589,DE,2022-03-02,10:00:00,94469,Deggendorf,Oberer Stadtplatz,Kundgebung,,AfD Bayern,,48.8344647,12.9623385,2022-02-13 11:06:45
-71566,DE,2022-03-02,17:00:00,84028,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,,Kraftquelle Gebet Landshut,,48.536217,12.1516551,2022-02-13 11:06:45
-67569,DE,2022-03-03,18:00:00,85586,Poing,Friedensstraße 9 / Unterführung,Kundgebung,,Privat,https://t.me/CoronaPoing,48.172047,11.8090838,2022-02-13 11:06:45
-66921,AT,2022-03-03,18:00:00,3361,Aschbach-Markt,Rathausplatz,Kundgebung,,unbekannt,,48.0730435,14.7487744,2022-02-13 11:06:45
-66977,DE,2022-03-03,18:30:00,29221,Celle,Stechbahn / vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf,52.624056,10.081052,2022-02-13 11:06:45
-70924,AT,2022-03-04,18:00:00,3390,Melk,Hauptplatz,Spaziergang,,unbekannt,https://t.me/doomsday_austria/53261,48.2270331,15.3297827,2022-02-13 11:06:45
-71571,DE,2022-03-05,11:00:00,84028,Landshut,Ländtor / Isarpromenade,Menschenkette,,unbekannt,,48.536217,12.1516551,2022-02-13 11:06:45
-70619,DE,2022-03-05,14:00:00,17033,Neubrandenburg,Parkplatz Belvedere / Broda,Aufzug,https://www.youtube.com/channel/UCyckV8FpsxAs_2HefVigObQ/featured,Neubrandenburger Spaziergang,https://www.facebook.com/profile.php?id=100064165685101,53.5574458,13.2602781,2022-02-13 11:06:45
-71457,DE,2022-03-05,14:00:00,80333,München,Königsplatz,Kundgebung,,AfD - Gesund ohne Zwang!,www.gesund-ohne-zwang.de,48.1457741,11.5653095,2022-02-13 11:06:45
-71550,DE,2022-03-05,14:00:00,80333,München,Königsplatz,Kundgebung,,AfD,https://t.me/pboehringer/1415,48.1457741,11.5653095,2022-02-13 11:06:45
-71040,DE,2022-03-05,17:00:00,84028,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,,Kraftquelle Gebet,https://t.me/c/1215577165/10248,48.536217,12.1516551,2022-02-13 11:06:45
-68974,DE,2022-03-07,16:00:00,52428,Jülich,Schlossplatz,Demonstration,,242Zusammen Impffrei Jül/DN,,50.92373045,6.359630391548043,2022-02-13 11:06:45
-71575,DE,2022-03-07,18:00:00,84028,Landshut,Ländtor,Spaziergang,,unbekannt,,48.53531375,12.149248217019215,2022-02-13 11:06:45
-69042,DE,2022-03-07,18:00:00,52428,Jülich,Neusser Str. 11,Kundgebung,,Vereinte Impffreunde,,50.924851200000006,6.364134849842904,2022-02-13 11:06:45
-71315,DE,2022-03-07,18:00:00,82256,Fürstenfeldbruck,Volksfestplatz,Aufzug,,FFB hält zusammen,https://t.me/FFBZM/2,48.126963450000005,11.360337254691975,2022-02-13 11:06:45
-67496,DE,2022-03-07,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198,53.55740205,13.260322640114307,2022-02-13 11:06:45
-70649,CH,2022-03-07,19:00:00,8953,Dietikon,Bahnhof,Spaziergang,,unbekannt,https://t.me/Demotermine/43513,47.4043015,8.4034982,2022-02-13 11:06:45
-71567,DE,2022-03-09,17:00:00,84028,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,,Kraftquelle Gebet Landshut,,48.536217,12.1516551,2022-02-13 11:06:45
-71028,DE,2022-03-10,16:00:00,18055,Rostock,Rathaus,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,,54.0887556,12.14116191839107,2022-02-13 11:06:45
-67570,DE,2022-03-10,18:00:00,85586,Poing,Friedensstraße 9 / Unterführung,Kundgebung,,Privat,https://t.me/CoronaPoing,48.172047,11.8090838,2022-02-13 11:06:45
-71519,DE,2022-03-11,10:00:00,80333,München,Stachus,Kundgebung,,Peter Glanz,https://t.me/UlliOma_Muc/33640,48.1394857,11.565622,2022-02-13 11:06:45
-71018,DE,2022-03-14,18:00:00,16792,Zehdenick,Marktplatz,Kundgebung,,unbekannt,,52.9794838,13.3348959,2022-02-13 11:06:45
-67497,DE,2022-03-14,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198,53.55740205,13.260322640114307,2022-02-13 11:06:45
-71029,DE,2022-03-17,16:00:00,18055,Rostock,Rathaus,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,,54.0887556,12.14116191839107,2022-02-13 11:06:45
-67571,DE,2022-03-17,18:00:00,85586,Poing,Friedensstraße 9 / Unterführung,Kundgebung,,Privat,https://t.me/CoronaPoing,48.172047,11.8090838,2022-02-13 11:06:45
-70406,UK,2022-03-19,12:00:00,TR12AF,Truro,Cathedral,Demonstration,,WORLD WIDE RALLY FOR FREEDOM UK,https://t.me/WWD_Cornwall,,,2022-02-13 11:06:45
-70405,UK,2022-03-19,13:00:00,OX11LQ,Oxford,Bonn Square,Demonstration,,FreedomOxford,https://t.me/WWDFreedomOxford,,,2022-02-13 11:06:45
-70426,DE,2022-03-20,14:00:00,80333,München,Theresienwiese,Kundgebung,,Kinderrechte Jetzt e.V. Wir-gemeinsam-Bündnis u.a.,www.wir-gemeinsam-buendnis.de,48.135672,11.5522316,2022-02-13 11:06:45
-70425,DE,2022-03-20,14:00:00,80333,München,Theresienwiese,Kundgebung,,Kinderrechte Jetzt e.V. Wir-gemeinsam-Bündnis u.a.,www.wir-gemeinsam-buendnis.de,48.135672,11.5522316,2022-02-13 11:06:45
-68976,DE,2022-03-21,13:12:00,52428,Jülich,Schlossplatz,Kundgebung,,242Zusammen Impffrei Jül/DN,,50.92373045,6.359630391548043,2022-02-13 11:06:45
-67498,DE,2022-03-21,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198,53.55740205,13.260322640114307,2022-02-13 11:06:45
-71030,DE,2022-03-24,16:00:00,18055,Rostock,Rathaus,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,,54.0887556,12.14116191839107,2022-02-13 11:06:45
-67572,DE,2022-03-24,18:00:00,85586,Poing,Friedensstraße 9 / Unterführung,Kundgebung,,Privat,https://t.me/CoronaPoing,48.172047,11.8090838,2022-02-13 11:06:45
-70620,DE,2022-03-26,14:00:00,17034,Neubrandenburg / Datzeberg,Parkpl. Sportanlagen Datzeberg,Aufzug,https://www.youtube.com/channel/UCyckV8FpsxAs_2HefVigObQ/featured,Neubrandenburger Spaziergang,https://www.facebook.com/profile.php?id=100064165685101,53.56982276135283,13.273010433225355,2022-02-13 11:06:45
-71019,DE,2022-03-28,18:00:00,16792,Zehdenick,Marktplatz,Kundgebung,,unbekannt,,52.9794838,13.3348959,2022-02-13 11:06:45
-69014,DE,2022-03-28,18:00:00,52428,Jülich,Neusser Str. / Höhe Post,Bauerndemo,,240 Impffrei Jül/DN,,50.9220931,6.3611015,2022-02-13 11:06:45
-67499,DE,2022-03-28,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198,53.55740205,13.260322640114307,2022-02-13 11:06:45
-71031,DE,2022-03-31,16:00:00,18055,Rostock,Rathaus,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,,54.0887556,12.14116191839107,2022-02-13 11:06:45
-67573,DE,2022-03-31,18:00:00,85586,Poing,Friedensstraße 9 / Unterführung,Kundgebung,,Privat,https://t.me/CoronaPoing,48.172047,11.8090838,2022-02-13 11:06:45
-66923,AT,2022-04-01,18:00:00,8323,St Marein / b. Graz,Beim Kirchplatz,Spaziergang,,unbekannt,,47.0190636700043,15.66998486052931,2022-02-13 11:06:45
-69045,DE,2022-04-04,18:00:00,52428,Jülich,Irish Pub,Musik,,242Impferei JÜL/DN,,50.9306347,6.3610350411315615,2022-02-13 11:06:45
-67500,DE,2022-04-04,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198,53.55740205,13.260322640114307,2022-02-13 11:06:45
-69046,DE,2022-04-11,18:00:00,52428,Jülich,Im Liebevoll,Eis essen,,242Impferei DN/JÜL,,50.9220931,6.3611015,2022-02-13 11:06:45
-69047,DE,2022-04-25,18:00:00,52428,Jülich,Liebevoll,Demonstration,,242Impferei JÜ,,50.922304,6.3587156,2022-02-13 11:06:45
-3890,DE,2022-07-19,18:00:00,33098,Paderborn,Rathausplatz,Kundgebung,,unbekannt,,51.7169744,8.7538304,2022-02-13 11:06:45
-66925,AT,2022-08-01,15:00:00,7000,Eisenstadt,Laschoberstrasse 48,Kundgebung,,unbekannt,,47.8404053,16.5256712,2022-02-13 11:06:45
-69511,DE,2022-10-20,18:30:00,60389,Frankfurt Bornheim,Günthersburgpark,Aufzug,,unbekannt,https://t.me/ffmfreiheit,50.1304742,8.7051121,2022-02-13 11:06:45
-55107,DE,2022-12-18,13:45:00,70182,Stuttgart,Wilhelmsplatz,Kundgebung,,unbekannt,,48.7709861,9.1788068,2022-02-13 11:06:45
-55530,DE,2022-12-27,18:00:00,94072,Bad Füssing,Kurplatz / Kurallee,Spaziergang,,unbekannt,,48.3506733,13.3095441,2022-02-13 11:06:45
-69431,DE,2922-01-17,19:00:00,50667,Köln,Roncalliplatz/Domplatte,Spaziergang,,unbekannt,,50.938361,6.959974,2022-02-13 11:06:45
+71585,DE,2022-02-13,10:45:00,75016,Bretten,Marktplatz,Meditation,,unbekannt,,49.0369237,8.7069363,2022-02-13 13:15:31
+71062,DE,2022-02-13,14:00:00,16866,Kyritz,Marktplatz (Rathaus),Kundgebung,,Bürgerinitiative Region Kyritz,http://www.region-kyritz.de,52.9430648,12.3966896,2022-02-13 13:15:31
+71416,DE,2022-02-13,14:00:00,03238,Finsterwalde,Edeka (große Unterführung),Kundgebung,,unbekannt,,51.6315282,13.707358,2022-02-13 13:15:31
+71359,DE,2022-02-13,14:00:00,76530,Baden-Baden,Reinhard-Fieser-Brücke,Demonstration,https://www.baden-baden.de/stadtportrait/aktuelles/webcams,aufRecht:FREIdenken,https://www.solidarnosch.de/covid-19.htm,48.7603613,8.23874067530155,2022-02-13 13:15:31
+71611,DE,2022-02-13,14:00:00,92224,Amberg,ACC Hallenbad,Spaziergang,,unbekannt,https://t.me/amberg_steht_auf,49.4454211,11.858728,2022-02-13 13:15:31
+71161,DE,2022-02-13,14:30:00,86720,Nördlingen,Kaiserwiese,Aufzug,,Für eine bessere Zukunft,,48.8562686,10.4824677,2022-02-13 13:15:31
+70950,DE,2022-02-13,14:30:00,85049,Ingolstadt,Volksfestplatz,Kundgebung,,Daniele D Amuri / Bayern steht zusammen,https://t.me/BayernStehtZusammenTermine/354,48.7630165,11.4250395,2022-02-13 13:15:31
+71636,DE,2022-02-13,14:30:00,20249,Hamburg Eppendorf,Eppendorf Marktplatz Haynspark,Spaziergang,,Privat,,53.588420325090986,9.988577782250294,2022-02-13 13:15:31
+71559,DE,2022-02-13,14:30:00,22251,Hamburg,Eppendorfer Marktplatz,Aufzug,,unbekannt,,,,2022-02-13 13:15:31
+71527,DE,2022-02-13,15:00:00,97877,Wertheim,Main-Tauber-Halle,Spaziergang,,unbekannt,,49.754681950000005,9.518342115363058,2022-02-13 13:15:31
+71628,DE,2022-02-13,15:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2022-02-13 13:15:31
+71249,DE,2022-02-13,15:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,,49.35144595,8.13971769857673,2022-02-13 13:15:31
+71248,DE,2022-02-13,15:00:00,76726,Germersheim,Luitpoldplatz,Spaziergang,,unbekannt,,49.2179551,8.3743764,2022-02-13 13:15:31
+71355,DE,2022-02-13,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,,53.8623859,8.698405997774456,2022-02-13 13:15:31
+71638,DE,2022-02-13,15:00:00,65812,Bad Soden,Neuer Kurpark / Salinenstraße,Aufzug,,unbekannt,,50.1517006,8.4899671,2022-02-13 13:15:31
+71179,DE,2022-02-13,15:00:00,65812,Bad Soden,Neuer Kurpark Salinenstraße,Aufzug,,unbekannt,,50.1517006,8.4899671,2022-02-13 13:15:31
+71054,DE,2022-02-13,16:00:00,83022,Rosenheim,Mangfallpark Süd,Aufzug,,Mahnwache Rosenheim,https://t.me/GruppeMahnwacheRosenheim/67399,47.8539273,12.127262,2022-02-13 13:15:31
+71661,DE,2022-02-13,16:30:00,01279,Dresden,Österreicher 39 / Dominos Pizza,Spaziergang,,unbekannt,,51.0762895,13.73846258995878,2022-02-13 13:15:31
+71617,DE,2022-02-13,16:30:00,06406,Bernburg,Karlsplatz / Weltzeituhr,Spaziergang,,unbekannt,,51.7930788,11.7391606,2022-02-13 13:15:31
+69827,DE,2022-02-13,16:30:00,14806,Bad Belzig,Marktplatz,Spaziergang,,Menschen,,52.1405426,12.5869613,2022-02-13 13:15:31
+71352,DE,2022-02-13,17:00:00,85229,Markt Indersdorf,Marktplatz,Spaziergang,,unbekannt,,48.3613164,11.3738682,2022-02-13 13:15:31
+71286,DE,2022-02-13,18:00:00,99994,Schlotheim,Markt,Spaziergang,,unbekannt,,51.2472937,10.6558097,2022-02-13 13:15:31
+71277,DE,2022-02-13,18:00:00,73760,Ostfildern,Gesamter Ort,Spaziergang,,unbekannt,,48.7178603,9.2630693,2022-02-13 13:15:31
+71608,DE,2022-02-13,18:00:00,31275,Lehrte,im Verlauf der Burgdorfer Str.,Kundgebung,,Freies Lehrte,https://t.me/freieslehrte,52.3749334,9.9748557,2022-02-13 13:15:31
+71320,DE,2022-02-13,18:00:00,86916,Kaufering,Parkplatz Sportzentrum,Spaziergang,,unbekannt,,48.0871324,10.8605317,2022-02-13 13:15:31
+71289,DE,2022-02-13,18:00:00,87600,Kaufbeuren,Spittelmühle,Spaziergang,,unbekannt,,47.8803788,10.622246,2022-02-13 13:15:31
+71398,DE,2022-02-13,18:00:00,52428,Jülich,Hexenturm,Spaziergang,,unbekannt,,50.9208095,6.3560252,2022-02-13 13:15:31
+71424,DE,2022-02-13,19:00:00,21279,Hollenstedt,Samtgemeide Verwaltung,Spaziergang,,unbekannt,,53.3684089,9.7125276,2022-02-13 13:15:31
+71219,DE,2022-02-14,08:00:00,67269,Grünstadt,Kreuzerweg 2 / Stadtverwaltung,Spaziergang,,unbekannt,,49.5655288,8.163722,2022-02-13 13:15:31
+71464,DE,2022-02-14,09:29:00,42277,Wuppertal,Rathaus neumarkt,Spaziergang,,unbekannt,,51.264018,7.1780374,2022-02-13 13:15:31
+71466,DE,2022-02-14,16:15:00,42277,Wuppertal neu,Wuppertal barmem Rathaus,Spaziergang,,unbekannt,,51.28210303495464,7.220691556131405,2022-02-13 13:15:31
+71643,DE,2022-02-14,17:30:00,61250,Usingen,Alter Marktplatz,Aufzug,,unbekannt,,50.3356842,8.533606204491488,2022-02-13 13:15:31
+71605,DE,2022-02-14,17:30:00,21073,Hamburg-Harburg,vor Rathaus,Spaziergang,,unbekannt,,53.457842663374066,9.973021410556516,2022-02-13 13:15:31
+71597,DE,2022-02-14,17:30:00,45139,Essen-Huttrop,Storpplatz,Spaziergang,,Querdenken201,,51.4543697,7.035525116496668,2022-02-13 13:15:31
+71609,DE,2022-02-14,17:30:00,45139,Essen-Huttrop,Storpplatz,Spaziergang,,Querdenken201,,51.4543697,7.035525116496668,2022-02-13 13:15:31
+71598,DE,2022-02-14,17:30:00,15848,Beeskow,Marktplatz,Spaziergang,https://t.me/beeskow_freiheit,Die Menschen aus Beeskow,https://t.me/beeskow_freiheit,52.172059149999995,14.247087949999997,2022-02-13 13:15:31
+70484,DE,2022-02-14,18:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-02-13 13:15:31
+71016,DE,2022-02-14,18:00:00,16792,Zehdenick,Marktplatz,Spaziergang,,unbekannt,,52.9794838,13.3348959,2022-02-13 13:15:31
+71394,DE,2022-02-14,18:00:00,76744,Wörth/Rhein,Altes Rathaus,Spaziergang,,unbekannt,,49.052063450000006,8.268342249999996,2022-02-13 13:15:31
+71584,DE,2022-02-14,18:00:00,97353,Wiesentheid,Mariensäule,Spaziergang,,unbekannt,,49.7936508,10.3419479,2022-02-13 13:15:31
+71406,DE,2022-02-14,18:00:00,25980,Westerland,Sylter Welle,Spaziergang,,unbekannt,,54.9096144,8.2997839,2022-02-13 13:15:31
+71465,DE,2022-02-14,18:00:00,58791,Werdohl,Rathaus,Spaziergang,,unbekannt,,51.253362,7.7643727,2022-02-13 13:15:31
+71432,DE,2022-02-14,18:00:00,06667,Weißenfels,Marktplatz,Spaziergang,,Sachsen- Anhalt steht AUF !,,51.20095215,11.972447334552237,2022-02-13 13:15:31
+69940,DE,2022-02-14,18:00:00,83512,Wasserburg am Inn,Busbahnhof,Aufzug,,Luggi Maier (Kreisrat d. ÖDP),https://t.me/CoronaWiderstand_Wasserburg_Inn/2724,48.062781,12.2265873,2022-02-13 13:15:31
+71410,DE,2022-02-14,18:00:00,34414,Warburg,Rathaus,Spaziergang,,unbekannt,,51.488864500000005,9.147889671698113,2022-02-13 13:15:31
+71623,DE,2022-02-14,18:00:00,84478,Waldkraiburg,Rathaus,Spaziergang,,unbekannt,,48.2064195,12.401082562430368,2022-02-13 13:15:31
+71334,DE,2022-02-14,18:00:00,71111,Waldenbuch,Marktplatz,Spaziergang,,unbekannt,,48.6368377,9.1317637,2022-02-13 13:15:31
+71514,DE,2022-02-14,18:00:00,53840,Troisdorf,Bushaltestelle vor dem Rathaus,Spaziergang,,unbekannt,,50.8153071,7.1593271,2022-02-13 13:15:31
+71258,DE,2022-02-14,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,unbekannt,,47.67030905,9.586421199708216,2022-02-13 13:15:31
+71528,DE,2022-02-14,18:00:00,97941,Tauberbischofsheim,Marktplatz,Spaziergang,,unbekannt,,49.6231019,9.6623766,2022-02-13 13:15:31
+71689,DE,2022-02-14,18:00:00,70563,Stuttgart-Vaihingen,Bürgerbüro Rathausplatz,Spaziergang,,unbekannt,,48.73138621512997,9.107339775434287,2022-02-13 13:15:31
+71448,DE,2022-02-14,18:00:00,75334,Straubenhardt-Feldrennach,Marktplatz,Spaziergang,,unbekannt,,48.8547448,8.5315244,2022-02-13 13:15:31
+71326,DE,2022-02-14,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,unbekannt,,47.998186950000004,11.341840182183248,2022-02-13 13:15:31
+71335,DE,2022-02-14,18:00:00,66583,Spiesen-Elversberg,Spiesen Rathaus Hauptstraße,Spaziergang,,unbekannt,,49.3145046,7.1369778,2022-02-13 13:15:31
+71450,DE,2022-02-14,18:00:00,66583,Spiesen Elversberg,Rathaus / Spiese Hauptstraße,Spaziergang,,unbekannt,,49.3145046,7.1369778,2022-02-13 13:15:31
+70344,DE,2022-02-14,18:00:00,83358,Seebruck,Rathaus,Spaziergang,,Seeon-Seebruck steht auf,https://t.me/Chiemgauer_Widerstand/382,47.9340156,12.4783274,2022-02-13 13:15:31
+71622,DE,2022-02-14,18:00:00,28790,Schwanewede,Rathaus,Spaziergang,,Menschen mit Verstand,,53.23381145,8.596041821186667,2022-02-13 13:15:31
+71621,DE,2022-02-14,18:00:00,28790,Schwanewede,Rathaus,Spaziergang,,unbekannt,,53.23381145,8.596041821186667,2022-02-13 13:15:31
+71282,DE,2022-02-14,18:00:00,74523,Schwäbisch Hall,Marktplatz,Spaziergang,,unbekannt,,49.1123819,9.73721257848682,2022-02-13 13:15:31
+71392,DE,2022-02-14,18:00:00,76761,Rülzheim,Kerweplatz,Spaziergang,,unbekannt,,49.15916075,8.28978055866924,2022-02-13 13:15:31
+71672,DE,2022-02-14,18:00:00,65385,Rüdesheim,Am Markt - Rathaus,Spaziergang,,Privat - alle die ein Zeichen setzen wollen gegen die geplante Einführung der Impfpflicht,,49.9816097,7.9310198,2022-02-13 13:15:31
+71667,DE,2022-02-14,18:00:00,41569,Rommerskirchen,Vor dem Rathaus,Spaziergang,,unbekannt,,51.0333007,6.683337,2022-02-13 13:15:31
+71518,DE,2022-02-14,18:00:00,17207,Röbel /Müritz,Rathaus,Spaziergang,,unbekannt,,53.377026150000006,12.606027127778678,2022-02-13 13:15:31
+70776,DE,2022-02-14,18:00:00,93128,Regenstauf,Schwandorferstr. / Regenbrücke,Spaziergang,,unbekannt,,49.1239753,12.1278232,2022-02-13 13:15:31
+71330,DE,2022-02-14,18:00:00,40885,Ratingen-Lintorf,Kirche - St. Anna (am Markt),Spaziergang,,Privat,,51.333258,6.8312298,2022-02-13 13:15:31
+68784,DE,2022-02-14,18:00:00,28870,Quelkhorn,Denkmal,Spaziergang,,unbekannt,,53.1326996,9.0789977,2022-02-13 13:15:31
+71654,DE,2022-02-14,18:00:00,75175,Pforzheim,Marktplatz,Aufzug,,unbekannt,,48.8914943,8.7055085,2022-02-13 13:15:31
+71369,DE,2022-02-14,18:00:00,19348,Perleberg,Großer Markt am Roland,Spaziergang,,Menschen,,53.0762716,11.8627933,2022-02-13 13:15:31
+71460,DE,2022-02-14,18:00:00,33102,Paderborn,Parkplatz Fürstenweg Freibad,Autokorso,,Klardenken 525,https://t.me/klar525,51.71895955,8.764869778177559,2022-02-13 13:15:31
+70191,DE,2022-02-14,18:00:00,87724,Ottobeuren,Rathaus,Spaziergang,,unbekannt,,47.9706672,10.2659134,2022-02-13 13:15:31
+71390,DE,2022-02-14,18:00:00,76879,Ottersheim,Dorfplatz,Spaziergang,,unbekannt,,49.23743005,8.091310815572768,2022-02-13 13:15:31
+70790,DE,2022-02-14,18:00:00,22846,Norderstedt,Rathausalle beim Kino Spectrum,Spaziergang,,unbekannt,,53.7089898,9.9891914,2022-02-13 13:15:31
+71592,DE,2022-02-14,18:00:00,63667,Nidda,Marktplatz,Spaziergang,,unbekannt,,50.4124192,9.0087191,2022-02-13 13:15:31
+71389,DE,2022-02-14,18:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,,49.35144595,8.13971769857673,2022-02-13 13:15:31
+71072,DE,2022-02-14,18:00:00,41460,Neuss,Münsterplatz,Spaziergang,,unbekannt,,51.1992832,6.6925088,2022-02-13 13:15:31
+71603,DE,2022-02-14,18:00:00,63263,Neu-Isenburg,Marktplatz,Spaziergang,,unbekannt,,50.055865,8.6969194,2022-02-13 13:15:31
+71371,DE,2022-02-14,18:00:00,06249,Mücheln,Marktplatz,Spaziergang,,Freie Menschen,,51.301643999999996,11.803853841562002,2022-02-13 13:15:31
+71536,DE,2022-02-14,18:00:00,60547,Mörfelden Walldorf,Flughafenstr. 37 / Walldorf,Spaziergang,,unbekannt,,49.9923836,8.5622468,2022-02-13 13:15:31
+71512,DE,2022-02-14,18:00:00,56410,Montabaur,Konrad Adenauer Platz,Aufzug,,unbekannt,,50.4357003,7.8293126,2022-02-13 13:15:31
+71516,DE,2022-02-14,18:00:00,34212,Melsungen,Marktplatz,Spaziergang,,unbekannt,,51.1309376,9.5434385,2022-02-13 13:15:31
+71481,DE,2022-02-14,18:00:00,53894,Mechernich,Zum Markt 12 / ggü. Post,Spaziergang,,Freie Bürger Mechernich,https://t.me/wirkreiseuskirchen,50.5909999,6.6525479,2022-02-13 13:15:31
+71453,DE,2022-02-14,18:00:00,85570,Markt Schwaben,Marktplatz,Spaziergang,,unbekannt,,48.190927,11.8688663,2022-02-13 13:15:31
+70771,DE,2022-02-14,18:00:00,35037,Marburg,Elisabeth Blochmann Platz,Spaziergang,,unbekannt,,50.8082118,8.7750026,2022-02-13 13:15:31
+71342,DE,2022-02-14,18:00:00,68159,Mannheim,Schloss / Ehrenhof,Aufzug,,Offene Gesellschaft Kurpfalz,,49.4827626,8.4622595,2022-02-13 13:15:31
+71613,DE,2022-02-14,18:00:00,44532,Lünen,Wily-Brandt-Platz - Rathaus,Spaziergang,,Lünen denkt anders,https://t.me/luenendenktanders,51.6142482,7.5228088,2022-02-13 13:15:31
+69662,DE,2022-02-14,18:00:00,23564,Lübeck,Hermann-Hesse-Park,Spaziergang,,unbekannt,,53.866444,10.684738,2022-02-13 13:15:31
+71688,DE,2022-02-14,18:00:00,70771,Leinfelden-Echterdingen,Bernhäuser Straße / Am Rathaus,Spaziergang,,unbekannt,,48.6901796,9.1525725,2022-02-13 13:15:31
+71533,DE,2022-02-14,18:00:00,63225,Langen (Hessen),Goethestraße,Spaziergang,,unbekannt,,49.9891871,8.6648133,2022-02-13 13:15:31
+71572,DE,2022-02-14,18:00:00,84028,Landshut,Ländtor,Spaziergang,,unbekannt,,48.53531375,12.149248217019215,2022-02-13 13:15:31
+71388,DE,2022-02-14,18:00:00,76829,Landau/Pfalz,Deutsches Tor,Spaziergang,,unbekannt,,49.200282099999995,8.11525460229954,2022-02-13 13:15:31
+71423,DE,2022-02-14,18:00:00,68623,Lampertheim,Altes Rathaus,Sonstiges,,unbekannt,,49.59426845,8.466863499999992,2022-02-13 13:15:31
+71422,DE,2022-02-14,18:00:00,68623,Lampertheim,Altes Rathaus,Sonstiges,,unbekannt,,49.59426845,8.466863499999992,2022-02-13 13:15:31
+70382,DE,2022-02-14,18:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.de,50.1068807,11.4581088,2022-02-13 13:15:31
+71405,DE,2022-02-14,18:00:00,85082,Kösching,Rathaus,Spaziergang,,unbekannt,,,,2022-02-13 13:15:31
+71487,DE,2022-02-14,18:00:00,56068,Koblenz,Clemensplatz,Spaziergang,,unbekannt,,50.3583148,7.6006241,2022-02-13 13:15:31
+71534,DE,2022-02-14,18:00:00,04567,Kitzscher,Rathaus,Spaziergang,,unbekannt,,51.16375845,12.550440798979356,2022-02-13 13:15:31
+71501,DE,2022-02-14,18:00:00,87435,Kempten,Hildegardplatz,Aufzug,,unbekannt,,47.7277528,10.3118719,2022-02-13 13:15:31
+71669,DE,2022-02-14,18:00:00,76133,Karlsruhe,Stephanplatz (Postgalerie),Aufzug,,unbekannt,,49.0068705,8.4034195,2022-02-13 13:15:31
+68744,DE,2022-02-14,18:00:00,52428,Jülich,Aachener Landstr 31 / LeTrou,Kundgebung,,242 Jül/Dn,,50.9220931,6.3611015,2022-02-13 13:15:31
+71400,DE,2022-02-14,18:00:00,52428,Jülich,Hexenturm,Spaziergang,,unbekannt,,50.9208095,6.3560252,2022-02-13 13:15:31
+68946,DE,2022-02-14,18:00:00,52428,Jülich,Schlossplatz / Touristinfo,Demonstration,,Antifa Jülich GmbH und Co.Kg,,50.9220931,6.3611015,2022-02-13 13:15:31
+71627,DE,2022-02-14,18:00:00,85737,Ismaning,Kirchplatz,Spaziergang,,unbekannt,,48.226781,11.6753251,2022-02-13 13:15:31
+71386,DE,2022-02-14,18:00:00,76879,Hochstadt Pfalz,Rathaus,Spaziergang,,unbekannt,,49.2314228,8.2487647,2022-02-13 13:15:31
+71419,DE,2022-02-14,18:00:00,58675,Hemer,Rathaus,Spaziergang,,unbekannt,,51.3854029,7.766141955293132,2022-02-13 13:15:31
+71418,DE,2022-02-14,18:00:00,58675,Hemer,Rathaus,Spaziergang,,unbekannt,,51.3854029,7.766141955293132,2022-02-13 13:15:31
+71370,DE,2022-02-14,18:00:00,22607,Hamburg,Beselerplatz,Spaziergang,,Unbekannt,,53.5605519,9.8883432,2022-02-13 13:15:31
+69175,DE,2022-02-14,18:00:00,20359,Hamburg,Kunsthallle Lombardsbr FerdTor,Gegenprotest,,Privat,,53.550341,10.000654,2022-02-13 13:15:31
+71383,DE,2022-02-14,18:00:00,76767,Hagenbach,Kirche,Spaziergang,,unbekannt,,49.01651215,8.245194700842697,2022-02-13 13:15:31
+70296,DE,2022-02-14,18:00:00,83527,Haag in Oberbayern,Rathaus,Spaziergang,,unbekannt,,48.0567012,12.1628556,2022-02-13 13:15:31
+71382,DE,2022-02-14,18:00:00,06773,Gräfenhainichen,Paul-Gerhardt-Kapelle,Spaziergang,,unbekannt,,51.72906525,12.4549071,2022-02-13 13:15:31
+71591,DE,2022-02-14,18:00:00,37083,Göttingen,Jahnstadion Parkplatz Sandweg,Spaziergang,,unbekannt,,51.5328328,9.9351811,2022-02-13 13:15:31
+71660,DE,2022-02-14,18:00:00,159938,Golße,Marktplatz,Spaziergang,,unbekannt,,,,2022-02-13 13:15:31
+71642,DE,2022-02-14,18:00:00,61479,Glashütten,Bürgerhaus,Aufzug,,unbekannt,,50.21574485,8.401656508241736,2022-02-13 13:15:31
+71454,DE,2022-02-14,18:00:00,45894,Gelsenkirchen - Buer,Volksbank Gelsenkirchen-Buer,Spaziergang,,unbekannt,,51.581143884518504,7.052264543439609,2022-02-13 13:15:31
+71560,DE,2022-02-14,18:00:00,39638,Gardelegen,Rathaus,Spaziergang,,unbekannt,,52.5264125,11.392495900669292,2022-02-13 13:15:31
+71495,DE,2022-02-14,18:00:00,78120,Furtwangen,Marktplatz,Spaziergang,,unbekannt,,48.0521835,8.2063723,2022-02-13 13:15:31
+71312,DE,2022-02-14,18:00:00,82256,Fürstenfeldbruck,Volksfestplatz,Aufzug,,FFB hält zusammen,https://t.me/FFBZM/2,48.126963450000005,11.360337254691975,2022-02-13 13:15:31
+71489,DE,2022-02-14,18:00:00,01705,Freital,Neumarkt,Spaziergang,,unbekannt,,50.9999405,13.6503488,2022-02-13 13:15:31
+71641,DE,2022-02-14,18:00:00,60311,Frankfurt,Paulsplatz,Aufzug,,unbekannt,,50.11116515,8.681499413696454,2022-02-13 13:15:31
+71493,DE,2022-02-14,18:00:00,03149,Forst,Stadtkirche,Spaziergang,,unbekannt,,51.743988200000004,14.64802958482659,2022-02-13 13:15:31
+71665,DE,2022-02-14,18:00:00,70734,Fellbach,Lutherkirche,Spaziergang,,unbekannt,,48.8087353,9.27627719852025,2022-02-13 13:15:31
+71425,DE,2022-02-14,18:00:00,65817,Eppstein,Rathaus Vockenhausen,Spaziergang,,Freiheit,,50.1403409,8.3942935,2022-02-13 13:15:31
+71633,DE,2022-02-14,18:00:00,48282,Emsdetten,St. Pankratius Kirche,Spaziergang,,unbekannt,,52.174687,7.5301756,2022-02-13 13:15:31
+71217,DE,2022-02-14,18:00:00,67304,Eisenberg / Pfalz,Am Markplatz 3,Spaziergang,,unbekannt,,49.5589556,8.0732258,2022-02-13 13:15:31
+71535,DE,2022-02-14,18:00:00,63329,Egelsbach,Berliner Platz,Spaziergang,,unbekannt,,49.9674148,8.665921753312361,2022-02-13 13:15:31
+71380,DE,2022-02-14,18:00:00,67480,Edenkoben,Parkplatz Radeburger Straße,Spaziergang,,unbekannt,,49.282236,8.1284357,2022-02-13 13:15:31
+71449,DE,2022-02-14,18:00:00,16225,Eberswalde bei Berlin,Marktplatz,Spaziergang,,privat,,52.83390953515527,13.814086457455799,2022-02-13 13:15:31
+71676,DE,2022-02-14,18:00:00,01277,Dresden,Altenberger Pl. / Kino Ost,Spaziergang,,unbekannt,,51.0762895,13.73846258995878,2022-02-13 13:15:31
+71674,DE,2022-02-14,18:00:00,01127,Dresden,Mickten Straßenbahnhof,Spaziergang,,unbekannt,,51.08005865,13.713128852164147,2022-02-13 13:15:31
+71675,DE,2022-02-14,18:00:00,01324,Dresden,Bühlau / Bibliothek,Spaziergang,,unbekannt,,51.0616248,13.8488284,2022-02-13 13:15:31
+71687,DE,2022-02-14,18:00:00,01237,Dresden,Leuben / Operette,Spaziergang,,unbekannt,,51.0762895,13.73846258995878,2022-02-13 13:15:31
+71684,DE,2022-02-14,18:00:00,01157,Dresden,Cotta / Hebbelplatz,Spaziergang,,unbekannt,,51.0762895,13.73846258995878,2022-02-13 13:15:31
+71681,DE,2022-02-14,18:00:00,01279,Dresden,Blasewitz / Schillerplatz,Spaziergang,,unbekannt,,51.0522268,13.8044835,2022-02-13 13:15:31
+71682,DE,2022-02-14,18:00:00,01199,Dresden,Goldener Reiter,Spaziergang,,unbekannt,,51.0581119,13.741307984714286,2022-02-13 13:15:31
+71673,DE,2022-02-14,18:00:00,01069,Dresden,Wiener Pl. Hbf,Spaziergang,,unbekannt,,51.0762895,13.73846258995878,2022-02-13 13:15:31
+71686,DE,2022-02-14,18:00:00,01239,Dresden,Niedersedlitz / Feuerwehr,Spaziergang,,unbekannt,,50.997747950000004,13.820385567235924,2022-02-13 13:15:31
+71490,DE,2022-02-14,18:00:00,46282,Dorsten,neues Rathaus / Gemeindedreiec,Spaziergang,,unbekannt,,51.6604071,6.9647431,2022-02-13 13:15:31
+70284,DE,2022-02-14,18:00:00,84405,Dorfen,Unterer Markt,Spaziergang,,unbekannt,,48.2738641,12.1525626,2022-02-13 13:15:31
+71206,DE,2022-02-14,18:00:00,06844,Dessau-Roßlau,Marktplatz / vor dem Rathaus,Spaziergang,,Dessau steht auf,https://t.me/MontagsMahnwache,51.85044355,12.270461380903042,2022-02-13 13:15:31
+71292,DE,2022-02-14,18:00:00,94469,Deggendorf,Oberer Stadtplatz,Kundgebung,,KEINE EMAIL HIER REIN,,48.8344647,12.9623385,2022-02-13 13:15:31
+71339,DE,2022-02-14,18:00:00,49661,Cloppenburg,Rathaus,Spaziergang,,unbekannt,,52.84467515,8.04251816661344,2022-02-13 13:15:31
+71349,DE,2022-02-14,18:00:00,22956,Büttenwarder,Gasthaus unter den Linden,Bauerndemo,,unbekannt,,53.6403157111111,10.40855971441485,2022-02-13 13:15:31
+70303,DE,2022-02-14,18:00:00,03096,Burg / Spreewald,auf dem Festplatz,Spaziergang,,unbekannt,,51.8469434,14.187076338825337,2022-02-13 13:15:31
+71407,DE,2022-02-14,18:00:00,76646,Bruchsal,Otto-Oppenheimer-Platz,Spaziergang,,privat,,49.1229588,8.5998956,2022-02-13 13:15:31
+70268,DE,2022-02-14,18:00:00,59929,Brilon,Parkplatz Penny/Rewe,Spaziergang,,unbekannt,,51.3955721,8.5677743,2022-02-13 13:15:31
+71691,DE,2022-02-14,18:00:00,27576,Bremerhaven,Lessingschule / Hafenstraße,Spaziergang,,Mondays for Future,,53.5505392,8.5851945,2022-02-13 13:15:31
+71403,DE,2022-02-14,18:00:00,06749,Bitterfeld,Marktplatz,Spaziergang,,unbekannt,,51.6552456,12.095101,2022-02-13 13:15:31
+71596,DE,2022-02-14,18:00:00,13125,Berlin,Ballonplatz,Spaziergang,,unbekannt,,52.622075,13.4841662,2022-02-13 13:15:31
+71379,DE,2022-02-14,18:00:00,76756,Bellheim,Rathaus,Spaziergang,,unbekannt,,49.1932442,8.2856197,2022-02-13 13:15:31
+69147,DE,2022-02-14,18:00:00,92339,Beilngries,Kirchplatz Hauptstraße,Aufzug,,unbekannt,,49.035279,11.4733811,2022-02-13 13:15:31
+71470,DE,2022-02-14,18:00:00,93092,Barbing,Am Rathaus,Spaziergang,,unbekannt,,49.0029435,12.1977664,2022-02-13 13:15:31
+71279,DE,2022-02-14,18:00:00,88410,Bad Wurzach,Kurhaus,Spaziergang,,unbekannt,,47.910529249999996,9.899797184865186,2022-02-13 13:15:31
+71408,DE,2022-02-14,18:00:00,75323,Bad Wildbad,Rathaus (Kernerstr. 11),Spaziergang,,unbekannt,,48.7502439,8.550301,2022-02-13 13:15:31
+70934,DE,2022-02-14,18:00:00,61231,Bad Nauheim,Kiesallee / Kirche / ggü.,Spaziergang,,unbekannt,,50.3681107,8.7473608,2022-02-13 13:15:31
+71378,DE,2022-02-14,18:00:00,67098,Bad Dürkheim,Dürkheimer Fass,Spaziergang,,unbekannt,,49.4648885,8.1691812,2022-02-13 13:15:31
+71655,DE,2022-02-14,18:00:00,57319,Bad Berleburg,Rathaus,Spaziergang,,unbekannt,,51.0538758,8.3931644,2022-02-13 13:15:31
+70608,DE,2022-02-14,18:00:00,93077,Bad Abbach,Rathaus,Spaziergang,,unbekannt,https://t.me/Demotermine/42986,48.935531,12.050798679206256,2022-02-13 13:15:31
+71576,DE,2022-02-14,18:00:00,26603,Aurich,Marktplatz,Spaziergang,,keine Orga,,53.470508,7.4826295,2022-02-13 13:15:31
+71376,DE,2022-02-14,18:00:00,76855,Annweiler am Trifels,Kirchplatz,Spaziergang,,unbekannt,,49.1614025,8.041135229059055,2022-02-13 13:15:31
+71664,DE,2022-02-14,18:01:00,87719,Mindelheim,Marienbrunnen/Rathaus,Spaziergang,,unbekannt,,48.0464164,10.4882504,2022-02-13 13:15:31
+71583,DE,2022-02-14,18:15:00,45479,Mülheim an der Ruhr,Parkplatz Stadthalle,Demonstration,,Coronasaurus,http://coronasaurus.de/,51.4272925,6.8829192,2022-02-13 13:15:31
+71413,DE,2022-02-14,18:29:00,85386,Eching,Bürgerplatz,Spaziergang,,unbekannt,,48.249772899999996,11.65117767905241,2022-02-13 13:15:31
+71429,DE,2022-02-14,18:30:00,21680,Stade,Am Sande,Spaziergang,,unbekannt,,53.5980026,9.4763282,2022-02-13 13:15:31
+71391,DE,2022-02-14,18:30:00,76764,Rheinzabern,Grundschule,Spaziergang,,unbekannt,,49.11656565,8.278495830980377,2022-02-13 13:15:31
+71409,DE,2022-02-14,18:30:00,25421,Pinneberg,Rathaus,Spaziergang,,unbekannt,,53.661928,9.7965709,2022-02-13 13:15:31
+71461,DE,2022-02-14,18:30:00,33098,Paderborn,Maspernplatz,Spaziergang,,Freie Bürger und Kinder der Demokratie,,51.7228088,8.754234,2022-02-13 13:15:31
+71201,DE,2022-02-14,18:30:00,95119,Naila,Marktplatz / vor Rathaus,Spaziergang,,jeder für sich,,50.3296301,11.7084131,2022-02-13 13:15:31
+71321,DE,2022-02-14,18:30:00,69181,Leimen,Marktplatz,Spaziergang,,unbekannt,,49.3498747,8.6890123,2022-02-13 13:15:31
+71385,DE,2022-02-14,18:30:00,76863,Herxheim,Villa Wieser,Spaziergang,,unbekannt,,49.145794,8.2154691,2022-02-13 13:15:31
+71384,DE,2022-02-14,18:30:00,67454,Hassloch,Pfalzplatz,Spaziergang,,unbekannt,,49.360803950000005,8.259981879585887,2022-02-13 13:15:31
+71548,DE,2022-02-14,18:30:00,38518,Gifhorn,Schützenplatz,Kundgebung,,Widerstand jetzt,,52.4853362,10.5360012,2022-02-13 13:15:31
+71546,DE,2022-02-14,18:30:00,38518,Gifhorn,Schützenplatz,Livestream,https://twitch.tv/Demokratievs1984,unbekannt,YouTube  Kanal Demokratievs1984,52.4853362,10.5360012,2022-02-13 13:15:31
+71381,DE,2022-02-14,18:30:00,76726,Germersheim,Nardiniplatz,Spaziergang,,unbekannt,,49.2181844,8.372091577341768,2022-02-13 13:15:31
+70904,DE,2022-02-14,18:30:00,63571,Gelnhausen,Obermarkt,Spaziergang,,unbekannt,,50.202975,9.1896333,2022-02-13 13:15:31
+71683,DE,2022-02-14,18:30:00,01109,Dresden,Klotzsche Rathaus,Spaziergang,,unbekannt,,51.1118502,13.7740644,2022-02-13 13:15:31
+71498,DE,2022-02-14,18:30:00,78199,Bräunlingen,Rathaus,Spaziergang,,unbekannt,,47.929496,8.4489572,2022-02-13 13:15:31
+71526,DE,2022-02-14,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,,51.52088485,6.9255365117204075,2022-02-13 13:15:31
+71524,DE,2022-02-14,18:30:00,54470,Bernkastel-Kues,VG Verwaltung,Spaziergang,,unbekannt,,49.9157398,7.0708181,2022-02-13 13:15:31
+71639,DE,2022-02-14,18:30:00,61348,Bad Homburg,Rathausplatz,Aufzug,,unbekannt,,50.2231718,8.622395108364664,2022-02-13 13:15:31
+71377,DE,2022-02-14,18:30:00,76887,Bad Bergzabern,Schloss,Spaziergang,,unbekannt,,49.103204250000005,7.998947080886366,2022-02-13 13:15:31
+69788,DE,2022-02-14,18:30:00,99510,Apolda,Markt/ Rathaus,Spaziergang,,unbekannt,,51.0227878,11.5129742,2022-02-13 13:15:31
+71604,DE,2022-02-14,18:45:00,76703,Kraichtal - Münzesheim,Rathaus,Spaziergang,,unbekannt,,49.1256672,8.7164183,2022-02-13 13:15:31
+70669,CH,2022-02-14,19:00:00,8023,Zürich,Bahnhofsquai u. weitere,Spaziergang,,Montagsspaziergang Zürich,https://t.me/Demotermine/43531,,,2022-02-13 13:15:31
+70947,DE,2022-02-14,19:00:00,26388,Wilhelmshaven,Kirchplatz Fedderwardergroden,Spaziergang,,Das deutsche Volk,,53.5278793,8.106301,2022-02-13 13:15:31
+70737,DE,2022-02-14,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,,53.5284913,8.1097734,2022-02-13 13:15:31
+71625,DE,2022-02-14,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,unbekannt,,53.5271438,8.1102415,2022-02-13 13:15:31
+71393,DE,2022-02-14,19:00:00,67346,Speyer,Domplatz (Königsplatz),Spaziergang,,unbekannt,,49.3165553,8.433615,2022-02-13 13:15:31
+71637,DE,2022-02-14,19:00:00,24768,Rendsburg,Paradeplatz / Lornsendenkmal,Spaziergang,,unbekannt,,54.3046701,9.6645115,2022-02-13 13:15:31
+71679,DE,2022-02-14,19:00:00,01445,Radebeul,Ostbhf,Spaziergang,,unbekannt,,51.0999765,13.6767995,2022-02-13 13:15:31
+71511,DE,2022-02-14,19:00:00,07952,Pausa,Marktplatz,Spaziergang,,unbekannt,,50.5801795,11.997094,2022-02-13 13:15:31
+71662,DE,2022-02-14,19:00:00,07952,Pausa,Marktplatz,Spaziergang,,unbekannt,,50.5801795,11.997094,2022-02-13 13:15:31
+71163,DE,2022-02-14,19:00:00,86720,Nördlingen,Rathaus,Spaziergang,,unbekannt,,48.85170665,10.488387500000002,2022-02-13 13:15:31
+71543,DE,2022-02-14,19:00:00,99734,Nordhausen,Theaterplatz,Kundgebung,,Freie Jugend,,51.503206,10.797813793753797,2022-02-13 13:15:31
+70982,DE,2022-02-14,19:00:00,22846,Norderstedt,Rathausalle beim Kino Spectrum,Spaziergang,,unbekannt,,53.7089898,9.9891914,2022-02-13 13:15:31
+71666,DE,2022-02-14,19:00:00,37355,Niederorschel,Marktplatz,Spaziergang,,unbekannt,,51.3693893,10.4263714,2022-02-13 13:15:31
+71065,DE,2022-02-14,19:00:00,16816,Neuruppin,Schulplatz,Spaziergang,,unbekannt,,52.9243715,12.804685,2022-02-13 13:15:31
+67493,DE,2022-02-14,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198,53.55740205,13.260322640114307,2022-02-13 13:15:31
+71433,DE,2022-02-14,19:00:00,06618,Naumburg,Vogelwiese,Spaziergang,,Sachsen- Anhalt steht AUF !,,51.1485343,11.814797799901335,2022-02-13 13:15:31
+71469,DE,2022-02-14,19:00:00,99974,Mühlhausen/ Thüringen,Untermarkt mit Kerze,Spaziergang,,unbekannt,,51.2375983,10.461968567185986,2022-02-13 13:15:31
+70247,DE,2022-02-14,19:00:00,56727,Mayen,Marktplatz,Spaziergang,,unbekannt,,50.3273513,7.220498,2022-02-13 13:15:31
+71235,DE,2022-02-14,19:00:00,84048,Mainburg,Abensberger Str. 22,Spaziergang,,unbekannt,,48.6435361,11.7867275,2022-02-13 13:15:31
+71411,DE,2022-02-14,19:00:00,53545,Linz am Rhein,Rheintor,Spaziergang,,unbekannt,,50.5655853,7.278573661046511,2022-02-13 13:15:31
+71579,DE,2022-02-14,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,unbekannt,,47.91279,10.6356602,2022-02-13 13:15:31
+71387,DE,2022-02-14,19:00:00,76870,Kandel,Kriegerdenkmal Georgskirche,Spaziergang,,unbekannt,,49.0809754,8.1970699,2022-02-13 13:15:31
+71323,DE,2022-02-14,19:00:00,14913,Jüterbog,Marktplatz,Spaziergang,,unbekannt,,51.9911339,13.0804365,2022-02-13 13:15:31
+71657,DE,2022-02-14,19:00:00,96142,Hollfeld,Rathaus,Spaziergang,,unbekannt,,49.9387319,11.2916587,2022-02-13 13:15:31
+71680,DE,2022-02-14,19:00:00,01809,Heidenau,Markt,Spaziergang,,unbekannt,,50.9801946,13.8630568,2022-02-13 13:15:31
+71502,DE,2022-02-14,19:00:00,38820,Halberstadt,Domplatz,Spaziergang,,unbekannt,,51.8956888,11.0487764,2022-02-13 13:15:31
+70774,DE,2022-02-14,19:00:00,17489,Greifswald,Marktplatz,Kundgebung,,Montagsdemo Greifswald,https://t.me/mo_demo_hgw,54.09481925,13.382091577894993,2022-02-13 13:15:31
+71599,DE,2022-02-14,19:00:00,07545,Gera,Stadtzentrum,Spaziergang,,unbekannt,,50.8772301,12.0796208,2022-02-13 13:15:31
+70291,DE,2022-02-14,19:00:00,85435,Erding,Schrannenplatz,Spaziergang,,unbekannt,,48.3062665,11.9072712,2022-02-13 13:15:31
+71677,DE,2022-02-14,19:00:00,01108,Dresden,Weixdorf / Rathausplatz,Spaziergang,,unbekannt,,51.0762895,13.73846258995878,2022-02-13 13:15:31
+71685,DE,2022-02-14,19:00:00,01156,Dresden,Cossebaude B6/Brauergasse,Spaziergang,,unbekannt,,51.0762895,13.73846258995878,2022-02-13 13:15:31
+70651,CH,2022-02-14,19:00:00,8953,Dietikon,Bahnhof,Spaziergang,,unbekannt,https://t.me/Demotermine/43513,47.4043015,8.4034982,2022-02-13 13:15:31
+71656,DE,2022-02-14,19:00:00,21244,Buchholz i.d.N.,Parkplatz Rathaus,Spaziergang,,unbekannt,,53.32920935,9.880566954050696,2022-02-13 13:15:31
+71612,DE,2022-02-14,19:00:00,92224,Amberg,ACC Hallenbad,Spaziergang,,unbekannt,https://t.me/amberg_steht_auf,49.4454211,11.858728,2022-02-13 13:15:31
+71372,DE,2022-02-14,19:00:00,83352,Altenmarkt,Rathaus,Spaziergang,,unbekannt,,48.0024844,12.5356038,2022-02-13 13:15:31
+71525,DE,2022-02-14,19:30:00,25421,Pinneberg,Rathausplatz,Spaziergang,,unbekannt,,53.63429925,9.8412963987197,2022-02-13 13:15:31
+71690,DE,2022-02-14,20:00:00,74549,Wolpertshausen,Rathaus,Spaziergang,,unbekannt,,49.1674938,9.845567254826262,2022-02-13 13:15:31
+71692,IT,2022-02-15,09:30:00,38122,Trento,Piazza Dante,Demonstration,,Ci siamo Trentino,https://t.me/CiSiAMOTrentino/6555,46.0702575,11.1197314,2022-02-13 13:15:31
+71434,DE,2022-02-15,18:00:00,67378,Zeiskam,Fuchsbachhalle,Spaziergang,,unbekannt,,49.2354968,8.246433420812615,2022-02-13 13:15:31
+70958,DE,2022-02-15,18:00:00,57392,Schmallenberg,Am Alexanderhaus / a.d. kath...,Spaziergang,,unbekannt,,51.1525937,8.2836014,2022-02-13 13:15:31
+71593,DE,2022-02-15,18:00:00,63683,Ortenberg,Marktplatz,Spaziergang,,unbekannt,,50.3554618,9.0538677,2022-02-13 13:15:31
+71401,DE,2022-02-15,18:00:00,52428,Jülich,Hexenturm,Spaziergang,,unbekannt,,50.9208095,6.3560252,2022-02-13 13:15:31
+71645,DE,2022-02-15,18:30:00,60439,Frankfurt Heddernheim,Karl-Perotte-Platz,Aufzug,,unbekannt,,50.1604190392707,8.633883891449265,2022-02-13 13:15:31
+71644,DE,2022-02-15,18:30:00,60308,Frankfurt,Messeturm,Aufzug,,unbekannt,,50.1123148,8.65272262448141,2022-02-13 13:15:31
+71475,DE,2022-02-15,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,unbekannt,,49.5846823,11.0095332,2022-02-13 13:15:31
+71595,DE,2022-02-15,19:00:00,92421,Schwandorf,Marktplatz,Kundgebung,,unbekannt,,49.3296022,12.1072358,2022-02-13 13:15:31
+71436,DE,2022-02-15,19:00:00,76774,Leimersheim,Kirchplatz,Spaziergang,,unbekannt,,49.0053999,8.331838,2022-02-13 13:15:31
+71437,DE,2022-02-15,19:00:00,76770,Hatzenbühl,Rathaus Bushaltestelle,Spaziergang,,unbekannt,,49.1108161,8.2438735,2022-02-13 13:15:31
+71678,DE,2022-02-15,19:00:00,01129,Dresden,Trachau / Wilder Mann Endhst. 3,Spaziergang,,unbekannt,,51.0762895,13.73846258995878,2022-02-13 13:15:31
+71615,DE,2022-02-16,17:00:00,70173,Stuttgart,Karlsplatz,Aufzug,,Privat,,48.776557049999994,9.180670027178799,2022-02-13 13:15:31
+71629,DE,2022-02-16,17:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2022-02-13 13:15:31
+71564,DE,2022-02-16,17:00:00,84028,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,,Kraftquelle Gebet Landshut,,48.536217,12.1516551,2022-02-13 13:15:31
+69871,DE,2022-02-16,17:00:00,25840,Friedrichstadt,Marktplatz,Spaziergang,,unbekannt,https://t.me/Demotermine/41085,54.4768957,9.051635654927008,2022-02-13 13:15:31
+71693,DE,2022-02-16,17:30:00,45879,Gelsenkirchen,Hans-Sachs-Haus,Aufzug,,unbekannt,https://t.me/+SOoi3gLcLRhhODAy,51.511042149999994,7.092698492144408,2022-02-13 13:15:31
+71658,DE,2022-02-16,18:00:00,78549,Spaichingen,Marktplatz,Kundgebung,,unbekannt,,48.0754033,8.7360846,2022-02-13 13:15:31
+70438,DE,2022-02-16,18:00:00,93149,Nittenau,Parkplatz am Burghof,Spaziergang,,unbekannt,https://t.me/Demotermine/42847,49.1980429,12.2718828,2022-02-13 13:15:31
+71440,DE,2022-02-16,18:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,,49.35144595,8.13971769857673,2022-02-13 13:15:31
+71671,DE,2022-02-16,18:00:00,80333,München,Königsplatz,Aufzug,,München steht auf / Melchior Ibing,https://t.me/muenchenstehtauf/2053,48.1457741,11.5653095,2022-02-13 13:15:31
+71439,DE,2022-02-16,18:00:00,76829,Landau/Pfalz,Deutsches Tor,Spaziergang,,unbekannt,,49.200282099999995,8.11525460229954,2022-02-13 13:15:31
+71577,DE,2022-02-16,18:00:00,65779,Kelkheim,Markt,Spaziergang,,Freiheit,,50.13434265,8.453129722533312,2022-02-13 13:15:31
+71402,DE,2022-02-16,18:00:00,52428,Jülich,Hexenturm,Spaziergang,,unbekannt,,50.9208095,6.3560252,2022-02-13 13:15:31
+71496,DE,2022-02-16,18:00:00,79618,Herten,Am Lindenbrunnen,Spaziergang,,unbekannt,,47.556031,7.7347234,2022-02-13 13:15:31
+71420,DE,2022-02-16,18:00:00,58675,Hemer,Rathaus,Spaziergang,,unbekannt,,51.3854029,7.766141955293132,2022-02-13 13:15:31
+71510,DE,2022-02-16,18:00:00,69115,Heidelberg,Schwanenteichanlage (Poststr.),Aufzug,,Mitarbeiter im Gesundheitswesen,,49.4093582,8.694724,2022-02-13 13:15:31
+70281,DE,2022-02-16,18:00:00,84405,Dorfen,Mariensäule,Gebet,,unbekannt,,48.2729498,12.1491656,2022-02-13 13:15:31
+71544,DE,2022-02-16,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html,50.200671,8.5829038,2022-02-13 13:15:31
+71646,DE,2022-02-16,18:30:00,60325,Frankfurt Bockenheim,Bockenheimer Warte,Aufzug,,unbekannt,,50.1200336,8.6527636,2022-02-13 13:15:31
+71581,DE,2022-02-16,19:00:00,01728,Possendorf,Kastanienallee,Spaziergang,,unbekannt,https://t.me/spazieren_in_possendorf,50.9682076,13.7113231,2022-02-13 13:15:31
+71618,DE,2022-02-16,19:00:00,01728,Possendorf,Kastanienallee,Spaziergang,,unbekannt,https://t.me/spazieren_in_possendorf,50.9682076,13.7113231,2022-02-13 13:15:31
+71438,DE,2022-02-16,19:00:00,76773,Kuhardt,Dorfplatz,Spaziergang,,unbekannt,,49.1458635,8.3145695,2022-02-13 13:15:31
+70585,DE,2022-02-16,19:00:00,86343,Königsbrunn,Marktplatz,Spaziergang,,unbekannt,https://bf-schwaben.de/,48.268725,10.8908126,2022-02-13 13:15:31
+71606,DE,2022-02-16,19:00:00,06632,Freyburg,Marktplatz,Spaziergang,,Sachsen- Anhalt steht AUF !,,51.301643999999996,11.803853841562002,2022-02-13 13:15:31
+70851,DE,2022-02-16,23:59:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf,52.624056,10.081052,2022-02-13 13:15:31
+71478,DE,2022-02-17,11:30:00,91052,Erlangen,Schlossplatz,Kundgebung,,Privat,,49.5975047,11.0044654,2022-02-13 13:15:31
+71479,DE,2022-02-17,12:30:00,91052,Erlangen,Schlossplatz,Spaziergang,,Privat,,49.5975047,11.0044654,2022-02-13 13:15:31
+71024,DE,2022-02-17,16:00:00,18055,Rostock,Rathaus,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,,54.0887556,12.14116191839107,2022-02-13 13:15:31
+71630,DE,2022-02-17,17:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.453872,11.077298,2022-02-13 13:15:31
+67567,DE,2022-02-17,18:00:00,85586,Poing,Friedensstraße 9 / Unterführung,Kundgebung,,Privat,https://t.me/CoronaPoing,48.172047,11.8090838,2022-02-13 13:15:31
+71442,DE,2022-02-17,18:00:00,76751,Jockgrim,Parkplatz Penny,Spaziergang,,unbekannt,,49.0950751,8.276964,2022-02-13 13:15:31
+71601,DE,2022-02-17,18:00:00,85072,Eichstätt,Residenzplatz,Aufzug,,unbekannt,,48.890678,11.1847001,2022-02-13 13:15:31
+71600,DE,2022-02-17,18:00:00,53902,Bad Münstereifel,Rathaus,Kundgebung,,unbekannt,,50.5550689,6.7628664,2022-02-13 13:15:31
+71649,DE,2022-02-17,18:30:00,65929,Frankfurt Höchst,Schlossplatz,Aufzug,,unbekannt,,50.098648,8.547467,2022-02-13 13:15:31
+71648,DE,2022-02-17,18:30:00,60389,Frankfurt Bornheim,Günthersburgpark,Aufzug,,unbekannt,,50.1304742,8.7051121,2022-02-13 13:15:31
+66975,DE,2022-02-17,18:30:00,29221,Celle,Stechbahn / vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf,52.624056,10.081052,2022-02-13 13:15:31
+71647,DE,2022-02-17,18:30:00,61348,Bad Homburg,Rathausplatz,Aufzug,,unbekannt,,50.2231718,8.622395108364664,2022-02-13 13:15:31
+71441,DE,2022-02-17,18:30:00,76887,Bad Bergzabern,Schloss,Spaziergang,,unbekannt,,49.103204250000005,7.998947080886366,2022-02-13 13:15:31
+71443,DE,2022-02-17,19:00:00,76777,Neupotz,Kirche,Spaziergang,,unbekannt,,49.1472936,8.2192417,2022-02-13 13:15:31
+71227,DE,2022-02-18,12:03:00,10117,Berlin,Brandenburger Tor,Kundgebung,,unbekannt,,52.51628045,13.377701882994323,2022-02-13 13:15:31
+21730,DE,2022-02-18,14:30:00,33605,Bielefeld,Innenstadt,Aufstand,,AFD,,52.017016600000005,8.544870615602374,2022-02-13 13:15:31
+71631,DE,2022-02-18,16:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.453872,11.077298,2022-02-13 13:15:31
+71259,DE,2022-02-18,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,unbekannt,,47.67030905,9.586421199708216,2022-02-13 13:15:31
+69785,DE,2022-02-18,18:00:00,45657,Recklinghausen,Rathausplatz,Demonstration,,Privat,,51.611683400000004,7.199596011634441,2022-02-13 13:15:31
+70657,AT,2022-02-18,18:00:00,3380,Pöchlarn,Rathausplatz,Aufzug,,Mostviertel steht auf,https://t.me/MOSTVIERTELDEMOINFOKANAL,48.2049694,15.1816371,2022-02-13 13:15:31
+71444,DE,2022-02-18,18:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,,49.35144595,8.13971769857673,2022-02-13 13:15:31
+71073,DE,2022-02-18,18:00:00,41460,Neuss,Münsterplatz,Spaziergang,,unbekannt,,51.1992832,6.6925088,2022-02-13 13:15:31
+70920,AT,2022-02-18,18:00:00,3390,Melk,Hauptplatz,Spaziergang,,unbekannt,https://t.me/doomsday_austria/53261,48.2270331,15.3297827,2022-02-13 13:15:31
+71651,DE,2022-02-18,18:30:00,61462,Königstein,Kapuzinerplatz,Aufzug,,unbekannt,,50.182572449999995,8.466986432605214,2022-02-13 13:15:31
+71650,DE,2022-02-18,18:30:00,60594,Frankfurt Sachsenhausen,Schweizer Platz,Aufzug,,unbekannt,,50.1019856,8.6809624,2022-02-13 13:15:31
+71610,DE,2022-02-18,19:00:00,92526,Oberviechtach,Rathaus,Spaziergang,,unbekannt,,49.4602721,12.4189759,2022-02-13 13:15:31
+71458,DE,2022-02-18,19:00:00,86720,Nördlingen,Rathaus,Spaziergang,,Unbekannt,,48.85170665,10.488387500000002,2022-02-13 13:15:31
+71569,DE,2022-02-19,11:00:00,84028,Landshut,Ländtor / Isarpromenade,Menschenkette,,unbekannt,,48.536217,12.1516551,2022-02-13 13:15:31
+70640,DE,2022-02-19,11:00:00,71394,Kernen im Remstal,Pausenhof Realschule,Kundgebung,,BI Freiheit und Gesundheit Kernen,http://www.bi-freiheit-gesundheit-kernen.de,48.7965338,9.3286487,2022-02-13 13:15:31
+70864,CH,2022-02-19,13:00:00,8050,Zürich,Marktplatz Oerlikon,Kundgebung,,Aktionsbündnis Urkantone,http://www.ur-kantone.ch,47.410663,8.5443072,2022-02-13 13:15:31
+71220,DE,2022-02-19,14:00:00,49074,Osnabrück,Schlossgarten,Demonstration,,unbekannt,,52.2704022,8.0456068,2022-02-13 13:15:31
+71105,DE,2022-02-19,14:00:00,81667,München,Weißenburger Platz,Kundgebung,,Ulrike Pfeffer (Ulli Oma),https://t.me/UlliOma_Muc/33137,48.128570100000005,11.596099725,2022-02-13 13:15:31
+71491,DE,2022-02-19,14:00:00,63906,Erlenbach am Main,Mechenharder Str. /Schwimmbad,Aufzug,Https://t.me/s/infomiltenberg,Freiheitsboten Miltenberg,Https://t.me/s/infomiltenberg,49.8089685,9.163513578249244,2022-02-13 13:15:31
+71485,DE,2022-02-19,14:00:00,63906,Erlenbach am Main,Mechenharder Str. /Schwimmbad,Aufzug,,Freiheitsboten Miltenberg,https://t.me/s/infomiltenberg,49.8089685,9.163513578249244,2022-02-13 13:15:31
+71652,DE,2022-02-19,15:00:00,60322,Frankfurt Nordend,Holzhausenpark,Aufzug,,unbekannt,,50.1262037,8.6771416,2022-02-13 13:15:31
+71632,DE,2022-02-19,17:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2022-02-13 13:15:31
+71659,DE,2022-02-19,17:00:00,01067,Dresden,Altmarkt,Aufzug,,unbekannt,,51.049574199999995,13.73795566059474,2022-02-13 13:15:31
+70277,IT,2022-02-19,17:00:00,39042,Brixen,Aquarena,Spaziergang,,unbekannt,,46.7165491,11.657851,2022-02-13 13:15:31
+71445,DE,2022-02-19,18:00:00,76761,Rülzheim,Kerweplatz,Spaziergang,,unbekannt,,49.15916075,8.28978055866924,2022-02-13 13:15:31
+70665,DE,2022-02-19,19:00:00,94051,Hauzenberg,Festplatz,Spaziergang,,Hauzenberg Spaziert,https://t.me/Passau_Aktionen,48.6551971,13.6276784,2022-02-13 13:15:31
+70427,DE,2022-02-20,14:00:00,80336,München,Theresienwiese,Kundgebung,,Kinderrechte Jetzt eV und Wie-Gemeinsam-Bündnis,www.wir-gemeinsam-buendnis.de,48.135672,11.5522316,2022-02-13 13:15:31
+70424,DE,2022-02-20,14:00:00,80336,München,Theresienwiese,Kundgebung,,Kinderrechte Jetzt eV und Wie-Gemeinsam-Bündnis,www.wir-gemeinsam-buendnis.de,48.135672,11.5522316,2022-02-13 13:15:31
+71447,DE,2022-02-20,15:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,,49.35144595,8.13971769857673,2022-02-13 13:15:31
+71482,DE,2022-02-20,15:00:00,22111,Hamburg,Bauerberg,Aufzug,,Frieden & Freiheit,,53.5531445,10.083187,2022-02-13 13:15:31
+71446,DE,2022-02-20,15:00:00,76726,Germersheim,Luitpoldplatz,Spaziergang,,unbeaknnt,,49.2179551,8.3743764,2022-02-13 13:15:31
+71515,DE,2022-02-20,15:00:00,85354,Freising,Marienplatz,Kundgebung,,Team Mensch / Bayern steht zusammen,https://t.me/BayernStehtZusammenTermine/358,48.40090235,11.74390820964436,2022-02-13 13:15:31
+71356,DE,2022-02-20,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,,53.8623859,8.698405997774456,2022-02-13 13:15:31
+71619,DE,2022-02-20,15:00:00,06406,Bernburg,Start: Wendeschleife Mc Doof,Autokorso,,unbekannt,,51.7930788,11.7391606,2022-02-13 13:15:31
+71640,DE,2022-02-20,15:00:00,65812,Bad Soden,Neuer Kurpark / Salinenstraße,Aufzug,,unbekannt,,50.1517006,8.4899671,2022-02-13 13:15:31
+69153,DE,2022-02-20,15:45:00,92339,Beilngries,Main Donau Kanal/ Busparkplatz,Aufzug,,unbekannt,,49.035279,11.4733811,2022-02-13 13:15:31
+71620,DE,2022-02-20,16:30:00,06406,Bernburg,Karlsplatz / Weltzeituhr,Spaziergang,,unbekannt,,51.7930788,11.7391606,2022-02-13 13:15:31
+69828,DE,2022-02-20,16:30:00,14806,Bad Belzig,Marktplatz,Spaziergang,,Menschen,,52.1405426,12.5869613,2022-02-13 13:15:31
+69125,DE,2022-02-21,00:00:18,48565,Steinfurt Burgsteinfurt,Baumgarten 1 48565 Steinfurt,Aufzug,,unbekannt,,52.13714455,7.37609052974523,2022-02-13 13:15:31
+70485,DE,2022-02-21,18:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-02-13 13:15:31
+69941,DE,2022-02-21,18:00:00,83512,Wasserburg am Inn,Busbahnhof,Aufzug,,Luggi Maier (Kreisrat d. ÖDP),https://t.me/CoronaWiderstand_Wasserburg_Inn/2724,48.062781,12.2265873,2022-02-13 13:15:31
+71624,DE,2022-02-21,18:00:00,84478,Waldkraiburg,Rathaus,Spaziergang,,unbekannt,,48.2064195,12.401082562430368,2022-02-13 13:15:31
+71327,DE,2022-02-21,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,unbekannt,,47.998186950000004,11.341840182183248,2022-02-13 13:15:31
+71336,DE,2022-02-21,18:00:00,66583,Spiesen Elversberg,Spiesen Rathaus Hauptstraße,Spaziergang,,unbekannt,,49.3145046,7.1369778,2022-02-13 13:15:31
+71451,DE,2022-02-21,18:00:00,66583,Spiesen Elversberg,Rathaus / Hauptstraße,Spaziergang,,unbekannt,,49.3145046,7.1369778,2022-02-13 13:15:31
+70345,DE,2022-02-21,18:00:00,83358,Seebruck,Rathaus,Spaziergang,,Seeon-Seebruck steht auf,https://t.me/Chiemgauer_Widerstand/382,47.9340156,12.4783274,2022-02-13 13:15:31
+70777,DE,2022-02-21,18:00:00,93128,Regenstauf,Schwandorferstr. / Regenbrücke,Spaziergang,,unbekannt,,49.1239753,12.1278232,2022-02-13 13:15:31
+68785,DE,2022-02-21,18:00:00,28870,Quelkhorn,Denkmal,Spaziergang,,unbekannt,,53.1326996,9.0789977,2022-02-13 13:15:31
+70192,DE,2022-02-21,18:00:00,87724,Ottobeuren,Rathaus,Spaziergang,,unbekannt,,47.9706672,10.2659134,2022-02-13 13:15:31
+70791,DE,2022-02-21,18:00:00,22846,Norderstedt,Rathausalle beim Kino Spectrum,Spaziergang,,unbekannt,,53.7089898,9.9891914,2022-02-13 13:15:31
+70792,DE,2022-02-21,18:00:00,22846,Norderstedt,Rathausalle beim Kino Spectrum,Spaziergang,,unbekannt,,53.7089898,9.9891914,2022-02-13 13:15:31
+71074,DE,2022-02-21,18:00:00,41460,Neuss,Münsterplatz,Spaziergang,,unbekannt,,51.1992832,6.6925088,2022-02-13 13:15:31
+71343,DE,2022-02-21,18:00:00,68159,Mannheim,Marktplatz / G1,Aufzug,,Offene Gesellschaft Kurpfalz,http://offges.de/ma22,49.489607,8.4669588,2022-02-13 13:15:31
+71573,DE,2022-02-21,18:00:00,84028,Landshut,Ländtor,Spaziergang,,unbekannt,,48.53531375,12.149248217019215,2022-02-13 13:15:31
+70383,DE,2022-02-21,18:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.de,50.1068807,11.4581088,2022-02-13 13:15:31
+68972,DE,2022-02-21,18:00:00,52428,Jülich,Gipfelkreuz Sophienhöhe,Demonstration,,242Zusammen Impffrei Jül/DN,,50.9220931,6.3611015,2022-02-13 13:15:31
+69063,DE,2022-02-21,18:00:00,52428,Jülich,Zum kleinen Wolfgang,Demonstration,,242Zusammen ImpfereiJÜL/DN,,50.9220931,6.3611015,2022-02-13 13:15:31
+70297,DE,2022-02-21,18:00:00,83527,Haag in Oberbayern,Rathaus,Spaziergang,,unbekannt,,48.0567012,12.1628556,2022-02-13 13:15:31
+71313,DE,2022-02-21,18:00:00,82256,Fürstenfeldbruck,Volksfestplatz,Aufzug,,FFB hält zusammen,https://t.me/FFBZM/2,48.126963450000005,11.360337254691975,2022-02-13 13:15:31
+71634,DE,2022-02-21,18:00:00,48282,Emsdetten,St. Pankratius Kirche,Spaziergang,,unbekannt,,52.174687,7.5301756,2022-02-13 13:15:31
+70285,DE,2022-02-21,18:00:00,84405,Dorfen,Unterer Markt,Spaziergang,,unbekannt,,48.2738641,12.1525626,2022-02-13 13:15:31
+71207,DE,2022-02-21,18:00:00,06844,Dessau-Roßlau,Marktplatz / vor dem Rathaus,Spaziergang,,Dessau steht auf,https://t.me/MontagsMahnwache,51.85044355,12.270461380903042,2022-02-13 13:15:31
+71293,DE,2022-02-21,18:00:00,94469,Deggendorf,Oberer Stadtplatz,Kundgebung,,KEINE EMAIL HIER REIN,,48.8344647,12.9623385,2022-02-13 13:15:31
+69148,DE,2022-02-21,18:00:00,92339,Beilngries,Kirchplatz Hauptstraße,Aufzug,,unbekannt,,49.035279,11.4733811,2022-02-13 13:15:31
+70609,DE,2022-02-21,18:00:00,93077,Bad Abbach,Rathaus,Spaziergang,,unbekannt,https://t.me/Demotermine/42986,48.935531,12.050798679206256,2022-02-13 13:15:31
+71602,DE,2022-02-21,18:15:00,45479,Mülheim an der Ruhr,Parkplatz Stadthalle,Demonstration,,unbekannt,https://www.coronasaurus.de,51.4272925,6.8829192,2022-02-13 13:15:31
+71529,DE,2022-02-21,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,,51.52088485,6.9255365117204075,2022-02-13 13:15:31
+69789,DE,2022-02-21,18:30:00,99510,Apolda,Markt/ Rathaus,Spaziergang,,unbekannt,,51.0227878,11.5129742,2022-02-13 13:15:31
+70670,CH,2022-02-21,19:00:00,8023,Zürich,Bahnhofsquai u. weitere,Spaziergang,,Montagsspaziergang Zürich,https://t.me/Demotermine/43531,,,2022-02-13 13:15:31
+70948,DE,2022-02-21,19:00:00,26388,Wilhelmshaven,Kirchplatz Fedderwardergroden,Spaziergang,,Das deutsche Volk,,53.5278793,8.106301,2022-02-13 13:15:31
+67494,DE,2022-02-21,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198,53.55740205,13.260322640114307,2022-02-13 13:15:31
+71430,DE,2022-02-21,19:00:00,56727,Mayen,Marktplatz,Spaziergang,,unbekannt,,50.3273513,7.220498,2022-02-13 13:15:31
+70290,DE,2022-02-21,19:00:00,85435,Erding,Schrannenplatz,Spaziergang,,unbekannt,,48.3062665,11.9072712,2022-02-13 13:15:31
+70652,CH,2022-02-21,19:00:00,8953,Dietikon,Bahnhof,Spaziergang,,Dietikon läuft,https://t.me/Demotermine/43513,47.4043015,8.4034982,2022-02-13 13:15:31
+71483,DE,2022-02-22,16:00:00,22111,Hamburg,Bauerberg,Kundgebung,,Frieden & Freiheit,,53.5531445,10.083187,2022-02-13 13:15:31
+70959,DE,2022-02-22,18:00:00,57392,Schmallenberg,Am Alexanderhaus / an der kath,Spaziergang,,unbekannt,,51.1525937,8.2836014,2022-02-13 13:15:31
+71480,DE,2022-02-22,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Privat,,49.5846823,11.0095332,2022-02-13 13:15:31
+71565,DE,2022-02-23,17:00:00,84028,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,,Kraftquelle Gebet Landshut,,48.536217,12.1516551,2022-02-13 13:15:31
+69872,DE,2022-02-23,17:00:00,25840,Friedrichstadt,Marktplatz,Spaziergang,,unbekannt,https://t.me/Demotermine/41085,54.4768957,9.051635654927008,2022-02-13 13:15:31
+70439,DE,2022-02-23,18:00:00,93149,Nittenau,Parkplatz am Burghof,Spaziergang,,unbekannt,https://t.me/Demotermine/42847,49.1980429,12.2718828,2022-02-13 13:15:31
+70852,DE,2022-02-23,23:59:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf,52.624056,10.081052,2022-02-13 13:15:31
+71026,DE,2022-02-24,16:00:00,18055,Rostock,Rathaus,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,,54.0887556,12.14116191839107,2022-02-13 13:15:31
+67568,DE,2022-02-24,18:00:00,85586,Poing,Friedensstraße 9 / Unterführung,Kundgebung,,Privat,https://t.me/CoronaPoing,48.172047,11.8090838,2022-02-13 13:15:31
+66976,DE,2022-02-24,18:30:00,29221,Celle,Stechbahn / vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf,52.624056,10.081052,2022-02-13 13:15:31
+71520,DE,2022-02-25,15:00:00,81675,München,Friedensengel / Luitpoldbrücke,Schilderwald,,UlliOma & Schild-Bürger-Aktion Allgäu,https://t.me/UlliOma_Muc/33640,48.1371079,11.5753822,2022-02-13 13:15:31
+69786,DE,2022-02-25,18:00:00,45657,Recklinghausen,Rathausplatz,Demonstration,,Privat,,51.611683400000004,7.199596011634441,2022-02-13 13:15:31
+70658,AT,2022-02-25,18:00:00,3380,Pöchlarn,Rathausplatz,Aufzug,,Mostviertel steht auf,https://t.me/MOSTVIERTELDEMOINFOKANAL,48.2049694,15.1816371,2022-02-13 13:15:31
+71076,DE,2022-02-25,18:00:00,41460,Neuss,Münsterplatz,Spaziergang,,unbekannt,,51.1992832,6.6925088,2022-02-13 13:15:31
+70922,AT,2022-02-25,18:00:00,3390,Melk,Hauptplatz,Spaziergang,,unbekannt,https://t.me/doomsday_austria/53261,48.2270331,15.3297827,2022-02-13 13:15:31
+71365,DE,2022-02-25,18:00:00,16540,Hohen Neuendorf,Rathausplatz,Aufzug,,unbekannt,,52.6376109,13.207253216279192,2022-02-13 13:15:31
+71570,DE,2022-02-26,11:00:00,84028,Landshut,Ländtor / Isarpromenade,Menschenkette,,unbekannt,,48.536217,12.1516551,2022-02-13 13:15:31
+70403,UK,2022-02-26,12:00:00,W1A,London,Central London,Demonstration,,uniteforfreedom,https://www.standupx.info,,,2022-02-13 13:15:31
+70823,DE,2022-02-26,13:00:00,70174,Stuttgart,Stadtgarten,Aufzug,,StudentenStehenAuf,https://gettr.com/user/stauf,48.7822601,9.1725275,2022-02-13 13:15:31
+71531,DE,2022-02-26,13:00:00,63741,Aschaffenburg,Volksfestplatz,Demonstration,,unbekannt,,49.97372155,9.137671799730178,2022-02-13 13:15:31
+71221,DE,2022-02-26,14:00:00,49074,Osnabrück,Schlossgarten,Demonstration,,unbekannt,,52.2704022,8.0456068,2022-02-13 13:15:31
+70617,DE,2022-02-26,17:00:00,94209,Regen,Stadtplatz,Kundgebung,https://dlive.tv/SelbstDenken21,SelbstDenken21,https://www.facebook.com/SelbstDenken21,48.9702063,13.1264315,2022-02-13 13:15:31
+70666,DE,2022-02-26,19:00:00,94051,Hauzenberg,Festplatz,Spaziergang,,Hauzenberg Spaziert,https://t.me/Passau_Aktionen,48.6551971,13.6276784,2022-02-13 13:15:31
+71668,DE,2022-02-26,19:00:00,37359,Effelder,Eichsfelder Dom,Spaziergang,,unbekannt,,51.23924425,10.249075570945946,2022-02-13 13:15:31
+71357,DE,2022-02-27,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,,53.8623859,8.698405997774456,2022-02-13 13:15:31
+71484,DE,2022-02-27,15:30:00,91088,Bubenreuth,Baumzeil,Spaziergang,,Frieden & Freiheit und Demokratie,,49.6292162,11.0210207,2022-02-13 13:15:31
+69829,DE,2022-02-27,16:30:00,14806,Bad Belzig,Marktplatz,Spaziergang,,Menschen,,52.1405426,12.5869613,2022-02-13 13:15:31
+71290,DE,2022-02-27,18:00:00,87600,Kaufbeuren,Spittelmühle,Spaziergang,,unbekannt,,47.8803788,10.622246,2022-02-13 13:15:31
+69479,DE,2022-02-28,11:11:00,55116,Mainz,Dom,Aufzug,,unbekannt,,49.9990861,8.2727993,2022-02-13 13:15:31
+69478,DE,2022-02-28,11:11:00,50858,Köln,Chlodwigplatz,Aufzug,,unbekannt,,50.9217381,6.9591436,2022-02-13 13:15:31
+70943,DE,2022-02-28,13:00:00,45657,Recklinghausen,Rathausplatz,Demonstration,,Privat,,51.611683400000004,7.199596011634441,2022-02-13 13:15:31
+71346,DE,2022-02-28,13:13:00,55116,Mainz,Malakoff-Terasse,Aufzug,,Initiative 1bis19,http://maskenzug.de,50.0012314,8.2762513,2022-02-13 13:15:31
+68973,DE,2022-02-28,16:00:00,52428,Jülich,Schlossplatz,Kundgebung,,242Zusammen Impffrei Jül/DN,,50.92373045,6.359630391548043,2022-02-13 13:15:31
+71607,DE,2022-02-28,16:00:00,26603,Aurich,Krankenhaus,Sonstiges,,Impfstreik,https://impfstreik.compact-online.de/,53.4686399,7.496738,2022-02-13 13:15:31
+70486,DE,2022-02-28,18:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-02-13 13:15:31
+71017,DE,2022-02-28,18:00:00,16792,Zehdenick,Marktplatz,Spaziergang,,unbekannt,,52.9794838,13.3348959,2022-02-13 13:15:31
+69942,DE,2022-02-28,18:00:00,83512,Wasserburg am Inn,Busbahnhof,Aufzug,,Luggi Maier (Kreisrat d. ÖDP),https://t.me/CoronaWiderstand_Wasserburg_Inn/2724,48.062781,12.2265873,2022-02-13 13:15:31
+71626,DE,2022-02-28,18:00:00,84478,Waldkraiburg,Rathaus,Spaziergang,,unbekannt,,48.2064195,12.401082562430368,2022-02-13 13:15:31
+71328,DE,2022-02-28,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,unbekannt,,47.998186950000004,11.341840182183248,2022-02-13 13:15:31
+70346,DE,2022-02-28,18:00:00,83358,Seebruck,Rathaus,Spaziergang,,Seeon-Seebruck steht auf,https://t.me/Chiemgauer_Widerstand/382,47.9340156,12.4783274,2022-02-13 13:15:31
+70778,DE,2022-02-28,18:00:00,93128,Regenstauf,Schwandorferstr. / Regenbrücke,Spaziergang,,unbekannt,,49.1239753,12.1278232,2022-02-13 13:15:31
+68786,DE,2022-02-28,18:00:00,28870,Quelkhorn,Denkmal,Spaziergang,,unbekannt,,53.1326996,9.0789977,2022-02-13 13:15:31
+70193,DE,2022-02-28,18:00:00,87724,Ottobeuren,Rathaus,Spaziergang,,unbekannt,,47.9706672,10.2659134,2022-02-13 13:15:31
+71077,DE,2022-02-28,18:00:00,41460,Neuss,Münsterplatz,Spaziergang,,unbekannt,,51.1992832,6.6925088,2022-02-13 13:15:31
+71344,DE,2022-02-28,18:00:00,68159,Mannheim,Martktplatz / G1,Aufzug,,Offene Gesellschaft Kurpfalz,http://offges.de/ma23,49.4892913,8.4673098,2022-02-13 13:15:31
+71574,DE,2022-02-28,18:00:00,84028,Landshut,Ländtor,Spaziergang,,unbekannt,,48.53531375,12.149248217019215,2022-02-13 13:15:31
+70385,DE,2022-02-28,18:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.de,50.1068807,11.4581088,2022-02-13 13:15:31
+69041,DE,2022-02-28,18:00:00,52428,Jülich,Neusser Str. 11,Versammlung,,242Impffrei DN/JÜL,,50.924851200000006,6.364134849842904,2022-02-13 13:15:31
+71314,DE,2022-02-28,18:00:00,82256,Fürstenfeldbruck,Volksfestplatz,Aufzug,,FFB hält zusammen,https://t.me/FFBZM/2,48.126963450000005,11.360337254691975,2022-02-13 13:15:31
+71635,DE,2022-02-28,18:00:00,48282,Emsdetten,St. Pankratius Kirche,Spaziergang,,unbekannt,,52.174687,7.5301756,2022-02-13 13:15:31
+70286,DE,2022-02-28,18:00:00,84405,Dorfen,Unterer Markt,Spaziergang,,unbekannt,,48.2738641,12.1525626,2022-02-13 13:15:31
+71208,DE,2022-02-28,18:00:00,06844,Dessau-Roßlau,Marktplatz / vor dem Rathaus,Spaziergang,,Dessau steht auf,https://t.me/MontagsMahnwache,51.85044355,12.270461380903042,2022-02-13 13:15:31
+69149,DE,2022-02-28,18:00:00,92339,Beilngries,Kirchplatz Hauptstraße,Aufzug,,unbekannt,,49.035279,11.4733811,2022-02-13 13:15:31
+70610,DE,2022-02-28,18:00:00,93077,Bad Abbach,Rathaus,Spaziergang,,unbekannt,https://t.me/Demotermine/42986,48.935531,12.050798679206256,2022-02-13 13:15:31
+71530,DE,2022-02-28,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,,51.52088485,6.9255365117204075,2022-02-13 13:15:31
+69790,DE,2022-02-28,18:30:00,99510,Apolda,Markt/ Rathaus,Spaziergang,,unbekannt,,51.0227878,11.5129742,2022-02-13 13:15:31
+70671,CH,2022-02-28,19:00:00,8023,Zürich,Bahnhofsquai u. weitere,Spaziergang,,Montagsspaziergang Zürich,https://t.me/Demotermine/43531,,,2022-02-13 13:15:31
+70949,DE,2022-02-28,19:00:00,26388,Wilhelmshaven,Kirchplatz Fedderwardergroden,Spaziergang,,Das deutsche Volk,,53.5278793,8.106301,2022-02-13 13:15:31
+67495,DE,2022-02-28,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198,53.55740205,13.260322640114307,2022-02-13 13:15:31
+71431,DE,2022-02-28,19:00:00,56727,Mayen,Marktplatz,Spaziergang,,unbekannt,,50.3273513,7.220498,2022-02-13 13:15:31
+70289,DE,2022-02-28,19:00:00,85435,Erding,Schrannenplatz,Spaziergang,,unbekannt,,48.3062665,11.9072712,2022-02-13 13:15:31
+70653,CH,2022-02-28,19:00:00,8953,Dietikon,Bahnhof,Spaziergang,,Dietikon läuft,https://t.me/Demotermine/43513,47.4043015,8.4034982,2022-02-13 13:15:31
+67479,DE,2022-03-01,18:00:00,36381,Schlüchtern,Feuerwehrplatz,Spaziergang,,Privat,,50.3485112,9.5253904,2022-02-13 13:15:31
+71589,DE,2022-03-02,10:00:00,94469,Deggendorf,Oberer Stadtplatz,Kundgebung,,AfD Bayern,,48.8344647,12.9623385,2022-02-13 13:15:31
+71566,DE,2022-03-02,17:00:00,84028,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,,Kraftquelle Gebet Landshut,,48.536217,12.1516551,2022-02-13 13:15:31
+67569,DE,2022-03-03,18:00:00,85586,Poing,Friedensstraße 9 / Unterführung,Kundgebung,,Privat,https://t.me/CoronaPoing,48.172047,11.8090838,2022-02-13 13:15:31
+66921,AT,2022-03-03,18:00:00,3361,Aschbach-Markt,Rathausplatz,Kundgebung,,unbekannt,,48.0730435,14.7487744,2022-02-13 13:15:31
+66977,DE,2022-03-03,18:30:00,29221,Celle,Stechbahn / vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf,52.624056,10.081052,2022-02-13 13:15:31
+70924,AT,2022-03-04,18:00:00,3390,Melk,Hauptplatz,Spaziergang,,unbekannt,https://t.me/doomsday_austria/53261,48.2270331,15.3297827,2022-02-13 13:15:31
+71571,DE,2022-03-05,11:00:00,84028,Landshut,Ländtor / Isarpromenade,Menschenkette,,unbekannt,,48.536217,12.1516551,2022-02-13 13:15:31
+70619,DE,2022-03-05,14:00:00,17033,Neubrandenburg,Parkplatz Belvedere / Broda,Aufzug,https://www.youtube.com/channel/UCyckV8FpsxAs_2HefVigObQ/featured,Neubrandenburger Spaziergang,https://www.facebook.com/profile.php?id=100064165685101,53.5574458,13.2602781,2022-02-13 13:15:31
+71457,DE,2022-03-05,14:00:00,80333,München,Königsplatz,Kundgebung,,AfD - Gesund ohne Zwang!,www.gesund-ohne-zwang.de,48.1457741,11.5653095,2022-02-13 13:15:31
+71550,DE,2022-03-05,14:00:00,80333,München,Königsplatz,Kundgebung,,AfD,https://t.me/pboehringer/1415,48.1457741,11.5653095,2022-02-13 13:15:31
+71040,DE,2022-03-05,17:00:00,84028,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,,Kraftquelle Gebet,https://t.me/c/1215577165/10248,48.536217,12.1516551,2022-02-13 13:15:31
+68974,DE,2022-03-07,16:00:00,52428,Jülich,Schlossplatz,Demonstration,,242Zusammen Impffrei Jül/DN,,50.92373045,6.359630391548043,2022-02-13 13:15:31
+71575,DE,2022-03-07,18:00:00,84028,Landshut,Ländtor,Spaziergang,,unbekannt,,48.53531375,12.149248217019215,2022-02-13 13:15:31
+69042,DE,2022-03-07,18:00:00,52428,Jülich,Neusser Str. 11,Kundgebung,,Vereinte Impffreunde,,50.924851200000006,6.364134849842904,2022-02-13 13:15:31
+71315,DE,2022-03-07,18:00:00,82256,Fürstenfeldbruck,Volksfestplatz,Aufzug,,FFB hält zusammen,https://t.me/FFBZM/2,48.126963450000005,11.360337254691975,2022-02-13 13:15:31
+67496,DE,2022-03-07,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198,53.55740205,13.260322640114307,2022-02-13 13:15:31
+70649,CH,2022-03-07,19:00:00,8953,Dietikon,Bahnhof,Spaziergang,,unbekannt,https://t.me/Demotermine/43513,47.4043015,8.4034982,2022-02-13 13:15:31
+71567,DE,2022-03-09,17:00:00,84028,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,,Kraftquelle Gebet Landshut,,48.536217,12.1516551,2022-02-13 13:15:31
+71028,DE,2022-03-10,16:00:00,18055,Rostock,Rathaus,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,,54.08875485,12.141162704587815,2022-02-13 13:15:31
+67570,DE,2022-03-10,18:00:00,85586,Poing,Friedensstraße 9 / Unterführung,Kundgebung,,Privat,https://t.me/CoronaPoing,48.172047,11.8090838,2022-02-13 13:15:31
+71519,DE,2022-03-11,10:00:00,80333,München,Stachus,Kundgebung,,Peter Glanz,https://t.me/UlliOma_Muc/33640,48.1394857,11.565622,2022-02-13 13:15:31
+71670,DE,2022-03-11,16:00:00,83607,Holzkirchen,Parkplatz Herdergarten,Schilderwald,,Holzkirchen meldet sich zu Wort,,47.8831496,11.7004553,2022-02-13 13:15:31
+71018,DE,2022-03-14,18:00:00,16792,Zehdenick,Marktplatz,Kundgebung,,unbekannt,,52.9794838,13.3348959,2022-02-13 13:15:31
+67497,DE,2022-03-14,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198,53.55740205,13.260322640114307,2022-02-13 13:15:31
+71029,DE,2022-03-17,16:00:00,18055,Rostock,Rathaus,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,,54.08875485,12.141162704587815,2022-02-13 13:15:31
+67571,DE,2022-03-17,18:00:00,85586,Poing,Friedensstraße 9 / Unterführung,Kundgebung,,Privat,https://t.me/CoronaPoing,48.172047,11.8090838,2022-02-13 13:15:31
+70406,UK,2022-03-19,12:00:00,TR12AF,Truro,Cathedral,Demonstration,,WORLD WIDE RALLY FOR FREEDOM UK,https://t.me/WWD_Cornwall,,,2022-02-13 13:15:31
+70405,UK,2022-03-19,13:00:00,OX11LQ,Oxford,Bonn Square,Demonstration,,FreedomOxford,https://t.me/WWDFreedomOxford,,,2022-02-13 13:15:31
+70425,DE,2022-03-20,14:00:00,80333,München,Theresienwiese,Kundgebung,,Kinderrechte Jetzt e.V. Wir-gemeinsam-Bündnis u.a.,www.wir-gemeinsam-buendnis.de,48.135672,11.5522316,2022-02-13 13:15:31
+70426,DE,2022-03-20,14:00:00,80333,München,Theresienwiese,Kundgebung,,Kinderrechte Jetzt e.V. Wir-gemeinsam-Bündnis u.a.,www.wir-gemeinsam-buendnis.de,48.135672,11.5522316,2022-02-13 13:15:31
+68976,DE,2022-03-21,13:12:00,52428,Jülich,Schlossplatz,Kundgebung,,242Zusammen Impffrei Jül/DN,,50.92373045,6.359630391548043,2022-02-13 13:15:31
+67498,DE,2022-03-21,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198,53.55740205,13.260322640114307,2022-02-13 13:15:31
+71030,DE,2022-03-24,16:00:00,18055,Rostock,Rathaus,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,,54.08875485,12.141162704587815,2022-02-13 13:15:31
+67572,DE,2022-03-24,18:00:00,85586,Poing,Friedensstraße 9 / Unterführung,Kundgebung,,Privat,https://t.me/CoronaPoing,48.172047,11.8090838,2022-02-13 13:15:31
+70620,DE,2022-03-26,14:00:00,17034,Neubrandenburg / Datzeberg,Parkpl. Sportanlagen Datzeberg,Aufzug,https://www.youtube.com/channel/UCyckV8FpsxAs_2HefVigObQ/featured,Neubrandenburger Spaziergang,https://www.facebook.com/profile.php?id=100064165685101,53.569829460833894,13.273009853328947,2022-02-13 13:15:31
+71019,DE,2022-03-28,18:00:00,16792,Zehdenick,Marktplatz,Kundgebung,,unbekannt,,52.9794838,13.3348959,2022-02-13 13:15:31
+69014,DE,2022-03-28,18:00:00,52428,Jülich,Neusser Str. / Höhe Post,Bauerndemo,,240 Impffrei Jül/DN,,50.9220931,6.3611015,2022-02-13 13:15:31
+67499,DE,2022-03-28,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198,53.55740205,13.260322640114307,2022-02-13 13:15:31
+71031,DE,2022-03-31,16:00:00,18055,Rostock,Rathaus,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,,54.08875485,12.141162704587815,2022-02-13 13:15:31
+67573,DE,2022-03-31,18:00:00,85586,Poing,Friedensstraße 9 / Unterführung,Kundgebung,,Privat,https://t.me/CoronaPoing,48.172047,11.8090838,2022-02-13 13:15:31
+66923,AT,2022-04-01,18:00:00,8323,St Marein / b. Graz,Beim Kirchplatz,Spaziergang,,unbekannt,,47.0190636700043,15.66998486052931,2022-02-13 13:15:31
+69045,DE,2022-04-04,18:00:00,52428,Jülich,Irish Pub,Musik,,242Impferei JÜL/DN,,50.9306347,6.3610350411315615,2022-02-13 13:15:31
+67500,DE,2022-04-04,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198,53.55740205,13.260322640114307,2022-02-13 13:15:31
+69046,DE,2022-04-11,18:00:00,52428,Jülich,Im Liebevoll,Eis essen,,242Impferei DN/JÜL,,50.9220931,6.3611015,2022-02-13 13:15:31
+69047,DE,2022-04-25,18:00:00,52428,Jülich,Liebevoll,Demonstration,,242Impferei JÜ,,50.922304,6.3587156,2022-02-13 13:15:31
+3890,DE,2022-07-19,18:00:00,33098,Paderborn,Rathausplatz,Kundgebung,,unbekannt,,51.7169744,8.7538304,2022-02-13 13:15:31
+66925,AT,2022-08-01,15:00:00,7000,Eisenstadt,Laschoberstrasse 48,Kundgebung,,unbekannt,,47.8404053,16.5256712,2022-02-13 13:15:31
+69511,DE,2022-10-20,18:30:00,60389,Frankfurt Bornheim,Günthersburgpark,Aufzug,,unbekannt,https://t.me/ffmfreiheit,50.1304742,8.7051121,2022-02-13 13:15:31
+55107,DE,2022-12-18,13:45:00,70182,Stuttgart,Wilhelmsplatz,Kundgebung,,unbekannt,,48.7709861,9.1788068,2022-02-13 13:15:31
+55530,DE,2022-12-27,18:00:00,94072,Bad Füssing,Kurplatz / Kurallee,Spaziergang,,unbekannt,,48.3506733,13.3095441,2022-02-13 13:15:31
+69431,DE,2922-01-17,19:00:00,50667,Köln,Roncalliplatz/Domplatte,Spaziergang,,unbekannt,,50.938361,6.959974,2022-02-13 13:15:31
