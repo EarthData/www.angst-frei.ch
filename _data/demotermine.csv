@@ -1,25 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-71478,DE,2022-02-17,11:30:00,91052,Erlangen,Schlossplatz,Kundgebung,,Privat,
-71479,DE,2022-02-17,12:30:00,91052,Erlangen,Schlossplatz,Spaziergang,,Privat,
-71024,DE,2022-02-17,16:00:00,18055,Rostock,Rathaus,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
-71630,DE,2022-02-17,17:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
-71885,DE,2022-02-17,17:00:00,22087,Hamburg,Mundsburg / Theater,Aufzug,,unbekannt,
-71861,DE,2022-02-17,18:00:00,69483,Wald-Michelbach,Ludwigstr. / Schulstr.,Kundgebung,,unbekannt,
-71860,DE,2022-02-17,18:00:00,69483,Wald-Michelbach,Ludwigstr. / Schulstr.,Aufzug,,unbekannt,
-67567,DE,2022-02-17,18:00:00,85586,Poing,Friedensstraße 9 / Unterführung,Kundgebung,,Privat,https://t.me/CoronaPoing
-71884,DE,2022-02-17,18:00:00,90469,Nürnberg,Haupteingang Südfriedhof,Spaziergang,,unbekannt,
-71442,DE,2022-02-17,18:00:00,76751,Jockgrim,Parkplatz Penny,Spaziergang,,unbekannt,
-71601,DE,2022-02-17,18:00:00,85072,Eichstätt,Residenzplatz,Aufzug,,unbekannt,
-71900,DE,2022-02-17,18:00:00,63654,Büdingen,Willi Zinnkann-Halle,Spaziergang,,Grundgesetzverteidiger,
-71600,DE,2022-02-17,18:00:00,53902,Bad Münstereifel,Rathaus,Kundgebung,,unbekannt,
-71649,DE,2022-02-17,18:30:00,65929,Frankfurt Höchst,Schlossplatz,Aufzug,,unbekannt,
-71648,DE,2022-02-17,18:30:00,60389,Frankfurt Bornheim,Günthersburgpark,Aufzug,,unbekannt,
-66975,DE,2022-02-17,18:30:00,29221,Celle,Stechbahn / vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
-71647,DE,2022-02-17,18:30:00,61348,Bad Homburg,Rathausplatz,Aufzug,,unbekannt,
-71441,DE,2022-02-17,18:30:00,76887,Bad Bergzabern,Schloss,Spaziergang,,unbekannt,
-71700,DE,2022-02-17,19:00:00,73760,Ostfildern,Gesamter Ort,Spaziergang,,unbekannt,
-71443,DE,2022-02-17,19:00:00,76777,Neupotz,Kirche,Spaziergang,,unbekannt,
-71807,DE,2022-02-17,19:00:00,93413,Cham,Marktplatz,Demonstration,,Mahnwache_gegen_die_Corona-Diktatur,
 71227,DE,2022-02-18,12:03:00,10117,Berlin,Brandenburger Tor,Kundgebung,,unbekannt,
 21730,DE,2022-02-18,14:30:00,33605,Bielefeld,Innenstadt,Aufstand,,AFD,
 71631,DE,2022-02-18,16:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
@@ -59,22 +38,22 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 71220,DE,2022-02-19,14:00:00,49074,Osnabrück,Schlossgarten,Demonstration,,unbekannt,
 71105,DE,2022-02-19,14:00:00,81667,München,Weißenburger Platz,Kundgebung,,Ulrike Pfeffer (Ulli Oma),https://t.me/UlliOma_Muc/33137
 71903,DE,2022-02-19,14:00:00,79098,Freiburg,Beim Konzerthaus,Aufzug,,FreiSein Freiburg | Ärzte stehen auf,
-71485,DE,2022-02-19,14:00:00,63906,Erlenbach am Main,Mechenharder Str. /Schwimmbad,Aufzug,,Freiheitsboten Miltenberg,https://t.me/s/infomiltenberg
 71491,DE,2022-02-19,14:00:00,63906,Erlenbach am Main,Mechenharder Str. /Schwimmbad,Aufzug,Https://t.me/s/infomiltenberg,Freiheitsboten Miltenberg,Https://t.me/s/infomiltenberg
+71485,DE,2022-02-19,14:00:00,63906,Erlenbach am Main,Mechenharder Str. /Schwimmbad,Aufzug,,Freiheitsboten Miltenberg,https://t.me/s/infomiltenberg
 71863,DE,2022-02-19,14:30:00,69120,Heidelberg,Neckarwiese / Keplerstr.,Aufzug,,Initiative für Demokratie und Aufklärung,
 71915,DE,2022-02-19,14:30:00,30449,Hannover,Ritter-Brüning-Str. / Parking,Autokorso,,Autocorso Hannover,
 71800,DE,2022-02-19,14:45:00,91126,Schwabach,Großer Parkplatz Waldfriedhof,Aufzug,,unbekannt,
 71876,DE,2022-02-19,15:00:00,67655,Kaiserslautern,Messeplatz,Demonstration,,unparteiisch,
-71873,DE,2022-02-19,15:00:00,20354,Hamburg,Gänsemarkt,Aufzug,,Unbekannt,
-71886,DE,2022-02-19,15:00:00,21029,Hamburg,Hamburg-Bergedorf / St. Petri,Kundgebung,,unbekannt,
 71888,DE,2022-02-19,15:00:00,20354,Hamburg,Gänsemarkt,Aufzug,,unbekannt,
 71889,DE,2022-02-19,15:00:00,20099,Hamburg,Berliner Tor,Aufzug,,unbekannt,
+71886,DE,2022-02-19,15:00:00,21029,Hamburg,Hamburg-Bergedorf / St. Petri,Kundgebung,,unbekannt,
+71873,DE,2022-02-19,15:00:00,20354,Hamburg,Gänsemarkt,Aufzug,,Unbekannt,
 71652,DE,2022-02-19,15:00:00,60322,Frankfurt Nordend,Holzhausenpark,Aufzug,,unbekannt,
 71898,DE,2022-02-19,15:00:00,60329,Frankfurt,Taunusanlage,Aufzug,,unbekannt,
-71781,DE,2022-02-19,15:00:00,60329,Frankfurt,Taunusanlage,Aufzug,,unbekannt,
 71910,DE,2022-02-19,15:00:00,60329,Frankfurt,Taunusanlage,Aufzug,,unbekannt,
-71790,DE,2022-02-19,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,APO - Düsseldorf,
+71781,DE,2022-02-19,15:00:00,60329,Frankfurt,Taunusanlage,Aufzug,,unbekannt,
 71862,DE,2022-02-19,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,APO - Düsseldorf,
+71790,DE,2022-02-19,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,APO - Düsseldorf,
 71840,DE,2022-02-19,15:00:00,02625,Bautzen,Schützenplatz (groß demo),Kundgebung,,unbekannt,
 71911,DE,2022-02-19,16:00:00,56068,Koblenz,Deutsches Eck,Demonstration,,unbekannt,https://t.me/demokoblenz
 71869,DE,2022-02-19,17:00:00,29525,Uelzen,Hammersteinplatz,Spaziergang,https://www.facebook.com/groups/1707609382913670/?ref=share,Uelzen steht auf,
@@ -130,8 +109,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 71336,DE,2022-02-21,18:00:00,66583,Spiesen Elversberg,Spiesen Rathaus Hauptstraße,Spaziergang,,unbekannt,
 70345,DE,2022-02-21,18:00:00,83358,Seebruck,Rathaus,Spaziergang,,Seeon-Seebruck steht auf,https://t.me/Chiemgauer_Widerstand/382
 71788,DE,2022-02-21,18:00:00,28790,Schwanewede,Rathaus,Spaziergang,,Menschen mit Verstand,
-71901,DE,2022-02-21,18:00:00,74523,Schwäbisch Hall,Marktplatz,Spaziergang,,unbekannt,
 71858,DE,2022-02-21,18:00:00,74523,Schwäbisch Hall,Marktplatz,Spaziergang,,unbekannt,
+71901,DE,2022-02-21,18:00:00,74523,Schwäbisch Hall,Marktplatz,Spaziergang,,unbekannt,
 71767,DE,2022-02-21,18:00:00,76761,Rülzheim,Kerweplatz,Spaziergang,,unbekannt,
 70777,DE,2022-02-21,18:00:00,93128,Regenstauf,Schwandorferstr. / Regenbrücke,Spaziergang,,unbekannt,
 71799,DE,2022-02-21,18:00:00,40885,Ratingen-Lintorf,Kirche - St. Anna (am Markt),Spaziergang,,Privat,
@@ -205,8 +184,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 70670,CH,2022-02-21,19:00:00,8023,Zürich,Bahnhofsquai u. weitere,Spaziergang,,Montagsspaziergang Zürich,https://t.me/Demotermine/43531
 70948,DE,2022-02-21,19:00:00,26388,Wilhelmshaven,Kirchplatz Fedderwardergroden,Spaziergang,,Das deutsche Volk,
 71768,DE,2022-02-21,19:00:00,67346,Speyer,Alte Münze,Spaziergang,,unbekannt,
-71856,DE,2022-02-21,19:00:00,42651,Solingen,Walter-Scheel-Platz - Rathaus,Spaziergang,,unbekannt,
 71850,DE,2022-02-21,19:00:00,42651,Solingen,Walter-Scheel-Platz / Rathaus,Spaziergang,,unbekannt,
+71856,DE,2022-02-21,19:00:00,42651,Solingen,Walter-Scheel-Platz - Rathaus,Spaziergang,,unbekannt,
 71715,DE,2022-02-21,19:00:00,08340,Schwarzenberg Erzgebirge,Parkplatz Kaufland,Spaziergang,,unbekannt,
 71929,DE,2022-02-21,19:00:00,84056,Rottenburg,Busbahnhof,Spaziergang,,unbekannt,
 71829,DE,2022-02-21,19:00:00,24768,Rendsburg,Paradeplatz / Lornsendenkmal,Spaziergang,,unbekannt,
@@ -219,8 +198,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 71920,DE,2022-02-21,19:00:00,53545,Linz am Rhein,Rheintor,Kundgebung,,unbekannt,
 71880,DE,2022-02-21,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,unbekannt,
 71762,DE,2022-02-21,19:00:00,76870,Kandel,Kriegerdenkmal Georgskirche,Spaziergang,,unbekannt,
-71894,DE,2022-02-21,19:00:00,38820,Halberstadt,Domplatz,Spaziergang,,unbekannt,
 71897,DE,2022-02-21,19:00:00,38820,Halberstadt,Domplatz,Spaziergang,,unbekannt,
+71894,DE,2022-02-21,19:00:00,38820,Halberstadt,Domplatz,Spaziergang,,unbekannt,
 70290,DE,2022-02-21,19:00:00,85435,Erding,Schrannenplatz,Spaziergang,,unbekannt,
 70652,CH,2022-02-21,19:00:00,8953,Dietikon,Bahnhof,Spaziergang,,Dietikon läuft,https://t.me/Demotermine/43513
 71813,DE,2022-02-21,19:00:00,69245,Bammental,Rathaus,Spaziergang,,unbekannt,
@@ -338,8 +317,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 71804,DE,2022-03-04,19:00:00,86720,Nördlingen,Rathaus,Spaziergang,,unbekannt,
 71571,DE,2022-03-05,11:00:00,84028,Landshut,Ländtor / Isarpromenade,Menschenkette,,unbekannt,
 70619,DE,2022-03-05,14:00:00,17033,Neubrandenburg,Parkplatz Belvedere / Broda,Aufzug,https://www.youtube.com/channel/UCyckV8FpsxAs_2HefVigObQ/featured,Neubrandenburger Spaziergang,https://www.facebook.com/profile.php?id=100064165685101
-71550,DE,2022-03-05,14:00:00,80333,München,Königsplatz,Kundgebung,,AfD,https://t.me/pboehringer/1415
 71457,DE,2022-03-05,14:00:00,80333,München,Königsplatz,Kundgebung,,AfD - Gesund ohne Zwang!,www.gesund-ohne-zwang.de
+71550,DE,2022-03-05,14:00:00,80333,München,Königsplatz,Kundgebung,,AfD,https://t.me/pboehringer/1415
 71040,DE,2022-03-05,17:00:00,84028,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,,Kraftquelle Gebet,https://t.me/c/1215577165/10248
 68974,DE,2022-03-07,16:00:00,52428,Jülich,Schlossplatz,Demonstration,,242Zusammen Impffrei Jül/DN,
 71907,DE,2022-03-07,17:30:00,89520,Heidenheim,Rathausplatz,Demonstration,,Pflegekräfte Service GmbH - Markus Thumm,https://pflegekraefte-service.de/presse/pflegekraefte-service-aktuell/demonstration-zur-freien-entscheidung-zur-corona-impfung-07-03-2022-vor-dem-landratsamt-heidenheim/
