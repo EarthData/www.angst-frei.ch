@@ -42,7 +42,7 @@
     {%- endif %}
 
     {%- if entry['Webseite'] %}
-| {{ site.icons.globe }}    |
+| {{ site.icons.globe }} |
     {%- assign websites = entry['Webseite'] | strip | replace: ", ", "," | split: "," -%}
     {%- for website in websites -%}
     [{{ website }}]({{ website }})
@@ -67,7 +67,7 @@
 
     {%- if entry['Video'] -%}
       {%- assign videos = entry['Video'] | strip | replace: ", ", "," | split: "," -%}
-      {%- for video in videos %}
+      {%- for video in videos -%}
         {%- assign videoparts = video | strip  | split: "|" -%}
         {%- assign platform = site.icons.globe -%}
         {%- if videoparts[0] == "youtube" -%}
@@ -80,7 +80,7 @@
           {%- assign platform = site.icons.lbry -%}
         {%- elsif  videoparts[0] == "odysee" -%}
           {%- assign platform = site.icons.odysee -%}
-        {%- endif -%}
+        {%- endif %}
 | {{ platform }} | [{{ videoparts[1] }}]({{ videoparts[1] }}) |
       {%- endfor %}
     {%- endif -%}
