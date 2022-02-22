@@ -9,8 +9,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 71883,DE,2022-02-22,18:00:00,51570,Windeck,vor dem REWE Parkplatz,Mahnwache,,unbekannt,
 70959,DE,2022-02-22,18:00:00,57392,Schmallenberg,Am Alexanderhaus / an der kath,Spaziergang,,unbekannt,
 72086,DE,2022-02-22,18:00:00,57462,Olpe,Marktplatz,Spaziergang,,unbekannt,
-71851,DE,2022-02-22,18:00:00,82216,Maisach,Rathausplatz,Spaziergang,,unbekannt,
 71977,DE,2022-02-22,18:00:00,82216,Maisach,Rathaus,Spaziergang,,Das Volk der Souverän,
+71851,DE,2022-02-22,18:00:00,82216,Maisach,Rathausplatz,Spaziergang,,unbekannt,
 72111,DE,2022-02-22,18:00:00,52428,Jülich,Hexenturm,Spaziergang,,unbekannt,
 71944,DE,2022-02-22,18:00:00,76275,Ettlingen angemeldet,nahe REAL-Dickhäuterplatz,Aufzug,,Für Grundgestze-angemeldet,
 71480,DE,2022-02-22,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Privat,
@@ -33,8 +33,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 71864,DE,2022-02-23,18:00:00,69115,Heidelberg,Schwanenteichanlage / Poststr.,Aufzug,,Initiative für Demokratie und Aufklärung (Mitarbeiter Gesundheitswesen),
 72088,DE,2022-02-23,18:00:00,89537,Giengen an der Brenz,Rathaus,Spaziergang,,unbekannt,
 71984,DE,2022-02-23,18:15:00,85456,Wartenberg,Marktplatz,Demonstration,,Gemeinsam Stark Wartenberg,https://t.me/GemeinsamStarkWartenberg/191
-71899,DE,2022-02-23,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
 72024,DE,2022-02-23,18:30:00,61440,Oberursel,Adenauerallee,Aufzug,,unbekannt,
+71899,DE,2022-02-23,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
+72229,DE,2022-02-23,18:30:00,91207,Lauf,Marktplatz,Demonstration,,unbekannt,
 72023,DE,2022-02-23,18:30:00,60325,Frankfurt Bockenheim,Bockenheimer Warte,Aufzug,,unbekannt,
 72062,DE,2022-02-23,19:00:00,01728,Possendorf,Kastanienallee,Spaziergang,,unbekannt,https://t.me/spazieren_in_possendorf
 71806,DE,2022-02-23,19:00:00,80539,München,Ludwigstr.,Lichterkette,,München steht auf,https://t.me/muenchenstehtauf/2057
@@ -42,11 +43,12 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 72128,DE,2022-02-23,19:00:00,86343,Königsbrunn,Rathaus Königsbrunn,Spaziergang,,Bürgerforum Augsburg,
 72065,DE,2022-02-23,19:00:00,06632,Freyburg,Marktplatz,Spaziergang,,Sachsen- Anhalt steht AUF !,
 72080,DE,2022-02-23,19:00:00,01277,Dresden,Tolkewitz / Schulcampus,Spaziergang,,unbekannt,
+72232,DE,2022-02-23,19:00:00,12589,Berlin,Fürstenwalder Allee 314 / Edeka,Sonstiges,,unbekannt,http://www.rueckgaengig.de/2022/02/21/ungeimpfter-friseur-berlin-slubice-polen-deutschland-2gregel/
 70852,DE,2022-02-23,23:59:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 71709,DE,2022-02-24,11:30:00,91052,Erlangen,Schlossplatz,Kundgebung,,Privat,
 71710,DE,2022-02-24,12:30:00,91052,Erlangen,Schlossplatz,Spaziergang,,Privat,
-71026,DE,2022-02-24,16:00:00,18055,Rostock,Rathaus,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 71961,DE,2022-02-24,16:00:00,18055,Rostock,Rathaus,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
+71026,DE,2022-02-24,16:00:00,18055,Rostock,Rathaus,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 72040,DE,2022-02-24,17:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 72036,DE,2022-02-24,18:00:00,69483,Wald-Michelbach,Ludwigstraße / Schulstraße,Aufzug,,unbekannt,
 67568,DE,2022-02-24,18:00:00,85586,Poing,Friedensstraße 9 / Unterführung,Kundgebung,,Privat,https://t.me/CoronaPoing
@@ -83,8 +85,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 71937,DE,2022-02-26,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,https://t.me/cellestehtauf
 70403,UK,2022-02-26,12:00:00,W1A,London,Central London,Demonstration,,uniteforfreedom,https://www.standupx.info
 70823,DE,2022-02-26,13:00:00,70174,Stuttgart,Stadtgarten,Aufzug,,StudentenStehenAuf,https://gettr.com/user/stauf
-71531,DE,2022-02-26,13:00:00,63741,Aschaffenburg,Volksfestplatz,Demonstration,,unbekannt,
 72050,DE,2022-02-26,13:00:00,63741,Aschaffenburg,Volksfestplatz,Aufzug,,Rhein-main-steht-auf,http://www.rhein-main-steht-auf.de
+71531,DE,2022-02-26,13:00:00,63741,Aschaffenburg,Volksfestplatz,Demonstration,,unbekannt,
 71221,DE,2022-02-26,14:00:00,49074,Osnabrück,Schlossgarten,Demonstration,,unbekannt,
 71999,DE,2022-02-26,14:00:00,65549,Limburg,Parkplatz Markthalle,Aufzug,,unbekannt,https://t.me/LimburgStehtAuf
 71949,DE,2022-02-26,14:00:00,38518,Gifhorn,Schloßwiesen,Kundgebung,https://twitch.tv/demokratievs1984,Gifhorn steht auf Niedersachsen steht auf,
@@ -103,6 +105,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 71955,DE,2022-02-27,11:00:00,07743,Jena,Marktplatz,Kundgebung,,Pflegekräfte,
 71922,AT,2022-02-27,11:30:00,1010,Wien,Heldenplatz,Kundgebung,,wirzeigenunsergesicht,https://wirzeigenunsergesicht.org/
 72141,DE,2022-02-27,11:30:00,79215,Elzach,Schulhof,Mahnwache,,Initiative Elzach,https://initiative-elzach.de
+72233,DE,2022-02-27,14:00:00,76530,Baden-Baden,Reinhard-Fieser-Brücke,Demonstration,https://www.baden-baden.de/stadtportrait/aktuelles/webcams,BI aufRECHT:FREIdenken Mittelbaden,https://www.solidarnosch.de/Covid-19.htm
 72005,DE,2022-02-27,14:00:00,84503,Altötting,Dultplatz,Kundgebung,,BAYERN STEHT ZUSAMMEN! Landshut e.V.,https://t.me/BayernStehtZusammenTermine/361
 71779,DE,2022-02-27,15:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,
 71778,DE,2022-02-27,15:00:00,76726,Germersheim,Luitpoldplatz,Spaziergang,,unbekannt,
@@ -118,8 +121,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 69479,DE,2022-02-28,11:11:00,55116,Mainz,Dom,Aufzug,,unbekannt,
 69478,DE,2022-02-28,11:11:00,50858,Köln,Chlodwigplatz,Aufzug,,unbekannt,
 70943,DE,2022-02-28,13:00:00,45657,Recklinghausen,Rathausplatz,Demonstration,,Privat,
-71822,DE,2022-02-28,13:13:00,55116,Mainz,Malakoff-Terasse,Demonstration,,1bis19 Hessen  Initiative,http://www.maskenzug.de
 71346,DE,2022-02-28,13:13:00,55116,Mainz,Malakoff-Terasse,Aufzug,,Initiative 1bis19,http://maskenzug.de
+71822,DE,2022-02-28,13:13:00,55116,Mainz,Malakoff-Terasse,Demonstration,,1bis19 Hessen  Initiative,http://www.maskenzug.de
 71905,DE,2022-02-28,15:00:00,50679,Köln,Deutzer Werft,Demonstration,,Bündnis Rosenmontag,koelnistaktiv.de
 68973,DE,2022-02-28,16:00:00,52428,Jülich,Schlossplatz,Kundgebung,,242Zusammen Impffrei Jül/DN,
 71607,DE,2022-02-28,16:00:00,26603,Aurich,Krankenhaus,Sonstiges,,Impfstreik,https://impfstreik.compact-online.de/
@@ -137,6 +140,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 70778,DE,2022-02-28,18:00:00,93128,Regenstauf,Schwandorferstr. / Regenbrücke,Spaziergang,,unbekannt,
 72125,DE,2022-02-28,18:00:00,40885,Ratingen-Lintorf,Am Markt / Kirche - St. Anna,Spaziergang,,Privat,
 68786,DE,2022-02-28,18:00:00,28870,Quelkhorn,Denkmal,Spaziergang,,unbekannt,
+72230,DE,2022-02-28,18:00:00,75175,Pforzheim,Rathaus,Aufzug,,unbekannt,
 70193,DE,2022-02-28,18:00:00,87724,Ottobeuren,Rathaus,Spaziergang,,unbekannt,
 72054,DE,2022-02-28,18:00:00,73447,Oberkochen,Rathaus / davor,Spaziergang,,Keine,
 71077,DE,2022-02-28,18:00:00,41460,Neuss,Münsterplatz,Spaziergang,,unbekannt,
@@ -157,10 +161,11 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 72091,DE,2022-02-28,18:00:00,59929,Brilon,Parkplatz Penny/Rewe,Spaziergang,,unbekannt,
 69149,DE,2022-02-28,18:00:00,92339,Beilngries,Kirchplatz Hauptstraße,Aufzug,,unbekannt,
 70610,DE,2022-02-28,18:00:00,93077,Bad Abbach,Rathaus,Spaziergang,,unbekannt,https://t.me/Demotermine/42986
+72231,DE,2022-02-28,18:30:00,75417,Muehlacker,Rathaus,Spaziergang,,unbekannt,
 72120,DE,2022-02-28,18:30:00,58095,Hagen,Friedrich-Ebert-Platz,Spaziergang,,unbekannt,
 71995,DE,2022-02-28,18:30:00,63571,Gelnhausen,Obermarkt,Spaziergang,,unbekannt,
-71787,DE,2022-02-28,18:30:00,29221,Celle,Stechbahn,Spaziergang,,Celle steht auf,https://t.me/cellestehtauf
 71786,DE,2022-02-28,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Celle steht auf,https://t.me/cellestehtauf
+71787,DE,2022-02-28,18:30:00,29221,Celle,Stechbahn,Spaziergang,,Celle steht auf,https://t.me/cellestehtauf
 71530,DE,2022-02-28,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,
 69790,DE,2022-02-28,18:30:00,99510,Apolda,Markt/ Rathaus,Spaziergang,,unbekannt,
 70671,CH,2022-02-28,19:00:00,8023,Zürich,Bahnhofsquai u. weitere,Spaziergang,,Montagsspaziergang Zürich,https://t.me/Demotermine/43531
@@ -192,8 +197,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 71935,DE,2022-03-05,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf
 71936,DE,2022-03-05,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,https://t.me/cellestehtauf
 70619,DE,2022-03-05,14:00:00,17033,Neubrandenburg,Parkplatz Belvedere / Broda,Aufzug,https://www.youtube.com/channel/UCyckV8FpsxAs_2HefVigObQ/featured,Neubrandenburger Spaziergang,https://www.facebook.com/profile.php?id=100064165685101
-71457,DE,2022-03-05,14:00:00,80333,München,Königsplatz,Kundgebung,,AfD - Gesund ohne Zwang!,www.gesund-ohne-zwang.de
 71550,DE,2022-03-05,14:00:00,80333,München,Königsplatz,Kundgebung,,AfD,https://t.me/pboehringer/1415
+71457,DE,2022-03-05,14:00:00,80333,München,Königsplatz,Kundgebung,,AfD - Gesund ohne Zwang!,www.gesund-ohne-zwang.de
 72227,DE,2022-03-05,15:00:00,65199,Wiesbaden,Reisinger Anlage,Kundgebung,,unbekannt,
 72043,DE,2022-03-05,15:00:00,15517,Fürstenwalde,Am Stern,Demonstration,,unbekannt,https://www.facebook.com/groups/739194777055575
 71040,DE,2022-03-05,17:00:00,84028,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,,Kraftquelle Gebet,https://t.me/c/1215577165/10248
@@ -229,8 +234,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 70406,UK,2022-03-19,12:00:00,TR12AF,Truro,Cathedral,Demonstration,,WORLD WIDE RALLY FOR FREEDOM UK,https://t.me/WWD_Cornwall
 70405,UK,2022-03-19,13:00:00,OX11LQ,Oxford,Bonn Square,Demonstration,,FreedomOxford,https://t.me/WWDFreedomOxford
 71725,DE,2022-03-19,16:00:00,90471,Nürnberg,Volksfestplatz,Spaziergang,,Privat,
-70425,DE,2022-03-20,14:00:00,80333,München,Theresienwiese,Kundgebung,,Kinderrechte Jetzt e.V. Wir-gemeinsam-Bündnis u.a.,www.wir-gemeinsam-buendnis.de
 70426,DE,2022-03-20,14:00:00,80333,München,Theresienwiese,Kundgebung,,Kinderrechte Jetzt e.V. Wir-gemeinsam-Bündnis u.a.,www.wir-gemeinsam-buendnis.de
+70425,DE,2022-03-20,14:00:00,80333,München,Theresienwiese,Kundgebung,,Kinderrechte Jetzt e.V. Wir-gemeinsam-Bündnis u.a.,www.wir-gemeinsam-buendnis.de
 68976,DE,2022-03-21,13:12:00,52428,Jülich,Schlossplatz,Kundgebung,,242Zusammen Impffrei Jül/DN,
 72108,DE,2022-03-21,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 67498,DE,2022-03-21,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198
