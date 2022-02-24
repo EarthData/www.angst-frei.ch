@@ -5,6 +5,8 @@ _site
 .obsidian
 /node_modules
 /imagemosaic/env
+/inside-corona/source
+/inside-corona/write_json.rb
 /geocode/env
 /temp
 /assets/img/faces_out
