@@ -5,6 +5,17 @@ ext-js:     ["//unpkg.com/dat.gui", "//unpkg.com/three", "//unpkg.com/3d-force-g
 css:        ["/assets/css/link-graph.css"]
 ---
 
+<!--
+  <script src="//unpkg.com/dat.gui"></script>
+  <script src="//unpkg.com/three"></script>
+  <script src="//unpkg.com/3d-force-graph"></script>
+-->
+  <script src="//unpkg.com/d3-dsv"></script>
+  <script src="//unpkg.com/dat.gui"></script>
+  <script src="//unpkg.com/d3-octree"></script>
+  <script src="//unpkg.com/d3-force-3d"></script>
+  <script src="//unpkg.com/3d-force-graph"></script>
+
 <div id="graph"></div>
 
 <script type="module">
@@ -39,6 +50,7 @@ fetch('json/inside-corona.json').then(res => res.json()).then(gData => {
       return sprite;
     })
     .graphData(gData)
+    .dagMode('td')
     .nodeLabel('title')
     .nodeAutoColorBy('group')
     .linkLabel('title')
@@ -106,24 +118,19 @@ fetch('json/inside-corona.json').then(res => res.json()).then(gData => {
 
   const linkForce = Graph
     .d3Force('link')
-    .distance(link => link.state == "current" ? settings.current : settings.passed);
+    .distance(link => settings.Length)
 
-  const Settings = function() {
-    this.current = 40;
-    this.passed = 80;
-  };
-
-  const settings = new Settings();
+  const settings = { 'DAG Orientation': 'td', 'Length': 80};
   const gui = new dat.GUI();
 
-  const controllerOne = gui.add(settings, 'current', 0, 100);
-  const controllerTwo = gui.add(settings, 'passed', 0, 100);
+  gui.add(settings, 'DAG Orientation', ['td', 'bu', 'lr', 'rl', 'zout', 'zin', 'radialout', 'radialin', null])
+      .onChange(orientation => Graph && Graph.dagMode(orientation));
 
-  controllerOne.onChange(updateLinkDistance);
-  controllerTwo.onChange(updateLinkDistance);
+  const settingsLength = gui.add(settings, 'Length', 0, 200);
+  settingsLength.onChange(updateLinkDistance);
 
   function updateLinkDistance() {
-    linkForce.distance(link => link.state == "current" ? settings.current : settings.passed);
+    linkForce.distance(link => settings.Length);
     Graph.numDimensions(3); // Re-heat simulation
   }
 
