@@ -120,11 +120,13 @@ fetch('json/inside-corona.json').then(res => res.json()).then(gData => {
     .d3Force('link')
     .distance(link => settings.Length)
 
-  const settings = { 'DAG Orientation': 'td', 'Length': 80};
+  const settings = { 'Orientation': 'td', 'Length': 80, 'Mode': 3 };
   const gui = new dat.GUI();
 
-  gui.add(settings, 'DAG Orientation', ['td', 'bu', 'lr', 'rl', 'zout', 'zin', 'radialout', 'radialin', null])
-      .onChange(orientation => Graph && Graph.dagMode(orientation));
+  gui.add(settings, 'Orientation', ['td', 'bu', 'lr', 'rl', 'zout', 'zin', 'radialout', 'radialin', null])
+      .onChange(orientation => Graph && Graph.dagMode(orientation) && Graph.numDimensions(settings.Mode));
+  gui.add(settings, 'Mode', ['3', '2', '1'])
+      .onChange(mode => Graph && Graph.dagMode(settings.Orientation) && Graph.numDimensions(mode));
 
   const settingsLength = gui.add(settings, 'Length', 0, 200);
   settingsLength.onChange(updateLinkDistance);
