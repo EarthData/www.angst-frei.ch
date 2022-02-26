@@ -120,7 +120,7 @@ fetch('json/inside-corona.json').then(res => res.json()).then(gData => {
     .d3Force('link')
     .distance(link => settings.Length)
 
-  const settings = { 'Orientation': 'td', 'Length': 80, 'Mode': 3 };
+  const settings = { 'Orientation': 'td', 'Length': 80, 'Mode': 3};
   const gui = new dat.GUI();
 
   gui.add(settings, 'Orientation', ['td', 'bu', 'lr', 'rl', 'zout', 'zin', 'radialout', 'radialin', null])
@@ -130,6 +130,31 @@ fetch('json/inside-corona.json').then(res => res.json()).then(gData => {
 
   const settingsLength = gui.add(settings, 'Length', 0, 200);
   settingsLength.onChange(updateLinkDistance);
+
+  gData.groups.forEach((group) => {
+    settings[group] = true;
+    gui.add(settings, group).listen().onChange( function() {
+      updateNodes(group)
+    });
+  });
+
+  function updateNodes(group) {
+    let { nodes, links } = Graph.graphData();
+    if (settings[group]) {
+      let newNodes = gData.nodes.filter(n => n.group == group);
+      nodes = nodes.concat(newNodes);
+      let nodeIDs = [];
+      nodes.forEach((node) => {nodeIDs.push(node.id)}); 
+      links = gData.links.filter(l => nodeIDs.includes(l.source.id) && nodeIDs.includes(l.target.id));
+    } else {
+      let oldNodes = nodes.filter(n => n.group == group);
+      nodes = nodes.filter(n => n.group !== group);
+      oldNodes.forEach((node) => {
+        links = links.filter(l => l.source.id !== node.id && l.target.id !== node.id); // Remove links attached to node
+      });
+    }
+    Graph.graphData({ nodes, links });
+  }
 
   function updateLinkDistance() {
     linkForce.distance(link => settings.Length);
