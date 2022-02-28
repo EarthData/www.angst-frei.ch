@@ -1,20 +1,15 @@
 ---
 layout:     minimal
 full-width: true
-ext-js:     ["//unpkg.com/dat.gui", "//unpkg.com/three", "//unpkg.com/3d-force-graph"]
 css:        ["/assets/css/link-graph.css"]
 ---
 
-<!--
-  <script src="//unpkg.com/dat.gui"></script>
-  <script src="//unpkg.com/three"></script>
-  <script src="//unpkg.com/3d-force-graph"></script>
--->
-  <script src="//unpkg.com/d3-dsv"></script>
-  <script src="//unpkg.com/dat.gui"></script>
-  <script src="//unpkg.com/d3-octree"></script>
-  <script src="//unpkg.com/d3-force-3d"></script>
-  <script src="//unpkg.com/3d-force-graph"></script>
+<script src="//unpkg.com/d3-dsv"></script>
+<script src="//unpkg.com/dat.gui"></script>
+<script src="//unpkg.com/three"></script>
+<script src="//unpkg.com/d3-octree"></script>
+<script src="//unpkg.com/d3-force-3d"></script>
+<script src="//unpkg.com/3d-force-graph"></script>
 
 <div id="graph"></div>
 
@@ -50,7 +45,7 @@ fetch('json/inside-corona.json').then(res => res.json()).then(gData => {
       return sprite;
     })
     .graphData(gData)
-    .dagMode('td')
+    .dagMode(null)
     .nodeLabel('title')
     .nodeAutoColorBy('group')
     .linkLabel('title')
@@ -64,6 +59,7 @@ fetch('json/inside-corona.json').then(res => res.json()).then(gData => {
 
       highlightNodes.clear();
       highlightLinks.clear();
+
       if (node) {
         highlightNodes.add(node);
         node.neighbors.forEach(neighbor => highlightNodes.add(neighbor));
@@ -71,10 +67,10 @@ fetch('json/inside-corona.json').then(res => res.json()).then(gData => {
       }
 
       hoverNode = node || null;
-
       updateHighlight();
     })
     .onLinkHover(link => {
+
       highlightNodes.clear();
       highlightLinks.clear();
 
@@ -120,10 +116,10 @@ fetch('json/inside-corona.json').then(res => res.json()).then(gData => {
     .d3Force('link')
     .distance(link => settings.Length)
 
-  const settings = { 'Orientation': 'td', 'Length': 80, 'Mode': 3, 'Search': ""};
+  const settings = { 'Orientation': null, 'Length': 80, 'Mode': 3, 'Search': ""};
   const gui = new dat.GUI();
 
-  gui.add(settings, 'Orientation', ['td', 'bu', 'lr', 'rl', 'zout', 'zin', 'radialout', 'radialin', null])
+  gui.add(settings, 'Orientation', [null, 'td', 'bu', 'lr', 'rl', 'zout', 'zin', 'radialout', 'radialin'])
       .onChange(orientation => Graph && Graph.dagMode(orientation) && Graph.numDimensions(settings.Mode));
   gui.add(settings, 'Mode', ['3', '2', '1'])
       .onChange(mode => Graph && Graph.dagMode(settings.Orientation) && Graph.numDimensions(mode));
@@ -134,39 +130,36 @@ fetch('json/inside-corona.json').then(res => res.json()).then(gData => {
   gData.groups.forEach((group) => {
     settings[group] = true;
     gui.add(settings, group).listen().onChange( function() {
-      updateNodes(group)
+      updateNodes()
     });
   });
 
-  gui.add(settings, 'Search').listen().onFinishChange( function(searchString) {
+  const searchField = gui.add(settings, 'Search').listen().onFinishChange( function(searchString) {
     filterNodes(searchString)
   });
 
-  function updateNodes(group) {
-    let { nodes, links } = Graph.graphData();
-    if (settings[group]) {
-      let newNodes = gData.nodes.filter(n => n.group == group);
-      nodes = nodes.concat(newNodes);
-      let nodeIDs = [];
-      nodes.forEach((node) => {nodeIDs.push(node.id)}); 
-      links = gData.links.filter(l => nodeIDs.includes(l.source.id) && nodeIDs.includes(l.target.id));
-    } else {
-      let oldNodes = nodes.filter(n => n.group == group);
-      nodes = nodes.filter(n => n.group !== group);
-      oldNodes.forEach((node) => {
-        links = links.filter(l => l.source.id !== node.id && l.target.id !== node.id); // Remove links attached to node
-      });
-    }
+  function updateNodes() {
+    let nodeIDs = [];
+    gData.groups.forEach((group) => {
+      if (settings[group]) {
+        let newNodes = gData.nodes.filter(n => n.group == group);
+        newNodes.forEach((node) => {nodeIDs.push(node.id)}); 
+      };
+    });
+    nodeIDs = [...new Set(nodeIDs)];
+    let nodes = gData.nodes.filter(n => nodeIDs.includes(n.id));
+    let links = gData.links.filter(l => nodeIDs.includes(l.source.id) && nodeIDs.includes(l.target.id));
     Graph.graphData({ nodes, links });
   }
 
   function filterNodes(searchString) {
+    //console.log(searchField.object.Search);
     let { nodes, links } = Graph.graphData();
     let regexp = new RegExp(searchString, 'gi');
     let searchNodes = gData.nodes.filter(n => !!n.title.match(regexp));
     let searchLinks = gData.links.filter(l => !!l.title.match(regexp));
     let nodeIDs = [];
-    searchLinks.forEach((link) => {nodeIDs.push(link.source.id); nodeIDs.push(link.target.id);}); 
+    searchLinks.forEach((link) => {nodeIDs.push(link.source.id, link.target.id)}); 
     searchNodes.forEach((node) => {nodeIDs.push(node.id)}); 
     searchNodes.forEach((node) => {node.neighbors.forEach((neighbor) => nodeIDs.push(neighbor.id))}); 
     nodeIDs = [...new Set(nodeIDs)];
@@ -177,7 +170,7 @@ fetch('json/inside-corona.json').then(res => res.json()).then(gData => {
 
   function updateLinkDistance() {
     linkForce.distance(link => settings.Length);
-    Graph.numDimensions(3); // Re-heat simulation
+    Graph.numDimensions(settings.Mode); // Re-heat simulation
   }
 
   function updateHighlight() {
