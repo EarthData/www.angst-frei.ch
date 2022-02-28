@@ -120,7 +120,7 @@ fetch('json/inside-corona.json').then(res => res.json()).then(gData => {
     .d3Force('link')
     .distance(link => settings.Length)
 
-  const settings = { 'Orientation': 'td', 'Length': 80, 'Mode': 3};
+  const settings = { 'Orientation': 'td', 'Length': 80, 'Mode': 3, 'Search': ""};
   const gui = new dat.GUI();
 
   gui.add(settings, 'Orientation', ['td', 'bu', 'lr', 'rl', 'zout', 'zin', 'radialout', 'radialin', null])
@@ -138,6 +138,10 @@ fetch('json/inside-corona.json').then(res => res.json()).then(gData => {
     });
   });
 
+  gui.add(settings, 'Search').listen().onFinishChange( function(searchString) {
+    filterNodes(searchString)
+  });
+
   function updateNodes(group) {
     let { nodes, links } = Graph.graphData();
     if (settings[group]) {
@@ -153,6 +157,21 @@ fetch('json/inside-corona.json').then(res => res.json()).then(gData => {
         links = links.filter(l => l.source.id !== node.id && l.target.id !== node.id); // Remove links attached to node
       });
     }
+    Graph.graphData({ nodes, links });
+  }
+
+  function filterNodes(searchString) {
+    let { nodes, links } = Graph.graphData();
+    let regexp = new RegExp(searchString, 'gi');
+    let searchNodes = gData.nodes.filter(n => !!n.title.match(regexp));
+    let searchLinks = gData.links.filter(l => !!l.title.match(regexp));
+    let nodeIDs = [];
+    searchLinks.forEach((link) => {nodeIDs.push(link.source.id); nodeIDs.push(link.target.id);}); 
+    searchNodes.forEach((node) => {nodeIDs.push(node.id)}); 
+    searchNodes.forEach((node) => {node.neighbors.forEach((neighbor) => nodeIDs.push(neighbor.id))}); 
+    nodeIDs = [...new Set(nodeIDs)];
+    nodes = gData.nodes.filter(n => nodeIDs.includes(n.id));
+    links = gData.links.filter(l => nodeIDs.includes(l.source.id) && nodeIDs.includes(l.target.id));
     Graph.graphData({ nodes, links });
   }
 
