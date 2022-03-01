@@ -135,20 +135,33 @@ fetch('json/inside-corona.json').then(res => res.json()).then(gData => {
   });
 
   const searchField = gui.add(settings, 'Search').listen().onFinishChange( function(searchString) {
-    filterNodes(searchString)
+    //filterNodes(searchString)
+    updateNodes();
   });
 
   function updateNodes() {
-    let nodeIDs = [];
+    let groupIDs = [];
     gData.groups.forEach((group) => {
       if (settings[group]) {
         let newNodes = gData.nodes.filter(n => n.group == group);
-        newNodes.forEach((node) => {nodeIDs.push(node.id)}); 
+        newNodes.forEach((node) => {groupIDs.push(node.id)}); 
       };
     });
-    nodeIDs = [...new Set(nodeIDs)];
-    let nodes = gData.nodes.filter(n => nodeIDs.includes(n.id));
-    let links = gData.links.filter(l => nodeIDs.includes(l.source.id) && nodeIDs.includes(l.target.id));
+    groupIDs = [...new Set(groupIDs)];
+    let nodes = gData.nodes.filter(n => groupIDs.includes(n.id));
+    let links = gData.links.filter(l => groupIDs.includes(l.source.id) && groupIDs.includes(l.target.id));
+    if (searchField.object.Search !== "") {
+      let searchIDs = [];
+      let regexp = new RegExp(searchField.object.Search, 'gi');
+      let searchNodes = nodes.filter(n => !!n.title.match(regexp));
+      let searchLinks = links.filter(l => !!l.title.match(regexp));
+      searchNodes.forEach((node) => { if (groupIDs.includes(node.id)) searchIDs.push(node.id) });
+      searchNodes.forEach((node) => { node.neighbors.forEach((neighbor) => { if (groupIDs.includes(node.id)) searchIDs.push(neighbor.id) }) }); 
+      searchLinks.forEach((link) => { if (groupIDs.includes(link.source.id) && groupIDs.includes(link.target.id)) searchIDs.push(link.source.id, link.target.id) });
+      searchIDs = [...new Set(searchIDs)];
+      nodes = nodes.filter(n => searchIDs.includes(n.id));
+      links = links.filter(l => searchIDs.includes(l.source.id) && searchIDs.includes(l.target.id));
+    }
     Graph.graphData({ nodes, links });
   }
 
@@ -166,6 +179,7 @@ fetch('json/inside-corona.json').then(res => res.json()).then(gData => {
     nodes = gData.nodes.filter(n => nodeIDs.includes(n.id));
     links = gData.links.filter(l => nodeIDs.includes(l.source.id) && nodeIDs.includes(l.target.id));
     Graph.graphData({ nodes, links });
+
   }
 
   function updateLinkDistance() {
