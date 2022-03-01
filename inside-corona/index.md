@@ -1,7 +1,7 @@
 ---
 layout:     minimal
 full-width: true
-css:        ["/assets/css/link-graph.css"]
+css:        ["/assets/css/inside-corona.css"]
 ---
 
 <script src="//unpkg.com/d3-dsv"></script>
