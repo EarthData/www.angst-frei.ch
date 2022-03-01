@@ -9,6 +9,13 @@ input[type=text] {
   line-height: 13px;
 }
 
+.dg.main .c {
+  width: 50%;
+}
+.dg.main .property-name {
+  width: 50%;
+}
+
 .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
   padding: 0;
   margin: 0;
