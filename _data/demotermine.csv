@@ -1,18 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-72391,DE,2022-03-04,16:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
-72482,DE,2022-03-04,17:00:00,86842,Türkheim,Rathaus,Spaziergang,,unbekannt,
-72374,DE,2022-03-04,17:00:00,82216,Maisach,Rathaus,Spaziergang,,Das Volk der Souverän,
-72286,DE,2022-03-04,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,unbekannt,
-72277,DE,2022-03-04,18:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,
-70924,AT,2022-03-04,18:00:00,3390,Melk,Hauptplatz,Spaziergang,,unbekannt,https://t.me/doomsday_austria/53261
-72578,DE,2022-03-04,18:00:00,50931,Köln-Lindenthal,Karl-Schwering-Platz,Spaziergang,,unbekannt,
-72626,DE,2022-03-04,18:00:00,52428,Jülich,Hexenturm,Spaziergang,,unbekannt,
-72559,DE,2022-03-04,18:00:00,75015,Bretten,Marktplatz,Aufzug,,unbekannt,
-72622,DE,2022-03-04,18:00:00,75015,Bretten,Sportzentrum,Aufzug,,Ortsgruppe Bretten,
-72587,DE,2022-03-04,18:00:00,33602,Bielefeld,Kesselbrink,Aufzug,,Bielefeld steht auf!,
-72499,DE,2022-03-04,18:30:00,61462,Königstein,Kapuzinerplatz,Aufzug,,unbekannt,
-72497,DE,2022-03-04,18:30:00,60594,Frankfurt Sachsenhausen,Schweizer Platz,Aufzug,,unbekannt,
-71804,DE,2022-03-04,19:00:00,86720,Nördlingen,Rathaus,Spaziergang,,unbekannt,
 72400,DE,2022-03-05,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Kundgebung,,Chiemgau Gemeinsam,https://www.chiemgau-gemeinsam.de/termine/
 72549,DE,2022-03-05,11:00:00,42651,Solingen,Alter Markt,Kundgebung,,Solingen in Bewegung,https://www.facebook.com/solingeninbewegung
 71571,DE,2022-03-05,11:00:00,84028,Landshut,Ländtor / Isarpromenade,Menschenkette,,unbekannt,
@@ -31,17 +17,17 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 72593,DE,2022-03-05,14:00:00,79098,Freiburg,Platz der alten Synagoge,Aufzug,,unbekannt,
 72585,DE,2022-03-05,14:00:00,40213,Düsseldorf,Rheinkniebrücke/Landtag,Kundgebung,,AfD,https://www.facebook.com/Markus.Wagner.AfD/
 72589,DE,2022-03-05,14:00:00,13357,Berlin,S-Bhf. Gesundbrunnencenter,Demonstration,https://t.me/WirSindViele_Demo,Wir sind Viele / Demo-Tour,
-72561,DE,2022-03-05,14:30:00,69117,Heidelberg,Neckarwiese,Demonstration,,Klinikpersonal,
 72576,DE,2022-03-05,14:30:00,69120,Heidelberg,Neckarwiese / Höhe Keplerstraße,Kundgebung,,Offene Gesellschaft Kurpfalz,http://offges.de
+72561,DE,2022-03-05,14:30:00,69117,Heidelberg,Neckarwiese,Demonstration,,Klinikpersonal,
 72606,DE,2022-03-05,14:30:00,30449,Hannover,Ritter-Brüning-Str. / Parking,Autokorso,,Autocorso Hannover,
 72444,DE,2022-03-05,14:45:00,70372,Stuttgart,Cannstatter Wasen Parkpl. P10,Autokorso,,Privat,
 72227,DE,2022-03-05,15:00:00,65199,Wiesbaden,Reisinger Anlage,Kundgebung,,unbekannt,
-72598,DE,2022-03-05,15:00:00,21029,Hamburg,Bergedorf Bahnhofsvorplatz,Kundgebung,,unbekannt,
 72548,DE,2022-03-05,15:00:00,21073,Hamburg,Harburger Rathaus,Aufzug,,unbekannt,
+72598,DE,2022-03-05,15:00:00,21029,Hamburg,Bergedorf Bahnhofsvorplatz,Kundgebung,,unbekannt,
 72043,DE,2022-03-05,15:00:00,15517,Fürstenwalde,Am Stern,Demonstration,,unbekannt,https://www.facebook.com/groups/739194777055575
 72440,DE,2022-03-05,15:00:00,60329,Frankfurt am Main,Taunusanlage,Demonstration,,unbekannt,
-72599,DE,2022-03-05,15:00:00,40474,Düsseldorf,RHEINPARK, Robert-Lehr-Ufer,Aufzug,,APO - Düsseldorf,http://Aponrw.de
 72555,DE,2022-03-05,15:00:00,40474,Düsseldorf,Rheinpark Robert-Lehr-Ufer,Aufzug,,unbekannt,
+72599,DE,2022-03-05,15:00:00,40474,Düsseldorf,RHEINPARK Robert-Lehr-Ufer,Aufzug,,APO - Düsseldorf,http://Aponrw.de
 72661,DE,2022-03-05,15:01:00,40239,Düsseldorf,Düsseltal,Spaziergang,,unbekannt,
 72565,DE,2022-03-05,15:30:00,75172,Pforzheim,Marktplatz,Kundgebung,,unbekannt,
 72634,DE,2022-03-05,15:30:00,45127,Essen,Willy-Brandt-Platz,Kundgebung,,Für den Erhalt der Freiheit,https://t.me/joinchat/JVCyNxq-L-I442RKfw-IXQ
@@ -91,8 +77,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 72287,DE,2022-03-07,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,unbekannt,
 72623,DE,2022-03-07,18:00:00,75334,Straubenhardt-Feldrennach,Rathaus,Spaziergang,,unbekannt,
 72343,DE,2022-03-07,18:00:00,66583,Spiesen-Elversberg,Rathaus / Spiesen Hauptstraße,Spaziergang,,unbekannt,
-72454,DE,2022-03-07,18:00:00,28790,Schwanewede,Rathaus,Spaziergang,,Menschen mit Verstand,
 72457,DE,2022-03-07,18:00:00,28790,Schwanewede,Rathaus,Spaziergang,,Menschen mit Verstand,
+72454,DE,2022-03-07,18:00:00,28790,Schwanewede,Rathaus,Spaziergang,,Menschen mit Verstand,
 72315,DE,2022-03-07,18:00:00,74523,Schwäbisch Hall,Marktplatz,Spaziergang,,unbekannt,
 72530,DE,2022-03-07,18:00:00,76761,Rülzheim,Kerweplatz,Spaziergang,,unbekannt,
 72637,DE,2022-03-07,18:00:00,17207,Röbel / Müritz,Rathaus,Spaziergang,,unbekannt,
@@ -205,8 +191,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 72401,DE,2022-03-12,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Kundgebung,,Chiemgau Gemeinsam,https://www.chiemgau-gemeinsam.de/termine/
 72292,DE,2022-03-12,13:30:00,74564,Crailsheim,Volksfestplatz,Demonstration,,unbekannt,
 71824,DE,2022-03-12,14:00:00,90571,Nürnberg,Am Max Morlock Stadion,Kundgebung,,Querdenken,
-72649,DE,2022-03-12,15:00:00,20149,Hamburg,Klosterstern,Aufzug,,Das Volk,
 72652,DE,2022-03-12,15:00:00,20099,Hamburg,Berliner Tor / Strohhaus,Aufzug,,Das Volk,
+72649,DE,2022-03-12,15:00:00,20149,Hamburg,Klosterstern,Aufzug,,Das Volk,
 72501,DE,2022-03-12,15:00:00,60329,Frankfurt,Taunusanlage,Aufzug,,unbekannt,
 72647,DE,2022-03-12,15:30:00,22087,Hamburg,Mundsburg / Theater,Kundgebung,Ehrenfrau tv,Das Volk,
 72490,DE,2022-03-12,17:00:00,86150,Augsburg,Ladehofstraße,Aufzug,,Bürgerforum Schwaben,
@@ -225,8 +211,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 72595,DE,2022-03-14,18:00:00,86199,Augsburg,Apprichstraße,Aufzug,,Bürgerforum Schwaben,
 72319,DE,2022-03-14,18:30:00,83119,Obing,Rathaus,Spaziergang,,unbekannt,
 72625,DE,2022-03-14,18:30:00,63571,Gelnhausen,Obermarkt,Spaziergang,,unbekannt,
-72639,DE,2022-03-14,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 72644,DE,2022-03-14,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
+72639,DE,2022-03-14,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 72553,DE,2022-03-14,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,
 72107,DE,2022-03-14,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 72487,DE,2022-03-14,19:00:00,86720,Nördlingen,Rathaus,Spaziergang,,unbekannt,
@@ -251,8 +237,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 68976,DE,2022-03-21,13:12:00,52428,Jülich,Schlossplatz,Kundgebung,,242Zusammen Impffrei Jül/DN,
 72665,DE,2022-03-21,18:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 72320,DE,2022-03-21,18:30:00,83119,Obing,Rathaus,Kundgebung,,unbekannt,
-72640,DE,2022-03-21,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 72643,DE,2022-03-21,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
+72640,DE,2022-03-21,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 72554,DE,2022-03-21,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,
 72108,DE,2022-03-21,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 72489,DE,2022-03-21,19:00:00,86720,Nördlingen,Rathaus,Spaziergang,,unbekannt,
