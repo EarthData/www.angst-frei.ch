@@ -15,8 +15,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 72857,DE,2022-03-11,18:00:00,50931,Köln-Lindenthal,Karl-Schwering-Platz,Spaziergang,,unbekannt,
 72831,DE,2022-03-11,18:00:00,75236,Kämpfelbach-Bilfingen,Kämpfelbachhalle,Aufzug,,Ortsgruppe Kämpfelbach,
 72787,DE,2022-03-11,18:00:00,16540,Hohen Neuendorf,Rathausplatz,Aufzug,,unbekannt,
-72283,DE,2022-03-11,18:00:00,16540,Hohen Neuendorf,Rathausplatz,Aufzug,,Oberhavel steht auf (Orga HND),
 72281,DE,2022-03-11,18:00:00,16540,Hohen Neuendorf,Rathausplatz,Kundgebung,,unbekannt,
+72283,DE,2022-03-11,18:00:00,16540,Hohen Neuendorf,Rathausplatz,Aufzug,,Oberhavel steht auf (Orga HND),
 72882,DE,2022-03-11,18:00:00,27570,Bremerhaven,Grimsbystraße / Arbeitsamt.,Aufzug,,Vision of Freedom,
 72486,DE,2022-03-11,19:00:00,86720,Nördlingen,Rathaus,Kundgebung,,unbekannt,
 72401,DE,2022-03-12,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Kundgebung,,Chiemgau Gemeinsam,https://www.chiemgau-gemeinsam.de/termine/
@@ -24,21 +24,22 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 72862,DE,2022-03-12,11:00:00,20095,Hamburg,Rathaus / davor,Demonstration,,Rathausdemo,https://www.rathausdemo.de
 72884,DE,2022-03-12,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf
 72926,DE,2022-03-12,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,https://t.me/cellestehtauf
-72897,DE,2022-03-12,12:00:00,20095,Hamburg,Rathaus,Kundgebung,,Freie Menschen,
 72896,DE,2022-03-12,12:00:00,22001,Hamburg,Rathaus,Revolte,,Freie Menschen,
+72897,DE,2022-03-12,12:00:00,20095,Hamburg,Rathaus,Kundgebung,,Freie Menschen,
 72785,DE,2022-03-12,12:00:00,74564,Crailsheim,Schweinemarktplatz,Mahnwache,,unbekannt,
 72895,DE,2022-03-12,13:00:00,29525,Uelzen,Hammersteinplatz,Kundgebung,t.me/Uelzen_freie_Impfentscheidung ; Twitter/Facebook/Instagram: Ueffi_Info,Uelzener für freie Impfentscheidung,
-72292,DE,2022-03-12,13:30:00,74564,Crailsheim,Volksfestplatz,Demonstration,,unbekannt,
 72867,DE,2022-03-12,13:30:00,74564,Crailsheim,Volksfestplatz,Aufzug,,unbekannt,http://www.rhein-main-steht-auf.de
+72292,DE,2022-03-12,13:30:00,74564,Crailsheim,Volksfestplatz,Demonstration,,unbekannt,
 72908,DE,2022-03-12,14:00:00,64385,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Zusammenkunft,,unbekannt,
 71824,DE,2022-03-12,14:00:00,90571,Nürnberg,Am Max Morlock Stadion,Kundgebung,,Querdenken,
+72930,DE,2022-03-12,14:00:00,80335,München,Marienplatz,Kundgebung,,unbekannt,
 72900,DE,2022-03-12,14:00:00,80339,München,Theresienwiese,Autokorso,,Autokorso München,https://t.me/AutoKorsoMuc
 72922,DE,2022-03-12,14:00:00,56068,Koblenz,Jesuitenplatz,Mahnwache,,Privat,https://t.me/KoblenzUnzensiert/7987
 72880,DE,2022-03-12,14:00:00,84555,Jettenbach,Sportplatz,Spaziergang,,unbekannt,https://t.me/Demotermine/51398
 72877,DE,2022-03-12,14:00:00,79098,Freiburg im Breisgau,Platz der Alten Synagoge,Demonstration,,FreiSeinFreiburg,https://freiseinfreiburg.de
 72909,DE,2022-03-12,14:00:00,70098,Freiburg,Platz der alten Synagoge,Aufzug,,FreiSeinFreiburg,
-72823,DE,2022-03-12,14:00:00,60313,Frankfurt am Main,Hauptwache,Kundgebung,https://fb.me/e/4XOaLJ4Lc,ORGATEXT ZU LANG,https://www.facebook.com/Solidarität-mit-der-Ukraine-und-der-syrischen-Revolution-101006439210245/
 72741,DE,2022-03-12,14:00:00,60313,Frankfurt am Main,Hauptwache (S),Kundgebung,https://fb.me/e/1TkUjpu0M,Solidarität mit der Ukraine und der syrischen Revolution,https://www.facebook.com/Solidarität-mit-der-Ukraine-und-der-syrischen-Revolution-101006439210245/
+72823,DE,2022-03-12,14:00:00,60313,Frankfurt am Main,Hauptwache,Kundgebung,https://fb.me/e/4XOaLJ4Lc,ORGATEXT ZU LANG,https://www.facebook.com/Solidarität-mit-der-Ukraine-und-der-syrischen-Revolution-101006439210245/
 72849,DE,2022-03-12,15:00:00,97353,Wiesentheid,Mariensäule,Kundgebung,,unbekannt,
 72911,DE,2022-03-12,15:00:00,93051,Regensburg,Domplatz Regensburg,Demonstration,,unbekannt,http://www.gemeinsam-in-regensburg.de
 72914,DE,2022-03-12,15:00:00,93047,Regensburg,Domplatz,Demonstration,,unbekannt,http://www.gemeinsam-in-regensburg.de
@@ -52,8 +53,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 72647,DE,2022-03-12,15:30:00,22087,Hamburg,Mundsburg / Theater,Kundgebung,Ehrenfrau tv,Das Volk,
 72790,DE,2022-03-12,15:30:00,31675,Bückeburg,Marktplatz,Demonstration,,unbekannt,
 72847,DE,2022-03-12,16:00:00,06847,Dessau Roßlau,Alte Landebahn (Dessau),Autokorso,,unbekannt,
-72927,DE,2022-03-12,16:20:00,65183,Wiesbaden,Dernsches Gelände,Kundgebung,,unbekannt,
 72898,DE,2022-03-12,16:20:00,65183,Wiesbaden,Dernsches Gelände,Kundgebung,,Offene Gesellschaft Kurpfalz,https://offges.de/?p=2408
+72927,DE,2022-03-12,16:20:00,65183,Wiesbaden,Dernsches Gelände,Kundgebung,,unbekannt,
 72719,DE,2022-03-12,17:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 72490,DE,2022-03-12,17:00:00,86150,Augsburg,Ladehofstraße,Aufzug,,Bürgerforum Schwaben,
 72544,DE,2022-03-12,18:00:00,76761,Rülzheim,Kerweplatz,Spaziergang,,unbekannt,
@@ -79,8 +80,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 72879,DE,2022-03-13,16:30:00,06406,Bernburg,Weltzeituhr / Karlsplatz,Spaziergang,,unbekannt,
 71826,DE,2022-03-13,17:00:00,90571,Nürnberg,Versicherungs Arena / davor,Aufzug,,Schlager is Geil.,
 72850,DE,2022-03-13,17:30:00,88094,Oberteuringen,Franz-Roth-Platz,Spaziergang,,unbekannt,
-72928,DE,2022-03-13,18:00:00,31275,Lehrte,Burgdorfer Str. / im Verlauf,Spaziergang,,Freies Lehrte,https://t.me/freieslehrte
 72864,DE,2022-03-13,18:00:00,31275,Lehrte,Burgdorfer Str. / im Verlauf,Spaziergang,,Freies Lehrte,https://t.me/freieslehrte
+72928,DE,2022-03-13,18:00:00,31275,Lehrte,Burgdorfer Str. / im Verlauf,Spaziergang,,Freies Lehrte,https://t.me/freieslehrte
 72756,DE,2022-03-14,17:30:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf,http://www.hanau-steht-auf.de
 72910,DE,2022-03-14,17:30:00,21073,Hamburg,Harburger Rathausplatz,Spaziergang,,unbekannt,
 72865,DE,2022-03-14,17:30:00,45131,Essen-Rüttenscheid,Messeparkplatz P2,Spaziergang,,Querdenken201,
@@ -109,6 +110,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 72806,DE,2022-03-14,18:00:00,76829,Landau/Pfalz,Deutsches Tor,Spaziergang,,unbekannt,
 72771,DE,2022-03-14,18:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.de
 72859,DE,2022-03-14,18:00:00,04567,Kitzscher,Rathaus,Spaziergang,,unbekannt,
+72929,DE,2022-03-14,18:00:00,87435,Kempten,Hildegardplatz,Aufzug,,unbekannt,
 72804,DE,2022-03-14,18:00:00,76879,Hochstadt Pfalz,Rathaus,Spaziergang,,unbekannt,
 72830,DE,2022-03-14,18:00:00,22607,Hamburg-Othmarschen,Beselerplatz,Spaziergang,,unbekannt,
 72801,DE,2022-03-14,18:00:00,76767,Hagenbach,Kirche,Spaziergang,,unbekannt,
@@ -123,13 +125,13 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 72505,DE,2022-03-14,18:00:00,75323,Bad Wildbad,Rathaus (Kernerstr. 11),Spaziergang,,unbekannt,
 72795,DE,2022-03-14,18:00:00,67098,Bad Dürkheim,Dürkheimer Fass,Spaziergang,,unbekannt,
 72923,DE,2022-03-14,18:00:00,65520,Bad Camberg,Caspar-Hofmann-Platz / Bahnhof,Spaziergang,,Bad Camberg hält zusammen,
-72493,DE,2022-03-14,18:00:00,86199,Augsburg,Apprichstraße,Aufzug,,Bürgerforum Schwaben,
 72595,DE,2022-03-14,18:00:00,86199,Augsburg,Apprichstraße,Aufzug,,Bürgerforum Schwaben,
+72493,DE,2022-03-14,18:00:00,86199,Augsburg,Apprichstraße,Aufzug,,Bürgerforum Schwaben,
 72793,DE,2022-03-14,18:00:00,76855,Annweiler am Trifels,Kirchplatz,Spaziergang,,unbekannt,
 72809,DE,2022-03-14,18:30:00,76764,Rheinzabern,Grundschule,Spaziergang,,unbekannt,
 72866,DE,2022-03-14,18:30:00,33098,Paderborn,Maspernplatz,Aufzug,,ORGATEXT ZU LANG,http://www.grundrechte-pb.de
-72319,DE,2022-03-14,18:30:00,83119,Obing,Rathaus,Spaziergang,,unbekannt,
 72894,DE,2022-03-14,18:30:00,83119,Obing,Rathaus,Spaziergang,,unbekannt,
+72319,DE,2022-03-14,18:30:00,83119,Obing,Rathaus,Spaziergang,,unbekannt,
 72863,DE,2022-03-14,18:30:00,69181,Leimen,Rathausplatz,Spaziergang,,unbekannt,
 72803,DE,2022-03-14,18:30:00,76863,Herxheim,Villa Wieser,Spaziergang,,unbekannt,
 72802,DE,2022-03-14,18:30:00,67454,Hassloch,Pfalzplatz,Spaziergang,,unbekannt,
@@ -141,8 +143,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 72553,DE,2022-03-14,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,
 72794,DE,2022-03-14,18:30:00,76887,Bad Bergzabern,Schloss,Spaziergang,,unbekannt,
 72107,DE,2022-03-14,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
-72745,DE,2022-03-14,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,
 72828,DE,2022-03-14,19:00:00,26382,Wilhelmshaven,Valoisplatz,Spaziergang,,unbekannt,
+72745,DE,2022-03-14,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,
 72811,DE,2022-03-14,19:00:00,67346,Speyer,Alte Münze,Spaziergang,,unbekannt,
 72870,DE,2022-03-14,19:00:00,42651,Solingen,Walter-Scheel-Platz / Rathaus,Spaziergang,,unbekannt,
 72915,DE,2022-03-14,19:00:00,24768,Rendsburg,Lornsendenkmal am Paradeplatz,Spaziergang,,unbekannt,
@@ -238,8 +240,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 69014,DE,2022-03-28,18:00:00,52428,Jülich,Neusser Str. / Höhe Post,Bauerndemo,,240 Impffrei Jül/DN,
 72854,DE,2022-03-28,18:00:00,06844,Dessau-Roßlau,Marktplatz vor dem Rathaus,Spaziergang,,Dessau steht auf,https://t.me/MontagsMahnwache
 72766,DE,2022-03-28,18:30:00,63450,Hanau,Freiheitsplatz,Spaziergang,,Hanau steht auf,http://www.hanau-steht-auf.de
-72642,DE,2022-03-28,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 72641,DE,2022-03-28,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
+72642,DE,2022-03-28,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 72109,DE,2022-03-28,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 72747,DE,2022-03-28,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,
 72875,DE,2022-03-28,19:00:00,42651,Solingen,Walter-Scheel-Platz / Rathaus,Spaziergang,,Solingen in Bewegung,
