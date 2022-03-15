@@ -1,18 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-72813,DE,2022-03-15,18:00:00,67378,Zeiskam,Fuchsbachhalle,Spaziergang,,unbekannt,
-73051,DE,2022-03-15,18:00:00,17438,Wolgast,Freifläche am Kai,Kundgebung,,Privat,
-71993,DE,2022-03-15,18:00:00,57392,Schmallenberg,Am Alexanderhaus / kath. Kirche,Kundgebung,,unbekannt,
-72932,DE,2022-03-15,18:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
-72782,DE,2022-03-15,18:00:00,72290,Loßburg,Kinzigtal beim Rathaus,Spaziergang,,unbekannt,
-72773,DE,2022-03-15,18:00:00,95326,Kulmbach,Marktplatz,Kundgebung,,20Plus1-Bürgerbewegung,https://20plus1.de
-72948,DE,2022-03-15,18:00:00,76275,Ettlingen,Dickhäuterplatz,Aufzug,,unbekannt,
-73082,DE,2022-03-15,18:30:00,79108,Freiburg,Neues SC-Stadion / Flugplatz,Autokorso,,FreiSein Freiburg,
-72609,DE,2022-03-15,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Team Menschenrechte,
-73049,DE,2022-03-15,19:00:00,92421,Schwandorf,Marktplatz,Demonstration,,unbekannt,
-72814,DE,2022-03-15,19:00:00,76774,Leimersheim,Kirchplatz,Spaziergang,,unbekannt,
-72815,DE,2022-03-15,19:00:00,76770,Hatzenbühl,Rathaus Bushaltestelle,Spaziergang,,unbekannt,
-72988,DE,2022-03-15,19:00:00,01129,Dresden,Wilder Mann Endstation 3,Spaziergang,,unbekannt,
-73012,DE,2022-03-15,21:00:00,10117,Berlin,unbekannt,Livestream,https://youtu.be/K3I6lupE4uc,Radio Deutschland Eins,http://www.radio-deutschland-eins.com
 72968,DE,2022-03-16,06:00:00,74933,Neidenstein,Van Venningenhalle,Spaziergang,,unbekannt,
 72751,DE,2022-03-16,15:30:00,77652,Offenburg,Rée Carré,Sonstiges,,Netzwerk Medizinisches-Personal-Ortenau,
 72940,DE,2022-03-16,17:30:00,70173,Stuttgart,Karlsplatz,Aufzug,,Privat,
@@ -41,8 +27,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73052,DE,2022-03-17,18:00:00,53902,Bad Münstereifel,Rathaus,Spaziergang,,unbekannt,
 72818,DE,2022-03-17,18:30:00,76887,Bad Bergzabern,Schloss,Spaziergang,,unbekannt,
 72820,DE,2022-03-17,19:00:00,76777,Neupotz,Kirche,Spaziergang,,unbekannt,
-72994,DE,2022-03-17,19:00:00,01277,Dresden,Striesen / Progr. Kino Ost,Spaziergang,,unbekannt,
 72990,DE,2022-03-17,19:00:00,01307,Dresden,Fetscherplatz Artushof,Spaziergang,,unbekannt,
+72994,DE,2022-03-17,19:00:00,01277,Dresden,Striesen / Progr. Kino Ost,Spaziergang,,unbekannt,
 72933,DE,2022-03-18,16:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 72999,DE,2022-03-18,16:00:00,91052,Erlangen,Berliner Platz. Park,Demonstration,,Freie Wähler und Besorgte Bürger,
 72942,PL,2022-03-18,17:00:00,60-731,Poznań,Rynek Łazarski 1,Event,https://dlive.tv/actioncovid1984,STOP NOP,https://stopnop.com.pl
@@ -66,8 +52,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 72934,DE,2022-03-19,17:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 72491,DE,2022-03-19,17:00:00,86150,Augsburg,Ladehofstraße,Aufzug,,Bürgerforum Schwaben,
 72821,DE,2022-03-19,18:00:00,76761,Rülzheim,Kerweplatz,Spaziergang,,unbekannt,
-70426,DE,2022-03-20,14:00:00,80333,München,Theresienwiese,Kundgebung,,Kinderrechte Jetzt e.V. Wir-gemeinsam-Bündnis u.a.,www.wir-gemeinsam-buendnis.de
 70425,DE,2022-03-20,14:00:00,80333,München,Theresienwiese,Kundgebung,,Kinderrechte Jetzt e.V. Wir-gemeinsam-Bündnis u.a.,www.wir-gemeinsam-buendnis.de
+70426,DE,2022-03-20,14:00:00,80333,München,Theresienwiese,Kundgebung,,Kinderrechte Jetzt e.V. Wir-gemeinsam-Bündnis u.a.,www.wir-gemeinsam-buendnis.de
 73050,DE,2022-03-20,14:00:00,76530,Baden-Baden,Augustaplatz,Demonstration,,BI aufRECHT:FREIdenken Mittelbaden,www.solidarnosch.de/covid-19.htm
 73083,DE,2022-03-20,15:00:00,93047,Regensburg,Domplatz,Demonstration,,unbekannt,http://www.gemeinsam-in-regensburg.de
 72935,DE,2022-03-20,15:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
@@ -157,13 +143,13 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 69014,DE,2022-03-28,18:00:00,52428,Jülich,Neusser Str. / Höhe Post,Bauerndemo,,240 Impffrei Jül/DN,
 72854,DE,2022-03-28,18:00:00,06844,Dessau-Roßlau,Marktplatz vor dem Rathaus,Spaziergang,,Dessau steht auf,https://t.me/MontagsMahnwache
 72766,DE,2022-03-28,18:30:00,63450,Hanau,Freiheitsplatz,Spaziergang,,Hanau steht auf,http://www.hanau-steht-auf.de
-72642,DE,2022-03-28,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 72641,DE,2022-03-28,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
+72642,DE,2022-03-28,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 72109,DE,2022-03-28,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 72747,DE,2022-03-28,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,
 72875,DE,2022-03-28,19:00:00,42651,Solingen,Walter-Scheel-Platz / Rathaus,Spaziergang,,Solingen in Bewegung,
-72724,DE,2022-03-28,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,https://www.chiemgau-gemeinsam.de/termine/
 72725,DE,2022-03-28,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,https://www.chiemgau-gemeinsam.de/termine/
+72724,DE,2022-03-28,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,https://www.chiemgau-gemeinsam.de/termine/
 67499,DE,2022-03-28,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198
 71734,DE,2022-03-30,15:00:00,91052,Erlangen,Berliner Platz. Park,Konzert,,Alarmstufe Rot,
 71942,DE,2022-03-30,23:59:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Celle steht auf,https://t.me/cellestehtauf
