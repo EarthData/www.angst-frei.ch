@@ -25,8 +25,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73150,DE,2022-03-19,14:00:00,56068,Koblenz,Jesuitenplatz,Mahnwache,,Privat,https://t.me/KoblenzUnzensiert/8109
 73152,DE,2022-03-19,14:00:00,79098,Freiburg,Platz der alten Synagoge,Aufzug,,FreiSeinFreiburg,
 72946,DE,2022-03-19,14:30:00,69120,Heidelberg,Neckarwiese / Höhe Keplerstraße,Aufzug,,Offene Gesellschaft Kurpfalz,offges.de/hd-2022-03-19
-73147,DE,2022-03-19,15:00:00,93051,Regensburg,Domplatz Regensburg,Demonstration,,Termin auf Sonntag verschoben,http://www.gemeinsam-in-regensburg.de
 72912,DE,2022-03-19,15:00:00,93051,Regensburg,Domplatz Regensburg,Demonstration,,unbekannt,http://www.gemeinsam-in-regensburg.de
+73147,DE,2022-03-19,15:00:00,93051,Regensburg,Domplatz Regensburg,Demonstration,,Termin auf Sonntag verschoben,http://www.gemeinsam-in-regensburg.de
 73146,DE,2022-03-19,15:00:00,21073,Hamburg Harburg,Rathausplatz,Aufzug,,Bürgerbündnis Harburg,
 72502,DE,2022-03-19,15:00:00,60329,Frankfurt,Taunusanlage,Aufzug,,unbekannt,
 73011,DE,2022-03-19,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,APO - Düsseldorf,
@@ -39,11 +39,10 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73128,DE,2022-03-19,18:00:00,72764,Reutlingen,Bürgerpark vor der Stadthalle,Demonstration,,unbekannt,
 73148,DE,2022-03-19,18:00:00,73326,Deggingen,Gesamter Ort,Spaziergang,,unbekannt,
 73149,DE,2022-03-20,10:46:00,75015,Bretten,Withumanlage/Simmelturm,Meditation,,unbekannt,
-70426,DE,2022-03-20,14:00:00,80333,München,Theresienwiese,Kundgebung,,Kinderrechte Jetzt e.V. Wir-gemeinsam-Bündnis u.a.,www.wir-gemeinsam-buendnis.de
-70425,DE,2022-03-20,14:00:00,80333,München,Theresienwiese,Kundgebung,,Kinderrechte Jetzt e.V. Wir-gemeinsam-Bündnis u.a.,www.wir-gemeinsam-buendnis.de
+70425,DE,2022-03-20,13:00:00,80333,München,Königsplatz,Kundgebung,,Kinderrechte Jetzt e.V. Wir-gemeinsam-Bündnis u.a.,http://www.wir-gemeinsam-buendnis.de
 73050,DE,2022-03-20,14:00:00,76530,Baden-Baden,Augustaplatz,Demonstration,,BI aufRECHT:FREIdenken Mittelbaden,www.solidarnosch.de/covid-19.htm
-73083,DE,2022-03-20,15:00:00,93047,Regensburg,Domplatz,Demonstration,,unbekannt,http://www.gemeinsam-in-regensburg.de
 73087,DE,2022-03-20,15:00:00,93047,Regensburg,Domplatz Regensburg,Musik,,unbekannt,htt://www.gemeinsam-in-regensburg.de
+73083,DE,2022-03-20,15:00:00,93047,Regensburg,Domplatz,Demonstration,,unbekannt,http://www.gemeinsam-in-regensburg.de
 72935,DE,2022-03-20,15:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 72822,DE,2022-03-20,15:00:00,76726,Germersheim,Luitpoldplatz,Spaziergang,,unbekannt,
 72477,DE,2022-03-20,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
@@ -169,8 +168,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 72109,DE,2022-03-28,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 72747,DE,2022-03-28,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,
 72875,DE,2022-03-28,19:00:00,42651,Solingen,Walter-Scheel-Platz / Rathaus,Spaziergang,,Solingen in Bewegung,
-72724,DE,2022-03-28,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,https://www.chiemgau-gemeinsam.de/termine/
 72725,DE,2022-03-28,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,https://www.chiemgau-gemeinsam.de/termine/
+72724,DE,2022-03-28,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,https://www.chiemgau-gemeinsam.de/termine/
 67499,DE,2022-03-28,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198
 73141,DE,2022-03-28,19:00:00,52062,Aachen,Marktplatz,Spaziergang,,Freie Bürger Aachen,
 71734,DE,2022-03-30,15:00:00,91052,Erlangen,Berliner Platz. Park,Konzert,,Alarmstufe Rot,
