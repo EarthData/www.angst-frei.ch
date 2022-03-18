@@ -25,8 +25,6 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73150,DE,2022-03-19,14:00:00,56068,Koblenz,Jesuitenplatz,Mahnwache,,Privat,https://t.me/KoblenzUnzensiert/8109
 73152,DE,2022-03-19,14:00:00,79098,Freiburg,Platz der alten Synagoge,Aufzug,,FreiSeinFreiburg,
 72946,DE,2022-03-19,14:30:00,69120,Heidelberg,Neckarwiese / Höhe Keplerstraße,Aufzug,,Offene Gesellschaft Kurpfalz,offges.de/hd-2022-03-19
-72912,DE,2022-03-19,15:00:00,93051,Regensburg,Domplatz Regensburg,Demonstration,,unbekannt,http://www.gemeinsam-in-regensburg.de
-73147,DE,2022-03-19,15:00:00,93051,Regensburg,Domplatz Regensburg,Demonstration,,Termin auf Sonntag verschoben,http://www.gemeinsam-in-regensburg.de
 73146,DE,2022-03-19,15:00:00,21073,Hamburg Harburg,Rathausplatz,Aufzug,,Bürgerbündnis Harburg,
 72502,DE,2022-03-19,15:00:00,60329,Frankfurt,Taunusanlage,Aufzug,,unbekannt,
 73011,DE,2022-03-19,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,APO - Düsseldorf,
@@ -48,8 +46,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 72477,DE,2022-03-20,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
 72993,DE,2022-03-20,16:30:00,01279,Dresden,Österreicher 39 / Dominos Pizza,Spaziergang,,unbekannt,
 72939,DE,2022-03-20,17:30:00,71638,Ludwigsburg,Stuttgarter Straße 33,Aufzug,,Querdenken,
-73101,DE,2022-03-20,17:30:00,20095,Hamburg,Rathaus Hamburg,Aufzug,,unbekannt,
 73100,DE,2022-03-20,17:30:00,20095,Hamburg,Rathaus Ecke Mönckebergstraße,Aufzug,,unbekannt,
+73101,DE,2022-03-20,17:30:00,20095,Hamburg,Rathaus Hamburg,Aufzug,,unbekannt,
 73098,DE,2022-03-20,18:00:00,31275,Lehrte,Burgdorfer Str. / im Verlauf,Spaziergang,,Freies Lehrte,
 73084,DE,2022-03-20,19:00:00,93059,Regensburg,Grieser Spitz,Lichterkette,,unbekannt,http://www.gemeinsam-in-regensburg.de
 68976,DE,2022-03-21,13:12:00,52428,Jülich,Schlossplatz,Kundgebung,,242Zusammen Impffrei Jül/DN,
@@ -99,8 +97,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73025,DE,2022-03-21,18:30:00,67454,Hassloch,Pfalzplatz,Spaziergang,,unbekannt,
 72765,DE,2022-03-21,18:30:00,63450,Hanau,Freiheitsplatz,Spaziergang,,Hanau steht auf,http://www.hanau-steht-auf.de
 73022,DE,2022-03-21,18:30:00,76726,Germersheim,Konrad-Adenauer-Str. (Tedi),Spaziergang,,unbekannt,
-72643,DE,2022-03-21,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 72640,DE,2022-03-21,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
+72643,DE,2022-03-21,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 72554,DE,2022-03-21,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,
 73153,DE,2022-03-21,18:30:00,54470,Bernkastel-Kues,Verbandsgemeindeverwaltung,Spaziergang,,unbekannt,
 73018,DE,2022-03-21,18:30:00,76887,Bad Bergzabern,Schloss,Spaziergang,,unbekannt,
