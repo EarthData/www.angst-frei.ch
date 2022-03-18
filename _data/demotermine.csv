@@ -1,17 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-73132,DE,2022-03-18,09:00:00,60311,Frankfurt am Main,Römer,Mahnwache,,unbekannt,
-73117,DE,2022-03-18,09:00:00,10117,Berlin,Unter den Linden 74,Aufzug,,unbekannt,
-73136,DE,2022-03-18,11:30:00,10785,Berlin,Potsdamer Platz,Kundgebung,,unbekannt,
-72933,DE,2022-03-18,16:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
-72999,DE,2022-03-18,16:00:00,91052,Erlangen,Berliner Platz. Park,Demonstration,,Freie Wähler und Besorgte Bürger,
-73097,DE,2022-03-18,17:00:00,86842,Türkheim,Rathaus,Spaziergang,,unbekannt,
-72942,PL,2022-03-18,17:00:00,60-731,Poznań,Rynek Łazarski 1,Event,https://dlive.tv/actioncovid1984,STOP NOP,https://stopnop.com.pl
-72964,DE,2022-03-18,17:00:00,45721,Haltern am See,Marktplatz,Demonstration,,privat,
-73143,DE,2022-03-18,17:00:00,01067,Dresden,Neumarkt,Demonstration,,unbekannt,
-73096,DE,2022-03-18,18:00:00,50931,Köln-Lindenthal,Karl-Schwering-Platz,Spaziergang,,unbekannt,
-73008,DE,2022-03-18,18:00:00,16761,Hennigsdorf,Postplatz (Bahnhof),Aufzug,,Oberhavel steht auf,http://www.oberhavel-steht-auf.de
-72488,DE,2022-03-18,19:00:00,86720,Nördlingen,Rathaus,Spaziergang,,unbekannt,
-72620,DE,2022-03-18,19:00:00,96047,Bamberg,Kongresshalle,Konzert,,Thomann Management.,http://www.Reservix.de
 72402,DE,2022-03-19,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Kundgebung,,Chiemgau Gemeinsam,https://www.chiemgau-gemeinsam.de/termine/
 72871,DE,2022-03-19,11:00:00,42651,Solingen,Alter Markt,Kundgebung,,Solingen in Bewegung,
 72844,DE,2022-03-19,11:00:00,71394,Kernen im Remstal,Pausenhof Realschule,Kundgebung,,BI Freiheit und Gesundheit Kernen,http://www.bi-freiheit-gesundheit-kernen.de
@@ -39,15 +26,15 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73149,DE,2022-03-20,10:46:00,75015,Bretten,Withumanlage/Simmelturm,Meditation,,unbekannt,
 70425,DE,2022-03-20,13:00:00,80333,München,Königsplatz,Kundgebung,,Kinderrechte Jetzt e.V. Wir-gemeinsam-Bündnis u.a.,http://www.wir-gemeinsam-buendnis.de
 73050,DE,2022-03-20,14:00:00,76530,Baden-Baden,Augustaplatz,Demonstration,,BI aufRECHT:FREIdenken Mittelbaden,www.solidarnosch.de/covid-19.htm
-73087,DE,2022-03-20,15:00:00,93047,Regensburg,Domplatz Regensburg,Musik,,unbekannt,htt://www.gemeinsam-in-regensburg.de
 73083,DE,2022-03-20,15:00:00,93047,Regensburg,Domplatz,Demonstration,,unbekannt,http://www.gemeinsam-in-regensburg.de
+73087,DE,2022-03-20,15:00:00,93047,Regensburg,Domplatz Regensburg,Musik,,unbekannt,htt://www.gemeinsam-in-regensburg.de
 72935,DE,2022-03-20,15:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 72822,DE,2022-03-20,15:00:00,76726,Germersheim,Luitpoldplatz,Spaziergang,,unbekannt,
 72477,DE,2022-03-20,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
 72993,DE,2022-03-20,16:30:00,01279,Dresden,Österreicher 39 / Dominos Pizza,Spaziergang,,unbekannt,
 72939,DE,2022-03-20,17:30:00,71638,Ludwigsburg,Stuttgarter Straße 33,Aufzug,,Querdenken,
-73100,DE,2022-03-20,17:30:00,20095,Hamburg,Rathaus Ecke Mönckebergstraße,Aufzug,,unbekannt,
 73101,DE,2022-03-20,17:30:00,20095,Hamburg,Rathaus Hamburg,Aufzug,,unbekannt,
+73100,DE,2022-03-20,17:30:00,20095,Hamburg,Rathaus Ecke Mönckebergstraße,Aufzug,,unbekannt,
 73098,DE,2022-03-20,18:00:00,31275,Lehrte,Burgdorfer Str. / im Verlauf,Spaziergang,,Freies Lehrte,
 73084,DE,2022-03-20,19:00:00,93059,Regensburg,Grieser Spitz,Lichterkette,,unbekannt,http://www.gemeinsam-in-regensburg.de
 68976,DE,2022-03-21,13:12:00,52428,Jülich,Schlossplatz,Kundgebung,,242Zusammen Impffrei Jül/DN,
@@ -125,8 +112,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73126,DE,2022-03-23,18:00:00,65779,Kelkheim,Markt,Spaziergang,,Freiheit,
 73144,DE,2022-03-23,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
 73137,DE,2022-03-23,18:30:00,46045,Oberhausen,Friedensplatz,Spaziergang,,unbekannt,
-73135,DE,2022-03-23,18:30:00,44369,Dortmund,Huckarder Marktplatz,Spaziergang,,Privat,http://t.me/huckardespaziert
 73134,DE,2022-03-23,18:30:00,44369,Dortmund,Huckarder Marktplatz,Spaziergang,,Privat,http://t.me/huckardespaziert
+73135,DE,2022-03-23,18:30:00,44369,Dortmund,Huckarder Marktplatz,Spaziergang,,Privat,http://t.me/huckardespaziert
 73039,DE,2022-03-23,19:00:00,76773,Kuhardt,Dorfplatz,Spaziergang,,unbekannt,
 71030,DE,2022-03-24,16:00:00,18055,Rostock,Rathaus,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 67572,DE,2022-03-24,18:00:00,85586,Poing,Friedensstraße 9 / Unterführung,Kundgebung,,Privat,https://t.me/CoronaPoing
