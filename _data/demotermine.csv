@@ -73,8 +73,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73153,DE,2022-03-21,18:30:00,54470,Bernkastel-Kues,Verbandsgemeindeverwaltung,Spaziergang,,unbekannt,
 73018,DE,2022-03-21,18:30:00,76887,Bad Bergzabern,Schloss,Spaziergang,,unbekannt,
 72108,DE,2022-03-21,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
-72746,DE,2022-03-21,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,
 73158,DE,2022-03-21,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,unbekannt,
+72746,DE,2022-03-21,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,
 72872,DE,2022-03-21,19:00:00,42651,Solingen,Walter-Scheel-Platz / Rathaus,Spaziergang,,Solingen in Bewegung,
 73127,DE,2022-03-21,19:00:00,24768,Rendsburg,Lornsendenkmal am Paradeplatz,Spaziergang,,unbekannt,
 72723,DE,2022-03-21,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,https://www.chiemgau-gemeinsam.de/termine/
@@ -103,9 +103,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73126,DE,2022-03-23,18:00:00,65779,Kelkheim,Markt,Spaziergang,,Freiheit,
 73144,DE,2022-03-23,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
 73137,DE,2022-03-23,18:30:00,46045,Oberhausen,Friedensplatz,Spaziergang,,unbekannt,
-73135,DE,2022-03-23,18:30:00,44369,Dortmund,Huckarder Marktplatz,Spaziergang,,Privat,http://t.me/huckardespaziert
-73134,DE,2022-03-23,18:30:00,44369,Dortmund,Huckarder Marktplatz,Spaziergang,,Privat,http://t.me/huckardespaziert
 73216,DE,2022-03-23,18:30:00,44369,Dortmund,Huckarder Marktplatz,Spaziergang,,Privat,https://t.me/nowedortmunderwacht1
+73134,DE,2022-03-23,18:30:00,44369,Dortmund,Huckarder Marktplatz,Spaziergang,,Privat,http://t.me/huckardespaziert
+73135,DE,2022-03-23,18:30:00,44369,Dortmund,Huckarder Marktplatz,Spaziergang,,Privat,http://t.me/huckardespaziert
 73218,DE,2022-03-23,19:00:00,01728,Possendorf,Kastanienallee,Spaziergang,,unbekannt,https://t.me/spazieren_in_possendorf
 73039,DE,2022-03-23,19:00:00,76773,Kuhardt,Dorfplatz,Spaziergang,,unbekannt,
 73224,DE,2022-03-23,23:59:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
@@ -131,6 +131,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 72503,DE,2022-03-26,15:00:00,60329,Frankfurt,Taunusanlage,Aufzug,,unbekannt,
 73204,DE,2022-03-26,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,APO - Düsseldorf,
 73195,DE,2022-03-26,15:00:00,44787,Bochum,Dr.-Ruer-Platz,Aufzug,,Querdenken 234 - Bochum,https://querdenken-234.de
+73227,DE,2022-03-26,15:30:00,45127,Essen,Willy-Brandt-Platz,Kundgebung,,Für den Erhalt der Freiheit,
 73046,DE,2022-03-26,18:00:00,76761,Rülzheim,Kerweplatz,Spaziergang,,unbekannt,
 73014,DE,2022-03-26,20:00:00,37359,Effelder,Eichsfelder Dom,Spaziergang,,unbekannt,
 73048,DE,2022-03-27,15:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,
@@ -161,8 +162,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73198,DE,2022-03-28,18:51:00,74074,Heilbronn,Götzenturm,Spaziergang,,unbekannt,
 72747,DE,2022-03-28,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,
 72875,DE,2022-03-28,19:00:00,42651,Solingen,Walter-Scheel-Platz / Rathaus,Spaziergang,,Solingen in Bewegung,
-72725,DE,2022-03-28,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,https://www.chiemgau-gemeinsam.de/termine/
 72724,DE,2022-03-28,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,https://www.chiemgau-gemeinsam.de/termine/
+72725,DE,2022-03-28,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,https://www.chiemgau-gemeinsam.de/termine/
 67499,DE,2022-03-28,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198
 73141,DE,2022-03-28,19:00:00,52062,Aachen,Marktplatz,Spaziergang,,Freie Bürger Aachen,
 71734,DE,2022-03-30,15:00:00,91052,Erlangen,Berliner Platz. Park,Konzert,,Alarmstufe Rot,
