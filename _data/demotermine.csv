@@ -16,8 +16,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73185,DE,2022-03-21,18:00:00,88069,Tettnagn,Rathaus,Spaziergang,,unbekannt,
 73169,DE,2022-03-21,18:00:00,75334,Stgraubenhardt-Feldrennach,Rathaus,Spaziergang,,unbekannt,
 72683,DE,2022-03-21,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,unbekannt,
-73202,DE,2022-03-21,18:00:00,66583,Spiesen Elversberg,Rathaus / Hauptstraße,Spaziergang,,unbekannt,
 72680,DE,2022-03-21,18:00:00,66583,Spiesen Elversberg,Spiesen Rathaus / Hauptstraße,Spaziergang,,unbekannt,
+73202,DE,2022-03-21,18:00:00,66583,Spiesen Elversberg,Rathaus / Hauptstraße,Spaziergang,,unbekannt,
 73077,DE,2022-03-21,18:00:00,74523,Schwäbisch Hall,Marktplatz,Spaziergang,,unbekannt,
 73222,DE,2022-03-21,18:00:00,36381,Schlüchtern,Parkplatz Feuerwehr,Spaziergang,,unbekannt,
 73033,DE,2022-03-21,18:00:00,76761,Rülzheim,Kerweplatz,Spaziergang,,unbekannt,
@@ -93,6 +93,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73223,DE,2022-03-22,18:00:00,17438,Wolgast,Freifläche am Kai,Kundgebung,,Privat,
 73113,DE,2022-03-22,18:00:00,72290,Loßburg,Loßburg Kinzighaus,Spaziergang,,Privat,
 73176,DE,2022-03-22,18:00:00,52428,Jülich,Hexenturm,Spaziergang,,unbekannt,
+73226,DE,2022-03-22,18:30:00,79108,Freiburg,Neues SC-Stadion / Flugplatz,Autokorso,,unbekannt,
 73131,DE,2022-03-22,19:00:00,92421,Schwandorf,Marktplatz,Kundgebung,,unbekannt,
 73037,DE,2022-03-22,19:00:00,76774,Leimersheim,Kirchplatz,Spaziergang,,unbekannt,
 73038,DE,2022-03-22,19:00:00,76770,Hatzenbühl,Rathaus Bushaltestelle,Spaziergang,,unbekannt,
@@ -153,8 +154,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 72854,DE,2022-03-28,18:00:00,06844,Dessau-Roßlau,Marktplatz vor dem Rathaus,Spaziergang,,Dessau steht auf,https://t.me/MontagsMahnwache
 73088,DE,2022-03-28,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,
 72766,DE,2022-03-28,18:30:00,63450,Hanau,Freiheitsplatz,Spaziergang,,Hanau steht auf,http://www.hanau-steht-auf.de
-72641,DE,2022-03-28,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 72642,DE,2022-03-28,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
+72641,DE,2022-03-28,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 73138,DE,2022-03-28,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,
 72109,DE,2022-03-28,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 73198,DE,2022-03-28,18:51:00,74074,Heilbronn,Götzenturm,Spaziergang,,unbekannt,
