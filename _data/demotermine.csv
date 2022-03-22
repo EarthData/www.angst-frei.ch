@@ -1,16 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-73155,DE,2022-03-22,16:30:00,71263,Weil der Stadt,Bahnhofstr. 14 - P+R Parkplatz,Schilderwald,,Privat,https://t.me/+z7f7gJNZSV9hYjg6
-73182,DE,2022-03-22,17:00:00,76698,Ubstadt-Weiher,Unteröwisheimer Straße 19,Schilderwald,,Ortsgruppe,
-73036,DE,2022-03-22,18:00:00,67378,Zeiskam,Fuchsbachhalle,Spaziergang,,unbekannt,
-73223,DE,2022-03-22,18:00:00,17438,Wolgast,Freifläche am Kai,Kundgebung,,Privat,
-73228,DE,2022-03-22,18:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
-73113,DE,2022-03-22,18:00:00,72290,Loßburg,Loßburg Kinzighaus,Spaziergang,,Privat,
-73176,DE,2022-03-22,18:00:00,52428,Jülich,Hexenturm,Spaziergang,,unbekannt,
-73226,DE,2022-03-22,18:30:00,79108,Freiburg,Neues SC-Stadion / Flugplatz,Autokorso,,unbekannt,
-73239,DE,2022-03-22,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Team Menschenrechte,
-73131,DE,2022-03-22,19:00:00,92421,Schwandorf,Marktplatz,Kundgebung,,unbekannt,
-73037,DE,2022-03-22,19:00:00,76774,Leimersheim,Kirchplatz,Spaziergang,,unbekannt,
-73038,DE,2022-03-22,19:00:00,76770,Hatzenbühl,Rathaus Bushaltestelle,Spaziergang,,unbekannt,
 73156,DE,2022-03-23,17:00:00,70184,Stuttgart,Ecke Dobelstr/Hohenheimer Str,Schilderwald,,Privat,
 73041,DE,2022-03-23,18:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,
 73040,DE,2022-03-23,18:00:00,76829,Landau/Pfalz,Deutsches Tor,Spaziergang,,unbekannt,
@@ -18,8 +6,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73144,DE,2022-03-23,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
 73137,DE,2022-03-23,18:30:00,46045,Oberhausen,Friedensplatz,Spaziergang,,unbekannt,
 73134,DE,2022-03-23,18:30:00,44369,Dortmund,Huckarder Marktplatz,Spaziergang,,Privat,http://t.me/huckardespaziert
-73135,DE,2022-03-23,18:30:00,44369,Dortmund,Huckarder Marktplatz,Spaziergang,,Privat,http://t.me/huckardespaziert
 73216,DE,2022-03-23,18:30:00,44369,Dortmund,Huckarder Marktplatz,Spaziergang,,Privat,https://t.me/nowedortmunderwacht1
+73135,DE,2022-03-23,18:30:00,44369,Dortmund,Huckarder Marktplatz,Spaziergang,,Privat,http://t.me/huckardespaziert
 73218,DE,2022-03-23,19:00:00,01728,Possendorf,Kastanienallee,Spaziergang,,unbekannt,https://t.me/spazieren_in_possendorf
 73039,DE,2022-03-23,19:00:00,76773,Kuhardt,Dorfplatz,Spaziergang,,unbekannt,
 73224,DE,2022-03-23,23:59:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
