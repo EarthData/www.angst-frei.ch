@@ -1,16 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-73291,DE,2022-03-24,09:30:00,10623,Berlin / Zoo,Hardenbergplatz 13 / Busbahnhof,Sport,,Anatol Wiecki,http://www.RUECKGAENGIG.de
-73242,DE,2022-03-24,11:30:00,91052,Erlangen,Schlossplatz,Kundgebung,,Privat,
-71030,DE,2022-03-24,16:00:00,18055,Rostock,Rathaus,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
-73290,DE,2022-03-24,17:00:00,21073,Hamburg Harburg,Rathausplatz,Aufzug,,Bürgerbündnis Harburg,
-73217,DE,2022-03-24,18:00:00,69483,Wald-Michelbach,Ludwigstraße / Schulstraße,Aufzug,,unbekannt,
-67572,DE,2022-03-24,18:00:00,85586,Poing,Friedensstraße 9 / Unterführung,Kundgebung,,Privat,https://t.me/CoronaPoing
-73043,DE,2022-03-24,18:00:00,76751,Jockgrim,Parkplatz Penny,Spaziergang,,unbekannt,
-73302,DE,2022-03-24,18:30:00,24103,Kiel,Exerzierplatz,Spaziergang,,unbekannt,
-73042,DE,2022-03-24,18:30:00,76887,Bad Bergzabern,Schloss,Spaziergang,,unbekannt,
-73299,DE,2022-03-24,19:00:00,42853,Remscheid,Schützenplatz,Spaziergang,,unbekannt,
-73044,DE,2022-03-24,19:00:00,76777,Neupotz,Kirche,Spaziergang,,unbekannt,
-73213,DE,2022-03-24,19:00:00,84524,Neuötting,Rathaus,Mahnwache,,unbekannt,
 73230,DE,2022-03-25,16:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 73205,DE,2022-03-25,16:00:00,16540,Hohen Neuendorf,Oranienburger Str. am Rathaus,Menschenkette,,unbekannt,
 73320,PL,2022-03-25,17:00:00,50-529,Wrocław,Piłsudskiego 74,Event,,Ogólnopolskie Stowarzyszenie Wiedzy o Szczepieniach "STOP NOP",https://stopnop.com.pl/spotkania/
@@ -39,9 +27,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73204,DE,2022-03-26,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,APO - Düsseldorf,
 73195,DE,2022-03-26,15:00:00,44787,Bochum,Dr.-Ruer-Platz,Aufzug,,Querdenken 234 - Bochum,https://querdenken-234.de
 73227,DE,2022-03-26,15:30:00,45127,Essen,Willy-Brandt-Platz,Kundgebung,,Für den Erhalt der Freiheit,
-73313,DE,2022-03-26,15:30:00,4000,Düsseldorf,Grabbeplatz,Demonstration,,unbekannt,
 73314,DE,2022-03-26,15:30:00,40213,Düsseldorf,Grabbeplatz v.d.Kunstsammlung,Demonstration,,Freie Bürger Düsseldorf,
 73318,DE,2022-03-26,15:30:00,40213,Düsseldorf,Grabbeplatz,Aufzug,,Freie Bürger Düsseldorf,https://t.me/CoronaRebellenDuesseldorf
+73313,DE,2022-03-26,15:30:00,4000,Düsseldorf,Grabbeplatz,Demonstration,,unbekannt,
 73231,DE,2022-03-26,17:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 73046,DE,2022-03-26,18:00:00,76761,Rülzheim,Kerweplatz,Spaziergang,,unbekannt,
 73301,DE,2022-03-26,19:00:00,24103,Kiel,Rathausplatz,Zusammenkunft,,unbekannt,
@@ -103,8 +91,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 72766,DE,2022-03-28,18:30:00,63450,Hanau,Freiheitsplatz,Spaziergang,,Hanau steht auf,http://www.hanau-steht-auf.de
 73251,DE,2022-03-28,18:30:00,76726,Germersheim,Konrad-Adenauer-Str. (Tedi),Spaziergang,,unbekannt,
 73304,DE,2022-03-28,18:30:00,63571,Gelnhausen,Obermarkt,Spaziergang,,unbekannt,
-72642,DE,2022-03-28,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 72641,DE,2022-03-28,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
+72642,DE,2022-03-28,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 73138,DE,2022-03-28,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,
 73303,DE,2022-03-28,18:30:00,54470,Bernkastel-Kues,Verbandsgemeindeverwaltung,Spaziergang,,unbekannt,
 73247,DE,2022-03-28,18:30:00,76887,Bad Bergzabern,Schloss,Spaziergang,,unbekannt,
@@ -114,8 +102,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73293,DE,2022-03-28,19:00:00,69168,Wiesloch,Adenauerplatz,Kundgebung,,Private Initiative,http://www.JetztRedenWir.com
 72875,DE,2022-03-28,19:00:00,42651,Solingen,Walter-Scheel-Platz / Rathaus,Spaziergang,,Solingen in Bewegung,
 73300,DE,2022-03-28,19:00:00,24768,Rendsburg,Lornsendenkmal am Paradeplatz,Spaziergang,,unbekannt,
-72725,DE,2022-03-28,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,https://www.chiemgau-gemeinsam.de/termine/
 72724,DE,2022-03-28,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,https://www.chiemgau-gemeinsam.de/termine/
+72725,DE,2022-03-28,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,https://www.chiemgau-gemeinsam.de/termine/
 67499,DE,2022-03-28,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198
 73257,DE,2022-03-28,19:00:00,76870,Kandel,Kriegerdenkmal Georgskirche,Spaziergang,,unbekannt,
 73278,DE,2022-03-28,19:00:00,84405,Dorfen,Unterer Markt,Spaziergang,,unbekannt,
