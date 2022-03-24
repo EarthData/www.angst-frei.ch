@@ -13,14 +13,16 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73213,DE,2022-03-24,19:00:00,84524,Neuötting,Rathaus,Mahnwache,,unbekannt,
 73230,DE,2022-03-25,16:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 73205,DE,2022-03-25,16:00:00,16540,Hohen Neuendorf,Oranienburger Str. am Rathaus,Menschenkette,,unbekannt,
+73320,PL,2022-03-25,17:00:00,50-529,Wrocław,Piłsudskiego 74,Event,,Ogólnopolskie Stowarzyszenie Wiedzy o Szczepieniach "STOP NOP",https://stopnop.com.pl/spotkania/
 73312,DE,2022-03-25,17:00:00,86842,Türkheim,Rathaus,Spaziergang,,unbekannt,
 73187,DE,2022-03-25,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,unbekannt,
 73045,DE,2022-03-25,18:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,
 72743,DE,2022-03-25,18:00:00,16540,Hohen Neuendorf,Rathausplatz,Aufzug,,Oberhavel steht auf (Orga HND),
+73319,UK,2022-03-26,01:00:00,CA3 8U,Carlisle,Bitts Park,Event,,Freedom Rally,https://t.me/timeforactionuk/207
 73238,DE,2022-03-26,10:00:00,74564,Crailsheim,Schweinemarktplatz,Mahnwache,,unbekannt,
 72403,DE,2022-03-26,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Kundgebung,,Chiemgau Gemeinsam,https://www.chiemgau-gemeinsam.de/termine/
-73288,DE,2022-03-26,11:00:00,42697,Solingen,Bremsheyplatz Düsseldorfer Str,Mahnwache,,Solingen in Bewegung,https://www.facebook.com/solingeninbewegung
 72874,DE,2022-03-26,11:00:00,42651,Solingen,Walter-Scheel-Platz / Rathaus,Spaziergang,,Solingen in Bewegung,
+73288,DE,2022-03-26,11:00:00,42697,Solingen,Bremsheyplatz Düsseldorfer Str,Mahnwache,,Solingen in Bewegung,https://www.facebook.com/solingeninbewegung
 73307,DE,2022-03-26,11:00:00,21029,Hamburg Bergedorf,Bahnhofsvorplatz / CCB,Aufzug,,Bürgerbündnis Bergedorf,
 72886,DE,2022-03-26,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf
 72889,DE,2022-03-26,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,https://t.me/cellestehtauf
@@ -29,8 +31,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73235,DE,2022-03-26,14:00:00,64385,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Zusammenkunft,,unbekannt,
 70620,DE,2022-03-26,14:00:00,17034,Neubrandenburg / Datzeberg,Parkpl. Sportanlagen Datzeberg,Aufzug,https://www.youtube.com/channel/UCyckV8FpsxAs_2HefVigObQ/featured,Neubrandenburger Spaziergang,https://www.facebook.com/profile.php?id=100064165685101
 73317,DE,2022-03-26,14:00:00,79098,Freiburg,Platz der alten Synagoge,Aufzug,,FreiSein Freiburg,
-72992,DE,2022-03-26,14:00:00,26160,Bad Zwischenahn,Marktplatz,Demonstration,,unbekannt,
 73236,DE,2022-03-26,14:00:00,26160,Bad Zwischenahn,Marktplatz,Demonstration,,unbekannt,
+72992,DE,2022-03-26,14:00:00,26160,Bad Zwischenahn,Marktplatz,Demonstration,,unbekannt,
 73286,DE,2022-03-26,15:00:00,32423,Minden,Marktplatz vor dem Rathaus,Demonstration,,Privat angemeldete Veranstaltung,
 73306,DE,2022-03-26,15:00:00,50667,Köln,Alter Markt,Demonstration,,Köln ist aktiv,http://koelnistaktiv.de
 72503,DE,2022-03-26,15:00:00,60329,Frankfurt,Taunusanlage,Aufzug,,unbekannt,
@@ -90,6 +92,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73249,DE,2022-03-28,18:00:00,76756,Bellheim,Rathaus,Spaziergang,,unbekannt,
 73292,DE,2022-03-28,18:00:00,75323,Bad Wildbad,Rathaus (Kernerstr. 11),Spaziergang,,unbekannt,
 73248,DE,2022-03-28,18:00:00,67098,Bad Dürkheim,Dürkheimer Fass,Spaziergang,,unbekannt,
+73321,DE,2022-03-28,18:00:00,57319,Bad Berleburg,Rathaus,Spaziergang,,unbekannt,
 73246,DE,2022-03-28,18:00:00,76855,Annweiler am Trifels,Kirchplatz,Spaziergang,,unbekannt,
 73263,DE,2022-03-28,18:30:00,67346,Speyer,Alte Münze,Spaziergang,,unbekannt,
 73261,DE,2022-03-28,18:30:00,76764,Rheinzabern,Grundschule,Spaziergang,,unbekannt,
@@ -100,8 +103,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 72766,DE,2022-03-28,18:30:00,63450,Hanau,Freiheitsplatz,Spaziergang,,Hanau steht auf,http://www.hanau-steht-auf.de
 73251,DE,2022-03-28,18:30:00,76726,Germersheim,Konrad-Adenauer-Str. (Tedi),Spaziergang,,unbekannt,
 73304,DE,2022-03-28,18:30:00,63571,Gelnhausen,Obermarkt,Spaziergang,,unbekannt,
-72641,DE,2022-03-28,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 72642,DE,2022-03-28,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
+72641,DE,2022-03-28,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk geht spazieren für die Freiheit!,https://t.me/cellestehtauf
 73138,DE,2022-03-28,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,
 73303,DE,2022-03-28,18:30:00,54470,Bernkastel-Kues,Verbandsgemeindeverwaltung,Spaziergang,,unbekannt,
 73247,DE,2022-03-28,18:30:00,76887,Bad Bergzabern,Schloss,Spaziergang,,unbekannt,
@@ -111,8 +114,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73293,DE,2022-03-28,19:00:00,69168,Wiesloch,Adenauerplatz,Kundgebung,,Private Initiative,http://www.JetztRedenWir.com
 72875,DE,2022-03-28,19:00:00,42651,Solingen,Walter-Scheel-Platz / Rathaus,Spaziergang,,Solingen in Bewegung,
 73300,DE,2022-03-28,19:00:00,24768,Rendsburg,Lornsendenkmal am Paradeplatz,Spaziergang,,unbekannt,
-72724,DE,2022-03-28,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,https://www.chiemgau-gemeinsam.de/termine/
 72725,DE,2022-03-28,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,https://www.chiemgau-gemeinsam.de/termine/
+72724,DE,2022-03-28,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,https://www.chiemgau-gemeinsam.de/termine/
 67499,DE,2022-03-28,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198
 73257,DE,2022-03-28,19:00:00,76870,Kandel,Kriegerdenkmal Georgskirche,Spaziergang,,unbekannt,
 73278,DE,2022-03-28,19:00:00,84405,Dorfen,Unterer Markt,Spaziergang,,unbekannt,
