@@ -2,8 +2,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73319,UK,2022-03-26,01:00:00,CA3 8U,Carlisle,Bitts Park,Event,,Freedom Rally,https://t.me/timeforactionuk/207
 73238,DE,2022-03-26,10:00:00,74564,Crailsheim,Schweinemarktplatz,Mahnwache,,unbekannt,
 72403,DE,2022-03-26,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Kundgebung,,Chiemgau Gemeinsam,https://www.chiemgau-gemeinsam.de/termine/
-72874,DE,2022-03-26,11:00:00,42651,Solingen,Walter-Scheel-Platz / Rathaus,Spaziergang,,Solingen in Bewegung,
 73288,DE,2022-03-26,11:00:00,42697,Solingen,Bremsheyplatz Düsseldorfer Str,Mahnwache,,Solingen in Bewegung,https://www.facebook.com/solingeninbewegung
+72874,DE,2022-03-26,11:00:00,42651,Solingen,Walter-Scheel-Platz / Rathaus,Spaziergang,,Solingen in Bewegung,
 73365,DE,2022-03-26,11:00:00,84028,Landshut,Isarpromenade ab Ländtor,Menschenkette,,unbekannt,
 73307,DE,2022-03-26,11:00:00,21029,Hamburg Bergedorf,Bahnhofsvorplatz / CCB,Aufzug,,Bürgerbündnis Bergedorf,
 72886,DE,2022-03-26,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf
@@ -13,24 +13,28 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73235,DE,2022-03-26,14:00:00,64385,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Zusammenkunft,,unbekannt,
 70620,DE,2022-03-26,14:00:00,17034,Neubrandenburg / Datzeberg,Parkpl. Sportanlagen Datzeberg,Aufzug,https://www.youtube.com/channel/UCyckV8FpsxAs_2HefVigObQ/featured,Neubrandenburger Spaziergang,https://www.facebook.com/profile.php?id=100064165685101
 73376,DE,2022-03-26,14:00:00,80339,München,Theresienwiese,Autokorso,,Autokorso München,https://t.me/AutoKorsoMuc/381
+73393,DE,2022-03-26,14:00:00,56068,Koblenz,Jesuitenplatz,Mahnwache,,Privat,https://t.me/DemoKoblenz/89
 73317,DE,2022-03-26,14:00:00,79098,Freiburg,Platz der alten Synagoge,Aufzug,,FreiSein Freiburg,
-72992,DE,2022-03-26,14:00:00,26160,Bad Zwischenahn,Marktplatz,Demonstration,,unbekannt,
 73236,DE,2022-03-26,14:00:00,26160,Bad Zwischenahn,Marktplatz,Demonstration,,unbekannt,
+72992,DE,2022-03-26,14:00:00,26160,Bad Zwischenahn,Marktplatz,Demonstration,,unbekannt,
 73286,DE,2022-03-26,15:00:00,32423,Minden,Marktplatz vor dem Rathaus,Demonstration,,Privat angemeldete Veranstaltung,
 73306,DE,2022-03-26,15:00:00,50667,Köln,Alter Markt,Demonstration,,Köln ist aktiv,http://koelnistaktiv.de
+73396,DE,2022-03-26,15:00:00,20095,Hamburg,Kunsthalle / Ernst-Merck-Straße,Aufzug,,UMEHR e.V.  Ortsverein Hamburg-Mitte,
 72503,DE,2022-03-26,15:00:00,60329,Frankfurt,Taunusanlage,Aufzug,,unbekannt,
 73204,DE,2022-03-26,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,APO - Düsseldorf,
 73195,DE,2022-03-26,15:00:00,44787,Bochum,Dr.-Ruer-Platz,Aufzug,,Querdenken 234 - Bochum,https://querdenken-234.de
 73227,DE,2022-03-26,15:30:00,45127,Essen,Willy-Brandt-Platz,Kundgebung,,Für den Erhalt der Freiheit,
 73314,DE,2022-03-26,15:30:00,40213,Düsseldorf,Grabbeplatz v.d.Kunstsammlung,Demonstration,,Freie Bürger Düsseldorf,
-73318,DE,2022-03-26,15:30:00,40213,Düsseldorf,Grabbeplatz,Aufzug,,Freie Bürger Düsseldorf,https://t.me/CoronaRebellenDuesseldorf
 73313,DE,2022-03-26,15:30:00,4000,Düsseldorf,Grabbeplatz,Demonstration,,unbekannt,
+73318,DE,2022-03-26,15:30:00,40213,Düsseldorf,Grabbeplatz,Aufzug,,Freie Bürger Düsseldorf,https://t.me/CoronaRebellenDuesseldorf
 73231,DE,2022-03-26,17:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 73046,DE,2022-03-26,18:00:00,76761,Rülzheim,Kerweplatz,Spaziergang,,unbekannt,
 73339,DE,2022-03-26,18:00:00,72764,Reutlingen,Bürgerpark vor der Stadthalle,Demonstration,,unbekannt,
 73377,DE,2022-03-26,18:00:00,73326,Deggingen,Gesamter Ort,Spaziergang,,unbekannt,
 73301,DE,2022-03-26,19:00:00,24103,Kiel,Rathausplatz,Zusammenkunft,,unbekannt,
 73014,DE,2022-03-26,20:00:00,37359,Effelder,Eichsfelder Dom,Spaziergang,,unbekannt,
+73400,DE,2022-03-27,11:30:00,79215,Elzach,Schulhof,Mahnwache,,Initiative Elzach,http://initiative-elzach.de
+73386,DE,2022-03-27,13:45:00,92318,Neumarkt in der Oberpfalz,Volksfestplatz,Aufzug,,Team Menschenrechte,
 73245,DE,2022-03-27,14:00:00,76530,Baden-Baden,Augustaplatz,Demonstration,,BI aufRECHT:FREIdenken,http://www.solidarnosch.de/covid-19.htm
 73232,DE,2022-03-27,15:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 73048,DE,2022-03-27,15:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,
@@ -38,6 +42,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73047,DE,2022-03-27,15:00:00,76726,Germersheim,Luitpoldplatz,Spaziergang,,unbekannt,
 72478,DE,2022-03-27,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
 73166,DE,2022-03-27,16:30:00,06406,Bernburg,Weltzeituhr /  Karlsplatz,Spaziergang,,unbekannt,
+73395,DE,2022-03-27,17:20:00,88094,Oberteuringen,Franz-Roth-Platz,Spaziergang,,,
 73356,DE,2022-03-27,18:00:00,31275,Lehrte,Brunnen Kurt-Hirschfeld-Forum,Spaziergang,,Freies Lehrte,
 73220,DE,2022-03-27,19:00:00,85229,Markt Indersdorf,Marktplatz,Spaziergang,,unbekannt,
 73225,PL,2022-03-28,09:15:00,20-078,Lublin,3 Maja 6,Event,https://www.facebook.com/Rebel24-TV-111609008105032,unbekannt,
@@ -52,6 +57,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73305,DE,2022-03-28,18:00:00,97353,Wiesentheid,Mariensäule,Spaziergang,,unbekannt,
 73381,DE,2022-03-28,18:00:00,06667,Weißenfels,Marktplatz,Spaziergang,,Weißenfels steht AUF !,
 73188,DE,2022-03-28,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,unbekannt,
+73399,DE,2022-03-28,18:00:00,75334,Straubenhardt-Feldrennach,Rathaus,Spaziergang,,Feldrennach vernetzt,
 72684,DE,2022-03-28,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,unbekannt,
 73203,DE,2022-03-28,18:00:00,66583,Spiesen Elversberg,Rathaus / Hauptstraße,Spaziergang,,unbekannt,
 73078,DE,2022-03-28,18:00:00,74523,Schwäbisch Hall,Marktplatz,Spaziergang,,unbekannt,
@@ -88,6 +94,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73263,DE,2022-03-28,18:30:00,67346,Speyer,Alte Münze,Spaziergang,,unbekannt,
 73261,DE,2022-03-28,18:30:00,76764,Rheinzabern,Grundschule,Spaziergang,,unbekannt,
 73340,DE,2022-03-28,18:30:00,08523,Plauen,Wendedenkmal,Zusammenkunft,,Labellos,
+73394,DE,2022-03-28,18:30:00,33098,Paderborn,Maspernplatz,Aufzug,,#OWLStehtAuf,http://www.grundrechte-pb.de
+73390,DE,2022-03-28,18:30:00,90402,Nürnberg,Kornmarkt,Aufzug,,Team Menschenrechte,
 73259,DE,2022-03-28,18:30:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,
 73088,DE,2022-03-28,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,
 73255,DE,2022-03-28,18:30:00,76863,Herxheim,Villa Wieser,Spaziergang,,unbekannt,
@@ -102,20 +110,23 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73247,DE,2022-03-28,18:30:00,76887,Bad Bergzabern,Schloss,Spaziergang,,unbekannt,
 72109,DE,2022-03-28,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 73198,DE,2022-03-28,18:51:00,74074,Heilbronn,Götzenturm,Spaziergang,,unbekannt,
+73398,DE,2022-03-28,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,unbekannt,
 72747,DE,2022-03-28,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,
 73293,DE,2022-03-28,19:00:00,69168,Wiesloch,Adenauerplatz,Kundgebung,,Private Initiative,http://www.JetztRedenWir.com
 72875,DE,2022-03-28,19:00:00,42651,Solingen,Walter-Scheel-Platz / Rathaus,Spaziergang,,Solingen in Bewegung,
 73300,DE,2022-03-28,19:00:00,24768,Rendsburg,Lornsendenkmal am Paradeplatz,Spaziergang,,unbekannt,
-72724,DE,2022-03-28,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,https://www.chiemgau-gemeinsam.de/termine/
 72725,DE,2022-03-28,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,https://www.chiemgau-gemeinsam.de/termine/
+72724,DE,2022-03-28,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,https://www.chiemgau-gemeinsam.de/termine/
 67499,DE,2022-03-28,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198
 73380,DE,2022-03-28,19:00:00,06618,Naumburg,Vogelwiese,Spaziergang,,Naumburg steht AUF !,
 73322,DE,2022-03-28,19:00:00,99974,Mühlhausen/ Thüringen,Untermarkt,Spaziergang,,unbekannt,
 73369,DE,2022-03-28,19:00:00,84048,Mainburg,Abensberger Str. 22,Kundgebung,,unbekannt,
 73379,DE,2022-03-28,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,unbekannt,
 73257,DE,2022-03-28,19:00:00,76870,Kandel,Kriegerdenkmal Georgskirche,Spaziergang,,unbekannt,
+73391,DE,2022-03-28,19:00:00,91074,Herzogenaurach,Marktplatz,Aufzug,,Team Menschenrechte,
 73278,DE,2022-03-28,19:00:00,84405,Dorfen,Unterer Markt,Spaziergang,,unbekannt,
 73141,DE,2022-03-28,19:00:00,52062,Aachen,Marktplatz,Spaziergang,,Freie Bürger Aachen,
+73397,DE,2022-03-29,16:30:00,71263,Weil der Stadt,Bahnhofstr. 14 - P+R Parkplatz,Schilderwald,,unbekannt,https://t.me/+z7f7gJNZSV9hYjg6
 73265,DE,2022-03-29,18:00:00,67378,Zeiskam,Fuchsbachhalle,Spaziergang,,unbekannt,
 73240,DE,2022-03-29,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Team Menschenrechte,
 73266,DE,2022-03-29,19:00:00,76774,Leimersheim,Kirchplatz,Spaziergang,,unbekannt,
@@ -167,6 +178,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 72726,DE,2022-04-04,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,https://www.chiemgau-gemeinsam.de/termine/
 67500,DE,2022-04-04,19:00:00,17033,Neubrandenburg,Marktplatz,Aufzug,https://www.youtube.com/channel/UCQFlyBihuIhuWQ5M48ftaSw/featured,Neubrandenburger Spaziergang,https://www.facebook.com/Neubrandenburger-Spaziergang-und-Autokorso-102331868505198
 73279,DE,2022-04-04,19:00:00,84405,Dorfen,Unterer Markt,Spaziergang,,unbekannt,
+73387,DE,2022-04-05,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Team Menschenrechte,
 73241,DE,2022-04-05,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Team Menschenrechte,
 73352,DE,2022-04-06,17:00:00,84028,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,,Kraftquelle Gebet Landshut,
 73371,DE,2022-04-06,18:00:00,80333,München,Königsplatz,Kundgebung,,München-steht-auf,http://www.muenchen-steht-auf.de
@@ -175,6 +187,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73363,DE,2022-04-09,11:00:00,84028,Landshut,Isarpromenade ab Ländtor,Menschenkette,,unbekannt,
 73160,DE,2022-04-09,14:00:00,76133,Karlsruhe,Marktplatz (vor Rathaus),Aufzug,,Studenten Stehen Auf & Offges,https://offges.de/ka-2022-04-09/
 72619,DE,2022-04-11,12:00:00,91088,Bubenreuth,Baumzeil,Kundgebung,,Querdenken,
+73392,DE,2022-04-11,17:00:00,91052,Erlangen,Rötelheimpark,Aufzug,,Privat,
 72668,DE,2022-04-11,18:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 73080,DE,2022-04-11,18:00:00,74523,Schwäbisch Hall,Marktplatz,Spaziergang,,unbekannt,
 73211,DE,2022-04-11,18:00:00,84524,Neuötting,Rathaus,Spaziergang,,unbekannt,
@@ -185,6 +198,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73325,DE,2022-04-11,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,
 73280,DE,2022-04-11,19:00:00,84405,Dorfen,Unterer Markt,Spaziergang,,unbekannt,
 72618,DE,2022-04-12,10:00:00,91088,Bubenreuth,Skaterbahn,Aufzug,,Frieden & Freiheit.,
+73388,DE,2022-04-12,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Team Menschenrechte,
 73353,DE,2022-04-13,17:00:00,84028,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,,Kraftquelle Gebet Landshut,
 73373,DE,2022-04-13,18:00:00,80333,München,Königsplatz,Kundgebung,,München-steht-auf,http://www.muenchen-steht-auf.de
 73372,DE,2022-04-13,18:00:00,80333,München,Königsplatz,Kundgebung,,München-steht-auf,http://www.muenchen-steht-auf.de
@@ -196,6 +210,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73297,DE,2022-04-18,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 73326,DE,2022-04-18,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,
 73281,DE,2022-04-18,19:00:00,84405,Dorfen,Unterer Markt,Spaziergang,,unbekannt,
+73389,DE,2022-04-19,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Team Menschenrechte,
 73354,DE,2022-04-20,17:00:00,84028,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,,Kraftquelle Gebet Landshut,
 73374,DE,2022-04-20,18:00:00,80333,München,Königsplatz,Kundgebung,,München-steht-auf,http://www.muenchen-steht-auf.de
 73361,DE,2022-04-23,11:00:00,84028,Landshut,Isarpromenade ab Ländtor,Menschenkette,,unbekannt,
