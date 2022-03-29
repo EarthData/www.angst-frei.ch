@@ -1,14 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-73397,DE,2022-03-29,16:30:00,71263,Weil der Stadt,Bahnhofstr. 14 - P+R Parkplatz,Schilderwald,,unbekannt,https://t.me/+z7f7gJNZSV9hYjg6
-73265,DE,2022-03-29,18:00:00,67378,Zeiskam,Fuchsbachhalle,Spaziergang,,unbekannt,
-73469,DE,2022-03-29,18:00:00,17438,Wolgast,Freifläche am Kai,Aufzug,,Privat,
-73475,DE,2022-03-29,18:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
-73450,DE,2022-03-29,18:30:00,79108,Freiburg,Neues SC-Stadion / Flugplatz,Autokorso,Aufstellung ab 17:30,FreiSeinFreiburg,
-73240,DE,2022-03-29,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Team Menschenrechte,
-73466,DE,2022-03-29,19:00:00,92421,Schwandorf,Marktplatz,Kundgebung,,unbekannt,
-73266,DE,2022-03-29,19:00:00,76774,Leimersheim,Kirchplatz,Spaziergang,,unbekannt,
-73267,DE,2022-03-29,19:00:00,76770,Hatzenbühl,Rathaus Bushaltestelle,Spaziergang,,unbekannt,
-73431,DE,2022-03-29,19:00:00,01129,Dresden,Wilder Mann Endstation 3,Spaziergang,,unbekannt,
 71734,DE,2022-03-30,15:00:00,91052,Erlangen,Berliner Platz. Park,Konzert,,Alarmstufe Rot,
 73409,DE,2022-03-30,15:15:00,18055,Rostock,Stadthalle,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 73483,DE,2022-03-30,17:00:00,76698,Ubstadt-Weiher,Aldi-Parkplatz,Schilderwald,,Ortsgruppe,
@@ -89,8 +79,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73241,DE,2022-04-05,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Team Menschenrechte,
 73352,DE,2022-04-06,17:00:00,84028,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,,Kraftquelle Gebet Landshut,
 73371,DE,2022-04-06,18:00:00,80333,München,Königsplatz,Kundgebung,,München-steht-auf,http://www.muenchen-steht-auf.de
-73461,DE,2022-04-06,18:30:00,44369,Dortmund,Huckarder Marktplatz,Spaziergang,,Privat,https://t.me/nowedortmunderwacht1
 73237,DE,2022-04-06,18:30:00,44369,Dortmund,Huckarder Marktplatz,Spaziergang,,Privat,https://t.me/nowedortmunderwacht1
+73461,DE,2022-04-06,18:30:00,44369,Dortmund,Huckarder Marktplatz,Spaziergang,,Privat,https://t.me/nowedortmunderwacht1
 73344,DE,2022-04-07,19:00:00,58581,Warstein,Rathausplatz/Markt,Kundgebung,,unbekannt,
 73363,DE,2022-04-09,11:00:00,84028,Landshut,Isarpromenade ab Ländtor,Menschenkette,,unbekannt,
 73160,DE,2022-04-09,14:00:00,76133,Karlsruhe,Marktplatz (vor Rathaus),Aufzug,,Studenten Stehen Auf & Offges,https://offges.de/ka-2022-04-09/
@@ -151,8 +141,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 72672,DE,2022-05-09,18:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 73329,DE,2022-05-09,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,
 72673,DE,2022-05-16,18:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
-73333,DE,2022-05-16,19:00:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,unbekannt,
 73330,DE,2022-05-16,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,
+73333,DE,2022-05-16,19:00:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,unbekannt,
 72674,DE,2022-05-23,18:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 73331,DE,2022-05-23,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,
 73335,DE,2022-05-30,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,unbekannt,
