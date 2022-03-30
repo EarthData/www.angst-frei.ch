@@ -1,19 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-71734,DE,2022-03-30,15:00:00,91052,Erlangen,Berliner Platz. Park,Konzert,,Alarmstufe Rot,
-73409,DE,2022-03-30,15:15:00,18055,Rostock,Stadthalle,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
-73483,DE,2022-03-30,17:00:00,76698,Ubstadt-Weiher,Aldi-Parkplatz,Schilderwald,,Ortsgruppe,
-73452,DE,2022-03-30,17:00:00,70184,Stuttgart,Dobelstr. / Hohenheimer Str.,Schilderwald,,Privat,
-73351,DE,2022-03-30,17:00:00,84028,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,,Kraftquelle Gebet Landshut,
-73476,DE,2022-03-30,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
-73270,DE,2022-03-30,18:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,
-73370,DE,2022-03-30,18:00:00,80333,München,Königsplatz,Kundgebung,,München-steht-auf,http://www.muenchen-steht-auf.de
-73269,DE,2022-03-30,18:00:00,76829,Landau/Pfalz,Deutsches Tor,Spaziergang,,unbekannt,
-73447,DE,2022-03-30,18:00:00,65779,Kelkheim,Markt,Spaziergang,,Freiheit,
-73385,DE,2022-03-30,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
-73268,DE,2022-03-30,19:00:00,76773,Kuhardt,Dorfplatz,Spaziergang,,unbekannt,
-73382,DE,2022-03-30,19:00:00,06632,Freyburg,Marktplatz,Spaziergang,,Freyburg steht AUF !,
-73432,DE,2022-03-30,19:00:00,01277,Dresden,Tolkewitz / Haltest. Schulcampus,Spaziergang,,unbekannt,
-71942,DE,2022-03-30,23:59:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Celle steht auf,https://t.me/cellestehtauf
 73243,DE,2022-03-31,11:30:00,91052,Erlangen,Schlossplatz,Aufzug,,Privat,
 71732,DE,2022-03-31,14:00:00,91052,Erlangen,Berliner Platz. Park,Spaziergang,,Alarmstufe Rot,
 71733,DE,2022-03-31,15:30:00,91052,Erlangen,Berliner Platz. Park,Kundgebung,,Alarmstufe Rot,
@@ -40,18 +25,18 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73484,DE,2022-04-02,15:00:00,67655,Kaiserslautern,Messeplatz,Demonstration,,Unparteiisch,
 73503,DE,2022-04-02,15:00:00,60329,Frankfurt am Main,Taunusanlage,Aufzug,,unbekannt,
 73427,DE,2022-04-02,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,APO - Düsseldorf,http://Aponrw.de
-73414,DE,2022-04-02,15:00:00,52062,Aachen,Kurpark am Eurogress,Aufzug,,ORGATEXT ZU LANG,http://www.querdenken241-aachen.de
-73383,DE,2022-04-02,15:00:00,52062,Aachen,Eurogress Kurpark Monheimsalle,Demonstration,https://dlive.tv/PatriotOnTour,Aachener Bündnis gegen Impfpflichrt,https://t.me/euregio_united
 73504,DE,2022-04-02,15:00:00,52062,Aachen,Kurpark am Eurogress,Aufzug,,ORGATEXT ZU LANG,http://www.querdenken241-aachen.de
+73383,DE,2022-04-02,15:00:00,52062,Aachen,Eurogress Kurpark Monheimsalle,Demonstration,https://dlive.tv/PatriotOnTour,Aachener Bündnis gegen Impfpflichrt,https://t.me/euregio_united
 73505,DE,2022-04-02,15:00:00,52062,Aachen,Kurpark am Eurogress,Demonstration,,ORGATEXT ZU LANG,http://querdenken241-aachen.de
+73414,DE,2022-04-02,15:00:00,52062,Aachen,Kurpark am Eurogress,Aufzug,,ORGATEXT ZU LANG,http://www.querdenken241-aachen.de
 73449,DE,2022-04-02,15:30:00,45127,Essen,Willy-Brandt-Platz,Kundgebung,,Für den Erhalt der Freiheit,
 73479,DE,2022-04-02,17:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 73357,DE,2022-04-02,17:00:00,84028,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,,Kraftquelle Gebet Landshut,
 73275,DE,2022-04-02,18:00:00,76761,Rülzheim,Kerweplatz,Spaziergang,,unbekannt,
 73542,DE,2022-04-02,18:00:00,72764,Reutlingen,Bürgerpark vor der Stadthalle,Demonstration,,unbekannt,
 73413,DE,2022-04-02,19:00:00,76761,Rülzheim,Kerweplatz,Spaziergang,,unbekannt,
-73539,DE,2022-04-03,14:00:00,54516,Wittlich,Platz an der Lieser,Demonstration,,Freunde der Wahrheit Wittlich,
 73448,DE,2022-04-03,14:00:00,54516,Wittlich,Platz an der Lieser,Kundgebung,,unbekannt,https://gettr.com/user/orgawil
+73539,DE,2022-04-03,14:00:00,54516,Wittlich,Platz an der Lieser,Demonstration,,Freunde der Wahrheit Wittlich,
 73367,DE,2022-04-03,14:00:00,84028,Landshut,Ringelstecherwiese,Kundgebung,,Gerhard Pettenkofer,https://t.me/BayernStehtZusammenTermine/391
 73470,DE,2022-04-03,14:00:00,76530,Baden-Baden,Augustaplatz 1,Schweigemarsch,,unbekannt,
 73480,DE,2022-04-03,15:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
@@ -92,8 +77,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73515,DE,2022-04-04,18:30:00,76863,Herxheim,Villa Wieser,Spaziergang,,unbekannt,
 73514,DE,2022-04-04,18:30:00,67454,Hassloch,Pfalzplatz,Spaziergang,,unbekannt,
 73511,DE,2022-04-04,18:30:00,76726,Germersheim,Konrad-Adenauer-Str. (Tedi),Spaziergang,,unbekannt,
-73497,DE,2022-04-04,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
 73487,DE,2022-04-04,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
+73497,DE,2022-04-04,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
 73139,DE,2022-04-04,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,
 73507,DE,2022-04-04,18:30:00,76887,Bad Bergzabern,Schloss,Spaziergang,,unbekannt,
 73295,DE,2022-04-04,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
@@ -144,8 +129,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73200,DE,2022-04-11,18:00:00,74074,Heilbronn,Götzenturm,Spaziergang,,unbekannt,
 73499,DE,2022-04-11,18:00:00,75323,Bad Wildbad,Rathaus (Kernerstr. 11),Spaziergang,,unbekannt,
 73455,DE,2022-04-11,18:30:00,63225,Langen (Hessen),Bahnstr. / Goethestr.,Spaziergang,,unbekannt,
-73496,DE,2022-04-11,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
 73488,DE,2022-04-11,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
+73496,DE,2022-04-11,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
 73296,DE,2022-04-11,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 73435,DE,2022-04-11,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,
 73325,DE,2022-04-11,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,
@@ -165,8 +150,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73201,DE,2022-04-18,18:00:00,74074,Heilbronn,Götzenturm,Spaziergang,,unbekannt,
 73500,DE,2022-04-18,18:00:00,75323,Bad Wildbad,Rathaus (Kernerstr. 11),Spaziergang,,unbekannt,
 73456,DE,2022-04-18,18:30:00,63225,Langen (Hessen),Bahnstr. / Goethestr.,Spaziergang,,unbekannt,
-73495,DE,2022-04-18,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
 73489,DE,2022-04-18,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
+73495,DE,2022-04-18,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
 73297,DE,2022-04-18,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 73436,DE,2022-04-18,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,
 73326,DE,2022-04-18,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,
@@ -180,9 +165,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73349,DE,2022-04-25,18:00:00,84028,Landshut,Ländtor,Spaziergang,,unbekannt,
 69047,DE,2022-04-25,18:00:00,52428,Jülich,Liebevoll,Demonstration,,242Impferei JÜ,
 73501,DE,2022-04-25,18:00:00,75323,Bad Wildbad,Rathaus (Kernerstr. 11),Spaziergang,,unbekannt,
-73490,DE,2022-04-25,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
 73494,DE,2022-04-25,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
 73493,DE,2022-04-25,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
+73490,DE,2022-04-25,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
 73298,DE,2022-04-25,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 73437,DE,2022-04-25,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,
 73327,DE,2022-04-25,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,
