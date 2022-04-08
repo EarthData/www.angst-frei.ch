@@ -77,6 +77,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73749,DE,2022-04-11,18:00:00,65520,Bad Camberg,Caspar-Hofmann-Platz / Bahnhof,Spaziergang,,Bad Camberg hält zusammen,
 73756,DE,2022-04-11,18:00:00,57319,Bad Berleburg,Rathaus,Spaziergang,,unbekannt,
 73649,DE,2022-04-11,18:00:00,76855,Annweiler am Trifels,Kirchplatz,Spaziergang,,,
+73763,DE,2022-04-11,18:30:00,67547,Worms,Lutherdenkmal,Spaziergang,,unbekannt,
 73666,DE,2022-04-11,18:30:00,67346,Speyer,Alte Münze,Spaziergang,,,
 73664,DE,2022-04-11,18:30:00,76764,Rheinzabern,Grundschule,Spaziergang,,,
 73662,DE,2022-04-11,18:30:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,,
@@ -85,8 +86,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73657,DE,2022-04-11,18:30:00,67454,Hassloch,Pfalzplatz,Spaziergang,,,
 73699,DE,2022-04-11,18:30:00,38518,Gifhorn,Schillerplatz,Kundgebung,,,
 73654,DE,2022-04-11,18:30:00,76726,Germersheim,Konrad-Adenauer-Str. (Tedi),Spaziergang,,,
-73496,DE,2022-04-11,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
 73488,DE,2022-04-11,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
+73496,DE,2022-04-11,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
 73296,DE,2022-04-11,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 73435,DE,2022-04-11,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,
 73665,DE,2022-04-11,19:00:00,76761,Rülzheim,Kerweplatz,Spaziergang,,,
@@ -101,8 +102,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 72618,DE,2022-04-12,10:00:00,91088,Bubenreuth,Skaterbahn,Aufzug,,Frieden & Freiheit.,
 73745,DE,2022-04-12,17:00:00,76684,Odenheim,Bahnhofstr. / Bahnhof,Schilderwald,,unbekannt,
 73668,DE,2022-04-12,18:00:00,67378,Zeiskam,Fuchsbachhalle,Spaziergang,,,
-73388,DE,2022-04-12,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Team Menschenrechte,
 73581,DE,2022-04-12,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Team Menschenrechte,
+73388,DE,2022-04-12,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Team Menschenrechte,
 73669,DE,2022-04-12,19:00:00,76774,Leimersheim,Kirchplatz,Spaziergang,,,
 73670,DE,2022-04-12,19:00:00,76770,Hatzenbühl,Rathaus Bushaltestelle,Spaziergang,,,
 73353,DE,2022-04-13,17:00:00,84028,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,,Kraftquelle Gebet Landshut,
@@ -112,8 +113,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73373,DE,2022-04-13,18:00:00,80333,München,Königsplatz,Kundgebung,,München-steht-auf,http://www.muenchen-steht-auf.de
 73672,DE,2022-04-13,18:00:00,76829,Landau/Pfalz,Deutsches Tor,Spaziergang,,,
 73750,DE,2022-04-13,18:00:00,65779,Kelkheim,Markt,Spaziergang,,Freiheit,
-73706,DE,2022-04-13,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
 73720,DE,2022-04-13,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
+73706,DE,2022-04-13,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
 73740,DE,2022-04-13,18:30:00,46045,Oberhausen,Friedensplatz,Demonstration,,unbekannt,
 73741,DE,2022-04-13,18:30:00,46045,Oberhausen,Friedensplatz,Versammlung,,unbekannt,
 73742,DE,2022-04-13,18:30:00,46045,Oberhausen,Friedensplatz,Aufzug,,unbekannt,
@@ -168,9 +169,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 69047,DE,2022-04-25,18:00:00,52428,Jülich,Liebevoll,Demonstration,,242Impferei JÜ,
 73686,DE,2022-04-25,18:00:00,35390,Gießen,Rathausplatz,Mahnwache,,Privat,
 73501,DE,2022-04-25,18:00:00,75323,Bad Wildbad,Rathaus (Kernerstr. 11),Spaziergang,,unbekannt,
-73490,DE,2022-04-25,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
 73494,DE,2022-04-25,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
 73493,DE,2022-04-25,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
+73490,DE,2022-04-25,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
 73298,DE,2022-04-25,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 73437,DE,2022-04-25,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,
 73327,DE,2022-04-25,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,
