@@ -18,10 +18,14 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73160,DE,2022-04-09,14:00:00,76133,Karlsruhe,Marktplatz (vor Rathaus),Aufzug,,Studenten Stehen Auf & Offges,https://offges.de/ka-2022-04-09/
 73714,DE,2022-04-09,14:00:00,79098,Freiburg,Platz der alten Synagoge,Aufzug,,FreiSeinFreiburg,
 73713,DE,2022-04-09,14:00:00,10997,Berlin,Görlitzer Park,Aufzug,,FriedlichZusammen,https://friedlichzusammen.de/
+73768,DE,2022-04-09,15:00:00,83278,Traunstein,Bahnhof,Demonstration,,unbekannt,https://www.ts-bgl.de/
+73769,DE,2022-04-09,15:00:00,04109,Leipzig,Augustusplatz / vor der Oper,Spaziergang,,unbekannt,
 73694,DE,2022-04-09,15:00:00,20099,Hamburg,Kunsthalle / Ernst-Merck Str.,Aufzug,,,mitgestalten@DemoKunsthalle.de
 73761,DE,2022-04-09,15:00:00,60329,Frankfurt,Taunusanlage / Schillerdenkmal,Demonstration,,unbekannt,
-73695,DE,2022-04-09,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,APO - Düsseldorf,Aponrw.de
 73727,DE,2022-04-09,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,APO - Düsseldorf,http://Aponrw.de
+73695,DE,2022-04-09,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,APO - Düsseldorf,Aponrw.de
+73767,DE,2022-04-09,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Kundgebung,,unbekannt,https://aponrw.de/termine-d%C3%BCsseldorf
+73771,DE,2022-04-09,15:00:00,09111,Chemnitz,Brückenstraße,Kundgebung,,Chemnitz steht auf,
 73759,DE,2022-04-09,15:30:00,40213,Düsseldorf,Burgplatz,Aufzug,,unbekannt,
 73643,DE,2022-04-09,17:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 73712,DE,2022-04-09,18:00:00,72764,Reutlingen,Bürgerpark vor der Stadthalle,Demonstration,,,
@@ -45,6 +49,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73753,DE,2022-04-11,17:30:00,45327,Essen-Katernberg,Katernberger Markt,Spaziergang,,dieBasis Essen,
 72668,DE,2022-04-11,18:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 73667,DE,2022-04-11,18:00:00,76744,Wörth/Rhein,Altes Rathaus,Spaziergang,,,
+73772,DE,2022-04-11,18:00:00,75334,Straubenhardt-Feldrennach,Rathaus,Spaziergang,,Feldrennach vernetzt,
 73625,DE,2022-04-11,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,,
 73723,DE,2022-04-11,18:00:00,66583,Spiesen Elversberg,Spiesen Rathaus / Hauptstraße,Spaziergang,,unbekannt,
 73080,DE,2022-04-11,18:00:00,74523,Schwäbisch Hall,Marktplatz,Spaziergang,,unbekannt,
@@ -70,6 +75,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73684,DE,2022-04-11,18:00:00,35390,Gießen,Rathausplatz,Mahnwache,,Privat,
 73691,DE,2022-04-11,18:00:00,65817,Eppstein,Rathaus Vockenhausen,Spaziergang,,Freiheit,
 73653,DE,2022-04-11,18:00:00,67480,Edenkoben,Parkplatz Radeburger Straße,Spaziergang,,,
+73766,DE,2022-04-11,18:00:00,40213,Düsseldorf,Rheinkniebrücke,Spaziergang,,unbekannt,
+73765,DE,2022-04-11,18:00:00,40221,Düsseldorf,Johannes-Rau-Platz,Aufzug,,Bernd,
 73754,DE,2022-04-11,18:00:00,27576,Bremerhaven,Ernst-Reuter-Platz,Spaziergang,,Mondays for Future,
 73652,DE,2022-04-11,18:00:00,76756,Bellheim,Rathaus,Spaziergang,,,
 73499,DE,2022-04-11,18:00:00,75323,Bad Wildbad,Rathaus (Kernerstr. 11),Spaziergang,,unbekannt,
@@ -98,19 +105,20 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73660,DE,2022-04-11,19:00:00,76870,Kandel,Kriegerdenkmal Georgskirche,Spaziergang,,,
 73719,DE,2022-04-11,19:00:00,01069,Dresden,Torwache / Arnold-Bad,Demonstration,,,
 73280,DE,2022-04-11,19:00:00,84405,Dorfen,Unterer Markt,Spaziergang,,unbekannt,
+73764,DE,2022-04-11,19:00:00,76646,Bruchsal,Otto-Oppenheimer-Platz,Spaziergang,,unbekannt,
 73650,DE,2022-04-11,19:00:00,76887,Bad Bergzabern,Schloss,Spaziergang,,,
 72618,DE,2022-04-12,10:00:00,91088,Bubenreuth,Skaterbahn,Aufzug,,Frieden & Freiheit.,
 73745,DE,2022-04-12,17:00:00,76684,Odenheim,Bahnhofstr. / Bahnhof,Schilderwald,,unbekannt,
 73668,DE,2022-04-12,18:00:00,67378,Zeiskam,Fuchsbachhalle,Spaziergang,,,
-73581,DE,2022-04-12,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Team Menschenrechte,
 73388,DE,2022-04-12,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Team Menschenrechte,
+73581,DE,2022-04-12,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Team Menschenrechte,
 73669,DE,2022-04-12,19:00:00,76774,Leimersheim,Kirchplatz,Spaziergang,,,
 73670,DE,2022-04-12,19:00:00,76770,Hatzenbühl,Rathaus Bushaltestelle,Spaziergang,,,
 73353,DE,2022-04-13,17:00:00,84028,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,,Kraftquelle Gebet Landshut,
 73553,DE,2022-04-13,17:30:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
 73673,DE,2022-04-13,18:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,,
-73372,DE,2022-04-13,18:00:00,80333,München,Königsplatz,Kundgebung,,München-steht-auf,http://www.muenchen-steht-auf.de
 73373,DE,2022-04-13,18:00:00,80333,München,Königsplatz,Kundgebung,,München-steht-auf,http://www.muenchen-steht-auf.de
+73372,DE,2022-04-13,18:00:00,80333,München,Königsplatz,Kundgebung,,München-steht-auf,http://www.muenchen-steht-auf.de
 73672,DE,2022-04-13,18:00:00,76829,Landau/Pfalz,Deutsches Tor,Spaziergang,,,
 73750,DE,2022-04-13,18:00:00,65779,Kelkheim,Markt,Spaziergang,,Freiheit,
 73720,DE,2022-04-13,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
@@ -120,6 +128,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73742,DE,2022-04-13,18:30:00,46045,Oberhausen,Friedensplatz,Aufzug,,unbekannt,
 73671,DE,2022-04-13,19:00:00,76773,Kuhardt,Dorfplatz,Spaziergang,,,
 73675,DE,2022-04-14,18:00:00,76751,Jockgrim,Parkplatz Penny,Spaziergang,,,
+73770,DE,2022-04-14,18:00:00,17179,Gnoien,Marktplatz,Kundgebung,https://dlive.tv/Evil-Truth,Unsere Zukunft,
 73676,DE,2022-04-14,19:00:00,76777,Neupotz,Kirche,Spaziergang,,,
 73674,DE,2022-04-14,19:00:00,76887,Bad Bergzabern,Schloss,Spaziergang,,,
 73677,DE,2022-04-15,18:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,,
@@ -169,9 +178,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 69047,DE,2022-04-25,18:00:00,52428,Jülich,Liebevoll,Demonstration,,242Impferei JÜ,
 73686,DE,2022-04-25,18:00:00,35390,Gießen,Rathausplatz,Mahnwache,,Privat,
 73501,DE,2022-04-25,18:00:00,75323,Bad Wildbad,Rathaus (Kernerstr. 11),Spaziergang,,unbekannt,
+73490,DE,2022-04-25,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
 73494,DE,2022-04-25,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
 73493,DE,2022-04-25,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
-73490,DE,2022-04-25,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
 73298,DE,2022-04-25,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 73437,DE,2022-04-25,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,
 73327,DE,2022-04-25,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,
@@ -199,8 +208,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 72672,DE,2022-05-09,18:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 73329,DE,2022-05-09,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,
 72673,DE,2022-05-16,18:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
-73330,DE,2022-05-16,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,
 73333,DE,2022-05-16,19:00:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,unbekannt,
+73330,DE,2022-05-16,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,
 72674,DE,2022-05-23,18:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 73331,DE,2022-05-23,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,
 73335,DE,2022-05-30,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,unbekannt,
