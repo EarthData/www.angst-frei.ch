@@ -1,20 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-73353,DE,2022-04-13,17:00:00,84028,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,,Kraftquelle Gebet Landshut,
-73553,DE,2022-04-13,17:30:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
-73832,DE,2022-04-13,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
-73673,DE,2022-04-13,18:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,,
-73373,DE,2022-04-13,18:00:00,80333,München,Königsplatz,Kundgebung,,München-steht-auf,http://www.muenchen-steht-auf.de
-73372,DE,2022-04-13,18:00:00,80333,München,Königsplatz,Kundgebung,,München-steht-auf,http://www.muenchen-steht-auf.de
-73672,DE,2022-04-13,18:00:00,76829,Landau/Pfalz,Deutsches Tor,Spaziergang,,,
-73750,DE,2022-04-13,18:00:00,65779,Kelkheim,Markt,Spaziergang,,Freiheit,
-73829,DE,2022-04-13,18:00:00,76593,Gernsbach,Rathaus,Spaziergang,,unbekannt,
-73706,DE,2022-04-13,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
-73720,DE,2022-04-13,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
-73740,DE,2022-04-13,18:30:00,46045,Oberhausen,Friedensplatz,Demonstration,,unbekannt,
-73741,DE,2022-04-13,18:30:00,46045,Oberhausen,Friedensplatz,Versammlung,,unbekannt,
-73742,DE,2022-04-13,18:30:00,46045,Oberhausen,Friedensplatz,Aufzug,,unbekannt,
-73793,DE,2022-04-13,19:00:00,74933,Neidenstein,van Venningen Halle,Kundgebung,,unbekannt,
-73671,DE,2022-04-13,19:00:00,76773,Kuhardt,Dorfplatz,Spaziergang,,,
 73802,DE,2022-04-14,17:00:00,18055,Rostock,Rathaus,Kundgebung,https://dlive.tv/7TuermeMedien,Freiheits- und Friedensbewegung Rostock,
 73805,DE,2022-04-14,17:00:00,01067,Dresden,Messering, Ziel Dippodiswalde,Autokorso,,unbekannt,
 73820,DE,2022-04-14,18:00:00,70173,Stuttgart,Karlsplatz,Aufzug,,Privat,
@@ -37,8 +21,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73441,DE,2022-04-17,14:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
 73834,DE,2022-04-17,15:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 73680,DE,2022-04-17,15:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,,
-73823,DE,2022-04-17,15:00:00,41236,Mönchengladbach Rheydt,Marktplatz vor dem Rathaus,MillionMaskMarch,,Wir sind die Rote Linie Mönchengladbach,https://t.me/Frei_Klar_Denken_WolfsKrieger
 73822,DE,2022-04-17,15:00:00,41236,Mönchengladbach Rheydt,Markt vor dem Rathaus,Demonstration,https://youtube.com/channel/UCwq7QORP0F7Xnma07LcsOdQ,Wir sind die Rote Linie Mönchengladbach,https://t.me/Frei_Klar_Denken_WolfsKrieger
+73823,DE,2022-04-17,15:00:00,41236,Mönchengladbach Rheydt,Marktplatz vor dem Rathaus,MillionMaskMarch,,Wir sind die Rote Linie Mönchengladbach,https://t.me/Frei_Klar_Denken_WolfsKrieger
 73679,DE,2022-04-17,15:00:00,76726,Germersheim,Luitpoldplatz,Spaziergang,,,
 73800,DE,2022-04-18,16:30:00,18055,Rostock,Stadthafen/Kanonsberg,Mahnwache,https://dlive.tv/7TuermeMedien,Freiheits- und Friedensbewegung Rostock,
 73798,DE,2022-04-18,17:30:00,18055,Rostock,Reifergraben,Aufzug,https://dlive.tv/7TuermeMedien,Freiheits- und Friedensbewegung Rostock,
@@ -92,9 +76,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73686,DE,2022-04-25,18:00:00,35390,Gießen,Rathausplatz,Mahnwache,,Privat,
 73501,DE,2022-04-25,18:00:00,75323,Bad Wildbad,Rathaus (Kernerstr. 11),Spaziergang,,unbekannt,
 73773,DE,2022-04-25,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,
-73490,DE,2022-04-25,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
-73493,DE,2022-04-25,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
 73494,DE,2022-04-25,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
+73493,DE,2022-04-25,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
+73490,DE,2022-04-25,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
 73298,DE,2022-04-25,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 73437,DE,2022-04-25,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,
 73327,DE,2022-04-25,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,
@@ -113,8 +97,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73628,DE,2022-05-02,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,,
 73687,DE,2022-05-02,18:00:00,35390,Gießen,Rathausplatz,Mahnwache,,Privat,
 73774,DE,2022-05-02,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,
-73492,DE,2022-05-02,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
 73491,DE,2022-05-02,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
+73492,DE,2022-05-02,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
 73328,DE,2022-05-02,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,
 73359,DE,2022-05-07,11:00:00,84028,Landshut,Isarpromenade ab Ländtor,Menschenkette,,unbekannt,
 73733,DE,2022-05-07,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf
