@@ -1,192 +1,209 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite,latitude,longitude,created
-73802,DE,2022-04-14,17:00:00,18055,Rostock,Rathaus,Kundgebung,https://dlive.tv/7TuermeMedien,Freiheits- und Friedensbewegung Rostock,,54.08875485,12.141162704587815,2022-04-14 20:35:49
-73875,DE,2022-04-14,17:00:00,21073,Hamburg,Harburg Rathaus,Aufzug,,unbekannt,,53.4607292,9.9803507,2022-04-14 20:35:49
-73805,DE,2022-04-14,17:00:00,1067,Dresden,Messering,Autokorso,,unbekannt,,51.0728946,13.7160075,2022-04-14 20:35:49
-73820,DE,2022-04-14,18:00:00,70173,Stuttgart,Karlsplatz,Aufzug,,Privat,,48.77655285,9.180667785868211,2022-04-14 20:35:49
-73878,DE,2022-04-14,18:00:00,76133,Karlsruhe,vor dem BVG / nahe Schloß,Mahnwache,,Privat - siehe Info,,49.0068705,8.4034195,2022-04-14 20:35:49
-73675,DE,2022-04-14,18:00:00,76751,Jockgrim,Parkplatz Penny,Spaziergang,,,,49.0950751,8.276964,2022-04-14 20:35:49
-73770,DE,2022-04-14,18:00:00,17179,Gnoien,Marktplatz,Kundgebung,https://dlive.tv/Evil-Truth,Unsere Zukunft,,53.9703915,12.7054032,2022-04-14 20:35:49
-73828,DE,2022-04-14,18:30:00,1744,Dippoldiswalde,Parksäle,Spaziergang,,unbekannt,,50.89757985,13.663527952055022,2022-04-14 20:35:49
-73676,DE,2022-04-14,19:00:00,76777,Neupotz,Kirche,Spaziergang,,,,49.1468004,8.2175323,2022-04-14 20:35:49
-73674,DE,2022-04-14,19:00:00,76887,Bad Bergzabern,Schloss,Spaziergang,,,,49.103204250000005,7.998947080886366,2022-04-14 20:35:49
-73884,DE,2022-04-15,17:30:00,76131,Karlsruhe,Stephansplatz Postgalerie,Kundgebung,,Grundrechte jetzt,,49.0068705,8.4034195,2022-04-14 20:35:49
-73879,DE,2022-04-15,17:30:00,76133,Karlsruhe,Stephansplatz / bei Postgalerie ,Kundgebung,,Grundrechte jetzt,,49.0068705,8.4034195,2022-04-14 20:35:49
-73677,DE,2022-04-15,18:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,,,49.35144595,8.13971769857673,2022-04-14 20:35:49
-73362,DE,2022-04-16,11:00:00,84028,Landshut,Isarpromenade ab Ländtor,Menschenkette,,unbekannt,,48.536217,12.1516551,2022-04-14 20:35:49
-73730,DE,2022-04-16,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf,52.626147,10.079557,2022-04-14 20:35:49
-73737,DE,2022-04-16,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,https://t.me/cellestehtauf,52.62254355,10.080800033509767,2022-04-14 20:35:49
-73477,AT,2022-04-16,13:00:00,6900,Bregenz,Hafen,Kundgebung,,Sabrina Dengel,http://www.corinfos.at/plakat,47.5055695,9.746768860458126,2022-04-14 20:35:49
-73826,DE,2022-04-16,14:00:00,64385,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Zusammenkunft,,unbekannt,,49.70029425,8.847931482756227,2022-04-14 20:35:49
-73885,DE,2022-04-16,14:00:00,76133,Karlsruhe,Platz der Menschenrechte,Spaziergang,,unbekannt,,49.0068705,8.4034195,2022-04-14 20:35:49
-73811,DE,2022-04-16,15:00:00,18055,Rostock,Rosengarten / Am Steintor,Aufzug,https://dlive.tv/7TuermeMedien,Freiheits- und Friedensbewegung Rostock,,54.0924445,12.1286127,2022-04-14 20:35:49
-73629,DE,2022-04-16,15:00:00,68159,Mannheim,Marktplatz / G1,Aufzug,,Solidarisch für Deutschland,www.solidarier.de,49.489607,8.4669588,2022-04-14 20:35:49
-73877,DE,2022-04-16,15:00:00,20354,Hamburg,Gänsemarkt,Aufzug,,unbekannt,,53.55506525,9.988719723413897,2022-04-14 20:35:49
-73817,DE,2022-04-16,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,APO - Düsseldorf,http://Aponrw.de,51.219092200000006,6.767028235140621,2022-04-14 20:35:49
-73890,DE,2022-04-16,15:30:00,45127,Essen,Willy-Brandt-Platz/Wasserspiel,Kundgebung,,Für den Erhalt der Freiheit,https://t.me/joinchat/JVCyNxq-L-I442RKfw-IXQ,51.4582235,7.0158171,2022-04-14 20:35:49
-73833,DE,2022-04-16,17:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2022-04-14 20:35:49
-73891,DE,2022-04-16,18:00:00,17121,Loitz,Marktplatz,Kundgebung,,unbekannt,,53.96913,13.1285573,2022-04-14 20:35:49
-73678,DE,2022-04-16,19:00:00,76761,Rülzheim,Kerweplatz,Spaziergang,,,,49.15916075,8.28978055866924,2022-04-14 20:35:49
-73441,DE,2022-04-17,14:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,,53.8623859,8.698405997774456,2022-04-14 20:35:49
-73834,DE,2022-04-17,15:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2022-04-14 20:35:49
-73680,DE,2022-04-17,15:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,,,49.35144595,8.13971769857673,2022-04-14 20:35:49
-73867,DE,2022-04-17,15:00:00,41236,Mönchengladbach Rheydt,Marktplatz,Demonstration,https://youtube.com/channel/UCwq7QORP0F7Xnma07LcsOdQ,Wir sind die Rote Linie Mönchengladbach,,51.149063600000005,6.4421723914363405,2022-04-14 20:35:49
-73822,DE,2022-04-17,15:00:00,41236,Mönchengladbach Rheydt,Markt vor dem Rathaus,Demonstration,https://youtube.com/channel/UCwq7QORP0F7Xnma07LcsOdQ,Wir sind die Rote Linie Mönchengladbach,https://t.me/Frei_Klar_Denken_WolfsKrieger,51.16479650492539,6.446482164582948,2022-04-14 20:35:49
-73823,DE,2022-04-17,15:00:00,41236,Mönchengladbach Rheydt,Marktplatz vor dem Rathaus,MillionMaskMarch,,Wir sind die Rote Linie Mönchengladbach,https://t.me/Frei_Klar_Denken_WolfsKrieger,51.16479650492539,6.446482164582948,2022-04-14 20:35:49
-73679,DE,2022-04-17,15:00:00,76726,Germersheim,Luitpoldplatz,Spaziergang,,,,49.2179551,8.3743764,2022-04-14 20:35:49
-73882,DE,2022-04-17,17:30:00,88094,Oberteuringen,Franz-Roth-Platz,Spaziergang,,unbekannt,,47.7273302,9.4707648,2022-04-14 20:35:49
-73887,DE,2022-04-18,10:00:00,75175,Pforzheim,Westliche Karl Friedrich-Str.,Gegenprotest,,unbekannt,,48.891417,8.7005463,2022-04-14 20:35:49
-73800,DE,2022-04-18,16:30:00,18055,Rostock,Stadthafen/Kanonsberg,Mahnwache,https://dlive.tv/7TuermeMedien,Freiheits- und Friedensbewegung Rostock,,54.0924445,12.1286127,2022-04-14 20:35:49
-73798,DE,2022-04-18,17:30:00,18055,Rostock,Reifergraben,Aufzug,https://dlive.tv/7TuermeMedien,Freiheits- und Friedensbewegung Rostock,,54.0818123,12.1374622,2022-04-14 20:35:49
-73752,DE,2022-04-18,17:30:00,21073,Hamburg-Harburg,Rathausplatz,Spaziergang,,unbekannt,,53.4588002,9.9780083,2022-04-14 20:35:49
-73854,DE,2022-04-18,18:00:00,76744,Wörth/Rhein,Altes Rathaus,Spaziergang,,unbekannt,,49.052063450000006,8.268342249999996,2022-04-14 20:35:49
-73626,DE,2022-04-18,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,,,47.998186950000004,11.341840182183248,2022-04-14 20:35:49
-73724,DE,2022-04-18,18:00:00,66583,Spiesen Elversberg,Spiesen Rathaus / Hauptstraße,Spaziergang,,unbekannt,,49.3145046,7.1369778,2022-04-14 20:35:49
-73835,DE,2022-04-18,18:00:00,74523,Schwäbisch Hall,Marktplatz,Spaziergang,,unbekannt,,49.1123819,9.73721257848682,2022-04-14 20:35:49
-73637,DE,2022-04-18,18:00:00,87724,Ottobeuren,Rathaus,Spaziergang,,,,47.9706672,10.2659134,2022-04-14 20:35:49
-73851,DE,2022-04-18,18:00:00,76879,Ottersheim,Dorfplatz,Spaziergang,,unbekannt,,49.23743005,8.091310815572768,2022-04-14 20:35:49
-73212,DE,2022-04-18,18:00:00,84524,Neuötting,Rathaus,Spaziergang,,unbekannt,,48.2404126,12.6866818,2022-04-14 20:35:49
-73810,DE,2022-04-18,18:00:00,60547,Mörfelden Walldorf,Flughafenstr. 37 / Walldorf,Spaziergang,,unbekannt,,49.9923836,8.5622468,2022-04-14 20:35:49
-73620,DE,2022-04-18,18:00:00,32423,Minden,Marktplatz vor dem Rathaus,Spaziergang,,Privat angemeldete Veranstaltung,,52.2881045,8.9168852,2022-04-14 20:35:49
-73815,DE,2022-04-18,18:00:00,53894,Mechernich,Zum Markt 12 / ggü. Post,Spaziergang,,unbekannt,,50.5909999,6.6525479,2022-04-14 20:35:49
-73888,DE,2022-04-18,18:00:00,85570,Markt Schwaben,Marktplatz,Spaziergang,,unbekannt,,48.190927,11.8688663,2022-04-14 20:35:49
-73347,DE,2022-04-18,18:00:00,84028,Landshut,Ländtor,Spaziergang,,unbekannt,,48.53531375,12.149248217019215,2022-04-14 20:35:49
-73849,DE,2022-04-18,18:00:00,76829,Landau/Pfalz,Deutsches Tor,Spaziergang,,unbekannt,,49.200282099999995,8.11525460229954,2022-04-14 20:35:49
-73459,DE,2022-04-18,18:00:00,4567,Kitzscher,Rathaus,Spaziergang,,unbekannt,,51.16375845,12.550440798979356,2022-04-14 20:35:49
-73847,DE,2022-04-18,18:00:00,76879,Hochstadt Pfalz,Rathaus,Spaziergang,,unbekannt,,49.19828415,8.111420198731668,2022-04-14 20:35:49
-73201,DE,2022-04-18,18:00:00,74074,Heilbronn,Götzenturm,Spaziergang,,unbekannt,,49.1398088,9.215060989753486,2022-04-14 20:35:49
-73836,DE,2022-04-18,18:00:00,22607,Hamburg,Beselerplatz,Spaziergang,,unbekannt,,53.5605519,9.8883432,2022-04-14 20:35:49
-73844,DE,2022-04-18,18:00:00,76767,Hagenbach,Kirche,Spaziergang,,unbekannt,,49.01651215,8.245194700842697,2022-04-14 20:35:49
-73843,DE,2022-04-18,18:00:00,6773,Gräfenhainichen,Paul-Gerhardt-Kapelle,Spaziergang,,unbekannt,,51.72906525,12.4549071,2022-04-14 20:35:49
-73880,DE,2022-04-18,18:00:00,21502,Geesthacht,Rathausplatz,Spaziergang,,unbekannt,,53.4397121,10.3682538,2022-04-14 20:35:49
-73830,DE,2022-04-18,18:00:00,76571,Gaggenau,Jahnhalle,Spaziergang,,unbekannt,,48.800605000000004,8.317856776303048,2022-04-14 20:35:49
-73809,DE,2022-04-18,18:00:00,63329,Egelsbach,Berliner Platz,Spaziergang,,unbekannt,,49.9674148,8.665921753312361,2022-04-14 20:35:49
-73841,DE,2022-04-18,18:00:00,67480,Edenkoben,Parkplatz Radeburger Straße,Spaziergang,,unbekannt,,49.282236,8.1284357,2022-04-14 20:35:49
-73883,DE,2022-04-18,18:00:00,40213,Düsseldorf,Johanne-Rau-Platz,Spaziergang,,unbekannt,,51.2254018,6.7763137,2022-04-14 20:35:49
-73593,DE,2022-04-18,18:00:00,1157,Dresden,Mickten Straßenbhf,Spaziergang,,,,,,2022-04-14 20:35:49
-73840,DE,2022-04-18,18:00:00,76756,Bellheim,Rathaus,Spaziergang,,unbekannt,,49.1932442,8.2856197,2022-04-14 20:35:49
-73500,DE,2022-04-18,18:00:00,75323,Bad Wildbad,Rathaus (Kernerstr. 11),Spaziergang,,unbekannt,,48.7502439,8.550301,2022-04-14 20:35:49
-73868,DE,2022-04-18,18:00:00,36251,Bad Hersfeld,Rathaus,Spaziergang,,unbekannt,,50.868354350000004,9.70765736252577,2022-04-14 20:35:49
-73839,DE,2022-04-18,18:00:00,67098,Bad Dürkheim,Dürkheimer Fass,Spaziergang,,unbekannt,,49.4648885,8.1691812,2022-04-14 20:35:49
-73837,DE,2022-04-18,18:00:00,76855,Annweiler am Trifels,Kirchplatz,Spaziergang,,unbekannt,,49.1614025,8.041135229059055,2022-04-14 20:35:49
-73881,DE,2022-04-18,18:30:00,67547,Worms,Lutherdenkmal,Spaziergang,,unbekannt,,49.6322834,8.360071651284898,2022-04-14 20:35:49
-73853,DE,2022-04-18,18:30:00,67346,Speyer,Alte Münze,Spaziergang,,unbekannt,,49.3175479,8.4382895,2022-04-14 20:35:49
-73852,DE,2022-04-18,18:30:00,76764,Rheinzabern,Grundschule,Spaziergang,,unbekannt,,49.11656565,8.278495830980377,2022-04-14 20:35:49
-73850,DE,2022-04-18,18:30:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,,49.35144595,8.13971769857673,2022-04-14 20:35:49
-73456,DE,2022-04-18,18:30:00,63225,Langen (Hessen),Bahnstr. / Goethestr.,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-04-14 20:35:49
-73846,DE,2022-04-18,18:30:00,76863,Herxheim,Villa Wieser,Spaziergang,,unbekannt,,49.145794,8.2154691,2022-04-14 20:35:49
-73845,DE,2022-04-18,18:30:00,67454,Hassloch,Pfalzplatz,Spaziergang,,unbekannt,,49.360803950000005,8.259981879585887,2022-04-14 20:35:49
-73842,DE,2022-04-18,18:30:00,76726,Germersheim,Konrad-Adenauer-Str. (Tedi),Spaziergang,,unbekannt,,49.2222749,8.36659,2022-04-14 20:35:49
-73495,DE,2022-04-18,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf,52.624056,10.081052,2022-04-14 20:35:49
-73489,DE,2022-04-18,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf,52.624056,10.081052,2022-04-14 20:35:49
-73869,DE,2022-04-18,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,,51.52088485,6.9255365117204075,2022-04-14 20:35:49
-73297,DE,2022-04-18,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,,51.0228736,11.5134688,2022-04-14 20:35:49
-72669,DE,2022-04-18,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-04-14 20:35:49
-73436,DE,2022-04-18,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,,53.5271438,8.1102415,2022-04-14 20:35:49
-73326,DE,2022-04-18,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,,47.8536966,12.344366340988024,2022-04-14 20:35:49
-73825,DE,2022-04-18,19:00:00,99974,Mühlhausen/ Thüringen,Untermarkt,Spaziergang,,unbekannt,,51.2074205,10.4579131,2022-04-14 20:35:49
-73848,DE,2022-04-18,19:00:00,76870,Kandel,Kriegerdenkmal Georgskirche,Spaziergang,,unbekannt,,49.0809754,8.1970699,2022-04-14 20:35:49
-73892,DE,2022-04-18,19:00:00,1069,Dresden,Torwache / Arnold-Bad,Demonstration,,unbekannt,,,,2022-04-14 20:35:49
-73281,DE,2022-04-18,19:00:00,84405,Dorfen,Unterer Markt,Spaziergang,,unbekannt,,48.2738555,12.1525193,2022-04-14 20:35:49
-73838,DE,2022-04-18,19:00:00,76887,Bad Bergzabern,Schloss,Spaziergang,,unbekannt,,49.103204250000005,7.998947080886366,2022-04-14 20:35:49
-73855,DE,2022-04-19,18:00:00,67378,Zeiskam,Fuchsbachhalle,Spaziergang,,unbekannt,,49.2354968,8.246433420812615,2022-04-14 20:35:49
-73389,DE,2022-04-19,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Team Menschenrechte,,49.5846823,11.0095332,2022-04-14 20:35:49
-73876,DE,2022-04-19,18:30:00,54470,Bernkastel-Kues,Verbandsgemeindeverwaltung,Spaziergang,,unbekannt,,49.9143014,7.074608430607476,2022-04-14 20:35:49
-73856,DE,2022-04-19,19:00:00,76774,Leimersheim,Kirchplatz,Spaziergang,,unbekannt,,49.0054143,8.3320495,2022-04-14 20:35:49
-73857,DE,2022-04-19,19:00:00,76770,Hatzenbühl,Rathaus Bushaltestelle,Spaziergang,,unbekannt,,49.115811199999996,8.238272548797863,2022-04-14 20:35:49
-73354,DE,2022-04-20,17:00:00,84028,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,,Kraftquelle Gebet Landshut,,48.536217,12.1516551,2022-04-14 20:35:49
-73554,DE,2022-04-20,17:30:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de,50.134785199999996,8.918585144855331,2022-04-14 20:35:49
-73860,DE,2022-04-20,18:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,,49.35144595,8.13971769857673,2022-04-14 20:35:49
-73374,DE,2022-04-20,18:00:00,80333,München,Königsplatz,Kundgebung,,München-steht-auf,http://www.muenchen-steht-auf.de,48.1457741,11.5653095,2022-04-14 20:35:49
-73859,DE,2022-04-20,18:00:00,76829,Landau/Pfalz,Deutsches Tor,Spaziergang,,unbekannt,,49.200282099999995,8.11525460229954,2022-04-14 20:35:49
-73858,DE,2022-04-20,19:00:00,76773,Kuhardt,Dorfplatz,Spaziergang,,unbekannt,,49.1441952,8.323330523922182,2022-04-14 20:35:49
-73803,DE,2022-04-21,17:00:00,18055,Rostock,Stadthafen/Kanonsberg,Kundgebung,https://dlive.tv/7TuermeMedien,Freiheits- und Friedensbewegung Rostock,,54.0924445,12.1286127,2022-04-14 20:35:49
-73862,DE,2022-04-21,18:00:00,76751,Jockgrim,Parkplatz Penny,Spaziergang,,unbekannt,,49.0950751,8.276964,2022-04-14 20:35:49
-73863,DE,2022-04-21,19:00:00,76777,Neupotz,Kirche,Spaziergang,,unbekannt,,49.1468004,8.2175323,2022-04-14 20:35:49
-73861,DE,2022-04-21,19:00:00,76887,Bad Bergzabern,Schloss,Spaziergang,,unbekannt,,49.103204250000005,7.998947080886366,2022-04-14 20:35:49
-73864,DE,2022-04-22,18:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,,49.35144595,8.13971769857673,2022-04-14 20:35:49
-73886,DE,2022-04-22,18:00:00,76703,Kraichtal-Unteröwisheim,Sporthalle/Schule Schulstraße,Schilderwald,,unbekannt,,49.13160268141608,8.71971962364735,2022-04-14 20:35:49
-73361,DE,2022-04-23,11:00:00,84028,Landshut,Isarpromenade ab Ländtor,Menschenkette,,unbekannt,,48.536217,12.1516551,2022-04-14 20:35:49
-73872,DE,2022-04-23,11:00:00,63452,Hanau,August-Schärttner-Halle,Aufzug,,Allianz pro Grundgesetz,https://allianz-pro-grundgesetz.de/,50.14957775,8.920636310497661,2022-04-14 20:35:49
-73731,DE,2022-04-23,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf,52.626147,10.079557,2022-04-14 20:35:49
-73736,DE,2022-04-23,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,https://t.me/cellestehtauf,52.62254355,10.080800033509767,2022-04-14 20:35:49
-73630,DE,2022-04-23,15:00:00,67346,Speyer,Oberer Domgarten / hinterm Dom,Aufzug,,Solidarisch für Deutschland,www.solidarier.de,49.3165553,8.433615,2022-04-14 20:35:49
-73812,DE,2022-04-23,15:00:00,18055,Rostock,Rosengarten / Am Steintor,Aufzug,https://dlive.tv/7TuermeMedien,Freiheits- und Friedensbewegung Rostock,,54.0924445,12.1286127,2022-04-14 20:35:49
-73889,DE,2022-04-23,15:00:00,20095,Hamburg,Kunsthalle,Demonstration,,unbekannt,https://www.demohamburg.org/,53.5548699,10.0018358,2022-04-14 20:35:49
-73866,DE,2022-04-24,15:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,,49.35144595,8.13971769857673,2022-04-14 20:35:49
-73865,DE,2022-04-24,15:00:00,76726,Germersheim,Luitpoldplatz,Spaziergang,,unbekannt,,49.2179551,8.3743764,2022-04-14 20:35:49
-73442,DE,2022-04-24,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,,53.8623859,8.698405997774456,2022-04-14 20:35:49
-73821,DE,2022-04-24,18:00:00,31275,Lehrte,Brunnen Kurt-Hirschfeld-Forum,Zusammenkunft,,Freies Lehrte,,52.3749334,9.9748557,2022-04-14 20:35:49
-73801,DE,2022-04-25,16:30:00,18055,Rostock,Stadthafen/Kanonsberg,Mahnwache,https://dlive.tv/7TuermeMedien,Freiheits- und Friedensbewegung Rostock,,54.0924445,12.1286127,2022-04-14 20:35:49
-73799,DE,2022-04-25,17:30:00,18055,Rostock,Neuer Markt,Aufzug,https://dlive.tv/7TuermeMedien,Freiheits- und Friedensbewegung Rostock,,54.0889851,12.140552,2022-04-14 20:35:49
-73627,DE,2022-04-25,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,,,47.998186950000004,11.341840182183248,2022-04-14 20:35:49
-73725,DE,2022-04-25,18:00:00,66583,Spiesen Elversberg,Spiesen Rathaus / Hauptstraße,Spaziergang,,unbekannt,,49.3145046,7.1369778,2022-04-14 20:35:49
-73638,DE,2022-04-25,18:00:00,87724,Ottobeuren,Rathaus,Spaziergang,,,,47.9706672,10.2659134,2022-04-14 20:35:49
-73621,DE,2022-04-25,18:00:00,32423,Minden,Marktplatz vor dem Rathaus,Spaziergang,,Privat angemeldete Veranstaltung,,52.2881045,8.9168852,2022-04-14 20:35:49
-73349,DE,2022-04-25,18:00:00,84028,Landshut,Ländtor,Spaziergang,,unbekannt,,48.53531375,12.149248217019215,2022-04-14 20:35:49
-73873,DE,2022-04-25,18:00:00,4567,Kitzscher,Rathaus,Spaziergang,,unbekannt,,51.16375845,12.550440798979356,2022-04-14 20:35:49
-69047,DE,2022-04-25,18:00:00,52428,Jülich,Liebevoll,Demonstration,,242Impferei JÜ,,50.922304,6.3587156,2022-04-14 20:35:49
-73686,DE,2022-04-25,18:00:00,35390,Gießen,Rathausplatz,Mahnwache,,Privat,,50.5517325,8.7739551,2022-04-14 20:35:49
-73501,DE,2022-04-25,18:00:00,75323,Bad Wildbad,Rathaus (Kernerstr. 11),Spaziergang,,unbekannt,,48.7502439,8.550301,2022-04-14 20:35:49
-73773,DE,2022-04-25,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-04-14 20:35:49
-73493,DE,2022-04-25,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf,52.624056,10.081052,2022-04-14 20:35:49
-73490,DE,2022-04-25,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf,52.624056,10.081052,2022-04-14 20:35:49
-73494,DE,2022-04-25,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf,52.624056,10.081052,2022-04-14 20:35:49
-73870,DE,2022-04-25,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,unbekannt,,51.52088485,6.9255365117204075,2022-04-14 20:35:49
-73298,DE,2022-04-25,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,,51.0228736,11.5134688,2022-04-14 20:35:49
-72670,DE,2022-04-25,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-04-14 20:35:49
-73437,DE,2022-04-25,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,,53.5271438,8.1102415,2022-04-14 20:35:49
-73327,DE,2022-04-25,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,,47.8536966,12.344366340988024,2022-04-14 20:35:49
-73586,DE,2022-04-26,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Team Menschenrechte,,49.5846823,11.0095332,2022-04-14 20:35:49
-73355,DE,2022-04-27,17:00:00,84028,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,,Kraftquelle Gebet Landshut,,48.536217,12.1516551,2022-04-14 20:35:49
-73555,DE,2022-04-27,17:30:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de,50.134785199999996,8.918585144855331,2022-04-14 20:35:49
-73375,DE,2022-04-27,18:00:00,80333,München,Königsplatz,Kundgebung,,München-steht-auf,http://www.muenchen-steht-auf.de,48.1457741,11.5653095,2022-04-14 20:35:49
-73804,DE,2022-04-28,17:00:00,18055,Rostock,Rathaus,Kundgebung,https://dlive.tv/7TuermeMedien,Freiheits- und Friedensbewegung Rostock,,54.08875485,12.141162704587815,2022-04-14 20:35:49
-73215,DE,2022-04-28,19:00:00,84524,Neuötting,Rathaus,Mahnwache,,unbekannt,,48.2404126,12.6866818,2022-04-14 20:35:49
-73360,DE,2022-04-30,11:00:00,84028,Landshut,Isarpromenade ab Ländtor,Menschenkette,,unbekannt,,48.536217,12.1516551,2022-04-14 20:35:49
-73732,DE,2022-04-30,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf,52.626147,10.079557,2022-04-14 20:35:49
-73735,DE,2022-04-30,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,https://t.me/cellestehtauf,52.62254355,10.080800033509767,2022-04-14 20:35:49
-73813,DE,2022-04-30,15:00:00,18055,Rostock,Rosengarten / Am Steintor,Aufzug,https://dlive.tv/7TuermeMedien,Freiheits- und Friedensbewegung Rostock,,54.0924445,12.1286127,2022-04-14 20:35:49
-73631,ES,2022-04-30,18:00:00,38201,San Cristobal de La Laguna,Plaza del Adelantado,Demonstration,,Tenerife por la Verdad Canarias Despierta y Unida Ley en Mano,,28.4877958,-16.3137415,2022-04-14 20:35:49
-73628,DE,2022-05-02,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,,,47.998186950000004,11.341840182183248,2022-04-14 20:35:49
-73874,DE,2022-05-02,18:00:00,6249,Mücheln,Markt,Spaziergang,,freie Menschen,,51.346277,11.7514353,2022-04-14 20:35:49
-73687,DE,2022-05-02,18:00:00,35390,Gießen,Rathausplatz,Mahnwache,,Privat,,50.5517325,8.7739551,2022-04-14 20:35:49
-73774,DE,2022-05-02,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-04-14 20:35:49
-73492,DE,2022-05-02,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf,52.624056,10.081052,2022-04-14 20:35:49
-73491,DE,2022-05-02,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf,52.624056,10.081052,2022-04-14 20:35:49
-73871,DE,2022-05-02,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,,51.52088485,6.9255365117204075,2022-04-14 20:35:49
-72671,DE,2022-05-02,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-04-14 20:35:49
-73328,DE,2022-05-02,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,,47.8536966,12.344366340988024,2022-04-14 20:35:49
-73359,DE,2022-05-07,11:00:00,84028,Landshut,Isarpromenade ab Ländtor,Menschenkette,,unbekannt,,48.536217,12.1516551,2022-04-14 20:35:49
-73733,DE,2022-05-07,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf,52.626147,10.079557,2022-04-14 20:35:49
-73734,DE,2022-05-07,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,https://t.me/cellestehtauf,52.62254355,10.080800033509767,2022-04-14 20:35:49
-73685,DE,2022-05-07,14:00:00,80333,München,Königsplatz,Aufzug,,München-steht-auf und viele mehr,www.muenchen-steht-auf.de,48.1457741,11.5653095,2022-04-14 20:35:49
-73433,DE,2022-05-07,14:30:00,70373,Stuttgart,Oberer Schloßarten,Aufzug,,Offene Gesellschaft Kurpfalz,https://offene-gesellschaft-kurpfalz.de/,,,2022-04-14 20:35:49
-73358,DE,2022-05-07,17:00:00,84028,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,,Kraftquelle Gebet Landshut,,48.536217,12.1516551,2022-04-14 20:35:49
-73775,DE,2022-05-09,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-04-14 20:35:49
-72672,DE,2022-05-09,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-04-14 20:35:49
-73329,DE,2022-05-09,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,,47.8536966,12.344366340988024,2022-04-14 20:35:49
-73776,DE,2022-05-16,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-04-14 20:35:49
-72673,DE,2022-05-16,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-04-14 20:35:49
-73330,DE,2022-05-16,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,,47.8536966,12.344366340988024,2022-04-14 20:35:49
-73333,DE,2022-05-16,19:00:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,unbekannt,,47.8541669,12.3455493,2022-04-14 20:35:49
-73777,DE,2022-05-23,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-04-14 20:35:49
-72674,DE,2022-05-23,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-04-14 20:35:49
-73331,DE,2022-05-23,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,,47.8536966,12.344366340988024,2022-04-14 20:35:49
-73335,DE,2022-05-30,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,unbekannt,,47.8541669,12.3455493,2022-04-14 20:35:49
-73778,DE,2022-05-30,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-04-14 20:35:49
-72675,DE,2022-05-30,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-04-14 20:35:49
-73332,DE,2022-05-30,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,,47.8536966,12.344366340988024,2022-04-14 20:35:49
-73337,DE,2022-06-06,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,unbekannt,,47.8541669,12.3455493,2022-04-14 20:35:49
-73779,DE,2022-06-06,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-04-14 20:35:49
-73338,DE,2022-06-11,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,Chiemgau Gemeinsam,http://chiemgau-gemeinsam.de,47.8541669,12.3455493,2022-04-14 20:35:49
-73780,DE,2022-06-13,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-04-14 20:35:49
-73781,DE,2022-06-20,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-04-14 20:35:49
-72500,DE,2022-06-25,15:00:00,60329,Frankfurt,Taunusanlage/Gallusanlage,Aufzug,,unbekannt,,50.1106444,8.6820917,2022-04-14 20:35:49
-73782,DE,2022-06-27,18:30:00,63225,Langen (Hessen),Bahnstrasse/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-04-14 20:35:49
-3890,DE,2022-07-19,18:00:00,33098,Paderborn,Rathausplatz,Kundgebung,,unbekannt,,51.7169744,8.7538304,2022-04-14 20:35:49
-66925,AT,2022-08-01,15:00:00,7000,Eisenstadt,Laschoberstrasse 48,Kundgebung,,unbekannt,,47.8404053,16.5256712,2022-04-14 20:35:49
-71924,DE,2022-10-02,14:00:00,88718,Meersburg,Am Bodensee,Sonstiges,,Buergerdialog-Konstanz,http://www.friedensee.eu,47.6760185,9.3113752,2022-04-14 20:35:49
-69511,DE,2022-10-20,18:30:00,60389,Frankfurt Bornheim,Günthersburgpark,Aufzug,,unbekannt,https://t.me/ffmfreiheit,50.1304742,8.7051121,2022-04-14 20:35:49
-55107,DE,2022-12-18,13:45:00,70182,Stuttgart,Wilhelmsplatz,Kundgebung,,unbekannt,,48.7709861,9.1788068,2022-04-14 20:35:49
-55530,DE,2022-12-27,18:00:00,94072,Bad Füssing,Kurplatz / Kurallee,Spaziergang,,unbekannt,,48.3506733,13.3095441,2022-04-14 20:35:49
-69431,DE,2922-01-17,19:00:00,50667,Köln,Roncalliplatz/Domplatte,Spaziergang,,unbekannt,,50.938361,6.959974,2022-04-14 20:35:49
+73802,DE,2022-04-14,17:00:00,18055,Rostock,Rathaus,Kundgebung,https://dlive.tv/7TuermeMedien,Freiheits- und Friedensbewegung Rostock,,54.08875485,12.141162704587815,2022-04-14 21:37:59
+73875,DE,2022-04-14,17:00:00,21073,Hamburg,Harburg Rathaus,Aufzug,,unbekannt,,53.4607292,9.9803507,2022-04-14 21:37:59
+73805,DE,2022-04-14,17:00:00,1067,Dresden,Messering,Autokorso,,unbekannt,,51.0728946,13.7160075,2022-04-14 21:37:59
+73820,DE,2022-04-14,18:00:00,70173,Stuttgart,Karlsplatz,Aufzug,,Privat,,48.77655285,9.180667785868211,2022-04-14 21:37:59
+73878,DE,2022-04-14,18:00:00,76133,Karlsruhe,vor dem BVG / nahe Schloß,Mahnwache,,Privat - siehe Info,,49.0068705,8.4034195,2022-04-14 21:37:59
+73675,DE,2022-04-14,18:00:00,76751,Jockgrim,Parkplatz Penny,Spaziergang,,,,49.0950751,8.276964,2022-04-14 21:37:59
+73770,DE,2022-04-14,18:00:00,17179,Gnoien,Marktplatz,Kundgebung,https://dlive.tv/Evil-Truth,Unsere Zukunft,,53.9703915,12.7054032,2022-04-14 21:37:59
+73828,DE,2022-04-14,18:30:00,1744,Dippoldiswalde,Parksäle,Spaziergang,,unbekannt,,50.89757985,13.663527952055022,2022-04-14 21:37:59
+73676,DE,2022-04-14,19:00:00,76777,Neupotz,Kirche,Spaziergang,,,,49.1468004,8.2175323,2022-04-14 21:37:59
+73674,DE,2022-04-14,19:00:00,76887,Bad Bergzabern,Schloss,Spaziergang,,,,49.103204250000005,7.998947080886366,2022-04-14 21:37:59
+73884,DE,2022-04-15,17:30:00,76131,Karlsruhe,Stephansplatz Postgalerie,Kundgebung,,Grundrechte jetzt,,49.0068705,8.4034195,2022-04-14 21:37:59
+73879,DE,2022-04-15,17:30:00,76133,Karlsruhe,Stephansplatz / bei Postgalerie ,Kundgebung,,Grundrechte jetzt,,49.0068705,8.4034195,2022-04-14 21:37:59
+73905,DE,2022-04-15,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,unbekannt,,47.67030905,9.586421199708216,2022-04-14 21:37:59
+73677,DE,2022-04-15,18:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,,,49.35144595,8.13971769857673,2022-04-14 21:37:59
+73362,DE,2022-04-16,11:00:00,84028,Landshut,Isarpromenade ab Ländtor,Menschenkette,,unbekannt,,48.536217,12.1516551,2022-04-14 21:37:59
+73730,DE,2022-04-16,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf,52.626147,10.079557,2022-04-14 21:37:59
+73737,DE,2022-04-16,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,https://t.me/cellestehtauf,52.62254355,10.080800033509767,2022-04-14 21:37:59
+73896,DE,2022-04-16,12:00:00,4105,Leipzig,Rosental - Große Wiese,Kundgebung,,ORGATEXT ZU LANG,,,,2022-04-14 21:37:59
+73477,AT,2022-04-16,13:00:00,6900,Bregenz,Hafen,Kundgebung,,Sabrina Dengel,http://www.corinfos.at/plakat,47.5055695,9.746768860458126,2022-04-14 21:37:59
+73826,DE,2022-04-16,14:00:00,64385,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Zusammenkunft,,unbekannt,,49.70029425,8.847931482756227,2022-04-14 21:37:59
+73885,DE,2022-04-16,14:00:00,76133,Karlsruhe,Platz der Menschenrechte,Spaziergang,,unbekannt,,49.0068705,8.4034195,2022-04-14 21:37:59
+73811,DE,2022-04-16,15:00:00,18055,Rostock,Rosengarten / Am Steintor,Aufzug,https://dlive.tv/7TuermeMedien,Freiheits- und Friedensbewegung Rostock,,54.0924445,12.1286127,2022-04-14 21:37:59
+73629,DE,2022-04-16,15:00:00,68159,Mannheim,Marktplatz / G1,Aufzug,,Solidarisch für Deutschland,www.solidarier.de,49.489607,8.4669588,2022-04-14 21:37:59
+73877,DE,2022-04-16,15:00:00,20354,Hamburg,Gänsemarkt,Aufzug,,unbekannt,,53.55506525,9.988719723413897,2022-04-14 21:37:59
+73897,DE,2022-04-16,15:00:00,21073,Hamburg,Harburg Rathaus,Aufzug,,unbekannt,,53.4607292,9.9803507,2022-04-14 21:37:59
+73817,DE,2022-04-16,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,APO - Düsseldorf,http://Aponrw.de,51.219092200000006,6.767028235140621,2022-04-14 21:37:59
+73890,DE,2022-04-16,15:30:00,45127,Essen,Willy-Brandt-Platz/Wasserspiel,Kundgebung,,Für den Erhalt der Freiheit,https://t.me/joinchat/JVCyNxq-L-I442RKfw-IXQ,51.4582235,7.0158171,2022-04-14 21:37:59
+73833,DE,2022-04-16,17:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2022-04-14 21:37:59
+73891,DE,2022-04-16,18:00:00,17121,Loitz,Marktplatz,Kundgebung,,unbekannt,,53.96913,13.1285573,2022-04-14 21:37:59
+73904,DE,2022-04-16,18:00:00,73326,Deggingen,Rathaus,Gegenprotest,,unbekannt,,48.5981416,9.7212931,2022-04-14 21:37:59
+73678,DE,2022-04-16,19:00:00,76761,Rülzheim,Kerweplatz,Spaziergang,,,,49.15916075,8.28978055866924,2022-04-14 21:37:59
+73441,DE,2022-04-17,14:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,,53.8623859,8.698405997774456,2022-04-14 21:37:59
+73834,DE,2022-04-17,15:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2022-04-14 21:37:59
+73680,DE,2022-04-17,15:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,,,49.35144595,8.13971769857673,2022-04-14 21:37:59
+73867,DE,2022-04-17,15:00:00,41236,Mönchengladbach Rheydt,Marktplatz,Demonstration,https://youtube.com/channel/UCwq7QORP0F7Xnma07LcsOdQ,Wir sind die Rote Linie Mönchengladbach,,51.149063600000005,6.4421723914363405,2022-04-14 21:37:59
+73823,DE,2022-04-17,15:00:00,41236,Mönchengladbach Rheydt,Marktplatz vor dem Rathaus,MillionMaskMarch,,Wir sind die Rote Linie Mönchengladbach,https://t.me/Frei_Klar_Denken_WolfsKrieger,51.16479650492539,6.446482164582948,2022-04-14 21:37:59
+73822,DE,2022-04-17,15:00:00,41236,Mönchengladbach Rheydt,Markt vor dem Rathaus,Demonstration,https://youtube.com/channel/UCwq7QORP0F7Xnma07LcsOdQ,Wir sind die Rote Linie Mönchengladbach,https://t.me/Frei_Klar_Denken_WolfsKrieger,51.16479650492539,6.446482164582948,2022-04-14 21:37:59
+73679,DE,2022-04-17,15:00:00,76726,Germersheim,Luitpoldplatz,Spaziergang,,,,49.2179551,8.3743764,2022-04-14 21:37:59
+73882,DE,2022-04-17,17:30:00,88094,Oberteuringen,Franz-Roth-Platz,Spaziergang,,unbekannt,,47.7273302,9.4707648,2022-04-14 21:37:59
+73887,DE,2022-04-18,10:00:00,75175,Pforzheim,Westliche Karl Friedrich-Str.,Gegenprotest,,unbekannt,,48.891417,8.7005463,2022-04-14 21:37:59
+73800,DE,2022-04-18,16:30:00,18055,Rostock,Stadthafen/Kanonsberg,Mahnwache,https://dlive.tv/7TuermeMedien,Freiheits- und Friedensbewegung Rostock,,54.0924445,12.1286127,2022-04-14 21:37:59
+73798,DE,2022-04-18,17:30:00,18055,Rostock,Reifergraben,Aufzug,https://dlive.tv/7TuermeMedien,Freiheits- und Friedensbewegung Rostock,,54.0818123,12.1374622,2022-04-14 21:37:59
+73752,DE,2022-04-18,17:30:00,21073,Hamburg-Harburg,Rathausplatz,Spaziergang,,unbekannt,,53.4588002,9.9780083,2022-04-14 21:37:59
+73854,DE,2022-04-18,18:00:00,76744,Wörth/Rhein,Altes Rathaus,Spaziergang,,unbekannt,,49.052063450000006,8.268342249999996,2022-04-14 21:37:59
+73895,DE,2022-04-18,18:00:00,6667,Weißenfels,Marktplatz,Spaziergang,,Sachsen- Amhalt steht AUF !,,51.20095215,11.972447334552237,2022-04-14 21:37:59
+73906,DE,2022-04-18,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,unbekannt,,47.67030905,9.586421199708216,2022-04-14 21:37:59
+73626,DE,2022-04-18,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,,,47.998186950000004,11.341840182183248,2022-04-14 21:37:59
+73724,DE,2022-04-18,18:00:00,66583,Spiesen Elversberg,Spiesen Rathaus / Hauptstraße,Spaziergang,,unbekannt,,49.3145046,7.1369778,2022-04-14 21:37:59
+73835,DE,2022-04-18,18:00:00,74523,Schwäbisch Hall,Marktplatz,Spaziergang,,unbekannt,,49.1123819,9.73721257848682,2022-04-14 21:37:59
+73637,DE,2022-04-18,18:00:00,87724,Ottobeuren,Rathaus,Spaziergang,,,,47.9706672,10.2659134,2022-04-14 21:37:59
+73851,DE,2022-04-18,18:00:00,76879,Ottersheim,Dorfplatz,Spaziergang,,unbekannt,,49.23743005,8.091310815572768,2022-04-14 21:37:59
+73212,DE,2022-04-18,18:00:00,84524,Neuötting,Rathaus,Spaziergang,,unbekannt,,48.2404126,12.6866818,2022-04-14 21:37:59
+73810,DE,2022-04-18,18:00:00,60547,Mörfelden Walldorf,Flughafenstr. 37 / Walldorf,Spaziergang,,unbekannt,,49.9923836,8.5622468,2022-04-14 21:37:59
+73620,DE,2022-04-18,18:00:00,32423,Minden,Marktplatz vor dem Rathaus,Spaziergang,,Privat angemeldete Veranstaltung,,52.2881045,8.9168852,2022-04-14 21:37:59
+73815,DE,2022-04-18,18:00:00,53894,Mechernich,Zum Markt 12 / ggü. Post,Spaziergang,,unbekannt,,50.5909999,6.6525479,2022-04-14 21:37:59
+73888,DE,2022-04-18,18:00:00,85570,Markt Schwaben,Marktplatz,Spaziergang,,unbekannt,,48.190927,11.8688663,2022-04-14 21:37:59
+73347,DE,2022-04-18,18:00:00,84028,Landshut,Ländtor,Spaziergang,,unbekannt,,48.53531375,12.149248217019215,2022-04-14 21:37:59
+73849,DE,2022-04-18,18:00:00,76829,Landau/Pfalz,Deutsches Tor,Spaziergang,,unbekannt,,49.200282099999995,8.11525460229954,2022-04-14 21:37:59
+73459,DE,2022-04-18,18:00:00,4567,Kitzscher,Rathaus,Spaziergang,,unbekannt,,51.16375845,12.550440798979356,2022-04-14 21:37:59
+73847,DE,2022-04-18,18:00:00,76879,Hochstadt Pfalz,Rathaus,Spaziergang,,unbekannt,,49.19828415,8.111420198731668,2022-04-14 21:37:59
+73201,DE,2022-04-18,18:00:00,74074,Heilbronn,Götzenturm,Spaziergang,,unbekannt,,49.1398088,9.215060989753486,2022-04-14 21:37:59
+73836,DE,2022-04-18,18:00:00,22607,Hamburg,Beselerplatz,Spaziergang,,unbekannt,,53.5605519,9.8883432,2022-04-14 21:37:59
+73844,DE,2022-04-18,18:00:00,76767,Hagenbach,Kirche,Spaziergang,,unbekannt,,49.01651215,8.245194700842697,2022-04-14 21:37:59
+73843,DE,2022-04-18,18:00:00,6773,Gräfenhainichen,Paul-Gerhardt-Kapelle,Spaziergang,,unbekannt,,51.72906525,12.4549071,2022-04-14 21:37:59
+73880,DE,2022-04-18,18:00:00,21502,Geesthacht,Rathausplatz,Spaziergang,,unbekannt,,53.4397121,10.3682538,2022-04-14 21:37:59
+73830,DE,2022-04-18,18:00:00,76571,Gaggenau,Jahnhalle,Spaziergang,,unbekannt,,48.800605000000004,8.317856776303048,2022-04-14 21:37:59
+73809,DE,2022-04-18,18:00:00,63329,Egelsbach,Berliner Platz,Spaziergang,,unbekannt,,49.9674148,8.665921753312361,2022-04-14 21:37:59
+73841,DE,2022-04-18,18:00:00,67480,Edenkoben,Parkplatz Radeburger Straße,Spaziergang,,unbekannt,,49.282236,8.1284357,2022-04-14 21:37:59
+73883,DE,2022-04-18,18:00:00,40213,Düsseldorf,Johanne-Rau-Platz,Spaziergang,,unbekannt,,51.2254018,6.7763137,2022-04-14 21:37:59
+73593,DE,2022-04-18,18:00:00,1157,Dresden,Mickten Straßenbhf,Spaziergang,,,,,,2022-04-14 21:37:59
+73893,DE,2022-04-18,18:00:00,96450,Coburg,Schlossplatz,Aufzug,,Coburg zeigt Gesicht mit Klinikpersonal steht auf,https://klinik-personal-steht-auf.info/,50.2588298,10.968304119644536,2022-04-14 21:37:59
+73840,DE,2022-04-18,18:00:00,76756,Bellheim,Rathaus,Spaziergang,,unbekannt,,49.1932442,8.2856197,2022-04-14 21:37:59
+73500,DE,2022-04-18,18:00:00,75323,Bad Wildbad,Rathaus (Kernerstr. 11),Spaziergang,,unbekannt,,48.7502439,8.550301,2022-04-14 21:37:59
+73868,DE,2022-04-18,18:00:00,36251,Bad Hersfeld,Rathaus,Spaziergang,,unbekannt,,50.868354350000004,9.70765736252577,2022-04-14 21:37:59
+73839,DE,2022-04-18,18:00:00,67098,Bad Dürkheim,Dürkheimer Fass,Spaziergang,,unbekannt,,49.4648885,8.1691812,2022-04-14 21:37:59
+73837,DE,2022-04-18,18:00:00,76855,Annweiler am Trifels,Kirchplatz,Spaziergang,,unbekannt,,49.1614025,8.041135229059055,2022-04-14 21:37:59
+73881,DE,2022-04-18,18:30:00,67547,Worms,Lutherdenkmal,Spaziergang,,unbekannt,,49.6322834,8.360071651284898,2022-04-14 21:37:59
+73853,DE,2022-04-18,18:30:00,67346,Speyer,Alte Münze,Spaziergang,,unbekannt,,49.3175479,8.4382895,2022-04-14 21:37:59
+73852,DE,2022-04-18,18:30:00,76764,Rheinzabern,Grundschule,Spaziergang,,unbekannt,,49.11656565,8.278495830980377,2022-04-14 21:37:59
+73850,DE,2022-04-18,18:30:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,,49.35144595,8.13971769857673,2022-04-14 21:37:59
+73456,DE,2022-04-18,18:30:00,63225,Langen (Hessen),Bahnstr. / Goethestr.,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-04-14 21:37:59
+73846,DE,2022-04-18,18:30:00,76863,Herxheim,Villa Wieser,Spaziergang,,unbekannt,,49.145794,8.2154691,2022-04-14 21:37:59
+73845,DE,2022-04-18,18:30:00,67454,Hassloch,Pfalzplatz,Spaziergang,,unbekannt,,49.360803950000005,8.259981879585887,2022-04-14 21:37:59
+73842,DE,2022-04-18,18:30:00,76726,Germersheim,Konrad-Adenauer-Str. (Tedi),Spaziergang,,unbekannt,,49.2222749,8.36659,2022-04-14 21:37:59
+73489,DE,2022-04-18,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf,52.624056,10.081052,2022-04-14 21:37:59
+73495,DE,2022-04-18,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf,52.624056,10.081052,2022-04-14 21:37:59
+73869,DE,2022-04-18,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,,51.52088485,6.9255365117204075,2022-04-14 21:37:59
+73297,DE,2022-04-18,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,,51.0228736,11.5134688,2022-04-14 21:37:59
+72669,DE,2022-04-18,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-04-14 21:37:59
+73436,DE,2022-04-18,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,,53.5271438,8.1102415,2022-04-14 21:37:59
+73898,DE,2022-04-18,19:00:00,42651,Solingen,Walter-Scheel-Platz - Rathaus,Kundgebung,,Solingen in Bewegung,https://t.me/solingeninbewegung/344,51.1712468,7.0838996,2022-04-14 21:37:59
+73326,DE,2022-04-18,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,,47.8536966,12.344366340988024,2022-04-14 21:37:59
+73894,DE,2022-04-18,19:00:00,6618,Naumburg,Vogelwiese,Spaziergang,,Sachsen- Anhalt steht AUF !,,51.1495985,11.8130355,2022-04-14 21:37:59
+73825,DE,2022-04-18,19:00:00,99974,Mühlhausen/ Thüringen,Untermarkt,Spaziergang,,unbekannt,,51.2074205,10.4579131,2022-04-14 21:37:59
+73848,DE,2022-04-18,19:00:00,76870,Kandel,Kriegerdenkmal Georgskirche,Spaziergang,,unbekannt,,49.0809754,8.1970699,2022-04-14 21:37:59
+73892,DE,2022-04-18,19:00:00,1069,Dresden,Torwache / Arnold-Bad,Demonstration,,unbekannt,,,,2022-04-14 21:37:59
+73281,DE,2022-04-18,19:00:00,84405,Dorfen,Unterer Markt,Spaziergang,,unbekannt,,48.2738555,12.1525193,2022-04-14 21:37:59
+73838,DE,2022-04-18,19:00:00,76887,Bad Bergzabern,Schloss,Spaziergang,,unbekannt,,49.103204250000005,7.998947080886366,2022-04-14 21:37:59
+73855,DE,2022-04-19,18:00:00,67378,Zeiskam,Fuchsbachhalle,Spaziergang,,unbekannt,,49.2354968,8.246433420812615,2022-04-14 21:37:59
+73389,DE,2022-04-19,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Team Menschenrechte,,49.5846823,11.0095332,2022-04-14 21:37:59
+73876,DE,2022-04-19,18:30:00,54470,Bernkastel-Kues,Verbandsgemeindeverwaltung,Spaziergang,,unbekannt,,49.9143014,7.074608430607476,2022-04-14 21:37:59
+73856,DE,2022-04-19,19:00:00,76774,Leimersheim,Kirchplatz,Spaziergang,,unbekannt,,49.0054143,8.3320495,2022-04-14 21:37:59
+73857,DE,2022-04-19,19:00:00,76770,Hatzenbühl,Rathaus Bushaltestelle,Spaziergang,,unbekannt,,49.115811199999996,8.238272548797863,2022-04-14 21:37:59
+73354,DE,2022-04-20,17:00:00,84028,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,,Kraftquelle Gebet Landshut,,48.536217,12.1516551,2022-04-14 21:37:59
+73554,DE,2022-04-20,17:30:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de,50.134785199999996,8.918585144855331,2022-04-14 21:37:59
+73860,DE,2022-04-20,18:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,,49.35144595,8.13971769857673,2022-04-14 21:37:59
+73374,DE,2022-04-20,18:00:00,80333,München,Königsplatz,Kundgebung,,München-steht-auf,http://www.muenchen-steht-auf.de,48.1457741,11.5653095,2022-04-14 21:37:59
+73859,DE,2022-04-20,18:00:00,76829,Landau/Pfalz,Deutsches Tor,Spaziergang,,unbekannt,,49.200282099999995,8.11525460229954,2022-04-14 21:37:59
+73902,DE,2022-04-20,18:00:00,76593,Gernsbach,Rathaus,Spaziergang,,Privat,,48.729828350000005,8.391320638986576,2022-04-14 21:37:59
+73858,DE,2022-04-20,19:00:00,76773,Kuhardt,Dorfplatz,Spaziergang,,unbekannt,,49.1441952,8.323330523922182,2022-04-14 21:37:59
+73803,DE,2022-04-21,17:00:00,18055,Rostock,Stadthafen/Kanonsberg,Kundgebung,https://dlive.tv/7TuermeMedien,Freiheits- und Friedensbewegung Rostock,,54.0924445,12.1286127,2022-04-14 21:37:59
+73862,DE,2022-04-21,18:00:00,76751,Jockgrim,Parkplatz Penny,Spaziergang,,unbekannt,,49.0950751,8.276964,2022-04-14 21:37:59
+73863,DE,2022-04-21,19:00:00,76777,Neupotz,Kirche,Spaziergang,,unbekannt,,49.1468004,8.2175323,2022-04-14 21:37:59
+73861,DE,2022-04-21,19:00:00,76887,Bad Bergzabern,Schloss,Spaziergang,,unbekannt,,49.103204250000005,7.998947080886366,2022-04-14 21:37:59
+73907,DE,2022-04-22,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,unbekannt,,47.67030905,9.586421199708216,2022-04-14 21:37:59
+73864,DE,2022-04-22,18:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,,49.35144595,8.13971769857673,2022-04-14 21:37:59
+73886,DE,2022-04-22,18:00:00,76703,Kraichtal-Unteröwisheim,Sporthalle/Schule Schulstraße,Schilderwald,,unbekannt,,49.13160268141608,8.71971962364735,2022-04-14 21:37:59
+73361,DE,2022-04-23,11:00:00,84028,Landshut,Isarpromenade ab Ländtor,Menschenkette,,unbekannt,,48.536217,12.1516551,2022-04-14 21:37:59
+73872,DE,2022-04-23,11:00:00,63452,Hanau,August-Schärttner-Halle,Aufzug,,Allianz pro Grundgesetz,https://allianz-pro-grundgesetz.de/,50.14957775,8.920636310497661,2022-04-14 21:37:59
+73731,DE,2022-04-23,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf,52.626147,10.079557,2022-04-14 21:37:59
+73736,DE,2022-04-23,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,https://t.me/cellestehtauf,52.62254355,10.080800033509767,2022-04-14 21:37:59
+73630,DE,2022-04-23,15:00:00,67346,Speyer,Oberer Domgarten / hinterm Dom,Aufzug,,Solidarisch für Deutschland,www.solidarier.de,49.3165553,8.433615,2022-04-14 21:37:59
+73812,DE,2022-04-23,15:00:00,18055,Rostock,Rosengarten / Am Steintor,Aufzug,https://dlive.tv/7TuermeMedien,Freiheits- und Friedensbewegung Rostock,,54.0924445,12.1286127,2022-04-14 21:37:59
+73889,DE,2022-04-23,15:00:00,20095,Hamburg,Kunsthalle,Demonstration,,unbekannt,https://www.demohamburg.org/,53.5548699,10.0018358,2022-04-14 21:37:59
+73900,DE,2022-04-23,15:00:00,52064,Aachen,Eurogress Kurpark Monheimsalle,Demonstration,https://dlive.tv/PatriotOnTour,Euregio United QD241,https://t.me/euregio_united,50.776351,6.083862,2022-04-14 21:37:59
+73866,DE,2022-04-24,15:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,,49.35144595,8.13971769857673,2022-04-14 21:37:59
+73865,DE,2022-04-24,15:00:00,76726,Germersheim,Luitpoldplatz,Spaziergang,,unbekannt,,49.2179551,8.3743764,2022-04-14 21:37:59
+73442,DE,2022-04-24,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,,53.8623859,8.698405997774456,2022-04-14 21:37:59
+73821,DE,2022-04-24,18:00:00,31275,Lehrte,Brunnen Kurt-Hirschfeld-Forum,Zusammenkunft,,Freies Lehrte,,52.3749334,9.9748557,2022-04-14 21:37:59
+73801,DE,2022-04-25,16:30:00,18055,Rostock,Stadthafen/Kanonsberg,Mahnwache,https://dlive.tv/7TuermeMedien,Freiheits- und Friedensbewegung Rostock,,54.0924445,12.1286127,2022-04-14 21:37:59
+73799,DE,2022-04-25,17:30:00,18055,Rostock,Neuer Markt,Aufzug,https://dlive.tv/7TuermeMedien,Freiheits- und Friedensbewegung Rostock,,54.0889851,12.140552,2022-04-14 21:37:59
+73908,DE,2022-04-25,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,unbekannt,,47.67030905,9.586421199708216,2022-04-14 21:37:59
+73627,DE,2022-04-25,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,,,47.998186950000004,11.341840182183248,2022-04-14 21:37:59
+73725,DE,2022-04-25,18:00:00,66583,Spiesen Elversberg,Spiesen Rathaus / Hauptstraße,Spaziergang,,unbekannt,,49.3145046,7.1369778,2022-04-14 21:37:59
+73901,DE,2022-04-25,18:00:00,51503,Rösrath,Rathaus Hoffnungsthal,Spaziergang,,unbekannt,,50.8963758,7.1825445,2022-04-14 21:37:59
+73638,DE,2022-04-25,18:00:00,87724,Ottobeuren,Rathaus,Spaziergang,,,,47.9706672,10.2659134,2022-04-14 21:37:59
+73621,DE,2022-04-25,18:00:00,32423,Minden,Marktplatz vor dem Rathaus,Spaziergang,,Privat angemeldete Veranstaltung,,52.2881045,8.9168852,2022-04-14 21:37:59
+73349,DE,2022-04-25,18:00:00,84028,Landshut,Ländtor,Spaziergang,,unbekannt,,48.53531375,12.149248217019215,2022-04-14 21:37:59
+73873,DE,2022-04-25,18:00:00,4567,Kitzscher,Rathaus,Spaziergang,,unbekannt,,51.16375845,12.550440798979356,2022-04-14 21:37:59
+69047,DE,2022-04-25,18:00:00,52428,Jülich,Liebevoll,Demonstration,,242Impferei JÜ,,50.922304,6.3587156,2022-04-14 21:37:59
+73686,DE,2022-04-25,18:00:00,35390,Gießen,Rathausplatz,Mahnwache,,Privat,,50.5517325,8.7739551,2022-04-14 21:37:59
+73903,DE,2022-04-25,18:00:00,76571,Gaggenau,Jahnhalle,Spaziergang,,Privat,,48.800605000000004,8.317856776303048,2022-04-14 21:37:59
+73501,DE,2022-04-25,18:00:00,75323,Bad Wildbad,Rathaus (Kernerstr. 11),Spaziergang,,unbekannt,,48.7502439,8.550301,2022-04-14 21:37:59
+73773,DE,2022-04-25,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-04-14 21:37:59
+73490,DE,2022-04-25,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf,52.624056,10.081052,2022-04-14 21:37:59
+73493,DE,2022-04-25,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf,52.624056,10.081052,2022-04-14 21:37:59
+73494,DE,2022-04-25,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf,52.624056,10.081052,2022-04-14 21:37:59
+73870,DE,2022-04-25,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,unbekannt,,51.52088485,6.9255365117204075,2022-04-14 21:37:59
+73298,DE,2022-04-25,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,,51.0228736,11.5134688,2022-04-14 21:37:59
+72670,DE,2022-04-25,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-04-14 21:37:59
+73437,DE,2022-04-25,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,,53.5271438,8.1102415,2022-04-14 21:37:59
+73327,DE,2022-04-25,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,,47.8536966,12.344366340988024,2022-04-14 21:37:59
+73586,DE,2022-04-26,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Team Menschenrechte,,49.5846823,11.0095332,2022-04-14 21:37:59
+73355,DE,2022-04-27,17:00:00,84028,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,,Kraftquelle Gebet Landshut,,48.536217,12.1516551,2022-04-14 21:37:59
+73555,DE,2022-04-27,17:30:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de,50.134785199999996,8.918585144855331,2022-04-14 21:37:59
+73375,DE,2022-04-27,18:00:00,80333,München,Königsplatz,Kundgebung,,München-steht-auf,http://www.muenchen-steht-auf.de,48.1457741,11.5653095,2022-04-14 21:37:59
+73804,DE,2022-04-28,17:00:00,18055,Rostock,Rathaus,Kundgebung,https://dlive.tv/7TuermeMedien,Freiheits- und Friedensbewegung Rostock,,54.08875485,12.141162704587815,2022-04-14 21:37:59
+73215,DE,2022-04-28,19:00:00,84524,Neuötting,Rathaus,Mahnwache,,unbekannt,,48.2404126,12.6866818,2022-04-14 21:37:59
+73909,DE,2022-04-29,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,unbekannt,,47.67030905,9.586421199708216,2022-04-14 21:37:59
+73360,DE,2022-04-30,11:00:00,84028,Landshut,Isarpromenade ab Ländtor,Menschenkette,,unbekannt,,48.536217,12.1516551,2022-04-14 21:37:59
+73732,DE,2022-04-30,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf,52.626147,10.079557,2022-04-14 21:37:59
+73735,DE,2022-04-30,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,https://t.me/cellestehtauf,52.62254355,10.080800033509767,2022-04-14 21:37:59
+73813,DE,2022-04-30,15:00:00,18055,Rostock,Rosengarten / Am Steintor,Aufzug,https://dlive.tv/7TuermeMedien,Freiheits- und Friedensbewegung Rostock,,54.0924445,12.1286127,2022-04-14 21:37:59
+73631,ES,2022-04-30,18:00:00,38201,San Cristobal de La Laguna,Plaza del Adelantado,Demonstration,,Tenerife por la Verdad Canarias Despierta y Unida Ley en Mano,,28.4877958,-16.3137415,2022-04-14 21:37:59
+73910,DE,2022-05-02,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,unbekannt,,47.67030905,9.586421199708216,2022-04-14 21:37:59
+73628,DE,2022-05-02,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,,,47.998186950000004,11.341840182183248,2022-04-14 21:37:59
+73874,DE,2022-05-02,18:00:00,6249,Mücheln,Markt,Spaziergang,,freie Menschen,,51.346277,11.7514353,2022-04-14 21:37:59
+73687,DE,2022-05-02,18:00:00,35390,Gießen,Rathausplatz,Mahnwache,,Privat,,50.5517325,8.7739551,2022-04-14 21:37:59
+73774,DE,2022-05-02,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-04-14 21:37:59
+73492,DE,2022-05-02,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf,52.624056,10.081052,2022-04-14 21:37:59
+73491,DE,2022-05-02,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf,52.624056,10.081052,2022-04-14 21:37:59
+73871,DE,2022-05-02,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,,51.52088485,6.9255365117204075,2022-04-14 21:37:59
+72671,DE,2022-05-02,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-04-14 21:37:59
+73328,DE,2022-05-02,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,,47.8536966,12.344366340988024,2022-04-14 21:37:59
+73359,DE,2022-05-07,11:00:00,84028,Landshut,Isarpromenade ab Ländtor,Menschenkette,,unbekannt,,48.536217,12.1516551,2022-04-14 21:37:59
+73733,DE,2022-05-07,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf,52.626147,10.079557,2022-04-14 21:37:59
+73734,DE,2022-05-07,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,https://t.me/cellestehtauf,52.62254355,10.080800033509767,2022-04-14 21:37:59
+73685,DE,2022-05-07,14:00:00,80333,München,Königsplatz,Aufzug,,München-steht-auf und viele mehr,www.muenchen-steht-auf.de,48.1457741,11.5653095,2022-04-14 21:37:59
+73433,DE,2022-05-07,14:30:00,70373,Stuttgart,Oberer Schloßarten,Aufzug,,Offene Gesellschaft Kurpfalz,https://offene-gesellschaft-kurpfalz.de/,,,2022-04-14 21:37:59
+73358,DE,2022-05-07,17:00:00,84028,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,,Kraftquelle Gebet Landshut,,48.536217,12.1516551,2022-04-14 21:37:59
+73775,DE,2022-05-09,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-04-14 21:37:59
+72672,DE,2022-05-09,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-04-14 21:37:59
+73329,DE,2022-05-09,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,,47.8536966,12.344366340988024,2022-04-14 21:37:59
+73776,DE,2022-05-16,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-04-14 21:37:59
+72673,DE,2022-05-16,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-04-14 21:37:59
+73330,DE,2022-05-16,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,,47.8536966,12.344366340988024,2022-04-14 21:37:59
+73333,DE,2022-05-16,19:00:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,unbekannt,,47.8541669,12.3455493,2022-04-14 21:37:59
+73777,DE,2022-05-23,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-04-14 21:37:59
+72674,DE,2022-05-23,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-04-14 21:37:59
+73331,DE,2022-05-23,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,,47.8536966,12.344366340988024,2022-04-14 21:37:59
+73335,DE,2022-05-30,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,unbekannt,,47.8541669,12.3455493,2022-04-14 21:37:59
+73778,DE,2022-05-30,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-04-14 21:37:59
+72675,DE,2022-05-30,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-04-14 21:37:59
+73332,DE,2022-05-30,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,,47.8536966,12.344366340988024,2022-04-14 21:37:59
+73337,DE,2022-06-06,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,unbekannt,,47.8541669,12.3455493,2022-04-14 21:37:59
+73779,DE,2022-06-06,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-04-14 21:37:59
+73338,DE,2022-06-11,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,Chiemgau Gemeinsam,http://chiemgau-gemeinsam.de,47.8541669,12.3455493,2022-04-14 21:37:59
+73780,DE,2022-06-13,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-04-14 21:37:59
+73781,DE,2022-06-20,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-04-14 21:37:59
+72500,DE,2022-06-25,15:00:00,60329,Frankfurt,Taunusanlage/Gallusanlage,Aufzug,,unbekannt,,50.1106444,8.6820917,2022-04-14 21:37:59
+73782,DE,2022-06-27,18:30:00,63225,Langen (Hessen),Bahnstrasse/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-04-14 21:37:59
+3890,DE,2022-07-19,18:00:00,33098,Paderborn,Rathausplatz,Kundgebung,,unbekannt,,51.7169744,8.7538304,2022-04-14 21:37:59
+66925,AT,2022-08-01,15:00:00,7000,Eisenstadt,Laschoberstrasse 48,Kundgebung,,unbekannt,,47.8404053,16.5256712,2022-04-14 21:37:59
+71924,DE,2022-10-02,14:00:00,88718,Meersburg,Am Bodensee,Sonstiges,,Buergerdialog-Konstanz,http://www.friedensee.eu,47.6760185,9.3113752,2022-04-14 21:37:59
+69511,DE,2022-10-20,18:30:00,60389,Frankfurt Bornheim,Günthersburgpark,Aufzug,,unbekannt,https://t.me/ffmfreiheit,50.1304742,8.7051121,2022-04-14 21:37:59
+55107,DE,2022-12-18,13:45:00,70182,Stuttgart,Wilhelmsplatz,Kundgebung,,unbekannt,,48.7709861,9.1788068,2022-04-14 21:37:59
+55530,DE,2022-12-27,18:00:00,94072,Bad Füssing,Kurplatz / Kurallee,Spaziergang,,unbekannt,,48.3506733,13.3095441,2022-04-14 21:37:59
+69431,DE,2922-01-17,19:00:00,50667,Köln,Roncalliplatz/Domplatte,Spaziergang,,unbekannt,,50.938361,6.959974,2022-04-14 21:37:59
