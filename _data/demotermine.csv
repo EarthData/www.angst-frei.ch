@@ -8,8 +8,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73885,DE,2022-04-16,14:00:00,76133,Karlsruhe,Platz der Menschenrechte,Spaziergang,,unbekannt,
 73811,DE,2022-04-16,15:00:00,18055,Rostock,Rosengarten / Am Steintor,Aufzug,https://dlive.tv/7TuermeMedien,Freiheits- und Friedensbewegung Rostock,
 73629,DE,2022-04-16,15:00:00,68159,Mannheim,Marktplatz / G1,Aufzug,,Solidarisch für Deutschland,www.solidarier.de
-73897,DE,2022-04-16,15:00:00,21073,Hamburg,Harburg Rathaus,Aufzug,,unbekannt,
 73877,DE,2022-04-16,15:00:00,20354,Hamburg,Gänsemarkt,Aufzug,,unbekannt,
+73912,DE,2022-04-16,15:00:00,21073,Hamburg,Harburg Rathaus,Aufzug,,unbekannt,
+73897,DE,2022-04-16,15:00:00,21073,Hamburg,Harburg Rathaus,Aufzug,,unbekannt,
 73817,DE,2022-04-16,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,APO - Düsseldorf,http://Aponrw.de
 73890,DE,2022-04-16,15:30:00,45127,Essen,Willy-Brandt-Platz/Wasserspiel,Kundgebung,,Für den Erhalt der Freiheit,https://t.me/joinchat/JVCyNxq-L-I442RKfw-IXQ
 73833,DE,2022-04-16,17:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
@@ -19,9 +20,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73441,DE,2022-04-17,14:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
 73834,DE,2022-04-17,15:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 73680,DE,2022-04-17,15:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,,
-73867,DE,2022-04-17,15:00:00,41236,Mönchengladbach Rheydt,Marktplatz,Demonstration,https://youtube.com/channel/UCwq7QORP0F7Xnma07LcsOdQ,Wir sind die Rote Linie Mönchengladbach,
-73823,DE,2022-04-17,15:00:00,41236,Mönchengladbach Rheydt,Marktplatz vor dem Rathaus,MillionMaskMarch,,Wir sind die Rote Linie Mönchengladbach,https://t.me/Frei_Klar_Denken_WolfsKrieger
 73822,DE,2022-04-17,15:00:00,41236,Mönchengladbach Rheydt,Markt vor dem Rathaus,Demonstration,https://youtube.com/channel/UCwq7QORP0F7Xnma07LcsOdQ,Wir sind die Rote Linie Mönchengladbach,https://t.me/Frei_Klar_Denken_WolfsKrieger
+73823,DE,2022-04-17,15:00:00,41236,Mönchengladbach Rheydt,Marktplatz vor dem Rathaus,MillionMaskMarch,,Wir sind die Rote Linie Mönchengladbach,https://t.me/Frei_Klar_Denken_WolfsKrieger
+73867,DE,2022-04-17,15:00:00,41236,Mönchengladbach Rheydt,Marktplatz,Demonstration,https://youtube.com/channel/UCwq7QORP0F7Xnma07LcsOdQ,Wir sind die Rote Linie Mönchengladbach,
 73679,DE,2022-04-17,15:00:00,76726,Germersheim,Luitpoldplatz,Spaziergang,,,
 73882,DE,2022-04-17,17:30:00,88094,Oberteuringen,Franz-Roth-Platz,Spaziergang,,unbekannt,
 73887,DE,2022-04-18,10:00:00,75175,Pforzheim,Westliche Karl Friedrich-Str.,Gegenprotest,,unbekannt,
@@ -44,6 +45,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73347,DE,2022-04-18,18:00:00,84028,Landshut,Ländtor,Spaziergang,,unbekannt,
 73849,DE,2022-04-18,18:00:00,76829,Landau/Pfalz,Deutsches Tor,Spaziergang,,unbekannt,
 73459,DE,2022-04-18,18:00:00,04567,Kitzscher,Rathaus,Spaziergang,,unbekannt,
+73915,DE,2022-04-18,18:00:00,87435,Kempten,Hildegardplatz,Aufzug,,unbekannt,
 73847,DE,2022-04-18,18:00:00,76879,Hochstadt Pfalz,Rathaus,Spaziergang,,unbekannt,
 73201,DE,2022-04-18,18:00:00,74074,Heilbronn,Götzenturm,Spaziergang,,unbekannt,
 73836,DE,2022-04-18,18:00:00,22607,Hamburg,Beselerplatz,Spaziergang,,unbekannt,
@@ -69,8 +71,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73846,DE,2022-04-18,18:30:00,76863,Herxheim,Villa Wieser,Spaziergang,,unbekannt,
 73845,DE,2022-04-18,18:30:00,67454,Hassloch,Pfalzplatz,Spaziergang,,unbekannt,
 73842,DE,2022-04-18,18:30:00,76726,Germersheim,Konrad-Adenauer-Str. (Tedi),Spaziergang,,unbekannt,
-73495,DE,2022-04-18,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
 73489,DE,2022-04-18,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
+73495,DE,2022-04-18,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
 73869,DE,2022-04-18,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,
 73297,DE,2022-04-18,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 72669,DE,2022-04-18,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
@@ -82,6 +84,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73848,DE,2022-04-18,19:00:00,76870,Kandel,Kriegerdenkmal Georgskirche,Spaziergang,,unbekannt,
 73892,DE,2022-04-18,19:00:00,01069,Dresden,Torwache / Arnold-Bad,Demonstration,,unbekannt,
 73281,DE,2022-04-18,19:00:00,84405,Dorfen,Unterer Markt,Spaziergang,,unbekannt,
+73911,DE,2022-04-18,19:00:00,76646,Bruchsal,Otto-Oppenheimer-Platz,Demonstration,,unbekannt,
 73838,DE,2022-04-18,19:00:00,76887,Bad Bergzabern,Schloss,Spaziergang,,unbekannt,
 73855,DE,2022-04-19,18:00:00,67378,Zeiskam,Fuchsbachhalle,Spaziergang,,unbekannt,
 73389,DE,2022-04-19,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Team Menschenrechte,
@@ -94,6 +97,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73374,DE,2022-04-20,18:00:00,80333,München,Königsplatz,Kundgebung,,München-steht-auf,http://www.muenchen-steht-auf.de
 73859,DE,2022-04-20,18:00:00,76829,Landau/Pfalz,Deutsches Tor,Spaziergang,,unbekannt,
 73902,DE,2022-04-20,18:00:00,76593,Gernsbach,Rathaus,Spaziergang,,Privat,
+73913,DE,2022-04-20,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
 73858,DE,2022-04-20,19:00:00,76773,Kuhardt,Dorfplatz,Spaziergang,,unbekannt,
 73803,DE,2022-04-21,17:00:00,18055,Rostock,Stadthafen/Kanonsberg,Kundgebung,https://dlive.tv/7TuermeMedien,Freiheits- und Friedensbewegung Rostock,
 73862,DE,2022-04-21,18:00:00,76751,Jockgrim,Parkplatz Penny,Spaziergang,,unbekannt,
@@ -103,6 +107,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73864,DE,2022-04-22,18:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,
 73886,DE,2022-04-22,18:00:00,76703,Kraichtal-Unteröwisheim,Sporthalle/Schule Schulstraße,Schilderwald,,unbekannt,
 73361,DE,2022-04-23,11:00:00,84028,Landshut,Isarpromenade ab Ländtor,Menschenkette,,unbekannt,
+73916,DE,2022-04-23,11:00:00,71394,Kernen im Remstal,Rumold-Real-Schulhof,Kundgebung,,BI Freiheit und Gesundheit Kernen,http://www.bi-freiheit-gesundheit-kernen.de
 73872,DE,2022-04-23,11:00:00,63452,Hanau,August-Schärttner-Halle,Aufzug,,Allianz pro Grundgesetz,https://allianz-pro-grundgesetz.de/
 73731,DE,2022-04-23,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf
 73736,DE,2022-04-23,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,https://t.me/cellestehtauf
@@ -130,8 +135,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73501,DE,2022-04-25,18:00:00,75323,Bad Wildbad,Rathaus (Kernerstr. 11),Spaziergang,,unbekannt,
 73773,DE,2022-04-25,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,
 73494,DE,2022-04-25,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
-73490,DE,2022-04-25,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
 73493,DE,2022-04-25,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
+73490,DE,2022-04-25,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
 73870,DE,2022-04-25,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,unbekannt,
 73298,DE,2022-04-25,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 72670,DE,2022-04-25,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
