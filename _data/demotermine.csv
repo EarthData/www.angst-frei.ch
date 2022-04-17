@@ -1,15 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-73922,DE,2022-04-17,10:00:00,28865,Lilienthal,Lilienthal Mitte an der Kirche,Kundgebung,,,
-73917,DE,2022-04-17,13:00:00,79110,Freiburg,Dietenbachsee Weingarten,Festival,Picknick,Friedliche Menschen,
-73441,DE,2022-04-17,14:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
-73834,DE,2022-04-17,15:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
-73680,DE,2022-04-17,15:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,,
-73823,DE,2022-04-17,15:00:00,41236,Mönchengladbach Rheydt,Marktplatz vor dem Rathaus,MillionMaskMarch,,Wir sind die Rote Linie Mönchengladbach,https://t.me/Frei_Klar_Denken_WolfsKrieger
-73822,DE,2022-04-17,15:00:00,41236,Mönchengladbach Rheydt,Markt vor dem Rathaus,Demonstration,https://youtube.com/channel/UCwq7QORP0F7Xnma07LcsOdQ,Wir sind die Rote Linie Mönchengladbach,https://t.me/Frei_Klar_Denken_WolfsKrieger
-73867,DE,2022-04-17,15:00:00,41236,Mönchengladbach Rheydt,Marktplatz,Demonstration,https://youtube.com/channel/UCwq7QORP0F7Xnma07LcsOdQ,Wir sind die Rote Linie Mönchengladbach,
-73679,DE,2022-04-17,15:00:00,76726,Germersheim,Luitpoldplatz,Spaziergang,,,
-73923,DE,2022-04-17,15:00:00,28203,Bremen,Roland Kirche,Freizeit,,,
-73882,DE,2022-04-17,17:30:00,88094,Oberteuringen,Franz-Roth-Platz,Spaziergang,,unbekannt,
 73887,DE,2022-04-18,10:00:00,75175,Pforzheim,Westliche Karl Friedrich-Str.,Gegenprotest,,unbekannt,
 73800,DE,2022-04-18,16:30:00,18055,Rostock,Stadthafen/Kanonsberg,Mahnwache,https://dlive.tv/7TuermeMedien,Freiheits- und Friedensbewegung Rostock,
 73798,DE,2022-04-18,17:30:00,18055,Rostock,Reifergraben,Aufzug,https://dlive.tv/7TuermeMedien,Freiheits- und Friedensbewegung Rostock,
@@ -60,8 +49,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73846,DE,2022-04-18,18:30:00,76863,Herxheim,Villa Wieser,Spaziergang,,unbekannt,
 73845,DE,2022-04-18,18:30:00,67454,Hassloch,Pfalzplatz,Spaziergang,,unbekannt,
 73842,DE,2022-04-18,18:30:00,76726,Germersheim,Konrad-Adenauer-Str. (Tedi),Spaziergang,,unbekannt,
-73495,DE,2022-04-18,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
 73489,DE,2022-04-18,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
+73495,DE,2022-04-18,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
 73869,DE,2022-04-18,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,
 73297,DE,2022-04-18,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 72669,DE,2022-04-18,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
@@ -153,8 +142,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73874,DE,2022-05-02,18:00:00,06249,Mücheln,Markt,Spaziergang,,freie Menschen,
 73687,DE,2022-05-02,18:00:00,35390,Gießen,Rathausplatz,Mahnwache,,Privat,
 73774,DE,2022-05-02,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,
-73491,DE,2022-05-02,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
 73492,DE,2022-05-02,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
+73491,DE,2022-05-02,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
 73871,DE,2022-05-02,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,
 72671,DE,2022-05-02,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 73328,DE,2022-05-02,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,
@@ -169,8 +158,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73329,DE,2022-05-09,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,
 73776,DE,2022-05-16,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,
 72673,DE,2022-05-16,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
-73333,DE,2022-05-16,19:00:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,unbekannt,
 73330,DE,2022-05-16,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,
+73333,DE,2022-05-16,19:00:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,unbekannt,
 73777,DE,2022-05-23,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,
 72674,DE,2022-05-23,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 73331,DE,2022-05-23,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,
