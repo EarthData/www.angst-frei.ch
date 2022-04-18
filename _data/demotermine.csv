@@ -6,8 +6,11 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73856,DE,2022-04-19,19:00:00,76774,Leimersheim,Kirchplatz,Spaziergang,,unbekannt,
 73857,DE,2022-04-19,19:00:00,76770,Hatzenbühl,Rathaus Bushaltestelle,Spaziergang,,unbekannt,
 73354,DE,2022-04-20,17:00:00,84028,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,,Kraftquelle Gebet Landshut,
+73935,DE,2022-04-20,17:30:00,70184,Stuttgart,Dobelstr. / Hohenheimer Str.,Schilderwald,,Privat,
 73554,DE,2022-04-20,17:30:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
 73918,DE,2022-04-20,18:00:00,75334,Straubenhardt-Feldrennach,Rathaus,Spaziergang,,Feldrennach vernetzt,
+73938,DE,2022-04-20,18:00:00,74936,Siegelsbach,Platz vor dem Rathaus,Spaziergang,,unbekannt,
+73941,DE,2022-04-20,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 73860,DE,2022-04-20,18:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,
 73374,DE,2022-04-20,18:00:00,80333,München,Königsplatz,Kundgebung,,München-steht-auf,http://www.muenchen-steht-auf.de
 73859,DE,2022-04-20,18:00:00,76829,Landau/Pfalz,Deutsches Tor,Spaziergang,,unbekannt,
@@ -19,6 +22,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73862,DE,2022-04-21,18:00:00,76751,Jockgrim,Parkplatz Penny,Spaziergang,,unbekannt,
 73863,DE,2022-04-21,19:00:00,76777,Neupotz,Kirche,Spaziergang,,unbekannt,
 73861,DE,2022-04-21,19:00:00,76887,Bad Bergzabern,Schloss,Spaziergang,,unbekannt,
+73942,DE,2022-04-22,16:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 73907,DE,2022-04-22,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,unbekannt,
 73864,DE,2022-04-22,18:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,
 73886,DE,2022-04-22,18:00:00,76703,Kraichtal-Unteröwisheim,Sporthalle/Schule Schulstraße,Schilderwald,,unbekannt,
@@ -28,10 +32,14 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73934,DE,2022-04-23,11:00:00,20095,Hamburg,Rathaus / davor,Aufzug,,Rathausdemo,http://Rathausdemo.de
 73731,DE,2022-04-23,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf
 73736,DE,2022-04-23,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,https://t.me/cellestehtauf
+73937,DE,2022-04-23,12:00:00,76829,Landau / Pfalz,Stadion Südpfalz / Löhlstrasse,Kundgebung,,siehe vorne bei Info,
 73630,DE,2022-04-23,15:00:00,67346,Speyer,Oberer Domgarten / hinterm Dom,Aufzug,,Solidarisch für Deutschland,www.solidarier.de
 73812,DE,2022-04-23,15:00:00,18055,Rostock,Rosengarten / Am Steintor,Aufzug,https://dlive.tv/7TuermeMedien,Freiheits- und Friedensbewegung Rostock,
 73889,DE,2022-04-23,15:00:00,20095,Hamburg,Kunsthalle,Demonstration,,unbekannt,https://www.demohamburg.org/
+73936,DE,2022-04-23,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,APO - Düsseldorf,http://Aponrw.de
 73900,DE,2022-04-23,15:00:00,52064,Aachen,Eurogress Kurpark Monheimsalle,Demonstration,https://dlive.tv/PatriotOnTour,Euregio United QD241,https://t.me/euregio_united
+73943,DE,2022-04-23,17:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
+73944,DE,2022-04-24,15:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 73866,DE,2022-04-24,15:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,
 73865,DE,2022-04-24,15:00:00,76726,Germersheim,Luitpoldplatz,Spaziergang,,unbekannt,
 73442,DE,2022-04-24,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,unbekannt,
@@ -51,14 +59,15 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73903,DE,2022-04-25,18:00:00,76571,Gaggenau,Jahnhalle,Spaziergang,,Privat,
 73501,DE,2022-04-25,18:00:00,75323,Bad Wildbad,Rathaus (Kernerstr. 11),Spaziergang,,unbekannt,
 73773,DE,2022-04-25,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,
-73494,DE,2022-04-25,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
 73493,DE,2022-04-25,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
+73494,DE,2022-04-25,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
 73490,DE,2022-04-25,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
 73870,DE,2022-04-25,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,unbekannt,
 73298,DE,2022-04-25,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 72670,DE,2022-04-25,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 73437,DE,2022-04-25,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,
 73327,DE,2022-04-25,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,
+73939,AT,2022-04-26,18:30:00,8323,St. Marein bei Graz,Kirchplatz,Spaziergang,,unbekannt,
 73586,DE,2022-04-26,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Team Menschenrechte,
 73355,DE,2022-04-27,17:00:00,84028,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,,Kraftquelle Gebet Landshut,
 73555,DE,2022-04-27,17:30:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
@@ -69,6 +78,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73360,DE,2022-04-30,11:00:00,84028,Landshut,Isarpromenade ab Ländtor,Menschenkette,,unbekannt,
 73732,DE,2022-04-30,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf
 73735,DE,2022-04-30,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,https://t.me/cellestehtauf
+73946,DE,2022-04-30,15:00:00,02763,Zittau,Markt,Kundgebung,,Freunde von PEGIDA,
 73813,DE,2022-04-30,15:00:00,18055,Rostock,Rosengarten / Am Steintor,Aufzug,https://dlive.tv/7TuermeMedien,Freiheits- und Friedensbewegung Rostock,
 73631,ES,2022-04-30,18:00:00,38201,San Cristobal de La Laguna,Plaza del Adelantado,Demonstration,,Tenerife por la Verdad Canarias Despierta y Unida Ley en Mano,
 73910,DE,2022-05-02,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,unbekannt,
@@ -80,6 +90,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73492,DE,2022-05-02,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
 73871,DE,2022-05-02,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,
 72671,DE,2022-05-02,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
+73940,DE,2022-05-02,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,
 73328,DE,2022-05-02,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,
 73359,DE,2022-05-07,11:00:00,84028,Landshut,Isarpromenade ab Ländtor,Menschenkette,,unbekannt,
 73733,DE,2022-05-07,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf
@@ -92,8 +103,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73329,DE,2022-05-09,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,
 73776,DE,2022-05-16,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,
 72673,DE,2022-05-16,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
-73330,DE,2022-05-16,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,
 73333,DE,2022-05-16,19:00:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,unbekannt,
+73330,DE,2022-05-16,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,
 73777,DE,2022-05-23,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,
 72674,DE,2022-05-23,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 73331,DE,2022-05-23,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,
