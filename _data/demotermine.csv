@@ -1,10 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-73855,DE,2022-04-19,18:00:00,67378,Zeiskam,Fuchsbachhalle,Spaziergang,,unbekannt,
-73931,DE,2022-04-19,18:00:00,28865,Lilienthal,Kirche Lilienthal Mitte,Musik,,,
-73389,DE,2022-04-19,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Team Menschenrechte,
-73876,DE,2022-04-19,18:30:00,54470,Bernkastel-Kues,Verbandsgemeindeverwaltung,Spaziergang,,unbekannt,
-73856,DE,2022-04-19,19:00:00,76774,Leimersheim,Kirchplatz,Spaziergang,,unbekannt,
-73857,DE,2022-04-19,19:00:00,76770,Hatzenbühl,Rathaus Bushaltestelle,Spaziergang,,unbekannt,
 73354,DE,2022-04-20,17:00:00,84028,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,,Kraftquelle Gebet Landshut,
 73935,DE,2022-04-20,17:30:00,70184,Stuttgart,Dobelstr. / Hohenheimer Str.,Schilderwald,,Privat,
 73554,DE,2022-04-20,17:30:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
@@ -60,8 +54,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73501,DE,2022-04-25,18:00:00,75323,Bad Wildbad,Rathaus (Kernerstr. 11),Spaziergang,,unbekannt,
 73773,DE,2022-04-25,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,
 73493,DE,2022-04-25,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
-73494,DE,2022-04-25,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
 73490,DE,2022-04-25,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
+73494,DE,2022-04-25,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
 73870,DE,2022-04-25,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,unbekannt,
 73298,DE,2022-04-25,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 72670,DE,2022-04-25,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
@@ -86,8 +80,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73874,DE,2022-05-02,18:00:00,06249,Mücheln,Markt,Spaziergang,,freie Menschen,
 73687,DE,2022-05-02,18:00:00,35390,Gießen,Rathausplatz,Mahnwache,,Privat,
 73774,DE,2022-05-02,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,
-73491,DE,2022-05-02,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
 73492,DE,2022-05-02,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
+73491,DE,2022-05-02,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf
 73871,DE,2022-05-02,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,
 72671,DE,2022-05-02,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 73940,DE,2022-05-02,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,
