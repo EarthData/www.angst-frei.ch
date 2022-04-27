@@ -1,18 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-74079,DE,2022-04-27,13:00:00,27574,Bremerhaven,Zentralkrankenh. Reinkenheide,Kundgebung,,Bremerhaven bleibt stark,
-73355,DE,2022-04-27,17:00:00,84028,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,,Kraftquelle Gebet Landshut,
-73555,DE,2022-04-27,17:30:00,63450,Hanau,Freiheitsplatz,Mahnwache,,Hanau steht auf!,https://www.hanau-steht-auf.de
-74068,DE,2022-04-27,18:00:00,74936,Siegelsbach,Platz vor dem Rathaus,Spaziergang,,,
-74047,DE,2022-04-27,18:00:00,67433,Neustadt/Weinstraße,Hetzelplatz,Spaziergang,,unbekannt,
-73375,DE,2022-04-27,18:00:00,80333,München,Königsplatz,Kundgebung,,München-steht-auf,http://www.muenchen-steht-auf.de
-74046,DE,2022-04-27,18:00:00,76829,Landau/Pfalz,Deutsches Tor,Spaziergang,,unbekannt,
-73980,DE,2022-04-27,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
-74056,DE,2022-04-27,18:30:00,46045,Oberhausen,Friedensplatz,Demonstration,https://youtube.com/channel/UCwq7QORP0F7Xnma07LcsOdQ,unbekannt,
-74057,DE,2022-04-27,18:30:00,46045,Oberhausen,Friedensplatz,Zusammenkunft,https://youtube.com/channel/UCwq7QORP0F7Xnma07LcsOdQ,unbekannt,
-74017,DE,2022-04-27,19:00:00,74933,Neidenstein,Van Venningen Halle,Spaziergang,,unbekannt,
-73964,DE,2022-04-27,19:00:00,06618,Naumburg,Vogelwiese,Kundgebung,,Naumburg zeigt Gesicht !,
-73979,DE,2022-04-27,19:00:00,06618,Naumburg,Vogelwiese,Demonstration,,Naumburg zeigt Gesicht !,
-74045,DE,2022-04-27,19:00:00,76773,Kuhardt,Dorfplatz,Spaziergang,,unbekannt,
 73804,DE,2022-04-28,17:00:00,18055,Rostock,Rathaus,Kundgebung,https://dlive.tv/7TuermeMedien,Freiheits- und Friedensbewegung Rostock,
 74097,DE,2022-04-28,17:00:00,21073,Hamburg,Harburg Rathaus,Aufzug,,unbekannt,
 74076,DE,2022-04-28,18:00:00,55576,Sprendlingen,Marktplatz,Spaziergang,,,
@@ -34,16 +20,16 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73813,DE,2022-04-30,15:00:00,18055,Rostock,Rosengarten / Am Steintor,Aufzug,https://dlive.tv/7TuermeMedien,Freiheits- und Friedensbewegung Rostock,
 74081,DE,2022-04-30,15:00:00,22041,Hamburg Wandsbek,Wochenmarktgelände vom Quarree,Aufzug,,Bürgerbündnis Wandsbek,
 74018,DE,2022-04-30,15:00:00,60329,Frankfurt am Main,Taunusanlage,Aufzug,,unbekannt,
-74055,DE,2022-04-30,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,APO - Düsseldorf,http://Aponrw.de
 74082,DE,2022-04-30,15:00:00,4000,Düsseldorf,Burg Platz,Spaziergang,,unbekannt,
+74055,DE,2022-04-30,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,APO - Düsseldorf,http://Aponrw.de
 74100,DE,2022-04-30,15:30:00,4000,Düsseldorf,Burgplatz .,Spaziergang,,Privat,
 74078,DE,2022-04-30,15:30:00,44787,Bochum,Dr.-Ruer-Platz,Aufzug,,Querdenken 234 - Bochum,https://querdenken-234.de
 74064,DE,2022-04-30,17:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 73631,ES,2022-04-30,18:00:00,38201,San Cristobal de La Laguna,Plaza del Adelantado,Demonstration,,Tenerife por la Verdad Canarias Despierta y Unida Ley en Mano,
 74080,DE,2022-04-30,18:00:00,56068,Koblenz,Deutsches Eck,Spaziergang,,unbekannt,
-74083,DE,2022-05-01,10:30:00,4000,Düsseldorf,Aqua Zoo,Autokorso,,unbekannt,
 74102,DE,2022-05-01,10:30:00,4000,Düsseldorf,Aquazoo / Nordpark,Fahrraddemo,,Privat .,
 74101,DE,2022-05-01,10:30:00,4000,Düsseldorf,Aquazoo / Nordpark,Autokorso,,Privat .,
+74083,DE,2022-05-01,10:30:00,4000,Düsseldorf,Aqua Zoo,Autokorso,,unbekannt,
 74058,DE,2022-05-01,10:45:00,75015,Bretten,A. Leicht-Platz/Neues Rathaus,Meditation,,unbekannt,
 73948,DE,2022-05-01,11:00:00,08056,Zwickau,Innenstadt,Demonstration,,unbekannt,
 73982,DE,2022-05-01,11:17:00,08056,Zwickau,Neumarkt,Demonstration,,unbekannt,
