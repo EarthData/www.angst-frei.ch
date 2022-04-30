@@ -1,22 +1,7 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-73360,DE,2022-04-30,11:00:00,84028,Landshut,Isarpromenade ab Ländtor,Menschenkette,,unbekannt,
-74099,DE,2022-04-30,11:00:00,21029,Hamburg Bergedorf,Am Bahnhof vor dem CCB,Aufzug,,Bürgerbündnis Bergedorf,
-73732,DE,2022-04-30,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf
-73735,DE,2022-04-30,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,https://t.me/cellestehtauf
-73946,DE,2022-04-30,15:00:00,02763,Zittau,Markt,Kundgebung,,Freunde von PEGIDA,
-73813,DE,2022-04-30,15:00:00,18055,Rostock,Rosengarten / Am Steintor,Aufzug,https://dlive.tv/7TuermeMedien,Freiheits- und Friedensbewegung Rostock,
-74081,DE,2022-04-30,15:00:00,22041,Hamburg Wandsbek,Wochenmarktgelände vom Quarree,Aufzug,,Bürgerbündnis Wandsbek,
-74018,DE,2022-04-30,15:00:00,60329,Frankfurt am Main,Taunusanlage,Aufzug,,unbekannt,
-74082,DE,2022-04-30,15:00:00,4000,Düsseldorf,Burg Platz,Spaziergang,,unbekannt,
-74055,DE,2022-04-30,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,APO - Düsseldorf,http://Aponrw.de
-74100,DE,2022-04-30,15:30:00,4000,Düsseldorf,Burgplatz .,Spaziergang,,Privat,
-74078,DE,2022-04-30,15:30:00,44787,Bochum,Dr.-Ruer-Platz,Aufzug,,Querdenken 234 - Bochum,https://querdenken-234.de
-74064,DE,2022-04-30,17:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
-73631,ES,2022-04-30,18:00:00,38201,San Cristobal de La Laguna,Plaza del Adelantado,Demonstration,,Tenerife por la Verdad Canarias Despierta y Unida Ley en Mano,
-74080,DE,2022-04-30,18:00:00,56068,Koblenz,Deutsches Eck,Spaziergang,,unbekannt,
-74083,DE,2022-05-01,10:30:00,4000,Düsseldorf,Aqua Zoo,Autokorso,,unbekannt,
-74101,DE,2022-05-01,10:30:00,4000,Düsseldorf,Aquazoo / Nordpark,Autokorso,,Privat .,
 74102,DE,2022-05-01,10:30:00,4000,Düsseldorf,Aquazoo / Nordpark,Fahrraddemo,,Privat .,
+74101,DE,2022-05-01,10:30:00,4000,Düsseldorf,Aquazoo / Nordpark,Autokorso,,Privat .,
+74083,DE,2022-05-01,10:30:00,4000,Düsseldorf,Aqua Zoo,Autokorso,,unbekannt,
 74058,DE,2022-05-01,10:45:00,75015,Bretten,A. Leicht-Platz/Neues Rathaus,Meditation,,unbekannt,
 73948,DE,2022-05-01,11:00:00,08056,Zwickau,Innenstadt,Demonstration,,unbekannt,
 73982,DE,2022-05-01,11:17:00,08056,Zwickau,Neumarkt,Demonstration,,unbekannt,
@@ -55,8 +40,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73733,DE,2022-05-07,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf
 73734,DE,2022-05-07,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,https://t.me/cellestehtauf
 73685,DE,2022-05-07,14:00:00,80333,München,Königsplatz,Aufzug,,München-steht-auf und viele mehr,www.muenchen-steht-auf.de
-73433,DE,2022-05-07,14:30:00,70373,Stuttgart,Oberer Schloßarten,Aufzug,,Offene Gesellschaft Kurpfalz,https://offene-gesellschaft-kurpfalz.de/
 73959,DE,2022-05-07,14:30:00,70173,Stuttgart,Oberer Schlossgarten / beim Hbf,Aufzug,https://dlive.tv/schwaeble_on_tour,Offges,https://offene-gesellschaft-kurpfalz.de/
+73433,DE,2022-05-07,14:30:00,70373,Stuttgart,Oberer Schloßarten,Aufzug,,Offene Gesellschaft Kurpfalz,https://offene-gesellschaft-kurpfalz.de/
 73358,DE,2022-05-07,17:00:00,84028,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,,Kraftquelle Gebet Landshut,
 73775,DE,2022-05-09,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,
 74087,DE,2022-05-09,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
@@ -65,8 +50,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73776,DE,2022-05-16,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,
 74088,DE,2022-05-16,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 72673,DE,2022-05-16,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
-73333,DE,2022-05-16,19:00:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,unbekannt,
 73330,DE,2022-05-16,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,
+73333,DE,2022-05-16,19:00:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,unbekannt,
 73777,DE,2022-05-23,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,
 74089,DE,2022-05-23,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 72674,DE,2022-05-23,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
