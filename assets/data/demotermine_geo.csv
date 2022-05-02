@@ -1,117 +1,117 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite,latitude,longitude,created
-74084,DE,2022-05-02,17:00:00,4000,Düsseldorf,Johannes Rau Platz,Spaziergang,,unbekannt,,51.219092200000006,6.767028235140621,2022-05-02 14:25:04
-74098,DE,2022-05-02,17:30:00,21073,Hamburg,Harburger Rathausplatz,Spaziergang,,unbekannt,,53.4588002,9.9780083,2022-05-02 14:25:04
-74103,DE,2022-05-02,17:30:00,4000,Düsseldorf,Johannes Rau Platz,Spaziergang,,Privat,,51.219092200000006,6.767028235140621,2022-05-02 14:25:04
-73910,DE,2022-05-02,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,unbekannt,,47.67030905,9.586421199708216,2022-05-02 14:25:04
-74129,DE,2022-05-02,18:00:00,75334,Straubenhardt-Feldrennach,Rathaus,Spaziergang,,Feldrennach vernetzt,,48.8553419,8.5311424,2022-05-02 14:25:04
-73628,DE,2022-05-02,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,,,47.998186950000004,11.341840182183248,2022-05-02 14:25:04
-74126,DE,2022-05-02,18:00:00,74523,Schwäbisch Hall,Marktplatz,Spaziergang,,,,49.1123819,9.73721257848682,2022-05-02 14:25:04
-74066,DE,2022-05-02,18:00:00,40885,Ratingen-Lintorf,Kirche - St. Anna (am Markt),Spaziergang,,Privat,,51.333258,6.8312298,2022-05-02 14:25:04
-73874,DE,2022-05-02,18:00:00,6249,Mücheln,Markt,Spaziergang,,freie Menschen,,51.346277,11.7514353,2022-05-02 14:25:04
-74154,DE,2022-05-02,18:00:00,32423,Minden,Marktplatz vor dem Rathaus,Demonstration,,Private Veranstaltung,,52.2881045,8.9168852,2022-05-02 14:25:04
-74075,DE,2022-05-02,18:00:00,53894,Mechernich,Zum Markt 12 / ggü. Post,Spaziergang,,,https://t.me/wirkreiseuskirchen,50.5909999,6.6525479,2022-05-02 14:25:04
-74145,DE,2022-05-02,18:00:00,69256,Mauer,Rathaus,Spaziergang,,,,49.34175055,8.797823443741516,2022-05-02 14:25:04
-74127,DE,2022-05-02,18:00:00,85570,Markt Schwaben,Marktplatz,Spaziergang,,,,48.190927,11.8688663,2022-05-02 14:25:04
-74113,DE,2022-05-02,18:00:00,87435,Kempten,Hildegardplatz,Aufzug,,,,47.7277528,10.3118719,2022-05-02 14:25:04
-74119,DE,2022-05-02,18:00:00,87435,Kempten,Hildegardplatz,Aufzug,,,,47.7277528,10.3118719,2022-05-02 14:25:04
-74130,DE,2022-05-02,18:00:00,87435,Kempten,Hildegardplatz,Spaziergang,,,,47.7277528,10.3118719,2022-05-02 14:25:04
-74132,DE,2022-05-02,18:00:00,87435,Kempten,Hildegardplatz,Spaziergang,,,,47.7277528,10.3118719,2022-05-02 14:25:04
-74152,DE,2022-05-02,18:00:00,87435,Kempten,Hildegardplatz,Aufzug,,,,47.7277528,10.3118719,2022-05-02 14:25:04
-74159,DE,2022-05-02,18:00:00,76133,Karlsruhe,Stephanplatz/ hinter Postgaler,Spaziergang,Angemeldet,Unbekannt,,49.0068705,8.4034195,2022-05-02 14:25:04
-74008,DE,2022-05-02,18:00:00,64521,Groß-Gerau,Marktplatz,Spaziergang,,unbekannt,,49.9186745,8.4855868,2022-05-02 14:25:04
-73687,DE,2022-05-02,18:00:00,35390,Gießen,Rathausplatz,Mahnwache,,Privat,,50.5517325,8.7739551,2022-05-02 14:25:04
-74137,DE,2022-05-02,18:00:00,1239,Dresden,Niedersedlitz / Feuerwehr,Spaziergang,,,,50.997747950000004,13.820385567235924,2022-05-02 14:25:04
-74136,DE,2022-05-02,18:00:00,1157,Dresden,Cotta / Hebbelplatz,Spaziergang,,,,,,2022-05-02 14:25:04
-74135,DE,2022-05-02,18:00:00,1324,Dresden,Bühlau / Bibliothek,Spaziergang,,,,51.0616248,13.8488284,2022-05-02 14:25:04
-74143,DE,2022-05-02,18:00:00,1744,Dippoldiswalde,Parksäle,Spaziergang,,,,50.89757985,13.663527952055022,2022-05-02 14:25:04
-74061,DE,2022-05-02,18:03:00,17358,Torgelow,Rathaus,Kundgebung,,,,53.630552,14.0124463,2022-05-02 14:25:04
-73774,DE,2022-05-02,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-05-02 14:25:04
-74073,DE,2022-05-02,18:30:00,82467,Garmisch-Partenkirchen,Kurpark/Fußgängerzone,Spaziergang,,,,47.4923741,11.0962815,2022-05-02 14:25:04
-73491,DE,2022-05-02,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf,52.624056,10.081052,2022-05-02 14:25:04
-73492,DE,2022-05-02,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf,52.624056,10.081052,2022-05-02 14:25:04
-73871,DE,2022-05-02,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,,51.52088485,6.9255365117204075,2022-05-02 14:25:04
-74123,DE,2022-05-02,18:30:00,54470,Bernkastel-Kues,VG Verwaltung,Spaziergang,,,,49.9157398,7.0708181,2022-05-02 14:25:04
-74142,DE,2022-05-02,18:30:00,1728,Bannewitz,Bürgerhaus,Spaziergang,,,,50.994111,13.7228726,2022-05-02 14:25:04
-74086,DE,2022-05-02,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,,51.0228736,11.5134688,2022-05-02 14:25:04
-72671,DE,2022-05-02,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-05-02 14:25:04
-73940,DE,2022-05-02,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,,53.5271438,8.1102415,2022-05-02 14:25:04
-74108,DE,2022-05-02,19:00:00,1445,Radebeul,Ostbahnhof,Spaziergang,,,,,,2022-05-02 14:25:04
-73328,DE,2022-05-02,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,,47.8536966,12.344366340988024,2022-05-02 14:25:04
-74012,DE,2022-05-02,19:00:00,99974,Mühlhausen/ Thüringen,Untermarkt,Spaziergang,,unbekannt,,51.2074205,10.4579131,2022-05-02 14:25:04
-74112,DE,2022-05-02,19:00:00,56068,Koblenz,Clemensplatz,Spaziergang,,,,50.3583148,7.6006241,2022-05-02 14:25:04
-74148,DE,2022-05-02,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,,,47.91279,10.6356602,2022-05-02 14:25:04
-74107,DE,2022-05-02,19:00:00,1809,Heidenau,Markt,Spaziergang,,,,50.9808597,13.8635073,2022-05-02 14:25:04
-74134,DE,2022-05-02,19:00:00,1109,Dresden,Klotzsche / Rathaus,Spaziergang,,,,51.1118502,13.7740644,2022-05-02 14:25:04
-74133,DE,2022-05-02,19:00:00,1069,Dresden,Torwirtschaft am Arnhold-Bad,Demonstration,,,,,,2022-05-02 14:25:04
-74106,DE,2022-05-02,19:00:00,1069,Dresden,Torwache / Arnhold-Bad,Demonstration,,,,,,2022-05-02 14:25:04
-74138,DE,2022-05-02,19:00:00,1156,Dresden,Cossebaude B6/Brauergasse,Spaziergang,,,,,,2022-05-02 14:25:04
-74140,DE,2022-05-02,19:00:00,1108,Dresden,Weixdorf / Rathausplatz,Spaziergang,,,,,,2022-05-02 14:25:04
-74141,DE,2022-05-02,19:00:00,1744,Dippoldiswalde,Markt,Spaziergang,,,,50.8381744,13.6757497,2022-05-02 14:25:04
-74128,DE,2022-05-02,19:00:00,76646,Bruchsal,Oppenheimer Platz / Holzmarkt,Aufzug,,Privat Siehe info,,49.123090700000006,8.600245473811665,2022-05-02 14:25:04
-74139,DE,2022-05-02,19:00:00,1708,Bischofswerda,Markt,Spaziergang,,,,,,2022-05-02 14:25:04
-74146,DE,2022-05-02,19:00:00,69245,Bammental,Rathaus,Spaziergang,,,,49.3558415,8.7758843,2022-05-02 14:25:04
-74085,DE,2022-05-02,19:30:00,83119,Obing,Rathaus,Spaziergang,,unbekannt,,48.0361831,12.4624367,2022-05-02 14:25:04
-74114,DE,2022-05-04,18:00:00,80333,München,Kö,Aufzug,,,,48.1371079,11.5753822,2022-05-02 14:25:04
-74153,DE,2022-05-04,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html,50.200671,8.5829038,2022-05-02 14:25:04
-74110,DE,2022-05-04,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html,50.200671,8.5829038,2022-05-02 14:25:04
-74147,DE,2022-05-04,19:00:00,74933,Neidenstein,van Venningen Halle,Spaziergang,,,,49.3167,8.88472,2022-05-02 14:25:04
-74124,DE,2022-05-04,19:00:00,6618,Naumburg,Vogelwiese,Demonstration,,Naumburg zeigt Gesicht !,,51.1495985,11.8130355,2022-05-02 14:25:04
-74131,DE,2022-05-05,18:00:00,87700,Memmingen,Schranenplatz,Spaziergang,,,,47.9867696,10.181319,2022-05-02 14:25:04
-73359,DE,2022-05-07,11:00:00,84028,Landshut,Isarpromenade ab Ländtor,Menschenkette,,unbekannt,,48.536217,12.1516551,2022-05-02 14:25:04
-73733,DE,2022-05-07,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf,52.626147,10.079557,2022-05-02 14:25:04
-73734,DE,2022-05-07,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,https://t.me/cellestehtauf,52.62254355,10.080800033509767,2022-05-02 14:25:04
-73685,DE,2022-05-07,14:00:00,80333,München,Königsplatz,Aufzug,,München-steht-auf und viele mehr,www.muenchen-steht-auf.de,48.1457741,11.5653095,2022-05-02 14:25:04
-73433,DE,2022-05-07,14:30:00,70373,Stuttgart,Oberer Schloßarten,Aufzug,,Offene Gesellschaft Kurpfalz,https://offene-gesellschaft-kurpfalz.de/,,,2022-05-02 14:25:04
-73959,DE,2022-05-07,14:30:00,70173,Stuttgart,Oberer Schlossgarten / beim Hbf,Aufzug,https://dlive.tv/schwaeble_on_tour,Offges,https://offene-gesellschaft-kurpfalz.de/,48.7784485,9.1800132,2022-05-02 14:25:04
-73358,DE,2022-05-07,17:00:00,84028,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,,Kraftquelle Gebet Landshut,,48.536217,12.1516551,2022-05-02 14:25:04
-74115,DE,2022-05-09,09:00:00,12435,Berlin,Siegesdenkmal,Kundgebung,,,,52.5170365,13.3888599,2022-05-02 14:25:04
-74155,DE,2022-05-09,18:00:00,32423,Minden,Marktplatz vor dem Rathaus,Demonstration,,Private Veranstaltung,,52.2881045,8.9168852,2022-05-02 14:25:04
-73775,DE,2022-05-09,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-05-02 14:25:04
-74087,DE,2022-05-09,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,,51.0228736,11.5134688,2022-05-02 14:25:04
-72672,DE,2022-05-09,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-05-02 14:25:04
-74149,DE,2022-05-09,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,,53.5284913,8.1097734,2022-05-02 14:25:04
-73329,DE,2022-05-09,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,,47.8536966,12.344366340988024,2022-05-02 14:25:04
-74120,DE,2022-05-14,14:00:00,30159,Hannover,Opernplatz,Kundgebung,,walk of freedom Hannover,,52.3737402,9.7400271,2022-05-02 14:25:04
-74156,DE,2022-05-16,18:00:00,32423,Minden,Marktplatz vor dem Rathaus,Demonstration,,Privat angemeldete Veranstaltung,,52.2881045,8.9168852,2022-05-02 14:25:04
-73776,DE,2022-05-16,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-05-02 14:25:04
-74088,DE,2022-05-16,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,,51.0228736,11.5134688,2022-05-02 14:25:04
-72673,DE,2022-05-16,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-05-02 14:25:04
-74150,DE,2022-05-16,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,,53.5284913,8.1097734,2022-05-02 14:25:04
-73330,DE,2022-05-16,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,,47.8536966,12.344366340988024,2022-05-02 14:25:04
-73333,DE,2022-05-16,19:00:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,unbekannt,,47.8541669,12.3455493,2022-05-02 14:25:04
-74157,DE,2022-05-23,18:00:00,32423,Minden,Marktplatz vor dem Rathaus,Demonstration,,Privat angemeldete Veranstaltung,,52.2881045,8.9168852,2022-05-02 14:25:04
-73777,DE,2022-05-23,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-05-02 14:25:04
-74089,DE,2022-05-23,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,,51.0228736,11.5134688,2022-05-02 14:25:04
-72674,DE,2022-05-23,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-05-02 14:25:04
-74151,DE,2022-05-23,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,,53.5284913,8.1097734,2022-05-02 14:25:04
-73331,DE,2022-05-23,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,,47.8536966,12.344366340988024,2022-05-02 14:25:04
-74062,DE,2022-05-27,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2022-05-02 14:25:04
-73335,DE,2022-05-30,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,unbekannt,,47.8541669,12.3455493,2022-05-02 14:25:04
-74158,DE,2022-05-30,18:00:00,32423,Minden,Marktplatz vor dem Rathaus,Demonstration,,Privat angemeldete Veranstaltung,,52.2881045,8.9168852,2022-05-02 14:25:04
-73778,DE,2022-05-30,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-05-02 14:25:04
-74090,DE,2022-05-30,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,,51.0228736,11.5134688,2022-05-02 14:25:04
-72675,DE,2022-05-30,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-05-02 14:25:04
-73332,DE,2022-05-30,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,,47.8536966,12.344366340988024,2022-05-02 14:25:04
-73337,DE,2022-06-06,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,unbekannt,,47.8541669,12.3455493,2022-05-02 14:25:04
-73779,DE,2022-06-06,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-05-02 14:25:04
-74091,DE,2022-06-06,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,,51.0228736,11.5134688,2022-05-02 14:25:04
-73338,DE,2022-06-11,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,Chiemgau Gemeinsam,http://chiemgau-gemeinsam.de,47.8541669,12.3455493,2022-05-02 14:25:04
-73780,DE,2022-06-13,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-05-02 14:25:04
-74092,DE,2022-06-13,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,,51.0228736,11.5134688,2022-05-02 14:25:04
-73781,DE,2022-06-20,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-05-02 14:25:04
-74093,DE,2022-06-20,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,,51.0228736,11.5134688,2022-05-02 14:25:04
-72500,DE,2022-06-25,15:00:00,60329,Frankfurt,Taunusanlage/Gallusanlage,Aufzug,,unbekannt,,50.1106444,8.6820917,2022-05-02 14:25:04
-73782,DE,2022-06-27,18:30:00,63225,Langen (Hessen),Bahnstrasse/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-05-02 14:25:04
-74094,DE,2022-06-27,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,,51.0228736,11.5134688,2022-05-02 14:25:04
-73924,DE,2022-07-04,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,,49.99029585,8.665774691225673,2022-05-02 14:25:04
-73925,DE,2022-07-11,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,,49.99029585,8.665774691225673,2022-05-02 14:25:04
-73926,DE,2022-07-18,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,,49.99029585,8.665774691225673,2022-05-02 14:25:04
-3890,DE,2022-07-19,18:00:00,33098,Paderborn,Rathausplatz,Kundgebung,,unbekannt,,51.7169744,8.7538304,2022-05-02 14:25:04
-73927,DE,2022-07-25,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,,49.99029585,8.665774691225673,2022-05-02 14:25:04
-66925,AT,2022-08-01,15:00:00,7000,Eisenstadt,Laschoberstrasse 48,Kundgebung,,unbekannt,,47.8404053,16.5256712,2022-05-02 14:25:04
-71924,DE,2022-10-02,14:00:00,88718,Meersburg,Am Bodensee,Sonstiges,,Buergerdialog-Konstanz,http://www.friedensee.eu,47.6760185,9.3113752,2022-05-02 14:25:04
-69511,DE,2022-10-20,18:30:00,60389,Frankfurt Bornheim,Günthersburgpark,Aufzug,,unbekannt,https://t.me/ffmfreiheit,50.1304742,8.7051121,2022-05-02 14:25:04
-55107,DE,2022-12-18,13:45:00,70182,Stuttgart,Wilhelmsplatz,Kundgebung,,unbekannt,,48.7709861,9.1788068,2022-05-02 14:25:04
-73995,DE,2022-12-25,19:00:00,1809,Heidenau,Markt,Demonstration,,unbekannt,,50.9808597,13.8635073,2022-05-02 14:25:04
-55530,DE,2022-12-27,18:00:00,94072,Bad Füssing,Kurplatz / Kurallee,Spaziergang,,unbekannt,,48.3506733,13.3095441,2022-05-02 14:25:04
-69431,DE,2922-01-17,19:00:00,50667,Köln,Roncalliplatz/Domplatte,Spaziergang,,unbekannt,,50.938361,6.959974,2022-05-02 14:25:04
+74084,DE,2022-05-02,17:00:00,4000,Düsseldorf,Johannes Rau Platz,Spaziergang,,unbekannt,,51.219092200000006,6.767028235140621,2022-05-02 15:25:04
+74098,DE,2022-05-02,17:30:00,21073,Hamburg,Harburger Rathausplatz,Spaziergang,,unbekannt,,53.4588002,9.9780083,2022-05-02 15:25:04
+74103,DE,2022-05-02,17:30:00,4000,Düsseldorf,Johannes Rau Platz,Spaziergang,,Privat,,51.219092200000006,6.767028235140621,2022-05-02 15:25:04
+73910,DE,2022-05-02,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,unbekannt,,47.67030905,9.586421199708216,2022-05-02 15:25:04
+74129,DE,2022-05-02,18:00:00,75334,Straubenhardt-Feldrennach,Rathaus,Spaziergang,,Feldrennach vernetzt,,48.8553419,8.5311424,2022-05-02 15:25:04
+73628,DE,2022-05-02,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,,,47.998186950000004,11.341840182183248,2022-05-02 15:25:04
+74126,DE,2022-05-02,18:00:00,74523,Schwäbisch Hall,Marktplatz,Spaziergang,,,,49.1123819,9.73721257848682,2022-05-02 15:25:04
+74066,DE,2022-05-02,18:00:00,40885,Ratingen-Lintorf,Kirche - St. Anna (am Markt),Spaziergang,,Privat,,51.333258,6.8312298,2022-05-02 15:25:04
+73874,DE,2022-05-02,18:00:00,6249,Mücheln,Markt,Spaziergang,,freie Menschen,,51.346277,11.7514353,2022-05-02 15:25:04
+74154,DE,2022-05-02,18:00:00,32423,Minden,Marktplatz vor dem Rathaus,Demonstration,,Private Veranstaltung,,52.2881045,8.9168852,2022-05-02 15:25:04
+74075,DE,2022-05-02,18:00:00,53894,Mechernich,Zum Markt 12 / ggü. Post,Spaziergang,,,https://t.me/wirkreiseuskirchen,50.5909999,6.6525479,2022-05-02 15:25:04
+74145,DE,2022-05-02,18:00:00,69256,Mauer,Rathaus,Spaziergang,,,,49.34175055,8.797823443741516,2022-05-02 15:25:04
+74127,DE,2022-05-02,18:00:00,85570,Markt Schwaben,Marktplatz,Spaziergang,,,,48.190927,11.8688663,2022-05-02 15:25:04
+74113,DE,2022-05-02,18:00:00,87435,Kempten,Hildegardplatz,Aufzug,,,,47.7277528,10.3118719,2022-05-02 15:25:04
+74119,DE,2022-05-02,18:00:00,87435,Kempten,Hildegardplatz,Aufzug,,,,47.7277528,10.3118719,2022-05-02 15:25:04
+74130,DE,2022-05-02,18:00:00,87435,Kempten,Hildegardplatz,Spaziergang,,,,47.7277528,10.3118719,2022-05-02 15:25:04
+74132,DE,2022-05-02,18:00:00,87435,Kempten,Hildegardplatz,Spaziergang,,,,47.7277528,10.3118719,2022-05-02 15:25:04
+74152,DE,2022-05-02,18:00:00,87435,Kempten,Hildegardplatz,Aufzug,,,,47.7277528,10.3118719,2022-05-02 15:25:04
+74159,DE,2022-05-02,18:00:00,76133,Karlsruhe,Stephanplatz/ hinter Postgaler,Spaziergang,Angemeldet,Unbekannt,,49.0068705,8.4034195,2022-05-02 15:25:04
+74008,DE,2022-05-02,18:00:00,64521,Groß-Gerau,Marktplatz,Spaziergang,,unbekannt,,49.9186745,8.4855868,2022-05-02 15:25:04
+73687,DE,2022-05-02,18:00:00,35390,Gießen,Rathausplatz,Mahnwache,,Privat,,50.5517325,8.7739551,2022-05-02 15:25:04
+74137,DE,2022-05-02,18:00:00,1239,Dresden,Niedersedlitz / Feuerwehr,Spaziergang,,,,50.997747950000004,13.820385567235924,2022-05-02 15:25:04
+74136,DE,2022-05-02,18:00:00,1157,Dresden,Cotta / Hebbelplatz,Spaziergang,,,,,,2022-05-02 15:25:04
+74135,DE,2022-05-02,18:00:00,1324,Dresden,Bühlau / Bibliothek,Spaziergang,,,,51.0616248,13.8488284,2022-05-02 15:25:04
+74143,DE,2022-05-02,18:00:00,1744,Dippoldiswalde,Parksäle,Spaziergang,,,,50.89757985,13.663527952055022,2022-05-02 15:25:04
+74061,DE,2022-05-02,18:03:00,17358,Torgelow,Rathaus,Kundgebung,,,,53.630552,14.0124463,2022-05-02 15:25:04
+73774,DE,2022-05-02,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-05-02 15:25:04
+74073,DE,2022-05-02,18:30:00,82467,Garmisch-Partenkirchen,Kurpark/Fußgängerzone,Spaziergang,,,,47.4923741,11.0962815,2022-05-02 15:25:04
+73491,DE,2022-05-02,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf,52.624056,10.081052,2022-05-02 15:25:04
+73492,DE,2022-05-02,18:30:00,29221,Celle,Innenstadt,Spaziergang,https://www.celle-tourismus.de/planen-buchen/webcam-celle,Das Volk,https://t.me/cellestehtauf,52.624056,10.081052,2022-05-02 15:25:04
+73871,DE,2022-05-02,18:30:00,46236,Bottrop,Kirchplatz 1,Spaziergang,,Freiheitsboten Bottrop,,51.52088485,6.9255365117204075,2022-05-02 15:25:04
+74123,DE,2022-05-02,18:30:00,54470,Bernkastel-Kues,VG Verwaltung,Spaziergang,,,,49.9157398,7.0708181,2022-05-02 15:25:04
+74142,DE,2022-05-02,18:30:00,1728,Bannewitz,Bürgerhaus,Spaziergang,,,,50.994111,13.7228726,2022-05-02 15:25:04
+74086,DE,2022-05-02,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,,51.0228736,11.5134688,2022-05-02 15:25:04
+72671,DE,2022-05-02,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-05-02 15:25:04
+73940,DE,2022-05-02,19:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,,53.5271438,8.1102415,2022-05-02 15:25:04
+74108,DE,2022-05-02,19:00:00,1445,Radebeul,Ostbahnhof,Spaziergang,,,,,,2022-05-02 15:25:04
+73328,DE,2022-05-02,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,,47.8536966,12.344366340988024,2022-05-02 15:25:04
+74012,DE,2022-05-02,19:00:00,99974,Mühlhausen/ Thüringen,Untermarkt,Spaziergang,,unbekannt,,51.2074205,10.4579131,2022-05-02 15:25:04
+74112,DE,2022-05-02,19:00:00,56068,Koblenz,Clemensplatz,Spaziergang,,,,50.3583148,7.6006241,2022-05-02 15:25:04
+74148,DE,2022-05-02,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,,,47.91279,10.6356602,2022-05-02 15:25:04
+74107,DE,2022-05-02,19:00:00,1809,Heidenau,Markt,Spaziergang,,,,50.9808597,13.8635073,2022-05-02 15:25:04
+74134,DE,2022-05-02,19:00:00,1109,Dresden,Klotzsche / Rathaus,Spaziergang,,,,51.1118502,13.7740644,2022-05-02 15:25:04
+74133,DE,2022-05-02,19:00:00,1069,Dresden,Torwirtschaft am Arnhold-Bad,Demonstration,,,,,,2022-05-02 15:25:04
+74106,DE,2022-05-02,19:00:00,1069,Dresden,Torwache / Arnhold-Bad,Demonstration,,,,,,2022-05-02 15:25:04
+74138,DE,2022-05-02,19:00:00,1156,Dresden,Cossebaude B6/Brauergasse,Spaziergang,,,,,,2022-05-02 15:25:04
+74140,DE,2022-05-02,19:00:00,1108,Dresden,Weixdorf / Rathausplatz,Spaziergang,,,,,,2022-05-02 15:25:04
+74141,DE,2022-05-02,19:00:00,1744,Dippoldiswalde,Markt,Spaziergang,,,,50.8381744,13.6757497,2022-05-02 15:25:04
+74128,DE,2022-05-02,19:00:00,76646,Bruchsal,Oppenheimer Platz / Holzmarkt,Aufzug,,Privat Siehe info,,49.123090700000006,8.600245473811665,2022-05-02 15:25:04
+74139,DE,2022-05-02,19:00:00,1708,Bischofswerda,Markt,Spaziergang,,,,,,2022-05-02 15:25:04
+74146,DE,2022-05-02,19:00:00,69245,Bammental,Rathaus,Spaziergang,,,,49.3558415,8.7758843,2022-05-02 15:25:04
+74085,DE,2022-05-02,19:30:00,83119,Obing,Rathaus,Spaziergang,,unbekannt,,48.0361831,12.4624367,2022-05-02 15:25:04
+74114,DE,2022-05-04,18:00:00,80333,München,Kö,Aufzug,,,,48.1371079,11.5753822,2022-05-02 15:25:04
+74153,DE,2022-05-04,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html,50.200671,8.5829038,2022-05-02 15:25:04
+74110,DE,2022-05-04,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html,50.200671,8.5829038,2022-05-02 15:25:04
+74147,DE,2022-05-04,19:00:00,74933,Neidenstein,van Venningen Halle,Spaziergang,,,,49.3167,8.88472,2022-05-02 15:25:04
+74124,DE,2022-05-04,19:00:00,6618,Naumburg,Vogelwiese,Demonstration,,Naumburg zeigt Gesicht !,,51.1495985,11.8130355,2022-05-02 15:25:04
+74131,DE,2022-05-05,18:00:00,87700,Memmingen,Schranenplatz,Spaziergang,,,,47.9867696,10.181319,2022-05-02 15:25:04
+73359,DE,2022-05-07,11:00:00,84028,Landshut,Isarpromenade ab Ländtor,Menschenkette,,unbekannt,,48.536217,12.1516551,2022-05-02 15:25:04
+73733,DE,2022-05-07,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf,52.626147,10.079557,2022-05-02 15:25:04
+73734,DE,2022-05-07,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,https://t.me/cellestehtauf,52.62254355,10.080800033509767,2022-05-02 15:25:04
+73685,DE,2022-05-07,14:00:00,80333,München,Königsplatz,Aufzug,,München-steht-auf und viele mehr,www.muenchen-steht-auf.de,48.1457741,11.5653095,2022-05-02 15:25:04
+73433,DE,2022-05-07,14:30:00,70373,Stuttgart,Oberer Schloßarten,Aufzug,,Offene Gesellschaft Kurpfalz,https://offene-gesellschaft-kurpfalz.de/,,,2022-05-02 15:25:04
+73959,DE,2022-05-07,14:30:00,70173,Stuttgart,Oberer Schlossgarten / beim Hbf,Aufzug,https://dlive.tv/schwaeble_on_tour,Offges,https://offene-gesellschaft-kurpfalz.de/,48.7784485,9.1800132,2022-05-02 15:25:04
+73358,DE,2022-05-07,17:00:00,84028,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,,Kraftquelle Gebet Landshut,,48.536217,12.1516551,2022-05-02 15:25:04
+74115,DE,2022-05-09,09:00:00,12435,Berlin,Siegesdenkmal,Kundgebung,,,,52.5170365,13.3888599,2022-05-02 15:25:04
+74155,DE,2022-05-09,18:00:00,32423,Minden,Marktplatz vor dem Rathaus,Demonstration,,Private Veranstaltung,,52.2881045,8.9168852,2022-05-02 15:25:04
+73775,DE,2022-05-09,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-05-02 15:25:04
+74087,DE,2022-05-09,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,,51.0228736,11.5134688,2022-05-02 15:25:04
+72672,DE,2022-05-09,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-05-02 15:25:04
+74149,DE,2022-05-09,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,,53.5284913,8.1097734,2022-05-02 15:25:04
+73329,DE,2022-05-09,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,,47.8536966,12.344366340988024,2022-05-02 15:25:04
+74120,DE,2022-05-14,14:00:00,30159,Hannover,Opernplatz,Kundgebung,,walk of freedom Hannover,,52.3737402,9.7400271,2022-05-02 15:25:04
+74156,DE,2022-05-16,18:00:00,32423,Minden,Marktplatz vor dem Rathaus,Demonstration,,Privat angemeldete Veranstaltung,,52.2881045,8.9168852,2022-05-02 15:25:04
+73776,DE,2022-05-16,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-05-02 15:25:04
+74088,DE,2022-05-16,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,,51.0228736,11.5134688,2022-05-02 15:25:04
+72673,DE,2022-05-16,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-05-02 15:25:04
+74150,DE,2022-05-16,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,,53.5284913,8.1097734,2022-05-02 15:25:04
+73330,DE,2022-05-16,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,,47.8536966,12.344366340988024,2022-05-02 15:25:04
+73333,DE,2022-05-16,19:00:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,unbekannt,,47.8541669,12.3455493,2022-05-02 15:25:04
+74157,DE,2022-05-23,18:00:00,32423,Minden,Marktplatz vor dem Rathaus,Demonstration,,Privat angemeldete Veranstaltung,,52.2881045,8.9168852,2022-05-02 15:25:04
+73777,DE,2022-05-23,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-05-02 15:25:04
+74089,DE,2022-05-23,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,,51.0228736,11.5134688,2022-05-02 15:25:04
+72674,DE,2022-05-23,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-05-02 15:25:04
+74151,DE,2022-05-23,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,,53.5284913,8.1097734,2022-05-02 15:25:04
+73331,DE,2022-05-23,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,,47.8536966,12.344366340988024,2022-05-02 15:25:04
+74062,DE,2022-05-27,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2022-05-02 15:25:04
+73335,DE,2022-05-30,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,unbekannt,,47.8541669,12.3455493,2022-05-02 15:25:04
+74158,DE,2022-05-30,18:00:00,32423,Minden,Marktplatz vor dem Rathaus,Demonstration,,Privat angemeldete Veranstaltung,,52.2881045,8.9168852,2022-05-02 15:25:04
+73778,DE,2022-05-30,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-05-02 15:25:04
+74090,DE,2022-05-30,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,,51.0228736,11.5134688,2022-05-02 15:25:04
+72675,DE,2022-05-30,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-05-02 15:25:04
+73332,DE,2022-05-30,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,,47.8536966,12.344366340988024,2022-05-02 15:25:04
+73337,DE,2022-06-06,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,unbekannt,,47.8541669,12.3455493,2022-05-02 15:25:04
+73779,DE,2022-06-06,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-05-02 15:25:04
+74091,DE,2022-06-06,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,,51.0228736,11.5134688,2022-05-02 15:25:04
+73338,DE,2022-06-11,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,Chiemgau Gemeinsam,http://chiemgau-gemeinsam.de,47.8541669,12.3455493,2022-05-02 15:25:04
+73780,DE,2022-06-13,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-05-02 15:25:04
+74092,DE,2022-06-13,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,,51.0228736,11.5134688,2022-05-02 15:25:04
+73781,DE,2022-06-20,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-05-02 15:25:04
+74093,DE,2022-06-20,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,,51.0228736,11.5134688,2022-05-02 15:25:04
+72500,DE,2022-06-25,15:00:00,60329,Frankfurt,Taunusanlage/Gallusanlage,Aufzug,,unbekannt,,50.1106444,8.6820917,2022-05-02 15:25:04
+73782,DE,2022-06-27,18:30:00,63225,Langen (Hessen),Bahnstrasse/Ecke Goethestraße,Spaziergang,,unbekannt,,49.99029585,8.665774691225673,2022-05-02 15:25:04
+74094,DE,2022-06-27,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,,51.0228736,11.5134688,2022-05-02 15:25:04
+73924,DE,2022-07-04,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,,49.99029585,8.665774691225673,2022-05-02 15:25:04
+73925,DE,2022-07-11,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,,49.99029585,8.665774691225673,2022-05-02 15:25:04
+73926,DE,2022-07-18,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,,49.99029585,8.665774691225673,2022-05-02 15:25:04
+3890,DE,2022-07-19,18:00:00,33098,Paderborn,Rathausplatz,Kundgebung,,unbekannt,,51.7169744,8.7538304,2022-05-02 15:25:04
+73927,DE,2022-07-25,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,,49.99029585,8.665774691225673,2022-05-02 15:25:04
+66925,AT,2022-08-01,15:00:00,7000,Eisenstadt,Laschoberstrasse 48,Kundgebung,,unbekannt,,47.8404053,16.5256712,2022-05-02 15:25:04
+71924,DE,2022-10-02,14:00:00,88718,Meersburg,Am Bodensee,Sonstiges,,Buergerdialog-Konstanz,http://www.friedensee.eu,47.6760185,9.3113752,2022-05-02 15:25:04
+69511,DE,2022-10-20,18:30:00,60389,Frankfurt Bornheim,Günthersburgpark,Aufzug,,unbekannt,https://t.me/ffmfreiheit,50.1304742,8.7051121,2022-05-02 15:25:04
+55107,DE,2022-12-18,13:45:00,70182,Stuttgart,Wilhelmsplatz,Kundgebung,,unbekannt,,48.7709861,9.1788068,2022-05-02 15:25:04
+73995,DE,2022-12-25,19:00:00,1809,Heidenau,Markt,Demonstration,,unbekannt,,50.9808597,13.8635073,2022-05-02 15:25:04
+55530,DE,2022-12-27,18:00:00,94072,Bad Füssing,Kurplatz / Kurallee,Spaziergang,,unbekannt,,48.3506733,13.3095441,2022-05-02 15:25:04
+69431,DE,2922-01-17,19:00:00,50667,Köln,Roncalliplatz/Domplatte,Spaziergang,,unbekannt,,50.938361,6.959974,2022-05-02 15:25:04
