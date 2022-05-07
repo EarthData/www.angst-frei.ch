@@ -1,22 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-74236,DE,2022-05-07,10:00:00,48431,Rheine,Vor dem Radio RST Gebäude,Kundgebung,,,
-73359,DE,2022-05-07,11:00:00,84028,Landshut,Isarpromenade ab Ländtor,Menschenkette,,unbekannt,
-73733,DE,2022-05-07,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,https://t.me/cellestehtauf
-73734,DE,2022-05-07,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,https://t.me/cellestehtauf
-74216,DE,2022-05-07,12:30:00,64283,Darmstadt,Mathildenplatz,Aufzug,,QD615 & FRANKFURTER FREIHEITSSÄNGER,t.me/querdenken_615
-74198,DE,2022-05-07,13:00:00,4000,Düsseldorf,Aquazoo Nordpark,Fahrraddemo,,,
-74206,DE,2022-05-07,14:00:00,64385,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Zusammenkunft,,,
-73685,DE,2022-05-07,14:00:00,80333,München,Königsplatz,Aufzug,,München-steht-auf und viele mehr,www.muenchen-steht-auf.de
-74232,DE,2022-05-07,14:00:00,79098,Freiburg,Konzerthaus gegenüber Hbf,Aufzug,,FreiSein Freiburg,
-73959,DE,2022-05-07,14:30:00,70173,Stuttgart,Oberer Schlossgarten / beim Hbf,Aufzug,https://dlive.tv/schwaeble_on_tour,Offges,https://offene-gesellschaft-kurpfalz.de/
-73433,DE,2022-05-07,14:30:00,70373,Stuttgart,Oberer Schloßarten,Aufzug,,Offene Gesellschaft Kurpfalz,https://offene-gesellschaft-kurpfalz.de/
-74200,DE,2022-05-07,14:30:00,27628,Hagen im Bremischen,Parkplatz Amtsplatz/Burgallee,Aufzug,,Bremerhaven bleibt stark,
-74233,DE,2022-05-07,15:00:00,50667,Köln,Roncalli Platz,Demonstration,,APO Düsseldorf,www.aponrw.de
-74194,DE,2022-05-07,15:00:00,50667,Köln,Roncalliplatz,Aufzug,,APO - Düsseldorf,Aponrw.de
-74235,DE,2022-05-07,15:00:00,20095,Hamburg,Kunsthalle Ernst-Merk-Str.,Aufzug,,,https://t.me/DemoKunsthalle
-74196,DE,2022-05-07,15:30:00,4000,Düsseldorf,Burg Platz,Spaziergang,,,
-73358,DE,2022-05-07,17:00:00,84028,Landshut,Freyung / St.-Jodok-Vorplatz,Gebet,,Kraftquelle Gebet Landshut,
-74228,DE,2022-05-07,18:00:00,73326,Deggingen,Rathaus,Gegenprotest,,,
 74197,DE,2022-05-08,13:00:00,4000,Düsseldorf,Aquazoo Nordpark,Autokorso,,,
 74190,DE,2022-05-08,14:00:00,76530,Baden-Baden,Augustaplatz,Demonstration,,BI aufRECHT:FREIdenken Mittelbaden,http://www.solidarnosch.de/covid-19.htm
 74188,DE,2022-05-08,15:00:00,76726,Germersheim,Luitpoldplatz,Spaziergang,,,
@@ -63,8 +45,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74088,DE,2022-05-16,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 72673,DE,2022-05-16,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 74150,DE,2022-05-16,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
-73330,DE,2022-05-16,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,
 73333,DE,2022-05-16,19:00:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,unbekannt,
+73330,DE,2022-05-16,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,
 74211,DE,2022-05-23,18:00:00,74523,Schwäbisch Hall,Globe Theater,Spaziergang,,,
 74157,DE,2022-05-23,18:00:00,32423,Minden,Marktplatz vor dem Rathaus,Demonstration,,Privat angemeldete Veranstaltung,
 73777,DE,2022-05-23,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,
