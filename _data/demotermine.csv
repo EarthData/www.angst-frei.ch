@@ -1,10 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-74197,DE,2022-05-08,13:00:00,4000,Düsseldorf,Aquazoo Nordpark,Autokorso,,,
-74190,DE,2022-05-08,14:00:00,76530,Baden-Baden,Augustaplatz,Demonstration,,BI aufRECHT:FREIdenken Mittelbaden,http://www.solidarnosch.de/covid-19.htm
-74188,DE,2022-05-08,15:00:00,76726,Germersheim,Luitpoldplatz,Spaziergang,,,
-74203,DE,2022-05-08,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,,
-74240,DE,2022-05-08,17:30:00,88094,Oberteuringen,Franz-Roth-Platz,Spaziergang,,,
-74224,DE,2022-05-08,18:00:00,31275,Lehrte,Brunnen Burgdorfer Straße,Zusammenkunft,,Freies Lehrte,https://t.me/freieslehrte
 74115,DE,2022-05-09,09:00:00,12435,Berlin,Siegesdenkmal,Kundgebung,,,
 74218,DE,2022-05-09,17:00:00,01728,Bannewitz,Bürgerpicknick im Park,Versammlung,,,
 74225,DE,2022-05-09,17:30:00,21073,Hamburg-Harburg,Harburger Rathausplatz,Spaziergang,,,
@@ -55,8 +49,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73333,DE,2022-05-16,19:00:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,unbekannt,
 73330,DE,2022-05-16,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,
 74247,DE,2022-05-20,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
-74249,DE,2022-05-23,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 74248,DE,2022-05-23,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
+74249,DE,2022-05-23,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 74211,DE,2022-05-23,18:00:00,74523,Schwäbisch Hall,Globe Theater,Spaziergang,,,
 74157,DE,2022-05-23,18:00:00,32423,Minden,Marktplatz vor dem Rathaus,Demonstration,,Privat angemeldete Veranstaltung,
 73777,DE,2022-05-23,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,
