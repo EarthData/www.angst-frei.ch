@@ -1,8 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-74283,DE,2022-05-14,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf
-74227,DE,2022-05-14,13:00:00,70174,Stuttgart,Stadtgarten Universitätscampus,Kundgebung,,angemeldet (+bestätigt durch die Stadt Stuttgart) durch Privatperson (Mitglied von dieBasis Stuttgart),
-74120,DE,2022-05-14,14:00:00,30159,Hannover,Opernplatz,Kundgebung,,walk of freedom Hannover,
-74226,DE,2022-05-14,14:00:00,85435,Erding,Schrannenplatz,Parteitag,,,
 74315,DE,2022-05-15,15:00:00,76726,Germersheim,Luitpoldplatz,Spaziergang,,,
 74204,DE,2022-05-15,15:00:00,27472,Cuxhaven,Kaemmererplatz,Spaziergang,,,
 74246,DE,2022-05-16,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
@@ -11,8 +7,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74156,DE,2022-05-16,18:00:00,32423,Minden,Marktplatz vor dem Rathaus,Demonstration,,Privat angemeldete Veranstaltung,
 74254,DE,2022-05-16,18:00:00,28203,Bremen,Nelson Mandela Park beim Elefa,Musik,,,
 73776,DE,2022-05-16,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,
-74277,DE,2022-05-16,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74282,DE,2022-05-16,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+74277,DE,2022-05-16,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74088,DE,2022-05-16,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 72673,DE,2022-05-16,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 74150,DE,2022-05-16,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
@@ -32,8 +28,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 72674,DE,2022-05-23,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 74151,DE,2022-05-23,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
 73331,DE,2022-05-23,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,
-74250,DE,2022-05-27,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 74251,DE,2022-05-27,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
+74250,DE,2022-05-27,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 74062,DE,2022-05-27,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 74285,DE,2022-05-28,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf
 73335,DE,2022-05-30,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,unbekannt,
