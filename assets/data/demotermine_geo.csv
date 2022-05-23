@@ -1,51 +1,39 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite,latitude,longitude,created
-74249,DE,2022-05-23,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,,47.67030905,9.586421199708216,2022-05-23 23:13:09
-74248,DE,2022-05-23,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,,47.67030905,9.586421199708216,2022-05-23 23:13:09
-74211,DE,2022-05-23,18:00:00,74523,Schwäbisch Hall,Globe Theater,Spaziergang,,,,49.1105613,9.735368862286691,2022-05-23 23:13:09
-74263,DE,2022-05-23,18:00:00,87724,Ottobeuren,Rathaus,Spaziergang,,,,47.9706672,10.2659134,2022-05-23 23:13:09
-74157,DE,2022-05-23,18:00:00,32423,Minden,Marktplatz vor dem Rathaus,Demonstration,,Privat angemeldete Veranstaltung,,52.2881045,8.9168852,2022-05-23 23:13:09
-73777,DE,2022-05-23,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.9927036,8.6671682,2022-05-23 23:13:09
-74278,DE,2022-05-23,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf,52.624056,10.081052,2022-05-23 23:13:09
-74281,DE,2022-05-23,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf,52.624056,10.081052,2022-05-23 23:13:09
-74089,DE,2022-05-23,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,,51.0228736,11.5134688,2022-05-23 23:13:09
-72674,DE,2022-05-23,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-05-23 23:13:09
-74151,DE,2022-05-23,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,,53.5284913,8.1097734,2022-05-23 23:13:09
-73331,DE,2022-05-23,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,,47.8536966,12.344366340988024,2022-05-23 23:13:09
-74251,DE,2022-05-27,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,,47.67030905,9.586421199708216,2022-05-23 23:13:09
-74250,DE,2022-05-27,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,,47.67030905,9.586421199708216,2022-05-23 23:13:09
-74062,DE,2022-05-27,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2022-05-23 23:13:09
-74285,DE,2022-05-28,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf,52.62254355,10.080800033509767,2022-05-23 23:13:09
-73335,DE,2022-05-30,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,unbekannt,,47.8541669,12.3455493,2022-05-23 23:13:09
-74252,DE,2022-05-30,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,,47.67030905,9.586421199708216,2022-05-23 23:13:09
-74264,DE,2022-05-30,18:00:00,87724,Ottobeuren,Rathaus,Spaziergang,,,,47.9706672,10.2659134,2022-05-23 23:13:09
-74158,DE,2022-05-30,18:00:00,32423,Minden,Marktplatz vor dem Rathaus,Demonstration,,Privat angemeldete Veranstaltung,,52.2881045,8.9168852,2022-05-23 23:13:09
-73778,DE,2022-05-30,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.9927036,8.6671682,2022-05-23 23:13:09
-74279,DE,2022-05-30,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf,52.624056,10.081052,2022-05-23 23:13:09
-74280,DE,2022-05-30,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf,52.624056,10.081052,2022-05-23 23:13:09
-74090,DE,2022-05-30,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,,51.0228736,11.5134688,2022-05-23 23:13:09
-72675,DE,2022-05-30,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-05-23 23:13:09
-73332,DE,2022-05-30,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,,47.8536966,12.344366340988024,2022-05-23 23:13:09
-74253,DE,2022-06-03,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,,47.67030905,9.586421199708216,2022-05-23 23:13:09
-73337,DE,2022-06-06,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,unbekannt,,47.8541669,12.3455493,2022-05-23 23:13:09
-73779,DE,2022-06-06,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.9927036,8.6671682,2022-05-23 23:13:09
-74091,DE,2022-06-06,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,,51.0228736,11.5134688,2022-05-23 23:13:09
-73338,DE,2022-06-11,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,Chiemgau Gemeinsam,http://chiemgau-gemeinsam.de,47.8541669,12.3455493,2022-05-23 23:13:09
-73780,DE,2022-06-13,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.9927036,8.6671682,2022-05-23 23:13:09
-74092,DE,2022-06-13,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,,51.0228736,11.5134688,2022-05-23 23:13:09
-73781,DE,2022-06-20,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.9927036,8.6671682,2022-05-23 23:13:09
-74093,DE,2022-06-20,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,,51.0228736,11.5134688,2022-05-23 23:13:09
-72500,DE,2022-06-25,15:00:00,60329,Frankfurt,Taunusanlage/Gallusanlage,Aufzug,,unbekannt,,50.1106444,8.6820917,2022-05-23 23:13:09
-73782,DE,2022-06-27,18:30:00,63225,Langen (Hessen),Bahnstrasse/Ecke Goethestraße,Spaziergang,,unbekannt,,49.9927036,8.6671682,2022-05-23 23:13:09
-74094,DE,2022-06-27,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,,51.0228736,11.5134688,2022-05-23 23:13:09
-73924,DE,2022-07-04,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,,49.9927036,8.6671682,2022-05-23 23:13:09
-73925,DE,2022-07-11,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,,49.9927036,8.6671682,2022-05-23 23:13:09
-73926,DE,2022-07-18,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,,49.9927036,8.6671682,2022-05-23 23:13:09
-3890,DE,2022-07-19,18:00:00,33098,Paderborn,Rathausplatz,Kundgebung,,unbekannt,,51.7169744,8.7538304,2022-05-23 23:13:09
-73927,DE,2022-07-25,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,,49.9927036,8.6671682,2022-05-23 23:13:09
-66925,AT,2022-08-01,15:00:00,7000,Eisenstadt,Laschoberstrasse 48,Kundgebung,,unbekannt,,47.8404053,16.5256712,2022-05-23 23:13:09
-71924,DE,2022-10-02,14:00:00,88718,Meersburg,Am Bodensee,Sonstiges,,Buergerdialog-Konstanz,http://www.friedensee.eu,47.6760185,9.3113752,2022-05-23 23:13:09
-69511,DE,2022-10-20,18:30:00,60389,Frankfurt Bornheim,Günthersburgpark,Aufzug,,unbekannt,https://t.me/ffmfreiheit,50.1304742,8.7051121,2022-05-23 23:13:09
-55107,DE,2022-12-18,13:45:00,70182,Stuttgart,Wilhelmsplatz,Kundgebung,,unbekannt,,48.7709861,9.1788068,2022-05-23 23:13:09
-73995,DE,2022-12-25,19:00:00,1809,Heidenau,Markt,Demonstration,,unbekannt,,50.9808597,13.8635073,2022-05-23 23:13:09
-55530,DE,2022-12-27,18:00:00,94072,Bad Füssing,Kurplatz / Kurallee,Spaziergang,,unbekannt,,48.3506733,13.3095441,2022-05-23 23:13:09
-69431,DE,2922-01-17,19:00:00,50667,Köln,Roncalliplatz/Domplatte,Spaziergang,,unbekannt,,50.938361,6.959974,2022-05-23 23:13:09
+74251,DE,2022-05-27,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,,47.67030905,9.586421199708216,2022-05-24 00:11:18
+74250,DE,2022-05-27,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,,47.67030905,9.586421199708216,2022-05-24 00:11:18
+74062,DE,2022-05-27,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2022-05-24 00:11:18
+74285,DE,2022-05-28,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf,52.62254355,10.080800033509767,2022-05-24 00:11:18
+73335,DE,2022-05-30,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,unbekannt,,47.8541669,12.3455493,2022-05-24 00:11:18
+74252,DE,2022-05-30,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,,47.67030905,9.586421199708216,2022-05-24 00:11:18
+74264,DE,2022-05-30,18:00:00,87724,Ottobeuren,Rathaus,Spaziergang,,,,47.9706672,10.2659134,2022-05-24 00:11:18
+74158,DE,2022-05-30,18:00:00,32423,Minden,Marktplatz vor dem Rathaus,Demonstration,,Privat angemeldete Veranstaltung,,52.2881045,8.9168852,2022-05-24 00:11:18
+73778,DE,2022-05-30,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.9927036,8.6671682,2022-05-24 00:11:18
+74279,DE,2022-05-30,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf,52.624056,10.081052,2022-05-24 00:11:18
+74280,DE,2022-05-30,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf,52.624056,10.081052,2022-05-24 00:11:18
+74090,DE,2022-05-30,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,,51.0228736,11.5134688,2022-05-24 00:11:18
+72675,DE,2022-05-30,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-05-24 00:11:18
+73332,DE,2022-05-30,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,unbekannt,,47.8536966,12.344366340988024,2022-05-24 00:11:18
+74253,DE,2022-06-03,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,,47.67030905,9.586421199708216,2022-05-24 00:11:18
+73337,DE,2022-06-06,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,unbekannt,,47.8541669,12.3455493,2022-05-24 00:11:18
+73779,DE,2022-06-06,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.9927036,8.6671682,2022-05-24 00:11:18
+74091,DE,2022-06-06,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,,51.0228736,11.5134688,2022-05-24 00:11:18
+73338,DE,2022-06-11,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,Chiemgau Gemeinsam,http://chiemgau-gemeinsam.de,47.8541669,12.3455493,2022-05-24 00:11:18
+73780,DE,2022-06-13,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.9927036,8.6671682,2022-05-24 00:11:18
+74092,DE,2022-06-13,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,,51.0228736,11.5134688,2022-05-24 00:11:18
+73781,DE,2022-06-20,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,,49.9927036,8.6671682,2022-05-24 00:11:18
+74093,DE,2022-06-20,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,,51.0228736,11.5134688,2022-05-24 00:11:18
+72500,DE,2022-06-25,15:00:00,60329,Frankfurt,Taunusanlage/Gallusanlage,Aufzug,,unbekannt,,50.1106444,8.6820917,2022-05-24 00:11:18
+73782,DE,2022-06-27,18:30:00,63225,Langen (Hessen),Bahnstrasse/Ecke Goethestraße,Spaziergang,,unbekannt,,49.9927036,8.6671682,2022-05-24 00:11:18
+74094,DE,2022-06-27,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,,51.0228736,11.5134688,2022-05-24 00:11:18
+73924,DE,2022-07-04,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,,49.9927036,8.6671682,2022-05-24 00:11:18
+73925,DE,2022-07-11,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,,49.9927036,8.6671682,2022-05-24 00:11:18
+73926,DE,2022-07-18,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,,49.9927036,8.6671682,2022-05-24 00:11:18
+3890,DE,2022-07-19,18:00:00,33098,Paderborn,Rathausplatz,Kundgebung,,unbekannt,,51.7169744,8.7538304,2022-05-24 00:11:18
+73927,DE,2022-07-25,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,,49.9927036,8.6671682,2022-05-24 00:11:18
+66925,AT,2022-08-01,15:00:00,7000,Eisenstadt,Laschoberstrasse 48,Kundgebung,,unbekannt,,47.8404053,16.5256712,2022-05-24 00:11:18
+71924,DE,2022-10-02,14:00:00,88718,Meersburg,Am Bodensee,Sonstiges,,Buergerdialog-Konstanz,http://www.friedensee.eu,47.6760185,9.3113752,2022-05-24 00:11:18
+69511,DE,2022-10-20,18:30:00,60389,Frankfurt Bornheim,Günthersburgpark,Aufzug,,unbekannt,https://t.me/ffmfreiheit,50.1304742,8.7051121,2022-05-24 00:11:18
+55107,DE,2022-12-18,13:45:00,70182,Stuttgart,Wilhelmsplatz,Kundgebung,,unbekannt,,48.7709861,9.1788068,2022-05-24 00:11:18
+73995,DE,2022-12-25,19:00:00,1809,Heidenau,Markt,Demonstration,,unbekannt,,50.9808597,13.8635073,2022-05-24 00:11:18
+55530,DE,2022-12-27,18:00:00,94072,Bad Füssing,Kurplatz / Kurallee,Spaziergang,,unbekannt,,48.3506733,13.3095441,2022-05-24 00:11:18
+69431,DE,2922-01-17,19:00:00,50667,Köln,Roncalliplatz/Domplatte,Spaziergang,,unbekannt,,50.938361,6.959974,2022-05-24 00:11:18
