@@ -8,8 +8,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74253,DE,2022-06-03,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 74447,DE,2022-06-03,18:00:00,70190,Stuttgart,Neckarstraße 230 (vor dem SWR),Kundgebung,https://dlive.tv/schwaeble_on_tour,Politk und Medien Hand in Hand- Das schadet unserem Land,https://t.me/POLITIKundMEDIEN_STUTTGART
 74554,DE,2022-06-03,18:00:00,70190,Stuttgart,Neckarstraße 230,Kundgebung,https://dlive.tv/schwaeble_on_tour,Politik und Medien Hand in Hand, dass schadet unserem Land,https://t.me/POLITIKundMEDIEN_STUTTGART
-74468,DE,2022-06-03,18:00:00,70190,Stuttgart,Neckarstraße 230  (vor dem SWR,Kundgebung,https://dlive.tv/schwaeble_on_tour,Politik und Medien Hand in Hand, dass schadet unserem Land,https://t.me/POLITIKundMEDIEN_STUTTGART
 74559,DE,2022-06-03,18:00:00,70190,Stuttgart,Neckarstraße 230   vor dem SW,Kundgebung,https://dlive.tv/schwaeble_on_tour,Politik und Medien Hand in Hand, dass schadet unserem Land,https://t.me/POLITIKundMEDIEN_STUTTGART
+74468,DE,2022-06-03,18:00:00,70190,Stuttgart,Neckarstraße 230  (vor dem SWR,Kundgebung,https://dlive.tv/schwaeble_on_tour,Politik und Medien Hand in Hand, dass schadet unserem Land,https://t.me/POLITIKundMEDIEN_STUTTGART
 74503,DE,2022-06-03,18:00:00,33602,Bielefeld,Kesselbrink,Spaziergang,,,https://t.me/bielefeld_steht_auf
 74566,DE,2022-06-03,18:30:00,61462,Königstein am Taunus,Hauptstraße 9,Aufzug,,Privat,
 74356,DE,2022-06-04,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/termine/
@@ -17,15 +17,18 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74553,DE,2022-06-04,14:00:00,21073,Hamburg,Harburg Rathausplatz,Aufzug,,,
 74509,DE,2022-06-04,15:00:00,04109,Leipzig,Kurt-Masur-Platz,Spaziergang,,Bewegung Leipzig,
 74564,DE,2022-06-04,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
+74570,DE,2022-06-04,18:00:00,73326,Deggingen,Rathaus,Gegenprotest,,,
 74562,DE,2022-06-05,14:00:00,54516,Wittlich,Platz an der Lieser,Demonstration,,Freunde der Wahrheit WIL,Telegram: Bewegung Eifel Mosel Hunsrück; Facebook: Freunde der Wahrheit WIL
 74565,DE,2022-06-05,15:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 74542,DE,2022-06-05,15:00:00,76726,Germersheim,Luitpoldplatz,Spaziergang,,,
 73337,DE,2022-06-06,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,unbekannt,
+74572,DE,2022-06-06,18:00:00,75334,Straubenhardt-Feldrennach,Rathaus,Spaziergang,,Feldrennach vernetzt,
 74339,DE,2022-06-06,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,,
 74561,DE,2022-06-06,18:00:00,74523,Schwäbisch Hall,Globe Theater,Spaziergang,,,
 74557,DE,2022-06-06,18:00:00,40885,Ratingen-Lintorf,Kirche - St. Anna (am Markt),Spaziergang,,Privat,
 74364,DE,2022-06-06,18:00:00,84524,Neuötting,Rathaus,Spaziergang,,,
 74558,DE,2022-06-06,18:00:00,06249,Mücheln,Markt,Spaziergang,,Freie Menschen,
+74571,DE,2022-06-06,18:00:00,85570,Markt Schwaben,Marktplatz,Spaziergang,,,
 74560,DE,2022-06-06,18:00:00,60311,Frankfurt,Hauptwache,Aufzug,,#querdenken615 & #frankfurterfreiheitssänger,www.querdenken-615.de
 74500,DE,2022-06-06,18:30:00,95119,Naila,Marktplatz / vor Rathaus,Spaziergang,,,
 73779,DE,2022-06-06,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,
@@ -35,6 +38,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74357,DE,2022-06-11,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/termine/
 73338,DE,2022-06-11,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,Chiemgau Gemeinsam,http://chiemgau-gemeinsam.de
 74510,DE,2022-06-11,15:00:00,04109,Leipzig,Augustusplatz / vor der Oper,Spaziergang,,Bewegung Leipzig,
+74573,DE,2022-06-13,18:00:00,75334,Straubenhardt-Feldrennach,Rathaus,Spaziergang,,Feldrennach vernetzt,
 74340,DE,2022-06-13,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,,
 74365,DE,2022-06-13,18:00:00,84524,Neuötting,Rathaus,Spaziergang,,,
 73780,DE,2022-06-13,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,
@@ -43,10 +47,10 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74426,DE,2022-06-14,14:00:00,63225,Langen (Hessen),Paul Ehrlich Institut,Kundgebung,,,https://t.me/Langen_steht_auf
 74470,DE,2022-06-14,14:00:00,63225,Langen,Paul-Ehrlich-Institut,Kundgebung,,QD615 - Darmstadt,t.me/querdenken_615
 74501,DE,2022-06-14,18:30:00,95119,Naila,Marktplatz / vor Rathaus,Spaziergang,,,
-74377,DE,2022-06-16,19:00:00,84524,Neuötting,Rathaus,Mahnwache,,,
 74378,DE,2022-06-16,19:00:00,84524,Neuötting,Rathaus,Mahnwache,,,
-74359,DE,2022-06-18,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/termine/
+74377,DE,2022-06-16,19:00:00,84524,Neuötting,Rathaus,Mahnwache,,,
 74358,DE,2022-06-18,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/termine/
+74359,DE,2022-06-18,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/termine/
 74511,DE,2022-06-18,15:00:00,04109,Leipzig,Kurt-Masur-Platz,Spaziergang,,Bewegung Leipzig,
 74366,DE,2022-06-20,18:00:00,84524,Neuötting,Rathaus,Spaziergang,,,
 73781,DE,2022-06-20,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,
