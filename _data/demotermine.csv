@@ -1,9 +1,9 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
 74568,DE,2022-06-03,17:00:00,01067,Dresden,Postplatz,Demonstration,,,
 74253,DE,2022-06-03,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
+74554,DE,2022-06-03,18:00:00,70190,Stuttgart,Neckarstraße 230,Kundgebung,https://dlive.tv/schwaeble_on_tour,Politik und Medien Hand in Hand, dass schadet unserem Land,https://t.me/POLITIKundMEDIEN_STUTTGART
 74468,DE,2022-06-03,18:00:00,70190,Stuttgart,Neckarstraße 230  (vor dem SWR,Kundgebung,https://dlive.tv/schwaeble_on_tour,Politik und Medien Hand in Hand, dass schadet unserem Land,https://t.me/POLITIKundMEDIEN_STUTTGART
 74447,DE,2022-06-03,18:00:00,70190,Stuttgart,Neckarstraße 230 (vor dem SWR),Kundgebung,https://dlive.tv/schwaeble_on_tour,Politk und Medien Hand in Hand- Das schadet unserem Land,https://t.me/POLITIKundMEDIEN_STUTTGART
-74554,DE,2022-06-03,18:00:00,70190,Stuttgart,Neckarstraße 230,Kundgebung,https://dlive.tv/schwaeble_on_tour,Politik und Medien Hand in Hand, dass schadet unserem Land,https://t.me/POLITIKundMEDIEN_STUTTGART
 74559,DE,2022-06-03,18:00:00,70190,Stuttgart,Neckarstraße 230   vor dem SW,Kundgebung,https://dlive.tv/schwaeble_on_tour,Politik und Medien Hand in Hand, dass schadet unserem Land,https://t.me/POLITIKundMEDIEN_STUTTGART
 74575,DE,2022-06-03,18:00:00,27570,Bremerhaven,Konrad-Adenauer-Platz,Schilderwald,,,
 74503,DE,2022-06-03,18:00:00,33602,Bielefeld,Kesselbrink,Spaziergang,,,https://t.me/bielefeld_steht_auf
@@ -13,6 +13,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74590,DE,2022-06-04,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf
 74567,DE,2022-06-04,14:00:00,64385,Reichelsheim,B 38 Ortseingang (Aldi),Zusammenkunft,,,
 74553,DE,2022-06-04,14:00:00,21073,Hamburg,Harburg Rathausplatz,Aufzug,,,
+74601,DE,2022-06-04,14:00:00,79098,Freiburg,Platz der alten Synagoge,Aufzug,,FreiSeinFreiburg,
 74509,DE,2022-06-04,15:00:00,04109,Leipzig,Kurt-Masur-Platz,Spaziergang,,Bewegung Leipzig,
 74574,DE,2022-06-04,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,APO - Düsseldorf,http://Aponrw.de
 74564,DE,2022-06-04,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
@@ -55,8 +56,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74426,DE,2022-06-14,14:00:00,63225,Langen (Hessen),Paul Ehrlich Institut,Kundgebung,,,https://t.me/Langen_steht_auf
 74470,DE,2022-06-14,14:00:00,63225,Langen,Paul-Ehrlich-Institut,Kundgebung,,QD615 - Darmstadt,t.me/querdenken_615
 74501,DE,2022-06-14,18:30:00,95119,Naila,Marktplatz / vor Rathaus,Spaziergang,,,
-74377,DE,2022-06-16,19:00:00,84524,Neuötting,Rathaus,Mahnwache,,,
 74378,DE,2022-06-16,19:00:00,84524,Neuötting,Rathaus,Mahnwache,,,
+74377,DE,2022-06-16,19:00:00,84524,Neuötting,Rathaus,Mahnwache,,,
 74358,DE,2022-06-18,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/termine/
 74359,DE,2022-06-18,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/termine/
 74583,DE,2022-06-18,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,t.me/cellestehtauf
@@ -64,8 +65,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74511,DE,2022-06-18,15:00:00,04109,Leipzig,Kurt-Masur-Platz,Spaziergang,,Bewegung Leipzig,
 74366,DE,2022-06-20,18:00:00,84524,Neuötting,Rathaus,Spaziergang,,,
 73781,DE,2022-06-20,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,
-74598,DE,2022-06-20,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74593,DE,2022-06-20,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+74598,DE,2022-06-20,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74093,DE,2022-06-20,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 74385,DE,2022-06-20,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,,https://www.chiemgau-gemeinsam.de/termine/
 74379,DE,2022-06-23,19:00:00,84524,Neuötting,Rathaus,Mahnwache,,,
