@@ -1,13 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-74568,DE,2022-06-03,17:00:00,01067,Dresden,Postplatz,Demonstration,,,
-74253,DE,2022-06-03,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
-74554,DE,2022-06-03,18:00:00,70190,Stuttgart,Neckarstraße 230,Kundgebung,https://dlive.tv/schwaeble_on_tour,Politik und Medien Hand in Hand, dass schadet unserem Land,https://t.me/POLITIKundMEDIEN_STUTTGART
-74468,DE,2022-06-03,18:00:00,70190,Stuttgart,Neckarstraße 230  (vor dem SWR,Kundgebung,https://dlive.tv/schwaeble_on_tour,Politik und Medien Hand in Hand, dass schadet unserem Land,https://t.me/POLITIKundMEDIEN_STUTTGART
-74447,DE,2022-06-03,18:00:00,70190,Stuttgart,Neckarstraße 230 (vor dem SWR),Kundgebung,https://dlive.tv/schwaeble_on_tour,Politk und Medien Hand in Hand- Das schadet unserem Land,https://t.me/POLITIKundMEDIEN_STUTTGART
-74559,DE,2022-06-03,18:00:00,70190,Stuttgart,Neckarstraße 230   vor dem SW,Kundgebung,https://dlive.tv/schwaeble_on_tour,Politik und Medien Hand in Hand, dass schadet unserem Land,https://t.me/POLITIKundMEDIEN_STUTTGART
-74575,DE,2022-06-03,18:00:00,27570,Bremerhaven,Konrad-Adenauer-Platz,Schilderwald,,,
-74503,DE,2022-06-03,18:00:00,33602,Bielefeld,Kesselbrink,Spaziergang,,,https://t.me/bielefeld_steht_auf
-74566,DE,2022-06-03,18:30:00,61462,Königstein am Taunus,Hauptstraße 9,Aufzug,,Privat,
 74356,DE,2022-06-04,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/termine/
 74581,DE,2022-06-04,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,t.me/cellestehtauf
 74590,DE,2022-06-04,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf
@@ -34,14 +25,14 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74576,DE,2022-06-06,18:00:00,27568,Bremerhaven,Waldemar Becke Platz,Spaziergang,,Gemeinsam stark Bremerhaven,
 74500,DE,2022-06-06,18:30:00,95119,Naila,Marktplatz / vor Rathaus,Spaziergang,,,
 73779,DE,2022-06-06,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,
-74600,DE,2022-06-06,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74591,DE,2022-06-06,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+74600,DE,2022-06-06,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74091,DE,2022-06-06,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 74383,DE,2022-06-06,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,,https://www.chiemgau-gemeinsam.de/termine/
 74578,DE,2022-06-06,19:00:00,99974,Mühlhausen/ Thüringen,Untermarkt,Spaziergang,,,
 74376,DE,2022-06-09,19:00:00,84524,Neuötting,Rathaus,Mahnwache,,,
-73338,DE,2022-06-11,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,Chiemgau Gemeinsam,http://chiemgau-gemeinsam.de
 74357,DE,2022-06-11,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/termine/
+73338,DE,2022-06-11,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,Chiemgau Gemeinsam,http://chiemgau-gemeinsam.de
 74582,DE,2022-06-11,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,t.me/cellestehtauf
 74589,DE,2022-06-11,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf
 74510,DE,2022-06-11,15:00:00,04109,Leipzig,Augustusplatz / vor der Oper,Spaziergang,,Bewegung Leipzig,
@@ -58,15 +49,15 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74501,DE,2022-06-14,18:30:00,95119,Naila,Marktplatz / vor Rathaus,Spaziergang,,,
 74378,DE,2022-06-16,19:00:00,84524,Neuötting,Rathaus,Mahnwache,,,
 74377,DE,2022-06-16,19:00:00,84524,Neuötting,Rathaus,Mahnwache,,,
-74358,DE,2022-06-18,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/termine/
 74359,DE,2022-06-18,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/termine/
+74358,DE,2022-06-18,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/termine/
 74583,DE,2022-06-18,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,t.me/cellestehtauf
 74588,DE,2022-06-18,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf
 74511,DE,2022-06-18,15:00:00,04109,Leipzig,Kurt-Masur-Platz,Spaziergang,,Bewegung Leipzig,
 74366,DE,2022-06-20,18:00:00,84524,Neuötting,Rathaus,Spaziergang,,,
 73781,DE,2022-06-20,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,
-74593,DE,2022-06-20,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74598,DE,2022-06-20,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+74593,DE,2022-06-20,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74093,DE,2022-06-20,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 74385,DE,2022-06-20,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,,https://www.chiemgau-gemeinsam.de/termine/
 74379,DE,2022-06-23,19:00:00,84524,Neuötting,Rathaus,Mahnwache,,,
@@ -88,8 +79,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74586,DE,2022-07-02,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf
 74513,DE,2022-07-02,15:00:00,04109,Leipzig,Kleiner Wilhelm-Leuschner-Plat,Spaziergang,,Bewegung Leipzig,
 73924,DE,2022-07-04,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
-74595,DE,2022-07-04,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74596,DE,2022-07-04,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+74595,DE,2022-07-04,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 73925,DE,2022-07-11,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
 74569,DE,2022-07-17,14:00:00,63741,Aschaffenburg,Volksfestplatz,Aufzug,,Rhein-main-steht-auf,www.rhein-main-steht-auf.de
 73926,DE,2022-07-18,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
