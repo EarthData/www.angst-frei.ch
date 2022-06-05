@@ -3,6 +3,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74565,DE,2022-06-05,15:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 74542,DE,2022-06-05,15:00:00,76726,Germersheim,Luitpoldplatz,Spaziergang,,,
 73337,DE,2022-06-06,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,unbekannt,
+74617,DE,2022-06-06,17:30:00,21073,Hamburg-Harburg,Harburger Rathausplatz,Spaziergang,,,
 74577,DE,2022-06-06,18:00:00,71111,Waldenbuch,Rathaus,Spaziergang,,,
 74572,DE,2022-06-06,18:00:00,75334,Straubenhardt-Feldrennach,Rathaus,Spaziergang,,Feldrennach vernetzt,
 74339,DE,2022-06-06,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,,
@@ -14,16 +15,23 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74571,DE,2022-06-06,18:00:00,85570,Markt Schwaben,Marktplatz,Spaziergang,,,
 74603,DE,2022-06-06,18:00:00,87435,Kempten,Stadtpark,Aufzug,,,
 74560,DE,2022-06-06,18:00:00,60311,Frankfurt,Hauptwache,Aufzug,,#querdenken615 & #frankfurterfreiheitssänger,www.querdenken-615.de
+74615,DE,2022-06-06,18:00:00,01324,Dresden,Bühlau / Bibliothek,Spaziergang,,,
+74614,DE,2022-06-06,18:00:00,01744,Dippoldiswalde,Parksäle,Spaziergang,,,
 74576,DE,2022-06-06,18:00:00,27568,Bremerhaven,Waldemar Becke Platz,Spaziergang,,Gemeinsam stark Bremerhaven,
+74611,DE,2022-06-06,18:00:00,01708,Bischofswerda,Markt,Spaziergang,,,
 74608,DE,2022-06-06,18:30:00,67547,Worms,Lutherdenkmal,Spaziergang,,,
 74500,DE,2022-06-06,18:30:00,95119,Naila,Marktplatz / vor Rathaus,Spaziergang,,,
 73779,DE,2022-06-06,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,
-74591,DE,2022-06-06,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74600,DE,2022-06-06,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+74591,DE,2022-06-06,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74091,DE,2022-06-06,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 74604,DE,2022-06-06,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
+74612,DE,2022-06-06,19:00:00,01445,Radebeul,Ostbahnhof,Spaziergang,,,
 74383,DE,2022-06-06,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,,https://www.chiemgau-gemeinsam.de/termine/
 74578,DE,2022-06-06,19:00:00,99974,Mühlhausen/ Thüringen,Untermarkt,Spaziergang,,,
+74613,DE,2022-06-06,19:00:00,01809,Heidenau,Markt,Spaziergang,,,
+74610,DE,2022-06-06,19:00:00,01069,Dresden,Torwirtschaft / Arnhold-Bad,Demonstration,,,
+74616,DE,2022-06-06,19:00:00,01156,Dresden,Cossebaude B6/Brauergasse,Spaziergang,,,
 74609,DE,2022-06-07,17:30:00,79108,Freiburg im Breisgau,Parkplatz Suwonallee 1,Autokorso,,Zukunft Freiburg,https://zukunft-fr.de
 74376,DE,2022-06-09,19:00:00,84524,Neuötting,Rathaus,Mahnwache,,,
 74357,DE,2022-06-11,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/termine/
@@ -52,8 +60,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74511,DE,2022-06-18,15:00:00,04109,Leipzig,Kurt-Masur-Platz,Spaziergang,,Bewegung Leipzig,
 74366,DE,2022-06-20,18:00:00,84524,Neuötting,Rathaus,Spaziergang,,,
 73781,DE,2022-06-20,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,
-74598,DE,2022-06-20,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74593,DE,2022-06-20,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+74598,DE,2022-06-20,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74093,DE,2022-06-20,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 74606,DE,2022-06-20,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 74385,DE,2022-06-20,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,,https://www.chiemgau-gemeinsam.de/termine/
