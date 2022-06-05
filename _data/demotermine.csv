@@ -29,9 +29,10 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74612,DE,2022-06-06,19:00:00,01445,Radebeul,Ostbahnhof,Spaziergang,,,
 74383,DE,2022-06-06,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,,https://www.chiemgau-gemeinsam.de/termine/
 74578,DE,2022-06-06,19:00:00,99974,Mühlhausen/ Thüringen,Untermarkt,Spaziergang,,,
+74618,DE,2022-06-06,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,,
 74613,DE,2022-06-06,19:00:00,01809,Heidenau,Markt,Spaziergang,,,
-74610,DE,2022-06-06,19:00:00,01069,Dresden,Torwirtschaft / Arnhold-Bad,Demonstration,,,
 74616,DE,2022-06-06,19:00:00,01156,Dresden,Cossebaude B6/Brauergasse,Spaziergang,,,
+74610,DE,2022-06-06,19:00:00,01069,Dresden,Torwirtschaft / Arnhold-Bad,Demonstration,,,
 74609,DE,2022-06-07,17:30:00,79108,Freiburg im Breisgau,Parkplatz Suwonallee 1,Autokorso,,Zukunft Freiburg,https://zukunft-fr.de
 74376,DE,2022-06-09,19:00:00,84524,Neuötting,Rathaus,Mahnwache,,,
 74357,DE,2022-06-11,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/termine/
@@ -51,17 +52,17 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74426,DE,2022-06-14,14:00:00,63225,Langen (Hessen),Paul Ehrlich Institut,Kundgebung,,,https://t.me/Langen_steht_auf
 74470,DE,2022-06-14,14:00:00,63225,Langen,Paul-Ehrlich-Institut,Kundgebung,,QD615 - Darmstadt,t.me/querdenken_615
 74501,DE,2022-06-14,18:30:00,95119,Naila,Marktplatz / vor Rathaus,Spaziergang,,,
-74378,DE,2022-06-16,19:00:00,84524,Neuötting,Rathaus,Mahnwache,,,
 74377,DE,2022-06-16,19:00:00,84524,Neuötting,Rathaus,Mahnwache,,,
-74359,DE,2022-06-18,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/termine/
+74378,DE,2022-06-16,19:00:00,84524,Neuötting,Rathaus,Mahnwache,,,
 74358,DE,2022-06-18,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/termine/
+74359,DE,2022-06-18,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/termine/
 74583,DE,2022-06-18,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,t.me/cellestehtauf
 74588,DE,2022-06-18,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf
 74511,DE,2022-06-18,15:00:00,04109,Leipzig,Kurt-Masur-Platz,Spaziergang,,Bewegung Leipzig,
 74366,DE,2022-06-20,18:00:00,84524,Neuötting,Rathaus,Spaziergang,,,
 73781,DE,2022-06-20,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,
-74593,DE,2022-06-20,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74598,DE,2022-06-20,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+74593,DE,2022-06-20,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74093,DE,2022-06-20,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 74606,DE,2022-06-20,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 74385,DE,2022-06-20,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,,https://www.chiemgau-gemeinsam.de/termine/
