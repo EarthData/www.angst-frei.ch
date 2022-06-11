@@ -1,18 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-74357,DE,2022-06-11,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/termine/
-73338,DE,2022-06-11,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz,Schilderwald,,Chiemgau Gemeinsam,http://chiemgau-gemeinsam.de
-74690,DE,2022-06-11,10:45:00,87435,Kempten,Parkplatz Allgäu Halle,Schilderwald,,,
-74582,DE,2022-06-11,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,t.me/cellestehtauf
-74589,DE,2022-06-11,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf
-74694,DE,2022-06-11,14:00:00,64385,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Zusammenkunft,,,
-74671,DE,2022-06-11,14:00:00,14467,Potsdam,Platz zwischen Filmmuseum und,Fahrraddemo,,,
-74686,DE,2022-06-11,14:00:00,78098,Freiburg,Konzerthaus gegenüber Hbf,Fahrraddemo,,FreiSeinFreiburg,
-74510,DE,2022-06-11,15:00:00,04109,Leipzig,Augustusplatz / vor der Oper,Spaziergang,,Bewegung Leipzig,
-74659,DE,2022-06-11,15:00:00,22041,Hamburg,Wochenmarkt / Klappstr.,Aufzug,,Bürgerbündnis Wandsbek,
-74680,DE,2022-06-11,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,APO - Düsseldorf,http://Aponrw.de
-74702,DE,2022-06-11,15:30:00,45127,Essen,Willy-Brandt-Platz,Kundgebung,,,
-74678,DE,2022-06-11,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
-74685,DE,2022-06-11,18:00:00,73326,Deggingen,Rathaus,Gegenprotest,,,
 74699,DE,2022-06-12,14:00:00,22087,Hamburg,vor der U-Bahn Mundsburg,Aufzug,,Privat,
 74679,DE,2022-06-12,15:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 74623,DE,2022-06-13,16:30:00,18055,Rostock,Stadthafen/Kanonsberg,Mahnwache,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
@@ -23,8 +9,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74700,DE,2022-06-13,18:00:00,88239,Wangen i.Allg.,Marktplatz,Spaziergang,,,
 74687,DE,2022-06-13,18:00:00,83329,Waging am See,Gemeinde,Kundgebung,,,
 74664,DE,2022-06-13,18:00:00,88069,Tettnang,Rathaus,Kundgebung,,,
-74703,DE,2022-06-13,18:00:00,75334,Straubenhardt-Feldrennach,Rathaus,Spaziergang,,,
 74573,DE,2022-06-13,18:00:00,75334,Straubenhardt-Feldrennach,Rathaus,Spaziergang,,Feldrennach vernetzt,
+74703,DE,2022-06-13,18:00:00,75334,Straubenhardt-Feldrennach,Rathaus,Spaziergang,,,
 74340,DE,2022-06-13,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,,
 74672,DE,2022-06-13,18:00:00,74523,Schwäbisch Hall,Globe Theater,Spaziergang,,,
 74674,DE,2022-06-13,18:00:00,40885,Ratingen-Lintorf,Kirche - St. Anna (am Markt),Spaziergang,,,Privat
@@ -44,11 +30,11 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74683,DE,2022-06-15,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
 74707,DE,2022-06-15,19:00:00,06618,Naumburg,Vogelwiese,Demonstration,,Naumburg zeigt Gesicht - das Original,
 74627,DE,2022-06-16,17:00:00,18055,Rostock,Brunnen d. Lebensfreude,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
-74377,DE,2022-06-16,19:00:00,84524,Neuötting,Rathaus,Mahnwache,,,
 74378,DE,2022-06-16,19:00:00,84524,Neuötting,Rathaus,Mahnwache,,,
+74377,DE,2022-06-16,19:00:00,84524,Neuötting,Rathaus,Mahnwache,,,
 74665,DE,2022-06-17,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
-74359,DE,2022-06-18,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/termine/
 74358,DE,2022-06-18,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/termine/
+74359,DE,2022-06-18,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/termine/
 74583,DE,2022-06-18,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,t.me/cellestehtauf
 74588,DE,2022-06-18,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf
 74511,DE,2022-06-18,15:00:00,04109,Leipzig,Kurt-Masur-Platz,Spaziergang,,Bewegung Leipzig,
@@ -79,11 +65,11 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74625,DE,2022-06-27,16:30:00,18055,Rostock,Stadthafen/Kanonsberg,Mahnwache,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 74621,DE,2022-06-27,17:00:00,18055,Rostock,Neuer Markt,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 74668,DE,2022-06-27,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
-74341,DE,2022-06-27,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,,
 74342,DE,2022-06-27,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,,
+74341,DE,2022-06-27,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,,
 73782,DE,2022-06-27,18:30:00,63225,Langen (Hessen),Bahnstrasse/Ecke Goethestraße,Spaziergang,,unbekannt,
-74597,DE,2022-06-27,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74594,DE,2022-06-27,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+74597,DE,2022-06-27,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74094,DE,2022-06-27,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 74607,DE,2022-06-27,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 74386,DE,2022-06-27,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,,https://www.chiemgau-gemeinsam.de/termine/
