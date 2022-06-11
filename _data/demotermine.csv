@@ -10,6 +10,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74510,DE,2022-06-11,15:00:00,04109,Leipzig,Augustusplatz / vor der Oper,Spaziergang,,Bewegung Leipzig,
 74659,DE,2022-06-11,15:00:00,22041,Hamburg,Wochenmarkt / Klappstr.,Aufzug,,Bürgerbündnis Wandsbek,
 74680,DE,2022-06-11,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,APO - Düsseldorf,http://Aponrw.de
+74702,DE,2022-06-11,15:30:00,45127,Essen,Willy-Brandt-Platz,Kundgebung,,,
 74678,DE,2022-06-11,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 74685,DE,2022-06-11,18:00:00,73326,Deggingen,Rathaus,Gegenprotest,,,
 74699,DE,2022-06-12,14:00:00,22087,Hamburg,vor der U-Bahn Mundsburg,Aufzug,,Privat,
@@ -18,8 +19,11 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74676,DE,2022-06-13,17:00:00,28203,Bremen,Nelson Mandela Park beim Elefa,Kundgebung,,,
 74619,DE,2022-06-13,17:30:00,18055,Rostock,Neuer Markt,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 74693,DE,2022-06-13,17:30:00,21073,Hamburg-Harburg,Harburger Rathausplatz,Spaziergang,,,
+74706,DE,2022-06-13,17:30:00,21073,Hamburg,Harburger Rathausplatz,Spaziergang,,,
+74700,DE,2022-06-13,18:00:00,88239,Wangen i.Allg.,Marktplatz,Spaziergang,,,
 74687,DE,2022-06-13,18:00:00,83329,Waging am See,Gemeinde,Kundgebung,,,
 74664,DE,2022-06-13,18:00:00,88069,Tettnang,Rathaus,Kundgebung,,,
+74703,DE,2022-06-13,18:00:00,75334,Straubenhardt-Feldrennach,Rathaus,Spaziergang,,,
 74573,DE,2022-06-13,18:00:00,75334,Straubenhardt-Feldrennach,Rathaus,Spaziergang,,Feldrennach vernetzt,
 74340,DE,2022-06-13,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,,
 74672,DE,2022-06-13,18:00:00,74523,Schwäbisch Hall,Globe Theater,Spaziergang,,,
@@ -29,8 +33,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74689,DE,2022-06-13,18:00:00,87435,Kempten,Hildegardplatz,Aufzug,,,
 74698,DE,2022-06-13,18:00:00,27568,Bremerhaven,Waldemar Becké Platz,Spaziergang,,Gemeinsam stark Bremerhaven,
 73780,DE,2022-06-13,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,
-74592,DE,2022-06-13,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74599,DE,2022-06-13,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+74592,DE,2022-06-13,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74092,DE,2022-06-13,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 74605,DE,2022-06-13,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 74384,DE,2022-06-13,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,,https://www.chiemgau-gemeinsam.de/termine/
@@ -38,6 +42,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74470,DE,2022-06-14,14:00:00,63225,Langen,Paul-Ehrlich-Institut,Kundgebung,,QD615 - Darmstadt,t.me/querdenken_615
 74501,DE,2022-06-14,18:30:00,95119,Naila,Marktplatz / vor Rathaus,Spaziergang,,,
 74683,DE,2022-06-15,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
+74707,DE,2022-06-15,19:00:00,06618,Naumburg,Vogelwiese,Demonstration,,Naumburg zeigt Gesicht - das Original,
 74627,DE,2022-06-16,17:00:00,18055,Rostock,Brunnen d. Lebensfreude,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 74378,DE,2022-06-16,19:00:00,84524,Neuötting,Rathaus,Mahnwache,,,
 74377,DE,2022-06-16,19:00:00,84524,Neuötting,Rathaus,Mahnwache,,,
@@ -50,16 +55,18 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74691,DE,2022-06-19,17:30:00,85055,Ingolstadt,Rathausplatz,Aufzug,,,
 74624,DE,2022-06-20,16:30:00,18055,Rostock,Stadthafen/Kanonsberg,Mahnwache,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 74620,DE,2022-06-20,17:30:00,18055,Rostock,Neuer Markt,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
+74701,DE,2022-06-20,18:00:00,88239,Wangen i.Allg.,Marktplatz,Spaziergang,,,
 74666,DE,2022-06-20,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 74366,DE,2022-06-20,18:00:00,84524,Neuötting,Rathaus,Spaziergang,,,
 73781,DE,2022-06-20,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,
-74598,DE,2022-06-20,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74593,DE,2022-06-20,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+74598,DE,2022-06-20,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74093,DE,2022-06-20,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 74606,DE,2022-06-20,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 74385,DE,2022-06-20,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,,https://www.chiemgau-gemeinsam.de/termine/
 74662,DE,2022-06-20,19:30:00,83119,Obing,Gasthaus Ober,Zusammenkunft,,,
 74630,DE,2022-06-22,15:15:00,18055,Rostock,Neuer Markt,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
+74705,DE,2022-06-22,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
 74628,DE,2022-06-23,17:00:00,18055,Rostock,Brunnen d. Lebensfreude,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 74379,DE,2022-06-23,19:00:00,84524,Neuötting,Rathaus,Mahnwache,,,
 74667,DE,2022-06-24,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
@@ -100,8 +107,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74696,DE,2022-07-13,19:00:00,99974,Mühlhausen/ Thüringen,Untermarkt,Spaziergang,,,
 74640,DE,2022-07-14,17:00:00,18055,Rostock,Brunnen d. Lebensfreude,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 74569,DE,2022-07-17,14:00:00,63741,Aschaffenburg,Volksfestplatz,Aufzug,,Rhein-main-steht-auf,www.rhein-main-steht-auf.de
-74637,DE,2022-07-18,17:30:00,18055,Rostock,Stadthafen/Kanonsberg,Mahnwache,,Friedensbewegung Rostock,
 74633,DE,2022-07-18,17:30:00,18055,Rostock,Neuer Markt,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
+74637,DE,2022-07-18,17:30:00,18055,Rostock,Stadthafen/Kanonsberg,Mahnwache,,Friedensbewegung Rostock,
 73926,DE,2022-07-18,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
 3890,DE,2022-07-19,18:00:00,33098,Paderborn,Rathausplatz,Kundgebung,,unbekannt,
 74641,DE,2022-07-21,17:00:00,18055,Rostock,Brunnen d. Lebensfreude,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
