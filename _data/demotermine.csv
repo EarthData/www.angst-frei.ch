@@ -1,8 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-74714,DE,2022-06-15,18:00:00,64653,Losch,Mannheimer Str. 36 / Spielplatz,Spaziergang,,Lorsch ist Mittwoch,https://t.me/Lorscher
-74683,DE,2022-06-15,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
-74707,DE,2022-06-15,19:00:00,06618,Naumburg,Vogelwiese,Demonstration,,Naumburg zeigt Gesicht - das Original,
-74718,DE,2022-06-15,19:00:00,06618,Naumburg,Vogelwiese,Demonstration,,Naumburg zeigt Gesicht - das Original,
 74627,DE,2022-06-16,17:00:00,18055,Rostock,Brunnen d. Lebensfreude,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 74378,DE,2022-06-16,19:00:00,84524,Neuötting,Rathaus,Mahnwache,,,
 74377,DE,2022-06-16,19:00:00,84524,Neuötting,Rathaus,Mahnwache,,,
@@ -77,8 +73,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74631,DE,2022-07-04,17:30:00,18055,Rostock,Neuer Markt,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 74670,DE,2022-07-04,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 73924,DE,2022-07-04,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
-74596,DE,2022-07-04,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74595,DE,2022-07-04,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+74596,DE,2022-07-04,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74708,DE,2022-07-04,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 74723,DE,2022-07-04,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
 74673,DE,2022-07-04,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
