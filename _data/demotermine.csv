@@ -1,16 +1,17 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
 74714,DE,2022-06-15,18:00:00,64653,Losch,Mannheimer Str. 36 / Spielplatz,Spaziergang,,Lorsch ist Mittwoch,https://t.me/Lorscher
 74683,DE,2022-06-15,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
-74718,DE,2022-06-15,19:00:00,06618,Naumburg,Vogelwiese,Demonstration,,Naumburg zeigt Gesicht - das Original,
 74707,DE,2022-06-15,19:00:00,06618,Naumburg,Vogelwiese,Demonstration,,Naumburg zeigt Gesicht - das Original,
+74718,DE,2022-06-15,19:00:00,06618,Naumburg,Vogelwiese,Demonstration,,Naumburg zeigt Gesicht - das Original,
 74627,DE,2022-06-16,17:00:00,18055,Rostock,Brunnen d. Lebensfreude,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 74378,DE,2022-06-16,19:00:00,84524,Neuötting,Rathaus,Mahnwache,,,
 74377,DE,2022-06-16,19:00:00,84524,Neuötting,Rathaus,Mahnwache,,,
 74736,DE,2022-06-17,17:00:00,01067,Dresden,Postplatz,Demonstration,,,
 74717,DE,2022-06-17,17:30:00,76133,Karlsruhe,Marktplatz,Kundgebung,,,https://t.me/grundrechte_jetzt
 74665,DE,2022-06-17,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
-74359,DE,2022-06-18,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/termine/
+74742,DE,2022-06-17,18:00:00,10117,Berlin,Platz der Republik 1,Bürgerkrieg,,Das Volk,
 74358,DE,2022-06-18,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/termine/
+74359,DE,2022-06-18,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/termine/
 74583,DE,2022-06-18,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,t.me/cellestehtauf
 74588,DE,2022-06-18,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf
 74739,DE,2022-06-18,14:00:00,64385,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Zusammenkunft,,,
@@ -32,8 +33,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74728,DE,2022-06-20,18:00:00,36251,Bad Hersfeld,Rathaus,Spaziergang,,,
 74732,DE,2022-06-20,18:30:00,67547,Worms,Lutherdenkmal,Spaziergang,,,
 73781,DE,2022-06-20,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,
-74593,DE,2022-06-20,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74598,DE,2022-06-20,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+74593,DE,2022-06-20,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74093,DE,2022-06-20,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 74606,DE,2022-06-20,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 74721,DE,2022-06-20,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
@@ -56,8 +57,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74625,DE,2022-06-27,16:30:00,18055,Rostock,Stadthafen/Kanonsberg,Mahnwache,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 74621,DE,2022-06-27,17:00:00,18055,Rostock,Neuer Markt,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 74668,DE,2022-06-27,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
-74341,DE,2022-06-27,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,,
 74342,DE,2022-06-27,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,,
+74341,DE,2022-06-27,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,,
 73782,DE,2022-06-27,18:30:00,63225,Langen (Hessen),Bahnstrasse/Ecke Goethestraße,Spaziergang,,unbekannt,
 74594,DE,2022-06-27,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74597,DE,2022-06-27,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
