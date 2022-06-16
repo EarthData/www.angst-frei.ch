@@ -1,7 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-74627,DE,2022-06-16,17:00:00,18055,Rostock,Brunnen d. Lebensfreude,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
-74378,DE,2022-06-16,19:00:00,84524,Neuötting,Rathaus,Mahnwache,,,
-74377,DE,2022-06-16,19:00:00,84524,Neuötting,Rathaus,Mahnwache,,,
 74736,DE,2022-06-17,17:00:00,01067,Dresden,Postplatz,Demonstration,,,
 74717,DE,2022-06-17,17:30:00,76133,Karlsruhe,Marktplatz,Kundgebung,,,https://t.me/grundrechte_jetzt
 74665,DE,2022-06-17,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
@@ -29,8 +26,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74728,DE,2022-06-20,18:00:00,36251,Bad Hersfeld,Rathaus,Spaziergang,,,
 74732,DE,2022-06-20,18:30:00,67547,Worms,Lutherdenkmal,Spaziergang,,,
 73781,DE,2022-06-20,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,unbekannt,
-74598,DE,2022-06-20,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74593,DE,2022-06-20,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+74598,DE,2022-06-20,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74093,DE,2022-06-20,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 74606,DE,2022-06-20,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 74721,DE,2022-06-20,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
@@ -53,11 +50,11 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74625,DE,2022-06-27,16:30:00,18055,Rostock,Stadthafen/Kanonsberg,Mahnwache,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 74621,DE,2022-06-27,17:00:00,18055,Rostock,Neuer Markt,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 74668,DE,2022-06-27,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
-74342,DE,2022-06-27,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,,
 74341,DE,2022-06-27,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,,
+74342,DE,2022-06-27,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,,
 73782,DE,2022-06-27,18:30:00,63225,Langen (Hessen),Bahnstrasse/Ecke Goethestraße,Spaziergang,,unbekannt,
-74594,DE,2022-06-27,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74597,DE,2022-06-27,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+74594,DE,2022-06-27,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74094,DE,2022-06-27,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 74607,DE,2022-06-27,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 74722,DE,2022-06-27,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
