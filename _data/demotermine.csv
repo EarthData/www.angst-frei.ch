@@ -1,21 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-74804,DE,2022-06-25,10:00:00,28203,Bremen,Nelson Mandela Park beim Elefa,Kundgebung,,,
-74360,DE,2022-06-25,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/termine/
-74584,DE,2022-06-25,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,t.me/cellestehtauf
-74587,DE,2022-06-25,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf
-74801,DE,2022-06-25,12:00:00,66877,Ramstein-Miesenbach,Bahnhof,Aufzug,,Friedensbewegung,
-74800,DE,2022-06-25,14:00:00,64385,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Zusammenkunft,,,
-74791,DE,2022-06-25,14:00:00,79098,Freiburg,Vor dem Konzerthaus,Fahrraddemo,,FreiSeinFreiburg,
-74712,DE,2022-06-25,14:00:00,60323,Frankfurt,Grüneburgpark - nordl. Hbf,Demonstration,https://www.youtube.com/c/EuropeansUnited/videos,Europeans United,https://gloria.tv/post/xXgFf73N1Sh24WK4xUEiqt7QE
-74802,DE,2022-06-25,14:00:00,13086,Berlin,Antonplatz,Kundgebung,Deutschland raus aus der NATO!,Freie Linke - Berlin,
-74512,DE,2022-06-25,15:00:00,04109,Leipzig,Augustusplatz / Mendebrunnen,Kundgebung,,Bewegung Leipzig,
-74738,DE,2022-06-25,15:00:00,20457,Hamburg,Mönckebergbrunnen,Kundgebung,,Demo Kunsthalle Hamburg,https://t.co/JIkF6kxWzV
-72500,DE,2022-06-25,15:00:00,60329,Frankfurt,Taunusanlage/Gallusanlage,Aufzug,,unbekannt,
-74781,DE,2022-06-25,15:30:00,45127,Essen,Willy-Brandt-Platz,Kundgebung,,Für den Erhalt der Freiheit,
-74793,DE,2022-06-25,16:00:00,27576,Bremerhaven,Stadthalle Bremerhaven,Kundgebung,,Gemeinsam stark Bremerhaven,
-74789,DE,2022-06-25,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
-74783,DE,2022-06-25,18:00:00,60313,Frankfurt am Main,Rathenauplatz,Kundgebung,,Widerstand 4.0,https://t.me/CanariasDespiertaUnida
-74798,DE,2022-06-25,18:00:00,73326,Deggingen,Rathaus,Gegenprotest,,,
 74775,DE,2022-06-26,11:00:00,60313,Frankfurt am Main,Hauptwache,Kundgebung,,Widerstand 4.0,https://widerstand4-0.net/aktuelle-termine/
 74796,DE,2022-06-26,14:00:00,76530,Baden-Baden,Augustaplatz,Kundgebung,,BI "aufRECHT:FREIdenken Mittelbaden",www.solidarnosch.de/covid-19.htm
 74792,DE,2022-06-26,14:30:00,79114,Freiburg,Dietenbach-Park,Erholung,,FreiSeinFreiburg,
@@ -55,8 +38,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74670,DE,2022-07-04,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 74780,DE,2022-07-04,18:00:00,74523,Schwäbisch Hall,Globe Theater,Spaziergang,,,
 73924,DE,2022-07-04,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
-74596,DE,2022-07-04,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74595,DE,2022-07-04,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+74596,DE,2022-07-04,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74708,DE,2022-07-04,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 74723,DE,2022-07-04,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
 74673,DE,2022-07-04,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
@@ -73,8 +56,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74640,DE,2022-07-14,17:00:00,18055,Rostock,Brunnen d. Lebensfreude,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 74760,DE,2022-07-16,15:00:00,60329,Frankfurt am Main,Taunusanlage,Aufzug,,,
 74569,DE,2022-07-17,14:00:00,63741,Aschaffenburg,Volksfestplatz,Aufzug,,Rhein-main-steht-auf,www.rhein-main-steht-auf.de
-74637,DE,2022-07-18,17:30:00,18055,Rostock,Stadthafen/Kanonsberg,Mahnwache,,Friedensbewegung Rostock,
 74633,DE,2022-07-18,17:30:00,18055,Rostock,Neuer Markt,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
+74637,DE,2022-07-18,17:30:00,18055,Rostock,Stadthafen/Kanonsberg,Mahnwache,,Friedensbewegung Rostock,
 73926,DE,2022-07-18,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
 74710,DE,2022-07-18,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 3890,DE,2022-07-19,18:00:00,33098,Paderborn,Rathausplatz,Kundgebung,,unbekannt,
