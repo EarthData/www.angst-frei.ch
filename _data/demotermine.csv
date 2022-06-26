@@ -1,8 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-74775,DE,2022-06-26,11:00:00,60313,Frankfurt am Main,Hauptwache,Kundgebung,,Widerstand 4.0,https://widerstand4-0.net/aktuelle-termine/
-74796,DE,2022-06-26,14:00:00,76530,Baden-Baden,Augustaplatz,Kundgebung,,BI "aufRECHT:FREIdenken Mittelbaden",www.solidarnosch.de/covid-19.htm
-74792,DE,2022-06-26,14:30:00,79114,Freiburg,Dietenbach-Park,Erholung,,FreiSeinFreiburg,
-74790,DE,2022-06-26,15:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 74367,DE,2022-06-27,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/termine/
 74625,DE,2022-06-27,16:30:00,18055,Rostock,Stadthafen/Kanonsberg,Mahnwache,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 74787,DE,2022-06-27,16:30:00,33098,Paderborn,Vor dem Amtsgericht,Kundgebung,,OWL steht auf,
@@ -11,8 +7,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74755,DE,2022-06-27,18:00:00,88239,Wangen i.Allg.,Marktplatz,Spaziergang,,,
 74668,DE,2022-06-27,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 74812,DE,2022-06-27,18:00:00,75334,Streubenhardt-Feldrennach,Rathaus,Spaziergang,,Feldrennach vernetzt,
-74341,DE,2022-06-27,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,,
 74342,DE,2022-06-27,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,,
+74341,DE,2022-06-27,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,,
 74779,DE,2022-06-27,18:00:00,74523,Schwäbisch Hall,Globe Theater,Spaziergang,,,
 74807,DE,2022-06-27,18:00:00,17207,Röbel / Müritz,Rathaus,Kundgebung,,,
 74819,DE,2022-06-27,18:00:00,50670,Köln,Kölner Dom,Spaziergang,,Köln ist aktiv,https://t.me/koelnistaktiv
