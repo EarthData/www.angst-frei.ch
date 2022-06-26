@@ -10,19 +10,28 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74778,DE,2022-06-27,17:30:00,21073,Hamburg,Harburger Rathausplatz,Spaziergang,,,
 74755,DE,2022-06-27,18:00:00,88239,Wangen i.Allg.,Marktplatz,Spaziergang,,,
 74668,DE,2022-06-27,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
-74342,DE,2022-06-27,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,,
+74812,DE,2022-06-27,18:00:00,75334,Streubenhardt-Feldrennach,Rathaus,Spaziergang,,Feldrennach vernetzt,
 74341,DE,2022-06-27,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,,
+74342,DE,2022-06-27,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,,
 74779,DE,2022-06-27,18:00:00,74523,Schwäbisch Hall,Globe Theater,Spaziergang,,,
 74807,DE,2022-06-27,18:00:00,17207,Röbel / Müritz,Rathaus,Kundgebung,,,
+74819,DE,2022-06-27,18:00:00,50670,Köln,Kölner Dom,Spaziergang,,Köln ist aktiv,https://t.me/koelnistaktiv
+74820,DE,2022-06-27,18:00:00,87439,Kempten,Hildegardplatz,Aufzug,,,
+74808,DE,2022-06-27,18:00:00,84307,Eggenfelden,Stadtplatz Eggenfelden,Spaziergang,,,
 74803,DE,2022-06-27,18:29:00,67433,Neustadt an der Weinstraße,Hetzelplatz,Aufzug,,,
 74785,DE,2022-06-27,18:30:00,67547,Worms,Lutherdenkmal,Spaziergang,,,
 73782,DE,2022-06-27,18:30:00,63225,Langen (Hessen),Bahnstrasse/Ecke Goethestraße,Spaziergang,,unbekannt,
-74597,DE,2022-06-27,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74594,DE,2022-06-27,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+74597,DE,2022-06-27,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74094,DE,2022-06-27,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 74607,DE,2022-06-27,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 74722,DE,2022-06-27,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
 74386,DE,2022-06-27,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,,https://www.chiemgau-gemeinsam.de/termine/
+74811,DE,2022-06-27,19:00:00,99974,Mühlhausen/ Thüringen,Untermarkt,Spaziergang,,,
+74813,DE,2022-06-27,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,,
+74810,DE,2022-06-27,19:00:00,01067,Dresden,Torwirtschaft / Arnhold-Bad,Demonstration,,,
+74814,DE,2022-06-29,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
+74809,DE,2022-06-29,19:00:00,06618,Naumburg,Vogelwiese / Friedenstraße,Demonstration,,Naumburg zeigt Gesicht- das Original,https://t.me/naumburgzeigtgesichtdasoriginal
 74629,DE,2022-06-30,17:00:00,18055,Rostock,Brunnen d. Lebensfreude,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 74380,DE,2022-06-30,19:00:00,84524,Neuötting,Rathaus,Mahnwache,,,
 74669,DE,2022-07-01,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
@@ -30,6 +39,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74741,DE,2022-07-01,19:00:00,63065,Offenbach,Büsing Palais / Herrnstraße 82,Parteiveranstaltung,,,
 74585,DE,2022-07-02,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,t.me/cellestehtauf
 74586,DE,2022-07-02,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf
+74816,DE,2022-07-02,12:00:00,55118,Mainz,Bahnhof,Aufzug,,Das Ahrtal steht auf!,
 74513,DE,2022-07-02,15:00:00,04109,Leipzig,Kleiner Wilhelm-Leuschner-Plat,Spaziergang,,Bewegung Leipzig,
 74758,DE,2022-07-02,15:00:00,60329,Frankfurt am Main,Taunusanlage,Aufzug,,,
 74635,DE,2022-07-04,16:30:00,18055,Rostock,Stadthafen/Kanonsberg,Mahnwache,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
@@ -38,12 +48,13 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74670,DE,2022-07-04,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 74780,DE,2022-07-04,18:00:00,74523,Schwäbisch Hall,Globe Theater,Spaziergang,,,
 73924,DE,2022-07-04,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
-74595,DE,2022-07-04,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74596,DE,2022-07-04,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+74595,DE,2022-07-04,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74708,DE,2022-07-04,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 74723,DE,2022-07-04,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
 74673,DE,2022-07-04,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 74799,DE,2022-07-06,18:00:00,32756,Detmold,Markt,Meditation,,Lippe für Frieden, Freiheit & menschliches Miteinander,
+74815,DE,2022-07-06,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
 74639,DE,2022-07-07,17:00:00,18055,Rostock,Brunnen d. Lebensfreude,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 74759,DE,2022-07-09,15:00:00,60329,Frankfurt am Main,Taunusanlage,Aufzug,,,
 74805,AT,2022-07-09,16:00:00,1010,Wien,Heldenplatz,Kundgebung,,Fairdenken Austria,https://t.me/Fairdenkenoriginal
