@@ -20,6 +20,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 73782,DE,2022-06-27,18:30:00,63225,Langen (Hessen),Bahnstrasse/Ecke Goethestraße,Spaziergang,,unbekannt,
 74594,DE,2022-06-27,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74597,DE,2022-06-27,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+74846,DE,2022-06-27,18:30:00,63741,Aschaffenburg,Schloßplatz,Spaziergang,,ASA Aschaffenburg steht auf,
 74094,DE,2022-06-27,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 74607,DE,2022-06-27,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 74722,DE,2022-06-27,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
@@ -29,6 +30,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74810,DE,2022-06-27,19:00:00,01067,Dresden,Torwirtschaft / Arnhold-Bad,Demonstration,,,
 74830,DE,2022-06-28,17:00:00,91052,Erlangen,Nürnberger Straße 111,Bürgerkrieg,,Dummert,
 74821,DE,2022-06-28,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Team Menschenrechte,
+74848,DE,2022-06-28,19:00:00,17438,Wolgast,Freifläche am Kai,Kundgebung,,Privat,
 74832,DE,2022-06-29,17:30:00,70173,Stuttgart,Kl. Schlossplatz/Commerzbank,Schilderwald,,Privat,
 74843,DE,2022-06-29,18:00:00,76646,Bruchsal,Bella Italia / Bahnhofsplatz 2,Zusammenkunft,,,
 74814,DE,2022-06-29,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
@@ -52,6 +54,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74756,DE,2022-07-04,18:00:00,88239,Wangen i.Allg.,Marktplatz,Spaziergang,,,
 74670,DE,2022-07-04,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 74780,DE,2022-07-04,18:00:00,74523,Schwäbisch Hall,Globe Theater,Spaziergang,,,
+74847,DE,2022-07-04,18:00:00,40885,Ratingen-Lintorf,Kirche - St. Anna (am Markt),Spaziergang,,,
 73924,DE,2022-07-04,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
 74595,DE,2022-07-04,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74596,DE,2022-07-04,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
