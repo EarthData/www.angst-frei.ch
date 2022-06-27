@@ -1,33 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-74367,DE,2022-06-27,10:30:00,83209,Prien am Chiemsee,Parkplatz am Sportplatz Prien,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/termine/
-74625,DE,2022-06-27,16:30:00,18055,Rostock,Stadthafen/Kanonsberg,Mahnwache,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
-74787,DE,2022-06-27,16:30:00,33098,Paderborn,Vor dem Amtsgericht,Kundgebung,,OWL steht auf,
-74621,DE,2022-06-27,17:00:00,18055,Rostock,Neuer Markt,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
-74778,DE,2022-06-27,17:30:00,21073,Hamburg,Harburger Rathausplatz,Spaziergang,,,
-74755,DE,2022-06-27,18:00:00,88239,Wangen i.Allg.,Marktplatz,Spaziergang,,,
-74668,DE,2022-06-27,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
-74812,DE,2022-06-27,18:00:00,75334,Streubenhardt-Feldrennach,Rathaus,Spaziergang,,Feldrennach vernetzt,
-74342,DE,2022-06-27,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,,
-74341,DE,2022-06-27,18:00:00,82319,Starnberg,Kirchplatz,Spaziergang,,,
-74779,DE,2022-06-27,18:00:00,74523,Schwäbisch Hall,Globe Theater,Spaziergang,,,
-74807,DE,2022-06-27,18:00:00,17207,Röbel / Müritz,Rathaus,Kundgebung,,,
-74819,DE,2022-06-27,18:00:00,50670,Köln,Kölner Dom,Spaziergang,,Köln ist aktiv,https://t.me/koelnistaktiv
-74820,DE,2022-06-27,18:00:00,87439,Kempten,Hildegardplatz,Aufzug,,,
-74808,DE,2022-06-27,18:00:00,84307,Eggenfelden,Stadtplatz Eggenfelden,Spaziergang,,,
-74834,DE,2022-06-27,18:00:00,53111,Bonn,Marktplatz,Spaziergang,,,
-74803,DE,2022-06-27,18:29:00,67433,Neustadt an der Weinstraße,Hetzelplatz,Aufzug,,,
-74785,DE,2022-06-27,18:30:00,67547,Worms,Lutherdenkmal,Spaziergang,,,
-73782,DE,2022-06-27,18:30:00,63225,Langen (Hessen),Bahnstrasse/Ecke Goethestraße,Spaziergang,,unbekannt,
-74597,DE,2022-06-27,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
-74594,DE,2022-06-27,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
-74846,DE,2022-06-27,18:30:00,63741,Aschaffenburg,Schloßplatz,Spaziergang,,ASA Aschaffenburg steht auf,
-74094,DE,2022-06-27,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
-74607,DE,2022-06-27,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
-74722,DE,2022-06-27,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
-74386,DE,2022-06-27,19:00:00,83209,Prien am Chiemsee,Rathaus,Spaziergang,,,https://www.chiemgau-gemeinsam.de/termine/
-74811,DE,2022-06-27,19:00:00,99974,Mühlhausen/ Thüringen,Untermarkt,Spaziergang,,,
-74813,DE,2022-06-27,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,,
-74810,DE,2022-06-27,19:00:00,01067,Dresden,Torwirtschaft / Arnhold-Bad,Demonstration,,,
 74830,DE,2022-06-28,17:00:00,91052,Erlangen,Nürnberger Straße 111,Bürgerkrieg,,Dummert,
 74821,DE,2022-06-28,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Team Menschenrechte,
 74848,DE,2022-06-28,19:00:00,17438,Wolgast,Freifläche am Kai,Kundgebung,,Privat,
@@ -57,8 +28,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74780,DE,2022-07-04,18:00:00,74523,Schwäbisch Hall,Globe Theater,Spaziergang,,,
 74847,DE,2022-07-04,18:00:00,40885,Ratingen-Lintorf,Kirche - St. Anna (am Markt),Spaziergang,,,
 73924,DE,2022-07-04,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
-74595,DE,2022-07-04,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74596,DE,2022-07-04,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+74595,DE,2022-07-04,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74708,DE,2022-07-04,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 74723,DE,2022-07-04,19:00:00,26382,Wilhelmshaven,Rathaus,Spaziergang,,Das deutsche Volk,
 74673,DE,2022-07-04,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
@@ -87,8 +58,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74760,DE,2022-07-16,15:00:00,60329,Frankfurt am Main,Taunusanlage,Aufzug,,,
 74826,DE,2022-07-17,10:00:00,91088,Bubenreuth,Im Wald,Bürgerkrieg,,Privat ( Wing ),
 74569,DE,2022-07-17,14:00:00,63741,Aschaffenburg,Volksfestplatz,Aufzug,,Rhein-main-steht-auf,www.rhein-main-steht-auf.de
-74633,DE,2022-07-18,17:30:00,18055,Rostock,Neuer Markt,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 74637,DE,2022-07-18,17:30:00,18055,Rostock,Stadthafen/Kanonsberg,Mahnwache,,Friedensbewegung Rostock,
+74633,DE,2022-07-18,17:30:00,18055,Rostock,Neuer Markt,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 74838,DE,2022-07-18,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 73926,DE,2022-07-18,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
 74710,DE,2022-07-18,18:30:00,99510,Apolda,Markt,Spaziergang,,,
