@@ -18,8 +18,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74803,DE,2022-06-27,18:29:00,67433,Neustadt an der Weinstraße,Hetzelplatz,Aufzug,,,
 74785,DE,2022-06-27,18:30:00,67547,Worms,Lutherdenkmal,Spaziergang,,,
 73782,DE,2022-06-27,18:30:00,63225,Langen (Hessen),Bahnstrasse/Ecke Goethestraße,Spaziergang,,unbekannt,
-74594,DE,2022-06-27,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74597,DE,2022-06-27,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+74594,DE,2022-06-27,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 74846,DE,2022-06-27,18:30:00,63741,Aschaffenburg,Schloßplatz,Spaziergang,,ASA Aschaffenburg steht auf,
 74094,DE,2022-06-27,18:30:00,99510,Apolda,Markt,Spaziergang,,unbekannt,
 74607,DE,2022-06-27,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
@@ -48,6 +48,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74831,DE,2022-07-02,15:00:00,22041,Hamburg,Wochenmarkt in der Klappstraße,Aufzug,,Bürgerbündnis Wandsbek,
 74758,DE,2022-07-02,15:00:00,60329,Frankfurt am Main,Taunusanlage,Aufzug,,,
 74844,DE,2022-07-02,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,APO - Düsseldorf,http://Aponrw.de
+74849,DE,2022-07-02,16:00:00,78628,Rottweil,Am schwarzen Tor,Aufzug,,Baden-Württemberg steht auf!,https://t.me/POLITIKundMEDIEN_STUTTGART
 74635,DE,2022-07-04,16:30:00,18055,Rostock,Stadthafen/Kanonsberg,Mahnwache,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 74828,DE,2022-07-04,17:00:00,91052,Erlangen,Anger Garagen,Bürgerkrieg,,Der Umbringer Mafia,
 74631,DE,2022-07-04,17:30:00,18055,Rostock,Neuer Markt,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
@@ -82,6 +83,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74640,DE,2022-07-14,17:00:00,18055,Rostock,Brunnen d. Lebensfreude,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 74829,DE,2022-07-15,16:00:00,91052,Erlangen,Whörmühl Insel,Aufstand,,Der Silbereisen,
 74837,DE,2022-07-15,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
+74850,DE,2022-07-15,18:00:00,70190,Stuttgart,Neckarstraße 230,Kundgebung,https://dlive.tv/schwaeble_on_tour,Politk und Medien Hand in Hand- Das schadet unserem Land,https://t.me/ChatPolitikundMedien
 74760,DE,2022-07-16,15:00:00,60329,Frankfurt am Main,Taunusanlage,Aufzug,,,
 74826,DE,2022-07-17,10:00:00,91088,Bubenreuth,Im Wald,Bürgerkrieg,,Privat ( Wing ),
 74569,DE,2022-07-17,14:00:00,63741,Aschaffenburg,Volksfestplatz,Aufzug,,Rhein-main-steht-auf,www.rhein-main-steht-auf.de
