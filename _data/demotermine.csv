@@ -1,9 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-74880,DE,2022-07-01,17:00:00,01067,Dresden,Postplatz,Demonstration,,,
-74871,DE,2022-07-01,17:30:00,76133,Karlsruhe,Postgalerie-Stephansplatz,Kundgebung,,s.Info vorne - Grundrechte.jetzt,t.me/grundrechte_jetzt    www.grundrechte.jetzt.de
-74669,DE,2022-07-01,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
-74772,DE,2022-07-01,18:00:00,60329,Frankfurt,Schillerdenkmal / Taunusanlage,Aufzug,,Initiative Demokratie Aufklärung / Offges,offges.de/ffm-2022-07-01
-74741,DE,2022-07-01,19:00:00,63065,Offenbach,Büsing Palais / Herrnstraße 82,Parteiveranstaltung,,,
 74874,DE,2022-07-02,09:00:00,60323,Frankfurt am Main,IG-Farben-Haus,Kundgebung,,,
 74889,DE,2022-07-02,10:00:00,17438,Wolgast,Mahlzow / Wolgaster Fähre,Kundgebung,,Privat,
 74585,DE,2022-07-02,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,t.me/cellestehtauf
@@ -76,8 +71,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74760,DE,2022-07-16,15:00:00,60329,Frankfurt am Main,Taunusanlage,Aufzug,,,
 74826,DE,2022-07-17,10:00:00,91088,Bubenreuth,Im Wald,Bürgerkrieg,,Privat ( Wing ),
 74569,DE,2022-07-17,14:00:00,63741,Aschaffenburg,Volksfestplatz,Aufzug,,Rhein-main-steht-auf,www.rhein-main-steht-auf.de
-74633,DE,2022-07-18,17:30:00,18055,Rostock,Neuer Markt,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 74637,DE,2022-07-18,17:30:00,18055,Rostock,Stadthafen/Kanonsberg,Mahnwache,,Friedensbewegung Rostock,
+74633,DE,2022-07-18,17:30:00,18055,Rostock,Neuer Markt,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 74838,DE,2022-07-18,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 73926,DE,2022-07-18,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
 74710,DE,2022-07-18,18:30:00,99510,Apolda,Markt,Spaziergang,,,
