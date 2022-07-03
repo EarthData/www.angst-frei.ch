@@ -1,7 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-74885,DE,2022-07-03,10:00:00,63225,Langen (Hessen),Paul Ehrlich Institut,Zusammenkunft,,,
-74866,DE,2022-07-03,14:00:00,76530,Baden-Baden,Augustaplatz,Demonstration,,BI "aufRECHT:FREIdenken Mittelbaden",www.solidarnosch.de/covid-19.htm
-74869,DE,2022-07-03,15:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 74894,DE,2022-07-04,10:00:00,45881,Gelsenkirchen,Gesundheitsamt,Kundgebung,https://t.me/+SOoi3gLcLRhhODAy,Bürger,
 74635,DE,2022-07-04,16:30:00,18055,Rostock,Stadthafen/Kanonsberg,Mahnwache,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 74828,DE,2022-07-04,17:00:00,91052,Erlangen,Anger Garagen,Bürgerkrieg,,Der Umbringer Mafia,
@@ -60,8 +57,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74760,DE,2022-07-16,15:00:00,60329,Frankfurt am Main,Taunusanlage,Aufzug,,,
 74826,DE,2022-07-17,10:00:00,91088,Bubenreuth,Im Wald,Bürgerkrieg,,Privat ( Wing ),
 74569,DE,2022-07-17,14:00:00,63741,Aschaffenburg,Volksfestplatz,Aufzug,,Rhein-main-steht-auf,www.rhein-main-steht-auf.de
-74633,DE,2022-07-18,17:30:00,18055,Rostock,Neuer Markt,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 74637,DE,2022-07-18,17:30:00,18055,Rostock,Stadthafen/Kanonsberg,Mahnwache,,Friedensbewegung Rostock,
+74633,DE,2022-07-18,17:30:00,18055,Rostock,Neuer Markt,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 74896,DE,2022-07-18,17:30:00,21073,Hamburg,Rathausplatz / Harburg,Spaziergang,,,
 74838,DE,2022-07-18,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 73926,DE,2022-07-18,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
