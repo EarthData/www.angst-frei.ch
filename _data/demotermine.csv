@@ -14,6 +14,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74877,DE,2022-07-09,14:00:00,79089,Freiburg,Konzerthaus / ggü. Hbf,Fahrraddemo,Für Frieden und Freiheit,FreiSeinFreiburg,
 74903,DE,2022-07-09,15:00:00,21073,Hamburg,Harburg Rathausplatz,Aufzug,,,
 74759,DE,2022-07-09,15:00:00,60329,Frankfurt am Main,Taunusanlage,Aufzug,,,
+74919,DE,2022-07-09,15:30:00,45127,Essen,Willy-Brandt-Platz,Kundgebung,,Für den Erhalt der Freiheit,
 74805,AT,2022-07-09,16:00:00,1010,Wien,Heldenplatz,Kundgebung,,Fairdenken Austria,https://t.me/Fairdenkenoriginal
 74893,ES,2022-07-09,18:00:00,38003,Santa Cruz de Tenerife,Plaza Weyler,Demonstration,,Tenerife por la Verdad, Ley en Mano,
 74794,DE,2022-07-10,14:00:00,42853,Remscheid,Schützenplatz (Am Stadtpark),Kundgebung,,DAS BERGISCHE ERWACHEN,https://t.me/dasbergischeerwachen
@@ -35,8 +36,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74760,DE,2022-07-16,15:00:00,60329,Frankfurt am Main,Taunusanlage,Aufzug,,,
 74826,DE,2022-07-17,10:00:00,91088,Bubenreuth,Im Wald,Bürgerkrieg,,Privat ( Wing ),
 74569,DE,2022-07-17,14:00:00,63741,Aschaffenburg,Volksfestplatz,Aufzug,,Rhein-main-steht-auf,www.rhein-main-steht-auf.de
-74633,DE,2022-07-18,17:30:00,18055,Rostock,Neuer Markt,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 74637,DE,2022-07-18,17:30:00,18055,Rostock,Stadthafen/Kanonsberg,Mahnwache,,Friedensbewegung Rostock,
+74633,DE,2022-07-18,17:30:00,18055,Rostock,Neuer Markt,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 74896,DE,2022-07-18,17:30:00,21073,Hamburg,Rathausplatz / Harburg,Spaziergang,,,
 74838,DE,2022-07-18,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 74914,DE,2022-07-18,18:29:00,83119,Obing,Rathaus,Versammlung,,,
