@@ -1,9 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-74827,DE,2022-07-05,14:30:00,91052,Erlangen,Berliner Platz Park,Bürgerkrieg,,Die Maschine Hüpft, via Whörl.,
-74845,DE,2022-07-05,17:30:00,79108,Freiburg,Neues SC Stadion Suwonallee 1,Autokorso,,Zukunft Freiburg,https://www.zukunft-fr.de
-74883,DE,2022-07-05,18:00:00,76275,Ettlingen,Dickhäuterplatz / ggü. REAL,Aufzug,,s.Info vorne,
-74822,DE,2022-07-05,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Team Menschenrechte,
-74917,DE,2022-07-05,19:00:00,17438,Wolgast,Freifläche am Kai,Kundgebung,,Privat,https://t.me/Reinhard_Schulz
 74890,DE,2022-07-06,18:00:00,70173,Stuttgart,Marktplatz vor dem Rathaus,Aufzug,,Privat,
 74925,DE,2022-07-06,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 74929,DE,2022-07-06,18:00:00,64653,Lorsch,Mannheimer Str. 36,Spaziergang,,Lorsch ist Mittwoch,http://t.me/lorscher
@@ -44,8 +39,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74760,DE,2022-07-16,15:00:00,60329,Frankfurt am Main,Taunusanlage,Aufzug,,,
 74826,DE,2022-07-17,10:00:00,91088,Bubenreuth,Im Wald,Bürgerkrieg,,Privat ( Wing ),
 74569,DE,2022-07-17,14:00:00,63741,Aschaffenburg,Volksfestplatz,Aufzug,,Rhein-main-steht-auf,www.rhein-main-steht-auf.de
-74633,DE,2022-07-18,17:30:00,18055,Rostock,Neuer Markt,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 74637,DE,2022-07-18,17:30:00,18055,Rostock,Stadthafen/Kanonsberg,Mahnwache,,Friedensbewegung Rostock,
+74633,DE,2022-07-18,17:30:00,18055,Rostock,Neuer Markt,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 74896,DE,2022-07-18,17:30:00,21073,Hamburg,Rathausplatz / Harburg,Spaziergang,,,
 74922,DE,2022-07-18,18:00:00,88239,Wangen i.Allg.,Marktplatz,Spaziergang,,,
 74838,DE,2022-07-18,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
