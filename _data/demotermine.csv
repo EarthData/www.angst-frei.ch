@@ -5,10 +5,13 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74822,DE,2022-07-05,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Team Menschenrechte,
 74917,DE,2022-07-05,19:00:00,17438,Wolgast,Freifläche am Kai,Kundgebung,,Privat,https://t.me/Reinhard_Schulz
 74890,DE,2022-07-06,18:00:00,70173,Stuttgart,Marktplatz vor dem Rathaus,Aufzug,,Privat,
+74925,DE,2022-07-06,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
+74929,DE,2022-07-06,18:00:00,64653,Lorsch,Mannheimer Str. 36,Spaziergang,,Lorsch ist Mittwoch,http://t.me/lorscher
 74799,DE,2022-07-06,18:00:00,32756,Detmold,Markt,Meditation,,Lippe für Frieden, Freiheit & menschliches Miteinander,
 74815,DE,2022-07-06,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
 74888,DE,2022-07-06,19:00:00,06618,Naumburg,Vogelwiese,Demonstration,,Naumburg zeigt Gesicht- das Original,
 74639,DE,2022-07-07,17:00:00,18055,Rostock,Brunnen d. Lebensfreude,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
+74928,DE,2022-07-08,17:00:00,01067,Dresden,Postplatz,Demonstration,,,
 74835,DE,2022-07-08,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 74918,DE,2022-07-08,18:00:00,76131,Karlsruhe,Hoepfner Burghof Rittersaal,Vortrag,,s. Info vorne Grundrechte.jetzt,t.me/grundrechte_jetzt
 74877,DE,2022-07-09,14:00:00,79089,Freiburg,Konzerthaus / ggü. Hbf,Fahrraddemo,Für Frieden und Freiheit,FreiSeinFreiburg,
@@ -17,14 +20,19 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74919,DE,2022-07-09,15:30:00,45127,Essen,Willy-Brandt-Platz,Kundgebung,,Für den Erhalt der Freiheit,
 74805,AT,2022-07-09,16:00:00,1010,Wien,Heldenplatz,Kundgebung,,Fairdenken Austria,https://t.me/Fairdenkenoriginal
 74893,ES,2022-07-09,18:00:00,38003,Santa Cruz de Tenerife,Plaza Weyler,Demonstration,,Tenerife por la Verdad, Ley en Mano,
+74926,DE,2022-07-09,18:00:00,90402,Nürnberg,Hallplatz / Zeughaus,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 74794,DE,2022-07-10,14:00:00,42853,Remscheid,Schützenplatz (Am Stadtpark),Kundgebung,,DAS BERGISCHE ERWACHEN,https://t.me/dasbergischeerwachen
 74916,DE,2022-07-10,14:00:00,76530,Baden-Baden,Augustaplatz,Kundgebung,,BI "aufRECHT:FREIdenken Mittelbaden",www.solidarnosch.de/covid-19.htm
+74927,DE,2022-07-10,15:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 74825,DE,2022-07-10,17:30:00,91088,Bubenreuth,Skaterbahn,Spaziergang,,Privat ( Die Klauratte ),
 74636,DE,2022-07-11,16:30:00,18055,Rostock,Stadthafen/Kanonsberg,Kundgebung,,Friedensbewegung Rostock,
 74632,DE,2022-07-11,17:30:00,18055,Rostock,Neuer Markt,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
+74921,DE,2022-07-11,18:00:00,88239,Wangen i.Allg.,Marktplatz,Spaziergang,,,
 74836,DE,2022-07-11,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 74915,DE,2022-07-11,18:00:00,40885,Ratingen-Lintorf,Kirche - St. Anna (am Markt),Spaziergang,,,
 73925,DE,2022-07-11,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
+74920,DE,2022-07-11,18:30:00,67547,Worms,Luther Denkmal,Spaziergang,,,
+74924,DE,2022-07-11,18:30:00,67433,Neustadt Weinstraße,Hetzelplatz,Aufzug,,,
 74709,DE,2022-07-11,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 74853,DE,2022-07-11,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 74823,DE,2022-07-12,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Team Menschenrechte,
@@ -36,9 +44,10 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74760,DE,2022-07-16,15:00:00,60329,Frankfurt am Main,Taunusanlage,Aufzug,,,
 74826,DE,2022-07-17,10:00:00,91088,Bubenreuth,Im Wald,Bürgerkrieg,,Privat ( Wing ),
 74569,DE,2022-07-17,14:00:00,63741,Aschaffenburg,Volksfestplatz,Aufzug,,Rhein-main-steht-auf,www.rhein-main-steht-auf.de
-74637,DE,2022-07-18,17:30:00,18055,Rostock,Stadthafen/Kanonsberg,Mahnwache,,Friedensbewegung Rostock,
 74633,DE,2022-07-18,17:30:00,18055,Rostock,Neuer Markt,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
+74637,DE,2022-07-18,17:30:00,18055,Rostock,Stadthafen/Kanonsberg,Mahnwache,,Friedensbewegung Rostock,
 74896,DE,2022-07-18,17:30:00,21073,Hamburg,Rathausplatz / Harburg,Spaziergang,,,
+74922,DE,2022-07-18,18:00:00,88239,Wangen i.Allg.,Marktplatz,Spaziergang,,,
 74838,DE,2022-07-18,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 74914,DE,2022-07-18,18:29:00,83119,Obing,Rathaus,Versammlung,,,
 73926,DE,2022-07-18,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
@@ -51,6 +60,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74761,DE,2022-07-23,15:00:00,60329,Frankfurt am Main,Taunusanlage,Aufzug,,,
 74638,DE,2022-07-25,16:30:00,18055,Rostock,Stadthafen/Kanonsberg,Mahnwache,,Friedensbewegung Rostock,
 74634,DE,2022-07-25,17:30:00,18055,Rostock,Neuer Markt,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
+74923,DE,2022-07-25,18:00:00,88239,Wangen i.Allg.,Marktplatz,Spaziergang,,,
 74840,DE,2022-07-25,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 73927,DE,2022-07-25,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
 74711,DE,2022-07-25,18:30:00,99510,Apolda,Markt,Spaziergang,,,
