@@ -1,7 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-75014,DE,2022-07-14,11:00:00,76530,Baden-Baden,Ernst-Becker-Str. 1 / SWR,Kundgebung,,BI "aufRECHT:FREIdenken Mittelbaden",https://leuchtturmard.de
-75004,DE,2022-07-14,14:00:00,60320,Frankfurt am Main,HR Bertramwiese / Bertramstr.,Mahnwache,,,
-74640,DE,2022-07-14,17:00:00,18055,Rostock,Brunnen d. Lebensfreude,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 74829,DE,2022-07-15,16:00:00,91052,Erlangen,Whörmühl Insel,Aufstand,,Der Silbereisen,
 75007,DE,2022-07-15,17:00:00,01067,Dresden,Postplatz,Demonstration,,,
 75018,DE,2022-07-15,17:30:00,76133,Karlsruhe,Marktplatz / Pyramide,Kundgebung,,Grundrechte.jetzt s.Info vorne,t.me/grundrechte_jetzt
@@ -19,8 +16,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75035,DE,2022-07-16,18:00:00,73326,Deggingen,Rathaus,Gegenprotest,,,
 74826,DE,2022-07-17,10:00:00,91088,Bubenreuth,Im Wald,Bürgerkrieg,,Privat ( Wing ),
 75015,DE,2022-07-17,14:00:00,76530,Baden-Baden,Augustaplatz,Demonstration,,BI "aufRECHT:FREIdenken Mittelbaden",www.solidarnosch.de/covid-19.htm
-74569,DE,2022-07-17,14:00:00,63741,Aschaffenburg,Volksfestplatz,Aufzug,,Rhein-main-steht-auf,www.rhein-main-steht-auf.de
 74978,DE,2022-07-17,14:00:00,63741,Aschaffenburg,Schlossplatz und Umgebung,Aufzug,,Rhein-main-steht-auf,www.rhein-main-steht-auf.de
+74569,DE,2022-07-17,14:00:00,63741,Aschaffenburg,Volksfestplatz,Aufzug,,Rhein-main-steht-auf,www.rhein-main-steht-auf.de
 75013,DE,2022-07-17,15:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 74637,DE,2022-07-18,17:30:00,18055,Rostock,Stadthafen/Kanonsberg,Mahnwache,,Friedensbewegung Rostock,
 74633,DE,2022-07-18,17:30:00,18055,Rostock,Neuer Markt,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
@@ -120,8 +117,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74652,DE,2022-08-29,16:30:00,18055,Rostock,Stadthafen/Kanonsberg,Mahnwache,,Friedensbewegung Rostock,
 74647,DE,2022-08-29,17:30:00,18055,Rostock,Neuer Markt,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 74754,DE,2022-08-29,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
-74965,DE,2022-08-29,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
 74964,DE,2022-08-29,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
+74965,DE,2022-08-29,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
 74902,DE,2022-08-29,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 74860,DE,2022-08-29,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 75021,DE,2022-09-05,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,
