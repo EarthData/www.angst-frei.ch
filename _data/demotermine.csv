@@ -1,15 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-74980,DE,2022-07-16,10:30:00,83209,Prien am Chiemsee,Am Sportplatz,Schilderwald,,chiemgau-gemeinsam.de,https://www.chiemgau-gemeinsam.de/
-74947,DE,2022-07-16,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,t.me/cellestehtauf
-74940,DE,2022-07-16,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf
-75043,DE,2022-07-16,13:00:00,63741,Aschaffenburg,Parkplatz TC Schönbusch Sportp,Autokorso,,,
-75034,DE,2022-07-16,14:00:00,64385,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Zusammenkunft,,,
-75001,DE,2022-07-16,15:00:00,22041,Hamburg,Klappstr. / Wochenmarkt,Aufzug,,Bürgerbündnis Wandsbek,
-74760,DE,2022-07-16,15:00:00,60329,Frankfurt am Main,Taunusanlage,Aufzug,,,
-75040,DE,2022-07-16,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,APO - Düsseldorf,Aponrw.de
-75032,DE,2022-07-16,15:30:00,45127,Essen,Willy-Brandt-Platz,Kundgebung,,,
-75012,DE,2022-07-16,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
-75035,DE,2022-07-16,18:00:00,73326,Deggingen,Rathaus,Gegenprotest,,,
 74826,DE,2022-07-17,10:00:00,91088,Bubenreuth,Im Wald,Bürgerkrieg,,Privat ( Wing ),
 75039,DE,2022-07-17,10:45:00,75015,Bretten,Stadtpark/Alter Friedhof,Meditation,,,
 75054,AT,2022-07-17,14:00:00,5020,Salzburg,Mozartplatz,Spaziergang,,Salzburg steht auf (jeden Sonntag),
@@ -17,8 +6,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74978,DE,2022-07-17,14:00:00,63741,Aschaffenburg,Schlossplatz und Umgebung,Aufzug,,Rhein-main-steht-auf,www.rhein-main-steht-auf.de
 74569,DE,2022-07-17,14:00:00,63741,Aschaffenburg,Volksfestplatz,Aufzug,,Rhein-main-steht-auf,www.rhein-main-steht-auf.de
 75013,DE,2022-07-17,15:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
-74637,DE,2022-07-18,17:30:00,18055,Rostock,Stadthafen/Kanonsberg,Mahnwache,,Friedensbewegung Rostock,
 74633,DE,2022-07-18,17:30:00,18055,Rostock,Neuer Markt,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
+74637,DE,2022-07-18,17:30:00,18055,Rostock,Stadthafen/Kanonsberg,Mahnwache,,Friedensbewegung Rostock,
 74896,DE,2022-07-18,17:30:00,21073,Hamburg,Rathausplatz / Harburg,Spaziergang,,,
 74922,DE,2022-07-18,18:00:00,88239,Wangen i.Allg.,Marktplatz,Spaziergang,,,
 74838,DE,2022-07-18,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
@@ -28,8 +17,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75052,DE,2022-07-18,18:00:00,50677,Köln,Roncalliplatz,Spaziergang,,,
 75010,DE,2022-07-18,18:00:00,50667,Köln,Roncalliplatz / Domplatte,Spaziergang,,Koelnistaktiv,https://t.me/koelnistaktiv
 75057,DE,2022-07-18,18:00:00,87435,Kempten/Allgäu,Hildegardplatz,Aufzug,,Privat,
-75033,DE,2022-07-18,18:00:00,87435,Kempten,Hildegardplatz,Aufzug,,,
 75044,DE,2022-07-18,18:00:00,87435,Kempten,Hildegardplatz,Kundgebung,,,
+75033,DE,2022-07-18,18:00:00,87435,Kempten,Hildegardplatz,Aufzug,,,
 75000,DE,2022-07-18,18:00:00,53111,Bonn,Marktplatz / Wenzelgasse,Spaziergang,,,
 74914,DE,2022-07-18,18:29:00,83119,Obing,Rathaus,Versammlung,,,
 75030,DE,2022-07-18,18:30:00,95119,Naila,Marktplatz / vor Rathaus,Kundgebung,,Jeder für sich.,
@@ -79,9 +68,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74842,DE,2022-08-01,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 75017,DE,2022-08-01,18:00:00,53111,Bonn,Marktplatz / Wenzelgasse,Spaziergang,,,
 74750,DE,2022-08-01,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
-74957,DE,2022-08-01,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
-74956,DE,2022-08-01,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
 74955,DE,2022-08-01,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
+74956,DE,2022-08-01,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
+74957,DE,2022-08-01,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
 74898,DE,2022-08-01,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 74856,DE,2022-08-01,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 74987,DE,2022-08-01,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
@@ -119,8 +108,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74646,DE,2022-08-22,17:30:00,18055,Rostock,Neuer Markt,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 75050,DE,2022-08-22,18:00:00,53111,Bonn,Markplatz Ecke Wenzelgasse,Spaziergang,,,
 74753,DE,2022-08-22,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
-74962,DE,2022-08-22,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
 74963,DE,2022-08-22,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
+74962,DE,2022-08-22,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
 74901,DE,2022-08-22,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 74859,DE,2022-08-22,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 74656,DE,2022-08-25,17:00:00,18055,Rostock,Brunnen d. Lebensfreude,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
@@ -130,8 +119,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74647,DE,2022-08-29,17:30:00,18055,Rostock,Neuer Markt,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 75051,DE,2022-08-29,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,,
 74754,DE,2022-08-29,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
-74965,DE,2022-08-29,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
 74964,DE,2022-08-29,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
+74965,DE,2022-08-29,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
 74902,DE,2022-08-29,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 74860,DE,2022-08-29,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 75021,DE,2022-09-05,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,
