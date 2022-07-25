@@ -16,8 +16,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75091,DE,2022-07-25,18:30:00,67547,Worms,Lutherdenkmal,Spaziergang,,,
 75031,DE,2022-07-25,18:30:00,95119,Naila,Marktplatz / vor Rathaus,Spaziergang,,Jeder für sich,
 73927,DE,2022-07-25,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
-74954,DE,2022-07-25,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
 74953,DE,2022-07-25,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
+74954,DE,2022-07-25,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
 74711,DE,2022-07-25,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 74855,DE,2022-07-25,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 75104,DE,2022-07-25,19:00:00,01445,Radebeul,Ostbahnhof,Spaziergang,,,
@@ -26,14 +26,16 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75086,DE,2022-07-25,19:00:00,84048,Mainburg,Abensberger Str. 22,Spaziergang,,,
 75097,DE,2022-07-25,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,,
 75103,DE,2022-07-25,19:00:00,01809,Heidenau,Markt,Spaziergang,,,
-75105,DE,2022-07-25,19:00:00,01109,Dresden,Klotzsche / Rathaus,Spaziergang,,,
 75101,DE,2022-07-25,19:00:00,01069,Dresden,Torwirtschaft / Arnhold-Bad,Demonstration,,,
+75105,DE,2022-07-25,19:00:00,01109,Dresden,Klotzsche / Rathaus,Spaziergang,,,
 75107,DE,2022-07-25,19:00:00,01156,Dresden,Cossebaude B6 / Brauergasse,Spaziergang,,,
+75111,DE,2022-07-26,19:00:00,17438,Wolgast,Freifläche am Kai,Demonstration,,Privat,
 75100,DE,2022-07-27,17:30:00,70173,Stuttgart,Schlossplatz/Commerzbank,Schilderwald,,Privat,
 75070,DE,2022-07-27,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://bbfu.de/corona.html
 75093,DE,2022-07-27,19:00:00,06618,Naumburg,Vogelwiese,Demonstration,,Naumburg zeigt Gesicht- das Original,
 74715,DE,2022-07-28,02:37:00,01129,Dresden,Parkplatz vor dem Edeka,Spaziergang,,,
 74642,DE,2022-07-28,17:00:00,18055,Rostock,Brunnen d. Lebensfreude,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
+75110,DE,2022-07-29,17:00:00,01067,Dresden,Postplatz,Demonstration,,,
 75085,DE,2022-07-29,17:30:00,76133,Karlsruhe,Stephanplatz–Postgalerie-Amali,Kundgebung,,s.Info vorne  t.me/grundrechte_jetzt,t.me/grundrechte_jetzt
 74841,DE,2022-07-29,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 74982,DE,2022-07-30,10:30:00,83209,Prien am Chiemsee,Am Sportplatz,Schilderwald,,chiemgau-gemeinsam.de,https://www.chiemgau-gemeinsam.de/
@@ -45,9 +47,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74842,DE,2022-08-01,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 75017,DE,2022-08-01,18:00:00,53111,Bonn,Marktplatz / Wenzelgasse,Spaziergang,,,
 74750,DE,2022-08-01,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
+74957,DE,2022-08-01,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
 74956,DE,2022-08-01,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
 74955,DE,2022-08-01,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
-74957,DE,2022-08-01,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
 74898,DE,2022-08-01,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 74856,DE,2022-08-01,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 74987,DE,2022-08-01,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
