@@ -1,6 +1,6 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-75130,DE,2022-07-31,10:45:00,75015,Bretten,Stadtpark/Alter Friedhof,Meditation,,,
 75124,DE,2022-07-31,10:45:00,75015,Bretten,Stadtpark/Alter Friedhof,Meditation,,,
+75130,DE,2022-07-31,10:45:00,75015,Bretten,Stadtpark/Alter Friedhof,Meditation,,,
 75120,DE,2022-07-31,15:00:00,90402,Nürnberg,Hallplatz / Königstraße,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 75121,DE,2022-08-01,10:00:00,10117,Berlin,Reichstag,Revolte,,Brüderlich mit Herz und Hand,
 75129,DE,2022-08-01,14:00:00,10117,Berlin,Bundestag,Aufstand,,Auf nach Berlin,
@@ -17,6 +17,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75117,DE,2022-08-01,18:00:00,27576,Bremerhaven,Ernst-Reuter-Platz,Spaziergang,,Gemeinsam stark Bremerhaven,
 75017,DE,2022-08-01,18:00:00,53111,Bonn,Marktplatz / Wenzelgasse,Spaziergang,,,
 75155,DE,2022-08-01,18:00:00,01877,Bischofswerda,Markt,Spaziergang,,,
+75161,DE,2022-08-01,18:00:00,10117,Berlin,Reichstag,Bürgerkrieg,,Der Souverän,
 75122,DE,2022-08-01,18:30:00,67547,Worms,Lutherdenkmal,Spaziergang,,,
 74750,DE,2022-08-01,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
 74957,DE,2022-08-01,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
@@ -55,8 +56,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75096,DE,2022-08-08,18:00:00,52428,Jülich,Marktplatz,Spaziergang,,https://t.me/+S4hsCN5HvIPehZ_3,
 75048,DE,2022-08-08,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,,
 74751,DE,2022-08-08,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
-74958,DE,2022-08-08,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
 74959,DE,2022-08-08,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
+74958,DE,2022-08-08,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
 74899,DE,2022-08-08,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 74857,DE,2022-08-08,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 75046,DE,2022-08-11,15:00:00,70190,Stuttgart,SWR-Funkhaus / Neckarstraße 230,Kundgebung,,dieBasis KVMannheim,https://diebasis-mannheim.de/2022/07/kundgebung-stuttgart-swr-gebaeude-am-11-08-2022/
