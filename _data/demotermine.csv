@@ -1,40 +1,60 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
+75230,DE,2022-08-16,18:00:00,76275,Ettlingen,Huttenkr.st-Dickhäuterp.-REAL,Aufzug,,s.Info vorne-für Grundrechte,
+75231,DE,2022-08-17,19:00:00,06618,Naumburg,Vogelwiese,Demonstration,,Naumburg zeigt Gesicht!,
+75215,DE,2022-08-18,17:00:00,70190,Stuttgart,Neckarstraße 230 (vor dem SWR),Mahnwache,,LeuchtturmARD,https://t.me/POLITIKundMEDIEN_STUTTGART
 74655,DE,2022-08-18,17:00:00,18055,Rostock,Brunnen d. Lebensfreude,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
+75188,DE,2022-08-18,18:00:00,53902,Bad Münstereifel,Rathaus,Spaziergang,,,
 75139,DE,2022-08-19,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
+75176,DE,2022-08-20,11:00:00,74564,Crailsheim,Schweinemarktplatz,Mahnwache,,,
 74967,DE,2022-08-20,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,t.me/cellestehtauf
+75236,DE,2022-08-20,11:30:00,20095,Hamburg,Rathausmarkt,Kundgebung,,,
+75238,DE,2022-08-20,11:30:00,20049,Hamburg,Rathaus,Kundgebung,,,https://www.rathausdemo.de/
 74970,DE,2022-08-20,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf
+75234,DE,2022-08-20,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz / Landtagsw,Aufzug,,APO - Düsseldorf,Aponrw.de
+75237,DE,2022-08-21,14:00:00,76530,Baden-Baden,Augustaplatz 1,Kundgebung,https://www.baden-baden.de/stadtportrait/aktuelles/webcams,BI "aufRECHT:FREIdenken",https://www.solidarnosch.de/Covid-19.htm
 74651,DE,2022-08-22,16:30:00,18055,Rostock,Stadthafen/Kanonsberg,Mahnwache,,Friedensbewegung Rostock,
 74646,DE,2022-08-22,17:30:00,18055,Rostock,Neuer Markt,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
+75218,DE,2022-08-22,18:00:00,88239,Wangen i.Allg.,Marktplatz,Spaziergang,,,
 75141,DE,2022-08-22,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 75050,DE,2022-08-22,18:00:00,53111,Bonn,Markplatz Ecke Wenzelgasse,Spaziergang,,,
+75239,DE,2022-08-22,18:30:00,67547,Worms,Lutherdenkmal,Spaziergang,,,
 74753,DE,2022-08-22,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
-74963,DE,2022-08-22,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
 74962,DE,2022-08-22,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
+74963,DE,2022-08-22,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
 74901,DE,2022-08-22,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 74859,DE,2022-08-22,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
+75216,DE,2022-08-25,17:00:00,70190,Stuttgart,Neckarstraße 230 (vor dem SWR),Mahnwache,,LeuchtturmARD,https://t.me/POLITIKundMEDIEN_STUTTGART
 74656,DE,2022-08-25,17:00:00,18055,Rostock,Brunnen d. Lebensfreude,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
+75226,DE,2022-08-25,18:00:00,53902,Bad Münstereifel,Rathaus,Spaziergang,,,
 75142,DE,2022-08-26,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 74968,DE,2022-08-27,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,t.me/cellestehtauf
 74969,DE,2022-08-27,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf
 74652,DE,2022-08-29,16:30:00,18055,Rostock,Stadthafen/Kanonsberg,Mahnwache,,Friedensbewegung Rostock,
 74647,DE,2022-08-29,17:30:00,18055,Rostock,Neuer Markt,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
+75219,DE,2022-08-29,18:00:00,88239,Wangen i.Allg.,Marktplatz,Spaziergang,,,
 75143,DE,2022-08-29,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 75051,DE,2022-08-29,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,,
 74754,DE,2022-08-29,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
-74964,DE,2022-08-29,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
 74965,DE,2022-08-29,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
+74964,DE,2022-08-29,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
 74902,DE,2022-08-29,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 74860,DE,2022-08-29,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 75144,DE,2022-09-02,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
+75177,DE,2022-09-03,11:00:00,74564,Crailsheim,Schweinemarktplatz,Mahnwache,,,
 75021,DE,2022-09-05,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,
+75209,DE,2022-09-05,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 74861,DE,2022-09-05,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 75099,DE,2022-09-10,12:00:00,73525,Schwäbisch Gmünd,Parkplatz Nepperberg,Aufzug,,Baden-Württemberg steht auf!,https://www.facebook.com/groups/234190745499656/announcements
+75185,DE,2022-09-11,17:00:00,80331,München,Marienplatz,Kundgebung,,,
 75022,DE,2022-09-12,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,
+75210,DE,2022-09-12,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 74862,DE,2022-09-12,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 75023,DE,2022-09-19,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,
+75211,DE,2022-09-19,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 74863,DE,2022-09-19,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 75098,DE,2022-09-24,15:00:00,74072,Heilbronn,Friedensplatz,Aufzug,,Baden-Württemberg steht auf!,https://www.facebook.com/photo/?fbid=527530272481902&set=gm.326168769635186
 75024,DE,2022-09-26,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,
+75212,DE,2022-09-26,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 74864,DE,2022-09-26,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 71924,DE,2022-10-02,14:00:00,88718,Meersburg,Am Bodensee,Sonstiges,,Buergerdialog-Konstanz,http://www.friedensee.eu
 75025,DE,2022-10-03,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,
