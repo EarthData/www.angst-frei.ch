@@ -1,14 +1,12 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-75240,DE,2022-08-17,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
-75231,DE,2022-08-17,19:00:00,06618,Naumburg,Vogelwiese,Demonstration,,Naumburg zeigt Gesicht!,
 75215,DE,2022-08-18,17:00:00,70190,Stuttgart,Neckarstraße 230 (vor dem SWR),Mahnwache,,LeuchtturmARD,https://t.me/POLITIKundMEDIEN_STUTTGART
 74655,DE,2022-08-18,17:00:00,18055,Rostock,Brunnen d. Lebensfreude,Kundgebung,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 75188,DE,2022-08-18,18:00:00,53902,Bad Münstereifel,Rathaus,Spaziergang,,,
 75139,DE,2022-08-19,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 75176,DE,2022-08-20,11:00:00,74564,Crailsheim,Schweinemarktplatz,Mahnwache,,,
 74967,DE,2022-08-20,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,t.me/cellestehtauf
-75236,DE,2022-08-20,11:30:00,20095,Hamburg,Rathausmarkt,Kundgebung,,,
 75238,DE,2022-08-20,11:30:00,20049,Hamburg,Rathaus,Kundgebung,,,https://www.rathausdemo.de/
+75236,DE,2022-08-20,11:30:00,20095,Hamburg,Rathausmarkt,Kundgebung,,,
 74970,DE,2022-08-20,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf
 75234,DE,2022-08-20,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz / Landtagsw,Aufzug,,APO - Düsseldorf,Aponrw.de
 75241,DE,2022-08-20,17:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
@@ -21,8 +19,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75050,DE,2022-08-22,18:00:00,53111,Bonn,Markplatz Ecke Wenzelgasse,Spaziergang,,,
 75239,DE,2022-08-22,18:30:00,67547,Worms,Lutherdenkmal,Spaziergang,,,
 74753,DE,2022-08-22,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
-74962,DE,2022-08-22,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
 74963,DE,2022-08-22,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
+74962,DE,2022-08-22,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
 74901,DE,2022-08-22,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 74859,DE,2022-08-22,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 75216,DE,2022-08-25,17:00:00,70190,Stuttgart,Neckarstraße 230 (vor dem SWR),Mahnwache,,LeuchtturmARD,https://t.me/POLITIKundMEDIEN_STUTTGART
