@@ -1,13 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-75176,DE,2022-08-20,11:00:00,74564,Crailsheim,Schweinemarktplatz,Mahnwache,,,
-74967,DE,2022-08-20,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,t.me/cellestehtauf
-75236,DE,2022-08-20,11:30:00,20095,Hamburg,Rathausmarkt,Kundgebung,,,
-75238,DE,2022-08-20,11:30:00,20049,Hamburg,Rathaus,Kundgebung,,,https://www.rathausdemo.de/
-74970,DE,2022-08-20,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf
-75243,DE,2022-08-20,14:00:00,64385,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Zusammenkunft,,,
-75234,DE,2022-08-20,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz / Landtagsw,Aufzug,,APO - Düsseldorf,Aponrw.de
-75241,DE,2022-08-20,17:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
-75246,DE,2022-08-20,18:00:00,73326,Deggingen,Rathaus und Umgebung,Gegenprotest,,,
 75237,DE,2022-08-21,14:00:00,76530,Baden-Baden,Augustaplatz 1,Kundgebung,https://www.baden-baden.de/stadtportrait/aktuelles/webcams,BI "aufRECHT:FREIdenken",https://www.solidarnosch.de/Covid-19.htm
 75242,DE,2022-08-21,15:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 74651,DE,2022-08-22,16:30:00,18055,Rostock,Stadthafen/Kanonsberg,Mahnwache,,Friedensbewegung Rostock,
@@ -20,8 +11,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75248,DE,2022-08-22,18:00:00,13507,Berlin,Alt-Tegel (am Schinkelbrunnen),Spaziergang,,,
 75239,DE,2022-08-22,18:30:00,67547,Worms,Lutherdenkmal,Spaziergang,,,
 74753,DE,2022-08-22,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
-74962,DE,2022-08-22,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
 74963,DE,2022-08-22,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
+74962,DE,2022-08-22,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
 74901,DE,2022-08-22,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 74859,DE,2022-08-22,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 75252,DE,2022-08-22,19:00:00,75334,Straubenhardt-Feldrennach,Rathaus,Spaziergang,,,
