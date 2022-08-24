@@ -1,14 +1,20 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
 75264,DE,2022-08-24,17:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
+75269,DE,2022-08-24,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 75250,DE,2022-08-24,19:00:00,06618,Naumburg,Vogelwiese,Demonstration,,Naumburg zeigt Gesicht- das Original!,
 75216,DE,2022-08-25,17:00:00,70190,Stuttgart,Neckarstraße 230 (vor dem SWR),Mahnwache,,LeuchtturmARD,https://t.me/POLITIKundMEDIEN_STUTTGART
 74656,DE,2022-08-25,17:00:00,18055,Rostock,Brunnen d. Lebensfreude,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 75226,DE,2022-08-25,18:00:00,53902,Bad Münstereifel,Rathaus,Spaziergang,,,
+75272,DE,2022-08-26,17:30:00,76133,Karlsruhe,Marktplatz / nahe Pyramide,Kundgebung,,s. vorne unter Info - t.me/grundrechte_jetzt,
 75142,DE,2022-08-26,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 74968,DE,2022-08-27,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,t.me/cellestehtauf
 74969,DE,2022-08-27,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf
 75263,DE,2022-08-27,14:30:00,22041,Hamburg,Wochenmarkt in der Klappstraße,Aufzug,,Bürgerbündnis Wandsbek,
+75268,DE,2022-08-27,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,APO - Düsseldorf,Aponrw.de
+75270,DE,2022-08-27,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 75265,DE,2022-08-28,14:00:00,42103,Wuppertal,Bahnhofsvorplatz,Demonstration,,NRW ERWACHT!,https://t.me/NRW_erwacht
+75274,DE,2022-08-28,14:00:00,76530,Baden-Baden,Augustaplatz,Kundgebung,,BI "aufRECHT:FREIdenken Mittelbaden",www.solidarnosch.de/covid-19.htm
+75271,DE,2022-08-28,15:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 75247,DE,2022-08-29,14:00:00,10117,Berlin,Reichstag,Aufstand,,Der Souverän,
 74652,DE,2022-08-29,16:30:00,18055,Rostock,Stadthafen/Kanonsberg,Mahnwache,,Friedensbewegung Rostock,
 74647,DE,2022-08-29,17:30:00,18055,Rostock,Neuer Markt,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
@@ -22,6 +28,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74965,DE,2022-08-29,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
 74902,DE,2022-08-29,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 74860,DE,2022-08-29,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
+75273,DE,2022-08-30,18:00:00,76275,Ettlingen,Huttenkr.str-Dickhäuterp.-REAL,Kundgebung,,Huttenkr.st-Dickhäuterp.-REAL,
 75244,DE,2022-09-01,18:00:00,53902,Bad Münstereifel,Rathaus,Spaziergang,,,
 75144,DE,2022-09-02,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 75256,DE,2022-09-02,19:00:00,33602,Bielefeld,Rathausplatz,Demonstration,,,https://t.me/Bielefeldstehtauf_infokanal
