@@ -1,7 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-75264,DE,2022-08-24,17:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
-75269,DE,2022-08-24,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
-75250,DE,2022-08-24,19:00:00,06618,Naumburg,Vogelwiese,Demonstration,,Naumburg zeigt Gesicht- das Original!,
 75216,DE,2022-08-25,17:00:00,70190,Stuttgart,Neckarstraße 230 (vor dem SWR),Mahnwache,,LeuchtturmARD,https://t.me/POLITIKundMEDIEN_STUTTGART
 74656,DE,2022-08-25,17:00:00,18055,Rostock,Brunnen d. Lebensfreude,Aufzug,https://dlive.tv/7TuermeMedien,Friedensbewegung Rostock,
 75226,DE,2022-08-25,18:00:00,53902,Bad Münstereifel,Rathaus,Spaziergang,,,
@@ -26,8 +23,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75267,DE,2022-08-29,18:00:00,13507,Berlin,Alt-Tegel (am Schinkelbrunnen),Spaziergang,,Freiheit Tegel,
 75266,DE,2022-08-29,18:30:00,67547,Worms,Lutherdenkmal,Spaziergang,,,
 74754,DE,2022-08-29,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
-74964,DE,2022-08-29,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
 74965,DE,2022-08-29,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
+74964,DE,2022-08-29,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
 74902,DE,2022-08-29,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 74860,DE,2022-08-29,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 75273,DE,2022-08-30,18:00:00,76275,Ettlingen,Huttenkr.str-Dickhäuterp.-REAL,Kundgebung,,Huttenkr.st-Dickhäuterp.-REAL,
