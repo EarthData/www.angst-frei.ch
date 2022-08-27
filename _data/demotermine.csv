@@ -17,11 +17,15 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75283,DE,2022-08-29,17:30:00,21073,Hamburg-Harburg,Rathausplatz,Spaziergang,,,
 75219,DE,2022-08-29,18:00:00,88239,Wangen i.Allg.,Marktplatz,Spaziergang,,,
 75143,DE,2022-08-29,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
+75286,DE,2022-08-29,18:00:00,71063,Sindelfingen,Vor der Kirche,Spaziergang,,,
 75282,DE,2022-08-29,18:00:00,74523,Schwäbisch Hall,Globe Theater,Spaziergang,,,
+75284,DE,2022-08-29,18:00:00,87435,Kempten,Hildegardplatz,Aufzug,,,
 75280,DE,2022-08-29,18:00:00,27576,Bremerhaven,Ernst-Reuter-Platz,Spaziergang,,Gemeinsam stark Bremerhaven,
 75051,DE,2022-08-29,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,,
 75267,DE,2022-08-29,18:00:00,13507,Berlin,Alt-Tegel (am Schinkelbrunnen),Spaziergang,,Freiheit Tegel,
+75288,DE,2022-08-29,18:15:00,42651,Solingen,Neumarkt,Aufzug,,https://t.me/FreieBergischeLoewenSG,
 75266,DE,2022-08-29,18:30:00,67547,Worms,Lutherdenkmal,Spaziergang,,,
+75290,DE,2022-08-29,18:30:00,29410,Salzwedel,Rathausplatz / Schwarzer Adler,Spaziergang,,,
 74754,DE,2022-08-29,18:30:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
 74964,DE,2022-08-29,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
 74965,DE,2022-08-29,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit!,t.me/cellestehtauf
@@ -34,6 +38,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75144,DE,2022-09-02,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 75256,DE,2022-09-02,19:00:00,33602,Bielefeld,Rathausplatz,Demonstration,,,https://t.me/Bielefeldstehtauf_infokanal
 75177,DE,2022-09-03,11:00:00,74564,Crailsheim,Schweinemarktplatz,Mahnwache,,,
+75285,DE,2022-09-04,14:00:00,54516,Wittlich,Platz an der Lieser,Kundgebung,https://rumble.com/user/Wittlich,Freunde der Wahrheit WIL,https://m.facebook.com/groups/933115227597823/about
 75021,DE,2022-09-05,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,
 75209,DE,2022-09-05,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 74861,DE,2022-09-05,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
@@ -52,6 +57,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 71924,DE,2022-10-02,14:00:00,88718,Meersburg,Am Bodensee,Sonstiges,,Buergerdialog-Konstanz,http://www.friedensee.eu
 75025,DE,2022-10-03,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,
 75026,DE,2022-10-10,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,
+75289,DE,2022-10-16,12:30:00,70372,Stuttgart,Cannstatter Wasen,Aufzug,,POLITIK UND MEDIEN HAND IN HAND- DAS SCHADET UNSEREM LAND,https://t.me/POLITIKundMEDIEN_STUTTGART
 75027,DE,2022-10-17,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,
 69511,DE,2022-10-20,18:30:00,60389,Frankfurt Bornheim,Günthersburgpark,Aufzug,,unbekannt,https://t.me/ffmfreiheit
 75028,DE,2022-10-24,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,
