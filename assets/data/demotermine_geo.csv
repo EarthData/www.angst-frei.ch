@@ -1,73 +1,73 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite,latitude,longitude,created
-75244,DE,2022-09-01,18:00:00,53902,Bad Münstereifel,Rathaus,Spaziergang,,,,50.5550689,6.7628664,2022-09-01 18:16:58
-75144,DE,2022-09-02,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,,47.67030905,9.586421199708216,2022-09-01 18:16:58
-75256,DE,2022-09-02,19:00:00,33602,Bielefeld,Rathausplatz,Demonstration,,,https://t.me/Bielefeldstehtauf_infokanal,52.02153585000001,8.535387117918091,2022-09-01 18:16:58
-75325,DE,2022-09-03,11:00:00,16303,Schwedt(Oder),Platz der Befreiung,Event,,,,53.060499899999996,14.284552399999992,2022-09-01 18:16:58
-75177,DE,2022-09-03,11:00:00,74564,Crailsheim,Schweinemarktplatz,Mahnwache,,,,49.1360918,10.0720684,2022-09-01 18:16:58
-75334,DE,2022-09-03,15:30:00,45127,Essen,Willy-Brandt-Platz,Kundgebung,,Für den Erhalt der Freiheit,,51.4529596,7.0130858,2022-09-01 18:16:58
-75318,DE,2022-09-03,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2022-09-01 18:16:58
-75333,DE,2022-09-03,18:00:00,73326,Deggingen,Rathaus und Umgebung,Gegenprotest,,,,48.5963052,9.7174508,2022-09-01 18:16:58
-75338,DE,2022-09-04,12:00:00,51065,Köln,Roncaliplatz,Demonstration,,,,50.938361,6.959974,2022-09-01 18:16:58
-75285,DE,2022-09-04,14:00:00,54516,Wittlich,Platz an der Lieser,Kundgebung,https://rumble.com/user/Wittlich,Freunde der Wahrheit WIL,https://m.facebook.com/groups/933115227597823/about,49.9856719,6.886221950470437,2022-09-01 18:16:58
-75331,DE,2022-09-04,14:00:00,76530,Baden-Baden,Augustaplatz,Kundgebung,,"BI ""aufRECHT:FREIdenken Mittelbaden""",www.solidarnosch.de/covid-19.htm,48.758141,8.2403833,2022-09-01 18:16:58
-75316,DE,2022-09-04,14:30:00,66111,Saarbrücken,Landwehrplatz,Versammlung,,Bürgerlicher Protest,,49.2342287,7.0015939,2022-09-01 18:16:58
-75319,DE,2022-09-04,15:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2022-09-01 18:16:58
-75312,DE,2022-09-04,16:30:00,6406,Bernburg,Karlsplatz,Spaziergang,,,,51.79456,11.7437953,2022-09-01 18:16:58
-75335,DE,2022-09-05,18:00:00,74523,Schwäbisch Hall,Marktplatz,Spaziergang,,,,49.112382350000004,9.737225188306091,2022-09-01 18:16:58
-75021,DE,2022-09-05,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,,49.9927036,8.6671682,2022-09-01 18:16:58
-75305,DE,2022-09-05,18:00:00,4567,Kitzscher,Rathaus,Spaziergang,,,,51.16375845,12.550440798979356,2022-09-01 18:16:58
-75340,DE,2022-09-05,18:00:00,87435,Kempten,Hildegardplatz,Aufzug,,,,47.7277528,10.3118719,2022-09-01 18:16:58
-75293,DE,2022-09-05,18:00:00,21029,Hamburg-Bergedorf,Sankt Petri und Pauli (Kirche),Spaziergang,,,,53.486863817283144,10.223338070081834,2022-09-01 18:16:58
-75320,DE,2022-09-05,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,,,50.735851,7.10066,2022-09-01 18:16:58
-75341,DE,2022-09-05,18:00:00,6749,Bitterfeld,Marktplatz,Spaziergang,,,,51.7511565,11.9733155,2022-09-01 18:16:58
-75324,DE,2022-09-05,18:00:00,13507,Berlin,Alt-Tegel (am Schinkelbrunnen),Spaziergang,,Freiheit Tegel,,52.580224263210496,13.281094308057465,2022-09-01 18:16:58
-75315,DE,2022-09-05,18:30:00,67547,Worms,Lutherdenkmal,Spaziergang,,,,49.6322834,8.360071651284898,2022-09-01 18:16:58
-75299,DE,2022-09-05,18:30:00,21465,Reinbek,vorm Rathaus,Spaziergang,,,,53.5098898,10.2511001,2022-09-01 18:16:58
-75209,DE,2022-09-05,18:30:00,99510,Apolda,Markt,Spaziergang,,,,51.0228736,11.5134688,2022-09-01 18:16:58
-74861,DE,2022-09-05,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-09-01 18:16:58
-75326,DE,2022-09-05,19:00:00,16303,Schwedt(Oder),Friedensbaum Vierradener Str.,Spaziergang,,Bürger,,53.0586366,14.2840858,2022-09-01 18:16:58
-75313,DE,2022-09-05,19:00:00,99974,Mühlhausen/ Thüringen,Untermarkt,Spaziergang,,,,51.2074205,10.4579131,2022-09-01 18:16:58
-75314,DE,2022-09-06,18:15:00,71554,Weissach im Tal,Rathaus in Unterweissach,Aufzug,,Privat,,48.9207787,9.504504147941828,2022-09-01 18:16:58
-75336,DE,2022-09-07,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html,50.1994993,8.5847046,2022-09-01 18:16:58
-75327,DE,2022-09-08,18:00:00,53902,Bad Münstereifel,Rathaus,Spaziergang,,,,50.5550689,6.7628664,2022-09-01 18:16:58
-75099,DE,2022-09-10,12:00:00,73525,Schwäbisch Gmünd,Parkplatz Nepperberg,Aufzug,,Baden-Württemberg steht auf!,https://www.facebook.com/groups/234190745499656/announcements,48.7999036,9.7977584,2022-09-01 18:16:58
-75185,DE,2022-09-11,17:00:00,80331,München,Marienplatz,Kundgebung,,,,48.1372356,11.574675,2022-09-01 18:16:58
-75022,DE,2022-09-12,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,,49.9927036,8.6671682,2022-09-01 18:16:58
-75306,DE,2022-09-12,18:00:00,4567,Kitzscher,Rathaus,Spaziergang,,,,51.16375845,12.550440798979356,2022-09-01 18:16:58
-75294,DE,2022-09-12,18:00:00,21029,Hamburg-Bergedorf,Sankt Petri und Pauli (Kirche),Spaziergang,,,,53.486863817283144,10.223338070081834,2022-09-01 18:16:58
-75321,DE,2022-09-12,18:00:00,53111,Bonn,Markplatz Ecke Wenzelgasse,Kundgebung,,,,50.735851,7.10066,2022-09-01 18:16:58
-75300,DE,2022-09-12,18:30:00,21465,Reinbek,vorm Rathaus,Spaziergang,,,,53.5098898,10.2511001,2022-09-01 18:16:58
-75210,DE,2022-09-12,18:30:00,99510,Apolda,Markt,Spaziergang,,,,51.0228736,11.5134688,2022-09-01 18:16:58
-74862,DE,2022-09-12,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-09-01 18:16:58
-75337,DE,2022-09-14,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html,50.1994993,8.5847046,2022-09-01 18:16:58
-75328,DE,2022-09-15,18:00:00,53902,Bad Münstereifel,Rathaus,Spaziergang,,,,50.5550689,6.7628664,2022-09-01 18:16:58
-75023,DE,2022-09-19,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,,49.9927036,8.6671682,2022-09-01 18:16:58
-75307,DE,2022-09-19,18:00:00,4567,Kitzscher,Rathaus,Spaziergang,,,,51.16375845,12.550440798979356,2022-09-01 18:16:58
-75296,DE,2022-09-19,18:00:00,21029,Hamburg-Bergedorf,Sankt Petri und Pauli (Kirche),Spaziergang,,,,53.486863817283144,10.223338070081834,2022-09-01 18:16:58
-75322,DE,2022-09-19,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,,,50.735851,7.10066,2022-09-01 18:16:58
-75301,DE,2022-09-19,18:30:00,21465,Reinbek,vorm Rathaus,Spaziergang,,,,53.5098898,10.2511001,2022-09-01 18:16:58
-75211,DE,2022-09-19,18:30:00,99510,Apolda,Markt,Spaziergang,,,,51.0228736,11.5134688,2022-09-01 18:16:58
-74863,DE,2022-09-19,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-09-01 18:16:58
-75329,DE,2022-09-22,18:00:00,53902,Bad Münstereifel,Rathaus,Spaziergang,,,,50.5550689,6.7628664,2022-09-01 18:16:58
-75098,DE,2022-09-24,15:00:00,74072,Heilbronn,Friedensplatz,Aufzug,,Baden-Württemberg steht auf!,https://www.facebook.com/photo/?fbid=527530272481902&set=gm.326168769635186,49.1401583,9.2262268,2022-09-01 18:16:58
-75024,DE,2022-09-26,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,,49.9927036,8.6671682,2022-09-01 18:16:58
-75308,DE,2022-09-26,18:00:00,4567,Kitzscher,Rathaus,Spaziergang,,,,51.16375845,12.550440798979356,2022-09-01 18:16:58
-75297,DE,2022-09-26,18:00:00,21029,Hamburg-Bergedorf,Sankt Petri und Pauli (Kirche),Spaziergang,,,,53.486863817283144,10.223338070081834,2022-09-01 18:16:58
-75323,DE,2022-09-26,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,,,50.735851,7.10066,2022-09-01 18:16:58
-75302,DE,2022-09-26,18:30:00,21465,Reinbek,vorm Rathaus,Spaziergang,,,,53.5098898,10.2511001,2022-09-01 18:16:58
-75212,DE,2022-09-26,18:30:00,99510,Apolda,Markt,Spaziergang,,,,51.0228736,11.5134688,2022-09-01 18:16:58
-74864,DE,2022-09-26,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-09-01 18:16:58
-75330,DE,2022-09-29,18:00:00,53902,Bad Münsterefel,Rathaus,Spaziergang,,,,50.5550689,6.7628664,2022-09-01 18:16:58
-71924,DE,2022-10-02,14:00:00,88718,Meersburg,Am Bodensee,Sonstiges,,Buergerdialog-Konstanz,http://www.friedensee.eu,47.6760185,9.3113752,2022-09-01 18:16:58
-75025,DE,2022-10-03,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,,49.9927036,8.6671682,2022-09-01 18:16:58
-75026,DE,2022-10-10,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,,49.9927036,8.6671682,2022-09-01 18:16:58
-75289,DE,2022-10-16,12:30:00,70372,Stuttgart,Cannstatter Wasen,Aufzug,,POLITIK UND MEDIEN HAND IN HAND- DAS SCHADET UNSEREM LAND,https://t.me/POLITIKundMEDIEN_STUTTGART,48.79709735,9.21709959152044,2022-09-01 18:16:58
-75027,DE,2022-10-17,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,,49.9927036,8.6671682,2022-09-01 18:16:58
-69511,DE,2022-10-20,18:30:00,60389,Frankfurt Bornheim,Günthersburgpark,Aufzug,,unbekannt,https://t.me/ffmfreiheit,50.1304742,8.7051121,2022-09-01 18:16:58
-75028,DE,2022-10-24,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,,49.9927036,8.6671682,2022-09-01 18:16:58
-75029,DE,2022-10-31,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Kundgebung,,,,49.9927036,8.6671682,2022-09-01 18:16:58
-55107,DE,2022-12-18,13:45:00,70182,Stuttgart,Wilhelmsplatz,Kundgebung,,unbekannt,,48.7709861,9.1788068,2022-09-01 18:16:58
-73995,DE,2022-12-25,19:00:00,1809,Heidenau,Markt,Demonstration,,unbekannt,,50.9808597,13.8635073,2022-09-01 18:16:58
-55530,DE,2022-12-27,18:00:00,94072,Bad Füssing,Kurplatz / Kurallee,Spaziergang,,unbekannt,,48.3506733,13.3095441,2022-09-01 18:16:58
-74733,DE,2033-06-15,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2022-09-01 18:16:58
-69431,DE,2922-01-17,19:00:00,50667,Köln,Roncalliplatz/Domplatte,Spaziergang,,unbekannt,,50.938361,6.959974,2022-09-01 18:16:58
+75244,DE,2022-09-01,18:00:00,53902,Bad Münstereifel,Rathaus,Spaziergang,,,,50.5550689,6.7628664,2022-09-01 19:16:58
+75144,DE,2022-09-02,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,,47.67030905,9.586421199708216,2022-09-01 19:16:58
+75256,DE,2022-09-02,19:00:00,33602,Bielefeld,Rathausplatz,Demonstration,,,https://t.me/Bielefeldstehtauf_infokanal,52.02153585000001,8.535387117918091,2022-09-01 19:16:58
+75325,DE,2022-09-03,11:00:00,16303,Schwedt(Oder),Platz der Befreiung,Event,,,,53.060499899999996,14.284552399999992,2022-09-01 19:16:58
+75177,DE,2022-09-03,11:00:00,74564,Crailsheim,Schweinemarktplatz,Mahnwache,,,,49.1360918,10.0720684,2022-09-01 19:16:58
+75334,DE,2022-09-03,15:30:00,45127,Essen,Willy-Brandt-Platz,Kundgebung,,Für den Erhalt der Freiheit,,51.4529596,7.0130858,2022-09-01 19:16:58
+75318,DE,2022-09-03,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2022-09-01 19:16:58
+75333,DE,2022-09-03,18:00:00,73326,Deggingen,Rathaus und Umgebung,Gegenprotest,,,,48.5963052,9.7174508,2022-09-01 19:16:58
+75338,DE,2022-09-04,12:00:00,51065,Köln,Roncaliplatz,Demonstration,,,,50.938361,6.959974,2022-09-01 19:16:58
+75285,DE,2022-09-04,14:00:00,54516,Wittlich,Platz an der Lieser,Kundgebung,https://rumble.com/user/Wittlich,Freunde der Wahrheit WIL,https://m.facebook.com/groups/933115227597823/about,49.9856719,6.886221950470437,2022-09-01 19:16:58
+75331,DE,2022-09-04,14:00:00,76530,Baden-Baden,Augustaplatz,Kundgebung,,"BI ""aufRECHT:FREIdenken Mittelbaden""",www.solidarnosch.de/covid-19.htm,48.758141,8.2403833,2022-09-01 19:16:58
+75316,DE,2022-09-04,14:30:00,66111,Saarbrücken,Landwehrplatz,Versammlung,,Bürgerlicher Protest,,49.2342287,7.0015939,2022-09-01 19:16:58
+75319,DE,2022-09-04,15:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2022-09-01 19:16:58
+75312,DE,2022-09-04,16:30:00,6406,Bernburg,Karlsplatz,Spaziergang,,,,51.79456,11.7437953,2022-09-01 19:16:58
+75335,DE,2022-09-05,18:00:00,74523,Schwäbisch Hall,Marktplatz,Spaziergang,,,,49.112382350000004,9.737225188306091,2022-09-01 19:16:58
+75021,DE,2022-09-05,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,,49.9927036,8.6671682,2022-09-01 19:16:58
+75305,DE,2022-09-05,18:00:00,4567,Kitzscher,Rathaus,Spaziergang,,,,51.16375845,12.550440798979356,2022-09-01 19:16:58
+75340,DE,2022-09-05,18:00:00,87435,Kempten,Hildegardplatz,Aufzug,,,,47.7277528,10.3118719,2022-09-01 19:16:58
+75293,DE,2022-09-05,18:00:00,21029,Hamburg-Bergedorf,Sankt Petri und Pauli (Kirche),Spaziergang,,,,53.486863817283144,10.223338070081834,2022-09-01 19:16:58
+75320,DE,2022-09-05,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,,,50.735851,7.10066,2022-09-01 19:16:58
+75341,DE,2022-09-05,18:00:00,6749,Bitterfeld,Marktplatz,Spaziergang,,,,51.7511565,11.9733155,2022-09-01 19:16:58
+75324,DE,2022-09-05,18:00:00,13507,Berlin,Alt-Tegel (am Schinkelbrunnen),Spaziergang,,Freiheit Tegel,,52.580224263210496,13.281094308057465,2022-09-01 19:16:58
+75315,DE,2022-09-05,18:30:00,67547,Worms,Lutherdenkmal,Spaziergang,,,,49.6322834,8.360071651284898,2022-09-01 19:16:58
+75299,DE,2022-09-05,18:30:00,21465,Reinbek,vorm Rathaus,Spaziergang,,,,53.5098898,10.2511001,2022-09-01 19:16:58
+75209,DE,2022-09-05,18:30:00,99510,Apolda,Markt,Spaziergang,,,,51.0228736,11.5134688,2022-09-01 19:16:58
+74861,DE,2022-09-05,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-09-01 19:16:58
+75326,DE,2022-09-05,19:00:00,16303,Schwedt(Oder),Friedensbaum Vierradener Str.,Spaziergang,,Bürger,,53.0586366,14.2840858,2022-09-01 19:16:58
+75313,DE,2022-09-05,19:00:00,99974,Mühlhausen/ Thüringen,Untermarkt,Spaziergang,,,,51.2074205,10.4579131,2022-09-01 19:16:58
+75314,DE,2022-09-06,18:15:00,71554,Weissach im Tal,Rathaus in Unterweissach,Aufzug,,Privat,,48.9207787,9.504504147941828,2022-09-01 19:16:58
+75336,DE,2022-09-07,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html,50.1994993,8.5847046,2022-09-01 19:16:58
+75327,DE,2022-09-08,18:00:00,53902,Bad Münstereifel,Rathaus,Spaziergang,,,,50.5550689,6.7628664,2022-09-01 19:16:58
+75099,DE,2022-09-10,12:00:00,73525,Schwäbisch Gmünd,Parkplatz Nepperberg,Aufzug,,Baden-Württemberg steht auf!,https://www.facebook.com/groups/234190745499656/announcements,48.7999036,9.7977584,2022-09-01 19:16:58
+75185,DE,2022-09-11,17:00:00,80331,München,Marienplatz,Kundgebung,,,,48.1372356,11.574675,2022-09-01 19:16:58
+75022,DE,2022-09-12,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,,49.9927036,8.6671682,2022-09-01 19:16:58
+75306,DE,2022-09-12,18:00:00,4567,Kitzscher,Rathaus,Spaziergang,,,,51.16375845,12.550440798979356,2022-09-01 19:16:58
+75294,DE,2022-09-12,18:00:00,21029,Hamburg-Bergedorf,Sankt Petri und Pauli (Kirche),Spaziergang,,,,53.486863817283144,10.223338070081834,2022-09-01 19:16:58
+75321,DE,2022-09-12,18:00:00,53111,Bonn,Markplatz Ecke Wenzelgasse,Kundgebung,,,,50.735851,7.10066,2022-09-01 19:16:58
+75300,DE,2022-09-12,18:30:00,21465,Reinbek,vorm Rathaus,Spaziergang,,,,53.5098898,10.2511001,2022-09-01 19:16:58
+75210,DE,2022-09-12,18:30:00,99510,Apolda,Markt,Spaziergang,,,,51.0228736,11.5134688,2022-09-01 19:16:58
+74862,DE,2022-09-12,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-09-01 19:16:58
+75337,DE,2022-09-14,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html,50.1994993,8.5847046,2022-09-01 19:16:58
+75328,DE,2022-09-15,18:00:00,53902,Bad Münstereifel,Rathaus,Spaziergang,,,,50.5550689,6.7628664,2022-09-01 19:16:58
+75023,DE,2022-09-19,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,,49.9927036,8.6671682,2022-09-01 19:16:58
+75307,DE,2022-09-19,18:00:00,4567,Kitzscher,Rathaus,Spaziergang,,,,51.16375845,12.550440798979356,2022-09-01 19:16:58
+75296,DE,2022-09-19,18:00:00,21029,Hamburg-Bergedorf,Sankt Petri und Pauli (Kirche),Spaziergang,,,,53.486863817283144,10.223338070081834,2022-09-01 19:16:58
+75322,DE,2022-09-19,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,,,50.735851,7.10066,2022-09-01 19:16:58
+75301,DE,2022-09-19,18:30:00,21465,Reinbek,vorm Rathaus,Spaziergang,,,,53.5098898,10.2511001,2022-09-01 19:16:58
+75211,DE,2022-09-19,18:30:00,99510,Apolda,Markt,Spaziergang,,,,51.0228736,11.5134688,2022-09-01 19:16:58
+74863,DE,2022-09-19,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-09-01 19:16:58
+75329,DE,2022-09-22,18:00:00,53902,Bad Münstereifel,Rathaus,Spaziergang,,,,50.5550689,6.7628664,2022-09-01 19:16:58
+75098,DE,2022-09-24,15:00:00,74072,Heilbronn,Friedensplatz,Aufzug,,Baden-Württemberg steht auf!,https://www.facebook.com/photo/?fbid=527530272481902&set=gm.326168769635186,49.1401583,9.2262268,2022-09-01 19:16:58
+75024,DE,2022-09-26,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,,49.9927036,8.6671682,2022-09-01 19:16:58
+75308,DE,2022-09-26,18:00:00,4567,Kitzscher,Rathaus,Spaziergang,,,,51.16375845,12.550440798979356,2022-09-01 19:16:58
+75297,DE,2022-09-26,18:00:00,21029,Hamburg-Bergedorf,Sankt Petri und Pauli (Kirche),Spaziergang,,,,53.486863817283144,10.223338070081834,2022-09-01 19:16:58
+75323,DE,2022-09-26,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,,,50.735851,7.10066,2022-09-01 19:16:58
+75302,DE,2022-09-26,18:30:00,21465,Reinbek,vorm Rathaus,Spaziergang,,,,53.5098898,10.2511001,2022-09-01 19:16:58
+75212,DE,2022-09-26,18:30:00,99510,Apolda,Markt,Spaziergang,,,,51.0228736,11.5134688,2022-09-01 19:16:58
+74864,DE,2022-09-26,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,,51.9640308,12.0857291,2022-09-01 19:16:58
+75330,DE,2022-09-29,18:00:00,53902,Bad Münsterefel,Rathaus,Spaziergang,,,,50.5550689,6.7628664,2022-09-01 19:16:58
+71924,DE,2022-10-02,14:00:00,88718,Meersburg,Am Bodensee,Sonstiges,,Buergerdialog-Konstanz,http://www.friedensee.eu,47.6760185,9.3113752,2022-09-01 19:16:58
+75025,DE,2022-10-03,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,,49.9927036,8.6671682,2022-09-01 19:16:58
+75026,DE,2022-10-10,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,,49.9927036,8.6671682,2022-09-01 19:16:58
+75289,DE,2022-10-16,12:30:00,70372,Stuttgart,Cannstatter Wasen,Aufzug,,POLITIK UND MEDIEN HAND IN HAND- DAS SCHADET UNSEREM LAND,https://t.me/POLITIKundMEDIEN_STUTTGART,48.79709735,9.21709959152044,2022-09-01 19:16:58
+75027,DE,2022-10-17,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,,49.9927036,8.6671682,2022-09-01 19:16:58
+69511,DE,2022-10-20,18:30:00,60389,Frankfurt Bornheim,Günthersburgpark,Aufzug,,unbekannt,https://t.me/ffmfreiheit,50.1304742,8.7051121,2022-09-01 19:16:58
+75028,DE,2022-10-24,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,,49.9927036,8.6671682,2022-09-01 19:16:58
+75029,DE,2022-10-31,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Kundgebung,,,,49.9927036,8.6671682,2022-09-01 19:16:58
+55107,DE,2022-12-18,13:45:00,70182,Stuttgart,Wilhelmsplatz,Kundgebung,,unbekannt,,48.7709861,9.1788068,2022-09-01 19:16:58
+73995,DE,2022-12-25,19:00:00,1809,Heidenau,Markt,Demonstration,,unbekannt,,50.9808597,13.8635073,2022-09-01 19:16:58
+55530,DE,2022-12-27,18:00:00,94072,Bad Füssing,Kurplatz / Kurallee,Spaziergang,,unbekannt,,48.3506733,13.3095441,2022-09-01 19:16:58
+74733,DE,2033-06-15,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2022-09-01 19:16:58
+69431,DE,2922-01-17,19:00:00,50667,Köln,Roncalliplatz/Domplatte,Spaziergang,,unbekannt,,50.938361,6.959974,2022-09-01 19:16:58
