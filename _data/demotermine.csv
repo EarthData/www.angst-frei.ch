@@ -1,12 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-75325,DE,2022-09-03,11:00:00,16303,Schwedt(Oder),Platz der Befreiung,Event,,,
-75177,DE,2022-09-03,11:00:00,74564,Crailsheim,Schweinemarktplatz,Mahnwache,,,
-75368,DE,2022-09-03,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,t.me/cellestehtauf
-75379,DE,2022-09-03,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf
-75345,DE,2022-09-03,14:00:00,64385,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Zusammenkunft,,,
-75334,DE,2022-09-03,15:30:00,45127,Essen,Willy-Brandt-Platz,Kundgebung,,Für den Erhalt der Freiheit,
-75318,DE,2022-09-03,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
-75333,DE,2022-09-03,18:00:00,73326,Deggingen,Rathaus und Umgebung,Gegenprotest,,,
 75338,DE,2022-09-04,12:00:00,51065,Köln,Roncaliplatz,Demonstration,,,
 75285,DE,2022-09-04,14:00:00,54516,Wittlich,Platz an der Lieser,Kundgebung,https://rumble.com/user/Wittlich,Freunde der Wahrheit WIL,https://m.facebook.com/groups/933115227597823/about
 75331,DE,2022-09-04,14:00:00,76530,Baden-Baden,Augustaplatz,Kundgebung,,BI "aufRECHT:FREIdenken Mittelbaden",www.solidarnosch.de/covid-19.htm
@@ -54,8 +46,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75362,DE,2022-09-12,18:00:00,06844,Dessau-Roßlau,Marktplatz,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
 75321,DE,2022-09-12,18:00:00,53111,Bonn,Markplatz Ecke Wenzelgasse,Kundgebung,,,
 75300,DE,2022-09-12,18:30:00,21465,Reinbek,vorm Rathaus,Spaziergang,,,
-75383,DE,2022-09-12,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75382,DE,2022-09-12,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+75383,DE,2022-09-12,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75210,DE,2022-09-12,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 74862,DE,2022-09-12,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 75337,DE,2022-09-14,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
@@ -86,9 +78,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75364,DE,2022-09-26,18:00:00,06844,Dessau-Roßlau,Marktplatz,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
 75323,DE,2022-09-26,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,,
 75302,DE,2022-09-26,18:30:00,21465,Reinbek,vorm Rathaus,Spaziergang,,,
+75387,DE,2022-09-26,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75386,DE,2022-09-26,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75388,DE,2022-09-26,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
-75387,DE,2022-09-26,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75212,DE,2022-09-26,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 74864,DE,2022-09-26,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 75330,DE,2022-09-29,18:00:00,53902,Bad Münsterefel,Rathaus,Spaziergang,,,
