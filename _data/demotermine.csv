@@ -2,17 +2,22 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75314,DE,2022-09-06,18:15:00,71554,Weissach im Tal,Rathaus in Unterweissach,Aufzug,,Privat,
 75367,DE,2022-09-07,18:00:00,70173,Stuttgart,Karlsplatz,Aufzug,,Trommeln verbinden Deutschland,
 75408,DE,2022-09-07,18:00:00,70173,Stuttgart,Karlsplatz,Aufzug,,Privat,
+75427,DE,2022-09-07,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 75336,DE,2022-09-07,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
 75420,DE,2022-09-07,19:00:00,74933,Neidenstein,van Venningen Halle,Kundgebung,,,
 75352,DE,2022-09-07,19:00:00,06618,Naumburg,Vogelwiese,Demonstration,,Naumburg zeigt Gesicht!,https://t.me/naumburgsaalezeigtgesicht
 75417,DE,2022-09-08,18:00:00,84028,Landshut,Altstadt 89,Mahnwache,,Leuchtturm ARD,
 75327,DE,2022-09-08,18:00:00,53902,Bad Münstereifel,Rathaus,Spaziergang,,,
+75428,DE,2022-09-09,15:00:00,90402,Nürnberg,Hallplatz / Königstr.,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 75393,DE,2022-09-09,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 75369,DE,2022-09-10,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,t.me/cellestehtauf
 75378,DE,2022-09-10,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf
 75099,DE,2022-09-10,12:00:00,73525,Schwäbisch Gmünd,Parkplatz Nepperberg,Aufzug,,Baden-Württemberg steht auf!,https://www.facebook.com/groups/234190745499656/announcements
 75418,DE,2022-09-10,15:00:00,22041,Hamburg,Wochenmarkt in der Klappstraße,Aufzug,,Bürgerbündnis Wandsbek,
+75426,DE,2022-09-10,15:00:00,52064,Aachen,Elisenbrunnen,Aufzug,https://dlive.tv/PatriotOnTour,Aachener Bündnis für Frieden, Freiheit und Gerechtigkeit,https://t.me/Querdenken_241
 75414,DE,2022-09-11,14:00:00,84028,Landshut,Ringelstecherwiese,Kundgebung,,Bayern steht zusammen e.V.,https://t.me/BayernStehtZusammenTermine/525
+75430,DE,2022-09-11,14:00:00,76530,Baden-Baden,Augustaplatz 1,Demonstration,,BI "aufRECHT:FREIdenken",https://www.solidarnosch.de/Covid-19.htm
+75429,DE,2022-09-11,15:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 75185,DE,2022-09-11,17:00:00,80331,München,Marienplatz,Kundgebung,,,
 75350,DE,2022-09-12,18:00:00,88239,Wangen i.Allg.,Marktplatz,Spaziergang,,,
 75394,DE,2022-09-12,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
@@ -29,8 +34,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75425,DE,2022-09-12,18:15:00,42651,Solingen,Neumarkt,Spaziergang,,,
 75415,DE,2022-09-12,18:30:00,67547,Worms,Lutherdenkmal,Spaziergang,,,
 75300,DE,2022-09-12,18:30:00,21465,Reinbek,vorm Rathaus,Spaziergang,,,
-75383,DE,2022-09-12,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75382,DE,2022-09-12,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+75383,DE,2022-09-12,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75210,DE,2022-09-12,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 74862,DE,2022-09-12,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 75423,DE,2022-09-12,19:00:00,06268,Querfurt,Querfurt Markt,Spaziergang,,,
@@ -69,9 +74,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75364,DE,2022-09-26,18:00:00,06844,Dessau-Roßlau,Marktplatz,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
 75323,DE,2022-09-26,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,,
 75302,DE,2022-09-26,18:30:00,21465,Reinbek,vorm Rathaus,Spaziergang,,,
-75388,DE,2022-09-26,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75386,DE,2022-09-26,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75387,DE,2022-09-26,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+75388,DE,2022-09-26,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75212,DE,2022-09-26,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 74864,DE,2022-09-26,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 75330,DE,2022-09-29,18:00:00,53902,Bad Münsterefel,Rathaus,Spaziergang,,,
