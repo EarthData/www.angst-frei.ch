@@ -1,38 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-75450,DE,2022-09-12,07:00:00,84048,Mainburg,Abensberger Straße 21,Spaziergang,,,
-75445,DE,2022-09-12,17:30:00,21073,Hamburg-Harburg,Harburger Rathausplatz,Spaziergang,,,
-75350,DE,2022-09-12,18:00:00,88239,Wangen i.Allg.,Marktplatz,Spaziergang,,,
-75456,DE,2022-09-12,18:00:00,95643,Tirschenreuth,Oberer Marktplatz,Demonstration,,Aktionsbündnis Tirschenreuth wacht auf S. Wenzel/D.Ullrich,https://t.me/s/TIRwachtauf
-75394,DE,2022-09-12,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
-75358,DE,2022-09-12,18:00:00,71063,Sindelfingen,Martinskirche,Spaziergang,,,
-75433,DE,2022-09-12,18:00:00,74523,Schwäbisch Hall,Marktplatz,Spaziergang,,,
-75360,DE,2022-09-12,18:00:00,75328,Schömberg,Rathaus,Spaziergang,,,
-75465,DE,2022-09-12,18:00:00,56410,Montabaur,Rathaus,Spaziergang,,,
-75421,DE,2022-09-12,18:00:00,69256,Mauer,Rathaus,Spaziergang,,,
-75022,DE,2022-09-12,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,
-75410,DE,2022-09-12,18:00:00,84028,Landshut,Ländtorplatz,Spaziergang,,,
-75306,DE,2022-09-12,18:00:00,04567,Kitzscher,Rathaus,Spaziergang,,,
-75454,DE,2022-09-12,18:00:00,87435,Kempten,Stadtpark (Pavillon),Kundgebung,,,
-75294,DE,2022-09-12,18:00:00,21029,Hamburg-Bergedorf,Sankt Petri und Pauli (Kirche),Spaziergang,,,
-75362,DE,2022-09-12,18:00:00,06844,Dessau-Roßlau,Marktplatz,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
-75453,DE,2022-09-12,18:00:00,76646,Bruchsal,Innenstadt,Demonstration,,s. unter Info vorne,
-75321,DE,2022-09-12,18:00:00,53111,Bonn,Markplatz Ecke Wenzelgasse,Kundgebung,,,
-75424,DE,2022-09-12,18:00:00,13507,Berlin,Schinkelbrunnen / Alt-Tegel 2,Spaziergang,,Freiheit Tegel,
-75448,DE,2022-09-12,18:05:00,75334,Feldrennach,Rathaus,Spaziergang,,,
-75425,DE,2022-09-12,18:15:00,42651,Solingen,Neumarkt,Spaziergang,,,
-75415,DE,2022-09-12,18:30:00,67547,Worms,Lutherdenkmal,Spaziergang,,,
-75300,DE,2022-09-12,18:30:00,21465,Reinbek,vorm Rathaus,Spaziergang,,,
-75446,DE,2022-09-12,18:30:00,67059,Ludwigshafen,Berliner Platz,Spaziergang,,Leuturm,
-75382,DE,2022-09-12,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
-75383,DE,2022-09-12,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
-75464,DE,2022-09-12,18:30:00,38100,Braunschweig,Am Braunschweiger Dom,Aufzug,,,
-75210,DE,2022-09-12,18:30:00,99510,Apolda,Markt,Spaziergang,,,
-74862,DE,2022-09-12,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
-75423,DE,2022-09-12,19:00:00,06268,Querfurt,Querfurt Markt,Spaziergang,,,
-75437,DE,2022-09-12,19:00:00,99974,Mühlhausen/ Thüringen,Untermarkt,Spaziergang,,,
-75451,DE,2022-09-12,19:00:00,99974,Mühlhausen/ Thüringen,Untermarkt,Spaziergang,,,
-75447,DE,2022-09-12,19:00:00,87600,Kaufbeuren,Schraderstraße/ Nackter Mann,Kundgebung,,,
-75458,DE,2022-09-12,19:00:00,04552,Borna,Markt,Spaziergang,,,
 75452,DE,2022-09-13,18:00:00,76275,Ettlingen,Huttenkr.str-Dickhäuterpl.-REA,Aufzug,,s. vorne unter Info,
 75466,DE,2022-09-14,17:30:00,70173,Stuttgart,Schlossplatz/Commerzbank,Schilderwald,,Privat,
 75337,DE,2022-09-14,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
@@ -70,8 +36,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75329,DE,2022-09-22,18:00:00,53902,Bad Münstereifel,Rathaus,Spaziergang,,,
 75397,DE,2022-09-23,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 75371,DE,2022-09-24,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,t.me/cellestehtauf
-75375,DE,2022-09-24,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf
 75376,DE,2022-09-24,11:45:00,29221,Celle,Arno-Schmidt-Platz/Bibliothek,Kundgebung,,Celle steht auf,t.me/cellestehtauf
+75375,DE,2022-09-24,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf
 75098,DE,2022-09-24,15:00:00,74072,Heilbronn,Friedensplatz,Aufzug,,Baden-Württemberg steht auf!,https://www.facebook.com/photo/?fbid=527530272481902&set=gm.326168769635186
 75401,DE,2022-09-26,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 75024,DE,2022-09-26,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,
@@ -82,8 +48,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75323,DE,2022-09-26,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,,
 75302,DE,2022-09-26,18:30:00,21465,Reinbek,vorm Rathaus,Spaziergang,,,
 75386,DE,2022-09-26,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
-75388,DE,2022-09-26,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75387,DE,2022-09-26,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+75388,DE,2022-09-26,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75212,DE,2022-09-26,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 74864,DE,2022-09-26,19:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 75330,DE,2022-09-29,18:00:00,53902,Bad Münsterefel,Rathaus,Spaziergang,,,
@@ -96,8 +62,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75025,DE,2022-10-03,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,
 75413,DE,2022-10-03,18:00:00,84028,Landshut,Ländtorplatz,Spaziergang,,,
 75365,DE,2022-10-03,18:00:00,06844,Dessau-Roßlau,Marktplatz,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
-75390,DE,2022-10-03,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75389,DE,2022-10-03,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+75390,DE,2022-10-03,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75353,DE,2022-10-03,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 75026,DE,2022-10-10,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,
 75354,DE,2022-10-10,18:30:00,99510,Apolda,Markt,Spaziergang,,,
