@@ -19,11 +19,13 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75460,DE,2022-09-17,15:00:00,60329,Frankfurt am Main,Taunusanlage,Aufzug,,,
 75470,DE,2022-09-17,16:00:00,68165,Mannheim,Wasserturm,Demonstration,,,
 75468,DE,2022-09-17,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
+75495,DE,2022-09-17,18:00:00,73326,Deggingen,Rathaus und Umgebung,Gegenprotest,,,
 75463,BE,2022-09-18,03:15:00,3001,Leuven,cyberspace,MillionMaskMarch,,,
 75484,DE,2022-09-18,10:45:00,75015,Bretten,Stadtpark/Alter Friedhof,Meditation,,,
 75444,DE,2022-09-18,13:00:00,60313,Frankfurt am Main,Alte Oper,Kundgebung,,,
 75474,DE,2022-09-18,14:00:00,76530,Baden-Baden,Augustaplatz 1,Demonstration,,BI "aufRECHT:FREIdenken",www.solidarnosch.de
 75347,DE,2022-09-18,14:30:00,70182,Stuttgart,Wilhelmsplatz,Aufstand,,Politik und Medien Hand in Hand, dass schadet unserem Land,https://t.me/POLITIKundMEDIEN_STUTTGART
+75496,DE,2022-09-18,14:30:00,92348,Neumarkt,Volksfestplatz,Spaziergang,,,
 75469,DE,2022-09-18,15:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 75490,DE,2022-09-18,16:30:00,06406,Bernburg / Saale,Karlsplatz,Kundgebung,,,
 74863,DE,2022-09-19,18:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
@@ -43,8 +45,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75492,DE,2022-09-19,18:15:00,42651,Solingen,Neumarkt,Spaziergang,,https://t.me/FreieBergischeLoewenSG,
 75301,DE,2022-09-19,18:30:00,21465,Reinbek,vorm Rathaus,Spaziergang,,,
 75480,DE,2022-09-19,18:30:00,06268,Querfurt,Markt,Spaziergang,,,
-75385,DE,2022-09-19,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75384,DE,2022-09-19,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+75385,DE,2022-09-19,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75211,DE,2022-09-19,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 75489,DE,2022-09-19,19:00:00,86720,Nördlingen,Rathaus - Marktplatz,Spaziergang,,,
 75493,DE,2022-09-19,19:00:00,17033,Neubrandenburg,Marktplatz,Kundgebung,,,
@@ -69,9 +71,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75364,DE,2022-09-26,18:00:00,06844,Dessau-Roßlau,Marktplatz,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
 75323,DE,2022-09-26,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,,
 75302,DE,2022-09-26,18:30:00,21465,Reinbek,vorm Rathaus,Spaziergang,,,
-75386,DE,2022-09-26,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
-75388,DE,2022-09-26,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75387,DE,2022-09-26,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+75388,DE,2022-09-26,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+75386,DE,2022-09-26,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75212,DE,2022-09-26,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 75330,DE,2022-09-29,18:00:00,53902,Bad Münsterefel,Rathaus,Spaziergang,,,
 75402,DE,2022-09-30,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
