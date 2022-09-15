@@ -7,12 +7,14 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75442,DE,2022-09-17,10:00:00,63739,Aschaffenburg,Theaterplatz,Aufzug,,,
 75370,DE,2022-09-17,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,t.me/cellestehtauf
 75377,DE,2022-09-17,11:45:00,29221,Celle,Arno-Schmidt-Platz/Bibliothek,Kundgebung,,Celle steht auf,t.me/cellestehtauf
+75509,DE,2022-09-17,12:00:00,79106,Freiburg,Stühlinger Kirchplatz,Kundgebung,,Gegen Krieg und Aufrüstung!,
 75440,DE,2022-09-17,14:00:00,64385,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Zusammenkunft,,,
+75508,DE,2022-09-17,14:00:00,79098,Freiburg,Konzerthaus gegenüber Hbf,Fahrraddemo,,,
 75494,DE,2022-09-17,15:00:00,70439,Stuttgart-Stammheim,Justizvollzugsanstalt / Terroristenknast,Kundgebung,,Privat Initiative,
 75462,DE,2022-09-17,15:00:00,70439,Stuttgart,JVA Stuttgart,Aufzug,,,
 75483,DE,2022-09-17,15:00:00,20457,Hamburg,Kunsthalle/Ernst-Merck-Straße,Kundgebung,,#HH1709 #DemoKunsthalle,https://demokunsthalle.de/
-75460,DE,2022-09-17,15:00:00,60329,Frankfurt am Main,Taunusanlage,Aufzug,,,
 75459,DE,2022-09-17,15:00:00,60313,Frankfurt am Main,Rathenauplatz,Aufzug,,,
+75460,DE,2022-09-17,15:00:00,60329,Frankfurt am Main,Taunusanlage,Aufzug,,,
 75470,DE,2022-09-17,16:00:00,68165,Mannheim,Wasserturm,Demonstration,,,
 75468,DE,2022-09-17,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 75495,DE,2022-09-17,18:00:00,73326,Deggingen,Rathaus und Umgebung,Gegenprotest,,,
@@ -24,6 +26,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75496,DE,2022-09-18,14:30:00,92348,Neumarkt,Volksfestplatz,Spaziergang,,,
 75469,DE,2022-09-18,15:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 75490,DE,2022-09-18,16:30:00,06406,Bernburg / Saale,Karlsplatz,Kundgebung,,,
+75511,DE,2022-09-18,18:00:00,97424,Schweinfurt,Marktplatz,Aufzug,,,
 74863,DE,2022-09-19,18:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 75351,DE,2022-09-19,18:00:00,88239,Wangen i.Allg.,Marktplatz,Spaziergang,,,
 75504,DE,2022-09-19,18:00:00,88239,Wangen,Rathaus,Spaziergang,,,
@@ -41,6 +44,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75487,DE,2022-09-19,18:00:00,16321,Bernau,Marktplatz,Spaziergang,,Parteilos,
 75485,DE,2022-09-19,18:00:00,13507,Berlin,Alt-Tegel 2 (Schinkelbrunnen),Spaziergang,,Freiheit Tegel,https://t.me/Tegel_steht_auf_INFOKANAL
 75492,DE,2022-09-19,18:15:00,42651,Solingen,Neumarkt,Spaziergang,,https://t.me/FreieBergischeLoewenSG,
+75514,DE,2022-09-19,18:30:00,67547,Worms,Lutherdenkmal,Spaziergang,,,
 75301,DE,2022-09-19,18:30:00,21465,Reinbek,vorm Rathaus,Spaziergang,,,
 75480,DE,2022-09-19,18:30:00,06268,Querfurt,Markt,Spaziergang,,,
 75384,DE,2022-09-19,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
@@ -50,6 +54,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75497,DE,2022-09-19,19:00:00,86633,Neuburg,Spitalplatz,Spaziergang,,,
 75493,DE,2022-09-19,19:00:00,17033,Neubrandenburg,Marktplatz,Kundgebung,,,
 75475,DE,2022-09-19,19:00:00,99974,Mühlhausen/ Thüringen,Untermarkt,Spaziergang,,,
+75512,DE,2022-09-19,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,,
 75481,DE,2022-09-19,19:00:00,87629,Füssen,Kaiser Maximilian Platz,Spaziergang,,dieBasis,
 75482,DE,2022-09-19,19:00:00,04552,Borna,Markt,Spaziergang,,,
 75455,DE,2022-09-21,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
@@ -57,8 +62,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75329,DE,2022-09-22,18:00:00,53902,Bad Münstereifel,Rathaus,Spaziergang,,,
 75397,DE,2022-09-23,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 75371,DE,2022-09-24,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,t.me/cellestehtauf
-75375,DE,2022-09-24,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf
 75376,DE,2022-09-24,11:45:00,29221,Celle,Arno-Schmidt-Platz/Bibliothek,Kundgebung,,Celle steht auf,t.me/cellestehtauf
+75375,DE,2022-09-24,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf
 75098,DE,2022-09-24,15:00:00,74072,Heilbronn,Friedensplatz,Aufzug,,Baden-Württemberg steht auf!,https://www.facebook.com/photo/?fbid=527530272481902&set=gm.326168769635186
 75491,DE,2022-09-25,16:30:00,06406,Bernburg,Karlsplatz,Kundgebung,,,
 74864,DE,2022-09-26,18:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
@@ -71,8 +76,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75364,DE,2022-09-26,18:00:00,06844,Dessau-Roßlau,Marktplatz,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
 75323,DE,2022-09-26,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,,
 75302,DE,2022-09-26,18:30:00,21465,Reinbek,vorm Rathaus,Spaziergang,,,
-75386,DE,2022-09-26,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75387,DE,2022-09-26,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+75386,DE,2022-09-26,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75388,DE,2022-09-26,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75212,DE,2022-09-26,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 75498,DE,2022-09-26,19:00:00,86633,Neuburg an der Donau,Spitalplatz,Spaziergang,,,
@@ -83,6 +88,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75374,DE,2022-10-01,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf
 75373,DE,2022-10-01,11:45:00,29221,Celle,Arno-Schmidt-Platz/Bibliothek,Kundgebung,,Celle steht auf,t.me/cellestehtauf
 71924,DE,2022-10-02,14:00:00,88718,Meersburg,Am Bodensee,Sonstiges,,Buergerdialog-Konstanz,http://www.friedensee.eu
+75513,DE,2022-10-02,16:30:00,06406,Bernburg Saale,Karlsplatz,Kundgebung,,,
 75486,DE,2022-10-03,15:00:00,29525,Uelzen,Douglas,Kundgebung,,AfD Uelzen,https://www.facebook.com/events/461884592536018/?ref=newsfeed
 75403,DE,2022-10-03,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 75478,DE,2022-10-03,18:00:00,75328,Schömberg,Rathaus,Spaziergang,,,
