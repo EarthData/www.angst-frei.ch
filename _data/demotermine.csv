@@ -15,6 +15,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75470,DE,2022-09-17,16:00:00,68165,Mannheim,Wasserturm,Demonstration,,,
 75468,DE,2022-09-17,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 75495,DE,2022-09-17,18:00:00,73326,Deggingen,Rathaus und Umgebung,Gegenprotest,,,
+75533,DE,2022-09-17,18:00:00,52062,Aachen,Marktplatz/Brunnen,Spaziergang,,,
 75463,BE,2022-09-18,03:15:00,3001,Leuven,cyberspace,MillionMaskMarch,,,
 75484,DE,2022-09-18,10:45:00,75015,Bretten,Stadtpark/Alter Friedhof,Meditation,,,
 75444,DE,2022-09-18,13:00:00,60313,Frankfurt am Main,Alte Oper,Kundgebung,,,
@@ -49,14 +50,15 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75301,DE,2022-09-19,18:30:00,21465,Reinbek,vorm Rathaus,Spaziergang,,,
 75480,DE,2022-09-19,18:30:00,06268,Querfurt,Markt,Spaziergang,,,
 75525,DE,2022-09-19,18:30:00,25524,Itzehoe,Altes Rathaus,Spaziergang,,Steinburg zeigt friedlich Gesicht,
-75385,DE,2022-09-19,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75384,DE,2022-09-19,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+75385,DE,2022-09-19,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75211,DE,2022-09-19,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 75489,DE,2022-09-19,19:00:00,86720,Nördlingen,Rathaus - Marktplatz,Spaziergang,,,
 75497,DE,2022-09-19,19:00:00,86633,Neuburg,Spitalplatz,Spaziergang,,,
 75493,DE,2022-09-19,19:00:00,17033,Neubrandenburg,Marktplatz,Kundgebung,,,
 75475,DE,2022-09-19,19:00:00,99974,Mühlhausen/ Thüringen,Untermarkt,Spaziergang,,,
 75512,DE,2022-09-19,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,,
+75532,DE,2022-09-19,19:00:00,49477,Ibbenbüren,Neumarkt,Kundgebung,,,
 75481,DE,2022-09-19,19:00:00,87629,Füssen,Kaiser Maximilian Platz,Spaziergang,,dieBasis,
 75520,DE,2022-09-19,19:00:00,09217,Burgstädt,Brühl,Spaziergang,,,
 75482,DE,2022-09-19,19:00:00,04552,Borna,Markt,Spaziergang,,,
@@ -83,9 +85,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75323,DE,2022-09-26,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,,
 75302,DE,2022-09-26,18:30:00,21465,Reinbek,vorm Rathaus,Spaziergang,,,
 75526,DE,2022-09-26,18:30:00,25524,Itzehoe,Altes Rathaus,Spaziergang,,Steinburg zeigt friedlich Gesicht,
-75386,DE,2022-09-26,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
-75387,DE,2022-09-26,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75388,DE,2022-09-26,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+75387,DE,2022-09-26,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+75386,DE,2022-09-26,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75212,DE,2022-09-26,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 75498,DE,2022-09-26,19:00:00,86633,Neuburg an der Donau,Spitalplatz,Spaziergang,,,
 75330,DE,2022-09-29,18:00:00,53902,Bad Münsterefel,Rathaus,Spaziergang,,,
