@@ -17,8 +17,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75396,DE,2022-09-19,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 75434,DE,2022-09-19,18:00:00,74523,Schwäbisch Hall,Marktplatz,Spaziergang,,,
 75476,DE,2022-09-19,18:00:00,75328,Schömberg,Rathaus,Spaziergang,,,
-75542,DE,2022-09-19,18:00:00,65926,Mauer,Rathaus,Spaziergang,,,
 75505,DE,2022-09-19,18:00:00,69256,Mauer,Rathaus,Spaziergang,,,
+75542,DE,2022-09-19,18:00:00,65926,Mauer,Rathaus,Spaziergang,,,
 75518,DE,2022-09-19,18:00:00,39104,Magdeburg,Alter Markt,Kundgebung,,,
 75023,DE,2022-09-19,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,
 75411,DE,2022-09-19,18:00:00,84028,Landshut,Ländtorplatz,Spaziergang,,,
@@ -26,6 +26,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75538,DE,2022-09-19,18:00:00,87435,Kempten,Hildegardplatz,Spaziergang,,,
 75296,DE,2022-09-19,18:00:00,21029,Hamburg-Bergedorf,Sankt Petri und Pauli (Kirche),Spaziergang,,,
 75363,DE,2022-09-19,18:00:00,06844,Dessau-Roßlau,Marktplatz,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
+75547,DE,2022-09-19,18:00:00,76646,Bruchsal,Rathausplatz,Spaziergang,,offens Mikrophon,
 75322,DE,2022-09-19,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,,
 75487,DE,2022-09-19,18:00:00,16321,Bernau,Marktplatz,Spaziergang,,Parteilos,
 75485,DE,2022-09-19,18:00:00,13507,Berlin,Alt-Tegel 2 (Schinkelbrunnen),Spaziergang,,Freiheit Tegel,https://t.me/Tegel_steht_auf_INFOKANAL
@@ -36,6 +37,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75514,DE,2022-09-19,18:30:00,67547,Worms,Lutherdenkmal,Spaziergang,,,
 75301,DE,2022-09-19,18:30:00,21465,Reinbek,vorm Rathaus,Spaziergang,,,
 75480,DE,2022-09-19,18:30:00,06268,Querfurt,Markt,Spaziergang,,,
+75548,DE,2022-09-19,18:30:00,07743,Jena,Holzmarkt,Demonstration,,Gesundheitswesen Jena,https://t.me/+0ReOHR6EhSc1MWU6
 75525,DE,2022-09-19,18:30:00,25524,Itzehoe,Altes Rathaus,Spaziergang,,Steinburg zeigt friedlich Gesicht,
 75385,DE,2022-09-19,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75384,DE,2022-09-19,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
@@ -52,8 +54,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75522,DE,2022-09-20,19:00:00,92421,Schwandorf,Marktplatz,Demonstration,,Freiheit für Schwandorf,
 75519,DE,2022-09-21,18:00:00,70173,Stuttgart,Karlsplatz,Aufzug,,Privat,
 75455,DE,2022-09-21,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
-75544,DE,2022-09-21,19:00:00,74933,Neidenstein,van Venningen Halle,Spaziergang,,,
 75506,DE,2022-09-21,19:00:00,74933,Neidenstein,van Venningen Halle,Spaziergang,,,
+75544,DE,2022-09-21,19:00:00,74933,Neidenstein,van Venningen Halle,Spaziergang,,,
 75329,DE,2022-09-22,18:00:00,53902,Bad Münstereifel,Rathaus,Spaziergang,,,
 75546,DE,2022-09-23,17:30:00,76133,Karlsruhe,Friedrichsplatz / b. ECE-Center,Kundgebung,,s. vorne unter Info- t.me/grundrechte_jetzt,
 75397,DE,2022-09-23,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
@@ -103,8 +105,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75413,DE,2022-10-03,18:00:00,84028,Landshut,Ländtorplatz,Spaziergang,,,
 75365,DE,2022-10-03,18:00:00,06844,Dessau-Roßlau,Marktplatz,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
 75530,DE,2022-10-03,18:00:00,06749,Bitterfeld,Marktplatz,Spaziergang,,AfD,
-75389,DE,2022-10-03,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75390,DE,2022-10-03,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+75389,DE,2022-10-03,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75353,DE,2022-10-03,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 75499,DE,2022-10-03,19:00:00,86633,Neuburg an der Donau,Spitalplatz,Spaziergang,,,
 75479,DE,2022-10-10,18:00:00,75328,Schömberg,Rathaus,Spaziergang,,,
