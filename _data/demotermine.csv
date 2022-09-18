@@ -22,6 +22,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75023,DE,2022-09-19,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,
 75411,DE,2022-09-19,18:00:00,84028,Landshut,Ländtorplatz,Spaziergang,,,
 75307,DE,2022-09-19,18:00:00,04567,Kitzscher,Rathaus,Spaziergang,,,
+75538,DE,2022-09-19,18:00:00,87435,Kempten,Hildegardplatz,Spaziergang,,,
 75296,DE,2022-09-19,18:00:00,21029,Hamburg-Bergedorf,Sankt Petri und Pauli (Kirche),Spaziergang,,,
 75363,DE,2022-09-19,18:00:00,06844,Dessau-Roßlau,Marktplatz,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
 75322,DE,2022-09-19,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,,
@@ -34,8 +35,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75301,DE,2022-09-19,18:30:00,21465,Reinbek,vorm Rathaus,Spaziergang,,,
 75480,DE,2022-09-19,18:30:00,06268,Querfurt,Markt,Spaziergang,,,
 75525,DE,2022-09-19,18:30:00,25524,Itzehoe,Altes Rathaus,Spaziergang,,Steinburg zeigt friedlich Gesicht,
-75384,DE,2022-09-19,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75385,DE,2022-09-19,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+75384,DE,2022-09-19,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75211,DE,2022-09-19,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 75489,DE,2022-09-19,19:00:00,86720,Nördlingen,Rathaus - Marktplatz,Spaziergang,,,
 75497,DE,2022-09-19,19:00:00,86633,Neuburg,Spitalplatz,Spaziergang,,,
@@ -71,9 +72,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75535,DE,2022-09-26,18:00:00,97980,Bad Mergentheim,Marktplatz,Spaziergang,,,
 75302,DE,2022-09-26,18:30:00,21465,Reinbek,vorm Rathaus,Spaziergang,,,
 75526,DE,2022-09-26,18:30:00,25524,Itzehoe,Altes Rathaus,Spaziergang,,Steinburg zeigt friedlich Gesicht,
-75386,DE,2022-09-26,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
-75387,DE,2022-09-26,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75388,DE,2022-09-26,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+75387,DE,2022-09-26,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+75386,DE,2022-09-26,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75212,DE,2022-09-26,18:30:00,99510,Apolda,Markt,Spaziergang,,,
 75498,DE,2022-09-26,19:00:00,86633,Neuburg an der Donau,Spitalplatz,Spaziergang,,,
 75330,DE,2022-09-29,18:00:00,53902,Bad Münsterefel,Rathaus,Spaziergang,,,
@@ -81,8 +82,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75402,DE,2022-09-30,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 75527,DE,2022-09-30,19:00:00,33602,Bielefeld,Klosterplatz,Spaziergang,,https://t.me/Bielefeldstehtauf_infokanal,Weitere Infos findet Ihr im Telegram Kanal.
 75372,DE,2022-10-01,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,t.me/cellestehtauf
-75374,DE,2022-10-01,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf
 75373,DE,2022-10-01,11:45:00,29221,Celle,Arno-Schmidt-Platz/Bibliothek,Kundgebung,,Celle steht auf,t.me/cellestehtauf
+75374,DE,2022-10-01,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf
 75536,DE,2022-10-01,19:00:00,37359,Effelder,Eichsfelder Dom,Spaziergang,,,
 71924,DE,2022-10-02,14:00:00,88718,Meersburg,Am Bodensee,Sonstiges,,Buergerdialog-Konstanz,http://www.friedensee.eu
 75521,DE,2022-10-02,15:00:00,08525,Plauen,Oberer Bahnhof,Demonstration,,,
