@@ -13,8 +13,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75562,DE,2022-09-24,10:00:00,11011,Berlin,Platz der Republik 1,Aufstand,,Der Souverän,
 75371,DE,2022-09-24,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,t.me/cellestehtauf
 75569,DE,2022-09-24,11:00:00,11011,Berlin,Platz der Republik 1,Aufstand,,Der Souverän,
-75375,DE,2022-09-24,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf
 75376,DE,2022-09-24,11:45:00,29221,Celle,Arno-Schmidt-Platz/Bibliothek,Kundgebung,,Celle steht auf,t.me/cellestehtauf
+75375,DE,2022-09-24,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf
 75563,DE,2022-09-24,12:00:00,11011,Berlin,Platz der Republik 1,Aufstand,,Der Souverän,
 75570,DE,2022-09-24,13:00:00,11011,Berlin,Platz der Republik 1,Aufstand,,Der Souverän,
 75564,DE,2022-09-24,14:00:00,11011,Berlin,Platz der Republik 1,Aufstand,,Der Souverän,
@@ -31,6 +31,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75574,DE,2022-09-24,21:00:00,11011,Berlin,Platz der Republik 1,Aufstand,,Der Souverän,
 75568,DE,2022-09-24,22:00:00,11011,Berlin,Platz der Republik 1,Aufstand,,Der Souverän,
 75575,DE,2022-09-24,23:00:00,11011,Berlin,Platz der Republik 1,Aufstand,,Der Souverän,
+75577,DE,2022-09-25,14:00:00,76530,Baden-Baden,Augustaplatz 1,Demonstration,,BI "aufRECHT:FREIdenken Mittelbaden",www.solidarnosch.de/covid-19.htm
 75561,DE,2022-09-25,14:30:00,70182,Stuttgart,Wilhelmsplatz (Stadtmitte),Aufzug,,Politik und Medien Hand in Hand- Das schadet unserem Land,
 75576,DE,2022-09-25,15:00:00,66111,Saarbrücken,Landwehrplatz,Versammlung,,Wir sind die Rote Linie,
 75491,DE,2022-09-25,16:30:00,06406,Bernburg,Karlsplatz,Kundgebung,,,
@@ -59,8 +60,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75402,DE,2022-09-30,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 75527,DE,2022-09-30,19:00:00,33602,Bielefeld,Klosterplatz,Spaziergang,,https://t.me/Bielefeldstehtauf_infokanal,Weitere Infos findet Ihr im Telegram Kanal.
 75372,DE,2022-10-01,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,t.me/cellestehtauf
-75373,DE,2022-10-01,11:45:00,29221,Celle,Arno-Schmidt-Platz/Bibliothek,Kundgebung,,Celle steht auf,t.me/cellestehtauf
 75374,DE,2022-10-01,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf
+75373,DE,2022-10-01,11:45:00,29221,Celle,Arno-Schmidt-Platz/Bibliothek,Kundgebung,,Celle steht auf,t.me/cellestehtauf
 75539,DE,2022-10-01,14:00:00,14467,Potsdam,Brandenburger Tor,Demonstration,,Fraktion frieden,
 75536,DE,2022-10-01,19:00:00,37359,Effelder,Eichsfelder Dom,Spaziergang,,,
 71924,DE,2022-10-02,14:00:00,88718,Meersburg,Am Bodensee,Sonstiges,,Buergerdialog-Konstanz,http://www.friedensee.eu
@@ -74,8 +75,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75413,DE,2022-10-03,18:00:00,84028,Landshut,Ländtorplatz,Spaziergang,,,
 75365,DE,2022-10-03,18:00:00,06844,Dessau-Roßlau,Marktplatz,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
 75530,DE,2022-10-03,18:00:00,06749,Bitterfeld,Marktplatz,Spaziergang,,AfD,
-75390,DE,2022-10-03,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75389,DE,2022-10-03,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+75390,DE,2022-10-03,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75499,DE,2022-10-03,19:00:00,86633,Neuburg an der Donau,Spitalplatz,Spaziergang,,,
 75479,DE,2022-10-10,18:00:00,75328,Schömberg,Rathaus,Spaziergang,,,
 75026,DE,2022-10-10,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,
