@@ -1,5 +1,6 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
 75519,DE,2022-09-21,18:00:00,70173,Stuttgart,Karlsplatz,Aufzug,,Privat,
+75582,DE,2022-09-21,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 75560,DE,2022-09-21,18:00:00,76855,Anweiler am trifels,Restaurant Reiwerle,Bürgerkrieg,,Tobias Fink & die Demokratische Freikirche & Unterstützung durch Bettina Braun,
 75455,DE,2022-09-21,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
 75506,DE,2022-09-21,19:00:00,74933,Neidenstein,van Venningen Halle,Spaziergang,,,
@@ -23,6 +24,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75565,DE,2022-09-24,16:00:00,11011,Berlin,Platz der Republik 1,Aufstand,,Der Souverän,
 75572,DE,2022-09-24,17:00:00,11011,Berlin,Platz der Republik 1,Aufstand,,Der Souverän,
 75559,DE,2022-09-24,17:00:00,86150,Augsburg,Ladehofstr.,Aufzug,,Bürgerforum Schwaben,
+75583,DE,2022-09-24,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 75566,DE,2022-09-24,18:00:00,11011,Berlin,Platz der Republik 1,Aufstand,,Der Souverän,
 75573,DE,2022-09-24,19:00:00,11011,Berlin,Platz der Republik 1,Aufstand,,Der Souverän,
 75567,DE,2022-09-24,20:00:00,11011,Berlin,Platz der Republik 1,Aufstand,,Der Souverän,
@@ -32,6 +34,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75577,DE,2022-09-25,14:00:00,76530,Baden-Baden,Augustaplatz 1,Demonstration,,BI "aufRECHT:FREIdenken Mittelbaden",www.solidarnosch.de/covid-19.htm
 75561,DE,2022-09-25,14:30:00,70182,Stuttgart,Wilhelmsplatz (Stadtmitte),Aufzug,,Politik und Medien Hand in Hand- Das schadet unserem Land,
 75576,DE,2022-09-25,15:00:00,66111,Saarbrücken,Landwehrplatz,Versammlung,,Wir sind die Rote Linie,
+75584,DE,2022-09-25,15:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 75491,DE,2022-09-25,16:30:00,06406,Bernburg,Karlsplatz,Kundgebung,,,
 74864,DE,2022-09-26,18:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 75528,DE,2022-09-26,18:00:00,95643,Tirschenreuth,Oberer Marktplatz,Demonstration,,Aktionsbündnis Tirschenreuth wacht auf S. Wenzel/D.Ullrich,https://t.me/s/TIRwachtauf
@@ -42,24 +45,29 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75024,DE,2022-09-26,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,
 75412,DE,2022-09-26,18:00:00,84028,Landshut,Ländtorplatz,Spaziergang,,,
 75308,DE,2022-09-26,18:00:00,04567,Kitzscher,Rathaus,Spaziergang,,,
+75580,DE,2022-09-26,18:00:00,95030,Hof,Rathaus,Spaziergang,,,
 75297,DE,2022-09-26,18:00:00,21029,Hamburg-Bergedorf,Sankt Petri und Pauli (Kirche),Spaziergang,,,
 75364,DE,2022-09-26,18:00:00,06844,Dessau-Roßlau,Marktplatz,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
+75581,DE,2022-09-26,18:00:00,76646,Bruchsal,Rathausplatz / Kaiserstraße 66,Spaziergang,,offenes Mikrophon,
 75323,DE,2022-09-26,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,,
+75579,DE,2022-09-26,18:00:00,13507,Berlin,Alt-Tegel 2 (Schinkelbrunnen),Spaziergang,,Freiheit Tegel,https://t.me/Tegel_steht_auf_INFOKANAL
 75535,DE,2022-09-26,18:00:00,97980,Bad Mergentheim,Marktplatz,Spaziergang,,,
 75302,DE,2022-09-26,18:30:00,21465,Reinbek,vorm Rathaus,Spaziergang,,,
 75526,DE,2022-09-26,18:30:00,25524,Itzehoe,Altes Rathaus,Spaziergang,,Steinburg zeigt friedlich Gesicht,
-75386,DE,2022-09-26,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+75578,DE,2022-09-26,18:30:00,45894,Gelsenkirchen - Buer,Volksbank Buer,Spaziergang,,,
 75388,DE,2022-09-26,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75387,DE,2022-09-26,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+75386,DE,2022-09-26,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75498,DE,2022-09-26,19:00:00,86633,Neuburg an der Donau,Spitalplatz,Spaziergang,,,
+75585,DE,2022-09-27,18:00:00,76275,Ettlingen,Huttenkr.str-Dickhäuterpl.-REA,Aufzug,,s. vorne unter Info,
 75545,DE,2022-09-28,19:00:00,74933,Neidenstein,van Venningen Halle,Spaziergang,,,
 75330,DE,2022-09-29,18:00:00,53902,Bad Münsterefel,Rathaus,Spaziergang,,,
 75507,DE,2022-09-29,18:30:00,39261,Zerbst,Markt,Kundgebung,,Zerbst steht auf,
 75402,DE,2022-09-30,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 75527,DE,2022-09-30,19:00:00,33602,Bielefeld,Klosterplatz,Spaziergang,,https://t.me/Bielefeldstehtauf_infokanal,Weitere Infos findet Ihr im Telegram Kanal.
 75372,DE,2022-10-01,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,t.me/cellestehtauf
-75373,DE,2022-10-01,11:45:00,29221,Celle,Arno-Schmidt-Platz/Bibliothek,Kundgebung,,Celle steht auf,t.me/cellestehtauf
 75374,DE,2022-10-01,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf
+75373,DE,2022-10-01,11:45:00,29221,Celle,Arno-Schmidt-Platz/Bibliothek,Kundgebung,,Celle steht auf,t.me/cellestehtauf
 75539,DE,2022-10-01,14:00:00,14467,Potsdam,Brandenburger Tor,Demonstration,,Fraktion frieden,
 75536,DE,2022-10-01,19:00:00,37359,Effelder,Eichsfelder Dom,Spaziergang,,,
 71924,DE,2022-10-02,14:00:00,88718,Meersburg,Am Bodensee,Sonstiges,,Buergerdialog-Konstanz,http://www.friedensee.eu
