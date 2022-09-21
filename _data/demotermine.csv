@@ -1,11 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-75519,DE,2022-09-21,18:00:00,70173,Stuttgart,Karlsplatz,Aufzug,,Privat,
-75582,DE,2022-09-21,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
-75560,DE,2022-09-21,18:00:00,76855,Anweiler am trifels,Restaurant Reiwerle,Bürgerkrieg,,Tobias Fink & die Demokratische Freikirche & Unterstützung durch Bettina Braun,
-75455,DE,2022-09-21,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
-75506,DE,2022-09-21,19:00:00,74933,Neidenstein,van Venningen Halle,Spaziergang,,,
-75544,DE,2022-09-21,19:00:00,74933,Neidenstein,van Venningen Halle,Spaziergang,,,
-75556,DE,2022-09-21,19:00:00,06618,Naumburg,Vogelwiese,Demonstration,,Naumburg zeigt Gesicht!,
 75329,DE,2022-09-22,18:00:00,53902,Bad Münstereifel,Rathaus,Spaziergang,,,
 75546,DE,2022-09-23,17:30:00,76133,Karlsruhe,Friedrichsplatz / b. ECE-Center,Kundgebung,,s. vorne unter Info- t.me/grundrechte_jetzt,
 75397,DE,2022-09-23,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
@@ -61,9 +54,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75302,DE,2022-09-26,18:30:00,21465,Reinbek,vorm Rathaus,Spaziergang,,,
 75526,DE,2022-09-26,18:30:00,25524,Itzehoe,Altes Rathaus,Spaziergang,,Steinburg zeigt friedlich Gesicht,
 75578,DE,2022-09-26,18:30:00,45894,Gelsenkirchen - Buer,Volksbank Buer,Spaziergang,,,
+75386,DE,2022-09-26,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75387,DE,2022-09-26,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75388,DE,2022-09-26,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
-75386,DE,2022-09-26,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75498,DE,2022-09-26,19:00:00,86633,Neuburg an der Donau,Spitalplatz,Spaziergang,,,
 75585,DE,2022-09-27,18:00:00,76275,Ettlingen,Huttenkr.str-Dickhäuterpl.-REA,Aufzug,,s. vorne unter Info,
 75545,DE,2022-09-28,19:00:00,74933,Neidenstein,van Venningen Halle,Spaziergang,,,
@@ -88,8 +81,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75413,DE,2022-10-03,18:00:00,84028,Landshut,Ländtorplatz,Spaziergang,,,
 75365,DE,2022-10-03,18:00:00,06844,Dessau-Roßlau,Marktplatz,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
 75530,DE,2022-10-03,18:00:00,06749,Bitterfeld,Marktplatz,Spaziergang,,AfD,
-75389,DE,2022-10-03,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75390,DE,2022-10-03,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+75389,DE,2022-10-03,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75499,DE,2022-10-03,19:00:00,86633,Neuburg an der Donau,Spitalplatz,Spaziergang,,,
 75479,DE,2022-10-10,18:00:00,75328,Schömberg,Rathaus,Spaziergang,,,
 75026,DE,2022-10-10,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,
