@@ -15,8 +15,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75564,DE,2022-09-24,14:00:00,11011,Berlin,Platz der Republik 1,Aufstand,,Der Souverän,
 75098,DE,2022-09-24,15:00:00,74072,Heilbronn,Friedensplatz,Aufzug,,Baden-Württemberg steht auf!,https://www.facebook.com/photo/?fbid=527530272481902&set=gm.326168769635186
 75587,DE,2022-09-24,15:00:00,22453,Hamburg Niendorf,Garstedter Weg/ Hainholz,Aufzug,,Bürgerbündnis Niendorf,
-75537,DE,2022-09-24,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,APO - Düsseldorf,Aponrw.de
 75590,DE,2022-09-24,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,APO - Düsseldorf,Aponrw.de
+75537,DE,2022-09-24,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,APO - Düsseldorf,Aponrw.de
 75571,DE,2022-09-24,15:00:00,11011,Berlin,Platz der Republik 1,Aufstand,,Der Souverän,
 75554,DE,2022-09-24,15:30:00,45127,Essen,Willy-Brandt-Platz,Kundgebung,,Für den Erhalt der Freiheit,
 75565,DE,2022-09-24,16:00:00,11011,Berlin,Platz der Republik 1,Aufstand,,Der Souverän,
@@ -44,6 +44,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75024,DE,2022-09-26,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,
 75412,DE,2022-09-26,18:00:00,84028,Landshut,Ländtorplatz,Spaziergang,,,
 75308,DE,2022-09-26,18:00:00,04567,Kitzscher,Rathaus,Spaziergang,,,
+75594,DE,2022-09-26,18:00:00,87435,Kempten,Hildegardplatz,Spaziergang,,,
 75580,DE,2022-09-26,18:00:00,95030,Hof,Rathaus,Spaziergang,,,
 75297,DE,2022-09-26,18:00:00,21029,Hamburg-Bergedorf,Sankt Petri und Pauli (Kirche),Spaziergang,,,
 75364,DE,2022-09-26,18:00:00,06844,Dessau-Roßlau,Marktplatz,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
@@ -54,10 +55,11 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75302,DE,2022-09-26,18:30:00,21465,Reinbek,vorm Rathaus,Spaziergang,,,
 75526,DE,2022-09-26,18:30:00,25524,Itzehoe,Altes Rathaus,Spaziergang,,Steinburg zeigt friedlich Gesicht,
 75578,DE,2022-09-26,18:30:00,45894,Gelsenkirchen - Buer,Volksbank Buer,Spaziergang,,,
-75386,DE,2022-09-26,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
-75387,DE,2022-09-26,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75388,DE,2022-09-26,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+75387,DE,2022-09-26,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+75386,DE,2022-09-26,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75498,DE,2022-09-26,19:00:00,86633,Neuburg an der Donau,Spitalplatz,Spaziergang,,,
+75595,DE,2022-09-26,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,,
 75585,DE,2022-09-27,18:00:00,76275,Ettlingen,Huttenkr.str-Dickhäuterpl.-REA,Aufzug,,s. vorne unter Info,
 75545,DE,2022-09-28,19:00:00,74933,Neidenstein,van Venningen Halle,Spaziergang,,,
 75330,DE,2022-09-29,18:00:00,53902,Bad Münsterefel,Rathaus,Spaziergang,,,
@@ -65,8 +67,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75402,DE,2022-09-30,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 75527,DE,2022-09-30,19:00:00,33602,Bielefeld,Klosterplatz,Spaziergang,,https://t.me/Bielefeldstehtauf_infokanal,Weitere Infos findet Ihr im Telegram Kanal.
 75372,DE,2022-10-01,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,t.me/cellestehtauf
-75373,DE,2022-10-01,11:45:00,29221,Celle,Arno-Schmidt-Platz/Bibliothek,Kundgebung,,Celle steht auf,t.me/cellestehtauf
 75374,DE,2022-10-01,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf
+75373,DE,2022-10-01,11:45:00,29221,Celle,Arno-Schmidt-Platz/Bibliothek,Kundgebung,,Celle steht auf,t.me/cellestehtauf
 75592,DE,2022-10-01,14:00:00,64385,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Zusammenkunft,,,
 75539,DE,2022-10-01,14:00:00,14467,Potsdam,Brandenburger Tor,Demonstration,,Fraktion frieden,
 75536,DE,2022-10-01,19:00:00,37359,Effelder,Eichsfelder Dom,Spaziergang,,,
@@ -81,8 +83,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75413,DE,2022-10-03,18:00:00,84028,Landshut,Ländtorplatz,Spaziergang,,,
 75365,DE,2022-10-03,18:00:00,06844,Dessau-Roßlau,Marktplatz,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
 75530,DE,2022-10-03,18:00:00,06749,Bitterfeld,Marktplatz,Spaziergang,,AfD,
-75390,DE,2022-10-03,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75389,DE,2022-10-03,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+75390,DE,2022-10-03,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75499,DE,2022-10-03,19:00:00,86633,Neuburg an der Donau,Spitalplatz,Spaziergang,,,
 75479,DE,2022-10-10,18:00:00,75328,Schömberg,Rathaus,Spaziergang,,,
 75026,DE,2022-10-10,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,
