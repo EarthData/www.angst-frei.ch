@@ -10,9 +10,11 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 74864,DE,2022-09-26,18:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Das Volk,
 75528,DE,2022-09-26,18:00:00,95643,Tirschenreuth,Oberer Marktplatz,Demonstration,,Aktionsbündnis Tirschenreuth wacht auf S. Wenzel/D.Ullrich,https://t.me/s/TIRwachtauf
 75401,DE,2022-09-26,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
-75596,DE,2022-09-26,18:00:00,75334,Straubenhardt-Feldrennach,Rathaus,Spaziergang,,,
 75607,DE,2022-09-26,18:00:00,75334,Straubenhardt-Feldrennach,Rathaus,Spaziergang,,Feldrennach vernetzt,
+75596,DE,2022-09-26,18:00:00,75334,Straubenhardt-Feldrennach,Rathaus,Spaziergang,,,
+75620,DE,2022-09-26,18:00:00,39217,Schönebeck,Marktplatz,Kundgebung,,,https://www.facebook.com/photo/?fbid=5590021134422150&set=a.301018293322487
 75477,DE,2022-09-26,18:00:00,75328,Schömberg,Rathaus,Spaziergang,,,
+75617,DE,2022-09-26,18:00:00,88212,Ravensburg,Marienplatz,Spaziergang,,,https://www.facebook.com/photo/?fbid=614649167060846&set=gm.1944300962446441&idorvanity=1177440005799211
 75558,DE,2022-09-26,18:00:00,87724,Ottobeuren,Marktplatz,Spaziergang,,,
 75543,DE,2022-09-26,18:00:00,69256,Mauer,Rathaus,Spaziergang,,,
 75024,DE,2022-09-26,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,
@@ -20,25 +22,34 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75308,DE,2022-09-26,18:00:00,04567,Kitzscher,Rathaus,Spaziergang,,,
 75594,DE,2022-09-26,18:00:00,87435,Kempten,Hildegardplatz,Spaziergang,,,
 75580,DE,2022-09-26,18:00:00,95028,Hof,Rathaus,Spaziergang,,,
+75613,DE,2022-09-26,18:00:00,07629,Hermsdorf,Stadthaus,Spaziergang,,,https://www.facebook.com/photo/?fbid=121975933965558&set=gm.768177980918942&idorvanity=306771003726311
 75297,DE,2022-09-26,18:00:00,21029,Hamburg-Bergedorf,Sankt Petri und Pauli (Kirche),Spaziergang,,,
+75621,DE,2022-09-26,18:00:00,06108,Halle (Saale),Hallmarkt,Spaziergang,,,https://www.facebook.com/photo/?fbid=8224546680919275&set=gm.1944739809069223&idorvanity=1177440005799211
+75615,DE,2022-09-26,18:00:00,57413,Finnentrop,Rathaus Attendorn,Spaziergang,,,https://www.facebook.com/photo/?fbid=570101761558086&set=gm.1945568448986359&idorvanity=1177440005799211
 75364,DE,2022-09-26,18:00:00,06844,Dessau-Roßlau,Marktplatz,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
 75581,DE,2022-09-26,18:00:00,76646,Bruchsal,Rathausplatz / Kaiserstraße 66,Spaziergang,,offenes Mikrophon,
 75609,DE,2022-09-26,18:00:00,76646,Bruchsal,Rathausplatz / Kaiserstraße 66,Kundgebung,,offenes Mikrophon,
+75619,DE,2022-09-26,18:00:00,27576,Bremerhaven,Ernst-Reuter-Platz,Demonstration,,,https://www.facebook.com/photo/?fbid=5943270079092550&set=gm.1124114061537679&idorvanity=1001820567100363
 75323,DE,2022-09-26,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,,
 75579,DE,2022-09-26,18:00:00,13507,Berlin,Alt-Tegel 2 (Schinkelbrunnen),Spaziergang,,Freiheit Tegel,https://t.me/Tegel_steht_auf_INFOKANAL
 75535,DE,2022-09-26,18:00:00,97980,Bad Mergentheim,Marktplatz,Spaziergang,,,
+75616,DE,2022-09-26,18:00:00,57439,Attendorn,Rathaus Attendorn,Spaziergang,,,https://www.facebook.com/photo/?fbid=570101761558086&set=gm.1945568448986359&idorvanity=1177440005799211
 75604,DE,2022-09-26,18:00:00,06449,Aschersleben,Am Markt,Spaziergang,,,
 75601,DE,2022-09-26,18:15:00,42651,Solingen,Neumarkt,Spaziergang,,https://t.me/FreieBergischeLoewenSG,
 75302,DE,2022-09-26,18:30:00,21465,Reinbek,vorm Rathaus,Spaziergang,,,
 75526,DE,2022-09-26,18:30:00,25524,Itzehoe,Altes Rathaus,Spaziergang,,Steinburg zeigt friedlich Gesicht,
 75578,DE,2022-09-26,18:30:00,45894,Gelsenkirchen - Buer,Volksbank Buer,Spaziergang,,,
 75599,DE,2022-09-26,18:30:00,45894,Gelsenkirchen,Goldbergplatz,Spaziergang,,,
+75618,DE,2022-09-26,18:30:00,04720,Döbeln,Niedermarkt,Spaziergang,,,https://www.facebook.com/photo/?fbid=2010004915866472&set=a.568953729971605
 75388,DE,2022-09-26,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75387,DE,2022-09-26,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75386,DE,2022-09-26,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75598,DE,2022-09-26,18:30:00,38100,Braunschweig,Am Braunschweiger Dom,Demonstration,,,
+75623,DE,2022-09-26,18:30:00,67098,Bad Dürkheim,Schlossplatz,Spaziergang,,,https://www.facebook.com/photo/?fbid=5556175424465899&set=gm.1944663425743528&idorvanity=1177440005799211
 75498,DE,2022-09-26,19:00:00,86633,Neuburg an der Donau,Spitalplatz,Spaziergang,,,
 75595,DE,2022-09-26,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,,
+75614,DE,2022-09-26,19:00:00,07743,Jena,Holzmarkt,Demonstration,,,https://www.facebook.com/photo/?fbid=5328383683897943&set=gm.768453957558011&idorvanity=306771003726311
+75622,DE,2022-09-26,19:00:00,58095,Hagen,Friedrich-Ebert-Platz,Spaziergang,,,https://www.facebook.com/photo/?fbid=637251468020080&set=a.127032529041979
 75608,DE,2022-09-26,19:00:00,04552,Borna,Markt,Spaziergang,,Sächsische Bürgerbewegung Borna,
 75611,DE,2022-09-26,19:00:00,95444,Bayreuth,Opernstraße,Spaziergang,https://www.facebook.com/photo/?fbid=5944701108949447&set=gm.1124451821503903&idorvanity=1001820567100363,,
 75585,DE,2022-09-27,18:00:00,76275,Ettlingen,Huttenkr.str-Dickhäuterpl.-REA,Aufzug,,s. vorne unter Info,
@@ -51,8 +62,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75402,DE,2022-09-30,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 75527,DE,2022-09-30,19:00:00,33602,Bielefeld,Klosterplatz,Spaziergang,,https://t.me/Bielefeldstehtauf_infokanal,Weitere Infos findet Ihr im Telegram Kanal.
 75372,DE,2022-10-01,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,t.me/cellestehtauf
-75373,DE,2022-10-01,11:45:00,29221,Celle,Arno-Schmidt-Platz/Bibliothek,Kundgebung,,Celle steht auf,t.me/cellestehtauf
 75374,DE,2022-10-01,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf
+75373,DE,2022-10-01,11:45:00,29221,Celle,Arno-Schmidt-Platz/Bibliothek,Kundgebung,,Celle steht auf,t.me/cellestehtauf
 75592,DE,2022-10-01,14:00:00,64385,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Zusammenkunft,,,
 75539,DE,2022-10-01,14:00:00,14467,Potsdam,Brandenburger Tor,Demonstration,,Fraktion frieden,
 75536,DE,2022-10-01,19:00:00,37359,Effelder,Eichsfelder Dom,Spaziergang,,,
