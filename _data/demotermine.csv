@@ -7,8 +7,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75636,DE,2022-09-26,18:00:00,23966,Wismar,Marktplatz,Kundgebung,,,https://www.facebook.com/photo/?fbid=5764552476910496&set=g.1177440005799211
 75528,DE,2022-09-26,18:00:00,95643,Tirschenreuth,Oberer Marktplatz,Demonstration,,Aktionsbündnis Tirschenreuth wacht auf S. Wenzel/D.Ullrich,https://t.me/s/TIRwachtauf
 75401,DE,2022-09-26,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
-75607,DE,2022-09-26,18:00:00,75334,Straubenhardt-Feldrennach,Rathaus,Spaziergang,,Feldrennach vernetzt,
 75596,DE,2022-09-26,18:00:00,75334,Straubenhardt-Feldrennach,Rathaus,Spaziergang,,,
+75607,DE,2022-09-26,18:00:00,75334,Straubenhardt-Feldrennach,Rathaus,Spaziergang,,Feldrennach vernetzt,
 75620,DE,2022-09-26,18:00:00,39217,Schönebeck,Marktplatz,Kundgebung,,,https://www.facebook.com/photo/?fbid=5590021134422150&set=a.301018293322487
 75477,DE,2022-09-26,18:00:00,75328,Schömberg,Rathaus,Spaziergang,,,
 75617,DE,2022-09-26,18:00:00,88212,Ravensburg,Marienplatz,Spaziergang,,,https://www.facebook.com/photo/?fbid=614649167060846&set=gm.1944300962446441&idorvanity=1177440005799211
@@ -26,8 +26,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75621,DE,2022-09-26,18:00:00,06108,Halle (Saale),Hallmarkt,Spaziergang,,,https://www.facebook.com/photo/?fbid=8224546680919275&set=gm.1944739809069223&idorvanity=1177440005799211
 75615,DE,2022-09-26,18:00:00,57413,Finnentrop,Rathaus Attendorn,Spaziergang,,,https://www.facebook.com/photo/?fbid=570101761558086&set=gm.1945568448986359&idorvanity=1177440005799211
 75364,DE,2022-09-26,18:00:00,06844,Dessau-Roßlau,Marktplatz,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
-75609,DE,2022-09-26,18:00:00,76646,Bruchsal,Rathausplatz / Kaiserstraße 66,Kundgebung,,offenes Mikrophon,
 75581,DE,2022-09-26,18:00:00,76646,Bruchsal,Rathausplatz / Kaiserstraße 66,Spaziergang,,offenes Mikrophon,
+75609,DE,2022-09-26,18:00:00,76646,Bruchsal,Rathausplatz / Kaiserstraße 66,Kundgebung,,offenes Mikrophon,
 75619,DE,2022-09-26,18:00:00,27576,Bremerhaven,Ernst-Reuter-Platz,Demonstration,,,https://www.facebook.com/photo/?fbid=5943270079092550&set=gm.1124114061537679&idorvanity=1001820567100363
 75323,DE,2022-09-26,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,,
 75579,DE,2022-09-26,18:00:00,13507,Berlin,Alt-Tegel 2 (Schinkelbrunnen),Spaziergang,,Freiheit Tegel,https://t.me/Tegel_steht_auf_INFOKANAL
@@ -52,6 +52,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75625,DE,2022-09-26,19:00:00,27239,Twistringen,Lindenstraße 39,Demonstration,,,https://www.facebook.com/photo/?fbid=568129831755279&set=g.1177440005799211
 75498,DE,2022-09-26,19:00:00,86633,Neuburg an der Donau,Spitalplatz,Spaziergang,,,
 75631,DE,2022-09-26,19:00:00,17033,Neubrandenburg,Marktplatz,Spaziergang,,,https://www.facebook.com/photo/?fbid=614600157065747&set=g.1177440005799211
+75640,DE,2022-09-26,19:00:00,84048,Mainburg,Abensberger Str. 22,Spaziergang,,,
 75595,DE,2022-09-26,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,,
 75614,DE,2022-09-26,19:00:00,07743,Jena,Holzmarkt,Demonstration,,,https://www.facebook.com/photo/?fbid=5328383683897943&set=gm.768453957558011&idorvanity=306771003726311
 75632,DE,2022-09-26,19:00:00,91074,Herzogenaurach,Marktplatz,Spaziergang,,,https://www.facebook.com/photo/?fbid=614599970399099&set=g.1177440005799211
@@ -63,6 +64,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75597,DE,2022-09-27,19:00:00,92421,Schwandorf,Marktplatz,Demonstration,,Freiheit für Schwandorf,
 75634,DE,2022-09-28,17:30:00,70173,Stuttgart,Schlossplatz/Commerzbank,Schilderwald,,Privat,
 75610,DE,2022-09-28,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
+75638,DE,2022-09-28,18:30:00,80331,München,Marienplatz,Aufzug,,München-steht-auf,www.muenchen-steht-auf.de
 75545,DE,2022-09-28,19:00:00,74933,Neidenstein,van Venningen Halle,Spaziergang,,,
 75605,DE,2022-09-28,19:00:00,06618,Naumburg,Vogelwiese,Demonstration,,Naumburg zeigt Gesicht!,https://t.me/naumburgzeigtgesichtdasoriginal
 75330,DE,2022-09-29,18:00:00,53902,Bad Münsterefel,Rathaus,Spaziergang,,,
@@ -75,6 +77,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75592,DE,2022-10-01,14:00:00,64385,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Zusammenkunft,,,
 75539,DE,2022-10-01,14:00:00,14467,Potsdam,Brandenburger Tor,Demonstration,,Fraktion frieden,
 75536,DE,2022-10-01,19:00:00,37359,Effelder,Eichsfelder Dom,Spaziergang,,,
+75639,DE,2022-10-02,14:00:00,54516,Wittlich,Platz an der Lieser,Kundgebung,Https://Rumble.com/user/Wittlich,Freunde der Wahrheit WIL,https://m.facebook.com/groups/933115227597823/
 71924,DE,2022-10-02,14:00:00,88718,Meersburg,Am Bodensee,Sonstiges,,Buergerdialog-Konstanz,http://www.friedensee.eu
 75521,DE,2022-10-02,15:00:00,08525,Plauen,Oberer Bahnhof,Demonstration,,,
 75513,DE,2022-10-02,16:30:00,06406,Bernburg Saale,Karlsplatz,Kundgebung,,,
