@@ -1,53 +1,53 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite,latitude,longitude,created
-75585,DE,2022-09-27,18:00:00,76275,Ettlingen,Huttenkr.str-Dickhäuterpl.-REA,Aufzug,,s. vorne unter Info,,48.9397149,8.40427,2022-09-27 00:12:12
-75597,DE,2022-09-27,19:00:00,92421,Schwandorf,Marktplatz,Demonstration,,Freiheit für Schwandorf,,49.3296022,12.1072358,2022-09-27 00:12:12
-75634,DE,2022-09-28,17:30:00,70173,Stuttgart,Schlossplatz/Commerzbank,Schilderwald,,Privat,,48.7784485,9.1800132,2022-09-27 00:12:12
-75610,DE,2022-09-28,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html,50.1994993,8.5847046,2022-09-27 00:12:12
-75638,DE,2022-09-28,18:30:00,80331,München,Marienplatz,Aufzug,,München-steht-auf,www.muenchen-steht-auf.de,48.1372356,11.574675,2022-09-27 00:12:12
-75545,DE,2022-09-28,19:00:00,74933,Neidenstein,van Venningen Halle,Spaziergang,,,,49.3167,8.88472,2022-09-27 00:12:12
-75605,DE,2022-09-28,19:00:00,6618,Naumburg,Vogelwiese,Demonstration,,Naumburg zeigt Gesicht!,https://t.me/naumburgzeigtgesichtdasoriginal,51.1485343,11.814797799901335,2022-09-27 00:12:12
-75330,DE,2022-09-29,18:00:00,53902,Bad Münsterefel,Rathaus,Spaziergang,,,,50.5550689,6.7628664,2022-09-27 00:12:12
-75507,DE,2022-09-29,18:30:00,39261,Zerbst,Markt,Kundgebung,,Zerbst steht auf,,51.9689798,12.0840659,2022-09-27 00:12:12
-75402,DE,2022-09-30,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,,47.67030905,9.586421199708216,2022-09-27 00:12:12
-75527,DE,2022-09-30,19:00:00,33602,Bielefeld,Klosterplatz,Spaziergang,,https://t.me/Bielefeldstehtauf_infokanal,Weitere Infos findet Ihr im Telegram Kanal.,52.0208518,8.5279504,2022-09-27 00:12:12
-75372,DE,2022-10-01,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,t.me/cellestehtauf,52.626166,10.079758,2022-09-27 00:12:12
-75373,DE,2022-10-01,11:45:00,29221,Celle,Arno-Schmidt-Platz/Bibliothek,Kundgebung,,Celle steht auf,t.me/cellestehtauf,52.624056,10.081052,2022-09-27 00:12:12
-75374,DE,2022-10-01,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf,52.6226988,10.0812499,2022-09-27 00:12:12
-75641,DE,2022-10-01,12:00:00,22763,Hamburg Ottensen,Bahnhof Altona,Kundgebung,,Demo Kunsthalle Hamburg,https://t.me/DemoKunsthalle,53.55443605,9.934863909281958,2022-09-27 00:12:12
-75592,DE,2022-10-01,14:00:00,64385,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Zusammenkunft,,,,49.70043805,8.84782296118301,2022-09-27 00:12:12
-75539,DE,2022-10-01,14:00:00,14467,Potsdam,Brandenburger Tor,Demonstration,,Fraktion frieden,,52.399550700000006,13.048066846939687,2022-09-27 00:12:12
-75642,DE,2022-10-01,15:00:00,21073,Hamburg Harburg,Rathausplatz Harburg,Kundgebung,,Demo HH Harburg,https://t.me/Demo_Hamburg_Harburg,53.4578523442029,9.973018485087719,2022-09-27 00:12:12
-75536,DE,2022-10-01,19:00:00,37359,Effelder,Eichsfelder Dom,Spaziergang,,,,51.23924425,10.249075570945946,2022-09-27 00:12:12
-75639,DE,2022-10-02,14:00:00,54516,Wittlich,Platz an der Lieser,Kundgebung,Https://Rumble.com/user/Wittlich,Freunde der Wahrheit WIL,https://m.facebook.com/groups/933115227597823/,49.9856719,6.886221950470437,2022-09-27 00:12:12
-71924,DE,2022-10-02,14:00:00,88718,Meersburg,Am Bodensee,Sonstiges,,Buergerdialog-Konstanz,http://www.friedensee.eu,47.6760185,9.3113752,2022-09-27 00:12:12
-75521,DE,2022-10-02,15:00:00,8525,Plauen,Oberer Bahnhof,Demonstration,,,,50.50558345,12.128874112508392,2022-09-27 00:12:12
-75513,DE,2022-10-02,16:30:00,6406,Bernburg Saale,Karlsplatz,Kundgebung,,,,51.79456,11.7437953,2022-09-27 00:12:12
-75486,DE,2022-10-03,15:00:00,29525,Uelzen,Douglas,Kundgebung,,AfD Uelzen,https://www.facebook.com/events/461884592536018/?ref=newsfeed,52.9650654,10.5603558,2022-09-27 00:12:12
-75540,DE,2022-10-03,15:30:00,7545,Gera,Hofwiesenparkplatz,Kundgebung,michael wittwer,Miteinanderstadt Gera,,,,2022-09-27 00:12:12
-75403,DE,2022-10-03,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,,47.67030905,9.586421199708216,2022-09-27 00:12:12
-75478,DE,2022-10-03,18:00:00,75328,Schömberg,Rathaus,Spaziergang,,,,48.786786,8.6450777,2022-09-27 00:12:12
-75025,DE,2022-10-03,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,,49.9927036,8.6671682,2022-09-27 00:12:12
-75413,DE,2022-10-03,18:00:00,84028,Landshut,Ländtorplatz,Spaziergang,,,,48.5352647,12.1494069,2022-09-27 00:12:12
-75365,DE,2022-10-03,18:00:00,6844,Dessau-Roßlau,Marktplatz,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache,51.88767125,12.250073531284947,2022-09-27 00:12:12
-75530,DE,2022-10-03,18:00:00,6749,Bitterfeld,Marktplatz,Spaziergang,,AfD,,51.7511565,11.9733155,2022-09-27 00:12:12
-75390,DE,2022-10-03,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf,52.624056,10.081052,2022-09-27 00:12:12
-75389,DE,2022-10-03,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf,52.624056,10.081052,2022-09-27 00:12:12
-75499,DE,2022-10-03,19:00:00,86633,Neuburg an der Donau,Spitalplatz,Spaziergang,,,,48.7361197,11.1845664,2022-09-27 00:12:12
-75612,DE,2022-10-08,13:30:00,11011,Berlin,Platz der Republik 1,Kundgebung,,AfD,https://www.afd.de/unser-land-zuerst/,52.5185918,13.3766658,2022-09-27 00:12:12
-75479,DE,2022-10-10,18:00:00,75328,Schömberg,Rathaus,Spaziergang,,,,48.786786,8.6450777,2022-09-27 00:12:12
-75026,DE,2022-10-10,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,,49.9927036,8.6671682,2022-09-27 00:12:12
-75500,DE,2022-10-10,19:00:00,86633,Neuburg an der Donau,Spitalplatz,Spaziergang,,,,48.7361197,11.1845664,2022-09-27 00:12:12
-75289,DE,2022-10-16,12:30:00,70372,Stuttgart,Cannstatter Wasen,Aufzug,,POLITIK UND MEDIEN HAND IN HAND- DAS SCHADET UNSEREM LAND,https://t.me/POLITIKundMEDIEN_STUTTGART,48.79709735,9.21709959152044,2022-09-27 00:12:12
-75027,DE,2022-10-17,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,,49.9927036,8.6671682,2022-09-27 00:12:12
-75443,DE,2022-10-19,14:45:00,20355,Hamburg,Bezirksamt,Sonstiges,,,,53.5614367,9.9788955,2022-09-27 00:12:12
-69511,DE,2022-10-20,18:30:00,60389,Frankfurt Bornheim,Günthersburgpark,Aufzug,,unbekannt,https://t.me/ffmfreiheit,50.1304742,8.7051121,2022-09-27 00:12:12
-75461,DE,2022-10-22,14:00:00,60323,Frankfurt am Main,Grüneburgpark,Aufzug,,Europeans United,https://t.me/EuropeansUnitedDeutschland,50.1311792,8.6612146,2022-09-27 00:12:12
-75028,DE,2022-10-24,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,,49.9927036,8.6671682,2022-09-27 00:12:12
-75502,DE,2022-10-24,19:00:00,86633,Neuburg an der Donau,Spitalplatz,Spaziergang,,,,48.7361197,11.1845664,2022-09-27 00:12:12
-75029,DE,2022-10-31,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Kundgebung,,,,49.9927036,8.6671682,2022-09-27 00:12:12
-75503,DE,2022-10-31,19:00:00,86633,Neuburg an der Donau,Spitalplatz,Spaziergang,,,,48.7361197,11.1845664,2022-09-27 00:12:12
-55107,DE,2022-12-18,13:45:00,70182,Stuttgart,Wilhelmsplatz,Kundgebung,,unbekannt,,48.7709861,9.1788068,2022-09-27 00:12:12
-73995,DE,2022-12-25,19:00:00,1809,Heidenau,Markt,Demonstration,,unbekannt,,50.9808597,13.8635073,2022-09-27 00:12:12
-55530,DE,2022-12-27,18:00:00,94072,Bad Füssing,Kurplatz / Kurallee,Spaziergang,,unbekannt,,48.3506733,13.3095441,2022-09-27 00:12:12
-74733,DE,2033-06-15,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2022-09-27 00:12:12
-69431,DE,2922-01-17,19:00:00,50667,Köln,Roncalliplatz/Domplatte,Spaziergang,,unbekannt,,50.938361,6.959974,2022-09-27 00:12:12
+75585,DE,2022-09-27,18:00:00,76275,Ettlingen,Huttenkr.str-Dickhäuterpl.-REA,Aufzug,,s. vorne unter Info,,48.9397149,8.40427,2022-09-27 01:12:12
+75597,DE,2022-09-27,19:00:00,92421,Schwandorf,Marktplatz,Demonstration,,Freiheit für Schwandorf,,49.3296022,12.1072358,2022-09-27 01:12:12
+75634,DE,2022-09-28,17:30:00,70173,Stuttgart,Schlossplatz/Commerzbank,Schilderwald,,Privat,,48.7784485,9.1800132,2022-09-27 01:12:12
+75610,DE,2022-09-28,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html,50.1994993,8.5847046,2022-09-27 01:12:12
+75638,DE,2022-09-28,18:30:00,80331,München,Marienplatz,Aufzug,,München-steht-auf,www.muenchen-steht-auf.de,48.1372356,11.574675,2022-09-27 01:12:12
+75545,DE,2022-09-28,19:00:00,74933,Neidenstein,van Venningen Halle,Spaziergang,,,,49.3167,8.88472,2022-09-27 01:12:12
+75605,DE,2022-09-28,19:00:00,6618,Naumburg,Vogelwiese,Demonstration,,Naumburg zeigt Gesicht!,https://t.me/naumburgzeigtgesichtdasoriginal,51.1485343,11.814797799901335,2022-09-27 01:12:12
+75330,DE,2022-09-29,18:00:00,53902,Bad Münsterefel,Rathaus,Spaziergang,,,,50.5550689,6.7628664,2022-09-27 01:12:12
+75507,DE,2022-09-29,18:30:00,39261,Zerbst,Markt,Kundgebung,,Zerbst steht auf,,51.9689798,12.0840659,2022-09-27 01:12:12
+75402,DE,2022-09-30,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,,47.67030905,9.586421199708216,2022-09-27 01:12:12
+75527,DE,2022-09-30,19:00:00,33602,Bielefeld,Klosterplatz,Spaziergang,,https://t.me/Bielefeldstehtauf_infokanal,Weitere Infos findet Ihr im Telegram Kanal.,52.0208518,8.5279504,2022-09-27 01:12:12
+75372,DE,2022-10-01,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,t.me/cellestehtauf,52.626166,10.079758,2022-09-27 01:12:12
+75373,DE,2022-10-01,11:45:00,29221,Celle,Arno-Schmidt-Platz/Bibliothek,Kundgebung,,Celle steht auf,t.me/cellestehtauf,52.624056,10.081052,2022-09-27 01:12:12
+75374,DE,2022-10-01,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf,52.6226988,10.0812499,2022-09-27 01:12:12
+75641,DE,2022-10-01,12:00:00,22763,Hamburg Ottensen,Bahnhof Altona,Kundgebung,,Demo Kunsthalle Hamburg,https://t.me/DemoKunsthalle,53.55443605,9.934863909281958,2022-09-27 01:12:12
+75592,DE,2022-10-01,14:00:00,64385,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Zusammenkunft,,,,49.70043805,8.84782296118301,2022-09-27 01:12:12
+75539,DE,2022-10-01,14:00:00,14467,Potsdam,Brandenburger Tor,Demonstration,,Fraktion frieden,,52.399550700000006,13.048066846939687,2022-09-27 01:12:12
+75642,DE,2022-10-01,15:00:00,21073,Hamburg Harburg,Rathausplatz Harburg,Kundgebung,,Demo HH Harburg,https://t.me/Demo_Hamburg_Harburg,53.4578523442029,9.973018485087719,2022-09-27 01:12:12
+75536,DE,2022-10-01,19:00:00,37359,Effelder,Eichsfelder Dom,Spaziergang,,,,51.23924425,10.249075570945946,2022-09-27 01:12:12
+75639,DE,2022-10-02,14:00:00,54516,Wittlich,Platz an der Lieser,Kundgebung,Https://Rumble.com/user/Wittlich,Freunde der Wahrheit WIL,https://m.facebook.com/groups/933115227597823/,49.9856719,6.886221950470437,2022-09-27 01:12:12
+71924,DE,2022-10-02,14:00:00,88718,Meersburg,Am Bodensee,Sonstiges,,Buergerdialog-Konstanz,http://www.friedensee.eu,47.6760185,9.3113752,2022-09-27 01:12:12
+75521,DE,2022-10-02,15:00:00,8525,Plauen,Oberer Bahnhof,Demonstration,,,,50.50558345,12.128874112508392,2022-09-27 01:12:12
+75513,DE,2022-10-02,16:30:00,6406,Bernburg Saale,Karlsplatz,Kundgebung,,,,51.79456,11.7437953,2022-09-27 01:12:12
+75486,DE,2022-10-03,15:00:00,29525,Uelzen,Douglas,Kundgebung,,AfD Uelzen,https://www.facebook.com/events/461884592536018/?ref=newsfeed,52.9650654,10.5603558,2022-09-27 01:12:12
+75540,DE,2022-10-03,15:30:00,7545,Gera,Hofwiesenparkplatz,Kundgebung,michael wittwer,Miteinanderstadt Gera,,,,2022-09-27 01:12:12
+75403,DE,2022-10-03,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,,47.67030905,9.586421199708216,2022-09-27 01:12:12
+75478,DE,2022-10-03,18:00:00,75328,Schömberg,Rathaus,Spaziergang,,,,48.786786,8.6450777,2022-09-27 01:12:12
+75025,DE,2022-10-03,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,,49.9927036,8.6671682,2022-09-27 01:12:12
+75413,DE,2022-10-03,18:00:00,84028,Landshut,Ländtorplatz,Spaziergang,,,,48.5352647,12.1494069,2022-09-27 01:12:12
+75365,DE,2022-10-03,18:00:00,6844,Dessau-Roßlau,Marktplatz,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache,51.88767125,12.250073531284947,2022-09-27 01:12:12
+75530,DE,2022-10-03,18:00:00,6749,Bitterfeld,Marktplatz,Spaziergang,,AfD,,51.7511565,11.9733155,2022-09-27 01:12:12
+75390,DE,2022-10-03,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf,52.624056,10.081052,2022-09-27 01:12:12
+75389,DE,2022-10-03,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf,52.624056,10.081052,2022-09-27 01:12:12
+75499,DE,2022-10-03,19:00:00,86633,Neuburg an der Donau,Spitalplatz,Spaziergang,,,,48.7361197,11.1845664,2022-09-27 01:12:12
+75612,DE,2022-10-08,13:30:00,11011,Berlin,Platz der Republik 1,Kundgebung,,AfD,https://www.afd.de/unser-land-zuerst/,52.5185918,13.3766658,2022-09-27 01:12:12
+75479,DE,2022-10-10,18:00:00,75328,Schömberg,Rathaus,Spaziergang,,,,48.786786,8.6450777,2022-09-27 01:12:12
+75026,DE,2022-10-10,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,,49.9927036,8.6671682,2022-09-27 01:12:12
+75500,DE,2022-10-10,19:00:00,86633,Neuburg an der Donau,Spitalplatz,Spaziergang,,,,48.7361197,11.1845664,2022-09-27 01:12:12
+75289,DE,2022-10-16,12:30:00,70372,Stuttgart,Cannstatter Wasen,Aufzug,,POLITIK UND MEDIEN HAND IN HAND- DAS SCHADET UNSEREM LAND,https://t.me/POLITIKundMEDIEN_STUTTGART,48.79709735,9.21709959152044,2022-09-27 01:12:12
+75027,DE,2022-10-17,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,,49.9927036,8.6671682,2022-09-27 01:12:12
+75443,DE,2022-10-19,14:45:00,20355,Hamburg,Bezirksamt,Sonstiges,,,,53.5614367,9.9788955,2022-09-27 01:12:12
+69511,DE,2022-10-20,18:30:00,60389,Frankfurt Bornheim,Günthersburgpark,Aufzug,,unbekannt,https://t.me/ffmfreiheit,50.1304742,8.7051121,2022-09-27 01:12:12
+75461,DE,2022-10-22,14:00:00,60323,Frankfurt am Main,Grüneburgpark,Aufzug,,Europeans United,https://t.me/EuropeansUnitedDeutschland,50.1311792,8.6612146,2022-09-27 01:12:12
+75028,DE,2022-10-24,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,,49.9927036,8.6671682,2022-09-27 01:12:12
+75502,DE,2022-10-24,19:00:00,86633,Neuburg an der Donau,Spitalplatz,Spaziergang,,,,48.7361197,11.1845664,2022-09-27 01:12:12
+75029,DE,2022-10-31,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Kundgebung,,,,49.9927036,8.6671682,2022-09-27 01:12:12
+75503,DE,2022-10-31,19:00:00,86633,Neuburg an der Donau,Spitalplatz,Spaziergang,,,,48.7361197,11.1845664,2022-09-27 01:12:12
+55107,DE,2022-12-18,13:45:00,70182,Stuttgart,Wilhelmsplatz,Kundgebung,,unbekannt,,48.7709861,9.1788068,2022-09-27 01:12:12
+73995,DE,2022-12-25,19:00:00,1809,Heidenau,Markt,Demonstration,,unbekannt,,50.9808597,13.8635073,2022-09-27 01:12:12
+55530,DE,2022-12-27,18:00:00,94072,Bad Füssing,Kurplatz / Kurallee,Spaziergang,,unbekannt,,48.3506733,13.3095441,2022-09-27 01:12:12
+74733,DE,2033-06-15,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/,49.4509469,11.0777299,2022-09-27 01:12:12
+69431,DE,2922-01-17,19:00:00,50667,Köln,Roncalliplatz/Domplatte,Spaziergang,,unbekannt,,50.938361,6.959974,2022-09-27 01:12:12
