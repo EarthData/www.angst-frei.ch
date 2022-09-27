@@ -2,12 +2,15 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75585,DE,2022-09-27,18:00:00,76275,Ettlingen,Huttenkr.str-Dickhäuterpl.-REA,Aufzug,,s. vorne unter Info,
 75597,DE,2022-09-27,19:00:00,92421,Schwandorf,Marktplatz,Demonstration,,Freiheit für Schwandorf,
 75634,DE,2022-09-28,17:30:00,70173,Stuttgart,Schlossplatz/Commerzbank,Schilderwald,,Privat,
+75646,DE,2022-09-28,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
+75649,DE,2022-09-28,18:30:00,74936,Siegelsbach,Platz vor dem Rathaus,Spaziergang,,,
 75610,DE,2022-09-28,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://www.bbfu.de/corona.html
 75638,DE,2022-09-28,18:30:00,80331,München,Marienplatz,Aufzug,,München-steht-auf,www.muenchen-steht-auf.de
 75545,DE,2022-09-28,19:00:00,74933,Neidenstein,van Venningen Halle,Spaziergang,,,
 75605,DE,2022-09-28,19:00:00,06618,Naumburg,Vogelwiese,Demonstration,,Naumburg zeigt Gesicht!,https://t.me/naumburgzeigtgesichtdasoriginal
 75330,DE,2022-09-29,18:00:00,53902,Bad Münsterefel,Rathaus,Spaziergang,,,
 75507,DE,2022-09-29,18:30:00,39261,Zerbst,Markt,Kundgebung,,Zerbst steht auf,
+75647,DE,2022-09-30,15:00:00,90402,Nürnberg,Hallplatz / Königstr.,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 75402,DE,2022-09-30,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 75527,DE,2022-09-30,19:00:00,33602,Bielefeld,Klosterplatz,Spaziergang,,https://t.me/Bielefeldstehtauf_infokanal,Weitere Infos findet Ihr im Telegram Kanal.
 75372,DE,2022-10-01,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,t.me/cellestehtauf
@@ -21,6 +24,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75639,DE,2022-10-02,14:00:00,54516,Wittlich,Platz an der Lieser,Kundgebung,Https://Rumble.com/user/Wittlich,Freunde der Wahrheit WIL,https://m.facebook.com/groups/933115227597823/
 71924,DE,2022-10-02,14:00:00,88718,Meersburg,Am Bodensee,Sonstiges,,Buergerdialog-Konstanz,http://www.friedensee.eu
 75521,DE,2022-10-02,15:00:00,08525,Plauen,Oberer Bahnhof,Demonstration,,,
+75648,DE,2022-10-02,15:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 75513,DE,2022-10-02,16:30:00,06406,Bernburg Saale,Karlsplatz,Kundgebung,,,
 75486,DE,2022-10-03,15:00:00,29525,Uelzen,Douglas,Kundgebung,,AfD Uelzen,https://www.facebook.com/events/461884592536018/?ref=newsfeed
 75540,DE,2022-10-03,15:30:00,07545,Gera,Hofwiesenparkplatz,Kundgebung,michael wittwer,Miteinanderstadt Gera,
@@ -29,7 +33,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75025,DE,2022-10-03,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,
 75413,DE,2022-10-03,18:00:00,84028,Landshut,Ländtorplatz,Spaziergang,,,
 75365,DE,2022-10-03,18:00:00,06844,Dessau-Roßlau,Marktplatz,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
+75644,DE,2022-10-03,18:00:00,76646,Bruchsal,Rathausplatz / Kaiserstraße 66,Spaziergang,,offenes Mikrophon,
 75530,DE,2022-10-03,18:00:00,06749,Bitterfeld,Marktplatz,Spaziergang,,AfD,
+75645,DE,2022-10-03,18:00:00,13507,Berlin,Alt-Tegel 2 (Schinkelbrunnen),Spaziergang,,Freiheit Tegel,https://t.me/Tegel_steht_auf_INFOKANAL
 75390,DE,2022-10-03,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75389,DE,2022-10-03,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75499,DE,2022-10-03,19:00:00,86633,Neuburg an der Donau,Spitalplatz,Spaziergang,,,
@@ -46,6 +52,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75502,DE,2022-10-24,19:00:00,86633,Neuburg an der Donau,Spitalplatz,Spaziergang,,,
 75029,DE,2022-10-31,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Kundgebung,,,
 75503,DE,2022-10-31,19:00:00,86633,Neuburg an der Donau,Spitalplatz,Spaziergang,,,
+75643,DE,2022-12-11,12:33:00,10117,Berlin,Brandenburger Tor,Schweigemarsch,,Volkstrauertag  - Wir trauern um unser Deutschland,
 55107,DE,2022-12-18,13:45:00,70182,Stuttgart,Wilhelmsplatz,Kundgebung,,unbekannt,
 73995,DE,2022-12-25,19:00:00,01809,Heidenau,Markt,Demonstration,,unbekannt,
 55530,DE,2022-12-27,18:00:00,94072,Bad Füssing,Kurplatz / Kurallee,Spaziergang,,unbekannt,
