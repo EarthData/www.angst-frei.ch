@@ -12,8 +12,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75402,DE,2022-09-30,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 75527,DE,2022-09-30,19:00:00,33602,Bielefeld,Klosterplatz,Spaziergang,,https://t.me/Bielefeldstehtauf_infokanal,Weitere Infos findet Ihr im Telegram Kanal.
 75372,DE,2022-10-01,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,t.me/cellestehtauf
-75373,DE,2022-10-01,11:45:00,29221,Celle,Arno-Schmidt-Platz/Bibliothek,Kundgebung,,Celle steht auf,t.me/cellestehtauf
 75374,DE,2022-10-01,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf
+75373,DE,2022-10-01,11:45:00,29221,Celle,Arno-Schmidt-Platz/Bibliothek,Kundgebung,,Celle steht auf,t.me/cellestehtauf
 75641,DE,2022-10-01,12:00:00,22763,Hamburg Ottensen,Bahnhof Altona,Kundgebung,,Demo Kunsthalle Hamburg,https://t.me/DemoKunsthalle
 75592,DE,2022-10-01,14:00:00,64385,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Zusammenkunft,,,
 75539,DE,2022-10-01,14:00:00,14467,Potsdam,Brandenburger Tor,Demonstration,,Fraktion frieden,
@@ -24,9 +24,11 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75521,DE,2022-10-02,15:00:00,08525,Plauen,Oberer Bahnhof,Demonstration,,,
 75648,DE,2022-10-02,15:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 75513,DE,2022-10-02,16:30:00,06406,Bernburg Saale,Karlsplatz,Kundgebung,,,
+75652,DE,2022-10-03,14:00:00,76530,Baden-Baden,Reinhard-Fieser-Brücke,Schweigemarsch,https://www.baden-baden.de/stadtportrait/aktuelles/webcams,BI "aufRECHT:FREIdenken Mitelbaden" und attac Baden-Baden,www.solidarnosch.de
 75486,DE,2022-10-03,15:00:00,29525,Uelzen,Douglas,Kundgebung,,AfD Uelzen,https://www.facebook.com/events/461884592536018/?ref=newsfeed
 75540,DE,2022-10-03,15:30:00,07545,Gera,Hofwiesenparkplatz,Kundgebung,michael wittwer,Miteinanderstadt Gera,
 75403,DE,2022-10-03,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
+75650,DE,2022-10-03,18:00:00,74523,Schwäbisch Hall,Marktplatz,Spaziergang,,,
 75478,DE,2022-10-03,18:00:00,75328,Schömberg,Rathaus,Spaziergang,,,
 75025,DE,2022-10-03,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,
 75413,DE,2022-10-03,18:00:00,84028,Landshut,Ländtorplatz,Spaziergang,,,
@@ -37,6 +39,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75390,DE,2022-10-03,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75389,DE,2022-10-03,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75499,DE,2022-10-03,19:00:00,86633,Neuburg an der Donau,Spitalplatz,Spaziergang,,,
+75651,DE,2022-10-03,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
+75653,DE,2022-10-04,19:00:00,92421,Schwandorf,Marktplatz,Demonstration,Klardenken.tv,Freiheit für Schwandorf,
 75612,DE,2022-10-08,13:30:00,11011,Berlin,Platz der Republik 1,Kundgebung,,AfD,https://www.afd.de/unser-land-zuerst/
 75479,DE,2022-10-10,18:00:00,75328,Schömberg,Rathaus,Spaziergang,,,
 75026,DE,2022-10-10,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,
