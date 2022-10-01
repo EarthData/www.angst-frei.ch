@@ -1,19 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-75666,DE,2022-10-01,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
-75372,DE,2022-10-01,11:00:00,29221,Celle,Neumarkt,Aufzug,,Celle steht auf,t.me/cellestehtauf
-75374,DE,2022-10-01,11:45:00,29221,Celle,Großer Plan,Kundgebung,,Celle steht auf,t.me/cellestehtauf
-75373,DE,2022-10-01,11:45:00,29221,Celle,Arno-Schmidt-Platz/Bibliothek,Kundgebung,,Celle steht auf,t.me/cellestehtauf
-75641,DE,2022-10-01,12:00:00,22763,Hamburg Ottensen,Bahnhof Altona,Kundgebung,,Demo Kunsthalle Hamburg,https://t.me/DemoKunsthalle
-75592,DE,2022-10-01,14:00:00,64385,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Zusammenkunft,,,
-75539,DE,2022-10-01,14:00:00,14467,Potsdam,Brandenburger Tor,Demonstration,,Fraktion frieden,
-75687,DE,2022-10-01,14:00:00,79098,Freiburg,Konzerthaus gegenüber Hbf,Fahrraddemo,,FreiSeinFreiburg,
-75685,DE,2022-10-01,15:00:00,22391,Hamburg Poppenbüttel,Kritenbarg (Wendehammer),Aufzug,,Bürgerbündnis Alstertal,
-75642,DE,2022-10-01,15:00:00,21073,Hamburg Harburg,Rathausplatz Harburg,Kundgebung,,Demo HH Harburg,https://t.me/Demo_Hamburg_Harburg
-75686,DE,2022-10-01,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,APO - Düsseldorf,http://Aponrw.de
-75654,DE,2022-10-01,15:30:00,45127,Essen,Willy-Brandt-Platz,Kundgebung,,Für den Erhalt der Freiheit,
-75689,DE,2022-10-01,18:00:00,85049,Ingolstadt,Paradeplatz,Kundgebung,,,https://www.facebook.com/photo/?fbid=10209362215570190&set=g.1177440005799211
-75662,DE,2022-10-01,18:00:00,73326,Deggingen,Rathaus und Umgebung,Gegenprotest,,,
-75536,DE,2022-10-01,19:00:00,37359,Effelder,Eichsfelder Dom,Spaziergang,,,
 75721,DE,2022-10-02,10:45:00,75015,Bretten,Stadtpark/Alter Friedhof,Meditation,,,
 75692,DE,2022-10-02,14:00:00,08056,Zwickau,Hauptmarkt,Demonstration,,,https://www.facebook.com/photo/?fbid=643861387327984&set=g.1177440005799211
 75639,DE,2022-10-02,14:00:00,54516,Wittlich,Platz an der Lieser,Kundgebung,Https://Rumble.com/user/Wittlich,Freunde der Wahrheit WIL,https://m.facebook.com/groups/933115227597823/
@@ -53,8 +38,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75735,DE,2022-10-03,18:15:00,42651,Solingen,Neumarkt,Spaziergang,,https://t.me/FreieBergischeLoewenSG,
 75664,DE,2022-10-03,18:30:00,21465,Reinbek,vorm Rathaus,Spaziergang,,,
 75731,DE,2022-10-03,18:30:00,03149,Forst Lauditz,An der Stadkirche/Marktplatz,Spaziergang,,,
-75390,DE,2022-10-03,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75389,DE,2022-10-03,18:30:00,29221,Celle,Stechbahn vor Stadtkirche,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
+75390,DE,2022-10-03,18:30:00,29221,Celle,Innenstadt,Spaziergang,,Das Volk geht spazieren für die Freiheit,t.me/cellestehtauf
 75727,DE,2022-10-03,19:00:00,16792,Zehdenick,Marktplatz,Demonstration,,,https://www.facebook.com/photo/?fbid=625535659295230&set=a.222080472974086
 75499,DE,2022-10-03,19:00:00,86633,Neuburg an der Donau,Spitalplatz,Spaziergang,,,
 75661,DE,2022-10-03,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,,
@@ -109,13 +94,13 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75714,DE,2022-11-28,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
 75742,DE,2022-11-28,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
 75699,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
-75702,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75700,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
+75702,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75674,DE,2022-12-03,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75715,DE,2022-12-05,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
 75743,DE,2022-12-05,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
-75701,DE,2022-12-05,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75703,DE,2022-12-05,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
+75701,DE,2022-12-05,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75675,DE,2022-12-10,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75643,DE,2022-12-11,12:33:00,10117,Berlin,Brandenburger Tor,Schweigemarsch,,Volkstrauertag  - Wir trauern um unser Deutschland,
 75716,DE,2022-12-12,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
