@@ -42,6 +42,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75025,DE,2022-10-03,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,
 75413,DE,2022-10-03,18:00:00,84028,Landshut,Ländtorplatz,Spaziergang,,,
 75737,DE,2022-10-03,18:00:00,04567,Kitzscher,Rathaus,Spaziergang,,,
+75747,DE,2022-10-03,18:00:00,87435,Kempten,Stadtpark,Spaziergang,,,
 75665,DE,2022-10-03,18:00:00,21029,Hamburg-Bergedorf,Sankt Petri u. Pauli (Kirche),Spaziergang,,,
 75365,DE,2022-10-03,18:00:00,06844,Dessau-Roßlau,Marktplatz,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
 75644,DE,2022-10-03,18:00:00,76646,Bruchsal,Rathausplatz / Kaiserstraße 66,Spaziergang,,offenes Mikrophon,
@@ -108,20 +109,20 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75714,DE,2022-11-28,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
 75742,DE,2022-11-28,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
 75699,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
-75700,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75702,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
+75700,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75674,DE,2022-12-03,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75715,DE,2022-12-05,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
 75743,DE,2022-12-05,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
-75703,DE,2022-12-05,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75701,DE,2022-12-05,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
+75703,DE,2022-12-05,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75675,DE,2022-12-10,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75643,DE,2022-12-11,12:33:00,10117,Berlin,Brandenburger Tor,Schweigemarsch,,Volkstrauertag  - Wir trauern um unser Deutschland,
 75716,DE,2022-12-12,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
 75744,DE,2022-12-12,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
 75704,DE,2022-12-12,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
-75677,DE,2022-12-17,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75676,DE,2022-12-17,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
+75677,DE,2022-12-17,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 55107,DE,2022-12-18,13:45:00,70182,Stuttgart,Wilhelmsplatz,Kundgebung,,unbekannt,
 75717,DE,2022-12-19,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
 75745,DE,2022-12-19,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
