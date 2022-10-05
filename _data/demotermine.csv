@@ -1,10 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-75766,DE,2022-10-05,18:00:00,70173,Stuttgart,Karlsplatz,Aufzug,,Privat,
-75790,DE,2022-10-05,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
-75748,DE,2022-10-05,18:00:00,80933,München,Nordhaideplatz,Aufzug,https://odysee.com/@NuitDebout-Munich:7,München-steht-auf,www.muenchen-steht-auf.de
-75718,DE,2022-10-05,18:00:00,32756,Detmold,Markt,Kundgebung,,Lippe für Frieden, Freiheit & menschliches Miteinander,
-75783,DE,2022-10-05,18:00:00,61231,Bad Nauheim,Parkplatz Usa Wellenbad,Kundgebung,,,
-75733,DE,2022-10-05,19:00:00,06618,Naumburg,Vogelwiese,Demonstration,,Friedensbewegung- Naumburg zeigt Gesicht!,
 75800,DE,2022-10-06,15:00:00,60320,Frankfurt am Main,HR Bertramwiese/Bertramstraße,Kundgebung,,,
 75729,DE,2022-10-07,13:00:00,48143,Münster,Stubengassenplatz,Kundgebung,,BPE Pax Europa - Michael Stürzenberger,http://paxeuropa.de
 75764,DE,2022-10-07,17:30:00,76133,Karlsruhe,Marktplatz-Pyramide,Kundgebung,,s. vorne unter Info - t.me/grundrechte_jetzt,t.me/grundrechte_jetzt
@@ -74,8 +68,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75503,DE,2022-10-31,19:00:00,86633,Neuburg an der Donau,Spitalplatz,Spaziergang,,,
 75696,DE,2022-10-31,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75671,DE,2022-11-05,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
-75772,DE,2022-11-07,18:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,
 75773,DE,2022-11-07,18:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,
+75772,DE,2022-11-07,18:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,
 75761,DE,2022-11-07,18:00:00,84524,Neuötting,Rathaus,Spaziergang,,,
 75711,DE,2022-11-07,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
 75739,DE,2022-11-07,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
@@ -91,13 +85,13 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75714,DE,2022-11-28,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
 75742,DE,2022-11-28,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
 75699,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
-75700,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75702,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
+75700,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75674,DE,2022-12-03,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75715,DE,2022-12-05,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
 75743,DE,2022-12-05,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
-75701,DE,2022-12-05,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75703,DE,2022-12-05,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
+75701,DE,2022-12-05,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75795,DE,2022-12-08,14:00:00,79098,Freiburg,Platz der alten Synagoge,Aufzug,Für Frieden, Freiheit und Vernunft,FreiSeinFreiburg,
 75675,DE,2022-12-10,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75643,DE,2022-12-11,12:33:00,10117,Berlin,Brandenburger Tor,Schweigemarsch,,Volkstrauertag  - Wir trauern um unser Deutschland,
