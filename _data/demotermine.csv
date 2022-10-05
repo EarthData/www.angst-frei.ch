@@ -11,6 +11,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75612,DE,2022-10-08,13:30:00,11011,Berlin,Platz der Republik 1,Kundgebung,,AfD,https://www.afd.de/unser-land-zuerst/
 75789,DE,2022-10-08,15:00:00,22041,Hamburg,Wochenmarkt in der Klappstraße,Aufzug,,Bürgerbündnis Wandsbek,
 75753,DE,2022-10-08,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,APO - Düsseldorf,http://Aponrw.de
+75794,DE,2022-10-08,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,NO_Vaccination,APO - Düsseldorf,http://Aponrw.de
+75796,DE,2022-10-08,15:30:00,45127,Essen,Willy-Brandt-Platz,Kundgebung,,Für den Erhalt der Freiheit,
 75791,DE,2022-10-08,17:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 75792,DE,2022-10-09,15:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 75786,DE,2022-10-10,16:30:00,35510,Butzbach,B 3,Schilderwald,,,
@@ -24,11 +26,13 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75026,DE,2022-10-10,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,
 75781,DE,2022-10-10,18:00:00,04567,Kitzscher,Spaziergänge,Spaziergang,,,
 75656,DE,2022-10-10,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,
+75793,DE,2022-10-10,18:00:00,74321,Bietigheim-Bissingen,Marktplatz Bietigheim,Spaziergang,,,
 75788,DE,2022-10-10,18:00:00,13507,Berlin,Alt-Tegel 2 (Schinkelbrunnen),Spaziergang,,Bürgerinitiative Tegel-steht-auf!,https://t.me/Tegel_steht_auf_INFOKANAL
 75777,DE,2022-10-10,18:00:00,06449,Aschersleben,Am Markt,Spaziergang,,,
 75779,DE,2022-10-10,18:15:00,42651,Solingen,Neumarkt,Spaziergang,,https://t.me/FreieBergischeLoewenSG,
 75778,DE,2022-10-10,18:30:00,67547,Worms,Lutherdenkmal,Spaziergang,,,
 75500,DE,2022-10-10,19:00:00,86633,Neuburg an der Donau,Spitalplatz,Spaziergang,,,
+75797,DE,2022-10-10,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,,
 75780,DE,2022-10-10,19:00:00,04552,Borna,Markt,Spaziergang,,,
 75693,DE,2022-10-10,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75784,DE,2022-10-11,18:00:00,63683,Ortenberg,Marktplatz,Spaziergang,,,
@@ -82,21 +86,22 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75774,DE,2022-11-28,18:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,
 75714,DE,2022-11-28,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
 75742,DE,2022-11-28,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
-75702,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
-75700,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75699,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
+75700,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
+75702,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75674,DE,2022-12-03,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75715,DE,2022-12-05,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
 75743,DE,2022-12-05,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
 75701,DE,2022-12-05,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75703,DE,2022-12-05,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
+75795,DE,2022-12-08,14:00:00,79098,Freiburg,Platz der alten Synagoge,Aufzug,Für Frieden, Freiheit und Vernunft,FreiSeinFreiburg,
 75675,DE,2022-12-10,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75643,DE,2022-12-11,12:33:00,10117,Berlin,Brandenburger Tor,Schweigemarsch,,Volkstrauertag  - Wir trauern um unser Deutschland,
 75716,DE,2022-12-12,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
 75744,DE,2022-12-12,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
 75704,DE,2022-12-12,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
-75677,DE,2022-12-17,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75676,DE,2022-12-17,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
+75677,DE,2022-12-17,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 55107,DE,2022-12-18,13:45:00,70182,Stuttgart,Wilhelmsplatz,Kundgebung,,unbekannt,
 75717,DE,2022-12-19,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
 75745,DE,2022-12-19,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
