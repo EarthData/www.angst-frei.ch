@@ -1,7 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-75821,DE,2022-10-09,10:45:00,75015,Bretten,Stadtpark/Alter Friedhof,Meditation,,,
-75817,DE,2022-10-09,15:00:00,66111,Saarbrücken,Landwehrplatz,Demonstration,,Wir sind die Rote Linie Saarbrücken,
-75792,DE,2022-10-09,15:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 75786,DE,2022-10-10,16:30:00,35510,Butzbach,B 3,Schilderwald,,,
 75825,DE,2022-10-10,17:30:00,21073,Hamburg-Harburg,Harburger Rathausplatz,Spaziergang,,,
 75720,DE,2022-10-10,18:00:00,39261,Zerbst,Markt,Spaziergang,,,
@@ -32,8 +29,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75500,DE,2022-10-10,19:00:00,86633,Neuburg an der Donau,Spitalplatz,Spaziergang,,,
 75797,DE,2022-10-10,19:00:00,87600,Kaufbeuren-Neugablonz,Neuer Markt,Kundgebung,,,
 75837,DE,2022-10-10,19:00:00,83125,Eggstätt,Rathaus,Spaziergang,,,
-75780,DE,2022-10-10,19:00:00,04552,Borna,Markt,Spaziergang,,,
 75811,DE,2022-10-10,19:00:00,04552,Borna,Markt,Spaziergang,,,
+75780,DE,2022-10-10,19:00:00,04552,Borna,Markt,Spaziergang,,,
 75828,DE,2022-10-10,19:00:00,99310,Arnstadt,Marktplatz,Demonstration,,Bürger dieser Stadt,
 75693,DE,2022-10-10,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75784,DE,2022-10-11,18:00:00,63683,Ortenberg,Marktplatz,Spaziergang,,,
@@ -89,8 +86,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75696,DE,2022-10-31,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75671,DE,2022-11-05,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75805,DE,2022-11-05,18:00:00,06844,Dessau-Roßlau,Marktplatz,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
-75773,DE,2022-11-07,18:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,
 75772,DE,2022-11-07,18:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,
+75773,DE,2022-11-07,18:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,
 75761,DE,2022-11-07,18:00:00,84524,Neuötting,Rathaus,Spaziergang,,,
 75711,DE,2022-11-07,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
 75739,DE,2022-11-07,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
@@ -111,9 +108,9 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75714,DE,2022-11-28,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
 75742,DE,2022-11-28,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
 75808,DE,2022-11-28,18:00:00,06844,Dessau-Roßlau,beim Rathaus jeden Montag,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
+75699,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75702,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75700,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
-75699,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75674,DE,2022-12-03,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75715,DE,2022-12-05,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
 75743,DE,2022-12-05,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
@@ -127,8 +124,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75744,DE,2022-12-12,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
 75806,DE,2022-12-12,18:00:00,06844,Dessau-Roßlau,Marktplatz,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
 75704,DE,2022-12-12,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
-75677,DE,2022-12-17,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75676,DE,2022-12-17,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
+75677,DE,2022-12-17,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 55107,DE,2022-12-18,13:45:00,70182,Stuttgart,Wilhelmsplatz,Kundgebung,,unbekannt,
 75717,DE,2022-12-19,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
 75745,DE,2022-12-19,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
