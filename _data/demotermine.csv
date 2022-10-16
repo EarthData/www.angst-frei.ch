@@ -13,8 +13,11 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75758,DE,2022-10-17,18:00:00,84524,Neuötting,Rathaus,Spaziergang,,,
 75709,DE,2022-10-17,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
 75027,DE,2022-10-17,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,
+75900,DE,2022-10-17,18:00:00,76829,Landau,Untertorplatz,Spaziergang,,,
 75881,DE,2022-10-17,18:00:00,95326,Kulmbach,Marktplatz,Spaziergang,,Frieden-Freiheit-Selbstbestimmung,
 75834,DE,2022-10-17,18:00:00,04567,Kitzscher,Rathaus,Spaziergang,,,
+75899,DE,2022-10-17,18:00:00,87435,Kempten,Hildegardplatz,Spaziergang,,,
+75894,DE,2022-10-17,18:00:00,20095,Hamburg,Glockengießerwall 5,Spaziergang,,DemoHamburg.de Bürgerinitiative,www.es-reicht.demohamburg.de
 75870,DE,2022-10-17,18:00:00,82256,Fürstenfeldbruck,Volksfestplatz,Spaziergang,,,
 75867,DE,2022-10-17,18:00:00,45127,Essen,Wiese AltoTheater/Philharmonie,Spaziergang,,Montagsspaziergang Essen,www.montagsspaziergang-essen.de
 75883,DE,2022-10-17,18:00:00,76646,Bruchsal,Rathausplatz / Kaiserstraße 66,Spaziergang,,offenes Mikrophon,
@@ -41,18 +44,21 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75893,DE,2022-10-19,19:00:00,06618,Naumburg,Vogelwiese,Demonstration,,Naumburg zeigt Gesicht!,https://t.me/naumburgsaalezeigtgesicht
 69511,DE,2022-10-20,18:30:00,60389,Frankfurt Bornheim,Günthersburgpark,Aufzug,,unbekannt,https://t.me/ffmfreiheit
 75861,DE,2022-10-21,16:00:00,88069,Tettnang,Karlstraße,Schilderwald,,,
+75898,DE,2022-10-21,17:30:00,76133,Karlsruhe,Marktplatz-Pyramide,Aufzug,,s. vorne unter Info - t.me/grundrechte_jetzt,t.me/grundrechte_jetzt
 75890,DE,2022-10-21,19:00:00,89073,Ulm,Münsterplatz,Spaziergang,,,
 75669,DE,2022-10-22,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75863,DE,2022-10-22,12:00:00,20457,Hamburg,Hachmannplatz / Hauptbahnhof,Kundgebung,,Demo Kunsthalle Hamburg,https://demokunsthalle.de/termin/sicheres-leben-wohnung-brot-und-frieden/
 75461,DE,2022-10-22,14:00:00,60323,Frankfurt am Main,Grüneburgpark,Aufzug,,Europeans United,https://t.me/EuropeansUnitedDeutschland
 75851,DE,2022-10-23,14:00:00,76530,Baden-Baden,Reinhard-Fieser-Brücke,Kundgebung,https://youtu.be/vmtOlrgcn40,BI "aufRECHT:FREIdenken",https://www.musikerstehenauf.de/demo-salsa-festival-baden-baden-23-10-2022/
 75873,DE,2022-10-23,15:00:00,70439,Stuttgart-Stammheim,JVA Stammheim,Kundgebung,,Privatpersonen, Günter aus Bretten und Michael aus Knittlingen,
+75895,DE,2022-10-23,15:00:00,20095,Hamburg,Glockengießerwall 5,Aufzug,,DemoHamburg.de Bürgerinitiative,www.es-reicht.demohamburg.de
 75770,DE,2022-10-24,18:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,
 75845,DE,2022-10-24,18:00:00,88239,Wangen i.Allg.,Marktplatz,Spaziergang,,,
 75858,DE,2022-10-24,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 75759,DE,2022-10-24,18:00:00,84524,Neuötting,Rathaus,Spaziergang,,,
 75028,DE,2022-10-24,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Spaziergang,,,
 75835,DE,2022-10-24,18:00:00,04567,Kitzscher,Rathaus,Spaziergang,,,
+75896,DE,2022-10-24,18:00:00,20095,Hamburg,Glockengießerwall 5,Spaziergang,,DemoHamburg.de Bürgerinitiative,www.es-reicht.demohamburg.de
 75658,DE,2022-10-24,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,
 75502,DE,2022-10-24,19:00:00,86633,Neuburg an der Donau,Spitalplatz,Spaziergang,,,
 75839,DE,2022-10-24,19:00:00,83125,Eggstätt,Rathaus,Spaziergang,,,
@@ -69,6 +75,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75710,DE,2022-10-31,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
 75029,DE,2022-10-31,18:00:00,63225,Langen (Hessen),Bahnstraße / Goethestr.,Kundgebung,,,
 75836,DE,2022-10-31,18:00:00,04567,Kitzscher,Rathaus,Spaziergang,,,
+75897,DE,2022-10-31,18:00:00,20095,Hamburg,Glockengießerwall 5,Spaziergang,,DemoHamburg.de Bürgerinitiative,www.es-reicht.demohamburg.de
 75659,DE,2022-10-31,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,
 75503,DE,2022-10-31,19:00:00,86633,Neuburg an der Donau,Spitalplatz,Spaziergang,,,
 75840,DE,2022-10-31,19:00:00,83125,Eggstätt,Rathaus,Spaziergang,,,
@@ -98,15 +105,15 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75714,DE,2022-11-28,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
 75742,DE,2022-11-28,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
 75808,DE,2022-11-28,18:00:00,06844,Dessau-Roßlau,beim Rathaus jeden Montag,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
-75702,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
-75700,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75699,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
+75700,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
+75702,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75674,DE,2022-12-03,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75715,DE,2022-12-05,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
 75743,DE,2022-12-05,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
 75807,DE,2022-12-05,18:00:00,06844,Dessau-Roßlau,beim Rathaus jeden Montag,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
-75703,DE,2022-12-05,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75701,DE,2022-12-05,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
+75703,DE,2022-12-05,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75795,DE,2022-12-08,14:00:00,79098,Freiburg,Platz der alten Synagoge,Aufzug,Für Frieden, Freiheit und Vernunft,FreiSeinFreiburg,
 75675,DE,2022-12-10,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75643,DE,2022-12-11,12:33:00,10117,Berlin,Brandenburger Tor,Schweigemarsch,,Volkstrauertag  - Wir trauern um unser Deutschland,
@@ -114,14 +121,14 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75744,DE,2022-12-12,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
 75806,DE,2022-12-12,18:00:00,06844,Dessau-Roßlau,Marktplatz,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
 75704,DE,2022-12-12,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
-75677,DE,2022-12-17,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75676,DE,2022-12-17,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
+75677,DE,2022-12-17,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 55107,DE,2022-12-18,13:45:00,70182,Stuttgart,Wilhelmsplatz,Kundgebung,,unbekannt,
 75717,DE,2022-12-19,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
 75745,DE,2022-12-19,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
 75705,DE,2022-12-19,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
-75678,DE,2022-12-24,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75679,DE,2022-12-24,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
+75678,DE,2022-12-24,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 73995,DE,2022-12-25,19:00:00,01809,Heidenau,Markt,Demonstration,,unbekannt,
 75746,DE,2022-12-26,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
 75706,DE,2022-12-26,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
