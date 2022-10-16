@@ -1,10 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-75872,DE,2022-10-16,10:45:00,75015,Bretten,Stadtpark/Alter Friedhof,Kundgebung,,,
-75289,DE,2022-10-16,12:30:00,70372,Stuttgart,Cannstatter Wasen,Aufzug,,POLITIK UND MEDIEN HAND IN HAND- DAS SCHADET UNSEREM LAND,https://t.me/POLITIKundMEDIEN_STUTTGART
-75848,DE,2022-10-16,14:00:00,46045,Oberhausen,Friedensplatz,Demonstration,,NRW ERWACHT!,https://t.me/NRW_erwacht
-75850,DE,2022-10-16,14:00:00,76530,Baden-Baden,Reinhard-Fieser-Brücke,Kundgebung,https://youtu.be/vmtOlrgcn40,BI "aufRECHT:FREIdenken",https://www.solidarnosch.de/Covid-19.htm
-75855,DE,2022-10-16,15:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
-75886,DE,2022-10-16,15:00:00,27472,Cuxhaven,Kaemerer Platz,Spaziergang,,Cuxhaven geht spazieren,
 75901,DE,2022-10-17,18:00:00,39261,Zerbst/Anhalt,Markt 15 / Roland,Spaziergang,,Zerbst geht spazieren,
 75769,DE,2022-10-17,18:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,
 75844,DE,2022-10-17,18:00:00,88239,Wangen i.Allg.,Marktplatz,Spaziergang,,,
@@ -116,8 +110,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75715,DE,2022-12-05,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
 75743,DE,2022-12-05,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
 75807,DE,2022-12-05,18:00:00,06844,Dessau-Roßlau,beim Rathaus jeden Montag,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
-75701,DE,2022-12-05,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75703,DE,2022-12-05,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
+75701,DE,2022-12-05,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75795,DE,2022-12-08,14:00:00,79098,Freiburg,Platz der alten Synagoge,Aufzug,Für Frieden, Freiheit und Vernunft,FreiSeinFreiburg,
 75675,DE,2022-12-10,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75643,DE,2022-12-11,12:33:00,10117,Berlin,Brandenburger Tor,Schweigemarsch,,Volkstrauertag  - Wir trauern um unser Deutschland,
