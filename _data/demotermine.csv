@@ -1,7 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-75935,DE,2022-10-20,17:00:00,84028,Landshut,Ecke Theaterstraße-Altstadt,Schilderwald,,,https://t.me/BayernStehtZusammenTermine/570
-75912,DE,2022-10-20,18:00:00,53902,Bad Münstereifel,Rathaus,Spaziergang,,,
-69511,DE,2022-10-20,18:30:00,60389,Frankfurt Bornheim,Günthersburgpark,Aufzug,,unbekannt,https://t.me/ffmfreiheit
 75861,DE,2022-10-21,16:00:00,88069,Tettnang,Karlstraße,Schilderwald,,,
 75898,DE,2022-10-21,17:30:00,76133,Karlsruhe,Marktplatz-Pyramide,Aufzug,,s. vorne unter Info - t.me/grundrechte_jetzt,t.me/grundrechte_jetzt
 75890,DE,2022-10-21,19:00:00,89073,Ulm,Münsterplatz,Spaziergang,,,
@@ -77,8 +74,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75953,DE,2022-11-04,19:00:00,33602,Bielefeld,Klosterplatz,Spaziergang,,https://t.me/Bielefeldstehtauf_infokanal,https://t.me/Bielefeldstehtauf_infokanal
 75671,DE,2022-11-05,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75805,DE,2022-11-05,18:00:00,06844,Dessau-Roßlau,Marktplatz,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
-75772,DE,2022-11-07,18:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,
 75773,DE,2022-11-07,18:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,
+75772,DE,2022-11-07,18:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,
 75761,DE,2022-11-07,18:00:00,84524,Neuötting,Rathaus,Spaziergang,,,
 75711,DE,2022-11-07,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
 75739,DE,2022-11-07,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
@@ -124,8 +121,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75744,DE,2022-12-12,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
 75806,DE,2022-12-12,18:00:00,06844,Dessau-Roßlau,Marktplatz,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
 75704,DE,2022-12-12,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
-75676,DE,2022-12-17,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75677,DE,2022-12-17,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
+75676,DE,2022-12-17,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 55107,DE,2022-12-18,13:45:00,70182,Stuttgart,Wilhelmsplatz,Kundgebung,,unbekannt,
 75717,DE,2022-12-19,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
 75745,DE,2022-12-19,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
