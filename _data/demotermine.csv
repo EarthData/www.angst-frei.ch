@@ -9,6 +9,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75939,DE,2022-10-22,11:00:00,20259,Hamburg Eimsbüttel,Fanny-Mendelssohn-Platz,Aufzug,,Stadteildemo,
 75863,DE,2022-10-22,12:00:00,20457,Hamburg,Hachmannplatz / Hauptbahnhof,Kundgebung,,Demo Kunsthalle Hamburg,https://demokunsthalle.de/termin/sicheres-leben-wohnung-brot-und-frieden/
 75944,DE,2022-10-22,14:00:00,64385,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Zusammenkunft,,,
+75949,DE,2022-10-22,14:00:00,36037,Fulda,Bahnhofsplatz,Kundgebung,,Frieden Freiheit Fulda,
 75936,CH,2022-10-22,14:00:00,1700,Fribourg,Place Python,Kundgebung,,Mass-Voll!, Alethéia u.a.,https://t.me/massvoll/2910
 75934,DE,2022-10-22,14:00:00,79098,Freiburg,Platz der alten Synagoge,Aufzug,,FreiSeinFreiburg,
 75461,DE,2022-10-22,14:00:00,60323,Frankfurt am Main,Grüneburgpark,Aufzug,,Europeans United,https://t.me/EuropeansUnitedDeutschland
@@ -33,6 +34,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75835,DE,2022-10-24,18:00:00,04567,Kitzscher,Rathaus,Spaziergang,,,
 75947,DE,2022-10-24,18:00:00,73230,Kirchheim-Teck,Rathaus,Spaziergang,,,
 75896,DE,2022-10-24,18:00:00,20095,Hamburg,Glockengießerwall 5,Spaziergang,,DemoHamburg.de Bürgerinitiative,www.es-reicht.demohamburg.de
+75950,DE,2022-10-24,18:00:00,36037,Fulda,Parkplatz Weimarer Straße,Autokorso,,Frieden Freiheit Fulda,
+75954,DE,2022-10-24,18:00:00,73061,Ebersbach/Fils,Rathaus,Spaziergang,,,
 75940,DE,2022-10-24,18:00:00,76646,Bruchsal,Rathausplatz / Kaiserstraße 66,Spaziergang,,offenes Mikrophon,
 75658,DE,2022-10-24,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,
 75948,DE,2022-10-24,18:00:00,06449,Aschersleben,Am Markt,Spaziergang,,,
@@ -43,6 +46,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75839,DE,2022-10-24,19:00:00,83125,Eggstätt,Rathaus,Spaziergang,,,
 75832,DE,2022-10-24,19:00:00,04552,Borna,Markt,Spaziergang,,,
 75695,DE,2022-10-24,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
+75952,DE,2022-10-25,18:00:00,76275,Ettlingen,Huttenkr.str-Dickhäuterpl.-REA,Aufzug,,s. vorne unter Info,
+75951,DE,2022-10-25,19:00:00,92421,Schwandorf,Marktplatz,Kundgebung,Klardenken.tv,Freiheit für Schwandorf,
 75913,DE,2022-10-27,18:00:00,53902,Bad Münstereifel,Rathaus,Spaziergang,,,
 75859,DE,2022-10-28,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 75787,DE,2022-10-28,18:30:00,63654,Büdingen,Willi Zinnkann Halle,Spaziergang,,,
@@ -68,6 +73,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75833,DE,2022-10-31,19:00:00,04552,Borna,Markt,Spaziergang,,,
 75696,DE,2022-10-31,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75914,DE,2022-11-03,18:00:00,53902,Bad Münstereifel,Rathaus,Spaziergang,,,
+75953,DE,2022-11-04,19:00:00,33602,Bielefeld,Klosterplatz,Spaziergang,,https://t.me/Bielefeldstehtauf_infokanal,https://t.me/Bielefeldstehtauf_infokanal
 75671,DE,2022-11-05,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75805,DE,2022-11-05,18:00:00,06844,Dessau-Roßlau,Marktplatz,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
 75773,DE,2022-11-07,18:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,
@@ -91,8 +97,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75713,DE,2022-11-21,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
 75741,DE,2022-11-21,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
 75925,DE,2022-11-21,18:00:00,84028,Landshut,Ländtor,Aufzug,,Bayern steht zusammen,https://www.bayern-steht-zusammen.de/TERMINE/
-75803,DE,2022-11-21,18:00:00,06844,Dessau-Roßlau,beim Rathaus,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
 75804,DE,2022-11-21,18:00:00,06844,Dessau-Roßlau,Marktplatz,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
+75803,DE,2022-11-21,18:00:00,06844,Dessau-Roßlau,beim Rathaus,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
 75929,DE,2022-11-21,18:00:00,53115,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,https://www.bonn-zeigt-gesicht.de/
 75673,DE,2022-11-26,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75774,DE,2022-11-28,18:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,
@@ -108,8 +114,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75715,DE,2022-12-05,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
 75743,DE,2022-12-05,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
 75807,DE,2022-12-05,18:00:00,06844,Dessau-Roßlau,beim Rathaus jeden Montag,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
-75701,DE,2022-12-05,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75703,DE,2022-12-05,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
+75701,DE,2022-12-05,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75795,DE,2022-12-08,14:00:00,79098,Freiburg,Platz der alten Synagoge,Aufzug,Für Frieden, Freiheit und Vernunft,FreiSeinFreiburg,
 75675,DE,2022-12-10,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75643,DE,2022-12-11,12:33:00,10117,Berlin,Brandenburger Tor,Schweigemarsch,,Volkstrauertag  - Wir trauern um unser Deutschland,
