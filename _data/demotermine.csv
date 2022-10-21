@@ -1,7 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-75861,DE,2022-10-21,16:00:00,88069,Tettnang,Karlstraße,Schilderwald,,,
-75898,DE,2022-10-21,17:30:00,76133,Karlsruhe,Marktplatz-Pyramide,Aufzug,,s. vorne unter Info - t.me/grundrechte_jetzt,t.me/grundrechte_jetzt
-75890,DE,2022-10-21,19:00:00,89073,Ulm,Münsterplatz,Spaziergang,,,
 75669,DE,2022-10-22,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75939,DE,2022-10-22,11:00:00,20259,Hamburg Eimsbüttel,Fanny-Mendelssohn-Platz,Aufzug,,Stadteildemo,
 75863,DE,2022-10-22,12:00:00,20457,Hamburg,Hachmannplatz / Hauptbahnhof,Kundgebung,,Demo Kunsthalle Hamburg,https://demokunsthalle.de/termin/sicheres-leben-wohnung-brot-und-frieden/
@@ -95,8 +92,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75713,DE,2022-11-21,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
 75741,DE,2022-11-21,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
 75925,DE,2022-11-21,18:00:00,84028,Landshut,Ländtor,Aufzug,,Bayern steht zusammen,https://www.bayern-steht-zusammen.de/TERMINE/
-75804,DE,2022-11-21,18:00:00,06844,Dessau-Roßlau,Marktplatz,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
 75803,DE,2022-11-21,18:00:00,06844,Dessau-Roßlau,beim Rathaus,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
+75804,DE,2022-11-21,18:00:00,06844,Dessau-Roßlau,Marktplatz,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
 75929,DE,2022-11-21,18:00:00,53115,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,https://www.bonn-zeigt-gesicht.de/
 75673,DE,2022-11-26,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75774,DE,2022-11-28,18:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,
