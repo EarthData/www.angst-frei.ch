@@ -36,18 +36,24 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75952,DE,2022-10-25,18:00:00,76275,Ettlingen,Huttenkr.str-Dickhäuterpl.-REA,Aufzug,,s. vorne unter Info,
 75951,DE,2022-10-25,19:00:00,92421,Schwandorf,Marktplatz,Kundgebung,Klardenken.tv,Freiheit für Schwandorf,
 75978,DE,2022-10-25,19:00:00,04109,Leipzig,Mendebrunnen / Augustusplatz,Demonstration,https://www.youtube.com/channel/UCyw8Tkb44AGA2eB8K9fRioQ,Bürgerbewegung Leipzig,
+75984,DE,2022-10-26,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 75957,DE,2022-10-26,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://bbfu.de/corona.html
 75958,DE,2022-10-26,19:00:00,06618,Naumburg,Vogelwiese,Demonstration,,Naumburg zeigt Gesicht!,https://t.me/naumburgzeigtgesichtdasoriginal
 75913,DE,2022-10-27,18:00:00,53902,Bad Münstereifel,Rathaus,Spaziergang,,,
+75985,DE,2022-10-28,15:00:00,90402,Nürnberg,Hallplatz / Königstr.,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
+75981,DE,2022-10-28,15:45:00,01067,Dresden,Parkplatz Pieschener Allee,Aufzug,,,
 75972,DE,2022-10-28,16:00:00,45657,Recklinghausen,Dr. Helene-Kuhlmann-Park,Demonstration,,privat,
 75859,DE,2022-10-28,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 75787,DE,2022-10-28,18:30:00,63654,Büdingen,Willi Zinnkann Halle,Spaziergang,,,
 75670,DE,2022-10-29,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75956,DE,2022-10-29,10:45:00,69469,Weinheim,Park u. Ride Platz am Bahnhof,Kundgebung,,Lebensfreu(n)de Weinheim,
 75945,DE,2022-10-29,14:00:00,64385,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Zusammenkunft,,,
+75982,DE,2022-10-29,15:00:00,60329,Frankfurt,Taunusanlage,Aufzug,,,
 75955,DE,2022-10-29,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,APO - Düsseldorf,http://Aponrw.de
 75738,DE,2022-10-29,15:00:00,01067,Dresden,Theaterplatz,Aufzug,,,
 75918,NL,2022-10-30,12:00:00,3013,Rotterdam,Shouburgplein,Kundgebung,,,https://t.me/katja_katja_gelbwesten/9372
+75980,DE,2022-10-30,13:00:00,63739,Aschaffenburg,Volksfestplatz,Aufzug,,,
+75986,DE,2022-10-30,15:00:00,90402,Nürnberg,Hallplatz / Königstr.,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 75920,DE,2022-10-30,17:00:00,50677,Köln,WDR Arkaden,Mahnwache,,Leuchtturm ARD,https://leuchtturmard.de/
 75771,DE,2022-10-31,18:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,
 75846,DE,2022-10-31,18:00:00,88239,Wangen i.Allg.,Marktplatz,Spaziergang,,,
@@ -61,6 +67,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75836,DE,2022-10-31,18:00:00,04567,Kitzscher,Rathaus,Spaziergang,,,
 75897,DE,2022-10-31,18:00:00,20095,Hamburg,Glockengießerwall 5,Spaziergang,,DemoHamburg.de Bürgerinitiative,www.es-reicht.demohamburg.de
 75659,DE,2022-10-31,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,
+75983,DE,2022-10-31,18:00:00,06449,Aschersleben,Am Markt,Spaziergang,,,
 75503,DE,2022-10-31,19:00:00,86633,Neuburg an der Donau,Spitalplatz,Spaziergang,,,
 75967,DE,2022-10-31,19:00:00,06108,Halle,Marktplatz Händel,Kundgebung,https://gettr.com/user/realsvenliebich,Montagsdemo in Halle,https://t.me/InSvensWelt
 75840,DE,2022-10-31,19:00:00,83125,Eggstätt,Rathaus,Spaziergang,,,
@@ -106,15 +113,15 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75926,DE,2022-11-28,18:00:00,84028,Landshut,Ländtor,Aufzug,,Bayern steht zusammen,https://www.bayern-steht-zusammen.de/TERMINE/
 75808,DE,2022-11-28,18:00:00,06844,Dessau-Roßlau,beim Rathaus jeden Montag,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
 75930,DE,2022-11-28,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,https://www.bonn-zeigt-gesicht.de/
-75702,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
-75699,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75700,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
+75699,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
+75702,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75674,DE,2022-12-03,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75715,DE,2022-12-05,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
 75743,DE,2022-12-05,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
 75807,DE,2022-12-05,18:00:00,06844,Dessau-Roßlau,beim Rathaus jeden Montag,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
-75701,DE,2022-12-05,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75703,DE,2022-12-05,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
+75701,DE,2022-12-05,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75795,DE,2022-12-08,14:00:00,79098,Freiburg,Platz der alten Synagoge,Aufzug,Für Frieden, Freiheit und Vernunft,FreiSeinFreiburg,
 75675,DE,2022-12-10,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75643,DE,2022-12-11,12:33:00,10117,Berlin,Brandenburger Tor,Schweigemarsch,,Volkstrauertag  - Wir trauern um unser Deutschland,
