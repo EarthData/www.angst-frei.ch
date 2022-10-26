@@ -1,7 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-75984,DE,2022-10-26,18:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
-75957,DE,2022-10-26,18:30:00,61440,Oberursel,Adenauerallee,Spaziergang,,Oberursel steht auf,https://bbfu.de/corona.html
-75958,DE,2022-10-26,19:00:00,06618,Naumburg,Vogelwiese,Demonstration,,Naumburg zeigt Gesicht!,https://t.me/naumburgzeigtgesichtdasoriginal
 75988,DE,2022-10-27,17:00:00,84028,Landshut,Zeughaus / Wittstr.,Schilderwald,,Bayern steht auf,https://t.me/BayernStehtZusammenTermine/583
 75913,DE,2022-10-27,18:00:00,53902,Bad Münstereifel,Rathaus,Spaziergang,,,
 75985,DE,2022-10-28,15:00:00,90402,Nürnberg,Hallplatz / Königstr.,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
@@ -12,8 +9,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75670,DE,2022-10-29,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75956,DE,2022-10-29,10:45:00,69469,Weinheim,Park u. Ride Platz am Bahnhof,Kundgebung,,Lebensfreu(n)de Weinheim,
 75945,DE,2022-10-29,14:00:00,64385,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Zusammenkunft,,,
-75990,DE,2022-10-29,15:00:00,20457,Hamburg,Kunsthalle/Ernst-Merck-Straße,Kundgebung,,Demo Kunsthalle Hamburg,https://demokunsthalle.de/
 75997,DE,2022-10-29,15:00:00,20457,Hamburg,Kunsthalle/Ernst-Merck-Straße,Aufzug,,Demo Kunsthalle Hamburg,https://demokunsthalle.de/
+75990,DE,2022-10-29,15:00:00,20457,Hamburg,Kunsthalle/Ernst-Merck-Straße,Kundgebung,,Demo Kunsthalle Hamburg,https://demokunsthalle.de/
 75982,DE,2022-10-29,15:00:00,60329,Frankfurt,Taunusanlage,Aufzug,,,
 75955,DE,2022-10-29,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,,APO - Düsseldorf,http://Aponrw.de
 75738,DE,2022-10-29,15:00:00,01067,Dresden,Theaterplatz,Aufzug,,,
@@ -86,8 +83,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75713,DE,2022-11-21,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
 75741,DE,2022-11-21,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
 75925,DE,2022-11-21,18:00:00,84028,Landshut,Ländtor,Aufzug,,Bayern steht zusammen,https://www.bayern-steht-zusammen.de/TERMINE/
-75804,DE,2022-11-21,18:00:00,06844,Dessau-Roßlau,Marktplatz,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
 75803,DE,2022-11-21,18:00:00,06844,Dessau-Roßlau,beim Rathaus,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
+75804,DE,2022-11-21,18:00:00,06844,Dessau-Roßlau,Marktplatz,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
 75929,DE,2022-11-21,18:00:00,53115,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,https://www.bonn-zeigt-gesicht.de/
 75673,DE,2022-11-26,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75774,DE,2022-11-28,18:00:00,26382,Wilhelmshaven,Rathausplatz,Spaziergang,,Das deutsche Volk,
@@ -97,8 +94,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75808,DE,2022-11-28,18:00:00,06844,Dessau-Roßlau,beim Rathaus jeden Montag,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
 75930,DE,2022-11-28,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,https://www.bonn-zeigt-gesicht.de/
 75699,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
-75700,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75702,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
+75700,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75674,DE,2022-12-03,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75715,DE,2022-12-05,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
 75743,DE,2022-12-05,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
@@ -118,8 +115,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75717,DE,2022-12-19,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
 75745,DE,2022-12-19,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
 75705,DE,2022-12-19,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
-75679,DE,2022-12-24,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75678,DE,2022-12-24,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
+75679,DE,2022-12-24,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 73995,DE,2022-12-25,19:00:00,01809,Heidenau,Markt,Demonstration,,unbekannt,
 75746,DE,2022-12-26,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
 75706,DE,2022-12-26,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
