@@ -1,9 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-75937,CH,2022-11-11,07:30:00,6004,Luzern,Schwanenplatz,Kundgebung,,Mass-Voll!,https://t.me/massvoll/2932
-76123,DE,2022-11-11,15:00:00,50674,Köln,Aachener Weiher,Spaziergang,,Köln ist aktiv,koeln-ist-aktiv.de
-76127,DE,2022-11-11,15:30:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
-76057,EU,2022-11-11,19:00:00,L-1499,Luxemburg-Stadt,Philharmonie Kirchberg,Aufzug,,,https://t.me/infoMarcheBlancheSilencieuse/36
-76037,DE,2022-11-11,19:00:00,83043,Bad Aibling,Buchladen Librano,Vortrag,,Ralph Boes / unsere-verfassung.de,https://t.me/unsere_verfassung/373
 76092,DE,2022-11-12,14:00:00,64385,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Zusammenkunft,,,
 76144,DE,2022-11-12,14:00:00,80336,München,Theresienwiese,Autokorso,,,Https://t.me/AutoKorsoMuc/
 76131,DE,2022-11-12,14:00:00,79098,Freiburg,Konzerthaus gegenüber Hbf,Fahrraddemo,,privat,
@@ -16,8 +11,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 76129,DE,2022-11-13,14:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Demonstration,,NRW Erwacht!,https://t.me/NRW_erwacht
 76128,DE,2022-11-13,15:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 76125,DE,2022-11-14,17:30:00,02763,Zitttau,Schauburg,Spaziergang,,,
-76076,DE,2022-11-14,18:00:00,39261,Zerbst,Markt,Spaziergang,,,
 76074,DE,2022-11-14,18:00:00,39261,Zerbst,Markt,Spaziergang,,,
+76076,DE,2022-11-14,18:00:00,39261,Zerbst,Markt,Spaziergang,,,
 76139,DE,2022-11-14,18:00:00,88239,Wangen i.Allg.,Marktplatz,Spaziergang,,,
 76106,DE,2022-11-14,18:00:00,74523,Schwäbisch Hall,Marktplatz,Spaziergang,,,
 75712,DE,2022-11-14,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
@@ -30,8 +25,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75928,DE,2022-11-14,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,https://www.bonn-zeigt-gesicht.de/
 76148,DE,2022-11-14,18:00:00,13507,Berlin,Alt-Tegel 2 / Schinkelbrunnen,Spaziergang,,TEGEL steht AUF!,https://t.me/Tegel_steht_auf_INFOKANAL
 76130,DE,2022-11-14,18:00:00,06449,Aschersleben,Am Markt,Spaziergang,,,
-76146,DE,2022-11-14,18:15:00,42651,Solingen,Neumarkt,Spaziergang,,,
 76133,DE,2022-11-14,18:15:00,42651,Solingen,Neumarkt,Spaziergang,,https://t.me/FreieBergischeLoewenSG,
+76146,DE,2022-11-14,18:15:00,42651,Solingen,Neumarkt,Spaziergang,,,
 76136,DE,2022-11-14,18:30:00,74564,Crailsheim,Volksfestplatz,Aufzug,,s. Info vorne - DemokratInnen,
 76001,DE,2022-11-14,19:00:00,07545,Gera,Theater/ Hofwiesenparkplatz,Spaziergang,diverse streams. Michel Michael Wittwer u.a. Odysse,Bürgerbewegung Miteinanderstadt Gera,
 76009,DE,2022-11-14,19:00:00,07545,Gera,Theater/ Hofwiesenparkplatz,Spaziergang,diverse streams. Michel Michael Wittwer u.a. Odysse,Bürgerbewegung Miteinanderstadt Gera,
@@ -39,8 +34,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75698,DE,2022-11-14,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 76135,DE,2022-11-15,18:00:00,76275,Ettlingen,Huttenkr.str-Dickhäuterpl.-REA,Aufzug,,s. unter Info vorne,
 76147,DE,2022-11-15,19:00:00,92421,Schwandorf,Marktplatz,Kundgebung,Klardenken.Tv,Freiheit für Schwandorf,
-76030,DE,2022-11-16,19:15:00,83022,Rosenheim,Salingarten,Schilderwald,,Mahnwache Rosenheim,https://t.me/KanalMahnwacheRosenheim
 76025,DE,2022-11-16,19:15:00,83022,Rosenheim,Salingarten,Mahnwache,,Mahnwache Rosenheim,https://t.me/KanalMahnwacheRosenheim
+76030,DE,2022-11-16,19:15:00,83022,Rosenheim,Salingarten,Schilderwald,,Mahnwache Rosenheim,https://t.me/KanalMahnwacheRosenheim
 76083,DE,2022-11-17,12:00:00,76530,Baden-Baden,Ernst-Becker-Straße 1,Mahnwache,,BI "aufRECHT:FREIdenken",www.leuchtturmard.de
 76061,DE,2022-11-17,18:00:00,85586,Poing,Bahnhof Nordseite,Kundgebung,,,https://t.me/CoronaPoing
 76090,DE,2022-11-17,18:00:00,53902,Bad Münstereifel,Rathaus,Spaziergang,,,
@@ -51,8 +46,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75713,DE,2022-11-21,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
 75741,DE,2022-11-21,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
 75925,DE,2022-11-21,18:00:00,84028,Landshut,Ländtor,Aufzug,,Bayern steht zusammen,https://www.bayern-steht-zusammen.de/TERMINE/
-75804,DE,2022-11-21,18:00:00,06844,Dessau-Roßlau,Marktplatz,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
 75803,DE,2022-11-21,18:00:00,06844,Dessau-Roßlau,beim Rathaus,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
+75804,DE,2022-11-21,18:00:00,06844,Dessau-Roßlau,Marktplatz,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
 75929,DE,2022-11-21,18:00:00,53115,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,https://www.bonn-zeigt-gesicht.de/
 76098,DE,2022-11-23,13:30:00,70190,Stuttgart,Neckarstraße 230  SWR,Kundgebung,,https://t.me/POLITIKundMEDIEN_STUTTGART,https://t.me/POLITIKundMEDIEN_STUTTGART
 76099,DE,2022-11-23,18:00:00,70439,Stuttgart,JVA Stammheim,Kundgebung,,QUERDENKEN-711,
