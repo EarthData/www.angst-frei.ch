@@ -1,35 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-76125,DE,2022-11-14,17:30:00,02763,Zitttau,Schauburg,Spaziergang,,,
-76074,DE,2022-11-14,18:00:00,39261,Zerbst,Markt,Spaziergang,,,
-76076,DE,2022-11-14,18:00:00,39261,Zerbst,Markt,Spaziergang,,,
-76139,DE,2022-11-14,18:00:00,88239,Wangen i.Allg.,Marktplatz,Spaziergang,,,
-76150,DE,2022-11-14,18:00:00,95643,Tirschenreuth,Oberer Marktplatz,Demonstration,,Aktionsbündnis Tirschenreuth wacht auf S. Wenzel/D.Ullrich,
-76153,DE,2022-11-14,18:00:00,75334,Straubenhardt-Feldrennach,Rathaus,Spaziergang,,,
-76152,DE,2022-11-14,18:00:00,55576,Sprendlingen,Marktplatz,Spaziergang,,,
-76106,DE,2022-11-14,18:00:00,74523,Schwäbisch Hall,Marktplatz,Spaziergang,,,
-75712,DE,2022-11-14,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
-76160,DE,2022-11-14,18:00:00,74821,Mosbach,Marktplatz,Spaziergang,,,
-75740,DE,2022-11-14,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
-75924,DE,2022-11-14,18:00:00,84028,Landshut,Ländtor,Aufzug,,Bayern steht zusammen,https://www.bayern-steht-zusammen.de/TERMINE/
-76155,DE,2022-11-14,18:00:00,76829,Landau,Untertorplatz,Spaziergang,,,
-76163,DE,2022-11-14,18:00:00,95326,Kulmbach,Marktplatz,Spaziergang,,Frieden-Freiheit-Selbstbestimmung,https://www.facebook.com/groups/kulmbachgehtspazieren
-76161,DE,2022-11-14,18:00:00,21029,Hamburg-Bergedorf,Sankt Petri und Pauli (Kirche),Spaziergang,,,
-76132,DE,2022-11-14,18:00:00,15890,Eisenhüttenstadt,Friwo,Kundgebung,,,
-75802,DE,2022-11-14,18:00:00,06844,Dessau-Roßlau,beim Rathaus,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
-76134,DE,2022-11-14,18:00:00,76646,Bruchsal,Rathausplatz / Kaiserstraße 66,Spaziergang,,offenes Mikrophon,
-76138,DE,2022-11-14,18:00:00,27576,Bremerhaven,Ernst-Reuter-Platz,Spaziergang,,Gemeinsam stark Bremerhaven,
-75928,DE,2022-11-14,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,https://www.bonn-zeigt-gesicht.de/
-76148,DE,2022-11-14,18:00:00,13507,Berlin,Alt-Tegel 2 / Schinkelbrunnen,Spaziergang,,TEGEL steht AUF!,https://t.me/Tegel_steht_auf_INFOKANAL
-76130,DE,2022-11-14,18:00:00,06449,Aschersleben,Am Markt,Spaziergang,,,
-76146,DE,2022-11-14,18:15:00,42651,Solingen,Neumarkt,Spaziergang,,,
-76133,DE,2022-11-14,18:15:00,42651,Solingen,Neumarkt,Spaziergang,,https://t.me/FreieBergischeLoewenSG,
-76164,DE,2022-11-14,18:30:00,67547,Worms,Lutherdenkmal,Spaziergang,,,
-76162,DE,2022-11-14,18:30:00,21465,Reinbek,Rathaus,Spaziergang,,,
-76136,DE,2022-11-14,18:30:00,74564,Crailsheim,Volksfestplatz,Aufzug,,s. Info vorne - DemokratInnen,
-76001,DE,2022-11-14,19:00:00,07545,Gera,Theater/ Hofwiesenparkplatz,Spaziergang,diverse streams. Michel Michael Wittwer u.a. Odysse,Bürgerbewegung Miteinanderstadt Gera,
-76009,DE,2022-11-14,19:00:00,07545,Gera,Theater/ Hofwiesenparkplatz,Spaziergang,diverse streams. Michel Michael Wittwer u.a. Odysse,Bürgerbewegung Miteinanderstadt Gera,
-75842,DE,2022-11-14,19:00:00,83125,Eggstätt,Rathaus,Spaziergang,,,
-75698,DE,2022-11-14,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 76135,DE,2022-11-15,18:00:00,76275,Ettlingen,Huttenkr.str-Dickhäuterpl.-REA,Aufzug,,s. unter Info vorne,
 76147,DE,2022-11-15,19:00:00,92421,Schwandorf,Marktplatz,Kundgebung,Klardenken.Tv,Freiheit für Schwandorf,
 76158,DE,2022-11-16,19:00:00,06618,Naumburg,Vogelwiese,Demonstration,,Naumburg zeigt Gesicht!,
@@ -53,8 +22,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 76165,DE,2022-11-21,18:30:00,67547,Worms,Lutherdenkmal,Kundgebung,,,
 76098,DE,2022-11-23,13:30:00,70190,Stuttgart,Neckarstraße 230  SWR,Kundgebung,,https://t.me/POLITIKundMEDIEN_STUTTGART,https://t.me/POLITIKundMEDIEN_STUTTGART
 76099,DE,2022-11-23,18:00:00,70439,Stuttgart,JVA Stammheim,Kundgebung,,QUERDENKEN-711,
-76026,DE,2022-11-23,19:15:00,83022,Rosenheim,Salingarten,Mahnwache,,Mahnwache Rosenheim,https://t.me/KanalMahnwacheRosenheim
 76029,DE,2022-11-23,19:15:00,83022,Rosenheim,Salingarten,Schilderwald,,Mahnwache Rosenheim,https://t.me/KanalMahnwacheRosenheim
+76026,DE,2022-11-23,19:15:00,83022,Rosenheim,Salingarten,Mahnwache,,Mahnwache Rosenheim,https://t.me/KanalMahnwacheRosenheim
 76084,DE,2022-11-24,12:00:00,76530,Baden-Baden,Ernst-Becker-Straße 1,Mahnwache,,BI "aufRECHT:FREIdenken",www.leuchtturmard.de
 76062,DE,2022-11-24,18:00:00,85586,Poing,Bahnhof Nordseite,Kundgebung,,,https://t.me/CoronaPoing
 75673,DE,2022-11-26,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
@@ -81,8 +50,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75715,DE,2022-12-05,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
 75743,DE,2022-12-05,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
 75807,DE,2022-12-05,18:00:00,06844,Dessau-Roßlau,beim Rathaus jeden Montag,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
-75703,DE,2022-12-05,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75701,DE,2022-12-05,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
+75703,DE,2022-12-05,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75795,DE,2022-12-08,14:00:00,79098,Freiburg,Platz der alten Synagoge,Aufzug,Für Frieden, Freiheit und Vernunft,FreiSeinFreiburg,
 76064,DE,2022-12-08,18:00:00,85586,Poing,Bahnhof Nordseite,Kundgebung,,,https://t.me/CoronaPoing
 75675,DE,2022-12-10,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
