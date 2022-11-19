@@ -1,15 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-75672,DE,2022-11-19,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
-76185,DE,2022-11-19,10:30:00,63739,Aschaffenburg,Theaterplatz,Aufzug,,,
-76172,DE,2022-11-19,12:00:00,32756,Detmold,Bruchberg,Mahnwache,,Lippe für Frieden, Freiheit & menschliches Miteinander,
-76176,DE,2022-11-19,14:00:00,64385,Reichelsheim (Odenwald),B 38 Ortseingang Aldi,Zusammenkunft,,,
-76175,DE,2022-11-19,14:00:00,80339,München,Theresienwiese,Autokorso,Https://t.me/AutokorsoMuc,Autokorso München,Www.Autokorso-Muenchen.info
-76183,DE,2022-11-19,14:00:00,79098,Freiburg,Platz der alten Synagoge,Aufzug,FÜR FREIHEIT, FRIEDEN UND VERNUNFT,FreiSeinFreiburg,
-76174,DE,2022-11-19,14:45:00,20099,Hamburg,Hamburg Hbf. Heidi-Kabel-Platz,Aufzug,,Bürgerbündnis - Wir stehen auf,
-76159,DE,2022-11-19,15:00:00,40213,Düsseldorf,Johannes-Rau-Platz,Aufzug,NO_Vaccination,APO - Düsseldorf,https://Aponrw.de
-76171,DE,2022-11-19,15:30:00,45127,Essen,Kettwiger Straße 40,Kundgebung,,Für den Erhalt der Freiheit,
-76173,DE,2022-11-19,17:00:00,86150,Augsburg,Ladehofstr.,Aufzug,,Bürgerforum Schwaben,https://t.me/s/buergerforumschwabeninfokanal
-76182,DE,2022-11-19,18:00:00,73326,Deggingen,Rathaus und Umgebung,Zusammenkunft,,,
 76189,DE,2022-11-20,14:00:00,10117,Berlin,Brandenburger Tor,Erholung,,Anonymous,terminkalender.top
 76015,DE,2022-11-20,15:00:00,70182,Stuttgart,Wilhelmsplatz Stadtmitte,Aufzug,,https://t.me/POLITIKundMEDIEN_STUTTGART,https://t.me/POLITIKundMEDIEN_STUTTGART
 76168,DE,2022-11-20,15:00:00,90402,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
@@ -20,8 +9,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75713,DE,2022-11-21,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
 75741,DE,2022-11-21,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
 75925,DE,2022-11-21,18:00:00,84028,Landshut,Ländtor,Aufzug,,Bayern steht zusammen,https://www.bayern-steht-zusammen.de/TERMINE/
-75803,DE,2022-11-21,18:00:00,06844,Dessau-Roßlau,beim Rathaus,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
 75804,DE,2022-11-21,18:00:00,06844,Dessau-Roßlau,Marktplatz,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
+75803,DE,2022-11-21,18:00:00,06844,Dessau-Roßlau,beim Rathaus,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
 76184,DE,2022-11-21,18:00:00,76646,Bruchsal,Rathausplatz / Kaiserstraße 66,Kundgebung,,offenes Mikrophon,
 75929,DE,2022-11-21,18:00:00,53115,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,https://www.bonn-zeigt-gesicht.de/
 76179,DE,2022-11-21,18:15:00,42699,Solingen,Neumarkt,Spaziergang,,https://t.me/FreieBergischeLoewenSG,
@@ -49,11 +38,11 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75808,DE,2022-11-28,18:00:00,06844,Dessau-Roßlau,beim Rathaus jeden Montag,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
 75930,DE,2022-11-28,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,https://www.bonn-zeigt-gesicht.de/
 76166,DE,2022-11-28,18:30:00,67547,Worms,Lutherdenkmal,Spaziergang,,,
+75700,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75699,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75702,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
-75700,DE,2022-11-28,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
-76027,DE,2022-11-30,19:15:00,83022,Rosenheim,Salingarten,Mahnwache,,Mahnwache Rosenheim,https://t.me/KanalMahnwacheRosenheim
 76028,DE,2022-11-30,19:15:00,83022,Rosenheim,Salingarten,Schilderwald,,Mahnwache Rosenheim,https://t.me/KanalMahnwacheRosenheim
+76027,DE,2022-11-30,19:15:00,83022,Rosenheim,Salingarten,Mahnwache,,Mahnwache Rosenheim,https://t.me/KanalMahnwacheRosenheim
 76063,DE,2022-12-01,18:00:00,85586,Poing,Bahnhof Nordseite,Kundgebung,,,https://t.me/CoronaPoing
 75674,DE,2022-12-03,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 76154,DE,2022-12-04,14:00:00,76530,Baden-Baden,Augustaplatz 1,Demonstration,,BI "aufRECHT:FREIdenken",www.solidarnosch.de
@@ -62,8 +51,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75743,DE,2022-12-05,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
 75807,DE,2022-12-05,18:00:00,06844,Dessau-Roßlau,beim Rathaus jeden Montag,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
 76190,DE,2022-12-05,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,https://www.bonn-zeigt-gesicht.de/
-75701,DE,2022-12-05,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75703,DE,2022-12-05,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
+75701,DE,2022-12-05,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75795,DE,2022-12-08,14:00:00,79098,Freiburg,Platz der alten Synagoge,Aufzug,Für Frieden, Freiheit und Vernunft,FreiSeinFreiburg,
 76064,DE,2022-12-08,18:00:00,85586,Poing,Bahnhof Nordseite,Kundgebung,,,https://t.me/CoronaPoing
 75675,DE,2022-12-10,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
