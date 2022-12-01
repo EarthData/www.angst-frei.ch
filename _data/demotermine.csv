@@ -1,12 +1,8 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-76262,DE,2022-12-01,15:15:00,55127,Mainz,AZ, Erich-Dombrowski-Straße 2,Mahnwache,,Leuchtturm ARD,http://www.leuchtturmARD.de
-76263,DE,2022-12-01,15:15:00,55122,Mainz,SWR,Am Fort Gonsenheim/Wallstr,Mahnwache,,Leuchtturm ARD,http://www.leuchtturmARD.de
-76261,DE,2022-12-01,16:00:00,55127,Mainz,ZDF, ZDF-Straße 1,Mahnwache,,Leuchtturm ARD,http://www.leuchtturmARD.de
-76063,DE,2022-12-01,18:00:00,85586,Poing,Bahnhof Nordseite,Kundgebung,,,https://t.me/CoronaPoing
 76257,DE,2022-12-02,16:00:00,90402,Nürnberg,Hallplatz / Königstr.,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 76267,DE,2022-12-02,17:30:00,76133,Karlsruhe,Kronenplatz,Aufzug,,s. unter Info vorne - t.me/grundrechte_jetzt,
-76209,DE,2022-12-02,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 76241,DE,2022-12-02,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
+76209,DE,2022-12-02,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 76226,DE,2022-12-02,19:00:00,33602,Bielefeld,Rathausplatz,Spaziergang,,Bielefeld steht auf!,https://t.me/Bielefeldstehtauf_infokanal
 75674,DE,2022-12-03,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 76221,DE,2022-12-03,12:00:00,32756,Detmold,Bruchberg,Mahnwache,,Lippe für Frieden, Freiheit & menschliches Miteinander,
@@ -14,8 +10,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 76254,DE,2022-12-03,15:00:00,60329,Frankfurt am Main,Taunusanlage,Aufzug,,,
 76269,DE,2022-12-03,15:30:00,45127,Essen,Kettwiger Straße 40,Kundgebung,,Für den Erhalt der Freiheit,https://t.me/+Gr4v4obppvgylxSq
 76271,DE,2022-12-04,10:45:00,75015,Bretten,Stadtpark/Alter Friedhof,Meditation,,,
-76228,DE,2022-12-04,14:00:00,54516,Wittlich,Ottensteinplatz,Kundgebung,https://rumble.com/user/Wittlich,Freunde der Wahrheit WIL,https://m.facebook.com/groups/933115227597823/
 76236,DE,2022-12-04,14:00:00,54516,Wittlich,Ottensteinplatz,Kundgebung,https://rumble.com/user/Wittlich,Freunde der Wahrheit WIL,https://m.facebook.com/groups/933115227597823/
+76228,DE,2022-12-04,14:00:00,54516,Wittlich,Ottensteinplatz,Kundgebung,https://rumble.com/user/Wittlich,Freunde der Wahrheit WIL,https://m.facebook.com/groups/933115227597823/
 76154,DE,2022-12-04,14:00:00,76530,Baden-Baden,Augustaplatz 1,Demonstration,,BI "aufRECHT:FREIdenken",www.solidarnosch.de
 76258,DE,2022-12-04,15:00:00,90402,Nürnberg,Hallplatz / Königstr.,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
 76251,DE,2022-12-04,15:00:00,22297,Hamburg,Glockengießerwall 5,Demonstration,,DemoHamburg.de Bürgerinitiative,www.es-reicht.demohamburg.de
@@ -27,8 +23,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75807,DE,2022-12-05,18:00:00,06844,Dessau-Roßlau,beim Rathaus jeden Montag,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
 76190,DE,2022-12-05,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,https://www.bonn-zeigt-gesicht.de/
 76270,DE,2022-12-05,18:00:00,06449,Aschersleben,Am Markt,Spaziergang,,,
-75701,DE,2022-12-05,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 75703,DE,2022-12-05,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
+75701,DE,2022-12-05,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 76268,DE,2022-12-06,18:00:00,76275,Ettlingen,Huttenkr.str-Dickhäuterpl.-REA,Kundgebung,,s. vorne unter Info,
 75795,DE,2022-12-08,14:00:00,79098,Freiburg,Platz der alten Synagoge,Aufzug,Für Frieden, Freiheit und Vernunft,FreiSeinFreiburg,
 76064,DE,2022-12-08,18:00:00,85586,Poing,Bahnhof Nordseite,Kundgebung,,,https://t.me/CoronaPoing
@@ -44,8 +40,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 76191,DE,2022-12-12,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,https://www.bonn-zeigt-gesicht.de/
 75704,DE,2022-12-12,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 76213,DE,2022-12-16,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
-75677,DE,2022-12-17,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75676,DE,2022-12-17,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
+75677,DE,2022-12-17,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 76222,DE,2022-12-17,12:00:00,32756,Detmold,Bruchberg,Mahnwache,,Lippe für Frieden, Freiheit & menschliches Miteinander,
 76265,DE,2022-12-17,14:00:00,55116,Mainz,Osteiner Hof-Schillerplatz,Aufzug,,,https://aktion-mainz.de/
 55107,DE,2022-12-18,13:45:00,70182,Stuttgart,Wilhelmsplatz,Kundgebung,,unbekannt,
