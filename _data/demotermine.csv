@@ -1,11 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-76278,DE,2022-12-04,10:00:00,16303,Schwedt/Oder,Kreisel,B2 Ortsausgang Schwedt,Schilderwald,,,http://t.me/frieden_freiheit_souveraenitaet
-76271,DE,2022-12-04,10:45:00,75015,Bretten,Stadtpark/Alter Friedhof,Meditation,,,
-76236,DE,2022-12-04,14:00:00,54516,Wittlich,Ottensteinplatz,Kundgebung,https://rumble.com/user/Wittlich,Freunde der Wahrheit WIL,https://m.facebook.com/groups/933115227597823/
-76228,DE,2022-12-04,14:00:00,54516,Wittlich,Ottensteinplatz,Kundgebung,https://rumble.com/user/Wittlich,Freunde der Wahrheit WIL,https://m.facebook.com/groups/933115227597823/
-76154,DE,2022-12-04,14:00:00,76530,Baden-Baden,Augustaplatz 1,Demonstration,,BI "aufRECHT:FREIdenken",www.solidarnosch.de
-76258,DE,2022-12-04,15:00:00,90402,Nürnberg,Hallplatz / Königstr.,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
-76251,DE,2022-12-04,15:00:00,22297,Hamburg,Glockengießerwall 5,Demonstration,,DemoHamburg.de Bürgerinitiative,www.es-reicht.demohamburg.de
 76142,DE,2022-12-05,18:00:00,88239,Wangen i.Allg.,Marktplatz,Spaziergang,,,
 76210,DE,2022-12-05,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 76286,DE,2022-12-05,18:00:00,75334,Straubenhardt-Feldrennach,Rathaus,Spaziergang,,,
@@ -32,8 +25,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 76064,DE,2022-12-08,18:00:00,85586,Poing,Bahnhof Nordseite,Kundgebung,,,https://t.me/CoronaPoing
 76211,DE,2022-12-09,18:00:00,88069,Tettnang,Rathaus,Kundgebung,,,
 75675,DE,2022-12-10,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
-76266,DE,2022-12-10,13:00:00,70372,Stuttgart,Cannstatter Wasen  P9,Aufzug,,Politk und Medien Hand in Hand- Das schadet unserem LandAuf,https://t.me/POLITIKundMEDIEN_STUTTGART
 76260,DE,2022-12-10,13:00:00,70372,Stuttgart,Cannstatter Wasen  P9,Aufzug,,Politik und Medien Hand in Hand, dass schadet unserem Land,https://t.me/POLITIKundMEDIEN_STUTTGART
+76266,DE,2022-12-10,13:00:00,70372,Stuttgart,Cannstatter Wasen  P9,Aufzug,,Politk und Medien Hand in Hand- Das schadet unserem LandAuf,https://t.me/POLITIKundMEDIEN_STUTTGART
 76276,DE,2022-12-10,14:00:00,64385,Reichelsheim,B38 Ortseingang Aldi,Zusammenkunft,,,
 75643,DE,2022-12-11,12:33:00,10117,Berlin,Brandenburger Tor,Schweigemarsch,,Volkstrauertag  - Wir trauern um unser Deutschland,
 76212,DE,2022-12-12,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
