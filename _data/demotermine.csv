@@ -1,25 +1,4 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
-76142,DE,2022-12-05,18:00:00,88239,Wangen i.Allg.,Marktplatz,Spaziergang,,,
-76210,DE,2022-12-05,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
-76286,DE,2022-12-05,18:00:00,75334,Straubenhardt-Feldrennach,Rathaus,Spaziergang,,,
-76285,DE,2022-12-05,18:00:00,74523,Schwäbisch Hall,Dietrich-Bonhoeffer-Platz,Spaziergang,,,
-75715,DE,2022-12-05,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
-75743,DE,2022-12-05,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
-76264,DE,2022-12-05,18:00:00,22095,Hamburg,Jungfernstieg,Kundgebung,,DemoHamburg.de Bürgerinitiative,www.demohamburg.de
-75807,DE,2022-12-05,18:00:00,06844,Dessau-Roßlau,beim Rathaus jeden Montag,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
-76282,DE,2022-12-05,18:00:00,06844,Dessau-Roßlau,Dessau-Roßlau Schloßplatz,Spaziergang,,von Freien Menschen -Für Freie Menschen,https://t.me/MontagsMahnwache
-76288,DE,2022-12-05,18:00:00,27576,Bremerhaven,Ernst-Reuter-Platz,Spaziergang,,Gemeinsam stark Bremerhaven,
-76190,DE,2022-12-05,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,https://www.bonn-zeigt-gesicht.de/
-76273,DE,2022-12-05,18:00:00,13507,Berlin,Alt-Tegel 2 / Schinkelbrunnen,Spaziergang,,Freiheit Tegel,https://t.me/Tegel_steht_auf_CHAT
-76270,DE,2022-12-05,18:00:00,06449,Aschersleben,Am Markt,Spaziergang,,,
-76272,DE,2022-12-05,18:15:00,42651,Solingen,Neumarkt,Spaziergang,,https://t.me/FreieBergischeLoewenSG,
-76291,DE,2022-12-05,18:30:00,67547,Worms,Lutherdenkmal,Spaziergang,,,
-76277,DE,2022-12-05,18:45:00,87435,Kempten,Hildegardplatz,Spaziergang,,,
-76279,DE,2022-12-05,19:00:00,16303,Schwedt/Oder,Vierradener Straße,Kundgebung,,,http://t.me/frieden_freiheit_souveraenitaet
-76281,CH,2022-12-05,19:00:00,6000,Luzern,Schwanenplatz,Spaziergang,,Luzerner Spaziergang,
-76280,DE,2022-12-05,19:00:00,65719,Hofheim am Taunus,Kellereiplatz,Spaziergang,,Freiheit,
-75701,DE,2022-12-05,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
-75703,DE,2022-12-05,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 76268,DE,2022-12-06,18:00:00,76275,Ettlingen,Huttenkr.str-Dickhäuterpl.-REA,Kundgebung,,s. vorne unter Info,
 76287,DE,2022-12-07,17:30:00,70173,Stuttgart,Königstraße 21,Schilderwald,,Privat,
 76294,DE,2022-12-07,18:00:00,9,Nürnberg,Lorenzkirche,Kundgebung,,Die Maschine steht still 2020,http://www.die-maschine-steht-still-2020.de/
@@ -38,14 +17,14 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75716,DE,2022-12-12,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
 75744,DE,2022-12-12,18:00:00,63225,Langen (Hessen),Bahnstraße/Ecke Goethestraße,Spaziergang,,,
 76297,DE,2022-12-12,18:00:00,76829,Landau,Untertorplatz,Spaziergang,,,
-75806,DE,2022-12-12,18:00:00,06844,Dessau-Roßlau,Marktplatz,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
 76283,DE,2022-12-12,18:00:00,06844,Dessau-Roßlau,Dessau-Roßlau Schloßplatz,Spaziergang,,von Freien Menschen -Für Freie Menschen,https://t.me/MontagsMahnwache
+75806,DE,2022-12-12,18:00:00,06844,Dessau-Roßlau,Marktplatz,Mahnwache,,Dessau steht auf,https://t.me/MontagsMahnwache
 76191,DE,2022-12-12,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,https://www.bonn-zeigt-gesicht.de/
 76292,DE,2022-12-12,18:30:00,67547,Worms,Lutherdenkmal,Spaziergang,,,
 75704,DE,2022-12-12,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 76213,DE,2022-12-16,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
-75677,DE,2022-12-17,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75676,DE,2022-12-17,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
+75677,DE,2022-12-17,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 76222,DE,2022-12-17,12:00:00,32756,Detmold,Bruchberg,Mahnwache,,Lippe für Frieden, Freiheit & menschliches Miteinander,
 76274,DE,2022-12-17,13:00:00,10117,Berlin,Brandenburger Tor,Kundgebung,,Deutschland-steht-auf,http://Tag-der-Selbstbestimmung.de
 76265,DE,2022-12-17,14:00:00,55116,Mainz,Osteiner Hof-Schillerplatz,Aufzug,,,https://aktion-mainz.de/
@@ -59,8 +38,8 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 76293,DE,2022-12-19,18:30:00,67547,Worms,Lutherdenkmal,Spaziergang,,,
 75705,DE,2022-12-19,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 76215,DE,2022-12-23,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
-75679,DE,2022-12-24,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75678,DE,2022-12-24,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
+75679,DE,2022-12-24,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 76156,DE,2022-12-24,12:00:00,10178,Berlin,Weltzeituhr / Alexanderplatz,OpSafeWinter,,Anonymous,https://t.me/anonymousop/2130
 73995,DE,2022-12-25,19:00:00,01809,Heidenau,Markt,Demonstration,,unbekannt,
 76216,DE,2022-12-26,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
