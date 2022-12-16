@@ -12,6 +12,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 55107,DE,2022-12-18,13:45:00,70182,Stuttgart,Wilhelmsplatz,Kundgebung,,unbekannt,
 76157,DE,2022-12-19,14:00:00,79098,Freiburg,Platz der alten Synagoge,Aufzug,Uns reichts!,FreiSeinFreiburg,
 76214,DE,2022-12-19,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
+76337,DE,2022-12-19,18:00:00,75334,Straubenhardt-Feldrennach,Rathaus,Spaziergang,,,
 76325,DE,2022-12-19,18:00:00,74523,Schwäbisch Hall,Dietrich-Bonhoeffer-Platz,Spaziergang,,,
 76314,DE,2022-12-19,18:00:00,17291,Prenzlau,Marktberg,Spaziergang,,,https://t.me/frieden_freiheit_souveraenitaet
 75717,DE,2022-12-19,18:00:00,45468,Mülheim an der Ruhr,Rathausmarkt,Demonstration,,,
@@ -26,12 +27,13 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 75705,DE,2022-12-19,19:30:00,83119,Obing,Rathaus,Spaziergang,,,
 76322,DE,2022-12-20,18:00:00,76275,Ettlingen,Huttenkr.str-Dickhäuterpl.-REA,Aufzug,,s. unter Info vorne,
 76215,DE,2022-12-23,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
-75678,DE,2022-12-24,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 75679,DE,2022-12-24,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
+75678,DE,2022-12-24,10:30:00,83209,Prien am Chiemsee,Am Fussballplatz,Schilderwald,,chiemgau-gemeinsam,https://www.chiemgau-gemeinsam.de/
 76156,DE,2022-12-24,12:00:00,10178,Berlin,Weltzeituhr / Alexanderplatz,OpSafeWinter,,Anonymous,https://t.me/anonymousop/2130
 76304,DE,2022-12-24,16:00:00,02763,Zittau,Markt,Kundgebung,,Freunde von PEGIDA,
-76330,DE,2022-12-25,10:00:00,16303,Schwedt/Oder,B2/Richtung Angermünde,Schilderwald,,Die Uckermark steht auf,https://t.me/frieden_freiheit_souveraenitaet
 76310,DE,2022-12-25,10:00:00,16303,Schwedt/Oder,B2/Richtung Angermünde,Schilderwald,,,https://t.me/frieden_freiheit_souveraenitaet
+76330,DE,2022-12-25,10:00:00,16303,Schwedt/Oder,B2/Richtung Angermünde,Schilderwald,,Die Uckermark steht auf,https://t.me/frieden_freiheit_souveraenitaet
+76338,DE,2022-12-25,17:00:00,16303,Schwedt/Oder,Vierradener Platz,Konzert,,Die Uckermark steht auf,https://t.me/frieden_freiheit_souveraenitaet
 73995,DE,2022-12-25,19:00:00,01809,Heidenau,Markt,Demonstration,,unbekannt,
 76216,DE,2022-12-26,18:00:00,88069,Tettnang,Rathaus,Spaziergang,,,
 76327,DE,2022-12-26,18:00:00,17291,Prenzlau,Marktberg,Spaziergang,,Uckermark steht auf,https://t.me/frieden_freiheit_souveraenitaet
