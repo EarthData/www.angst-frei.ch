@@ -2,13 +2,19 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 76395,DE,2023-01-08,15:00:00,40213,Düsseldorf,Johannes Rauplatz,Demonstration,,,
 76398,DE,2023-01-09,18:00:00,95643,Tirschenreuth,Maximilianplatz,Demonstration,,Privat,
 76399,DE,2023-01-09,18:00:00,75334,Straubenhardt-Feldrennach,Rathaus,Spaziergang,,,
+76405,DE,2023-01-09,18:00:00,74821,Mosbach,Marktplatz,Spaziergang,,,
 76397,DE,2023-01-09,18:00:00,76829,Landau,Untertorplatz,Spaziergang,,,
+76406,DE,2023-01-09,18:00:00,14612,Falkensee,alte Stadthalle,Spaziergang,,FREIHEITS-FALKEN,www.Freiheits-falken.de
 76396,DE,2023-01-09,18:00:00,27576,Bremerhaven,Ernst-Reuter-Platz,Spaziergang,,Gemeinsam stark Bremerhaven,
 76384,DE,2023-01-09,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,https://www.bonn-zeigt-gesicht.de/
 76392,DE,2023-01-09,18:30:00,25421,Pinneberg,Rathaus,Spaziergang,,,
+76400,DE,2023-01-10,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Team Menschenrechte,
+76403,DE,2023-01-11,18:00:00,81735,München,Michaelibad,Aufzug,,München-steht-auf,www.muenchen-steht-auf.de
+76404,DE,2023-01-11,19:00:00,06618,Naumburg,Vogelwiese,Demonstration,,Naumburg zeigt Gesicht!,
 76303,DE,2023-01-14,14:00:00,63739,Aschaffenburg,Theaterplatz,Aufzug,,,
 76385,DE,2023-01-16,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,https://www.bonn-zeigt-gesicht.de/
 76333,DE,2023-01-17,18:30:00,83119,Obing,Rathaus / Gemeinde,Spaziergang,,,
+76402,DE,2023-01-17,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Team Menschenrechte,
 76386,DE,2023-01-23,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,https://www.bonn-zeigt-gesicht.de/
 76387,DE,2023-01-30,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,https://www.bonn-zeigt-gesicht.de/
 76255,DE,2023-02-01,00:00:00,00000,Demokalender,Internet,Abschied,,Demo Terminkalender,
