@@ -1,20 +1,20 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite,latitude,longitude,created
-76398,DE,2023-01-09,18:00:00,95643,Tirschenreuth,Maximilianplatz,Demonstration,,Privat,,49.8781773,12.3370103,2023-01-09 11:07:28
-76399,DE,2023-01-09,18:00:00,75334,Straubenhardt-Feldrennach,Rathaus,Spaziergang,,,,48.8553756,8.5312982,2023-01-09 11:07:28
-76405,DE,2023-01-09,18:00:00,74821,Mosbach,Marktplatz,Spaziergang,,,,49.3520702,9.14599272838258,2023-01-09 11:07:28
-76397,DE,2023-01-09,18:00:00,76829,Landau,Untertorplatz,Spaziergang,,,,49.199927,8.1154073,2023-01-09 11:07:28
-76406,DE,2023-01-09,18:00:00,14612,Falkensee,alte Stadthalle,Spaziergang,,FREIHEITS-FALKEN,www.Freiheits-falken.de,52.56275875,13.093813390566144,2023-01-09 11:07:28
-76396,DE,2023-01-09,18:00:00,27576,Bremerhaven,Ernst-Reuter-Platz,Spaziergang,,Gemeinsam stark Bremerhaven,,53.55782845,8.586232119868328,2023-01-09 11:07:28
-76384,DE,2023-01-09,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,https://www.bonn-zeigt-gesicht.de/,50.735851,7.10066,2023-01-09 11:07:28
-76392,DE,2023-01-09,18:30:00,25421,Pinneberg,Rathaus,Spaziergang,,,,53.6618728,9.7977301,2023-01-09 11:07:28
-76400,DE,2023-01-10,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Team Menschenrechte,,49.5846823,11.0095332,2023-01-09 11:07:28
-76403,DE,2023-01-11,18:00:00,81735,München,Michaelibad,Aufzug,,München-steht-auf,www.muenchen-steht-auf.de,48.1183485,11.6318229,2023-01-09 11:07:28
-76404,DE,2023-01-11,19:00:00,6618,Naumburg,Vogelwiese,Demonstration,,Naumburg zeigt Gesicht!,,51.1485343,11.814797799901335,2023-01-09 11:07:28
-76407,DE,2023-01-13,17:30:00,76133,Karlsruhe,Marktplatz,Aufzug,,s. unter Info vorne - t.me/grundrechte_jetzt,,49.0096898,8.4020536,2023-01-09 11:07:28
-76303,DE,2023-01-14,14:00:00,63739,Aschaffenburg,Theaterplatz,Aufzug,,,,49.9739464,9.144681529296992,2023-01-09 11:07:28
-76385,DE,2023-01-16,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,https://www.bonn-zeigt-gesicht.de/,50.735851,7.10066,2023-01-09 11:07:28
-76333,DE,2023-01-17,18:30:00,83119,Obing,Rathaus / Gemeinde,Spaziergang,,,,47.9990609,12.4054592,2023-01-09 11:07:28
-76402,DE,2023-01-17,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Team Menschenrechte,,49.5846823,11.0095332,2023-01-09 11:07:28
-76386,DE,2023-01-23,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,https://www.bonn-zeigt-gesicht.de/,50.735851,7.10066,2023-01-09 11:07:28
-76387,DE,2023-01-30,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,https://www.bonn-zeigt-gesicht.de/,50.735851,7.10066,2023-01-09 11:07:28
-76255,DE,2023-02-01,00:00:00,0,Demokalender,Internet,Abschied,,Demo Terminkalender,,52.5649883,13.3236123,2023-01-09 11:07:28
+76398,DE,2023-01-09,18:00:00,95643,Tirschenreuth,Maximilianplatz,Demonstration,,Privat,,49.8781773,12.3370103,2023-01-09 12:07:28
+76399,DE,2023-01-09,18:00:00,75334,Straubenhardt-Feldrennach,Rathaus,Spaziergang,,,,48.8553756,8.5312982,2023-01-09 12:07:28
+76405,DE,2023-01-09,18:00:00,74821,Mosbach,Marktplatz,Spaziergang,,,,49.3520702,9.14599272838258,2023-01-09 12:07:28
+76397,DE,2023-01-09,18:00:00,76829,Landau,Untertorplatz,Spaziergang,,,,49.199927,8.1154073,2023-01-09 12:07:28
+76406,DE,2023-01-09,18:00:00,14612,Falkensee,alte Stadthalle,Spaziergang,,FREIHEITS-FALKEN,www.Freiheits-falken.de,52.56275875,13.093813390566144,2023-01-09 12:07:28
+76396,DE,2023-01-09,18:00:00,27576,Bremerhaven,Ernst-Reuter-Platz,Spaziergang,,Gemeinsam stark Bremerhaven,,53.55782845,8.586232119868328,2023-01-09 12:07:28
+76384,DE,2023-01-09,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,https://www.bonn-zeigt-gesicht.de/,50.735851,7.10066,2023-01-09 12:07:28
+76392,DE,2023-01-09,18:30:00,25421,Pinneberg,Rathaus,Spaziergang,,,,53.6618728,9.7977301,2023-01-09 12:07:28
+76400,DE,2023-01-10,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Team Menschenrechte,,49.5846823,11.0095332,2023-01-09 12:07:28
+76403,DE,2023-01-11,18:00:00,81735,München,Michaelibad,Aufzug,,München-steht-auf,www.muenchen-steht-auf.de,48.1183485,11.6318229,2023-01-09 12:07:28
+76404,DE,2023-01-11,19:00:00,6618,Naumburg,Vogelwiese,Demonstration,,Naumburg zeigt Gesicht!,,51.1485343,11.814797799901335,2023-01-09 12:07:28
+76407,DE,2023-01-13,17:30:00,76133,Karlsruhe,Marktplatz,Aufzug,,s. unter Info vorne - t.me/grundrechte_jetzt,,49.0096898,8.4020536,2023-01-09 12:07:28
+76303,DE,2023-01-14,14:00:00,63739,Aschaffenburg,Theaterplatz,Aufzug,,,,49.9739464,9.144681529296992,2023-01-09 12:07:28
+76385,DE,2023-01-16,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,https://www.bonn-zeigt-gesicht.de/,50.735851,7.10066,2023-01-09 12:07:28
+76333,DE,2023-01-17,18:30:00,83119,Obing,Rathaus / Gemeinde,Spaziergang,,,,47.9990609,12.4054592,2023-01-09 12:07:28
+76402,DE,2023-01-17,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Team Menschenrechte,,49.5846823,11.0095332,2023-01-09 12:07:28
+76386,DE,2023-01-23,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,https://www.bonn-zeigt-gesicht.de/,50.735851,7.10066,2023-01-09 12:07:28
+76387,DE,2023-01-30,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,https://www.bonn-zeigt-gesicht.de/,50.735851,7.10066,2023-01-09 12:07:28
+76255,DE,2023-02-01,00:00:00,0,Demokalender,Internet,Abschied,,Demo Terminkalender,,52.5649883,13.3236123,2023-01-09 12:07:28
