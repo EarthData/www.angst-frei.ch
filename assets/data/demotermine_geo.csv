@@ -1,29 +1,29 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite,latitude,longitude,created
-76403,DE,2023-01-11,18:00:00,81735,München,Michaelibad,Aufzug,,München-steht-auf,www.muenchen-steht-auf.de,48.1183485,11.6318229,2023-01-11 07:09:07
-76404,DE,2023-01-11,19:00:00,06618,Naumburg,Vogelwiese,Demonstration,,Naumburg zeigt Gesicht!,,51.1485343,11.814821395768137,2023-01-11 07:09:07
-76415,DE,2023-01-12,11:30:00,91052,Erlangen,Schlossplatz,Versammlung,,Team Menschenrechte,,49.59783955,11.004107225125175,2023-01-11 07:09:07
-76416,DE,2023-01-12,11:45:00,91052,Erlangen,Schlossplatz,Aufzug,,Team Menschenrechte,,49.59783955,11.004107225125175,2023-01-11 07:09:07
-76417,DE,2023-01-12,12:30:00,91052,Erlangen,Besiktasplatz,Kundgebung,,Team Menschenrecht.,,49.59155345,11.00550590870212,2023-01-11 07:09:07
-76422,DE,2023-01-12,14:30:00,91052,Erlangen,Berliner Platz Park,Vortrag,,Privat,,49.5928616,11.0056,2023-01-11 07:09:07
-76407,DE,2023-01-13,17:30:00,76133,Karlsruhe,Marktplatz,Aufzug,,s. unter Info vorne - t.me/grundrechte_jetzt,,49.0096898,8.4020536,2023-01-11 07:09:07
-76423,DE,2023-01-14,10:30:00,83209,Prien am Chiemsee,Am Sportplatz,Schilderwald,,,,47.8425045,12.349576,2023-01-11 07:09:07
-76303,DE,2023-01-14,14:00:00,63739,Aschaffenburg,Theaterplatz,Aufzug,,,,49.9739464,9.144681529296992,2023-01-11 07:09:07
-76408,DE,2023-01-16,18:00:00,76829,Landau,Untertorplatz,Spaziergang,,,,49.199927,8.1154073,2023-01-11 07:09:07
-76385,DE,2023-01-16,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,https://www.bonn-zeigt-gesicht.de/,50.735851,7.10066,2023-01-11 07:09:07
-76410,DE,2023-01-16,18:30:00,67547,Worms,Lutherdenkmal,Spaziergang,,,,49.6322834,8.360071651284898,2023-01-11 07:09:07
-76426,DE,2023-01-16,18:30:00,83119,Obing,Rathaus,Spaziergang,,,,48.0361999,12.4622534,2023-01-11 07:09:07
-76333,DE,2023-01-17,18:30:00,83119,Obing,Rathaus / Gemeinde,Spaziergang,,,,47.9990609,12.4054592,2023-01-11 07:09:07
-76402,DE,2023-01-17,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Team Menschenrechte,,49.5846823,11.0095332,2023-01-11 07:09:07
-76424,DE,2023-01-21,10:30:00,83209,Prien am Chiemsee,Am Sportplatz,Schilderwald,,,,47.8425045,12.349576,2023-01-11 07:09:07
-76386,DE,2023-01-23,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,https://www.bonn-zeigt-gesicht.de/,50.735851,7.10066,2023-01-11 07:09:07
-76411,DE,2023-01-23,18:30:00,67547,Worms,Lutherdenkmal,Spaziergang,,,,49.6322834,8.360071651284898,2023-01-11 07:09:07
-76413,DE,2023-01-24,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Erlanger Widerstand,,49.5846823,11.0095332,2023-01-11 07:09:07
-76421,DE,2023-01-27,13:00:00,91052,Erlangen,Berliner Platz Park,Bürgerkrieg,,Johann Friedrich Koch,,49.5928616,11.0056,2023-01-11 07:09:07
-76425,DE,2023-01-28,10:30:00,83209,Prien am Chiemsee,Am Sportplatz,Schilderwald,,,,47.8425045,12.349576,2023-01-11 07:09:07
-76419,DE,2023-01-30,15:00:00,91052,Erlangen,Berliner Platz Park,Musik,,Privat,,49.5928616,11.0056,2023-01-11 07:09:07
-76420,DE,2023-01-30,16:00:00,91052,Erlangen,Berliner Platz Park,Vortrag,,Privat,,49.5928616,11.0056,2023-01-11 07:09:07
-76387,DE,2023-01-30,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,https://www.bonn-zeigt-gesicht.de/,50.735851,7.10066,2023-01-11 07:09:07
-76412,DE,2023-01-30,18:30:00,67547,Worms,Lutherdenkmal,Spaziergang,,,,49.6322834,8.360071651284898,2023-01-11 07:09:07
-76414,DE,2023-01-31,18:30:00,91ü52,Erlangen,Ohmplatz,Aufzug,,Erlanger Widerstand,,,,2023-01-11 07:09:07
-76418,DE,2023-01-31,23:30:00,91052,Erlangen,Ohmplatz,Musik,,U1 Area,,49.5846823,11.0095332,2023-01-11 07:09:07
-76255,DE,2023-02-01,00:00:00,00000,Demokalender,Internet,Abschied,,Demo Terminkalender,,,,2023-01-11 07:09:07
+76403,DE,2023-01-11,18:00:00,81735,München,Michaelibad,Aufzug,,München-steht-auf,www.muenchen-steht-auf.de,48.1183485,11.6318229,2023-01-11 08:09:08
+76404,DE,2023-01-11,19:00:00,06618,Naumburg,Vogelwiese,Demonstration,,Naumburg zeigt Gesicht!,,51.1485343,11.814821395768137,2023-01-11 08:09:08
+76415,DE,2023-01-12,11:30:00,91052,Erlangen,Schlossplatz,Versammlung,,Team Menschenrechte,,49.59783955,11.004107225125175,2023-01-11 08:09:08
+76416,DE,2023-01-12,11:45:00,91052,Erlangen,Schlossplatz,Aufzug,,Team Menschenrechte,,49.59783955,11.004107225125175,2023-01-11 08:09:08
+76417,DE,2023-01-12,12:30:00,91052,Erlangen,Besiktasplatz,Kundgebung,,Team Menschenrecht.,,49.59155345,11.00550590870212,2023-01-11 08:09:08
+76422,DE,2023-01-12,14:30:00,91052,Erlangen,Berliner Platz Park,Vortrag,,Privat,,49.5928616,11.0056,2023-01-11 08:09:08
+76407,DE,2023-01-13,17:30:00,76133,Karlsruhe,Marktplatz,Aufzug,,s. unter Info vorne - t.me/grundrechte_jetzt,,49.0096898,8.4020536,2023-01-11 08:09:08
+76423,DE,2023-01-14,10:30:00,83209,Prien am Chiemsee,Am Sportplatz,Schilderwald,,,,47.8425045,12.349576,2023-01-11 08:09:08
+76303,DE,2023-01-14,14:00:00,63739,Aschaffenburg,Theaterplatz,Aufzug,,,,49.9739464,9.144681529296992,2023-01-11 08:09:08
+76408,DE,2023-01-16,18:00:00,76829,Landau,Untertorplatz,Spaziergang,,,,49.199927,8.1154073,2023-01-11 08:09:08
+76385,DE,2023-01-16,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,https://www.bonn-zeigt-gesicht.de/,50.735851,7.10066,2023-01-11 08:09:08
+76410,DE,2023-01-16,18:30:00,67547,Worms,Lutherdenkmal,Spaziergang,,,,49.6322834,8.360071651284898,2023-01-11 08:09:08
+76426,DE,2023-01-16,18:30:00,83119,Obing,Rathaus,Spaziergang,,,,48.0361999,12.4622534,2023-01-11 08:09:08
+76333,DE,2023-01-17,18:30:00,83119,Obing,Rathaus / Gemeinde,Spaziergang,,,,47.9990609,12.4054592,2023-01-11 08:09:08
+76402,DE,2023-01-17,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Team Menschenrechte,,49.5846823,11.0095332,2023-01-11 08:09:08
+76424,DE,2023-01-21,10:30:00,83209,Prien am Chiemsee,Am Sportplatz,Schilderwald,,,,47.8425045,12.349576,2023-01-11 08:09:08
+76386,DE,2023-01-23,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,https://www.bonn-zeigt-gesicht.de/,50.735851,7.10066,2023-01-11 08:09:08
+76411,DE,2023-01-23,18:30:00,67547,Worms,Lutherdenkmal,Spaziergang,,,,49.6322834,8.360071651284898,2023-01-11 08:09:08
+76413,DE,2023-01-24,18:30:00,91052,Erlangen,Ohmplatz,Aufzug,,Erlanger Widerstand,,49.5846823,11.0095332,2023-01-11 08:09:08
+76421,DE,2023-01-27,13:00:00,91052,Erlangen,Berliner Platz Park,Bürgerkrieg,,Johann Friedrich Koch,,49.5928616,11.0056,2023-01-11 08:09:08
+76425,DE,2023-01-28,10:30:00,83209,Prien am Chiemsee,Am Sportplatz,Schilderwald,,,,47.8425045,12.349576,2023-01-11 08:09:08
+76419,DE,2023-01-30,15:00:00,91052,Erlangen,Berliner Platz Park,Musik,,Privat,,49.5928616,11.0056,2023-01-11 08:09:08
+76420,DE,2023-01-30,16:00:00,91052,Erlangen,Berliner Platz Park,Vortrag,,Privat,,49.5928616,11.0056,2023-01-11 08:09:08
+76387,DE,2023-01-30,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,https://www.bonn-zeigt-gesicht.de/,50.735851,7.10066,2023-01-11 08:09:08
+76412,DE,2023-01-30,18:30:00,67547,Worms,Lutherdenkmal,Spaziergang,,,,49.6322834,8.360071651284898,2023-01-11 08:09:08
+76414,DE,2023-01-31,18:30:00,91ü52,Erlangen,Ohmplatz,Aufzug,,Erlanger Widerstand,,,,2023-01-11 08:09:08
+76418,DE,2023-01-31,23:30:00,91052,Erlangen,Ohmplatz,Musik,,U1 Area,,49.5846823,11.0095332,2023-01-11 08:09:08
+76255,DE,2023-02-01,00:00:00,00000,Demokalender,Internet,Abschied,,Demo Terminkalender,,,,2023-01-11 08:09:08
