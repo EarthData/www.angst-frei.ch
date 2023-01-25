@@ -1,5 +1,6 @@
 id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,webseite
 76471,DE,2023-01-25,17:30:00,70173,Stuttgart,Karlsplatz,Aufzug,,Privat,
+76480,DE,2023-01-25,18:30:00,74936,Siegelsbach,Platz vor dem Rathaus,Spaziergang,,,
 76474,DE,2023-01-25,19:00:00,06618,Naumburg,Vogelwiese,Demonstration,,Naumburg zeigt Gesicht!,
 76479,DE,2023-01-26,18:00:00,76131,Karlsruhe,BVG–westl. Schloß,Zusammenkunft,,s. unter Info vorne-privat,
 76421,DE,2023-01-27,13:00:00,91052,Erlangen,Berliner Platz Park,Bürgerkrieg,,Johann Friedrich Koch,
@@ -16,6 +17,7 @@ id,land,datum,uhrzeit,postleitzahl,stadt,treffpunkt,protestform,livestream,orga,
 76387,DE,2023-01-30,18:00:00,53111,Bonn,Marktplatz Ecke Wenzelgasse,Spaziergang,,Bonn zeigt Gesicht,https://www.bonn-zeigt-gesicht.de/
 76460,DE,2023-01-30,18:30:00,67547,Worms,Lutherdenkmal,Spaziergang,,,
 76412,DE,2023-01-30,18:30:00,67547,Worms,Lutherdenkmal,Spaziergang,,,
+76481,DE,2023-01-30,18:30:00,25421,Pinneberg,Rathaus,Spaziergang,,,
 76467,DE,2023-01-31,18:00:00,76275,Ettlingen,Huttenkr.str-Dickhäuterpl.-REA,Aufzug,,s. unter Info vorne,
 76414,DE,2023-01-31,18:30:00,91ü52,Erlangen,Ohmplatz,Aufzug,,Erlanger Widerstand,
 76418,DE,2023-01-31,23:30:00,91052,Erlangen,Ohmplatz,Musik,,U1 Area,
